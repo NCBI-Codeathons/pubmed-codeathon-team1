@@ -15,10 +15,10 @@ This is a list of all the pmids for the terms we're interested in. Here's what t
 ## ABSTRACT
 The goal of PubMed JUST RETRIEVER is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (date sort algorithm) . The focus for this project is to answer the following research questions:
 
-RQ1: Is there a correlation between various author attributes and retrieved best match search results?
-RQ2: Is there a difference between search results between best search and date order search by author attributes?
-RQ3: Is there a correlation between various publication attributes and retrieved best match search results?
-RQ4: Is there a difference between search results between best search vs. date order search by Publication Attributes?
+* RQ1: Is there a correlation between various author attributes and retrieved best match search results?
+* RQ2: Is there a difference between search results between best search and date order search by author attributes?
+* RQ3: Is there a correlation between various publication attributes and retrieved best match search results?
+* RQ4: Is there a difference between search results between best search vs. date order search by Publication Attributes?
 
 The author attributes that were considered are: gender, race, institutional affiliation, country of origin, and author authority (e.g. research impact based on number of hits). The publication attributes that were considered are: NIH funding, language of publication, reading level, diversity of references, associated data, and number of authors and affiliations.
 
