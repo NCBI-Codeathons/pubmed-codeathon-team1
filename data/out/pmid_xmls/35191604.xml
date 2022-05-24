@@ -1,0 +1,315 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35191604</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>03</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>03</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1522-7278</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>37</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Environmental toxicology</Title>
+          <ISOAbbreviation>Environ Toxicol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>ABCA8 inhibits breast cancer cell proliferation by regulating the AMP activated protein kinase/mammalian target of rapamycin signaling pathway.</ArticleTitle>
+        <Pagination>
+          <StartPage>1423</StartPage>
+          <EndPage>1431</EndPage>
+          <MedlinePgn>1423-1431</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/tox.23495</ELocationID>
+        <Abstract>
+          <AbstractText>ATP-binding cassette (ABC) subfamily A member 8 (ABCA8) has been reported to play a vital role in cancer development. Our study aimed to explore the role and the molecular mechanism of ABCA8 in breast cancer (BC) progression. GSE65194, GSE15852, and GSE45827 datasets were used to identify differentially expressed genes (DEGs) in BC. The diagnosis and prognosis value were determined using ROC curve analysis and Kaplan-Meier plotter, respectively. The relationship between ABCA8 expression and clinicopathological features in BC was analyzed by TCGA. Co-expressed genes of ABCA8 in BC were screened out through GEPIA and subjected to KEGG pathway enrichment analysis. Cell proliferation was evaluated by CCK-8 and EdU incorporation assays. Proliferating cell nuclear antigen (PCNA) expression and the changes of the AMP activated protein kinase (AMPK)/mammalian target of rapamycin (mTOR) pathway were measured by western blot analysis. Totally 4 overlapping DEGs were identified and all reduced in BC samples. ABCA8 with high diagnostic and prognostic values was selected for further exploration. Low ABCA8 expression was correlated with clinicopathological features in BC patients. ABCA8 overexpression inhibited BC cell proliferation. The top 20 co-expressed genes of ABCA8 were identified by GEPIA and significantly enriched in AMPK signaling pathway. Inhibition of AMPK/mTOR pathway reversed the suppressive effect of ABCA8 on BC cell growth. These results suggested that ABCA8 overexpression repressed BC cell proliferation through regulating the AMPK/mTOR signaling pathway.</AbstractText>
+          <CopyrightInformation>© 2022 Wiley Periodicals LLC.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lv</LastName>
+            <ForeName>Chunliu</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Breast Tumor Plastic Surgery (Department of Head and Neck Surgery), Hunan Cancer Hospital and The Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University, Changsha, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Han</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Endocrinology, Nanshi Hospital of Nanyang, Nanyang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yu</LastName>
+            <ForeName>Jinsong</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thyroid and Breast Surgery, Nanyang First People's Hospital Affiliated to Henan University, Nanyang, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Thyroid Tumor Prevention and Treatment of Nanyang, Nanyang First People's Hospital Affiliated to Henan University, Nanyang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dai</LastName>
+            <ForeName>Xiaowei</ForeName>
+            <Initials>X</Initials>
+            <Identifier Source="ORCID">0000-0001-8804-2878</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Intensive Care Unit, Hunan Cancer Hospital and The Affiliated Cancer Hospital of Xiangya School of Medicine, Central South University, Changsha, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>22</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Environ Toxicol</MedlineTA>
+        <NlmUniqueID>100885357</NlmUniqueID>
+        <ISSNLinking>1520-4081</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C582675">ABCA8 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018528">ATP-Binding Cassette Transporters</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="D058570">TOR Serine-Threonine Kinases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.31</RegistryNumber>
+          <NameOfSubstance UI="D055372">AMP-Activated Protein Kinases</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D055372" MajorTopicYN="Y">AMP-Activated Protein Kinases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018528" MajorTopicYN="N">ATP-Binding Cassette Transporters</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001943" MajorTopicYN="Y">Breast Neoplasms</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D058570" MajorTopicYN="N">TOR Serine-Threonine Kinases</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">ABCA8</Keyword>
+        <Keyword MajorTopicYN="N">AMPK/mTOR signaling pathway</Keyword>
+        <Keyword MajorTopicYN="N">breast cancer</Keyword>
+        <Keyword MajorTopicYN="N">cell proliferation</Keyword>
+        <Keyword MajorTopicYN="N">prognosis</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>22</Day>
+          <Hour>8</Hour>
+          <Minute>41</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35191604</ArticleId>
+        <ArticleId IdType="doi">10.1002/tox.23495</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>REFERENCES</Title>
+        <Reference>
+          <Citation>Siegel RL, Miller KD, Jemal A. Cancer statistics, 2018. CA Cancer J Clin. 2018;68:7-30.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>DeSantis CE, Ma J, Goding Sauer A, Newman LA, Jemal A. Breast cancer statistics, 2017, racial disparity in mortality by state. CA Cancer J Clin. 2017;67:439-448.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2018;68:394-424.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Assi HA, Khoury KE, Dbouk H, Khalil LE, Mouhieddine TH, El Saghir NS. Epidemiology and prognosis of breast cancer in young women. J Thorac Dis. 2013;5(1):2-8.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>DeSantis CE, Fedewa SA, Goding Sauer A, Kramer JL, Smith RA, Jemal A. Breast cancer statistics, 2015: convergence of incidence rates between black and white women. CA Cancer J Clin. 2016;66:31-42.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hortobagyi GN, Stemmer SM, Burris HA, et al. Ribociclib as first-line therapy for HR-positive, advanced breast cancer. N Engl J Med. 2016;375:1738-1748.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>He MY, Rancoule C, Rehailia-Blanchard A, et al. Radiotherapy in triple-negative breast cancer: current situation and upcoming strategies. Crit Rev Oncol Hematol. 2018;131:96-101.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Annilo T, Chen ZQ, Shulenin S, Dean M. Evolutionary analysis of a cluster of ATP-binding cassette (ABC) genes. Mamm Genome. 2003;14:7-20.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dean M, Rzhetsky A, Allikmets R. The human ATP-binding cassette (ABC) transporter superfamily. Genome Res. 2001;11:1156-1166.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fletcher JI, Haber M, Henderson MJ, Norris MD. ABC transporters in cancer: more than just drug efflux pumps. Nat Rev Cancer. 2010;10:147-156.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nagase T, Ishikawa K, Suyama M, et al. Prediction of the coding sequences of unidentified human genes. XII. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro. DNA Res. 1998;5:355-364.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Trigueros-Motos L, van Capelleveen JC, Torta F, et al. ABCA8 regulates cholesterol efflux and high-density lipoprotein cholesterol levels. Arterioscler Thromb Vasc Biol. 2017;37:2147-2155.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dvorak P, Pesta M, Soucek P. ABC gene expression profiles have clinical importance and possibly form a new hallmark of cancer. Tumor Biol. 2017;39:1010428317699800.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liu X, Gao Y, Zhao B, et al. Discovery of microarray-identified genes associated with ovarian cancer progression. Int J Oncol. 2015;46:2467-2478.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Demidenko R, Razanauskas D, Daniunaite K, Lazutka JR, Jankevicius F, Jarmalaite S. Frequent down-regulation of ABC transporter genes in prostate cancer. BMC Cancer. 2015;15:683.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cui Y, Liang S, Zhang S, et al. ABCA8 is regulated by miR-374b-5p and inhibits proliferation and metastasis of hepatocellular carcinoma through the ERK/ZEB1 pathway. J Exp Clin Cancer Res. 2020;39:90.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Barrett T, Wilhite SE, Ledoux P, et al. NCBI GEO: archive for functional genomics data sets--update. Nucleic Acids Res. 2013;41:991-995.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Györffy B, Lanczky A, Eklund AC, et al. An online survival analysis tool to rapidly assess the effect of 22,277 genes on breast cancer prognosis using microarray data of 1,809 patients. Breast Cancer Res Treat. 2010;123:725-731.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tang Z, Li C, Kang B, Gao G, Li C, Zhang Z. GEPIA: a web server for cancer and normal gene expression profiling and interactive analyses. Nucleic Acids Res. 2017;45:98-102.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bu D, Luo H, Huo P, et al. KOBAS-i: intelligent prioritization and exploratory visualization of biological functions for gene enrichment analysis. Nucleic Acids Res. 2021;49:317-325.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Laplante M, Sabatini DM. mTOR signaling in growth control and disease. Cell. 2012;149:274-293.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xu L, Du J, Wan C, et al. Ultrasound molecular imaging of breast cancer in MCF-7 orthotopic mice using gold nanoshelled poly(lactic-co-glycolic acid) nanocapsules: a novel dual-targeted ultrasound contrast agent. Int J Nanomed. 2018;13:1791-1807.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Anastasiadi Z, Lianos GD, Ignatiadou E, Harissis HV, Mitsis M. Breast cancer in young women: an overview. Updates Surg. 2017;69:313-317.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Saad ED, Katz A, Buyse M. Overall survival and post-progression survival in advanced breast cancer: a review of recent randomized clinical trials. J Clin Oncol. 2010;28:1958-1962.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Alwan NAS, Mualla FH, Al Naqash M, Kathum S, Tawfiq FN, Nadhir S. Clinical and pathological characteristics of triple positive breast cancer among Iraqi patients. Gulf J Oncolog. 2017;1:51-60.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hedditch EL, Gao B, Russell AJ, et al. ABCA transporter gene expression and poor outcome in epithelial ovarian cancer. J Natl Cancer Inst. 2014;106:dju149.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Guo Y, Wang ZW. Prognostic value and immune infiltrates of ABCA8 and FABP4 in stomach adenocarcinoma. Biomed Res Int. 2020;2020:4145164.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Leprivier G, Rotblat B. How does mTOR sense glucose starvation? AMPK is the usual suspect. Cell Death Discov. 2020;6:27.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Faubert B, Vincent EE, Poffenberger MC, Jones RG. The AMP-activated protein kinase (AMPK) and cancer: many faces of a metabolic regulator. Cancer Lett. 2015;356:165-170.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jiang X, Tan HY, Teng S, Chan YT, Wang D, Wang N. The role of AMP-activated protein kinase as a potential target of treatment of hepatocellular carcinoma. Cancers (Basel). 2019;11:647.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>van Veelen W, Korsse SE, van de Laar L, Peppelenbosch MP. The long and winding road to rational treatment of cancer associated with LKB1/AMPK/TSC/mTORC1 signaling. Oncogene. 2011;30:2289-2303.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim I, He YY. Targeting the AMP-activated protein kinase for cancer prevention and therapy. Front Oncol. 2013;3:175.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Aljada A, Mousa SA. Metformin and neoplasia: implications and indications. Pharmacol Ther. 2012;133:108-115.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fodor T, Szántó M, Abdul-Rahman O, et al. Combined treatment of MCF-7 cells with AICAR and methotrexate, arrests cell cycle and reverses Warburg metabolism through AMP-activated protein kinase (AMPK) and FOXO1. PLoS One. 2016;11:e0150232.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tsai CH, Lii CK, Wang TS, et al. Docosahexaenoic acid promotes the formation of autophagosomes in MCF-7 breast cancer cells through oxidative stress-induced growth inhibitor 1 mediated activation of AMPK/mTOR pathway. Food Chem Toxicol. 2021;154:112318.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nascimento Mello AL, Sagrillo FS, de Souza AG, et al. Selective AMPK activator leads to unfolded protein response downregulation and induces breast cancer cell death and autophagy. Life Sci. 2021;276:119470.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee MG, Kwon YS, Nam KS, et al. Chaga mushroom extract induces autophagy via the AMPK-mTOR signaling pathway in breast cancer cells. J Ethnopharmacol. 2021;274:114081.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

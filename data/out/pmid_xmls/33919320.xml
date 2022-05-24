@@ -1,0 +1,242 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">33919320</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>05</Month>
+        <Day>03</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>05</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1424-8220</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>21</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Apr</Month>
+              <Day>21</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Sensors (Basel, Switzerland)</Title>
+          <ISOAbbreviation>Sensors (Basel)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Assessment of Dynamic Properties of Variable Area Flowmeters.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">2917</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/s21092917</ELocationID>
+        <Abstract>
+          <AbstractText>In previous works, a non-linear equation describing variable area (VA) flowmeters in transient was presented. The use of a full nonlinear equation, despite giving accurate results, can be difficult and time-consuming and it requires having specific software and knowledge at one's disposal. The goal of this paper was to simplify the existing model so that it could be used in applications where ease of use and ease of implementation are more important than accuracy. The existing model was linearized and simple formulae describing natural frequency and damping coefficients were derived. With these parameters, it is possible to assess the dynamic properties of a variable area flowmeter. The step response form can be identified and natural frequency and settling time can be estimated. The linearized model and the experiment were in reasonable agreement. The step response type was captured correctly for each of the six VA meter types. The error in the undamped natural frequency was not larger than 15%, which means that the VA meter sensor's dynamic properties can be predicted at the design stage with sufficient precision.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Turkowski</LastName>
+            <ForeName>Mateusz</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">0000-0002-1049-8223</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Mechatronics, Institute of Metrology and Biomedical Engineering, Warsaw University of Technology, 02-525 Warszawa, Poland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Szczecki</LastName>
+            <ForeName>Artur</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Mechatronics, Institute of Metrology and Biomedical Engineering, Warsaw University of Technology, 02-525 Warszawa, Poland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Szudarek</LastName>
+            <ForeName>Maciej</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">0000-0002-3214-9147</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Mechatronics, Institute of Metrology and Biomedical Engineering, Warsaw University of Technology, 02-525 Warszawa, Poland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Janiszowski</LastName>
+            <ForeName>Krzysztof</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Mechatronics, Institute of Automatics and Robotics, Warsaw University of Technology, 02-525 Warszawa, Poland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>04</Month>
+          <Day>21</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Sensors (Basel)</MedlineTA>
+        <NlmUniqueID>101204366</NlmUniqueID>
+        <ISSNLinking>1424-8220</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D045268" MajorTopicYN="Y">Flowmeters</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012984" MajorTopicYN="N">Software</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">flow sensors</Keyword>
+        <Keyword MajorTopicYN="N">industry 4.0</Keyword>
+        <Keyword MajorTopicYN="N">mathematical modeling</Keyword>
+        <Keyword MajorTopicYN="N">micro sensors</Keyword>
+        <Keyword MajorTopicYN="N">rotameters</Keyword>
+        <Keyword MajorTopicYN="N">variable area flowmeters</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>3</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>3</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>4</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>1</Hour>
+          <Minute>12</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">33919320</ArticleId>
+        <ArticleId IdType="pmc">PMC8122409</ArticleId>
+        <ArticleId IdType="doi">10.3390/s21092917</ArticleId>
+        <ArticleId IdType="pii">s21092917</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Newman P. The Internet of Things 2020: Here’s what over 400 IoT Decision-Makers Say about the Future of Enterprise Connectivity and How IoT Companies Can Use It to Grow Revenue.  [(accessed on 1 January 2021)];2020  Available online:  https://www.businessinsider.com/internet-of-things-report.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>He W., Yi J., Ma Y., Zhang W., Chen S., Min J., Yan S., Chen B., He L.  IOP Conference Series: Materials Science and Engineering. Volume 782. IOP Publishing; Bristol, UK: 2020. Development of Flowmeter with IoT Function.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/1757-899X/782/5/052039</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mandal N., Kumar B., Sarkar R., Bera S.C. Design of a flow transmitter using an improved inductance bridge network and rotameter as sensor. IEEE Trans. Instrum. Meas. 2014;63:3127–3136. doi: 10.1109/TIM.2014.2326770.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TIM.2014.2326770</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mandal N., Rajita G. An accurate technique of measurement of flow rate using rotameter as a primary sensor and an improved op-amp based network. Flow Meas. Instrum. 2017;58:38–45. doi: 10.1016/j.flowmeasinst.2017.09.014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.flowmeasinst.2017.09.014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ahn H.J., Kim K.R. 2D Hall sensor array for measuring the position of a magnet matrix. Int. J. Precis. Eng. Manuf. Green Technol. 2014;1:125–129. doi: 10.1007/s40684-014-0017-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s40684-014-0017-0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>García-Diego F.J., Sánchez-Quinche A., Merello P., Beltrán P., Peris C. Array of hall effect sensors for linear positioning of a magnet independently of its strength variation. A case study: Monitoring milk yield during milking in goats. Sensors. 2013;13:8000–8012. doi: 10.3390/s130608000.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s130608000</ArticleId>
+            <ArticleId IdType="pmc">PMC3715257</ArticleId>
+            <ArticleId IdType="pubmed">23793020</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mo B., Jiang F.Y., Zhang H.X.  Applied Mechanics and Materials. Volume 419. Trans Tech Publications Ltd; Baech, Switzerland: 2013. The Electronic part of the metal tube rotameter; pp. 661–666.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4028/www.scientific.net/AMM.419.661</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu C.Y., Lua A.C., Chan W.K., Wong Y.W. Theoretical and experimental investigations of a capacitance variable area flowmeter. Trans. Inst. Meas. Control. 1995;17:84–89. doi: 10.1177/014233129501700204.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/014233129501700204</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baker R.C., Sorbie I. A review of the impact of component variation in the manufacturing process on variable area (VA) flowmeter performance. Flow Meas. Instrum. 2001;12:101–112. doi: 10.1016/S0955-5986(01)00004-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0955-5986(01)00004-8</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang W., Zhang T., Xu Y., Wang H., Guo X., Lei J., Sang P. The effects of fluid viscosity on the orifice rotameter. Meas. Sci. Rev. 2016;16:87–95. doi: 10.1515/msr-2016-0012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1515/msr-2016-0012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baker R.C. The impact of component variation in the manufacturing process on variable area (VA) flowmeter performance. Flow Meas. Instrum. 2004;15:207–213. doi: 10.1016/j.flowmeasinst.2004.03.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.flowmeasinst.2004.03.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Turkowski M., Szczecki A., Szudarek M. Minimization of the settling time of variable area flowmeters. Sensors. 2019;19:530.  doi: 10.3390/s19030530.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s19030530</ArticleId>
+            <ArticleId IdType="pmc">PMC6386847</ArticleId>
+            <ArticleId IdType="pubmed">30691238</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baker R.C.  Flow Measurement Handbook: Industrial Designs, Operating Principles, Performance and Applications. Cambridge University Press; Cambridge, UK: 2016. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Vinuesa R., Schlatter P., Nagib H.M. Secondary flow in turbulent ducts with increasing aspect ratio. Phys. Rev. Fluids. 2018;3:54606. doi: 10.1103/PhysRevFluids.3.054606.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1103/PhysRevFluids.3.054606</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aström K.J., Albertos P., Blanke M., Isidori A., Schaufelberger W., Sanz R.  Control of Complex Systems. Springer Science &amp; Business Media; Berlin/Heidelberg, Germany: 2011. </Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

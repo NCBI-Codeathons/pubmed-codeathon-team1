@@ -1,0 +1,806 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35565326</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Print">2072-6694</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>14</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Apr</Month>
+              <Day>28</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Cancers</Title>
+          <ISOAbbreviation>Cancers (Basel)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Metastatic Transition of Pancreatic Ductal Cell Adenocarcinoma Is Accompanied by the Emergence of Pro-Invasive Cancer-Associated Fibroblasts.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">2197</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/cancers14092197</ELocationID>
+        <Abstract>
+          <AbstractText>Cancer-associated fibroblasts (CAFs) are now appreciated as key regulators of cancer metastasis, particularly in cancers with high stromal content, e.g., pancreatic ductal cell carcinoma (PDAC). However, it is not yet well understood if fibroblasts are always primed to be cooperative in PDAC transition to metastasis, if they undergo transformation which ensures their cooperativity, and if such transformations are cancer-driven or intrinsic to fibroblasts. We performed a fibroblast-centric analysis of PDAC cancer, as it transitioned from the primary site to trespass stromal compartment reaching the lymph node using published single-cell RNA sequencing data by Peng et al. We have characterized the change in fibroblast response to cancer from a normal wound healing response in the initial stages to the emergence of subclasses with myofibroblast and inflammatory fibroblasts such as signatures. We have previously posited "Evolved Levels of Invasibility (ELI)", a framework describing the evolution of stromal invasability as a selected phenotype, which explains the large and correlated reduction in stromal invasion by placental trophoblasts and cancer cells in certain mammals. Within PDAC samples, we found large changes in fibroblast subclasses at succeeding stages of PDAC progression, with the emergence of specific subclasses when cancer trespasses stroma to metastasize to proximal lymph nodes (stage IIA to IIB). Surprisingly, we found that the initial metastatic transition is accompanied by downregulation of ELI-predicted pro-resistive genes, and the emergence of a subclass of fibroblasts with ELI-predicted increased invasibility. Interestingly, this trend was also observed in stellate cells. Using a larger cohort of bulk RNAseq data from The Cancer Genome Atlas for PDAC cancers, we confirmed that genes describing this emergent fibroblast subclass are also correlated with lymph node metastasis of cancer cells. Experimental testing of selected genes characterizing pro-resistive and pro-invasive fibroblast clusters confirmed their contribution in regulating stromal invasability as a phenotype. Our data confirm that the complexity of stromal response to cancer is really a function of stage-wise emergence of distinct fibroblast clusters, characterized by distinct gene sets which confer initially a predominantly pro-resistive and then a pro-invasive property to the stroma. Stromal response therefore transitions from being tumor-limiting to a pro-metastatic state, facilitating stromal trespass and the onset of metastasis.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Shaofei</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0003-4108-8590</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, University of Connecticut Health, Farmington, CT 06030, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Cell Analysis and Modeling, University of Connecticut Health, Farmington, CT 06030, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Suhail</LastName>
+            <ForeName>Yasir</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">0000-0002-1296-9738</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, University of Connecticut Health, Farmington, CT 06030, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Cell Analysis and Modeling, University of Connecticut Health, Farmington, CT 06030, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Novin</LastName>
+            <ForeName>Ashkan</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, University of Connecticut Health, Farmington, CT 06030, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Perpetua</LastName>
+            <ForeName>Lorrie</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Tissue Repository, University of Connecticut Health, Farmington, CT 06030, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kshitiz</LastName>
+            <Identifier Source="ORCID">0000-0003-4241-9427</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, University of Connecticut Health, Farmington, CT 06030, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Cell Analysis and Modeling, University of Connecticut Health, Farmington, CT 06030, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R37-CA248161</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>04</Month>
+          <Day>28</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Cancers (Basel)</MedlineTA>
+        <NlmUniqueID>101526829</NlmUniqueID>
+        <ISSNLinking>2072-6694</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">ELI</Keyword>
+        <Keyword MajorTopicYN="N">PDAC</Keyword>
+        <Keyword MajorTopicYN="N">cancer dissemination</Keyword>
+        <Keyword MajorTopicYN="N">cancer stroma</Keyword>
+        <Keyword MajorTopicYN="N">cancer stroma interaction</Keyword>
+        <Keyword MajorTopicYN="N">cancer-associated fibroblasts</Keyword>
+        <Keyword MajorTopicYN="N">fibroblast</Keyword>
+        <Keyword MajorTopicYN="N">initiation of metastasis</Keyword>
+        <Keyword MajorTopicYN="N">pancreatic ductal cell carcinoma</Keyword>
+        <Keyword MajorTopicYN="N">stromal invasibility</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no conflict of interest. </CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>24</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>14</Day>
+          <Hour>1</Hour>
+          <Minute>18</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35565326</ArticleId>
+        <ArticleId IdType="pmc">PMC9104173</ArticleId>
+        <ArticleId IdType="doi">10.3390/cancers14092197</ArticleId>
+        <ArticleId IdType="pii">cancers14092197</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Suhail Y., Cain M.P., Vanaja K., Kurywchak P.A., Levchenko A., Kalluri R., Kshitiz  Systems biology of cancer metastasis. Cell Syst. 2019;9:109–127. doi: 10.1016/j.cels.2019.07.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cels.2019.07.003</ArticleId>
+            <ArticleId IdType="pmc">PMC6716621</ArticleId>
+            <ArticleId IdType="pubmed">31465728</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Padmanaban V., Krol I., Suhail Y., Szczerba B.M., Aceto N., Bader J.S., Ewald A.J. E-cadherin is required for metastasis in multiple models of breast cancer. Nature. 2019;573:439–444. doi: 10.1038/s41586-019-1526-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-019-1526-3</ArticleId>
+            <ArticleId IdType="pmc">PMC7365572</ArticleId>
+            <ArticleId IdType="pubmed">31485072</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kang S.H., Oh S.Y., Lee H.J., Kwon T.G., Kim J.W., Lee S.T., Choi S.Y., Hong S.H. Cancer-associated fibroblast subgroups showing differential promoting effect on hnscc progression. Cancers. 2021;13:654.  doi: 10.3390/cancers13040654.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cancers13040654</ArticleId>
+            <ArticleId IdType="pmc">PMC7915931</ArticleId>
+            <ArticleId IdType="pubmed">33562096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mizutani Y., Kobayashi H., Iida T., Asai N., Masamune A., Hara A., Esaki N., Ushida K., Mii S., Shiraki Y., et al.  Meflin-positive cancer-associated fibroblasts inhibit pancreatic carcinogenesis. Cancer Res. 2019;79:5367–5381. doi: 10.1158/0008-5472.CAN-19-0454.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-19-0454</ArticleId>
+            <ArticleId IdType="pubmed">31439548</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hwang R.F., Moore T., Arumugam T., Ramachandran V., Amos K.D., Rivera A., Ji B., Evans D.B., Logsdon C.D. Cancer-associated stromal fibroblasts promote pancreatic tumor progression. Cancer Res. 2008;68:918–926. doi: 10.1158/0008-5472.CAN-07-5714.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-07-5714</ArticleId>
+            <ArticleId IdType="pmc">PMC2519173</ArticleId>
+            <ArticleId IdType="pubmed">18245495</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gore J., Korc M. Pancreatic cancer stroma: Friend or foe? Cancer Cell. 2014;25:711–712. doi: 10.1016/j.ccr.2014.05.026.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ccr.2014.05.026</ArticleId>
+            <ArticleId IdType="pmc">PMC4821630</ArticleId>
+            <ArticleId IdType="pubmed">24937454</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kshitiz , Afzal J., Maziarz J.D., Hamidzadeh A., Liang C., Erkenbrack E.M., Kim H.N., Haeger J.D., Pfarrer C., Hoang T., et al.  Evolution of placental invasion and cancer metastasis are causally linked. Nat. Ecol. Evol. 2019;3:1743–1753. doi: 10.1038/s41559-019-1046-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41559-019-1046-4</ArticleId>
+            <ArticleId IdType="pmc">PMC7340496</ArticleId>
+            <ArticleId IdType="pubmed">31768023</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wagner G.P., Kshitiz , Dighe A., Levchenko A. The coevolution of placentation and cancer. Annu. Rev. Anim. Biosci. 2021;10:259–279. doi: 10.1146/annurev-animal-020420-031544.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-animal-020420-031544</ArticleId>
+            <ArticleId IdType="pubmed">34780249</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wagner G.P., Kshitiz , Levchenko A. Comments on boddy et al. 2020: Available data suggest positive relationship between placental invasion and malignancy. Evol. Med. Public Health. 2020;2020:211–214. doi: 10.1093/emph/eoaa024.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/emph/eoaa024</ArticleId>
+            <ArticleId IdType="pmc">PMC7658548</ArticleId>
+            <ArticleId IdType="pubmed">33214901</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Suhail Y., Afzal J., Kshitiz  Evolved resistance to placental invasion secondarily confers increased survival in melanoma patients. J. Clin. Med. 2021;10:595.  doi: 10.3390/jcm10040595.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/jcm10040595</ArticleId>
+            <ArticleId IdType="pmc">PMC7915120</ArticleId>
+            <ArticleId IdType="pubmed">33562461</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reza K.K., Dey S., Wuethrich A., Jing W., Behren A., Antaw F., Wang Y., Sina A.A., Trau M. In Situ single cell proteomics reveals circulating tumor cell heterogeneity during treatment. ACS Nano. 2021;15:11231–11243. doi: 10.1021/acsnano.0c10008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acsnano.0c10008</ArticleId>
+            <ArticleId IdType="pubmed">34225455</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Atta L., Fan J. Computational challenges and opportunities in spatially resolved transcriptomic data analysis. Nat. Commun. 2021;12:5283. doi: 10.1038/s41467-021-25557-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-021-25557-9</ArticleId>
+            <ArticleId IdType="pmc">PMC8421472</ArticleId>
+            <ArticleId IdType="pubmed">34489425</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fan J., Slowikowski K., Zhang F. Single-cell transcriptomics in cancer: Computational challenges and opportunities. Exp. Mol. Med. 2020;52:1452–1465. doi: 10.1038/s12276-020-0422-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s12276-020-0422-0</ArticleId>
+            <ArticleId IdType="pmc">PMC8080633</ArticleId>
+            <ArticleId IdType="pubmed">32929226</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dong M., Thennavan A., Urrutia E., Li Y., Perou C.M., Zou F., Jiang Y. Scdc: Bulk gene expression deconvolution by multiple single-cell rna sequencing references. Brief. Bioinform. 2021;22:416–427. doi: 10.1093/bib/bbz166.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bib/bbz166</ArticleId>
+            <ArticleId IdType="pmc">PMC7820884</ArticleId>
+            <ArticleId IdType="pubmed">31925417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jin H., Liu Z. A benchmark for rna-seq deconvolution analysis under dynamic testing environments. Genome Biol. 2021;22:102. doi: 10.1186/s13059-021-02290-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13059-021-02290-6</ArticleId>
+            <ArticleId IdType="pmc">PMC8042713</ArticleId>
+            <ArticleId IdType="pubmed">33845875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hosein A.N., Brekken R.A., Maitra A. Pancreatic cancer stroma: An update on therapeutic targeting strategies. Nat. Rev. Gastroenterol. Hepatol. 2020;17:487–505. doi: 10.1038/s41575-020-0300-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41575-020-0300-1</ArticleId>
+            <ArticleId IdType="pmc">PMC8284850</ArticleId>
+            <ArticleId IdType="pubmed">32393771</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peng J., Sun B.F., Chen C.Y., Zhou J.Y., Chen Y.S., Chen H., Liu L., Huang D., Jiang J., Cui G.S., et al.  Single-cell rna-seq highlights intra-tumoral heterogeneity and malignant progression in pancreatic ductal adenocarcinoma. Cell Res. 2019;29:725–738. doi: 10.1038/s41422-019-0195-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41422-019-0195-y</ArticleId>
+            <ArticleId IdType="pmc">PMC6796938</ArticleId>
+            <ArticleId IdType="pubmed">31273297</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thomas D., Radhakrishnan P. Tumor-stromal crosstalk in pancreatic cancer and tissue fibrosis. Mol. Cancer. 2019;18:14. doi: 10.1186/s12943-018-0927-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12943-018-0927-5</ArticleId>
+            <ArticleId IdType="pmc">PMC6341551</ArticleId>
+            <ArticleId IdType="pubmed">30665410</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rasheed Z.A., Matsui W., Maitra A.  Pathology of pancreatic stroma in PDAC. In: Grippo P.J., Munshi H.G., editors. Pancreatic Cancer and Tumor Microenvironment. Transworld Research Network; Trivandrum, India: 2012. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Suhail Y., Maziarz J.D., Novin A., Dighe A., Afzal J., Wagner G., Kshitiz  Tracing the cis-regulatory changes underlying the endometrial control of placental invasion. Proc. Natl. Acad. Sci. USA. 2022;119:e2111256119. doi: 10.1073/pnas.2111256119.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.2111256119</ArticleId>
+            <ArticleId IdType="pmc">PMC8832988</ArticleId>
+            <ArticleId IdType="pubmed">35110402</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stuart T., Butler A., Hoffman P., Hafemeister C., Papalexi E., Mauck W.M., 3rd, Hao Y., Stoeckius M., Smibert P., Satija R. Comprehensive integration of single-cell data. Cell. 2019;177:1888–1902.e21. doi: 10.1016/j.cell.2019.05.031.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2019.05.031</ArticleId>
+            <ArticleId IdType="pmc">PMC6687398</ArticleId>
+            <ArticleId IdType="pubmed">31178118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramilowski J.A., Goldberg T., Harshbarger J., Kloppmann E., Lizio M., Satagopam V.P., Itoh M., Kawaji H., Carninci P., Rost B., et al.  A draft network of ligand-receptor-mediated multicellular signalling in human. Nat. Commun. 2015;6:7866. doi: 10.1038/ncomms8866.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms8866</ArticleId>
+            <ArticleId IdType="pmc">PMC4525178</ArticleId>
+            <ArticleId IdType="pubmed">26198319</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krzywinski M., Schein J., Birol I., Connors J., Gascoyne R., Horsman D., Jones S.J., Marra M.A. Circos: An information aesthetic for comparative genomics. Genome Res. 2009;19:1639–1645. doi: 10.1101/gr.092759.109.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gr.092759.109</ArticleId>
+            <ArticleId IdType="pmc">PMC2752132</ArticleId>
+            <ArticleId IdType="pubmed">19541911</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Korotkevich G., Sukhov V., Budin N., Shpak B., Artyomov M.N., Sergushichev A. Fast gene set enrichment analysis. bioRxiv. 2021 
+in preprint
+.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wu T., Hu E., Xu S., Chen M., Guo P., Dai Z., Feng T., Zhou L., Tang W., Zhan L., et al.  Clusterprofiler 4.0: A universal enrichment tool for interpreting omics data. Innovation. 2021;2:100141. doi: 10.1016/j.xinn.2021.100141.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.xinn.2021.100141</ArticleId>
+            <ArticleId IdType="pmc">PMC8454663</ArticleId>
+            <ArticleId IdType="pubmed">34557778</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jassal B., Matthews L., Viteri G., Gong C., Lorente P., Fabregat A., Sidiropoulos K., Cook J., Gillespie M., Haw R., et al.  The reactome pathway knowledgebase. Nucleic Acids Res. 2020;48:D498–D503. doi: 10.1093/nar/gkz1031.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkz1031</ArticleId>
+            <ArticleId IdType="pmc">PMC7145712</ArticleId>
+            <ArticleId IdType="pubmed">31691815</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ernst J., Bar-Joseph Z. Stem: A tool for the analysis of short time series gene expression data. BMC Bioinform. 2006;7:191.  doi: 10.1186/1471-2105-7-191.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2105-7-191</ArticleId>
+            <ArticleId IdType="pmc">PMC1456994</ArticleId>
+            <ArticleId IdType="pubmed">16597342</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shin D.W., Kim J. The american joint committee on cancer 8th edition staging system for the pancreatic ductal adenocarcinoma: Is it better than the 7th edition? Hepatobiliary Surg. Nutr. 2020;9:98–100. doi: 10.21037/hbsn.2019.08.06.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.21037/hbsn.2019.08.06</ArticleId>
+            <ArticleId IdType="pmc">PMC7026799</ArticleId>
+            <ArticleId IdType="pubmed">32140490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Louault K., Li R.R., DeClerck Y.A. Cancer-associated fibroblasts: Understanding their heterogeneity. Cancers. 2020;12:3108.  doi: 10.3390/cancers12113108.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cancers12113108</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Werner S., Lutzkendorf J., Muller T., Muller L.P., Posern G. Mrtf-a controls myofibroblastic differentiation of human multipotent stromal cells and their tumour-supporting function in xenograft models. Sci. Rep. 2019;9:11725. doi: 10.1038/s41598-019-48142-z.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-019-48142-z</ArticleId>
+            <ArticleId IdType="pmc">PMC6692381</ArticleId>
+            <ArticleId IdType="pubmed">31409840</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Labernadie A., Kato T., Brugues A., Serra-Picamal X., Derzsi S., Arwert E., Weston A., Gonzalez-Tarrago V., Elosegui-Artola A., Albertazzi L., et al.  A mechanically active heterotypic e-cadherin/n-cadherin adhesion enables fibroblasts to drive cancer cell invasion. Nat. Cell Biol. 2017;19:224–237. doi: 10.1038/ncb3478.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncb3478</ArticleId>
+            <ArticleId IdType="pmc">PMC5831988</ArticleId>
+            <ArticleId IdType="pubmed">28218910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pakshir P., Alizadehgiashi M., Wong B., Coelho N.M., Chen X., Gong Z., Shenoy V.B., McCulloch C.A., Hinz B. Dynamic fibroblast contractions attract remote macrophages in fibrillar collagen matrix. Nat. Commun. 2019;10:1850. doi: 10.1038/s41467-019-09709-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-019-09709-6</ArticleId>
+            <ArticleId IdType="pmc">PMC6478854</ArticleId>
+            <ArticleId IdType="pubmed">31015429</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Davidson J., Shen Z., Gong X., Pollack J.R. Swi/snf aberrations sensitize pancreatic cancer cells to DNA crosslinking agents. Oncotarget. 2018;9:9608–9617. doi: 10.18632/oncotarget.20033.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/oncotarget.20033</ArticleId>
+            <ArticleId IdType="pmc">PMC5839388</ArticleId>
+            <ArticleId IdType="pubmed">29515757</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu T., Zhou L., Yang K., Iwasawa K., Kadekaro A.L., Takebe T., Andl T., Zhang Y. The beta-catenin/yap signaling axis is a key regulator of melanoma-associated fibroblasts. Signal Transduct. Target Ther. 2019;4:63. doi: 10.1038/s41392-019-0100-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41392-019-0100-7</ArticleId>
+            <ArticleId IdType="pmc">PMC6928146</ArticleId>
+            <ArticleId IdType="pubmed">31885878</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garcia P.E., Scales M.K., Allen B.L., Pasca di Magliano M. Pancreatic fibroblast heterogeneity: From development to cancer. Cells. 2020;9:2464.  doi: 10.3390/cells9112464.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cells9112464</ArticleId>
+            <ArticleId IdType="pmc">PMC7698149</ArticleId>
+            <ArticleId IdType="pubmed">33198201</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang H., Kong Q., Wang J., Jiang Y., Hua H. Complex roles of camp-pka-creb signaling in cancer. Exp. Hematol. Oncol. 2020;9:32. doi: 10.1186/s40164-020-00191-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s40164-020-00191-1</ArticleId>
+            <ArticleId IdType="pmc">PMC7684908</ArticleId>
+            <ArticleId IdType="pubmed">33292604</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li G., Jiang Q., Xu K. Creb family: A significant role in liver fibrosis. Biochimie. 2019;163:94–100. doi: 10.1016/j.biochi.2019.05.014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.biochi.2019.05.014</ArticleId>
+            <ArticleId IdType="pubmed">31112743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Leung C.S., Yeung T.L., Yip K.P., Pradeep S., Balasubramanian L., Liu J., Wong K.K., Mangala L.S., Armaiz-Pena G.N., Lopez-Berestein G., et al.  Calcium-dependent fak/creb/tnnc1 signalling mediates the effect of stromal mfap5 on ovarian cancer metastatic potential. Nat. Commun. 2014;5:5092. doi: 10.1038/ncomms6092.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms6092</ArticleId>
+            <ArticleId IdType="pmc">PMC4185407</ArticleId>
+            <ArticleId IdType="pubmed">25277212</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jang I., Beningo K.A. Integrins, cafs and mechanical forces in the progression of cancer. Cancers. 2019;11:721.  doi: 10.3390/cancers11050721.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cancers11050721</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ding J., Liu Y., Lai Y. Identifying mmp14 and col12a1 as a potential combination of prognostic biomarkers in pancreatic ductal adenocarcinoma using integrated bioinformatics analysis. PeerJ. 2020;8:e10419. doi: 10.7717/peerj.10419.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7717/peerj.10419</ArticleId>
+            <ArticleId IdType="pmc">PMC7690310</ArticleId>
+            <ArticleId IdType="pubmed">33282565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Weniger M., Honselmann K.C., Liss A.S. The extracellular matrix and pancreatic cancer: A complex relationship. Cancers. 2018;10:316.  doi: 10.3390/cancers10090316.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cancers10090316</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu-Chittenden Y., Jain M., Gaskins K., Wang S., Merino M.J., Kotian S., Kumar Gara S., Davis S., Zhang L., Kebebew E. Rarres2 functions as a tumor suppressor by promoting beta-catenin phosphorylation/degradation and inhibiting p38 phosphorylation in adrenocortical carcinoma. Oncogene. 2017;36:3541–3552. doi: 10.1038/onc.2016.497.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/onc.2016.497</ArticleId>
+            <ArticleId IdType="pmc">PMC5481486</ArticleId>
+            <ArticleId IdType="pubmed">28114280</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shin W.J., Zabel B.A., Pachynski R.K. Mechanisms and functions of chemerin in cancer: Potential roles in therapeutic intervention. Front. Immunol. 2018;9:2772. doi: 10.3389/fimmu.2018.02772.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fimmu.2018.02772</ArticleId>
+            <ArticleId IdType="pmc">PMC6283908</ArticleId>
+            <ArticleId IdType="pubmed">30555465</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ruiz-Villalba A., Romero J.P., Hernandez S.C., Vilas-Zornoza A., Fortelny N., Castro-Labrador L., San Martin-Uriz P., Lorenzo-Vivas E., Garcia-Olloqui P., Palacio M., et al.  Single-cell rna sequencing analysis reveals a crucial role for cthrc1 (collagen triple helix repeat containing 1) cardiac fibroblasts after myocardial infarction. Circulation. 2020;142:1831–1847. doi: 10.1161/CIRCULATIONAHA.119.044557.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/CIRCULATIONAHA.119.044557</ArticleId>
+            <ArticleId IdType="pmc">PMC7730974</ArticleId>
+            <ArticleId IdType="pubmed">32972203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Azuma T., Witke W., Stossel T.P., Hartwig J.H., Kwiatkowski D.J. Gelsolin is a downstream effector of rac for fibroblast motility. EMBO J. 1998;17:1362–1370. doi: 10.1093/emboj/17.5.1362.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/emboj/17.5.1362</ArticleId>
+            <ArticleId IdType="pmc">PMC1170484</ArticleId>
+            <ArticleId IdType="pubmed">9482733</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Elyada E., Bolisetty M., Laise P., Flynn W.F., Courtois E.T., Burkhart R.A., Teinor J.A., Belleau P., Biffi G., Lucito M.S., et al.  Cross-species single-cell analysis of pancreatic ductal adenocarcinoma reveals antigen-presenting cancer-associated fibroblasts. Cancer Discov. 2019;9:1102–1123. doi: 10.1158/2159-8290.CD-19-0094.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/2159-8290.CD-19-0094</ArticleId>
+            <ArticleId IdType="pmc">PMC6727976</ArticleId>
+            <ArticleId IdType="pubmed">31197017</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crowe L.A.N., McLean M., Kitson S.M., Melchor E.G., Patommel K., Cao H.M., Reilly J.H., Leach W.J., Rooney B.P., Spencer S.J., et al.  S100a8 &amp; s100a9: Alarmin mediated inflammation in tendinopathy. Sci. Rep. 2019;9:1463.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6365574</ArticleId>
+            <ArticleId IdType="pubmed">30728384</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang S., Song R., Wang Z., Jing Z., Wang S., Ma J. S100a8/a9 in inflammation. Front. Immunol. 2018;9:1298. doi: 10.3389/fimmu.2018.01298.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fimmu.2018.01298</ArticleId>
+            <ArticleId IdType="pmc">PMC6004386</ArticleId>
+            <ArticleId IdType="pubmed">29942307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Y., Jing Y., Ding L., Zhang X., Song Y., Chen S., Zhao X., Huang X., Pu Y., Wang Z., et al.  Epiregulin reprograms cancer-associated fibroblasts and facilitates oral squamous cell carcinoma invasion via jak2-stat3 pathway. J. Exp. Clin. Cancer Res. 2019;38:274. doi: 10.1186/s13046-019-1277-x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13046-019-1277-x</ArticleId>
+            <ArticleId IdType="pmc">PMC6591968</ArticleId>
+            <ArticleId IdType="pubmed">31234944</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Palmieri C., Roberts-Clark D., Assadi-Sabet A., Coope R.C., O’Hare M., Sunters A., Hanby A., Slade M.J., Gomm J.J., Lam E.W., et al.  Fibroblast growth factor 7, secreted by breast fibroblasts, is an interleukin-1beta-induced paracrine growth factor for human breast cells. J. Endocrinol. 2003;177:65–81. doi: 10.1677/joe.0.1770065.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1677/joe.0.1770065</ArticleId>
+            <ArticleId IdType="pubmed">12697038</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hirakawa T., Yashiro M., Doi Y., Kinoshita H., Morisaki T., Fukuoka T., Hasegawa T., Kimura K., Amano R., Hirakawa K. Pancreatic fibroblasts stimulate the motility of pancreatic cancer cells through igf1/igf1r signaling under hypoxia. PLoS ONE. 2016;11:e0159912.  doi: 10.1371/journal.pone.0159912.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0159912</ArticleId>
+            <ArticleId IdType="pmc">PMC4972430</ArticleId>
+            <ArticleId IdType="pubmed">27487118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tao J., Yang G., Zhou W., Qiu J., Chen G., Luo W., Zhao F., You L., Zheng L., Zhang T., et al.  Targeting hypoxic tumor microenvironment in pancreatic cancer. J. Hematol. Oncol. 2021;14:14. doi: 10.1186/s13045-020-01030-w.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13045-020-01030-w</ArticleId>
+            <ArticleId IdType="pmc">PMC7805044</ArticleId>
+            <ArticleId IdType="pubmed">33436044</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li Y., Yu S., Li L., Chen J., Quan M., Li Q., Gao Y. Klf4-mediated upregulation of cd9 and cd81 suppresses hepatocellular carcinoma development via jnk signaling. Cell Death Dis. 2020;11:299. doi: 10.1038/s41419-020-2479-z.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41419-020-2479-z</ArticleId>
+            <ArticleId IdType="pmc">PMC7190708</ArticleId>
+            <ArticleId IdType="pubmed">32350244</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koninger J., Giese N.A., di Mola F.F., Berberat P., Giese T., Esposito I., Bachem M.G., Buchler M.W., Friess H. Overexpressed decorin in pancreatic cancer: Potential tumor growth inhibition and attenuation of chemotherapeutic action. Clin. Cancer Res. 2004;10:4776–4783. doi: 10.1158/1078-0432.CCR-1190-03.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1078-0432.CCR-1190-03</ArticleId>
+            <ArticleId IdType="pubmed">15269152</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gold D.V., Stein R., Burton J., Goldenberg D.M. Enhanced expression of cd74 in gastrointestinal cancers and benign tissues. Int. J. Clin. Exp. Pathol. 2010;4:1–12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3016099</ArticleId>
+            <ArticleId IdType="pubmed">21228923</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang J.F., Hua R., Liu D.J., Liu W., Huo Y.M., Sun Y.W. Effect of cd74 on the prognosis of patients with resectable pancreatic cancer. Hepatobiliary Pancreat. Dis. Int. 2014;13:81–86. doi: 10.1016/S1499-3872(14)60011-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1499-3872(14)60011-4</ArticleId>
+            <ArticleId IdType="pubmed">24463084</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>DiGiacomo V., Meruelo D. Looking into laminin receptor: Critical discussion regarding the non-integrin 37/67-kda laminin receptor/rpsa protein. Biol. Rev. 2016;91:288–310. doi: 10.1111/brv.12170.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/brv.12170</ArticleId>
+            <ArticleId IdType="pmc">PMC5249262</ArticleId>
+            <ArticleId IdType="pubmed">25630983</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Digiacomo V., Gando I.A., Venticinque L., Hurtado A., Meruelo D. The transition of the 37-kda laminin receptor (rpsa) to higher molecular weight species: Sumoylation or artifact? Cell Mol. Biol. Lett. 2015;20:571–585. doi: 10.1515/cmble-2015-0031.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1515/cmble-2015-0031</ArticleId>
+            <ArticleId IdType="pmc">PMC5240582</ArticleId>
+            <ArticleId IdType="pubmed">26146125</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Novin A., Suhail Y., Ajeti V., Goyal R., Wali K., Seck A., Jackson A., Kshitiz  Diversity in cancer invasion phenotypes indicates specific stroma regulated programs. Hum. Cell. 2021;34:111–121. doi: 10.1007/s13577-020-00427-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13577-020-00427-6</ArticleId>
+            <ArticleId IdType="pubmed">32935295</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Griss J., Viteri G., Sidiropoulos K., Nguyen V., Fabregat A., Hermjakob H. ReactomeGSA—Efficient multi-omics comparative pathway analysis. Mol. Cell. Proteom. 2020;19:2115–2125. doi: 10.1074/mcp.TIR120.002155.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/mcp.TIR120.002155</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ganini C., Amelio I., Bertolo R., Bove P., Buonomo O.C., Candi E., Cipriani C., Di Daniele N., Juhl H., Mauriello A., et al.  Global mapping of cancers: The cancer genome atlas and beyond. Mol. Oncol. 2021;15:2823–2840. doi: 10.1002/1878-0261.13056.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/1878-0261.13056</ArticleId>
+            <ArticleId IdType="pmc">PMC8564642</ArticleId>
+            <ArticleId IdType="pubmed">34245122</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Karpinsky-Semper D., Volmar C.H., Brothers S.P., Slepak V.Z. Differential effects of the gbeta5-rgs7 complex on muscarinic m3 receptor-induced Ca2+ influx and release. Mol. Pharmacol. 2014;85:758–768. doi: 10.1124/mol.114.091843.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1124/mol.114.091843</ArticleId>
+            <ArticleId IdType="pmc">PMC4170115</ArticleId>
+            <ArticleId IdType="pubmed">24586057</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ding T., Zhou Y., Long R., Chen C., Zhao J., Cui P., Guo M., Liang G., Xu L. Dusp8 phosphatase: Structure, functions, expression regulation and the role in human diseases. Cell Biosci. 2019;9:70. doi: 10.1186/s13578-019-0329-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13578-019-0329-4</ArticleId>
+            <ArticleId IdType="pmc">PMC6712826</ArticleId>
+            <ArticleId IdType="pubmed">31467668</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gao Y., Wang J., Fan G. Nprl2 is an independent prognostic factor of osteosarcoma. Cancer Biomark. 2012;12:31–36. doi: 10.3233/CBM-120290.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3233/CBM-120290</ArticleId>
+            <ArticleId IdType="pubmed">23321467</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peng H.Y., Yu Q.F., Shen W., Guo C.M., Li Z., Zhou X.Y., Zhou N.J., Min W.P., Gao D. Knockdown of elmo3 suppresses growth, invasion and metastasis of colorectal cancer. Int. J. Mol. Sci. 2016;17:2119.  doi: 10.3390/ijms17122119.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/ijms17122119</ArticleId>
+            <ArticleId IdType="pmc">PMC5187919</ArticleId>
+            <ArticleId IdType="pubmed">27999268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jin G., Hong W., Guo Y., Bai Y., Chen B. Molecular mechanism of pancreatic stellate cells activation in chronic pancreatitis and pancreatic cancer. J. Cancer. 2020;11:1505–1515. doi: 10.7150/jca.38616.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7150/jca.38616</ArticleId>
+            <ArticleId IdType="pmc">PMC6995390</ArticleId>
+            <ArticleId IdType="pubmed">32047557</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shimizu K. Pancreatic stellate cells: Molecular mechanism of pancreatic fibrosis. J. Gastroenterol. Hepatol. 2008;23((Suppl. 1)):S119–S121. doi: 10.1111/j.1440-1746.2007.05296.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1440-1746.2007.05296.x</ArticleId>
+            <ArticleId IdType="pubmed">18336654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martinez-Bosch N., Vinaixa J., Navarro P. Immune evasion in pancreatic cancer: From mechanisms to therapy. Cancers. 2018;10:6.  doi: 10.3390/cancers10010006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cancers10010006</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zeng S., Pottler M., Lan B., Grutzmann R., Pilarsky C., Yang H. Chemoresistance in pancreatic cancer. Int. J. Mol. Sci. 2019;20:4504.  doi: 10.3390/ijms20184504.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/ijms20184504</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sarr A., Bre J., Um I.H., Chan T.H., Mullen P., Harrison D.J., Reynolds P.A. Genome-scale crispr/cas9 screen determines factors modulating sensitivity to protide nuc-1031. Sci. Rep. 2019;9:7643. doi: 10.1038/s41598-019-44089-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-019-44089-3</ArticleId>
+            <ArticleId IdType="pmc">PMC6529431</ArticleId>
+            <ArticleId IdType="pubmed">31113993</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>He P., Yang J.W., Yang V.W., Bialkowska A.B. Kruppel-like factor 5, increased in pancreatic ductal adenocarcinoma, promotes proliferation, acinar-to-ductal metaplasia, pancreatic intraepithelial neoplasia, and tumor growth in mice. Gastroenterology. 2018;154:1494–1508.e13. doi: 10.1053/j.gastro.2017.12.005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1053/j.gastro.2017.12.005</ArticleId>
+            <ArticleId IdType="pmc">PMC5880723</ArticleId>
+            <ArticleId IdType="pubmed">29248441</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mori A., Moser C., Lang S.A., Hackl C., Gottfried E., Kreutz M., Schlitt H.J., Geissler E.K., Stoeltzing O. Up-regulation of kruppel-like factor 5 in pancreatic cancer is promoted by interleukin-1beta signaling and hypoxia-inducible factor-1alpha. Mol. Cancer Res. 2009;7:1390–1398. doi: 10.1158/1541-7786.MCR-08-0525.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1541-7786.MCR-08-0525</ArticleId>
+            <ArticleId IdType="pubmed">19671674</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kabacaoglu D., Ruess D.A., Ai J., Algul H. Nf-kappab/rel transcription factors in pancreatic cancer: Focusing on rela, c-rel, and relb. Cancers. 2019;11:937.  doi: 10.3390/cancers11070937.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cancers11070937</ArticleId>
+            <ArticleId IdType="pmc">PMC6679104</ArticleId>
+            <ArticleId IdType="pubmed">31277415</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiong J., Li Y., Tan X., Fu L. Small heat shock proteins in cancers: Functions and therapeutic potential for cancer therapy. Int. J. Mol. Sci. 2020;21:6611.  doi: 10.3390/ijms21186611.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/ijms21186611</ArticleId>
+            <ArticleId IdType="pmc">PMC7555140</ArticleId>
+            <ArticleId IdType="pubmed">32927696</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Uhlen M., Fagerberg L., Hallstrom B.M., Lindskog C., Oksvold P., Mardinoglu A., Sivertsson A., Kampf C., Sjostedt E., Asplund A., et al.  Proteomics. Tissue-based map of the human proteome. Science. 2015;347:1260419. doi: 10.1126/science.1260419.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1260419</ArticleId>
+            <ArticleId IdType="pubmed">25613900</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun W., Hu C., Wang T., Wang J., Zhang J., Gao F., Ou Q., Tian H., Jin C., Xu J., et al.  Glia maturation factor beta as a novel biomarker and therapeutic target for hepatocellular carcinoma. Front. Oncol. 2021;11:744331. doi: 10.3389/fonc.2021.744331.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fonc.2021.744331</ArticleId>
+            <ArticleId IdType="pmc">PMC8593204</ArticleId>
+            <ArticleId IdType="pubmed">34796110</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ling B., Watt K., Banerjee S., Newsted D., Truesdell P., Adams J., Sidhu S.S., Craig A.W.B. A novel immunotherapy targeting mmp-14 limits hypoxia, immune suppression and metastasis in triple-negative breast cancer models. Oncotarget. 2017;8:58372–58385. doi: 10.18632/oncotarget.17702.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/oncotarget.17702</ArticleId>
+            <ArticleId IdType="pmc">PMC5601659</ArticleId>
+            <ArticleId IdType="pubmed">28938563</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Claesson-Welsh L. How the matrix metalloproteinase mmp14 contributes to the progression of colorectal cancer. J. Clin. Investig. 2020;130:1093–1095. doi: 10.1172/JCI135239.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1172/JCI135239</ArticleId>
+            <ArticleId IdType="pmc">PMC7269590</ArticleId>
+            <ArticleId IdType="pubmed">32015228</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mueller M.M., Fusenig N.E. Friends or foes—Bipolar effects of the tumour stroma in cancer. Nat. Rev. Cancer. 2004;4:839–849. doi: 10.1038/nrc1477.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrc1477</ArticleId>
+            <ArticleId IdType="pubmed">15516957</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kwa M.Q., Herum K.M., Brakebusch C. Cancer-associated fibroblasts: How do they contribute to metastasis? Clin. Exp. Metastasis. 2019;36:71–86. doi: 10.1007/s10585-019-09959-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10585-019-09959-0</ArticleId>
+            <ArticleId IdType="pubmed">30847799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sahai E., Astsaturov I., Cukierman E., DeNardo D.G., Egeblad M., Evans R.M., Fearon D., Greten F.R., Hingorani S.R., Hunter T., et al.  A framework for advancing our understanding of cancer-associated fibroblasts. Nat. Rev. Cancer. 2020;20:174–186. doi: 10.1038/s41568-019-0238-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41568-019-0238-1</ArticleId>
+            <ArticleId IdType="pmc">PMC7046529</ArticleId>
+            <ArticleId IdType="pubmed">31980749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Okabe Y., Medzhitov R. Tissue biology perspective on macrophages. Nat. Immunol. 2016;17:9–17. doi: 10.1038/ni.3320.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ni.3320</ArticleId>
+            <ArticleId IdType="pubmed">26681457</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Colegio O.R., Chu N.Q., Szabo A.L., Chu T., Rhebergen A.M., Jairam V., Cyrus N., Brokowski C.E., Eisenbarth S.C., Phillips G.M., et al.  Functional polarization of tumour-associated macrophages by tumour-derived lactic acid. Nature. 2014;513:559–563. doi: 10.1038/nature13490.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature13490</ArticleId>
+            <ArticleId IdType="pmc">PMC4301845</ArticleId>
+            <ArticleId IdType="pubmed">25043024</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanchez L.R., Borriello L., Entenberg D., Condeelis J.S., Oktay M.H., Karagiannis G.S. The emerging roles of macrophages in cancer metastasis and response to chemotherapy. J. Leukoc. Biol. 2019;106:259–274. doi: 10.1002/JLB.MR0218-056RR.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/JLB.MR0218-056RR</ArticleId>
+            <ArticleId IdType="pmc">PMC6779158</ArticleId>
+            <ArticleId IdType="pubmed">30720887</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

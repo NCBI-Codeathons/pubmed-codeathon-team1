@@ -1,0 +1,145 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35129084</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>14</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1751-3766</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>16</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of biological dynamics</Title>
+          <ISOAbbreviation>J Biol Dyn</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Dynamic analysis and optimal control of a class of SISP respiratory diseases.</ArticleTitle>
+        <Pagination>
+          <StartPage>64</StartPage>
+          <EndPage>97</EndPage>
+          <MedlinePgn>64-97</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1080/17513758.2022.2027529</ELocationID>
+        <Abstract>
+          <AbstractText>In this paper, the actual background of the susceptible population being directly patients after inhaling a certain amount of PM<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:msub><mml:mi/><mml:mrow><mml:mn>2.5</mml:mn></mml:mrow></mml:msub></mml:math> is taken into account. The concentration response function of PM<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:msub><mml:mi/><mml:mrow><mml:mn>2.5</mml:mn></mml:mrow></mml:msub></mml:math> is introduced, and the SISP respiratory disease model is proposed. Qualitative theoretical analysis proves that the existence, local stability and global stability of the equilibria are all related to the daily emission <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:msub><mml:mi>P</mml:mi><mml:mrow><mml:mn>0</mml:mn></mml:mrow></mml:msub></mml:math> of PM<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:msub><mml:mi/><mml:mrow><mml:mn>2.5</mml:mn></mml:mrow></mml:msub></mml:math> and PM<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:msub><mml:mi/><mml:mrow><mml:mn>2.5</mml:mn></mml:mrow></mml:msub></mml:math> pathogenic threshold <i>K</i>. Based on the sensitivity factor analysis and time-varying sensitivity analysis of parameters on the number of patients, it is found that the conversion rate <i>β</i> and the inhalation rate <i>η</i> has the largest positive correlation. The cure rate <i>γ</i> of infected persons has the greatest negative correlation on the number of patients. The control strategy formulated by the analysis results of optimal control theory is as follows: The first step is to improve the clearance rate of PM<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:msub><mml:mi/><mml:mrow><mml:mn>2.5</mml:mn></mml:mrow></mml:msub></mml:math> by reducing the PM<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:msub><mml:mi/><mml:mrow><mml:mn>2.5</mml:mn></mml:mrow></mml:msub></mml:math> emissions and increasing the intensity of dust removal. Moreover, such removal work must be maintained for a long time. The second step is to improve the cure rate of patients by being treated in time. After that, people should be reminded to wear masks and go out less so as to reduce the conversion rate of susceptible people becoming patients.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Shi</LastName>
+            <ForeName>Lei</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Mathematical Sciences, Anhui University, Hefei, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Qi</LastName>
+            <ForeName>Longxing</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Mathematical Sciences, Anhui University, Hefei, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Biol Dyn</MedlineTA>
+        <NlmUniqueID>101299725</NlmUniqueID>
+        <ISSNLinking>1751-3758</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000393">Air Pollutants</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D052638">Particulate Matter</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000393" MajorTopicYN="Y">Air Pollutants</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004784" MajorTopicYN="N">Environmental Monitoring</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D052638" MajorTopicYN="N">Particulate Matter</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">34A40</Keyword>
+        <Keyword MajorTopicYN="Y">34C10</Keyword>
+        <Keyword MajorTopicYN="Y">34D23</Keyword>
+        <Keyword MajorTopicYN="Y">92B05</Keyword>
+        <Keyword MajorTopicYN="Y">PM<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:msub><mml:mi/><mml:mrow><mml:mn>2.5</mml:mn></mml:mrow></mml:msub></mml:math> emissions</Keyword>
+        <Keyword MajorTopicYN="Y">PM<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:msub><mml:mi/><mml:mrow><mml:mn>2.5</mml:mn></mml:mrow></mml:msub></mml:math> pathogenic threshold</Keyword>
+        <Keyword MajorTopicYN="Y">Respiratory disease</Keyword>
+        <Keyword MajorTopicYN="Y">optimal control</Keyword>
+        <Keyword MajorTopicYN="Y">sensitivity analysis</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>7</Day>
+          <Hour>8</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35129084</ArticleId>
+        <ArticleId IdType="doi">10.1080/17513758.2022.2027529</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

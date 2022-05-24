@@ -1,0 +1,634 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">29041978</PMID>
+      <DateCompleted>
+        <Year>2018</Year>
+        <Month>06</Month>
+        <Day>25</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>30</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1476-4598</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>16</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2017</Year>
+              <Month>Oct</Month>
+              <Day>17</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Molecular cancer</Title>
+          <ISOAbbreviation>Mol Cancer</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Linc-RoR promotes MAPK/ERK signaling and confers estrogen-independent growth of breast cancer.</ArticleTitle>
+        <Pagination>
+          <StartPage>161</StartPage>
+          <MedlinePgn>161</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">161</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12943-017-0727-3</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">The conversion from estrogen-dependent to estrogen-independent state of ER+ breast cancer cells is the key step to promote resistance to endocrine therapies. Although the crucial role of MAPK/ERK signaling pathway in estrogen-independent breast cancer cell growth is well established, the underlying mechanism is not fully understood.</AbstractText>
+          <AbstractText Label="METHODS">In this study, we profiled lncRNA expression against a focused group of lncRNAs selected from lncRNA database. CRISPR/Cas9 was employed to knockout (KO) linc-RoR in MCF-7 cells, while rescue experiments were carried out to re-express linc-RoR in KO cells. Colony formation and MTT assays were used to examine the role of linc-RoR in estrogen-independent growth and tamoxifen resistance. Western blot and qRT-PCR were used to determine the change of protein and lncRNA levels, respectively. The expression of DUSP7 in clinical specimens was downloaded from Oncomine ( www.oncomine.org ) and the dataset from Kaplan-Meier Plotter ( http://kmplot.com ) was used to analyze the clinical outcomes in relation to DUSP7.</AbstractText>
+          <AbstractText Label="RESULTS">We identified that linc-RoR functions as an onco-lncRNA to promote estrogen-independent growth of ER+ breast cancer. Under estrogen deprivation, linc-RoR causes the upregulation of phosphorylated MAPK/ERK pathway which in turn activates ER signaling. Knockout of linc-RoR abrogates estrogen deprivation-induced ERK activation as well as ER phosphorylation, whereas re-expression of linc-RoR restores all above phenotypes. Moreover, we show that the ERK-specific phosphatase Dual Specificity Phosphatase 7 (DUSP7), also known as MKP-X, is involved in linc-RoR KO-induced repression of MAPK/ERK signaling. Interestingly, linc-RoR KO increases the protein stability of DUSP7, resulting in repression of ERK phosphorylation. Clinical data analysis reveal that DUSP7 expression is lower in ER+ breast cancer samples than that in ER- breast cancer. Moreover, downregulation of DUSP7 expression is associated with poor patient survival.</AbstractText>
+          <AbstractText Label="CONCLUSION">Taken together, these results suggest that linc-RoR promotes estrogen-independent growth and activation of MAPK/ERK pathway of breast cancer cells by regulating the ERK-specific phosphatase DUSP7. Thus, this study might help not only in establishing a role for linc-RoR in estrogen-independent and tamoxifen resistance of ER+ breast cancer, but also suggesting a link between linc-RoR and MAPK/ERK pathway.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Peng</LastName>
+            <ForeName>Wan-Xin</ForeName>
+            <Initials>WX</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell biology, School of Medicine, Jiangsu University, Zhenjiang, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Cancer Institute, University of Mississippi Medical Center, Jackson, MS, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huang</LastName>
+            <ForeName>Jian-Guo</ForeName>
+            <Initials>JG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cancer Institute, University of Mississippi Medical Center, Jackson, MS, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry, University of Mississippi Medical Center, Jackson, MS, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Liu</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Science &amp; Research, Zhejiang Provincial People's Hospital, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gong</LastName>
+            <ForeName>Ai-Hua</ForeName>
+            <Initials>AH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell biology, School of Medicine, Jiangsu University, Zhenjiang, China. ahg5@ujs.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mo</LastName>
+            <ForeName>Yin-Yuan</ForeName>
+            <Initials>YY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cancer Institute, University of Mississippi Medical Center, Jackson, MS, USA. ymo@umc.edu.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pharmacology/Toxicology, University of Mississippi Medical Center, Jackson, MS, USA. ymo@umc.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 CA154989</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2017</Year>
+          <Month>10</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Mol Cancer</MedlineTA>
+        <NlmUniqueID>101147698</NlmUniqueID>
+        <ISSNLinking>1476-4598</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018931">Antineoplastic Agents, Hormonal</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C000588825">Linc-RNA-RoR, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D062085">RNA, Long Noncoding</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>094ZI81Y45</RegistryNumber>
+          <NameOfSubstance UI="D013629">Tamoxifen</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.1.3.48</RegistryNumber>
+          <NameOfSubstance UI="C107523">DUSP7 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.1.3.48</RegistryNumber>
+          <NameOfSubstance UI="D054637">Dual-Specificity Phosphatases</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D018931" MajorTopicYN="N">Antineoplastic Agents, Hormonal</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015153" MajorTopicYN="N">Blotting, Western</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001943" MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D064113" MajorTopicYN="N">CRISPR-Cas Systems</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019008" MajorTopicYN="N">Drug Resistance, Neoplasm</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D054637" MajorTopicYN="N">Dual-Specificity Phosphatases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061986" MajorTopicYN="N">MCF-7 Cells</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D062085" MajorTopicYN="N">RNA, Long Noncoding</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020133" MajorTopicYN="N">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013629" MajorTopicYN="N">Tamoxifen</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Breast cancer</Keyword>
+        <Keyword MajorTopicYN="Y">DUSP7</Keyword>
+        <Keyword MajorTopicYN="Y">ERK</Keyword>
+        <Keyword MajorTopicYN="Y">Estrogen-independent growth</Keyword>
+        <Keyword MajorTopicYN="Y">Linc-RoR</Keyword>
+      </KeywordList>
+      <CoiStatement>ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The authors declare that they have no competing interests. PUBLISHER’S NOTE: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2017</Year>
+          <Month>6</Month>
+          <Day>6</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2017</Year>
+          <Month>9</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2017</Year>
+          <Month>10</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2017</Year>
+          <Month>10</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>6</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">29041978</ArticleId>
+        <ArticleId IdType="pmc">PMC5645922</ArticleId>
+        <ArticleId IdType="doi">10.1186/s12943-017-0727-3</ArticleId>
+        <ArticleId IdType="pii">10.1186/s12943-017-0727-3</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Kumler I, Knoop AS, Jessing CA, Ejlertsen B, Nielsen DL. Review of hormone-based treatments in postmenopausal patients with advanced breast cancer focusing on aromatase inhibitors and fulvestrant. ESMO Open. 2016;1:e000062. doi: 10.1136/esmoopen-2016-000062.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/esmoopen-2016-000062</ArticleId>
+            <ArticleId IdType="pmc">PMC5070302</ArticleId>
+            <ArticleId IdType="pubmed">27843622</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gu G, Dustin D, Fuqua SA. Targeted therapy for breast cancer and molecular mechanisms of resistance to treatment. Curr Opin Pharmacol. 2016;31:97–103. doi: 10.1016/j.coph.2016.11.005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.coph.2016.11.005</ArticleId>
+            <ArticleId IdType="pubmed">27883943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mancuso MR, Massarweh SA. Endocrine therapy and strategies to overcome therapeutic resistance in breast cancer. Curr Probl Cancer. 2016;</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27839747</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pritchard KI. Endocrine therapy: is the first generation of targeted drugs the last? J Intern Med. 2013;274:144–152. doi: 10.1111/joim.12065.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/joim.12065</ArticleId>
+            <ArticleId IdType="pubmed">23844917</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sachdeva M, Wu H, Ru P, Hwang L, Trieu V, Mo YY. MicroRNA-101-mediated Akt activation and estrogen-independent growth. Oncogene. 2011;30:822–831. doi: 10.1038/onc.2010.463.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/onc.2010.463</ArticleId>
+            <ArticleId IdType="pubmed">20956939</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y, Su H, Rahimi M, Tochihara R, Tang C. EGFRvIII-induced estrogen-independence, tamoxifen-resistance phenotype correlates with PgR expression and modulation of apoptotic molecules in breast cancer. Int J Cancer. 2009;125:2021–2028. doi: 10.1002/ijc.24540.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/ijc.24540</ArticleId>
+            <ArticleId IdType="pmc">PMC2855543</ArticleId>
+            <ArticleId IdType="pubmed">19588487</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Daurio NA, Tuttle SW, Worth AJ, Song EY, Davis JM, Snyder NW, Blair IA, Koumenis C. AMPK Activation and Metabolic Reprogramming by Tamoxifen through Estrogen Receptor-Independent Mechanisms Suggests New Uses for This Therapeutic Modality in Cancer Treatment. Cancer Res. 2016;76:3295–3306. doi: 10.1158/0008-5472.CAN-15-2197.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-15-2197</ArticleId>
+            <ArticleId IdType="pmc">PMC4895922</ArticleId>
+            <ArticleId IdType="pubmed">27020861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Angus L, Beije N, Jager A, Martens JW, Sleijfer S. ESR1 mutations: Moving towards guiding treatment decision-making in metastatic breast cancer patients. Cancer Treat Rev. 2016;52:33–40. doi: 10.1016/j.ctrv.2016.11.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ctrv.2016.11.001</ArticleId>
+            <ArticleId IdType="pubmed">27886589</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wapinski O, Chang HY. Long noncoding RNAs and human disease. Trends Cell Biol. 2011;21:354–361. doi: 10.1016/j.tcb.2011.04.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tcb.2011.04.001</ArticleId>
+            <ArticleId IdType="pubmed">21550244</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tang JY, Lee JC, Chang YT, Hou MF, Huang HW, Liaw CC, Chang HW. Long noncoding RNAs-related diseases, cancers, and drugs. ScientificWorldJournal. 2013;2013:943539.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3690748</ArticleId>
+            <ArticleId IdType="pubmed">23843741</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hayes EL, Lewis-Wambi JS. Mechanisms of endocrine resistance in breast cancer: an overview of the proposed roles of noncoding RNA. Breast Cancer Res. 2015;17:40. doi: 10.1186/s13058-015-0542-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13058-015-0542-y</ArticleId>
+            <ArticleId IdType="pmc">PMC4362832</ArticleId>
+            <ArticleId IdType="pubmed">25849966</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xue X, Yang YA, Zhang A, Fong KW, Kim J, Song B, Li S, Zhao JC, Yu J. LncRNA HOTAIR enhances ER signaling and confers tamoxifen resistance in breast cancer. Oncogene. 2016;35:2746–2755. doi: 10.1038/onc.2015.340.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/onc.2015.340</ArticleId>
+            <ArticleId IdType="pmc">PMC4791209</ArticleId>
+            <ArticleId IdType="pubmed">26364613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu C, Luo J. Long Non-Coding RNA (lncRNA) Urothelial Carcinoma-Associated 1 (UCA1) Enhances Tamoxifen Resistance in Breast Cancer Cells via Inhibiting mTOR Signaling Pathway. Med Sci Monit. 2016;22:3860–3867. doi: 10.12659/MSM.900689.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.12659/MSM.900689</ArticleId>
+            <ArticleId IdType="pmc">PMC5077288</ArticleId>
+            <ArticleId IdType="pubmed">27765938</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jain AK, Xi Y, McCarthy R, Allton K, Akdemir KC, Patel LR, Aronow B, Lin C, Li W, Yang L, Barton MC. LncPRESS1 Is a p53-Regulated LncRNA that Safeguards Pluripotency by Disrupting SIRT6-Mediated De-acetylation of Histone H3K56. Mol Cell. 2016;64:967–981. doi: 10.1016/j.molcel.2016.10.039.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2016.10.039</ArticleId>
+            <ArticleId IdType="pmc">PMC5137794</ArticleId>
+            <ArticleId IdType="pubmed">27912097</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Loewer S, Cabili MN, Guttman M, Loh YH, Thomas K, Park IH, Garber M, Curran M, Onder T, Agarwal S, et al.  Large intergenic non-coding RNA-RoR modulates reprogramming of human induced pluripotent stem cells. Nat Genet. 2010;42:1113–1117. doi: 10.1038/ng.710.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ng.710</ArticleId>
+            <ArticleId IdType="pmc">PMC3040650</ArticleId>
+            <ArticleId IdType="pubmed">21057500</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hwang WY, Fu Y, Reyon D, Maeder ML, Tsai SQ, Sander JD, Peterson RT, Yeh JR, Joung JK. Efficient genome editing in zebrafish using a CRISPR-Cas system. Nat Biotechnol. 2013;31:227–229. doi: 10.1038/nbt.2501.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nbt.2501</ArticleId>
+            <ArticleId IdType="pmc">PMC3686313</ArticleId>
+            <ArticleId IdType="pubmed">23360964</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang A, Zhou N, Huang J, Liu Q, Fukuda K, Ma D, Lu Z, Bai C, Watabe K, Mo YY. The human long non-coding RNA-RoR is a p53 repressor in response to DNA damage. Cell Res. 2013;23:340–350. doi: 10.1038/cr.2012.164.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/cr.2012.164</ArticleId>
+            <ArticleId IdType="pmc">PMC3587705</ArticleId>
+            <ArticleId IdType="pubmed">23208419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang J, Zhang A, Ho TT, Zhang Z, Zhou N, Ding X, Zhang X, Xu M, Mo YY. Linc-RoR promotes c-Myc expression through hnRNP I and AUF1. Nucleic Acids Res. 2016;44:3059–3069. doi: 10.1093/nar/gkv1353.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkv1353</ArticleId>
+            <ArticleId IdType="pmc">PMC4838338</ArticleId>
+            <ArticleId IdType="pubmed">26656491</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eades G, Wolfson B, Zhang Y, Li Q, Yao Y, Zhou Q. lincRNA-RoR and miR-145 regulate invasion in triple-negative breast cancer via targeting ARF6. Mol Cancer Res. 2015;13:330–338. doi: 10.1158/1541-7786.MCR-14-0251.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1541-7786.MCR-14-0251</ArticleId>
+            <ArticleId IdType="pmc">PMC4336811</ArticleId>
+            <ArticleId IdType="pubmed">25253741</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu Q, Huang J, Zhou N, Zhang Z, Zhang A, Lu Z, Wu F, Mo YY. LncRNA loc285194 is a p53-regulated tumor suppressor. Nucleic Acids Res. 2013;41:4976–4987. doi: 10.1093/nar/gkt182.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkt182</ArticleId>
+            <ArticleId IdType="pmc">PMC3643595</ArticleId>
+            <ArticleId IdType="pubmed">23558749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Si ML, Zhu S, Wu H, Lu Z, Wu F, Mo YY. miR-21-mediated tumor growth. Oncogene. 2007;26:2799–2803. doi: 10.1038/sj.onc.1210083.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/sj.onc.1210083</ArticleId>
+            <ArticleId IdType="pubmed">17072344</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peng WX, Xiong EM, Ge L, Wan YY, Zhang CL, FY D, Xu M, Bhat RA, Jin J, Gong AH. Egr-1 promotes hypoxia-induced autophagy to enhance chemo-resistance of hepatocellular carcinoma cells. Exp Cell Res. 2016;340:62–70. doi: 10.1016/j.yexcr.2015.12.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.yexcr.2015.12.006</ArticleId>
+            <ArticleId IdType="pubmed">26708617</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ran FA, Hsu PD, Wright J, Agarwala V, Scott DA, Zhang F. Genome engineering using the CRISPR-Cas9 system. Nat Protoc. 2013;8:2281–2308. doi: 10.1038/nprot.2013.143.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nprot.2013.143</ArticleId>
+            <ArticleId IdType="pmc">PMC3969860</ArticleId>
+            <ArticleId IdType="pubmed">24157548</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ho TT, Zhou N, Huang J, Koirala P, Xu M, Fung R, Wu F, Mo YY. Targeting non-coding RNAs with the CRISPR/Cas9 system in human cell lines. Nucleic Acids Res. 2015;43:e17. doi: 10.1093/nar/gku1198.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gku1198</ArticleId>
+            <ArticleId IdType="pmc">PMC4330338</ArticleId>
+            <ArticleId IdType="pubmed">25414344</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu F, Chiocca S, Beck WT, Mo YY. Gam1-associated alterations of drug responsiveness through activation of apoptosis. Mol Cancer Ther. 2007;6:1823–1830. doi: 10.1158/1535-7163.MCT-06-0771.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1535-7163.MCT-06-0771</ArticleId>
+            <ArticleId IdType="pubmed">17575111</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen WC, Wang CY, Hung YH, Weng TY, Yen MC, Lai MD. Systematic Analysis of Gene Expression Alterations and Clinical Outcomes for Long-Chain Acyl-Coenzyme A Synthetase Family in Cancer. PLoS One. 2016;11:e0155660. doi: 10.1371/journal.pone.0155660.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0155660</ArticleId>
+            <ArticleId IdType="pmc">PMC4865206</ArticleId>
+            <ArticleId IdType="pubmed">27171439</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mohseni M, Cidado J, Croessmann S, Cravero K, Cimino-Mathews A, Wong HY, Scharpf R, Zabransky DJ, Abukhdeir AM, Garay JP, et al.  MACROD2 overexpression mediates estrogen independent growth and tamoxifen resistance in breast cancers. Proc Natl Acad Sci U S A. 2014;111:17606–17611. doi: 10.1073/pnas.1408650111.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1408650111</ArticleId>
+            <ArticleId IdType="pmc">PMC4267353</ArticleId>
+            <ArticleId IdType="pubmed">25422431</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Coleman KM, Smith CL. Intracellular signaling pathways: nongenomic actions of estrogens and ligand-independent activation of estrogen receptors. Front Biosci. 2001;6:D1379–D1391. doi: 10.2741/Coleman.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2741/Coleman</ArticleId>
+            <ArticleId IdType="pubmed">11578956</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kok M, Holm-Wigerup C, Hauptmann M, Michalides R, Stal O, Linn S, Landberg G. Estrogen receptor-alpha phosphorylation at serine-118 and tamoxifen response in breast cancer. J Natl Cancer Inst. 2009;101:1725–1729. doi: 10.1093/jnci/djp412.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/jnci/djp412</ArticleId>
+            <ArticleId IdType="pubmed">19940281</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anbalagan M, Rowan BG. Estrogen receptor alpha phosphorylation and its functional impact in human breast cancer. Mol Cell Endocrinol. 2015;418(Pt 3):264–272. doi: 10.1016/j.mce.2015.01.016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.mce.2015.01.016</ArticleId>
+            <ArticleId IdType="pubmed">25597633</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bunone G, Briand PA, Miksicek RJ, Picard D. Activation of the unliganded estrogen receptor by EGF involves the MAP kinase pathway and direct phosphorylation. EMBO J. 1996;15:2174–2183.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC450141</ArticleId>
+            <ArticleId IdType="pubmed">8641283</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen D, Washbrook E, Sarwar N, Bates GJ, Pace PE, Thirunuvakkarasu V, Taylor J, Epstein RJ, Fuller-Pace FV, Egly JM, et al.  Phosphorylation of human estrogen receptor alpha at serine 118 by two distinct signal transduction pathways revealed by phosphorylation-specific antisera. Oncogene. 2002;21:4921–4931. doi: 10.1038/sj.onc.1205420.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/sj.onc.1205420</ArticleId>
+            <ArticleId IdType="pubmed">12118371</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Owens DM, Keyse SM. Differential regulation of MAP kinase signalling by dual-specificity protein phosphatases. Oncogene. 2007;26:3203–3213. doi: 10.1038/sj.onc.1210412.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/sj.onc.1210412</ArticleId>
+            <ArticleId IdType="pubmed">17496916</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng J, Zhang C, Shapiro DJ. A functional serine 118 phosphorylation site in estrogen receptor-alpha is required for down-regulation of gene expression by 17beta-estradiol and 4-hydroxytamoxifen. Endocrinology. 2007;148:4634–4641. doi: 10.1210/en.2007-0148.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1210/en.2007-0148</ArticleId>
+            <ArticleId IdType="pubmed">17615152</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Likhite VS, Stossi F, Kim K, Katzenellenbogen BS, Katzenellenbogen JA. Kinase-specific phosphorylation of the estrogen receptor changes receptor interactions with ligand, deoxyribonucleic acid, and coregulators associated with alterations in estrogen and tamoxifen activity. Mol Endocrinol. 2006;20:3120–3132. doi: 10.1210/me.2006-0068.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1210/me.2006-0068</ArticleId>
+            <ArticleId IdType="pubmed">16945990</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shou J, Massarweh S, Osborne CK, Wakeling AE, Ali S, Weiss H, Schiff R. Mechanisms of tamoxifen resistance: increased estrogen receptor-HER2/neu cross-talk in ER/HER2-positive breast cancer. J Natl Cancer Inst. 2004;96:926–935. doi: 10.1093/jnci/djh166.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/jnci/djh166</ArticleId>
+            <ArticleId IdType="pubmed">15199112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen M, Cui YK, Huang WH, Man K, Zhang GJ. Phosphorylation of estrogen receptor alpha at serine 118 is correlated with breast cancer resistance to tamoxifen. Oncol Lett. 2013;6:118–124.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3742566</ArticleId>
+            <ArticleId IdType="pubmed">23946788</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yamashita H, Nishio M, Toyama T, Sugiura H, Kondo N, Kobayashi S, Fujii Y, Iwase H. Low phosphorylation of estrogen receptor alpha (ERalpha) serine 118 and high phosphorylation of ERalpha serine 167 improve survival in ER-positive breast cancer. Endocr Relat Cancer. 2008;15:755–763. doi: 10.1677/ERC-08-0078.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1677/ERC-08-0078</ArticleId>
+            <ArticleId IdType="pubmed">18550720</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kolch W. Coordinating ERK/MAPK signalling through scaffolds and inhibitors. Nat Rev Mol Cell Biol. 2005;6:827–837. doi: 10.1038/nrm1743.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrm1743</ArticleId>
+            <ArticleId IdType="pubmed">16227978</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dhillon AS, Hagan S, Rath O, Kolch W. MAP kinase signalling pathways in cancer. Oncogene. 2007;26:3279–3290. doi: 10.1038/sj.onc.1210421.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/sj.onc.1210421</ArticleId>
+            <ArticleId IdType="pubmed">17496922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Herrero A, Pinto A, Colon-Bolea P, Casar B, Jones M, Agudo-Ibanez L, Vidal R, Tenbaum SP, Nuciforo P, Valdizan EM, et al.  Small Molecule Inhibition of ERK Dimerization Prevents Tumorigenesis by RAS-ERK Pathway Oncogenes. Cancer Cell. 2015;28:170–182. doi: 10.1016/j.ccell.2015.07.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ccell.2015.07.001</ArticleId>
+            <ArticleId IdType="pubmed">26267534</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bartholomeusz C, Gonzalez-Angulo AM, Liu P, Hayashi N, Lluch A, Ferrer-Lozano J, Hortobagyi GN. High ERK protein expression levels correlate with shorter survival in triple-negative breast cancer patients. Oncologist. 2012;17:766–774. doi: 10.1634/theoncologist.2011-0377.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1634/theoncologist.2011-0377</ArticleId>
+            <ArticleId IdType="pmc">PMC3380875</ArticleId>
+            <ArticleId IdType="pubmed">22584435</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McCubrey JA, Steelman LS, Chappell WH, Abrams SL, Wong EW, Chang F, Lehmann B, Terrian DM, Milella M, Tafuri A, et al.  Roles of the Raf/MEK/ERK pathway in cell growth, malignant transformation and drug resistance. Biochim Biophys Acta. 2007;1773:1263–1284. doi: 10.1016/j.bbamcr.2006.10.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbamcr.2006.10.001</ArticleId>
+            <ArticleId IdType="pmc">PMC2696318</ArticleId>
+            <ArticleId IdType="pubmed">17126425</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li P, Xue WJ, Feng Y, Mao QS. Long non-coding RNA CASC2 suppresses the proliferation of gastric cancer cells by regulating the MAPK signaling pathway. Am J Transl Res. 2016;8:3522–3529.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5009404</ArticleId>
+            <ArticleId IdType="pubmed">27648142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>XS W, Wang XA, WG W, YP H, Li ML, Ding Q, Weng H, Shu YJ, Liu TY, Jiang L, et al.  MALAT1 promotes the proliferation and metastasis of gallbladder cancer cells by activating the ERK/MAPK pathway. Cancer Biol Ther. 2014;15:806–814. doi: 10.4161/cbt.28584.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4161/cbt.28584</ArticleId>
+            <ArticleId IdType="pmc">PMC4049796</ArticleId>
+            <ArticleId IdType="pubmed">24658096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Caunt CJ, Keyse SM. Dual-specificity MAP kinase phosphatases (MKPs): shaping the outcome of MAP kinase signalling. FEBS J. 2013;280:489–504. doi: 10.1111/j.1742-4658.2012.08716.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1742-4658.2012.08716.x</ArticleId>
+            <ArticleId IdType="pmc">PMC3594966</ArticleId>
+            <ArticleId IdType="pubmed">22812510</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun H, Charles CH, Lau LF, Tonks NK. MKP-1 (3CH134), an immediate early gene product, is a dual specificity phosphatase that dephosphorylates MAP kinase in vivo. Cell. 1993;75:487–493. doi: 10.1016/0092-8674(93)90383-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0092-8674(93)90383-2</ArticleId>
+            <ArticleId IdType="pubmed">8221888</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Giltnane JM, Balko JM. Rationale for targeting the Ras/MAPK pathway in triple-negative breast cancer. Discov Med. 2014;17:275–283.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24882719</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Low HB, Zhang Y. Regulatory Roles of MAPK Phosphatases in Cancer. Immune Netw. 2016;16:85–98. doi: 10.4110/in.2016.16.2.85.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4110/in.2016.16.2.85</ArticleId>
+            <ArticleId IdType="pmc">PMC4853501</ArticleId>
+            <ArticleId IdType="pubmed">27162525</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li G, Ci W, Karmakar S, Chen K, Dhar R, Fan Z, Guo Z, Zhang J, Ke Y, Wang L, et al.  SPOP promotes tumorigenesis by acting as a key regulatory hub in kidney cancer. Cancer Cell. 2014;25:455–468. doi: 10.1016/j.ccr.2014.02.007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ccr.2014.02.007</ArticleId>
+            <ArticleId IdType="pmc">PMC4443692</ArticleId>
+            <ArticleId IdType="pubmed">24656772</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carlos AR, Escandell JM, Kotsantis P, Suwaki N, Bouwman P, Badie S, Folio C, Benitez J, Gomez-Lopez G, Pisano DG, et al.  ARF triggers senescence in Brca2-deficient cells by altering the spectrum of p53 transcriptional targets. Nat Commun. 2013;4:2697. doi: 10.1038/ncomms3697.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms3697</ArticleId>
+            <ArticleId IdType="pubmed">24162189</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

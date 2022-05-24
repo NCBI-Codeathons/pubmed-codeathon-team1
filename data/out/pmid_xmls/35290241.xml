@@ -1,0 +1,738 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35290241</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>03</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>07</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1558-8238</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>132</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>02</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of clinical investigation</Title>
+          <ISOAbbreviation>J Clin Invest</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Combinatorial targeting of Hippo-STRIPAK and PARP elicits synthetic lethality in gastrointestinal cancers.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">e155468</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1172/JCI155468</ELocationID>
+        <Abstract>
+          <AbstractText>The striatin-interacting phosphatase and kinase (STRIPAK) complexes integrate extracellular stimuli that result in intracellular activities. Previously, we discovered that STRIPAK is a key machinery responsible for loss of the Hippo tumor suppressor signal in cancer. Here, we identified the Hippo-STRIPAK complex as an essential player in the control of DNA double-stranded break (DSB) repair and genomic stability. Specifically, we found that the mammalian STE20-like protein kinases 1 and 2 (MST1/2), independent of classical Hippo signaling, directly phosphorylated zinc finger MYND type-containing 8 (ZMYND8) and hence resulted in the suppression of DNA repair in the nucleus. In response to genotoxic stress, the cyclic GMP-AMP synthase/stimulator of IFN genes (cGAS/STING) pathway was determined to relay nuclear DNA damage signals to the dynamic assembly of Hippo-STRIPAK via TANK-binding kinase 1-induced (TBK1-induced) structural stabilization of the suppressor of IKBKE 1- sarcolemma membrane-associated protein (SIKE1-SLMAP) arm. As such, we found that STRIPAK-mediated MST1/2 inactivation increased the DSB repair capacity of cancer cells and endowed these cells with resistance to radio- and chemotherapy and poly(ADP-ribose)polymerase (PARP) inhibition. Importantly, targeting the STRIPAK assembly with each of 3 distinct peptide inhibitors efficiently recovered the kinase activity of MST1/2 to suppress DNA repair and resensitize cancer cells to PARP inhibitors in both animal- and patient-derived tumor models. Overall, our findings not only uncover what we believe to be a previously unrecognized role for STRIPAK in modulating DSB repair but also provide translational implications of cotargeting STRIPAK and PARP for a new type of synthetic lethality anticancer therapy.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>An</LastName>
+            <ForeName>Liwei</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Ultrasound, Shanghai Tenth People's Hospital, Tongji University Cancer Center, Tongji University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cao</LastName>
+            <ForeName>Zhifa</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Cell Biology, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nie</LastName>
+            <ForeName>Pingping</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Cell Biology, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Hui</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Genetic Engineering, Zhongshan Hospital, School of Life Sciences, Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tong</LastName>
+            <ForeName>Zhenzhu</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Cell Biology, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Fan</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Cell Biology, Shanghai Institute of Biochemistry and Cell Biology, Center for Excellence in Molecular Cell Science, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tang</LastName>
+            <ForeName>Yang</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Ultrasound, Shanghai Tenth People's Hospital, Tongji University Cancer Center, Tongji University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Han</LastName>
+            <ForeName>Yi</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Ultrasound, Shanghai Tenth People's Hospital, Tongji University Cancer Center, Tongji University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Wenjia</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Genetic Engineering, Zhongshan Hospital, School of Life Sciences, Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Zhangting</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Genetic Engineering, Zhongshan Hospital, School of Life Sciences, Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Qingya</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Laboratory Animal Center, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Yuqin</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Laboratory Animal Center, Shanghai General Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Yuanzhi</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Stomatology, Shanghai Tenth People's Hospital, Tongji University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fang</LastName>
+            <ForeName>Gemin</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institutes of Physical Science and Information Technology, Anhui University, Hefei, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shi</LastName>
+            <ForeName>Lei</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Biology, Tianjin Medical University, Tianjin, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Huixiong</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Ultrasound, Shanghai Tenth People's Hospital, Tongji University Cancer Center, Tongji University School of Medicine, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Ultrasound, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ma</LastName>
+            <ForeName>Haiqing</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Oncology, Guangdong Provincial People's Hospital, Guangdong Academy of Medical Sciences, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jiao</LastName>
+            <ForeName>Shi</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Genetic Engineering, Zhongshan Hospital, School of Life Sciences, Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Zhaocai</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Genetic Engineering, Zhongshan Hospital, School of Life Sciences, Fudan University, Shanghai, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Collaborative Innovation Center for Cancer Personalized Medicine, Nanjing Medical University, Nanjing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>J Clin Invest</MedlineTA>
+        <NlmUniqueID>7802877</NlmUniqueID>
+        <ISSNLinking>0021-9738</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000067856">Poly(ADP-ribose) Polymerase Inhibitors</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.1.3.2</RegistryNumber>
+          <NameOfSubstance UI="D010744">Phosphoric Monoester Hydrolases</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005770" MajorTopicYN="Y">Gastrointestinal Neoplasms</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008322" MajorTopicYN="N">Mammals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010744" MajorTopicYN="Y">Phosphoric Monoester Hydrolases</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000067856" MajorTopicYN="N">Poly(ADP-ribose) Polymerase Inhibitors</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000072020" MajorTopicYN="N">Synthetic Lethal Mutations</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014157" MajorTopicYN="N">Transcription Factors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cell Biology</Keyword>
+        <Keyword MajorTopicYN="N">Drug therapy</Keyword>
+        <Keyword MajorTopicYN="N">Gastric cancer</Keyword>
+        <Keyword MajorTopicYN="N">Gastroenterology</Keyword>
+        <Keyword MajorTopicYN="N">Molecular biology</Keyword>
+      </KeywordList>
+      <CoiStatement><b>Conflict of interest:</b> ZZ, LA, ZC, WW, and YH have filed 2 patent applications in China (nos. 202111368492.6 and 202111633313.7) for the combination therapy involving SAIP-1/2 and PARPi.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>9</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>15</Day>
+          <Hour>17</Hour>
+          <Minute>18</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35290241</ArticleId>
+        <ArticleId IdType="pmc">PMC9057599</ArticleId>
+        <ArticleId IdType="doi">10.1172/JCI155468</ArticleId>
+        <ArticleId IdType="pii">155468</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Jackson SP, Bartek J. The DNA-damage response in human biology and disease. Nature. 2009;461(7267):1071–1078. doi: 10.1038/nature08467.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature08467</ArticleId>
+            <ArticleId IdType="pmc">PMC2906700</ArticleId>
+            <ArticleId IdType="pubmed">19847258</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chapman JR, et al.  Playing the end game: DNA double-strand break repair pathway choice. Mol Cell. 2012;47(4):497–510. doi: 10.1016/j.molcel.2012.07.029.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2012.07.029</ArticleId>
+            <ArticleId IdType="pubmed">22920291</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Farmer H, et al.  Targeting the DNA repair defect in BRCA mutant cells as a therapeutic strategy. Nature. 2005;434(7035):917–921. doi: 10.1038/nature03445.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature03445</ArticleId>
+            <ArticleId IdType="pubmed">15829967</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lord CJ, Ashworth A. PARP inhibitors: Synthetic lethality in the clinic. Science. 2017;355(6330):1152–1158. doi: 10.1126/science.aam7344.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aam7344</ArticleId>
+            <ArticleId IdType="pmc">PMC6175050</ArticleId>
+            <ArticleId IdType="pubmed">28302823</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kuck U, et al.  STRIPAK, a highly conserved signaling complex, controls multiple eukaryotic cellular and developmental processes and is linked with human diseases. Biol Chem.  doi: 10.1515/hsz-2019-0173. [published online May 1, 2019].</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1515/hsz-2019-0173</ArticleId>
+            <ArticleId IdType="pubmed">31042639</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hwang J, Pallas DC. STRIPAK complexes: structure, biological function, and involvement in human diseases. Int J Biochem Cell Biol. 2014;47:118–148. doi: 10.1016/j.biocel.2013.11.021.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.biocel.2013.11.021</ArticleId>
+            <ArticleId IdType="pmc">PMC3927685</ArticleId>
+            <ArticleId IdType="pubmed">24333164</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tang Y, et al.  Architecture, substructures, and dynamic assembly of STRIPAK complexes in Hippo signaling. Cell Discov. 2019;5:3. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6323126</ArticleId>
+            <ArticleId IdType="pubmed">30622739</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lant B, et al.  CCM-3/STRIPAK promotes seamless tube extension through endocytic recycling. Nat Commun. 2015;6:6449. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25743393</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gil-Ranedo J, et al.  STRIPAK members orchestrate hippo and insulin receptor signaling to promote neural stem cell reactivation. Cell Rep. 2019;27(10):2921–2933. doi: 10.1016/j.celrep.2019.05.023.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2019.05.023</ArticleId>
+            <ArticleId IdType="pmc">PMC6581792</ArticleId>
+            <ArticleId IdType="pubmed">31167138</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Madsen CD, et al.  STRIPAK components determine mode of cancer cell migration and metastasis. Nat Cell Biol. 2015;17(1):68–80. doi: 10.1038/ncb3083.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncb3083</ArticleId>
+            <ArticleId IdType="pmc">PMC5354264</ArticleId>
+            <ArticleId IdType="pubmed">25531779</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim JW, et al.  STRIPAK directs PP2A activity toward MAP4K4 to promote oncogenic transformation of human cells. Elife. 2020;9:e53003. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6984821</ArticleId>
+            <ArticleId IdType="pubmed">31913126</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tang Y, et al.  Selective inhibition of STRN3-containing PP2A phosphatase restores Hippo tumor-suppressor activity in gastric cancer. Cancer Cell. 2020;38(1):115–128. doi: 10.1016/j.ccell.2020.05.019.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ccell.2020.05.019</ArticleId>
+            <ArticleId IdType="pubmed">32589942</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jeong BC, et al.  Cryo-EM structure of the Hippo signaling integrator human STRIPAK. Nat Struct Mol Biol. 2021;28(3):290–299. doi: 10.1038/s41594-021-00564-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41594-021-00564-y</ArticleId>
+            <ArticleId IdType="pmc">PMC8315899</ArticleId>
+            <ArticleId IdType="pubmed">33633399</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zheng Y, et al.  Homeostatic control of Hpo/MST kinase activity through autophosphorylation-dependent recruitment of the STRIPAK PP2A phosphatase complex. Cell Rep. 2017;21(12):3612–3623. doi: 10.1016/j.celrep.2017.11.076.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2017.11.076</ArticleId>
+            <ArticleId IdType="pmc">PMC5741103</ArticleId>
+            <ArticleId IdType="pubmed">29262338</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seo G, et al.  MAP4K interactome reveals STRN4 as a key STRIPAK complex component in Hippo pathway regulation. Cell Rep. 2020;32(1):107860.  doi: 10.1016/j.celrep.2020.107860.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2020.107860</ArticleId>
+            <ArticleId IdType="pmc">PMC7382313</ArticleId>
+            <ArticleId IdType="pubmed">32640226</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bae SJ, et al.  SAV1 promotes Hippo kinase activation through antagonizing the PP2A phosphatase STRIPAK. Elife. 2017;6:e30278. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5663475</ArticleId>
+            <ArticleId IdType="pubmed">29063833</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bae SJ, et al.  STK25 suppresses Hippo signaling by regulating SAV1-STRIPAK antagonism. Elife. 2020;9:e54863. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7182433</ArticleId>
+            <ArticleId IdType="pubmed">32292165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen R, et al.  STRIPAK integrates upstream signals to initiate the Hippo kinase cascade. Nat Cell Biol. 2019;21(12):1565–1577. doi: 10.1038/s41556-019-0426-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41556-019-0426-y</ArticleId>
+            <ArticleId IdType="pubmed">31792377</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roux KJ, et al.  A promiscuous biotin ligase fusion protein identifies proximal and interacting proteins in mammalian cells. J Cell Biol. 2012;196(6):801–810. doi: 10.1083/jcb.201112098.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1083/jcb.201112098</ArticleId>
+            <ArticleId IdType="pmc">PMC3308701</ArticleId>
+            <ArticleId IdType="pubmed">22412018</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li T, Chen ZJ. The cGAS-cGAMP-STING pathway connects DNA damage to inflammation, senescence, and cancer. J Exp Med. 2018;215(5):1287–1299. doi: 10.1084/jem.20180139.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1084/jem.20180139</ArticleId>
+            <ArticleId IdType="pmc">PMC5940270</ArticleId>
+            <ArticleId IdType="pubmed">29622565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang J, et al.  SIKE is an IKK epsilon/TBK1-associated suppressor of TLR3- and virus-triggered IRF-3 activation pathways. EMBO J. 2005;24(23):4018–4028. doi: 10.1038/sj.emboj.7600863.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/sj.emboj.7600863</ArticleId>
+            <ArticleId IdType="pmc">PMC1356304</ArticleId>
+            <ArticleId IdType="pubmed">16281057</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marion JD, et al.  Mechanism of endogenous regulation of the type I interferon response by suppressor of IκB kinase epsilon (SIKE), a novel substrate of TANK-binding kinase 1 (TBK1) J Biol Chem. 2013;288(25):18612–18623. doi: 10.1074/jbc.M112.440859.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M112.440859</ArticleId>
+            <ArticleId IdType="pmc">PMC3690000</ArticleId>
+            <ArticleId IdType="pubmed">23649622</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Matallanas D, et al.  RASSF1A elicits apoptosis through an MST2 pathway directing proapoptotic transcription by the p73 tumor suppressor protein. Mol Cell. 2007;27(6):962–975. doi: 10.1016/j.molcel.2007.08.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2007.08.008</ArticleId>
+            <ArticleId IdType="pmc">PMC2821687</ArticleId>
+            <ArticleId IdType="pubmed">17889669</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pefani DE, et al.  RASSF1A-LATS1 signalling stabilizes replication forks by restricting CDK2-mediated phosphorylation of BRCA2. Nat Cell Biol. 2014;16(10):962–971, 1–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4861244</ArticleId>
+            <ArticleId IdType="pubmed">25218637</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hamilton G, et al.  ATM regulates a RASSF1A-dependent DNA damage response. Curr Biol. 2009;19(23):2020–2025. doi: 10.1016/j.cub.2009.10.040.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cub.2009.10.040</ArticleId>
+            <ArticleId IdType="pmc">PMC4861209</ArticleId>
+            <ArticleId IdType="pubmed">19962312</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yee KS, et al.  A RASSF1A polymorphism restricts p53/p73 activation and associates with poor survival and accelerated age of onset of soft tissue sarcoma. Cancer Res. 2012;72(9):2206–2217. doi: 10.1158/0008-5472.CAN-11-2906.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-11-2906</ArticleId>
+            <ArticleId IdType="pmc">PMC4861210</ArticleId>
+            <ArticleId IdType="pubmed">22389451</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Strano S, et al.  The transcriptional coactivator Yes-associated protein drives p73 gene-target specificity in response to DNA Damage. Mol Cell. 2005;18(4):447–459. doi: 10.1016/j.molcel.2005.04.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2005.04.008</ArticleId>
+            <ArticleId IdType="pubmed">15893728</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dey A, et al.  Targeting the Hippo pathway in cancer, fibrosis, wound healing and regenerative medicine. Nat Rev Drug Discov. 2020;19(7):480–494. doi: 10.1038/s41573-020-0070-z.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41573-020-0070-z</ArticleId>
+            <ArticleId IdType="pmc">PMC7880238</ArticleId>
+            <ArticleId IdType="pubmed">32555376</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Elaimy AL, et al.  The VEGF receptor neuropilin 2 promotes homologous recombination by stimulating YAP/TAZ-mediated Rad51 expression. Proc Natl Acad Sci U S A. 2019;116(28):14174–14180. doi: 10.1073/pnas.1821194116.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1821194116</ArticleId>
+            <ArticleId IdType="pmc">PMC6628806</ArticleId>
+            <ArticleId IdType="pubmed">31235595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Papaspyropoulos A, et al.  RASSF1A uncouples Wnt from Hippo signalling and promotes YAP mediated differentiation via p73. Nat Commun. 2018;9(1):424.  doi: 10.1038/s41467-017-02786-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-017-02786-5</ArticleId>
+            <ArticleId IdType="pmc">PMC5789973</ArticleId>
+            <ArticleId IdType="pubmed">29382819</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Basu S, et al.  Akt phosphorylates the Yes-associated protein, YAP, to induce interaction with 14-3-3 and attenuation of p73-mediated apoptosis. Mol Cell. 2003;11(1):11–23. doi: 10.1016/S1097-2765(02)00776-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1097-2765(02)00776-1</ArticleId>
+            <ArticleId IdType="pubmed">12535517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>An L, et al.  MST4 kinase suppresses gastric tumorigenesis by limiting YAP activation via a non-canonical pathway. J Exp Med. 2020;217(6):e20191817.  doi: 10.1084/jem.20191817.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1084/jem.20191817</ArticleId>
+            <ArticleId IdType="pmc">PMC7971137</ArticleId>
+            <ArticleId IdType="pubmed">32271880</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ahn SH, et al.  Sterile 20 kinase phosphorylates histone H2B at serine 10 during hydrogen peroxide-induced apoptosis in S. cerevisiae. Cell. 2005;120(1):25–36. doi: 10.1016/j.cell.2004.11.016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2004.11.016</ArticleId>
+            <ArticleId IdType="pubmed">15652479</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheung WL, et al.  Apoptotic phosphorylation of histone H2B is mediated by mammalian sterile twenty kinase. Cell. 2003;113(4):507–517. doi: 10.1016/S0092-8674(03)00355-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0092-8674(03)00355-6</ArticleId>
+            <ArticleId IdType="pubmed">12757711</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wen W, et al.  MST1 promotes apoptosis through phosphorylation of histone H2AX. J Biol Chem. 2010;285(50):39108–39116. doi: 10.1074/jbc.M110.151753.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M110.151753</ArticleId>
+            <ArticleId IdType="pmc">PMC2998151</ArticleId>
+            <ArticleId IdType="pubmed">20921231</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Teraishi F, et al.  Activation of sterile20-like kinase 1 in proteasome inhibitor bortezomib-induced apoptosis in oncogenic K-ras-transformed cells. Cancer Res. 2006;66(12):6072–6079. doi: 10.1158/0008-5472.CAN-06-0125.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-06-0125</ArticleId>
+            <ArticleId IdType="pmc">PMC1482805</ArticleId>
+            <ArticleId IdType="pubmed">16778179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Galan JA, Avruch J. MST1/MST2 protein kinases: regulation and physiologic roles. Biochemistry. 2016;55(39):5507–5519. doi: 10.1021/acs.biochem.6b00763.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acs.biochem.6b00763</ArticleId>
+            <ArticleId IdType="pmc">PMC5479320</ArticleId>
+            <ArticleId IdType="pubmed">27618557</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chatzifrangkeskou M, et al.  RASSF1A is required for the maintenance of nuclear actin levels. EMBO J. 2019;38(16):e101168. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6694222</ArticleId>
+            <ArticleId IdType="pubmed">31414556</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pefani DE, et al.  MST2 kinase suppresses rDNA transcription in response to DNA damage by phosphorylating nucleolar histone H2B. EMBO J. 2018;37(15):e98760. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6068430</ArticleId>
+            <ArticleId IdType="pubmed">29789391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Graves JD, et al.  Caspase-mediated activation and induction of apoptosis by the mammalian Ste20-like kinase Mst1. EMBO J. 1998;17(8):2224–2234. doi: 10.1093/emboj/17.8.2224.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/emboj/17.8.2224</ArticleId>
+            <ArticleId IdType="pmc">PMC1170567</ArticleId>
+            <ArticleId IdType="pubmed">9545236</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ura S, et al.  Caspase cleavage of MST1 promotes nuclear translocation and chromatin condensation. Proc Natl Acad Sci U S A. 2001;98(18):10148–10153. doi: 10.1073/pnas.181161698.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.181161698</ArticleId>
+            <ArticleId IdType="pmc">PMC56930</ArticleId>
+            <ArticleId IdType="pubmed">11517310</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gong F, et al.  Screen identifies bromodomain protein ZMYND8 in chromatin recognition of transcription-associated DNA damage that promotes homologous recombination. Genes Dev. 2015;29(2):197–211. doi: 10.1101/gad.252189.114.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.252189.114</ArticleId>
+            <ArticleId IdType="pmc">PMC4298138</ArticleId>
+            <ArticleId IdType="pubmed">25593309</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Delgado-Benito V, et al.  The chromatin reader ZMYND8 regulates Igh enhancers to promote immunoglobulin class switch recombination. Mol Cell. 2018;72(4):636–649. doi: 10.1016/j.molcel.2018.08.042.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2018.08.042</ArticleId>
+            <ArticleId IdType="pmc">PMC6242708</ArticleId>
+            <ArticleId IdType="pubmed">30293785</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fan F, et al.  Pharmacological targeting of kinases MST1 and MST2 augments tissue repair and regeneration. Sci Transl Med. 2016;8(352):352ra108. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27535619</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rodriguez-Cupello C, et al.  The STRIPAK complex regulates response to chemotherapy through p21 and p27. Front Cell Dev Biol. 2020;8:146. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7089963</ArticleId>
+            <ArticleId IdType="pubmed">32258031</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li FL, et al.  Acetylation accumulates PFKFB3 in cytoplasm to promote glycolysis and protects cells from cisplatin-induced apoptosis. Nat Commun. 2018;9(1):508.  doi: 10.1038/s41467-018-02950-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-018-02950-5</ArticleId>
+            <ArticleId IdType="pmc">PMC5802808</ArticleId>
+            <ArticleId IdType="pubmed">29410405</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xie X, et al.  The mTOR-S6K pathway links growth signalling to DNA damage response by targeting RNF168. Nat Cell Biol. 2018;20(3):320–331. doi: 10.1038/s41556-017-0033-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41556-017-0033-8</ArticleId>
+            <ArticleId IdType="pmc">PMC5826806</ArticleId>
+            <ArticleId IdType="pubmed">29403037</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bai J, Liu F. Nuclear cGAS: sequestration and beyond. Protein Cell. 2022;13(2):90–101. doi: 10.1007/s13238-021-00869-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13238-021-00869-0</ArticleId>
+            <ArticleId IdType="pmc">PMC8783940</ArticleId>
+            <ArticleId IdType="pubmed">34374004</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu H, et al.  Nuclear cGAS suppresses DNA repair and promotes tumorigenesis. Nature. 2018;563(7729):131–136. doi: 10.1038/s41586-018-0629-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-018-0629-6</ArticleId>
+            <ArticleId IdType="pubmed">30356214</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dunphy G, et al.  Non-canonical activation of the DNA sensing adaptor STING by ATM and IFI16 mediates NF-κB signaling after nuclear DNA damage. Mol Cell. 2018;71(5):745–760. doi: 10.1016/j.molcel.2018.07.034.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2018.07.034</ArticleId>
+            <ArticleId IdType="pmc">PMC6127031</ArticleId>
+            <ArticleId IdType="pubmed">30193098</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Deng M, et al.  Extracellular matrix stiffness determines DNA repair efficiency and cellular sensitivity to genotoxic agents. Sci Adv. 2020;6(37):eabb2630.  doi: 10.1126/sciadv.abb2630.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/sciadv.abb2630</ArticleId>
+            <ArticleId IdType="pmc">PMC7486107</ArticleId>
+            <ArticleId IdType="pubmed">32917705</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xie R, et al.  The dysregulation and prognostic analysis of STRIPAK complex across cancers. Front Cell Dev Biol. 2020;8:625. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7365848</ArticleId>
+            <ArticleId IdType="pubmed">32754603</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>van der Weyden L, et al.  Loss of RASSF1A synergizes with deregulated RUNX2 signaling in tumorigenesis. Cancer Res. 2012;72(15):3817–3827. doi: 10.1158/0008-5472.CAN-11-3343.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-11-3343</ArticleId>
+            <ArticleId IdType="pmc">PMC4067151</ArticleId>
+            <ArticleId IdType="pubmed">22710434</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peng Z, et al.  Role of FAT1 in health and disease. Oncol Lett. 2021;21(5):398.  doi: 10.3892/ol.2021.12659.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3892/ol.2021.12659</ArticleId>
+            <ArticleId IdType="pmc">PMC7988705</ArticleId>
+            <ArticleId IdType="pubmed">33777221</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grawenda AM, O’Neill E. Clinical utility of RASSF1A methylation in human malignancies. Br J Cancer. 2015;113(3):372–381. doi: 10.1038/bjc.2015.221.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/bjc.2015.221</ArticleId>
+            <ArticleId IdType="pmc">PMC4522630</ArticleId>
+            <ArticleId IdType="pubmed">26158424</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alexandrov LB, et al.  A mutational signature in gastric cancer suggests therapeutic strategies. Nat Commun. 2015;6:8683. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4918743</ArticleId>
+            <ArticleId IdType="pubmed">26511885</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bang YJ, et al.  Olaparib in combination with paclitaxel in patients with advanced gastric cancer who have progressed following first-line therapy (GOLD): a double-blind, randomised, placebo-controlled, phase 3 trial. Lancet Oncol. 2017;18(12):1637–1651. doi: 10.1016/S1470-2045(17)30682-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1470-2045(17)30682-4</ArticleId>
+            <ArticleId IdType="pubmed">29103871</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

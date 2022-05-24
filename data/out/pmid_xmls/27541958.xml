@@ -1,0 +1,660 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">27541958</PMID>
+      <DateCompleted>
+        <Year>2017</Year>
+        <Month>06</Month>
+        <Day>20</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">1553-7358</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>12</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>PLoS computational biology</Title>
+          <ISOAbbreviation>PLoS Comput Biol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Inverse Stochastic Resonance in Cerebellar Purkinje Cells.</ArticleTitle>
+        <Pagination>
+          <StartPage>e1005000</StartPage>
+          <MedlinePgn>e1005000</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">e1005000</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pcbi.1005000</ELocationID>
+        <Abstract>
+          <AbstractText>Purkinje neurons play an important role in cerebellar computation since their axons are the only projection from the cerebellar cortex to deeper cerebellar structures. They have complex internal dynamics, which allow them to fire spontaneously, display bistability, and also to be involved in network phenomena such as high frequency oscillations and travelling waves. Purkinje cells exhibit type II excitability, which can be revealed by a discontinuity in their f-I curves. We show that this excitability mechanism allows Purkinje cells to be efficiently inhibited by noise of a particular variance, a phenomenon known as inverse stochastic resonance (ISR). While ISR has been described in theoretical models of single neurons, here we provide the first experimental evidence for this effect. We find that an adaptive exponential integrate-and-fire model fitted to the basic Purkinje cell characteristics using a modified dynamic IV method displays ISR and bistability between the resting state and a repetitive activity limit cycle. ISR allows the Purkinje cell to operate in different functional regimes: the all-or-none toggle or the linear filter mode, depending on the variance of the synaptic input. We propose that synaptic noise allows Purkinje cells to quickly switch between these functional regimes. Using mutual information analysis, we demonstrate that ISR can lead to a locally optimal information transfer between the input and output spike train of the Purkinje cell. These results provide the first experimental evidence for ISR and suggest a functional role for ISR in cerebellar information processing.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Buchin</LastName>
+            <ForeName>Anatoly</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0001-6284-9913</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Group for Neural Theory, Laboratoire des Neurosciences Cognitives, École Normale Supérieure, Paris, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute of Physics, Nanotechnology and Telecommunications, Peter the Great St. Petersburg Polytechnic University, Saint Petersburg, Russia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Cognition and Decision Making, Department of Psychology, NRU Higher School of Economics, Moscow, Russia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rieubland</LastName>
+            <ForeName>Sarah</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0003-0310-6647</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Wolfson Institute for Biomedical Research and Department of Neuroscience, Physiology and Pharmacology, University College London, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Häusser</LastName>
+            <ForeName>Michael</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Wolfson Institute for Biomedical Research and Department of Neuroscience, Physiology and Pharmacology, University College London, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gutkin</LastName>
+            <ForeName>Boris S</ForeName>
+            <Initials>BS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Group for Neural Theory, Laboratoire des Neurosciences Cognitives, École Normale Supérieure, Paris, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Cognition and Decision Making, Department of Psychology, NRU Higher School of Economics, Moscow, Russia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Roth</LastName>
+            <ForeName>Arnd</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Wolfson Institute for Biomedical Research and Department of Neuroscience, Physiology and Pharmacology, University College London, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <Acronym>WT_</Acronym>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>201225/Z/16/Z</GrantID>
+            <Acronym>WT_</Acronym>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2016</Year>
+          <Month>08</Month>
+          <Day>19</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>PLoS Comput Biol</MedlineTA>
+        <NlmUniqueID>101238922</NlmUniqueID>
+        <ISSNLinking>1553-734X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000200" MajorTopicYN="N">Action Potentials</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008959" MajorTopicYN="Y">Models, Neurological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011689" MajorTopicYN="N">Purkinje Cells</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013269" MajorTopicYN="N">Stochastic Processes</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2015</Year>
+          <Month>9</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2016</Year>
+          <Month>5</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2016</Year>
+          <Month>8</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2016</Year>
+          <Month>8</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2017</Year>
+          <Month>6</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">27541958</ArticleId>
+        <ArticleId IdType="pmc">PMC4991839</ArticleId>
+        <ArticleId IdType="doi">10.1371/journal.pcbi.1005000</ArticleId>
+        <ArticleId IdType="pii">PCOMPBIOL-D-15-01654</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Raymond JL, Lisberger SG, Mauk MD. The cerebellum: a neuronal learning machine?
+Science. 1996. 
+272:1126–1131. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8638157</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Häusser M, Clark BA. Tonic synaptic inhibition modulates neuronal output pattern and spatiotemporal synaptic integration. Neuron. 1997. 
+September;19(3):665–78. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9331356</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Raman IM, Bean BP. Resurgent sodium current and action potential formation in dissociated cerebellar Purkinje neurons. J Neurosci. 1997. 
+June
+15;17(12):4517–26. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6573347</ArticleId>
+            <ArticleId IdType="pubmed">9169512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Williams SR, Christensen SR, Stuart GJ, Häusser M. Membrane potential bistability is controlled by the hyperpolarization-activated current IH in rat cerebellar Purkinje neurons in vitro. J Physiol. 2002. 
+March
+1; 539:469–83. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2290163</ArticleId>
+            <ArticleId IdType="pubmed">11882679</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fernandez FR, Engbers JDT, Turner RW. Firing dynamics of cerebellar purkinje cells. J Neurophysiol. 2007. 
+July;98(1):278–94. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17493923</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Khaliq ZM, Gouwens NW, Raman IM. The contribution of resurgent sodium current to high-frequency firing in Purkinje neurons: an experimental and modeling study. J Neurosci. 2003. 
+June;23(12):4899–912. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6741194</ArticleId>
+            <ArticleId IdType="pubmed">12832512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Llinás R, Sugimori M. Electrophysiological properties of in vitro Purkinje cell somata in mammalian cerebellar slices. J Physiol. 1980. 
+August; 305:171–95. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1282966</ArticleId>
+            <ArticleId IdType="pubmed">7441552</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Loewenstein Y, Mahon S, Chadderton P, Kitamura K, Sompolinsky H, Yarom Y, et al.
+Bistability of cerebellar Purkinje cells modulated by sensory stimulation. Nat Neurosci. 2005. 
+February;8(2):202–11. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15665875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yartsev M, Givon-Mayo R, Maller M, Donchin O. Pausing Purkinje cells in the cerebellum of the awake cat. Front Syst Neurosci. 2009. 
+February
+10;3:2
+10.3389/neuro.06.002.2009
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/neuro.06.002.2009</ArticleId>
+            <ArticleId IdType="pmc">PMC2671936</ArticleId>
+            <ArticleId IdType="pubmed">19390639</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oldfield CS, Marty A, Stell BM. Interneurons of the cerebellar cortex toggle Purkinje cells between up and down states. Proc Natl Acad Sci. 2010. 
+July
+20;107(29):13153–8. 10.1073/pnas.1002082107
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1002082107</ArticleId>
+            <ArticleId IdType="pmc">PMC2919942</ArticleId>
+            <ArticleId IdType="pubmed">20615960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tuckwell HC, Jost J, Gutkin BS. Inhibition and modulation of rhythmic neuronal spiking by noise. Phys Rev E. 2009;80(3):031907
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19905146</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gutkin B, Jost J, Tuckwell HC. Random perturbations of spiking activity in a pair of coupled neurons. Theory Biosci. 2008;127(2):135–9. 10.1007/s12064-008-0039-7
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s12064-008-0039-7</ArticleId>
+            <ArticleId IdType="pmc">PMC2758378</ArticleId>
+            <ArticleId IdType="pubmed">18449590</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo D. Inhibition of rhythmic spiking by colored noise in neural systems. Cogn Neurodyn. 2011. 
+September;5(3):293–300. 10.1007/s11571-011-9160-2
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11571-011-9160-2</ArticleId>
+            <ArticleId IdType="pmc">PMC3179541</ArticleId>
+            <ArticleId IdType="pubmed">22942918</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tuckwell HC, Jost J. Weak noise in neurons may powerfully inhibit the generation of repetitive spiking but not its propagation. PLoS Comput Biol. 2010. 
+May;6(5):e1000794
+10.1371/journal.pcbi.1000794
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1000794</ArticleId>
+            <ArticleId IdType="pmc">PMC2877724</ArticleId>
+            <ArticleId IdType="pubmed">20523741</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Paydarfar D, Forger DB, Clay JR. Noisy inputs and the induction of on-off switching behavior in a neuronal pacemaker. J Neurophysiol. 2006;96:3338–48. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16956993</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Touboul J, Brette R. Dynamics and bifurcations of the adaptive exponential integrate-and-fire model. Biol Cybern. 2008. 
+November;99(4–5):319–34. 10.1007/s00422-008-0267-4
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00422-008-0267-4</ArticleId>
+            <ArticleId IdType="pubmed">19011921</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rinzel J, Ermentrout GB. Analysis of neural excitability and oscillations: In: Koch C, Segev I, editors. Methods in neuronal modeling: from ions to networks. Cambridge, MA: MIT Press; 1998.  pp. 251–291.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Badel L, Lefort S, Brette R, Petersen CCH, Gerstner W, Richardson MJE. Dynamic I-V curves are reliable predictors of naturalistic pyramidal-neuron voltage traces. J Neurophysiol. 2008. 
+February;99(2):656–66. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18057107</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fourcaud-Trocme N, Hansel D, Van Vreeswijk C, Brunel N. How spike generation mechanisms determine the neuronal response to fluctuating inputs. J Neurosci
+2003;23(37):11628–40. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6740955</ArticleId>
+            <ArticleId IdType="pubmed">14684865</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brette R, Gerstner W. Adaptive exponential integrate-and-fire model as an effective description of neuronal activity. J Neurophysiol
+2010:3637–42. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16014787</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roth A, Häusser M. Compartmental models of rat cerebellar Purkinje cells based on simultaneous somatic and dendritic patch-clamp recordings. J Physiol. 2001. 
+September
+1;535(Pt 2):445–72. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2278793</ArticleId>
+            <ArticleId IdType="pubmed">11533136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>De Schutter E, Bower JM. An active membrane model of the cerebellar Purkinje cell. I. Simulation of current clamps in slice. J Neurophysiol. 1994. 
+January;71(1):375–400. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7512629</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gutkin BS, Jost J, Tuckwell HC. Inhibition of rhythmic neural spiking by noise: the occurrence of a minimum in activity with increasing noise. Naturwissenschaften
+2009. 
+September
+96(9):1091–7. 10.1007/s00114-009-0570-5
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00114-009-0570-5</ArticleId>
+            <ArticleId IdType="pmc">PMC2727367</ArticleId>
+            <ArticleId IdType="pubmed">19513592</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wilms CD, Häusser M. Reading out a spatiotemporal population code by imaging neighbouring parallel fibre axons in vivo. Nat Commun. 2015;6:6464
+10.1038/ncomms7464
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms7464</ArticleId>
+            <ArticleId IdType="pmc">PMC4366501</ArticleId>
+            <ArticleId IdType="pubmed">25751648</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McDonnell MD, Ward LM. The benefits of noise in neural systems: bridging theory and experiment. Nat Rev Neurosci. 2011;12(7):415–26. 10.1038/nrn3061
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn3061</ArticleId>
+            <ArticleId IdType="pubmed">21685932</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mainen ZF, Sejnowski TJ. Reliability of spike timing in neocortical neurons. Science. 1995;268(5216):1503–6. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7770778</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tuckwell HC, Jost J, Gutkin BS. Inhibition and modulation of rhythmic neuronal spiking by noise. Phys Rev E. 2009;80(3):031907
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19905146</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dipoppa M, Gutkin BS. Flexible frequency control of cortical oscillations enables computations required for working memory. Proc Nat Acad Sci U S A. 2013. 
+July
+30;110(31):12828–33. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3732977</ArticleId>
+            <ArticleId IdType="pubmed">23858465</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tateno T, Harsch A, Robinson HPC. Threshold firing frequency-current relationships of neurons in rat somatosensory cortex: type 1 and type 2 dynamics. J Neurophysiol. 2004. 
+October
+1;92(4):2283–94. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15381746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ospeck M, Eguíluz VM, Magnasco MO. Evidence of a Hopf bifurcation in frog hair cells. Biophys J. 2001. 
+June;80(6):2597–607. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1301448</ArticleId>
+            <ArticleId IdType="pubmed">11371437</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hudspeth AJ. Integrating the active process of hair cells with cochlear function. Nat Rev Neurosci. 2014. 
+September;15(9):600–14. 10.1038/nrn3786
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn3786</ArticleId>
+            <ArticleId IdType="pubmed">25096182</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Camalet S, Duke T, Julicher F, Prost J. Auditory sensitivity provided by self-tuned critical oscillations of hair cells. Proc Nat Acad Sci. 2000. 
+March
+28;97(7):3183–8. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC16213</ArticleId>
+            <ArticleId IdType="pubmed">10737791</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Penner M, Zhang T. Prevalence of spontaneous otoacoustic emissions in adults revisited. Hear Res. 1997. 
+January;103(1–2):28–34. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9007571</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stiefel KM, Gutkin BS, Sejnowski TJ. Cholinergic neuromodulation changes phase response curve shape and type in cortical pyramidal neurons. PLoS One. 2008. 
+January
+16;3(12):e3947
+10.1371/journal.pone.0003947
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0003947</ArticleId>
+            <ArticleId IdType="pmc">PMC2596483</ArticleId>
+            <ArticleId IdType="pubmed">19079601</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schonewille M, Khosrovani S, Winkelman BHJ, Hoebeek FE, De Jeu MTG, Larsen IM, et al.
+Purkinje cells in awake behaving animals operate at the upstate membrane potential. Nat Neurosci. 2006;9(4):459–61. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16568098</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou H, Voges K, Lin Z, Ju C, Schonewille M. Differential Purkinje cell simple spike activity and pausing behavior related to cerebellar modules. J Neurophysiol. 2015;113(7):2524–36. 10.1152/jn.00925.2014
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.00925.2014</ArticleId>
+            <ArticleId IdType="pmc">PMC4416590</ArticleId>
+            <ArticleId IdType="pubmed">25717166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rokni D, Tal Z, Byk H, Yarom Y. Regularity, variability and bi-stability in the activity of cerebellar purkinje cells. Front Cell Neurosci. 2009. 
+November
+9;3:12
+10.3389/neuro.03.012.2009
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/neuro.03.012.2009</ArticleId>
+            <ArticleId IdType="pmc">PMC2776477</ArticleId>
+            <ArticleId IdType="pubmed">19915724</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shin SL, Hoebeek FE, Schonewille M, De Zeeuw CI, Aertsen A, De Schutter E. Regular patterns in cerebellar Purkinje cell simple spike trains. PLoS One. 2007;2(5):1–9. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1868782</ArticleId>
+            <ArticleId IdType="pubmed">17534435</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Norris SA, Greger B, Hathaway EN, Thach WT. Purkinje cell spike firing in the posterolateral cerebellum: correlation with visual stimulus, oculomotor response, and error feedback. J Neurophysiol. 2004;92(3):1867–79. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15128755</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roitman AV, Pasalar S, Ebner TJ. Single trial coupling of Purkinje cell activity to speed and error signals during circular manual tracking. Exp Brain Res. 2009;192(2):241–51. 10.1007/s00221-008-1580-9
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00221-008-1580-9</ArticleId>
+            <ArticleId IdType="pmc">PMC2754121</ArticleId>
+            <ArticleId IdType="pubmed">18839159</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Libster AM, Title B, Yarom Y. Corticotropin-releasing factor increases Purkinje neuron excitability by modulating sodium, potassium, and Ih currents. J Neurophysiol. 2015;114(6):3339–50. 10.1152/jn.00745.2015
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.00745.2015</ArticleId>
+            <ArticleId IdType="pmc">PMC6712579</ArticleId>
+            <ArticleId IdType="pubmed">26445872</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang F, Xu Q, Wang W, Takano T, Nedergaard M. Bergmann glia modulate cerebellar Purkinje cell bistability via Ca2+-dependent K+ uptake. Proc Natl Acad Sci. 2012. 
+May
+15;109(20):7911–6. 10.1073/pnas.1120380109
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1120380109</ArticleId>
+            <ArticleId IdType="pmc">PMC3356677</ArticleId>
+            <ArticleId IdType="pubmed">22547829</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Witter L, De Zeeuw CI. Regional functionality of the cerebellum. Curr Opin Neurobiol. 2015. 
+August; 33:150–5. 10.1016/j.conb.2015.03.017
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.conb.2015.03.017</ArticleId>
+            <ArticleId IdType="pubmed">25884963</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ostojic S, Szapiro G, Schwartz E, Barbour B, Brunel N, Hakim V. Neuronal morphology generates high-frequency firing resonance. J Neurosci. 2015;35(18):7056–68. 10.1523/JNEUROSCI.3924-14.2015
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.3924-14.2015</ArticleId>
+            <ArticleId IdType="pmc">PMC6605263</ArticleId>
+            <ArticleId IdType="pubmed">25948257</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dean P, Porrill J. Evaluating the adaptive-filter model of the cerebellum. J Physiol. 2011. 
+July
+15;589(Pt 14):3459–70. 10.1113/jphysiol.2010.201574
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2010.201574</ArticleId>
+            <ArticleId IdType="pmc">PMC3167110</ArticleId>
+            <ArticleId IdType="pubmed">21502289</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dean P, Porrill J, Ekerot CF, Jörntell H. The cerebellar microcircuit as an adaptive filter: experimental and computational evidence. Nat Rev Neurosci;2010;11(1):30–43. 10.1038/nrn2756
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn2756</ArticleId>
+            <ArticleId IdType="pubmed">19997115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Walter JT, Khodakhah K. The linear computational algorithm of cerebellar Purkinje cells. J Neurosci. 2006;26(50):12861–72. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6674952</ArticleId>
+            <ArticleId IdType="pubmed">17167077</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Phoka E, Cuntz H, Roth A, Häusser M. A New approach for determining phase response curves reveals that Purkinje cells can act as perfect integrators. PLoS Comp Biol
+2010;6(4):e1000768.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2861707</ArticleId>
+            <ArticleId IdType="pubmed">20442875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Couto J, Linaro D, De Schutter E, Giugliano M. On the firing rate dependency of the phase response curve of rat purkinje neurons in vitro. PLoS Comput Biol
+2015;11(3):e1004112
+10.1371/journal.pcbi.1004112
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1004112</ArticleId>
+            <ArticleId IdType="pmc">PMC4361458</ArticleId>
+            <ArticleId IdType="pubmed">25775448</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clopath C, Nadal J-P, Brunel N. Storage of correlated patterns in standard and bistable Purkinje cell models. PLoS Comput Biol. 2012. 
+January;8(4):e1002448
+10.1371/journal.pcbi.1002448
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1002448</ArticleId>
+            <ArticleId IdType="pmc">PMC3343114</ArticleId>
+            <ArticleId IdType="pubmed">22570592</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Johansson F, Jirenhed DA, Rasmussen A, Zucca R, Hesslow G. Memory trace and timing mechanism localized to cerebellar Purkinje cells. Proc Natl Acad Sci. 2014. 
+October
+14
+111(41):14930–4. 10.1073/pnas.1415371111
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1415371111</ArticleId>
+            <ArticleId IdType="pmc">PMC4205653</ArticleId>
+            <ArticleId IdType="pubmed">25267641</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Davie JT, Kole MHP, Letzkus JJ, Rancz EA, Spruston N, Stuart GJ, et al.
+Dendritic patch-clamp recording. Nat Protoc. 2006;1(3):1235–47. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17406407</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chizhov AV. Model of evoked activity of populations of neurons in the hippocampus. Biofizika. 2002. 
+Nov-Dec;47(6):1086–94. Russian. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12500573</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>London M, Schreibman A, Häusser M, Larkum ME, Segev I. The information efficacy of a synapse. Nat Neurosci. 2002;5(4):332–40. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11896396</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

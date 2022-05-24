@@ -1,0 +1,1118 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35357202</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2150-7511</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>13</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Apr</Month>
+              <Day>26</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>mBio</Title>
+          <ISOAbbreviation>mBio</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The Mechanism of Pertussis Cough Revealed by the Mouse-Coughing Model.</ArticleTitle>
+        <Pagination>
+          <StartPage>e0319721</StartPage>
+          <MedlinePgn>e0319721</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">e03197-21</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1128/mbio.03197-21</ELocationID>
+        <Abstract>
+          <AbstractText>Pertussis, also known as whooping cough, is a contagious respiratory disease caused by the Gram-negative bacterium Bordetella pertussis. This disease is characterized by severe and uncontrollable coughing, which imposes a significant burden on patients. However, its etiological agent and the mechanism are totally unknown because of a lack of versatile animal models that reproduce the cough. Here, we present a mouse model that reproduces coughing after intranasal inoculation with the bacterium or its components and demonstrate that lipooligosaccharide (LOS), pertussis toxin (PTx), and Vag8 of the bacterium cooperatively function to cause coughing. Bradykinin induced by LOS sensitized a transient receptor potential ion channel, TRPV1, which acts as a sensor to evoke the cough reflex. Vag8 further increased bradykinin levels by inhibiting the C1 esterase inhibitor, the major downregulator of the contact system, which generates bradykinin. PTx inhibits intrinsic negative regulation systems for TRPV1 through the inactivation of G<sub>i</sub> GTPases. Our findings provide a basis to answer long-standing questions on the pathophysiology of pertussis cough. <b>IMPORTANCE</b> The Gram-negative bacterium Bordetella pertussis causes a respiratory disease called whooping cough, or pertussis. This disease is characterized by paroxysmal coughing, the mechanism of which has not been intensively studied because of a lack of versatile animal models that reproduce the cough. In this study, we present a mouse model that reproduces coughing after intranasal inoculation with the bacterium or its components. Using this model, we demonstrate that lipooligosaccharide, Vag8, and pertussis toxin of the bacteria cooperatively function to cause coughing. Our results also indicate that bradykinin, an inflammatory mediator, and TRPV1, an ion channel linked to nociceptive signaling, are host factors involved in the coughing mechanism.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hiramatsu</LastName>
+            <ForeName>Yukihiro</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">0000-0002-6340-864X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Molecular Bacteriology, Research Institute for Microbial Diseases, Osaka Universitygrid.136593.b, Suita, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Suzuki</LastName>
+            <ForeName>Koichiro</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Molecular Bacteriology, Research Institute for Microbial Diseases, Osaka Universitygrid.136593.b, Suita, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The Research Foundation for Microbial Diseases of Osaka Universitygrid.136593.b (BIKEN), Suita, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nishida</LastName>
+            <ForeName>Takashi</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Molecular Bacteriology, Research Institute for Microbial Diseases, Osaka Universitygrid.136593.b, Suita, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Onoda</LastName>
+            <ForeName>Naoki</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Molecular Bacteriology, Research Institute for Microbial Diseases, Osaka Universitygrid.136593.b, Suita, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Satoh</LastName>
+            <ForeName>Takashi</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Laboratory of Host Defense, World Premier Institute Immunology Frontier Research Center, Osaka Universitygrid.136593.b, Suita, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Akira</LastName>
+            <ForeName>Shizuo</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Laboratory of Host Defense, World Premier Institute Immunology Frontier Research Center, Osaka Universitygrid.136593.b, Suita, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Infectious Disease Education and Research, Osaka Universitygrid.136593.b, Suita, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ikawa</LastName>
+            <ForeName>Masahito</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Experimental Genome Research, Research Institute for Microbial Diseases, Osaka Universitygrid.136593.b, Suita, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Infectious Disease Education and Research, Osaka Universitygrid.136593.b, Suita, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ikeda</LastName>
+            <ForeName>Hiroko</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathophysiology and Therapeutics, Hoshi University School of Pharmacy and Pharmaceutical Sciences, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kamei</LastName>
+            <ForeName>Junzo</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Juntendo Advanced Research Institute for Health Science, Juntendo Universitygrid.258269.2, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Derouiche</LastName>
+            <ForeName>Sandra</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Cell Signaling, National Institute for Physiological Sciencesgrid.467811.d, Okazaki, Aichi, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Thermal Biology Group, Exploratory Research Center on Life and Living Systems (ExCELLS), Okazaki, Aichi, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tominaga</LastName>
+            <ForeName>Makoto</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Cell Signaling, National Institute for Physiological Sciencesgrid.467811.d, Okazaki, Aichi, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Thermal Biology Group, Exploratory Research Center on Life and Living Systems (ExCELLS), Okazaki, Aichi, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Horiguchi</LastName>
+            <ForeName>Yasuhiko</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">0000-0002-1592-5861</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Molecular Bacteriology, Research Institute for Microbial Diseases, Osaka Universitygrid.136593.b, Suita, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Infectious Disease Education and Research, Osaka Universitygrid.136593.b, Suita, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>31</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>mBio</MedlineTA>
+        <NlmUniqueID>101519231</NlmUniqueID>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.4.2.31</RegistryNumber>
+          <NameOfSubstance UI="D037342">Pertussis Toxin</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>S8TIM42R2W</RegistryNumber>
+          <NameOfSubstance UI="D001920">Bradykinin</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001886" MajorTopicYN="N">Bordetella pertussis</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001920" MajorTopicYN="N">Bradykinin</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003371" MajorTopicYN="N">Cough</DescriptorName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D037342" MajorTopicYN="N">Pertussis Toxin</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014157" MajorTopicYN="N">Transcription Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014917" MajorTopicYN="Y">Whooping Cough</DescriptorName>
+          <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Bordetella pertussis</Keyword>
+        <Keyword MajorTopicYN="Y">TRPV1</Keyword>
+        <Keyword MajorTopicYN="Y">Vag8</Keyword>
+        <Keyword MajorTopicYN="Y">bradykinin</Keyword>
+        <Keyword MajorTopicYN="Y">cough</Keyword>
+        <Keyword MajorTopicYN="Y">pertussis toxin</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>31</Day>
+          <Hour>12</Hour>
+          <Minute>4</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35357202</ArticleId>
+        <ArticleId IdType="pmc">PMC9040802</ArticleId>
+        <ArticleId IdType="doi">10.1128/mbio.03197-21</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Tan T, Dalby T, Forsyth K, Halperin SA, Heininger U, Hozbor D, Plotkin S, Ulloa-Gutierrez R, von König CHW. 2015. Pertussis across the globe: recent epidemiologic trends from 2000 to 2013. Pediatr Infect Dis J
+34:e222–e232. doi:10.1097/INF.0000000000000795.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/INF.0000000000000795</ArticleId>
+            <ArticleId IdType="pubmed">26376316</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Twillert I, van Han WGH, van Els CACM. 2015. Waning and aging of cellular immunity to B. pertussis. Pathog Dis :ftv071. doi:10.1093/femspd/ftv071.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/femspd/ftv071</ArticleId>
+            <ArticleId IdType="pmc">PMC4626597</ArticleId>
+            <ArticleId IdType="pubmed">26371178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kilgore PE, Salim AM, Zervos MJ, Schmitt H-J. 2016. Pertussis: microbiology, disease, treatment, and prevention. Clin Microbiol Rev
+29:449–486. doi:10.1128/CMR.00083-15.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/CMR.00083-15</ArticleId>
+            <ArticleId IdType="pmc">PMC4861987</ArticleId>
+            <ArticleId IdType="pubmed">27029594</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Warfel JM, Beren J, Kelly VK, Lee G, Merkel TJ. 2012. Nonhuman primate model of pertussis. Infect Immun
+80:1530–1536. doi:10.1128/IAI.06310-11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/IAI.06310-11</ArticleId>
+            <ArticleId IdType="pmc">PMC3318410</ArticleId>
+            <ArticleId IdType="pubmed">22252879</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Warfel JM, Beren J, Merkel TJ. 2012. Airborne transmission of Bordetella pertussis. J Infect Dis
+206:902–906. doi:10.1093/infdis/jis443.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/infdis/jis443</ArticleId>
+            <ArticleId IdType="pmc">PMC3501154</ArticleId>
+            <ArticleId IdType="pubmed">22807521</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Warfel JM, Merkel TJ. 2014. The baboon model of pertussis: effective use and lessons for pertussis vaccines. Expert Rev Vaccines
+13:1241–1252. doi:10.1586/14760584.2014.946016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1586/14760584.2014.946016</ArticleId>
+            <ArticleId IdType="pubmed">25182980</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hall E, Parton R, Wardlaw AC. 1999. Time-course of infection and responses in a coughing rat model of pertussis. J Med Microbiol
+48:95–98. doi:10.1099/00222615-48-1-95.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/00222615-48-1-95</ArticleId>
+            <ArticleId IdType="pubmed">9920131</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hall E, Parton R, Wardlaw AC. 1998. Responses to acellular pertussis vaccines and component antigens in a coughing-rat model of pertussis. Vaccine
+16:1595–1603. doi:10.1016/S0264-410X(98)80001-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0264-410X(98)80001-7</ArticleId>
+            <ArticleId IdType="pubmed">9713934</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hall E, Parton R, Wardlaw AC. 1997. Differences in coughing and other responses to intrabronchial infection with Bordetella pertussis among strains of rats. Infect Immun
+65:4711–4717. doi:10.1128/iai.65.11.4711-4717.1997.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/iai.65.11.4711-4717.1997</ArticleId>
+            <ArticleId IdType="pmc">PMC175676</ArticleId>
+            <ArticleId IdType="pubmed">9353055</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hall E, Parton R, Wardlaw AC. 1994. Cough production, leucocytosis and serology of rats infected intrabronchially with Bordetella pertussis. J Med Microbiol
+40:205–213. doi:10.1099/00222615-40-3-205.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/00222615-40-3-205</ArticleId>
+            <ArticleId IdType="pubmed">8114072</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hornibrook J, Ashburn L. 1939. A study of experimental pertussis in the young rat. Public Health Rep
+54:439–444. doi:10.2307/4582826.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2307/4582826</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Parton R, Hall E, Wardlaw AC. 1994. Responses to Bordetella pertussis mutant strains and to vaccination in the coughing rat model of pertussis. J Med Microbiol
+40:307–312. doi:10.1099/00222615-40-5-307.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/00222615-40-5-307</ArticleId>
+            <ArticleId IdType="pubmed">8176718</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wardlaw AC, Hall E, Parton R. 1993. Coughing rat model of pertussis. Biologicals
+21:27–29. doi:10.1006/biol.1993.1024.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/biol.1993.1024</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Woods DE, Franklin R, Cryz SJ, Ganss M, Peppler M, Ewanowich C. 1989. Development of a rat model for respiratory infection with Bordetella pertussis. Infect Immun
+57:1018–1024. doi:10.1128/iai.57.4.1018-1024.1989.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/iai.57.4.1018-1024.1989</ArticleId>
+            <ArticleId IdType="pmc">PMC313222</ArticleId>
+            <ArticleId IdType="pubmed">2538394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hall JM, Kang J, Kenney SM, Wong TY, Bitzer GJ, Kelly CO, Kisamore CA, Boehm DT, DeJong MA, Wolf MA, Sen-Kilic E, Horspool AM, Bevere JR, Barbier M, Damron FH. 2021. Reinvestigating the coughing rat model of pertussis to understand Bordetella pertussis pathogenesis. Infect Immun
+89:e00304-21. doi:10.1128/IAI.00304-21.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/IAI.00304-21</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nakamura K, Shinoda N, Hiramatsu Y, Ohnishi S, Kamitani S, Ogura Y, Hayashi T, Horiguchi Y. 2019. BspR/BtrA, an anti-σ factor, regulates the ability of Bordetella bronchiseptica to cause cough in rats. mSphere
+4:e00093-19. doi:10.1128/mSphere.00093-19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/mSphere.00093-19</ArticleId>
+            <ArticleId IdType="pmc">PMC6483047</ArticleId>
+            <ArticleId IdType="pubmed">31019000</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Elahi S, Holmstrom J, Gerdts V. 2007. The benefits of using diverse animal models for studying pertussis. Trends Microbiol
+15:462–468. doi:10.1016/j.tim.2007.09.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tim.2007.09.003</ArticleId>
+            <ArticleId IdType="pubmed">17920273</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mackenzie AJ, Spina D, Page CP. 2004. Models used in the development of antitussive drugs. Drug Discovery Today Dis Models
+1:297–302. doi:10.1016/j.ddmod.2004.10.009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ddmod.2004.10.009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scanlon K, Skerry C, Carbonetti N. 2019. Association of pertussis toxin with severe pertussis disease. Toxins
+11:373–314. doi:10.3390/toxins11070373.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/toxins11070373</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dinh QT, Mingomataj E, Quarcoo D, Groneberg DA, Witt C, Klapp BF, Braun A, Fischer A. 2005. Allergic airway inflammation induces tachykinin peptides expression in vagal sensory neurons innervating mouse airways. Clin Exp Allergy
+35:820–825. doi:10.1111/j.1365-2222.2005.02264.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1365-2222.2005.02264.x</ArticleId>
+            <ArticleId IdType="pubmed">15969675</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dinh QT, Groneberg DA, Peiser C, Joachim RA, Frossard N, Arck PC, Klapp BF, Fischer A. 2005. Expression of substance P and nitric oxide synthase in vagal sensory neurons innervating the mouse airways. Regulatory Peptides
+126:189–194. doi:10.1016/j.regpep.2004.09.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.regpep.2004.09.006</ArticleId>
+            <ArticleId IdType="pubmed">15664666</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang JW, Walker JF, Guardiola J, Yu J. 2006. Pulmonary sensory and reflex responses in the mouse. J Appl Physiol
+101:986–992. doi:10.1152/japplphysiol.00161.2006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/japplphysiol.00161.2006</ArticleId>
+            <ArticleId IdType="pubmed">16675617</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen L, Lai K, Lomask JM, Jiang B, Zhong N. 2013. Detection of mouse cough based on sound monitoring and respiratory airflow waveforms. PLoS One
+8:e59263. doi:10.1371/journal.pone.0059263.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0059263</ArticleId>
+            <ArticleId IdType="pmc">PMC3605448</ArticleId>
+            <ArticleId IdType="pubmed">23555643</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kamei J, Iwamoto Y, Kawashima N, Suzuki T, Nagase H, Misawa M, Kasuya Y. 1993. Possible involvement of μ2-mediated mechanisms in μ-mediated antitussive activity in the mouse. Neurosci Lett
+149:169–172. doi:10.1016/0304-3940(93)90763-b.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0304-3940(93)90763-b</ArticleId>
+            <ArticleId IdType="pubmed">8386345</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kamei J, Yoshikawa Y, Saitoh A. 2006. Effect of N-arachidonoyl-(2-methyl-4-hydroxyphenyl) amine (VDM11), an anandamide transporter inhibitor, on capsaicin-induced cough in mice. Cough
+2:2. doi:10.1186/1745-9974-2-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1745-9974-2-2</ArticleId>
+            <ArticleId IdType="pmc">PMC1448189</ArticleId>
+            <ArticleId IdType="pubmed">16623933</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin A-H, Athukorala A, Gleich GJ, Lee L-Y. 2019. Cough responses to inhaled irritants are enhanced by eosinophil major basic protein in awake mice. Am J Physiol Regul Integr Comp Physiol
+317:R93–R97. doi:10.1152/ajpregu.00081.2019.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpregu.00081.2019</ArticleId>
+            <ArticleId IdType="pmc">PMC6692762</ArticleId>
+            <ArticleId IdType="pubmed">30995073</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang C, Lin R-L, Hong J, Khosravi M, Lee L-Y. 2017. Cough and expiration reflexes elicited by inhaled irritant gases are intensified in ovalbumin-sensitized mice. Am J Physiol Regul Integr Comp Physiol
+312:R718–R726. doi:10.1152/ajpregu.00444.2016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpregu.00444.2016</ArticleId>
+            <ArticleId IdType="pmc">PMC5451571</ArticleId>
+            <ArticleId IdType="pubmed">28228416</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Warfel JM, Zimmerman LI, Merkel TJ. 2014. Acellular pertussis vaccines protect against disease but fail to prevent infection and transmission in a nonhuman primate model. Proc Natl Acad Sci USA
+111:787–792. doi:10.1073/pnas.1314688110.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1314688110</ArticleId>
+            <ArticleId IdType="pmc">PMC3896208</ArticleId>
+            <ArticleId IdType="pubmed">24277828</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cotter PA, Jones AM. 2003. Phosphorelay control of virulence gene expression in Bordetella. Trends Microbiol
+11:367–373. doi:10.1016/s0966-842x(03)00156-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0966-842x(03)00156-2</ArticleId>
+            <ArticleId IdType="pubmed">12915094</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bonvini SJ, Belvisi MG. 2017. Cough and airway disease: the role of ion channels. Pulm Pharmacol Ther
+47:21–28. doi:10.1016/j.pupt.2017.06.009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.pupt.2017.06.009</ArticleId>
+            <ArticleId IdType="pubmed">28669932</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grace M, Birrell MA, Dubuis E, Maher SA, Belvisi MG. 2012. Transient receptor potential channels mediate the tussive response to prostaglandin E2 and bradykinin. Thorax
+67:891–900. doi:10.1136/thoraxjnl-2011-201443.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/thoraxjnl-2011-201443</ArticleId>
+            <ArticleId IdType="pmc">PMC3446777</ArticleId>
+            <ArticleId IdType="pubmed">22693178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carr MJ, Kollarik M, Meeker SN, Undem BJ. 2003. A role for TRPV1 in bradykinin-induced excitation of vagal airway afferent nerve terminals. J Pharmacol Exp Ther
+304:1275–1279. doi:10.1124/jpet.102.043422.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1124/jpet.102.043422</ArticleId>
+            <ArticleId IdType="pubmed">12604706</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Geppetti P, Patacchini R, Nassini R, Materazzi S. 2010. Cough: the emerging role of the TRPA1 channel. Lung
+188:63–68. doi:10.1007/s00408-009-9201-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00408-009-9201-3</ArticleId>
+            <ArticleId IdType="pubmed">19862572</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grace MS, Dubuis E, Birrell MA, Belvisi MG. 2012. TRP channel antagonists as potential antitussives. Lung
+190:11–15. doi:10.1007/s00408-011-9322-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00408-011-9322-3</ArticleId>
+            <ArticleId IdType="pubmed">21964632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kumar R, Hazan A, Geron M, Steinberg R, Livni L, Matzner H, Priel A. 2017. Activation of transient receptor potential vanilloid 1 by lipoxygenase metabolites depends on PKC phosphorylation. FASEB J
+31:1238–1247. doi:10.1096/fj.201601132R.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1096/fj.201601132R</ArticleId>
+            <ArticleId IdType="pubmed">27986808</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maher SA, Birrell MA, Belvisi MG. 2009. Prostaglandin E2 mediates cough via the EP3 receptor. Am J Respir Crit Care Med
+180:923–928. doi:10.1164/rccm.200903-0388OC.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1164/rccm.200903-0388OC</ArticleId>
+            <ArticleId IdType="pmc">PMC2778154</ArticleId>
+            <ArticleId IdType="pubmed">19729667</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maher SA, Dubuis ED, Belvisi MG. 2011. G-protein coupled receptors regulating cough. Curr Opin Pharmacol
+11:248–253. doi:10.1016/j.coph.2011.06.005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.coph.2011.06.005</ArticleId>
+            <ArticleId IdType="pubmed">21727026</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mizumura K, Sugiura T, Katanosaka K, Banik RK, Kozaki Y. 2009. Excitation and sensitization of nociceptors by bradykinin: what do we know?
+Exp Brain Res
+196:53–65. doi:10.1007/s00221-009-1814-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00221-009-1814-5</ArticleId>
+            <ArticleId IdType="pubmed">19396590</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sugiura T, Tominaga M, Katsuya H, Mizumura K. 2002. Bradykinin lowers the threshold temperature for heat activation of vanilloid receptor 1. J Neurophysiol
+88:544–548. doi:10.1152/jn.2002.88.1.544.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.2002.88.1.544</ArticleId>
+            <ArticleId IdType="pubmed">12091579</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Al-Shamlan F, El-Hashim AZ. 2019. Bradykinin sensitizes the cough reflex via a B2 receptor dependent activation of TRPV1 and TRPA1 channels through metabolites of cyclooxygenase and 12-lipoxygenase. Respir Res
+20:110. doi:10.1186/s12931-019-1060-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12931-019-1060-8</ArticleId>
+            <ArticleId IdType="pmc">PMC6551914</ArticleId>
+            <ArticleId IdType="pubmed">31170972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Featherstone RL, Parry JE, Evans DM, Jones DM, Olsson H, Szelke M, Church MK. 1996. Mechanism of irritant-induced cough: studies with a kinin antagonist and a kallikrein inhibitor. Lung
+174:269–275. doi:10.1007/BF00173141.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/BF00173141</ArticleId>
+            <ArticleId IdType="pubmed">8791263</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fox AJ, Lalloo UG, Belvisi MG, Bernareggi M, Chung KF, Barnes PJ. 1996. Bradykinin-evoked sensitization of airway sensory nerves: a mechanism for ACE-inhibitor cough. Nat Med
+2:814–817. doi:10.1038/nm0796-814.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nm0796-814</ArticleId>
+            <ArticleId IdType="pubmed">8673930</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maas C, Oschatz C, Renné T. 2011. The plasma contact system 2.0. Semin Thromb Hemost
+37:375–381. doi:10.1055/s-0031-1276586.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1055/s-0031-1276586</ArticleId>
+            <ArticleId IdType="pubmed">21805443</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Weidmann H, Heikaus L, Long AT, Naudin C, Schlüter H, Renné T. 2017. The plasma contact system, a protease cascade at the nexus of inflammation, coagulation and immunity. Biochim Biophys Acta Mol Cell Res
+1864:2118–2127. doi:10.1016/j.bbamcr.2017.07.009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbamcr.2017.07.009</ArticleId>
+            <ArticleId IdType="pubmed">28743596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu Y. 2018. The plasma contact system as a modulator of innate immunity. Curr Opin Hematol
+25:389–394. doi:10.1097/MOH.0000000000000448.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/MOH.0000000000000448</ArticleId>
+            <ArticleId IdType="pubmed">30028742</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanrattana W, Maas C, de Maat S. 2019. SERPINs—from trap to treatment. Front Med (Lausanne)
+6:25–28. doi:10.3389/fmed.2019.00025.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fmed.2019.00025</ArticleId>
+            <ArticleId IdType="pmc">PMC6379291</ArticleId>
+            <ArticleId IdType="pubmed">30809526</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hovingh ES, van den Broek B, Kuipers B, Pinelli E, Rooijakkers SHM, Jongerius I. 2017. Acquisition of C1 inhibitor by Bordetella pertussis virulence associated gene 8 results in C2 and C4 consumption away from the bacterial surface. PLoS Pathog
+13:e1006531. doi:10.1371/journal.ppat.1006531.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1006531</ArticleId>
+            <ArticleId IdType="pmc">PMC5542704</ArticleId>
+            <ArticleId IdType="pubmed">28742139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marr N, Shah NR, Lee R, Kim EJ, Fernandez RC. 2011. Bordetella pertussis autotransporter Vag8 binds human C1 esterase inhibitor and confers serum resistance. PLoS One
+6:e20585. doi:10.1371/journal.pone.0020585.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0020585</ArticleId>
+            <ArticleId IdType="pmc">PMC3114845</ArticleId>
+            <ArticleId IdType="pubmed">21695123</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Onoda N, Hiramatsu Y, Teruya S, Suzuki K, Horiguchi Y. 2020. Identification of the minimum region of Bordetella pertussis Vag8 required for interaction with C1 inhibitor. Microbiol Immunol
+64:570–573. doi:10.1111/1348-0421.12799.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/1348-0421.12799</ArticleId>
+            <ArticleId IdType="pmc">PMC7497153</ArticleId>
+            <ArticleId IdType="pubmed">32396237</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Katada T. 2012. The inhibitory G protein Gi identified as pertussis toxin-catalyzed ADP-ribosylation. Biol Pharm Bull
+35:2103–2111. doi:10.1248/bpb.b212024.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1248/bpb.b212024</ArticleId>
+            <ArticleId IdType="pubmed">23207763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Caterina MJ, Schumacher MA, Tominaga M, Rosen TA, Levine JD, Julius D. 1997. The capsaicin receptor: a heat-activated ion channel in the pain pathway. Nature
+389:816–824. doi:10.1038/39807.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/39807</ArticleId>
+            <ArticleId IdType="pubmed">9349813</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Choi S-I, Hwang SW. 2018. Depolarizing effectors of bradykinin signaling in nociceptor excitation in pain perception. Biomol Ther (Seoul)
+26:255–267. doi:10.4062/biomolther.2017.127.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4062/biomolther.2017.127</ArticleId>
+            <ArticleId IdType="pmc">PMC5933892</ArticleId>
+            <ArticleId IdType="pubmed">29378387</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shin J, Cho H, Hwang SW, Jung J, Shin CY, Lee S-Y, Kim SH, Lee MG, Choi YH, Kim J, Haber NA, Reichling DB, Khasar S, Levine JD, Oh U. 2002. Bradykinin-12-lipoxygenase-VR1 signaling pathway for inflammatory hyperalgesia. Proc Natl Acad Sci USA
+99:10150–10155. doi:10.1073/pnas.152002699.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.152002699</ArticleId>
+            <ArticleId IdType="pmc">PMC126639</ArticleId>
+            <ArticleId IdType="pubmed">12097645</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trevisani M, Milan A, Gatti R, Zanasi A, Harrison S, Fontana G, Morice AH, Geppetti P. 2004. Antitussive activity of iodo-resiniferatoxin in guinea pigs. Thorax
+59:769–772. doi:10.1136/thx.2003.012930.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/thx.2003.012930</ArticleId>
+            <ArticleId IdType="pmc">PMC1747129</ArticleId>
+            <ArticleId IdType="pubmed">15333853</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diehl SA, McElvany B, Noubade R, Seeberger N, Harding B, Spach K, Teuscher C. 2014. G proteins Gαi1/3 are critical targets for Bordetella pertussis toxin-induced vasoactive amine sensitization. Infect Immun
+82:773–782. doi:10.1128/IAI.00971-13.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/IAI.00971-13</ArticleId>
+            <ArticleId IdType="pmc">PMC3911370</ArticleId>
+            <ArticleId IdType="pubmed">24478091</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moss J, Hom BE, Hewlett EL, Tsai SC, Adamik R, Halpern JL, Price SR, Manganiello VC. 1988. Mechanism of enhanced sensitivity to bradykinin in pertussis toxin-treated fibroblasts: toxin increases bradykinin-stimulated prostaglandin formation. Mol Pharmacol
+34:279–285.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2843748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bhave G, Zhu W, Wang H, Brasier DJ, Oxford GS, Gereau RW. 2002. cAMP-dependent protein kinase regulates desensitization of the capsaicin receptor (VR1) by direct phosphorylation. Neuron
+35:721–731. doi:10.1016/s0896-6273(02)00802-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0896-6273(02)00802-4</ArticleId>
+            <ArticleId IdType="pubmed">12194871</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mohapatra DP, Nau C. 2003. Desensitization of capsaicin-activated currents in the vanilloid receptor trpv1 is decreased by the cyclic amp-dependent protein kinase pathway. J Biol Chem
+278:50080–50090. doi:10.1074/jbc.M306619200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M306619200</ArticleId>
+            <ArticleId IdType="pubmed">14506258</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mohapatra DP, Nau C. 2005. Regulation of Ca2+-dependent desensitization in the vanilloid receptor TRPV1 by calcineurin and cAMP-dependent protein kinase. J Biol Chem
+280:13424–13432. doi:10.1074/jbc.M410917200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M410917200</ArticleId>
+            <ArticleId IdType="pubmed">15691846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanz-Salvador L, Andres-Borderia A, Ferrer-Montiel A, Planells-Cases R. 2012. Agonist- and Ca2+-dependent desensitization of TRPV1 targets the receptor to lysosomes for degradation. J Biol Chem
+287:19462–19471. doi:10.1074/jbc.M111.289751.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M111.289751</ArticleId>
+            <ArticleId IdType="pmc">PMC3365984</ArticleId>
+            <ArticleId IdType="pubmed">22493457</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bhave G, Hu H-J, Glauner KS, Zhu W, Wang H, Brasier DJ, Oxford GS, Gereau RW. 2003. Protein kinase C phosphorylation sensitizes but does not activate the capsaicin receptor transient receptor potential vanilloid 1 (TRPV1). Proc Natl Acad Sci USA
+100:12480–12485. doi:10.1073/pnas.2032100100.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.2032100100</ArticleId>
+            <ArticleId IdType="pmc">PMC218783</ArticleId>
+            <ArticleId IdType="pubmed">14523239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Numazaki M, Tominaga T, Toyooka H, Tominaga M. 2002. Direct phosphorylation of capsaicin receptor VR1 by protein kinase Cepsilon and identification of two target serine residues. J Biol Chem
+277:13375–13378. doi:10.1074/jbc.C200104200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.C200104200</ArticleId>
+            <ArticleId IdType="pubmed">11884385</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ewald DA, Pang IH, Sternweis PC, Miller RJ. 1989. Differential G protein-mediated coupling of neurotransmitter receptors to Ca2+ channels in rat dorsal root ganglion neurons in vitro. Neuron
+2:1185–1193. doi:10.1016/0896-6273(89)90185-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0896-6273(89)90185-2</ArticleId>
+            <ArticleId IdType="pubmed">2560387</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fumi Y, Masato H, Toshitaka K. 1991. Evidence for coupling of bradykinin receptors to a guanine-nucleotide binding protein to stimulate arachidonate liberation in the osteoblast-like cell line, MC3T3-E1. Biochim Biophys Acta
+1094:139–146. doi:10.1016/0167-4889(91)90001-E.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0167-4889(91)90001-E</ArticleId>
+            <ArticleId IdType="pubmed">1654114</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gutowski S, Smrcka A, Nowak L, Wu DG, Simon M, Sternweis PC. 1991. Antibodies to the alpha q subfamily of guanine nucleotide-binding regulatory protein alpha subunits attenuate activation of phosphatidylinositol 4,5-bisphosphate hydrolysis by hormones. J Biol Chem
+266:20519–20524. doi:10.1016/S0021-9258(18)54955-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0021-9258(18)54955-3</ArticleId>
+            <ArticleId IdType="pubmed">1657928</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lamorte VJ, Harootunian AT, Spiegel AM, Tsien RY, Feramisco JR. 1993. Mediation of growth factor induced DNA synthesis and calcium mobilization by Gq and Gi2. J Cell Biol
+121:91–99. doi:10.1083/jcb.121.1.91.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1083/jcb.121.1.91</ArticleId>
+            <ArticleId IdType="pmc">PMC2119771</ArticleId>
+            <ArticleId IdType="pubmed">8458876</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liebmann C, Graness A, Ludwig B, Adomeit A, Boehmer A, Boehmer FD, Nürnberg B, Wetzker R. 1996. Dual bradykinin B2 receptor signalling in A431 human epidermoid carcinoma cells: activation of protein kinase C is counteracted by a Gs-mediated stimulation of the cyclic AMP pathway. Biochem J
+313:109–118. doi:10.1042/bj3130109.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/bj3130109</ArticleId>
+            <ArticleId IdType="pmc">PMC1216870</ArticleId>
+            <ArticleId IdType="pubmed">8546671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pertovaara A. 2013. The noradrenergic pain regulation system—a potential target for pain therapy. Eur J Pharmacol
+716:2–7. doi:10.1016/j.ejphar.2013.01.067.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejphar.2013.01.067</ArticleId>
+            <ArticleId IdType="pubmed">23500194</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tao Z-Y, Wang P-X, Wei S-Q, Traub RJ, Li J-F, Cao D-Y. 2019. The role of descending pain modulation in chronic primary pain: potential application of drugs targeting serotonergic system. Neural Plast
+2019:1389296. doi:10.1155/2019/1389296.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2019/1389296</ArticleId>
+            <ArticleId IdType="pmc">PMC6942873</ArticleId>
+            <ArticleId IdType="pubmed">31933624</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cinelli E, Bongianni F, Pantaleo T, Mutolo D. 2013. Suppression of the cough reflex by α2-adrenergic receptor agonists in the rabbit. Physiol Rep
+1:215–218. doi:10.1002/phy2.122.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/phy2.122</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kubin L, Alheid GF, Zuperku EJ, McCrimmon DR. 2006. Central pathways of pulmonary and lower airway vagal afferents. J Appl Physiol
+101:618–627. doi:10.1152/japplphysiol.00252.2006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/japplphysiol.00252.2006</ArticleId>
+            <ArticleId IdType="pmc">PMC4503231</ArticleId>
+            <ArticleId IdType="pubmed">16645192</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McGovern AE, Ajayi IE, Farrell MJ, Mazzone SB. 2017. A neuroanatomical framework for the central modulation of respiratory sensory processing and cough by the periaqueductal grey. J Thorac Dis
+9:4098–4107. doi:10.21037/jtd.2017.08.119.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.21037/jtd.2017.08.119</ArticleId>
+            <ArticleId IdType="pmc">PMC5723841</ArticleId>
+            <ArticleId IdType="pubmed">29268420</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mutolo D, Cinelli E, Bongianni F, Pantaleo T. 2014. Inhibitory control of the cough reflex by galanin receptors in the caudal nucleus tractus solitarii of the rabbit. Am J Physiol Regul Integr Comp Physiol
+307:R1358–R1367. doi:10.1152/ajpregu.00237.2014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpregu.00237.2014</ArticleId>
+            <ArticleId IdType="pubmed">25274905</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chakraborty S, Elvezio V, Kaczocha M, Rebecchi M, Puopolo M. 2017. Presynaptic inhibition of transient receptor potential vanilloid type 1 (TRPV1) receptors by noradrenaline in nociceptive neurons. J Physiol
+595:2639–2660. doi:10.1113/JP273455.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/JP273455</ArticleId>
+            <ArticleId IdType="pmc">PMC5390893</ArticleId>
+            <ArticleId IdType="pubmed">28094445</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Matsushita Y, Manabe M, Kitamura N, Shibuya I. 2018. Adrenergic receptors inhibit TRPV1 activity in the dorsal root ganglion neurons of rats. PLoS One
+13:e0191032. doi:10.1371/journal.pone.0191032.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0191032</ArticleId>
+            <ArticleId IdType="pmc">PMC5755923</ArticleId>
+            <ArticleId IdType="pubmed">29304162</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mooi FR. 2010. Bordetella pertussis and vaccination: the persistence of a genetically monomorphic pathogen. Infect Genet Evol
+10:36–49. doi:10.1016/j.meegid.2009.10.007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.meegid.2009.10.007</ArticleId>
+            <ArticleId IdType="pubmed">19879977</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ono K, Ye Y, Viet CT, Dang D, Schmidt BL. 2015. TRPV1 expression level in isolectin B4-positive neurons contributes to mouse strain difference in cutaneous thermal nociceptive sensitivity. J Neurophysiol
+113:3345–3355. doi:10.1152/jn.00973.2014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.00973.2014</ArticleId>
+            <ArticleId IdType="pmc">PMC4443607</ArticleId>
+            <ArticleId IdType="pubmed">25787958</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hewitt M, Canning BJ. 2010. Coughing precipitated by Bordetella pertussis infection. Lung
+188:73–79. doi:10.1007/s00408-009-9196-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00408-009-9196-9</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cherry JD, Paddock CD. 2014. Pathogenesis and histopathology of pertussis: implications for immunization. Expert Rev Vaccines
+13:1115–1123. doi:10.1586/14760584.2014.935766.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1586/14760584.2014.935766</ArticleId>
+            <ArticleId IdType="pubmed">24992986</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kalter ES, Dijk WC, van Timmerman A, Verhoef J, Bouma BN. 1983. Activation of purified human plasma prekallikrein triggered by cell wall fractions of Escherichia coli and Staphylococcus aureus. J Infect Dis
+148:682–691. doi:10.1093/infdis/148.4.682.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/infdis/148.4.682</ArticleId>
+            <ArticleId IdType="pubmed">6355312</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roeise O, Bouma BN, Stadaas JO, Aasen AO. 1988. Dose dependence of endotoxin-induced activation of the plasma contact system: an in vitro study. Circulatory Shock
+26:419–430.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2463883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ishiura Y, Fujimura M, Yamamoto H, Ishiguro T, Ohkura N, Myou S. 2010. COX-2 inhibition attenuates cough reflex sensitivity to inhaled capsaicin in patients with asthma. J Investig Allergol Clin Immunol
+6:370–374. doi:10.1186/1745-9974-6-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1745-9974-6-7</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moriyama T, Higashi T, Togashi K, Iida T, Segi E, Sugimoto Y, Tominaga T, Narumiya S, Tominaga M. 2005. Sensitization of TRPV1 by EP 1 and IP reveals peripheral nociceptive mechanism of prostaglandins. Mol Pain
+1:3. doi:10.1186/1744-8069-1-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1744-8069-1-3</ArticleId>
+            <ArticleId IdType="pmc">PMC1074353</ArticleId>
+            <ArticleId IdType="pubmed">15813989</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Canning BJ. 2008. The cough reflex in animals: relevance to human cough research. Lung
+186:23–28. doi:10.1007/s00408-007-9054-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00408-007-9054-6</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Park J, Zhang Y, Buboltz AM, Zhang X, Schuster SC, Ahuja U, Liu M, Miller JF, Sebaihia M, Bentley SD, Parkhill J, Harvill ET. 2012. Comparative genomics of the classical Bordetella subspecies: the evolution and exchange of virulence-associated diversity amongst closely related pathogens. BMC Genomics
+13:545. doi:10.1186/1471-2164-13-545.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2164-13-545</ArticleId>
+            <ArticleId IdType="pmc">PMC3533505</ArticleId>
+            <ArticleId IdType="pubmed">23051057</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Parkhill J, Sebaihia M, Preston A, Murphy LD, Thomson N, Harris DE, Holden MTG, Churcher CM, Bentley SD, Mungall KL, Cerdeño-Tárraga AM, Temple L, James K, Harris B, Quail MA, Achtman M, Atkin R, Baker S, Basham D, Bason N, Cherevach I, Chillingworth T, Collins M, Cronin A, Davis P, Doggett J, Feltwell T, Goble A, Hamlin N, Hauser H, Holroyd S, Jagels K, Leather S, Moule S, Norberczak H, O'Neil S, Ormond D, Price C, Rabbinowitsch E, Rutter S, Sanders M, Saunders D, Seeger K, Sharp S, Simmonds M, Skelton J, Squares R, Squares S, Stevens K, Unwin L, et al.. 2003. Comparative analysis of the genome sequences of Bordetella pertussis, Bordetella parapertussis and Bordetella bronchiseptica. Nat Genet
+35:32–40. doi:10.1038/ng1227.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ng1227</ArticleId>
+            <ArticleId IdType="pubmed">12910271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stainer DW, Scholte MJ. 1970. A simple chemically defined medium for the production of phase I Bordetella pertussis. J Gen Microbiol
+63:211–220. doi:10.1099/00221287-63-2-211.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/00221287-63-2-211</ArticleId>
+            <ArticleId IdType="pubmed">4324651</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Figurski DH, Helinski DR. 1979. Replication of an origin-containing derivative of plasmid RK2 dependent on a plasmid function provided in trans. Proc Natl Acad Sci USA
+76:1648–1652. doi:10.1073/pnas.76.4.1648.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.76.4.1648</ArticleId>
+            <ArticleId IdType="pmc">PMC383447</ArticleId>
+            <ArticleId IdType="pubmed">377280</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hiramatsu Y, Suzuki K, Motooka D, Nakamura S, Horiguchi Y. 2020. Expression of small RNAs of Bordetella pertussis colonizing murine tracheas. Microbiol Immunol
+64:469–475. doi:10.1111/1348-0421.12791.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/1348-0421.12791</ArticleId>
+            <ArticleId IdType="pmc">PMC7317797</ArticleId>
+            <ArticleId IdType="pubmed">32227523</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nishikawa S, Shinzawa N, Nakamura K, Ishigaki K, Abe H, Horiguchi Y. 2016. The bvg-repressed gene brtA, encoding biofilm-associated surface adhesin, is expressed during host infection by Bordetella bronchiseptica. Microbiol Immunol
+60:93–105. doi:10.1111/1348-0421.12356.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/1348-0421.12356</ArticleId>
+            <ArticleId IdType="pubmed">26756546</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sekiya K, Ohishi M, Ogino T, Tamano K, Sasakawa C, Abe A. 2001. Supermolecular structure of the enteropathogenic Escherichia coli type III secretion system and its direct interaction with the EspA-sheath-like structure. Proc Natl Acad Sci USA
+98:11638–11643. doi:10.1073/pnas.191378598.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.191378598</ArticleId>
+            <ArticleId IdType="pmc">PMC58782</ArticleId>
+            <ArticleId IdType="pubmed">11562461</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buasri W, Impoolsup A, Boonchird C, Luengchaichawange A, Prompiboon P, Petre J, Panbangred W. 2012. Construction of Bordetella pertussis strains with enhanced production of genetically-inactivated pertussis toxin and pertactin by unmarked allelic exchange. BMC Microbiol
+12:61. doi:10.1186/1471-2180-12-61.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2180-12-61</ArticleId>
+            <ArticleId IdType="pmc">PMC3349578</ArticleId>
+            <ArticleId IdType="pubmed">22524455</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoshino K, Takeuchi O, Kawai T, Sanjo H, Ogawa T, Takeda Y, Takeda K, Akira S. 1999. Cutting edge: Toll-like receptor 4 (TLR4)-deficient mice are hyporesponsive to lipopolysaccharide evidence for TLR4 as the Lps gene product. J Immunol
+162:3749–3752.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10201887</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bautista DM, Jordt S-E, Nikai T, Tsuruda PR, Read AJ, Poblete J, Yamoah EN, Basbaum AI, Julius D. 2006. TRPA1 mediates the inflammatory actions of environmental irritants and proalgesic agents. Cell
+124:1269–1282. doi:10.1016/j.cell.2006.02.023.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2006.02.023</ArticleId>
+            <ArticleId IdType="pubmed">16564016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Caterina MJ, Leffler A, Malmberg AB, Martin WJ, Trafton J, Petersen-Zeitz KR, Koltzenburg M, Basbaum AI, Julius D. 2000. Impaired nociception and pain sensation in mice lacking the capsaicin receptor. Science
+288:306–313. doi:10.1126/science.288.5464.306.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.288.5464.306</ArticleId>
+            <ArticleId IdType="pubmed">10764638</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kittaka H, Uchida K, Fukuta N, Tominaga M. 2017. Lysophosphatidic acid-induced itch is mediated by signalling of LPA 5receptor, phospholipase D and TRPA1/TRPV1. J Physiol
+595:2681–2698. doi:10.1113/JP273961.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/JP273961</ArticleId>
+            <ArticleId IdType="pmc">PMC5390871</ArticleId>
+            <ArticleId IdType="pubmed">28176353</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maruyama K, Takayama Y, Kondo T, Ishibashi K, Sahoo BR, Kanemaru H, Kumagai Y, Martino MM, Tanaka H, Ohno N, Iwakura Y, Takemura N, Tominaga M, Akira S. 2017. Nociceptors boost the resolution of fungal osteoinflammation via the TRP channel-CGRP-Jdp2 axis. Cell Rep
+19:2730–2742. doi:10.1016/j.celrep.2017.06.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2017.06.002</ArticleId>
+            <ArticleId IdType="pubmed">28658621</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Abbasi F, Miyata H, Shimada K, Morohoshi A, Nozawa K, Matsumura T, Xu Z, Pratiwi P, Ikawa M. 2018. RSPH6A is required for sperm flagellum formation and male fertility in mice. J Cell Science
+131:jcs221648. doi:10.1242/jcs.221648.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/jcs.221648</ArticleId>
+            <ArticleId IdType="pmc">PMC6198453</ArticleId>
+            <ArticleId IdType="pubmed">30185526</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Minnick MF. 1994. Identification of outer membrane proteins of Bartonella bacilliformis. Infect Immun
+62:2644–2648. doi:10.1128/iai.62.6.2644-2648.1994.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/iai.62.6.2644-2648.1994</ArticleId>
+            <ArticleId IdType="pmc">PMC186560</ArticleId>
+            <ArticleId IdType="pubmed">8188391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang S, Dai Y, Fukuoka T, Yamanaka H, Kobayashi K, Obata K, Cui X, Tominaga M, Noguchi K. 2008. Phospholipase C and protein kinase A mediate bradykinin sensitization of TRPA1: a molecular mechanism of inflammatory pain. Brain
+131:1241–1251. doi:10.1093/brain/awn060.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/brain/awn060</ArticleId>
+            <ArticleId IdType="pubmed">18356188</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li T, Saito CT, Hikitsuchi T, Inoguchi Y, Mitsuishi H, Saito S, Tominaga M. 2019. Diverse sensitivities of TRPA1 from different mosquito species to thermal and chemical stimuli. Sci Rep
+9:20200–20213. doi:10.1038/s41598-019-56639-w.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-019-56639-w</ArticleId>
+            <ArticleId IdType="pmc">PMC6934445</ArticleId>
+            <ArticleId IdType="pubmed">31882848</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Skelton SK, Wong KH. 1990. Simple, efficient purification of filamentous hemagglutinin and pertussis toxin from Bordetella pertussis by hydrophobic and affinity interaction. J Clin Microbiol
+28:1062–1065. doi:10.1128/jcm.28.5.1062-1065.1990.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/jcm.28.5.1062-1065.1990</ArticleId>
+            <ArticleId IdType="pmc">PMC267867</ArticleId>
+            <ArticleId IdType="pubmed">2351723</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Horiguchi Y, Nakai T, Kume K. 1990. Simplified procedure for purification of Bordetella bronchiseptica dermonecrotic toxin. FEMS Microbiol Lett
+66:39–43. doi:10.1111/j.1574-6968.1990.tb03969.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1574-6968.1990.tb03969.x</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

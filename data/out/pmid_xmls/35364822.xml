@@ -1,0 +1,111 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35364822</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>05</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>11</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1089-7682</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>32</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Chaos (Woodbury, N.Y.)</Title>
+          <ISOAbbreviation>Chaos</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The detection matrix as a model-agnostic tool to estimate the number of degrees of freedom in mechanical systems and engineering structures.</ArticleTitle>
+        <Pagination>
+          <StartPage>033106</StartPage>
+          <MedlinePgn>033106</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1063/5.0083767</ELocationID>
+        <Abstract>
+          <AbstractText>Estimating the number of degrees of freedom of a mechanical system or an engineering structure from the time-series of a small set of sensors is a basic problem in diagnostics, which, however, is often overlooked when monitoring health and integrity. In this work, we demonstrate the applicability of the network-theoretic concept of detection matrix as a tool to solve this problem. From this estimation, we illustrate the possibility to identify damage. The detection matrix, recently introduced by Haehne et al. [Phys. Rev. Lett. 122, 158301 (2019)] in the context of network theory, is assembled from the transient response of a few nodes as a result of non-zero initial conditions: its rank offers an estimate of the number of nodes in the network itself. The use of the detection matrix is completely model-agnostic, whereby it does not require any knowledge of the system dynamics. Here, we show that, with a few modifications, this same principle applies to discrete systems, such as spring-mass lattices and trusses. Moreover, we discuss how damage in one or more members causes the appearance of distinct jumps in the singular values of this matrix, thereby opening the door to structural health monitoring applications, without the need for a complete model reconstruction.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Celli</LastName>
+            <ForeName>Paolo</ForeName>
+            <Initials>P</Initials>
+            <Identifier Source="ORCID">0000000178397472</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Civil Engineering, Stony Brook University, Stony Brook, New York 11794, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Porfiri</LastName>
+            <ForeName>Maurizio</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">0000000214803539</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Center for Urban Science and Progress, Tandon School of Engineering, New York University, New York 11201, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Chaos</MedlineTA>
+        <NlmUniqueID>100971574</NlmUniqueID>
+        <ISSNLinking>1054-1500</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D004738" MajorTopicYN="Y">Engineering</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>2</Day>
+          <Hour>5</Hour>
+          <Minute>20</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35364822</ArticleId>
+        <ArticleId IdType="doi">10.1063/5.0083767</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

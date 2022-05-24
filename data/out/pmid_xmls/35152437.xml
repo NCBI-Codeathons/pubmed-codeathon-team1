@@ -1,0 +1,1236 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35152437</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>23</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1096-9861</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>530</Volume>
+            <Issue>10</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of comparative neurology</Title>
+          <ISOAbbreviation>J Comp Neurol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Digital reconstruction and quantitative morphometric analysis of bipolar cells in live rat retinal slices.</ArticleTitle>
+        <Pagination>
+          <StartPage>1700</StartPage>
+          <EndPage>1728</EndPage>
+          <MedlinePgn>1700-1728</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/cne.25308</ELocationID>
+        <Abstract>
+          <AbstractText>Bipolar cells convey signals from photoreceptors in the outer retina to amacrine and ganglion cells in the inner retina. In mammals, there are typically 10-15 types of cone bipolar cells and one type of rod bipolar cell. Different types of cone bipolar cells are thought to code and transmit different features of a complex visual stimulus, thereby generating parallel channels that uniquely filter and transform the photoreceptor outputs. Differential synaptic connectivity and expression of ligand- and voltage-gated ion channels are thought to be important mechanisms for processing and filtering visual signals. Whereas the biophysical basis for such mechanisms has been investigated more extensively in rat retina, there is a lack of quantitative morphological data necessary for advancing the structure-function correlation in this species, as recent connectomics investigations have focused on mouse retina. Here, we performed whole-cell recordings from cone and rod bipolar cells in rat retinal slices, filled the cells with fluorescent dyes, and acquired image stacks by multiphoton excitation microscopy. Following deconvolution, we performed digital reconstruction and morphometric analysis of 25 cone and 14 rod bipolar cells. Compared to previous descriptions, the extent and complexity of branching of the axon terminal was surprisingly high. By precisely quantifying the level of stratification of the axon terminals in the inner plexiform layer, we have generated a reference system for reliable classification of individual cells in future studies focused on correlating physiological and morphological properties. The implemented workflow can be extended to the development of morphologically realistic compartmental models for these neurons.</AbstractText>
+          <CopyrightInformation>© 2022 The Authors. The Journal of Comparative Neurology published by Wiley Periodicals LLC.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Fournel</LastName>
+            <ForeName>Rémi</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">0000-0003-2486-0307</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedicine, University of Bergen, Bergen, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Veruki</LastName>
+            <ForeName>Margaret L</ForeName>
+            <Initials>ML</Initials>
+            <Identifier Source="ORCID">0000-0002-0532-144X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedicine, University of Bergen, Bergen, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hartveit</LastName>
+            <ForeName>Espen</ForeName>
+            <Initials>E</Initials>
+            <Identifier Source="ORCID">0000-0003-1798-1901</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedicine, University of Bergen, Bergen, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>21</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Comp Neurol</MedlineTA>
+        <NlmUniqueID>0406041</NlmUniqueID>
+        <ISSNLinking>0021-9967</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001369" MajorTopicYN="N">Axons</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003712" MajorTopicYN="Y">Dendrites</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008322" MajorTopicYN="N">Mammals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012160" MajorTopicYN="Y">Retina</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051245" MajorTopicYN="N">Retinal Bipolar Cells</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017949" MajorTopicYN="N">Retinal Cone Photoreceptor Cells</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">branching pattern</Keyword>
+        <Keyword MajorTopicYN="N">cone bipolar cells</Keyword>
+        <Keyword MajorTopicYN="N">dendrites</Keyword>
+        <Keyword MajorTopicYN="N">digital reconstruction</Keyword>
+        <Keyword MajorTopicYN="N">morphometry</Keyword>
+        <Keyword MajorTopicYN="N">retina</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>6</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>13</Day>
+          <Hour>20</Hour>
+          <Minute>37</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35152437</ArticleId>
+        <ArticleId IdType="doi">10.1002/cne.25308</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>REFERENCES</Title>
+        <Reference>
+          <Citation>Bäck, S., Necarsulmer, J., Whitaker, L. R., Coke, L. M., Koivula, P., Heathward, E. J., Fortuno, L. V., Zhang, Y., Yeh, C. G., Baldwin, H. A., Spencer, M. D., Mejias-Aponte, C. A., Pickel, J., Hoffman, A. F., Spivak, C. E., Lupica, C. R., Underhill, S. M., Amara, S. G., Domanskyi, A., …, &amp; Harvey, B. K. (2019). Neuron-specific genome modification in the adult rat brain using CRISPR-Cas9 transgenic rats. Neuron, 102, 105-119.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Behrens, C., Schubert, T., Haverkamp, S., Euler, T., &amp; Berens, P. (2016). Connectivity map of bipolar cells and photoreceptors in the mouse retina. eLife, 5. pii: e20041.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Boycott, B. B., &amp; Dowling, J. E. (1969). Organization of the primate retina: Light microscopy. Philosophical Transactions of the Royal Society of London, Series B, Biological Sciences, 255, 109-194.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Boycott, B. B., &amp; Wässle, H. (1991) Morphological classification of bipolar cells of the primate retina. European Journal of Neuroscience, 3, 1069-1088.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Brandstätter, J. H., Dick, O., &amp; Boeckers, T. M. (2004). The postsynaptic scaffold proteins ProSAP1/Shank2 and Homer1 are associated with glutamate receptor complexes at rat retinal synapses. Journal of Comparative Neurology, 475, 551-563.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Breuninger, T., Puller, C., Haverkamp, S., &amp; Euler, T. (2011). Chromatic bipolar cell pathways in the mouse retina. Journal of Neuroscience, 31, 6504-6517.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cajal, S. R. y (1893). La rétine des vertébrés. La Cellule, 9, 119-257. English translation in The Structure of the Retina (1972), compiled and translated by S. A. Thorpe &amp; M. Glickstein. Springfield, IL: Charles C. Thomas.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cajal, S. R. y (1894). Les Nouvelles Idées sur la Structure du Système Nerveux chez l'Homme et chez les Vertébrés. Paris: Reinwald &amp; Cie. English translation in New Ideas on the Structure of the Nervous System in Man and Vertebrates (1990), translated by N. Swanson &amp; L. W. Swanson. Cambridge, MA: MIT Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cajal, S. R. y (1911). Histologie du Système Nerveux de l'Homme et des Vertébrés (vol., II). Paris: Maloine. English translation in Histology of the Nervous System of Man and Vertebrates, Vol. II (1995), translated by N. Swanson &amp; L. W. Swanson. New York, NY: Oxford University Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cao, Y., Sarria, I., Fehlhaber, K. E., Kamasawa, N., Orlandi, C., James, K. N., Hazen, J. L., Gardner, M. R., Farzan, M., Lee, A., Baker, S., Baldwin, K., Sampath, A. P., &amp; Martemyanov, K. A. (2015). Mechanism for selective synaptic wiring of rod photoreceptors into the retinal circuitry and its role in vision. Neuron, 87, 1248-1260.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Capowski, J. J. (1989). Computer techniques in neuroanatomy. New York and London: Plenum Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Carnevale, N. T., &amp; Hines, M. L. (2006). The NEURON book. Cambridge: Cambridge University Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chun, M.-H., Han, S.-H., Chung, J.-W., &amp; Wässle, H. (1993). Electron microscopic analysis of the rod pathway of the rat retina. Journal of Comparative Neurology, 332, 421-432.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chun, M.-H., Oh, S.-J., Kim, I.-B., &amp; Kim, K.-Y. (1999). Light and electron microscopical analysis of nitric oxide synthase-like immunoreactive neurons in the rat retina. Visual Neuroscience, 16, 379-389.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cohen, E., &amp; Sterling, P. (1990). Demonstration of cell types among cone bipolar neurons of cat retina. Philosophical Transactions of the Royal Society of London, Series B, Biological Sciences, 330, 305-321.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cui, J., &amp; Pan, Z.-H. (2008). Two types of cone bipolar cells express voltage-gated Na+ channels in the rat retina. Visual Neuroscience, 25, 635-645.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dacheux, R. F., &amp; Raviola, E. (1986). The rod pathway in the rabit retina: A depolarizing bipolar and amacrine cell. Journal of Neuroscience, 6, 331-345.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dowling, J. E., &amp; Boycott, B. B. (1966). Organization of the primate retina: Electron microscopy. Proceedings of the Royal Society of London, Series B, Biological Sciences, 166, 80-111.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Euler, T., &amp; Wässle, H. (1995). Immunocytochemical identification of cone bipolar cells in the rat retina. Journal of Comparative Neurology, 361, 461-478.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Euler, T., Schneider, H., &amp; Wässle, H. (1996). Glutamate responses of bipolar cells in a slice preparation of the rat retina. Journal of Neuroscience, 16, 2934-2944.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Euler, T., Haverkamp, S., Schubert, T., &amp; Baden, T. (2014). Retinal bipolar cells: Elementary building blocks of vision. Nature Reviews Neuroscience, 15, 507-519.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Famiglietti, E. V. (1981). Functional architecture of cone bipolar cells in mammalian retina. Vision Research, 21, 1559-1563.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Famiglietti, E. V., &amp; Kolb, H. (1976). Structural basis for ON-and OFF-center responses in retinal ganglion cells. Science, 194, 193-195.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Franke, K., Berens, P., Schubert, T., Bethge, M., Euler, T., &amp; Baden, T. (2017). Inhibition decorrelates visual feature representations in the inner retina. Nature, 542, 439-444.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fyk-Kolodziej, B., &amp; Pourcho, R. G. (2007). Differential distribution of hyperpolarization-activated and cyclic nucleotide-gated channels in cone bipolar cells of the rat retina. Journal of Comparative Neurology, 501, 891-903.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gallego-Ortega, A., Norte-Muñoz, M., Miralles de Imperial-Ollero, J. A., Bernal-Garro, J. M., Valiente-Soriano, F. J., de la Villa Polo, P., Avilés-Trigueros, M., Villegas-Pérez, M. P., &amp; Vidal-Sanz, M. (2020). Functional and morphological alterations in a glaucoma model of acute ocular hypertension. Progress in Brain Research, 256, 1-29.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ghosh, K., Bujan, S., Haverkamp, S., Feigenspan, A., &amp; Wässle, H. (2004). Types of bipolar cells in the mouse retina. Journal of Comparative Neurology, 469, 70-82.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Golgi, C. (1873). Sulla struttura della sostanza grigia del cervello (Communicazione preventiva). Gazzetta Medica Italiana, 33, 244-246. Reprinted as: Sulla sostanza grigia del cervello, Opera Omnia, 1903, Vol. 1, Istologia Normale, pp. 91-98. Milan, Italy: Ulrico Hoepli.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Greene, M. J., Kim, J. S., Seung, H. S., &amp; EyeWirers (2016). Analogous convergence of sustained and transient inputs in parallel on and off pathways for retinal motion computation. Cell Reports, 14, 1892-1900.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Greferath, U., Grünert, U., &amp; Wässle, H. (1990). Rod bipolar cells in the mammalian retina show protein kinase C-like immunoreactivity. Journal of Comparative Neurology, 301, 433-442.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Groh, A., &amp; Krieger, P. (2011). Structure-function analysis of genetically defined neuronal populations. In: Helmchen, F., &amp; Konnerth, A. Series ed. Yuste, R. Imaging in neuroscience (pp. 377-386). Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hartveit, E. (1997). Functional organization of cone bipolar cells in the rat retina. Journal of Neurophysiology, 77, 1716-1730.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hartveit, E. (1999). Reciprocal synaptic interactions between rod bipolar cells and amacrine cells in the rat retina. Journal of Neurophysiology, 81, 2923-2936.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Haverkamp, S., Specht, D., Majumdar, S., Zaidi, N. F., Brandstätter, J. H., Wasco, W., Wässle, H., &amp; Tom Dieck, S. (2008). Type 4 OFF cone bipolar cells of the mouse retina express calsenilin and contact cones as well as rods. Journal of Comparative Neurology, 507, 1087-1101.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hellmer, C. B., Zhou, Y., Fyk-Kolodziej, B., Hu, Z., &amp; Ichinose, T. (2016). Morphological and physiological analysis of type-5 and other bipolar cells in the mouse retina. Neuroscience, 315, 246-258.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Helmstaedter, M., Briggman, K. L., Turaga, S. C., Jain, V., Seung, H. S., &amp; Denk, W. (2013). Connectomic reconstruction of the inner plexiform layer in the mouse retina. Nature, 500, 168-174.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Holmes, W. R. (2010). Passive cable modeling. In: De Schutter, E. (Ed.), Computational modeling methods for neuroscientists (pp. 233-258). Cambridge, MA: MIT Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hu, C., Bi, A., &amp; Pan, Z.-H. (2009). Differential expression of three T-type calcium channels in retinal bipolar cells in rats. Visual Neuroscience, 26, 177-187.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ichinose, T., Fyk-Kolodziej, B., &amp; Cohn, J. (2014). Roles of ON cone bipolar cell subtypes in temporal coding in the mouse retina. Journal of Neuroscience, 34, 8761-8771.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ivanova, E., &amp; Müller, F. (2006). Retinal bipolar cell types differ in their inventory of ion channels. Visual Neuroscience, 23, 143-154.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jaeger, D. (2001). Accurate reconstruction of neuronal morphology. In: De Schutter, E. (Ed.). Computational neuroscience. Realistic modeling for experimentalists (pp. 159-178). Boca Raton, FL: CRC Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Keeley, P. W., &amp; Reese, B. E. (2010). Role of afferents in the differentiation of bipolar cells in the mouse retina. Journal of Neuroscience, 30, 1677-1685.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kolb, H. (1979). The inner plexiform layer in the retina of the cat: Electron microscopic observations. Journal of Neurocytology, 8, 295-329.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Koulen, P., Kuhn, R., Wässle, H., &amp; Brandstätter, J. H. (1997). Group I metabotropic glutamate receptors mGluR1alpha and mGluR5a: Localization in both synaptic layers of the rat retina. Journal of Neuroscience, 17, 2200-2211.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Light, A. C., Zhu, Y., Shi, J., Saszik, S., Lindstrom, S., Davidson, L., Li, X., Chiodo, V. A., Hauswirth, W. W., Li, W., &amp; DeVries, S. H. (2012). Organizational motifs for ground squirrel cone bipolar cells. Journal of Comparative Neurology, 520, 2864-2887.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Linberg, K. A., Suemune, S., &amp; Fisher, S. K. (1996). Retinal neurons of the California ground squirrel, Spermopilus beecheyi: A Golgi study. Journal of Comparative Neurology, 365, 173-216.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ma, Y.-P., Cui, J., Hu, H.-J., &amp; Pan, Z.-H. (2003). Mammalian retinal bipolar cells express inwardly rectifying K+ currents (IKir) with a different distribution than that of Ih. Journal of Neurophysiology, 90, 3479-3489.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ma, Y.-P., Cui, J., &amp; Pan, Z.-H. (2005). Heterogeneous expression of voltage-dependent Na+ and K+ channels in mammalian retinal bipolar cells. Visual Neuroscience, 22, 119-133.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>MacNeil, M. A., Heussy, J. K., Dacheux, R. F., Raviola, E., &amp; Masland, R. H. (2004). The population of bipolar cells in the rabbit retina. Journal of Comparative Neurology, 472, 73-86.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Major, G. (2001). Passive cable modeling - A practical introduction. In: De Schutter, E. (Ed.), Computational neuroscience. Realistic modeling for experimentalists (pp. 209-232). Boca Raton, FL: CRC Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mataruga, A., Kremmer, E., &amp; Müller, F. (2007). Type 3a and type 3b OFF cone bipolar cells provide for the alternative rod pathway in the mouse retina. Journal of Comparative Neurology, 502, 1123-1137.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>McGuire, B. A., Stevens, J. K., &amp; Sterling, P. (1984). Microcircuitry of bipolar cells in cat retina. Journal of Neuroscience, 4, 2920-2938.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Oltedal, L., Veruki, M. L., &amp; Hartveit, E. (2009). Passive membrane properties and electrotonic signal processing in retinal rod bipolar cells. Journal of Physiology, 587, 829-849.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pan, Z.-H. (2000). Differential expression of high- and two types of low-voltage-activated calcium currents in rod and cone bipolar cells of the rat retina. Journal of Neurophysiology, 83, 513-527.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park, H. Y., Kim, J. H., &amp; Park, C. K. (2014). Alterations of the synapse of the inner retinal layers after chronic intraocular pressure elevation in glaucoma animal model. Molecular Brain, 7, 53.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pignatelli, V., &amp; Strettoi, E. (2004). Bipolar cells of the mouse retina: A gene gun, morphological study. Journal of Comparative Morphology, 476, 254-266.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Polyak, S. L. (1941). The retina. Chicago, IL: Chicago University Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Protti, D. A., &amp; Llano, I. (1998). Calcium currents and calcium signaling in rod bipolar cells of rat retinal slices. Journal of Neuroscience, 18, 3715-3724.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sassoè-Pognetto, M., Wässle, H., &amp; Grunert, U. (1994). Glycinergic synapses in the rod pathway of the rat retina: Cone bipolar cells express the alpha 1 subunit of the glycine receptor. Journal of Neuroscience, 14, 5131-5146.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Scorcioni, R., Polavaram, S., &amp; Ascoli, G. A. (2008). L-measure: A web-accessible tool for the analysis, comparison and search of digital reconstructions of neuronal morphologies. Nature Protocols, 3, 866-876.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Seung, H. S., &amp; Sümbül, U. (2014). Neuronal cell types and connectivity: Lessons from the retina. Neuron, 83, 1262-1272.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shekhar, K., Lapan, S. W., Whitney, I. E., Tran, N. M., Macosko, E. Z., Kowalczyk, M., Adiconis, X., Levin, J. Z., Nemesh, J., Goldman, M., McCarroll, S. A., Cepko, C. L., Regev, A., &amp; Sanes, J. R. (2016). Comprehensive classification of retinal bipolar neurons by single-cell transcriptomics. Cell, 166, 1308-1323.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sholl, D. A. (1953). Dendritic organization in the neurons of the visual and motor cortices of the cat. Journal of Anatomy, 87, 387-406.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sterling, P. (1983). Microcircuitry of the cat retina. Annual Review of Neuroscience, 6, 149-185.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Strettoi, E., Dacheux, R. F., &amp; Raviola, E. (1994). Cone bipolar cells as interneurons in the rod pathway of the rabbit retina. Journal of Comparative Neurology, 347, 139-149.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Strettoi, E., Novelli, E., Mazzoni, F., Barone, I., &amp; Damiani, D. (2010). Complexity of retinal cone bipolar cells. Progress in Retinal and Eye Research, 29, 272-283.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Szél, Á., &amp; Röhlich, P. (1992). Two cone types of rat retina detected by anti-visual pigment antibodies. Experimental Eye Research, 55, 47-52.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Teeter, C. M., &amp; Stevens, C. F. (2011). A general principle of neural arbor branch density. Current Biology, 21, 2105-2108.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tsukamoto, Y., Morigiwa, K., Ueda, M., &amp; Sterling, P. (2001). Microcircuits for night vision in mouse retina. Journal of Neuroscience, 21, 8616-8623.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tsukamoto, Y., &amp; Omi, N. (2015). OFF bipolar cells in macaque retina: Type specific connectivity in the outer and inner synaptic layers. Frontiers in Neuroanatomy, 9, 122.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tsukamoto, Y., &amp; Omi, N. (2017). Classification of mouse retinal bipolar cells: Type-specific connectivity with special reference to rod-driven AII amacrine pathways. Frontiers in Neuroanatomy, 11, 92.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Vielma, A. H., &amp; Schmachtenberg, O. (2016). Electrophysiological fingerprints of OFF bipolar cells in rat retina. Scientific Reports, 6, 30259.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wässle, H., Puller, C., Müller, F., &amp; Haverkamp, S. (2009). Cone contacts, mosaics, and territories of bipolar cells in the mouse retina. Journal of Neuroscience, 29, 106-117.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>West, R. W. (1976). Light and electron microscopy of the ground squirrel retina: Functional considerations. Journal of Comparative Neurology, 168, 355-378.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>West, R. W. (1978). Bipolar and horizontal cells of the gray squirrel retina: Golgi morphology and recepor connections. Vision Research, 18, 129-136.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yasuda, R., Nimchinsky, E. A., Scheuss, V., Pologruto, T. A., Oertner, T. G., Sabatini, B. L., &amp; Svoboda, K. (2004). Imaging calcium concentration dynamics in small neuronal compartments. Science STKE, 2004, pl5.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zandt, B.-J., Liu, J. H., Veruki, M. L., &amp; Hartveit, E. (2017). AII amacrine cells: Quantitative reconstruction and morphometric analysis of electrophysiologically identified cells in live rat retinal slices imaged with multi-photon excitation microscopy. Brain Structure and Function, 222, 151-182.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zandt, B.-J., Veruki, M. L., &amp; Hartveit, E. (2018). Electrotonic signal processing in AII amacrine cells: Compartmental models and passive membrane properties for a gap junction-coupled retinal neuron. Brain Structure and Function, 223, 3383-3410.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35152437</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>23</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1096-9861</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>530</Volume>
+            <Issue>10</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of comparative neurology</Title>
+          <ISOAbbreviation>J Comp Neurol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Digital reconstruction and quantitative morphometric analysis of bipolar cells in live rat retinal slices.</ArticleTitle>
+        <Pagination>
+          <StartPage>1700</StartPage>
+          <EndPage>1728</EndPage>
+          <MedlinePgn>1700-1728</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/cne.25308</ELocationID>
+        <Abstract>
+          <AbstractText>Bipolar cells convey signals from photoreceptors in the outer retina to amacrine and ganglion cells in the inner retina. In mammals, there are typically 10-15 types of cone bipolar cells and one type of rod bipolar cell. Different types of cone bipolar cells are thought to code and transmit different features of a complex visual stimulus, thereby generating parallel channels that uniquely filter and transform the photoreceptor outputs. Differential synaptic connectivity and expression of ligand- and voltage-gated ion channels are thought to be important mechanisms for processing and filtering visual signals. Whereas the biophysical basis for such mechanisms has been investigated more extensively in rat retina, there is a lack of quantitative morphological data necessary for advancing the structure-function correlation in this species, as recent connectomics investigations have focused on mouse retina. Here, we performed whole-cell recordings from cone and rod bipolar cells in rat retinal slices, filled the cells with fluorescent dyes, and acquired image stacks by multiphoton excitation microscopy. Following deconvolution, we performed digital reconstruction and morphometric analysis of 25 cone and 14 rod bipolar cells. Compared to previous descriptions, the extent and complexity of branching of the axon terminal was surprisingly high. By precisely quantifying the level of stratification of the axon terminals in the inner plexiform layer, we have generated a reference system for reliable classification of individual cells in future studies focused on correlating physiological and morphological properties. The implemented workflow can be extended to the development of morphologically realistic compartmental models for these neurons.</AbstractText>
+          <CopyrightInformation>© 2022 The Authors. The Journal of Comparative Neurology published by Wiley Periodicals LLC.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Fournel</LastName>
+            <ForeName>Rémi</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">0000-0003-2486-0307</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedicine, University of Bergen, Bergen, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Veruki</LastName>
+            <ForeName>Margaret L</ForeName>
+            <Initials>ML</Initials>
+            <Identifier Source="ORCID">0000-0002-0532-144X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedicine, University of Bergen, Bergen, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hartveit</LastName>
+            <ForeName>Espen</ForeName>
+            <Initials>E</Initials>
+            <Identifier Source="ORCID">0000-0003-1798-1901</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedicine, University of Bergen, Bergen, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>21</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Comp Neurol</MedlineTA>
+        <NlmUniqueID>0406041</NlmUniqueID>
+        <ISSNLinking>0021-9967</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001369" MajorTopicYN="N">Axons</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003712" MajorTopicYN="Y">Dendrites</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008322" MajorTopicYN="N">Mammals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012160" MajorTopicYN="Y">Retina</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051245" MajorTopicYN="N">Retinal Bipolar Cells</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017949" MajorTopicYN="N">Retinal Cone Photoreceptor Cells</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">branching pattern</Keyword>
+        <Keyword MajorTopicYN="N">cone bipolar cells</Keyword>
+        <Keyword MajorTopicYN="N">dendrites</Keyword>
+        <Keyword MajorTopicYN="N">digital reconstruction</Keyword>
+        <Keyword MajorTopicYN="N">morphometry</Keyword>
+        <Keyword MajorTopicYN="N">retina</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>6</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>13</Day>
+          <Hour>20</Hour>
+          <Minute>37</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35152437</ArticleId>
+        <ArticleId IdType="doi">10.1002/cne.25308</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>REFERENCES</Title>
+        <Reference>
+          <Citation>Bäck, S., Necarsulmer, J., Whitaker, L. R., Coke, L. M., Koivula, P., Heathward, E. J., Fortuno, L. V., Zhang, Y., Yeh, C. G., Baldwin, H. A., Spencer, M. D., Mejias-Aponte, C. A., Pickel, J., Hoffman, A. F., Spivak, C. E., Lupica, C. R., Underhill, S. M., Amara, S. G., Domanskyi, A., …, &amp; Harvey, B. K. (2019). Neuron-specific genome modification in the adult rat brain using CRISPR-Cas9 transgenic rats. Neuron, 102, 105-119.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Behrens, C., Schubert, T., Haverkamp, S., Euler, T., &amp; Berens, P. (2016). Connectivity map of bipolar cells and photoreceptors in the mouse retina. eLife, 5. pii: e20041.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Boycott, B. B., &amp; Dowling, J. E. (1969). Organization of the primate retina: Light microscopy. Philosophical Transactions of the Royal Society of London, Series B, Biological Sciences, 255, 109-194.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Boycott, B. B., &amp; Wässle, H. (1991) Morphological classification of bipolar cells of the primate retina. European Journal of Neuroscience, 3, 1069-1088.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Brandstätter, J. H., Dick, O., &amp; Boeckers, T. M. (2004). The postsynaptic scaffold proteins ProSAP1/Shank2 and Homer1 are associated with glutamate receptor complexes at rat retinal synapses. Journal of Comparative Neurology, 475, 551-563.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Breuninger, T., Puller, C., Haverkamp, S., &amp; Euler, T. (2011). Chromatic bipolar cell pathways in the mouse retina. Journal of Neuroscience, 31, 6504-6517.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cajal, S. R. y (1893). La rétine des vertébrés. La Cellule, 9, 119-257. English translation in The Structure of the Retina (1972), compiled and translated by S. A. Thorpe &amp; M. Glickstein. Springfield, IL: Charles C. Thomas.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cajal, S. R. y (1894). Les Nouvelles Idées sur la Structure du Système Nerveux chez l'Homme et chez les Vertébrés. Paris: Reinwald &amp; Cie. English translation in New Ideas on the Structure of the Nervous System in Man and Vertebrates (1990), translated by N. Swanson &amp; L. W. Swanson. Cambridge, MA: MIT Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cajal, S. R. y (1911). Histologie du Système Nerveux de l'Homme et des Vertébrés (vol., II). Paris: Maloine. English translation in Histology of the Nervous System of Man and Vertebrates, Vol. II (1995), translated by N. Swanson &amp; L. W. Swanson. New York, NY: Oxford University Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cao, Y., Sarria, I., Fehlhaber, K. E., Kamasawa, N., Orlandi, C., James, K. N., Hazen, J. L., Gardner, M. R., Farzan, M., Lee, A., Baker, S., Baldwin, K., Sampath, A. P., &amp; Martemyanov, K. A. (2015). Mechanism for selective synaptic wiring of rod photoreceptors into the retinal circuitry and its role in vision. Neuron, 87, 1248-1260.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Capowski, J. J. (1989). Computer techniques in neuroanatomy. New York and London: Plenum Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Carnevale, N. T., &amp; Hines, M. L. (2006). The NEURON book. Cambridge: Cambridge University Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chun, M.-H., Han, S.-H., Chung, J.-W., &amp; Wässle, H. (1993). Electron microscopic analysis of the rod pathway of the rat retina. Journal of Comparative Neurology, 332, 421-432.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chun, M.-H., Oh, S.-J., Kim, I.-B., &amp; Kim, K.-Y. (1999). Light and electron microscopical analysis of nitric oxide synthase-like immunoreactive neurons in the rat retina. Visual Neuroscience, 16, 379-389.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cohen, E., &amp; Sterling, P. (1990). Demonstration of cell types among cone bipolar neurons of cat retina. Philosophical Transactions of the Royal Society of London, Series B, Biological Sciences, 330, 305-321.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cui, J., &amp; Pan, Z.-H. (2008). Two types of cone bipolar cells express voltage-gated Na+ channels in the rat retina. Visual Neuroscience, 25, 635-645.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dacheux, R. F., &amp; Raviola, E. (1986). The rod pathway in the rabit retina: A depolarizing bipolar and amacrine cell. Journal of Neuroscience, 6, 331-345.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dowling, J. E., &amp; Boycott, B. B. (1966). Organization of the primate retina: Electron microscopy. Proceedings of the Royal Society of London, Series B, Biological Sciences, 166, 80-111.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Euler, T., &amp; Wässle, H. (1995). Immunocytochemical identification of cone bipolar cells in the rat retina. Journal of Comparative Neurology, 361, 461-478.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Euler, T., Schneider, H., &amp; Wässle, H. (1996). Glutamate responses of bipolar cells in a slice preparation of the rat retina. Journal of Neuroscience, 16, 2934-2944.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Euler, T., Haverkamp, S., Schubert, T., &amp; Baden, T. (2014). Retinal bipolar cells: Elementary building blocks of vision. Nature Reviews Neuroscience, 15, 507-519.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Famiglietti, E. V. (1981). Functional architecture of cone bipolar cells in mammalian retina. Vision Research, 21, 1559-1563.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Famiglietti, E. V., &amp; Kolb, H. (1976). Structural basis for ON-and OFF-center responses in retinal ganglion cells. Science, 194, 193-195.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Franke, K., Berens, P., Schubert, T., Bethge, M., Euler, T., &amp; Baden, T. (2017). Inhibition decorrelates visual feature representations in the inner retina. Nature, 542, 439-444.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fyk-Kolodziej, B., &amp; Pourcho, R. G. (2007). Differential distribution of hyperpolarization-activated and cyclic nucleotide-gated channels in cone bipolar cells of the rat retina. Journal of Comparative Neurology, 501, 891-903.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gallego-Ortega, A., Norte-Muñoz, M., Miralles de Imperial-Ollero, J. A., Bernal-Garro, J. M., Valiente-Soriano, F. J., de la Villa Polo, P., Avilés-Trigueros, M., Villegas-Pérez, M. P., &amp; Vidal-Sanz, M. (2020). Functional and morphological alterations in a glaucoma model of acute ocular hypertension. Progress in Brain Research, 256, 1-29.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ghosh, K., Bujan, S., Haverkamp, S., Feigenspan, A., &amp; Wässle, H. (2004). Types of bipolar cells in the mouse retina. Journal of Comparative Neurology, 469, 70-82.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Golgi, C. (1873). Sulla struttura della sostanza grigia del cervello (Communicazione preventiva). Gazzetta Medica Italiana, 33, 244-246. Reprinted as: Sulla sostanza grigia del cervello, Opera Omnia, 1903, Vol. 1, Istologia Normale, pp. 91-98. Milan, Italy: Ulrico Hoepli.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Greene, M. J., Kim, J. S., Seung, H. S., &amp; EyeWirers (2016). Analogous convergence of sustained and transient inputs in parallel on and off pathways for retinal motion computation. Cell Reports, 14, 1892-1900.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Greferath, U., Grünert, U., &amp; Wässle, H. (1990). Rod bipolar cells in the mammalian retina show protein kinase C-like immunoreactivity. Journal of Comparative Neurology, 301, 433-442.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Groh, A., &amp; Krieger, P. (2011). Structure-function analysis of genetically defined neuronal populations. In: Helmchen, F., &amp; Konnerth, A. Series ed. Yuste, R. Imaging in neuroscience (pp. 377-386). Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hartveit, E. (1997). Functional organization of cone bipolar cells in the rat retina. Journal of Neurophysiology, 77, 1716-1730.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hartveit, E. (1999). Reciprocal synaptic interactions between rod bipolar cells and amacrine cells in the rat retina. Journal of Neurophysiology, 81, 2923-2936.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Haverkamp, S., Specht, D., Majumdar, S., Zaidi, N. F., Brandstätter, J. H., Wasco, W., Wässle, H., &amp; Tom Dieck, S. (2008). Type 4 OFF cone bipolar cells of the mouse retina express calsenilin and contact cones as well as rods. Journal of Comparative Neurology, 507, 1087-1101.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hellmer, C. B., Zhou, Y., Fyk-Kolodziej, B., Hu, Z., &amp; Ichinose, T. (2016). Morphological and physiological analysis of type-5 and other bipolar cells in the mouse retina. Neuroscience, 315, 246-258.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Helmstaedter, M., Briggman, K. L., Turaga, S. C., Jain, V., Seung, H. S., &amp; Denk, W. (2013). Connectomic reconstruction of the inner plexiform layer in the mouse retina. Nature, 500, 168-174.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Holmes, W. R. (2010). Passive cable modeling. In: De Schutter, E. (Ed.), Computational modeling methods for neuroscientists (pp. 233-258). Cambridge, MA: MIT Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hu, C., Bi, A., &amp; Pan, Z.-H. (2009). Differential expression of three T-type calcium channels in retinal bipolar cells in rats. Visual Neuroscience, 26, 177-187.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ichinose, T., Fyk-Kolodziej, B., &amp; Cohn, J. (2014). Roles of ON cone bipolar cell subtypes in temporal coding in the mouse retina. Journal of Neuroscience, 34, 8761-8771.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ivanova, E., &amp; Müller, F. (2006). Retinal bipolar cell types differ in their inventory of ion channels. Visual Neuroscience, 23, 143-154.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jaeger, D. (2001). Accurate reconstruction of neuronal morphology. In: De Schutter, E. (Ed.). Computational neuroscience. Realistic modeling for experimentalists (pp. 159-178). Boca Raton, FL: CRC Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Keeley, P. W., &amp; Reese, B. E. (2010). Role of afferents in the differentiation of bipolar cells in the mouse retina. Journal of Neuroscience, 30, 1677-1685.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kolb, H. (1979). The inner plexiform layer in the retina of the cat: Electron microscopic observations. Journal of Neurocytology, 8, 295-329.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Koulen, P., Kuhn, R., Wässle, H., &amp; Brandstätter, J. H. (1997). Group I metabotropic glutamate receptors mGluR1alpha and mGluR5a: Localization in both synaptic layers of the rat retina. Journal of Neuroscience, 17, 2200-2211.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Light, A. C., Zhu, Y., Shi, J., Saszik, S., Lindstrom, S., Davidson, L., Li, X., Chiodo, V. A., Hauswirth, W. W., Li, W., &amp; DeVries, S. H. (2012). Organizational motifs for ground squirrel cone bipolar cells. Journal of Comparative Neurology, 520, 2864-2887.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Linberg, K. A., Suemune, S., &amp; Fisher, S. K. (1996). Retinal neurons of the California ground squirrel, Spermopilus beecheyi: A Golgi study. Journal of Comparative Neurology, 365, 173-216.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ma, Y.-P., Cui, J., Hu, H.-J., &amp; Pan, Z.-H. (2003). Mammalian retinal bipolar cells express inwardly rectifying K+ currents (IKir) with a different distribution than that of Ih. Journal of Neurophysiology, 90, 3479-3489.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ma, Y.-P., Cui, J., &amp; Pan, Z.-H. (2005). Heterogeneous expression of voltage-dependent Na+ and K+ channels in mammalian retinal bipolar cells. Visual Neuroscience, 22, 119-133.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>MacNeil, M. A., Heussy, J. K., Dacheux, R. F., Raviola, E., &amp; Masland, R. H. (2004). The population of bipolar cells in the rabbit retina. Journal of Comparative Neurology, 472, 73-86.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Major, G. (2001). Passive cable modeling - A practical introduction. In: De Schutter, E. (Ed.), Computational neuroscience. Realistic modeling for experimentalists (pp. 209-232). Boca Raton, FL: CRC Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mataruga, A., Kremmer, E., &amp; Müller, F. (2007). Type 3a and type 3b OFF cone bipolar cells provide for the alternative rod pathway in the mouse retina. Journal of Comparative Neurology, 502, 1123-1137.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>McGuire, B. A., Stevens, J. K., &amp; Sterling, P. (1984). Microcircuitry of bipolar cells in cat retina. Journal of Neuroscience, 4, 2920-2938.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Oltedal, L., Veruki, M. L., &amp; Hartveit, E. (2009). Passive membrane properties and electrotonic signal processing in retinal rod bipolar cells. Journal of Physiology, 587, 829-849.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pan, Z.-H. (2000). Differential expression of high- and two types of low-voltage-activated calcium currents in rod and cone bipolar cells of the rat retina. Journal of Neurophysiology, 83, 513-527.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park, H. Y., Kim, J. H., &amp; Park, C. K. (2014). Alterations of the synapse of the inner retinal layers after chronic intraocular pressure elevation in glaucoma animal model. Molecular Brain, 7, 53.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pignatelli, V., &amp; Strettoi, E. (2004). Bipolar cells of the mouse retina: A gene gun, morphological study. Journal of Comparative Morphology, 476, 254-266.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Polyak, S. L. (1941). The retina. Chicago, IL: Chicago University Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Protti, D. A., &amp; Llano, I. (1998). Calcium currents and calcium signaling in rod bipolar cells of rat retinal slices. Journal of Neuroscience, 18, 3715-3724.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sassoè-Pognetto, M., Wässle, H., &amp; Grunert, U. (1994). Glycinergic synapses in the rod pathway of the rat retina: Cone bipolar cells express the alpha 1 subunit of the glycine receptor. Journal of Neuroscience, 14, 5131-5146.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Scorcioni, R., Polavaram, S., &amp; Ascoli, G. A. (2008). L-measure: A web-accessible tool for the analysis, comparison and search of digital reconstructions of neuronal morphologies. Nature Protocols, 3, 866-876.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Seung, H. S., &amp; Sümbül, U. (2014). Neuronal cell types and connectivity: Lessons from the retina. Neuron, 83, 1262-1272.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shekhar, K., Lapan, S. W., Whitney, I. E., Tran, N. M., Macosko, E. Z., Kowalczyk, M., Adiconis, X., Levin, J. Z., Nemesh, J., Goldman, M., McCarroll, S. A., Cepko, C. L., Regev, A., &amp; Sanes, J. R. (2016). Comprehensive classification of retinal bipolar neurons by single-cell transcriptomics. Cell, 166, 1308-1323.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sholl, D. A. (1953). Dendritic organization in the neurons of the visual and motor cortices of the cat. Journal of Anatomy, 87, 387-406.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sterling, P. (1983). Microcircuitry of the cat retina. Annual Review of Neuroscience, 6, 149-185.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Strettoi, E., Dacheux, R. F., &amp; Raviola, E. (1994). Cone bipolar cells as interneurons in the rod pathway of the rabbit retina. Journal of Comparative Neurology, 347, 139-149.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Strettoi, E., Novelli, E., Mazzoni, F., Barone, I., &amp; Damiani, D. (2010). Complexity of retinal cone bipolar cells. Progress in Retinal and Eye Research, 29, 272-283.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Szél, Á., &amp; Röhlich, P. (1992). Two cone types of rat retina detected by anti-visual pigment antibodies. Experimental Eye Research, 55, 47-52.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Teeter, C. M., &amp; Stevens, C. F. (2011). A general principle of neural arbor branch density. Current Biology, 21, 2105-2108.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tsukamoto, Y., Morigiwa, K., Ueda, M., &amp; Sterling, P. (2001). Microcircuits for night vision in mouse retina. Journal of Neuroscience, 21, 8616-8623.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tsukamoto, Y., &amp; Omi, N. (2015). OFF bipolar cells in macaque retina: Type specific connectivity in the outer and inner synaptic layers. Frontiers in Neuroanatomy, 9, 122.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tsukamoto, Y., &amp; Omi, N. (2017). Classification of mouse retinal bipolar cells: Type-specific connectivity with special reference to rod-driven AII amacrine pathways. Frontiers in Neuroanatomy, 11, 92.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Vielma, A. H., &amp; Schmachtenberg, O. (2016). Electrophysiological fingerprints of OFF bipolar cells in rat retina. Scientific Reports, 6, 30259.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wässle, H., Puller, C., Müller, F., &amp; Haverkamp, S. (2009). Cone contacts, mosaics, and territories of bipolar cells in the mouse retina. Journal of Neuroscience, 29, 106-117.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>West, R. W. (1976). Light and electron microscopy of the ground squirrel retina: Functional considerations. Journal of Comparative Neurology, 168, 355-378.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>West, R. W. (1978). Bipolar and horizontal cells of the gray squirrel retina: Golgi morphology and recepor connections. Vision Research, 18, 129-136.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yasuda, R., Nimchinsky, E. A., Scheuss, V., Pologruto, T. A., Oertner, T. G., Sabatini, B. L., &amp; Svoboda, K. (2004). Imaging calcium concentration dynamics in small neuronal compartments. Science STKE, 2004, pl5.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zandt, B.-J., Liu, J. H., Veruki, M. L., &amp; Hartveit, E. (2017). AII amacrine cells: Quantitative reconstruction and morphometric analysis of electrophysiologically identified cells in live rat retinal slices imaged with multi-photon excitation microscopy. Brain Structure and Function, 222, 151-182.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zandt, B.-J., Veruki, M. L., &amp; Hartveit, E. (2018). Electrotonic signal processing in AII amacrine cells: Compartmental models and passive membrane properties for a gap junction-coupled retinal neuron. Brain Structure and Function, 223, 3383-3410.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35152437</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>23</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1096-9861</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>530</Volume>
+            <Issue>10</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of comparative neurology</Title>
+          <ISOAbbreviation>J Comp Neurol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Digital reconstruction and quantitative morphometric analysis of bipolar cells in live rat retinal slices.</ArticleTitle>
+        <Pagination>
+          <StartPage>1700</StartPage>
+          <EndPage>1728</EndPage>
+          <MedlinePgn>1700-1728</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/cne.25308</ELocationID>
+        <Abstract>
+          <AbstractText>Bipolar cells convey signals from photoreceptors in the outer retina to amacrine and ganglion cells in the inner retina. In mammals, there are typically 10-15 types of cone bipolar cells and one type of rod bipolar cell. Different types of cone bipolar cells are thought to code and transmit different features of a complex visual stimulus, thereby generating parallel channels that uniquely filter and transform the photoreceptor outputs. Differential synaptic connectivity and expression of ligand- and voltage-gated ion channels are thought to be important mechanisms for processing and filtering visual signals. Whereas the biophysical basis for such mechanisms has been investigated more extensively in rat retina, there is a lack of quantitative morphological data necessary for advancing the structure-function correlation in this species, as recent connectomics investigations have focused on mouse retina. Here, we performed whole-cell recordings from cone and rod bipolar cells in rat retinal slices, filled the cells with fluorescent dyes, and acquired image stacks by multiphoton excitation microscopy. Following deconvolution, we performed digital reconstruction and morphometric analysis of 25 cone and 14 rod bipolar cells. Compared to previous descriptions, the extent and complexity of branching of the axon terminal was surprisingly high. By precisely quantifying the level of stratification of the axon terminals in the inner plexiform layer, we have generated a reference system for reliable classification of individual cells in future studies focused on correlating physiological and morphological properties. The implemented workflow can be extended to the development of morphologically realistic compartmental models for these neurons.</AbstractText>
+          <CopyrightInformation>© 2022 The Authors. The Journal of Comparative Neurology published by Wiley Periodicals LLC.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Fournel</LastName>
+            <ForeName>Rémi</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">0000-0003-2486-0307</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedicine, University of Bergen, Bergen, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Veruki</LastName>
+            <ForeName>Margaret L</ForeName>
+            <Initials>ML</Initials>
+            <Identifier Source="ORCID">0000-0002-0532-144X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedicine, University of Bergen, Bergen, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hartveit</LastName>
+            <ForeName>Espen</ForeName>
+            <Initials>E</Initials>
+            <Identifier Source="ORCID">0000-0003-1798-1901</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedicine, University of Bergen, Bergen, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>21</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Comp Neurol</MedlineTA>
+        <NlmUniqueID>0406041</NlmUniqueID>
+        <ISSNLinking>0021-9967</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001369" MajorTopicYN="N">Axons</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003712" MajorTopicYN="Y">Dendrites</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008322" MajorTopicYN="N">Mammals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012160" MajorTopicYN="Y">Retina</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051245" MajorTopicYN="N">Retinal Bipolar Cells</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017949" MajorTopicYN="N">Retinal Cone Photoreceptor Cells</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">branching pattern</Keyword>
+        <Keyword MajorTopicYN="N">cone bipolar cells</Keyword>
+        <Keyword MajorTopicYN="N">dendrites</Keyword>
+        <Keyword MajorTopicYN="N">digital reconstruction</Keyword>
+        <Keyword MajorTopicYN="N">morphometry</Keyword>
+        <Keyword MajorTopicYN="N">retina</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>6</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>13</Day>
+          <Hour>20</Hour>
+          <Minute>37</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35152437</ArticleId>
+        <ArticleId IdType="doi">10.1002/cne.25308</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>REFERENCES</Title>
+        <Reference>
+          <Citation>Bäck, S., Necarsulmer, J., Whitaker, L. R., Coke, L. M., Koivula, P., Heathward, E. J., Fortuno, L. V., Zhang, Y., Yeh, C. G., Baldwin, H. A., Spencer, M. D., Mejias-Aponte, C. A., Pickel, J., Hoffman, A. F., Spivak, C. E., Lupica, C. R., Underhill, S. M., Amara, S. G., Domanskyi, A., …, &amp; Harvey, B. K. (2019). Neuron-specific genome modification in the adult rat brain using CRISPR-Cas9 transgenic rats. Neuron, 102, 105-119.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Behrens, C., Schubert, T., Haverkamp, S., Euler, T., &amp; Berens, P. (2016). Connectivity map of bipolar cells and photoreceptors in the mouse retina. eLife, 5. pii: e20041.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Boycott, B. B., &amp; Dowling, J. E. (1969). Organization of the primate retina: Light microscopy. Philosophical Transactions of the Royal Society of London, Series B, Biological Sciences, 255, 109-194.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Boycott, B. B., &amp; Wässle, H. (1991) Morphological classification of bipolar cells of the primate retina. European Journal of Neuroscience, 3, 1069-1088.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Brandstätter, J. H., Dick, O., &amp; Boeckers, T. M. (2004). The postsynaptic scaffold proteins ProSAP1/Shank2 and Homer1 are associated with glutamate receptor complexes at rat retinal synapses. Journal of Comparative Neurology, 475, 551-563.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Breuninger, T., Puller, C., Haverkamp, S., &amp; Euler, T. (2011). Chromatic bipolar cell pathways in the mouse retina. Journal of Neuroscience, 31, 6504-6517.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cajal, S. R. y (1893). La rétine des vertébrés. La Cellule, 9, 119-257. English translation in The Structure of the Retina (1972), compiled and translated by S. A. Thorpe &amp; M. Glickstein. Springfield, IL: Charles C. Thomas.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cajal, S. R. y (1894). Les Nouvelles Idées sur la Structure du Système Nerveux chez l'Homme et chez les Vertébrés. Paris: Reinwald &amp; Cie. English translation in New Ideas on the Structure of the Nervous System in Man and Vertebrates (1990), translated by N. Swanson &amp; L. W. Swanson. Cambridge, MA: MIT Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cajal, S. R. y (1911). Histologie du Système Nerveux de l'Homme et des Vertébrés (vol., II). Paris: Maloine. English translation in Histology of the Nervous System of Man and Vertebrates, Vol. II (1995), translated by N. Swanson &amp; L. W. Swanson. New York, NY: Oxford University Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cao, Y., Sarria, I., Fehlhaber, K. E., Kamasawa, N., Orlandi, C., James, K. N., Hazen, J. L., Gardner, M. R., Farzan, M., Lee, A., Baker, S., Baldwin, K., Sampath, A. P., &amp; Martemyanov, K. A. (2015). Mechanism for selective synaptic wiring of rod photoreceptors into the retinal circuitry and its role in vision. Neuron, 87, 1248-1260.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Capowski, J. J. (1989). Computer techniques in neuroanatomy. New York and London: Plenum Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Carnevale, N. T., &amp; Hines, M. L. (2006). The NEURON book. Cambridge: Cambridge University Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chun, M.-H., Han, S.-H., Chung, J.-W., &amp; Wässle, H. (1993). Electron microscopic analysis of the rod pathway of the rat retina. Journal of Comparative Neurology, 332, 421-432.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chun, M.-H., Oh, S.-J., Kim, I.-B., &amp; Kim, K.-Y. (1999). Light and electron microscopical analysis of nitric oxide synthase-like immunoreactive neurons in the rat retina. Visual Neuroscience, 16, 379-389.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cohen, E., &amp; Sterling, P. (1990). Demonstration of cell types among cone bipolar neurons of cat retina. Philosophical Transactions of the Royal Society of London, Series B, Biological Sciences, 330, 305-321.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cui, J., &amp; Pan, Z.-H. (2008). Two types of cone bipolar cells express voltage-gated Na+ channels in the rat retina. Visual Neuroscience, 25, 635-645.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dacheux, R. F., &amp; Raviola, E. (1986). The rod pathway in the rabit retina: A depolarizing bipolar and amacrine cell. Journal of Neuroscience, 6, 331-345.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dowling, J. E., &amp; Boycott, B. B. (1966). Organization of the primate retina: Electron microscopy. Proceedings of the Royal Society of London, Series B, Biological Sciences, 166, 80-111.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Euler, T., &amp; Wässle, H. (1995). Immunocytochemical identification of cone bipolar cells in the rat retina. Journal of Comparative Neurology, 361, 461-478.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Euler, T., Schneider, H., &amp; Wässle, H. (1996). Glutamate responses of bipolar cells in a slice preparation of the rat retina. Journal of Neuroscience, 16, 2934-2944.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Euler, T., Haverkamp, S., Schubert, T., &amp; Baden, T. (2014). Retinal bipolar cells: Elementary building blocks of vision. Nature Reviews Neuroscience, 15, 507-519.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Famiglietti, E. V. (1981). Functional architecture of cone bipolar cells in mammalian retina. Vision Research, 21, 1559-1563.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Famiglietti, E. V., &amp; Kolb, H. (1976). Structural basis for ON-and OFF-center responses in retinal ganglion cells. Science, 194, 193-195.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Franke, K., Berens, P., Schubert, T., Bethge, M., Euler, T., &amp; Baden, T. (2017). Inhibition decorrelates visual feature representations in the inner retina. Nature, 542, 439-444.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fyk-Kolodziej, B., &amp; Pourcho, R. G. (2007). Differential distribution of hyperpolarization-activated and cyclic nucleotide-gated channels in cone bipolar cells of the rat retina. Journal of Comparative Neurology, 501, 891-903.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gallego-Ortega, A., Norte-Muñoz, M., Miralles de Imperial-Ollero, J. A., Bernal-Garro, J. M., Valiente-Soriano, F. J., de la Villa Polo, P., Avilés-Trigueros, M., Villegas-Pérez, M. P., &amp; Vidal-Sanz, M. (2020). Functional and morphological alterations in a glaucoma model of acute ocular hypertension. Progress in Brain Research, 256, 1-29.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ghosh, K., Bujan, S., Haverkamp, S., Feigenspan, A., &amp; Wässle, H. (2004). Types of bipolar cells in the mouse retina. Journal of Comparative Neurology, 469, 70-82.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Golgi, C. (1873). Sulla struttura della sostanza grigia del cervello (Communicazione preventiva). Gazzetta Medica Italiana, 33, 244-246. Reprinted as: Sulla sostanza grigia del cervello, Opera Omnia, 1903, Vol. 1, Istologia Normale, pp. 91-98. Milan, Italy: Ulrico Hoepli.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Greene, M. J., Kim, J. S., Seung, H. S., &amp; EyeWirers (2016). Analogous convergence of sustained and transient inputs in parallel on and off pathways for retinal motion computation. Cell Reports, 14, 1892-1900.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Greferath, U., Grünert, U., &amp; Wässle, H. (1990). Rod bipolar cells in the mammalian retina show protein kinase C-like immunoreactivity. Journal of Comparative Neurology, 301, 433-442.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Groh, A., &amp; Krieger, P. (2011). Structure-function analysis of genetically defined neuronal populations. In: Helmchen, F., &amp; Konnerth, A. Series ed. Yuste, R. Imaging in neuroscience (pp. 377-386). Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hartveit, E. (1997). Functional organization of cone bipolar cells in the rat retina. Journal of Neurophysiology, 77, 1716-1730.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hartveit, E. (1999). Reciprocal synaptic interactions between rod bipolar cells and amacrine cells in the rat retina. Journal of Neurophysiology, 81, 2923-2936.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Haverkamp, S., Specht, D., Majumdar, S., Zaidi, N. F., Brandstätter, J. H., Wasco, W., Wässle, H., &amp; Tom Dieck, S. (2008). Type 4 OFF cone bipolar cells of the mouse retina express calsenilin and contact cones as well as rods. Journal of Comparative Neurology, 507, 1087-1101.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hellmer, C. B., Zhou, Y., Fyk-Kolodziej, B., Hu, Z., &amp; Ichinose, T. (2016). Morphological and physiological analysis of type-5 and other bipolar cells in the mouse retina. Neuroscience, 315, 246-258.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Helmstaedter, M., Briggman, K. L., Turaga, S. C., Jain, V., Seung, H. S., &amp; Denk, W. (2013). Connectomic reconstruction of the inner plexiform layer in the mouse retina. Nature, 500, 168-174.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Holmes, W. R. (2010). Passive cable modeling. In: De Schutter, E. (Ed.), Computational modeling methods for neuroscientists (pp. 233-258). Cambridge, MA: MIT Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hu, C., Bi, A., &amp; Pan, Z.-H. (2009). Differential expression of three T-type calcium channels in retinal bipolar cells in rats. Visual Neuroscience, 26, 177-187.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ichinose, T., Fyk-Kolodziej, B., &amp; Cohn, J. (2014). Roles of ON cone bipolar cell subtypes in temporal coding in the mouse retina. Journal of Neuroscience, 34, 8761-8771.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ivanova, E., &amp; Müller, F. (2006). Retinal bipolar cell types differ in their inventory of ion channels. Visual Neuroscience, 23, 143-154.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jaeger, D. (2001). Accurate reconstruction of neuronal morphology. In: De Schutter, E. (Ed.). Computational neuroscience. Realistic modeling for experimentalists (pp. 159-178). Boca Raton, FL: CRC Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Keeley, P. W., &amp; Reese, B. E. (2010). Role of afferents in the differentiation of bipolar cells in the mouse retina. Journal of Neuroscience, 30, 1677-1685.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kolb, H. (1979). The inner plexiform layer in the retina of the cat: Electron microscopic observations. Journal of Neurocytology, 8, 295-329.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Koulen, P., Kuhn, R., Wässle, H., &amp; Brandstätter, J. H. (1997). Group I metabotropic glutamate receptors mGluR1alpha and mGluR5a: Localization in both synaptic layers of the rat retina. Journal of Neuroscience, 17, 2200-2211.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Light, A. C., Zhu, Y., Shi, J., Saszik, S., Lindstrom, S., Davidson, L., Li, X., Chiodo, V. A., Hauswirth, W. W., Li, W., &amp; DeVries, S. H. (2012). Organizational motifs for ground squirrel cone bipolar cells. Journal of Comparative Neurology, 520, 2864-2887.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Linberg, K. A., Suemune, S., &amp; Fisher, S. K. (1996). Retinal neurons of the California ground squirrel, Spermopilus beecheyi: A Golgi study. Journal of Comparative Neurology, 365, 173-216.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ma, Y.-P., Cui, J., Hu, H.-J., &amp; Pan, Z.-H. (2003). Mammalian retinal bipolar cells express inwardly rectifying K+ currents (IKir) with a different distribution than that of Ih. Journal of Neurophysiology, 90, 3479-3489.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ma, Y.-P., Cui, J., &amp; Pan, Z.-H. (2005). Heterogeneous expression of voltage-dependent Na+ and K+ channels in mammalian retinal bipolar cells. Visual Neuroscience, 22, 119-133.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>MacNeil, M. A., Heussy, J. K., Dacheux, R. F., Raviola, E., &amp; Masland, R. H. (2004). The population of bipolar cells in the rabbit retina. Journal of Comparative Neurology, 472, 73-86.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Major, G. (2001). Passive cable modeling - A practical introduction. In: De Schutter, E. (Ed.), Computational neuroscience. Realistic modeling for experimentalists (pp. 209-232). Boca Raton, FL: CRC Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mataruga, A., Kremmer, E., &amp; Müller, F. (2007). Type 3a and type 3b OFF cone bipolar cells provide for the alternative rod pathway in the mouse retina. Journal of Comparative Neurology, 502, 1123-1137.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>McGuire, B. A., Stevens, J. K., &amp; Sterling, P. (1984). Microcircuitry of bipolar cells in cat retina. Journal of Neuroscience, 4, 2920-2938.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Oltedal, L., Veruki, M. L., &amp; Hartveit, E. (2009). Passive membrane properties and electrotonic signal processing in retinal rod bipolar cells. Journal of Physiology, 587, 829-849.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pan, Z.-H. (2000). Differential expression of high- and two types of low-voltage-activated calcium currents in rod and cone bipolar cells of the rat retina. Journal of Neurophysiology, 83, 513-527.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park, H. Y., Kim, J. H., &amp; Park, C. K. (2014). Alterations of the synapse of the inner retinal layers after chronic intraocular pressure elevation in glaucoma animal model. Molecular Brain, 7, 53.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pignatelli, V., &amp; Strettoi, E. (2004). Bipolar cells of the mouse retina: A gene gun, morphological study. Journal of Comparative Morphology, 476, 254-266.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Polyak, S. L. (1941). The retina. Chicago, IL: Chicago University Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Protti, D. A., &amp; Llano, I. (1998). Calcium currents and calcium signaling in rod bipolar cells of rat retinal slices. Journal of Neuroscience, 18, 3715-3724.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sassoè-Pognetto, M., Wässle, H., &amp; Grunert, U. (1994). Glycinergic synapses in the rod pathway of the rat retina: Cone bipolar cells express the alpha 1 subunit of the glycine receptor. Journal of Neuroscience, 14, 5131-5146.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Scorcioni, R., Polavaram, S., &amp; Ascoli, G. A. (2008). L-measure: A web-accessible tool for the analysis, comparison and search of digital reconstructions of neuronal morphologies. Nature Protocols, 3, 866-876.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Seung, H. S., &amp; Sümbül, U. (2014). Neuronal cell types and connectivity: Lessons from the retina. Neuron, 83, 1262-1272.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shekhar, K., Lapan, S. W., Whitney, I. E., Tran, N. M., Macosko, E. Z., Kowalczyk, M., Adiconis, X., Levin, J. Z., Nemesh, J., Goldman, M., McCarroll, S. A., Cepko, C. L., Regev, A., &amp; Sanes, J. R. (2016). Comprehensive classification of retinal bipolar neurons by single-cell transcriptomics. Cell, 166, 1308-1323.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sholl, D. A. (1953). Dendritic organization in the neurons of the visual and motor cortices of the cat. Journal of Anatomy, 87, 387-406.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sterling, P. (1983). Microcircuitry of the cat retina. Annual Review of Neuroscience, 6, 149-185.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Strettoi, E., Dacheux, R. F., &amp; Raviola, E. (1994). Cone bipolar cells as interneurons in the rod pathway of the rabbit retina. Journal of Comparative Neurology, 347, 139-149.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Strettoi, E., Novelli, E., Mazzoni, F., Barone, I., &amp; Damiani, D. (2010). Complexity of retinal cone bipolar cells. Progress in Retinal and Eye Research, 29, 272-283.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Szél, Á., &amp; Röhlich, P. (1992). Two cone types of rat retina detected by anti-visual pigment antibodies. Experimental Eye Research, 55, 47-52.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Teeter, C. M., &amp; Stevens, C. F. (2011). A general principle of neural arbor branch density. Current Biology, 21, 2105-2108.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tsukamoto, Y., Morigiwa, K., Ueda, M., &amp; Sterling, P. (2001). Microcircuits for night vision in mouse retina. Journal of Neuroscience, 21, 8616-8623.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tsukamoto, Y., &amp; Omi, N. (2015). OFF bipolar cells in macaque retina: Type specific connectivity in the outer and inner synaptic layers. Frontiers in Neuroanatomy, 9, 122.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tsukamoto, Y., &amp; Omi, N. (2017). Classification of mouse retinal bipolar cells: Type-specific connectivity with special reference to rod-driven AII amacrine pathways. Frontiers in Neuroanatomy, 11, 92.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Vielma, A. H., &amp; Schmachtenberg, O. (2016). Electrophysiological fingerprints of OFF bipolar cells in rat retina. Scientific Reports, 6, 30259.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wässle, H., Puller, C., Müller, F., &amp; Haverkamp, S. (2009). Cone contacts, mosaics, and territories of bipolar cells in the mouse retina. Journal of Neuroscience, 29, 106-117.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>West, R. W. (1976). Light and electron microscopy of the ground squirrel retina: Functional considerations. Journal of Comparative Neurology, 168, 355-378.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>West, R. W. (1978). Bipolar and horizontal cells of the gray squirrel retina: Golgi morphology and recepor connections. Vision Research, 18, 129-136.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yasuda, R., Nimchinsky, E. A., Scheuss, V., Pologruto, T. A., Oertner, T. G., Sabatini, B. L., &amp; Svoboda, K. (2004). Imaging calcium concentration dynamics in small neuronal compartments. Science STKE, 2004, pl5.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zandt, B.-J., Liu, J. H., Veruki, M. L., &amp; Hartveit, E. (2017). AII amacrine cells: Quantitative reconstruction and morphometric analysis of electrophysiologically identified cells in live rat retinal slices imaged with multi-photon excitation microscopy. Brain Structure and Function, 222, 151-182.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zandt, B.-J., Veruki, M. L., &amp; Hartveit, E. (2018). Electrotonic signal processing in AII amacrine cells: Compartmental models and passive membrane properties for a gap junction-coupled retinal neuron. Brain Structure and Function, 223, 3383-3410.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

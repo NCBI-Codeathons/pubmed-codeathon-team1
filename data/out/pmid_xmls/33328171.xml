@@ -1,0 +1,953 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">33328171</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1754-8411</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>14</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>Dec</Month>
+              <Day>16</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Disease models &amp; mechanisms</Title>
+          <ISOAbbreviation>Dis Model Mech</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Disruption of a hedgehog-foxf1-rspo2 signaling axis leads to tracheomalacia and a loss of sox9+ tracheal chondrocytes.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">dmm046573</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1242/dmm.046573</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">dmm.046573</ELocationID>
+        <Abstract>
+          <AbstractText>Congenital tracheomalacia, resulting from incomplete tracheal cartilage development, is a relatively common birth defect that severely impairs breathing in neonates. Mutations in the Hedgehog (HH) pathway and downstream Gli transcription factors are associated with tracheomalacia in patients and mouse models; however, the underlying molecular mechanisms are unclear. Using multiple <i>HH/Gli</i> mouse mutants including one that mimics Pallister-Hall Syndrome, we show that excessive Gli repressor activity prevents specification of tracheal chondrocytes. Lineage tracing experiments show that Sox9+ chondrocytes arise from HH-responsive splanchnic mesoderm in the fetal foregut that expresses the transcription factor Foxf1. Disrupted HH/Gli signaling results in 1) loss of Foxf1 which in turn is required to support Sox9+ chondrocyte progenitors and 2) a dramatic reduction in <i>Rspo2</i>, a secreted ligand that potentiates Wnt signaling known to be required for chondrogenesis. These results reveal a HH-Foxf1-Rspo2 signaling axis that governs tracheal cartilage development and informs the etiology of tracheomalacia.</AbstractText>
+          <CopyrightInformation>© 2020. Published by The Company of Biologists Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Nasr</LastName>
+            <ForeName>Talia</ForeName>
+            <Initials>T</Initials>
+            <Identifier Source="ORCID">0000-0002-2473-5402</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Center for Stem Cell and Organoid Medicine, Division of Developmental Biology, Perinatal Institute, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 45229.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio, 45267.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Holderbaum</LastName>
+            <ForeName>Andrea M</ForeName>
+            <Initials>AM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Stem Cell and Organoid Medicine, Division of Developmental Biology, Perinatal Institute, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 45229.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio, 45267.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chaturvedi</LastName>
+            <ForeName>Praneet</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Stem Cell and Organoid Medicine, Division of Developmental Biology, Perinatal Institute, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 45229.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Agarwal</LastName>
+            <ForeName>Kunal</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Stem Cell and Organoid Medicine, Division of Developmental Biology, Perinatal Institute, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 45229.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kinney</LastName>
+            <ForeName>Jessica L</ForeName>
+            <Initials>JL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Stem Cell and Organoid Medicine, Division of Developmental Biology, Perinatal Institute, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 45229.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Daniels</LastName>
+            <ForeName>Keziah</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Stem Cell and Organoid Medicine, Division of Developmental Biology, Perinatal Institute, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 45229.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Trisno</LastName>
+            <ForeName>Stephen L</ForeName>
+            <Initials>SL</Initials>
+            <Identifier Source="ORCID">0000-0003-0937-4474</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Center for Stem Cell and Organoid Medicine, Division of Developmental Biology, Perinatal Institute, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 45229.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio, 45267.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ustiyan</LastName>
+            <ForeName>Vladimir</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Pulmonary Biology, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 45229.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Lung Regenerative Medicine, Perinatal Institute, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 45229.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shannon</LastName>
+            <ForeName>John M</ForeName>
+            <Initials>JM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Pulmonary Biology, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 45229.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wells</LastName>
+            <ForeName>James M</ForeName>
+            <Initials>JM</Initials>
+            <Identifier Source="ORCID">0000-0002-1398-848X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Center for Stem Cell and Organoid Medicine, Division of Developmental Biology, Perinatal Institute, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 45229.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio, 45267.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sinner</LastName>
+            <ForeName>Debora</ForeName>
+            <Initials>D</Initials>
+            <Identifier Source="ORCID">0000-0002-0704-5223</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio, 45267.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Pulmonary Biology, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 45229.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kalinichenko</LastName>
+            <ForeName>Vladimir V</ForeName>
+            <Initials>VV</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio, 45267.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Pulmonary Biology, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 45229.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Lung Regenerative Medicine, Perinatal Institute, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 45229.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zorn</LastName>
+            <ForeName>Aaron M</ForeName>
+            <Initials>AM</Initials>
+            <Identifier Source="ORCID">0000-0003-3217-3590</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Center for Stem Cell and Organoid Medicine, Division of Developmental Biology, Perinatal Institute, Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio, 45229 aaron.zorn@cchmc.org.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, Ohio, 45267.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 HL149631</GrantID>
+            <Acronym>HL</Acronym>
+            <Agency>NHLBI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>F30 HL142201</GrantID>
+            <Acronym>HL</Acronym>
+            <Agency>NHLBI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>P01 HD093363</GrantID>
+            <Acronym>HD</Acronym>
+            <Agency>NICHD NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>T32 GM063483</GrantID>
+            <Acronym>GM</Acronym>
+            <Agency>NIGMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>T32 HL007752</GrantID>
+            <Acronym>HL</Acronym>
+            <Agency>NHLBI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 HL144774</GrantID>
+            <Acronym>HL</Acronym>
+            <Agency>NHLBI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 HL141174</GrantID>
+            <Acronym>HL</Acronym>
+            <Agency>NHLBI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>12</Month>
+          <Day>16</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Dis Model Mech</MedlineTA>
+        <NlmUniqueID>101483332</NlmUniqueID>
+        <ISSNLinking>1754-8403</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cartilage</Keyword>
+        <Keyword MajorTopicYN="N">Hedgehog</Keyword>
+        <Keyword MajorTopicYN="N">Trachea</Keyword>
+        <Keyword MajorTopicYN="N">Tracheomalacia</Keyword>
+      </KeywordList>
+      <CoiStatement><b>Competing interests</b>. The authors declare no competing or financial interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>7</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>12</Month>
+          <Day>9</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>12</Month>
+          <Day>17</Day>
+          <Hour>5</Hour>
+          <Minute>38</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2020</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">33328171</ArticleId>
+        <ArticleId IdType="pmc">PMC7875488</ArticleId>
+        <ArticleId IdType="doi">10.1242/dmm.046573</ArticleId>
+        <ArticleId IdType="pii">dmm.046573</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Adachi, N., Bilio, M., Baldini, A. and Kelly, R. G. (2020). Cardiopharyngeal mesoderm origins of musculoskeletal and connective tissues in the mammalian pharynx. Development
+147, dev185256
+10.1242/dev.185256</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.185256</ArticleId>
+            <ArticleId IdType="pubmed">32014863</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beachy, P. A., Hymowitz, S. G., Lazarus, R. A., Leahy, D. J. and Siebold, C. (2010). Interactions between Hedgehog proteins and their binding partners come into view. Genes Dev.
+24, 2001-2012. 10.1101/gad.1951710</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.1951710</ArticleId>
+            <ArticleId IdType="pmc">PMC2939362</ArticleId>
+            <ArticleId IdType="pubmed">20844013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bell, S. M., Schreiner, C. M., Wert, S. E., Mucenski, M. L., Scott, W. J. and Whitsett, J. A. (2008). R-spondin 2 is required for normal laryngeal-tracheal, lung and limb morphogenesis. Development
+135, 1049-1058. 10.1242/dev.013359</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.013359</ArticleId>
+            <ArticleId IdType="pubmed">18256198</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bien-Willner, G. A., Stankiewicz, P. and Lupski, J. R. (2007). SOX9cre1, a cis-acting regulatory element located 1.1 Mb upstream of SOX9, mediates its enhancement through the SHH pathway. Hum. Mol. Genet.
+16, 1143-1156. 10.1093/hmg/ddm061</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/hmg/ddm061</ArticleId>
+            <ArticleId IdType="pubmed">17409199</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blache, P., van de Wetering, M., Duluc, I., Domon, C., Berta, P., Freund, J.-N., Clevers, H. and Jay, P. (2004). SOX9 is an intestine crypt transcription factor, is regulated by the Wnt pathway, and represses the CDX2 and MUC2 genes. J. Cell Biol.
+166, 37-47. 10.1083/jcb.200311021</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1083/jcb.200311021</ArticleId>
+            <ArticleId IdType="pmc">PMC2172132</ArticleId>
+            <ArticleId IdType="pubmed">15240568</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bohnenpoll, T., Wittern, A. B., Mamo, T. M., Weiss, A.-C., Rudat, C., Kleppa, M.-J., Schuster-Gossler, K., Wojahn, I., Lüdtke, T. H.-W., Trowe, M.-O.et al.  (2017). A SHH-FOXF1-BMP4 signaling axis regulating growth and differentiation of epithelial and mesenchymal tissues in ureter development. PLoS Genet.
+13, e1006951
+10.1371/journal.pgen.1006951</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1006951</ArticleId>
+            <ArticleId IdType="pmc">PMC5567910</ArticleId>
+            <ArticleId IdType="pubmed">28797033</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boogaard, R., Huijsmans, S. H., Pijnenburg, M. W. H., Tiddens, H. A. W. M., de Jongste, J. C. and Merkus, P. J. F. M. (2005). Tracheomalacia and bronchomalacia in children: incidence and patient characteristics. Chest
+128, 3391-3397. 10.1378/chest.128.5.3391</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1378/chest.128.5.3391</ArticleId>
+            <ArticleId IdType="pubmed">16304290</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bose, J., Grotewold, L. and Ruther, U. (2002). Pallister-Hall syndrome phenotype in mice mutant for Gli3. Hum. Mol. Genet.
+11, 1129-1135. 10.1093/hmg/11.9.1129</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/hmg/11.9.1129</ArticleId>
+            <ArticleId IdType="pubmed">11978771</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boucherat, O., Nadeau, V., Bérubé-Simand, F.-A., Charron, J. and Jeannotte, L. (2015). Crucial requirement of ERK/MAPK signaling in respiratory tract development. Development
+141, 3197-3211. 10.1242/dev.110254</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.110254</ArticleId>
+            <ArticleId IdType="pubmed">25100655</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Briscoe, J. and Thérond, P. P. (2013). The mechanisms of Hedgehog signalling and its roles in development and disease. Nat. Rev. Mol. Cell Biol.
+14, 416-429. 10.1038/nrm3598</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrm3598</ArticleId>
+            <ArticleId IdType="pubmed">23719536</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Caprioli, A., Villasenor, A., Wylie, L. A., Braitsch, C., Marty-Santos, L., Barry, D., Karner, C. M., Fu, S., Meadows, S. M., Carroll, T. J.et al.  (2015). Wnt4 is essential to normal mammalian lung development. Dev. Biol.
+406, 222-234. 10.1016/j.ydbio.2015.08.017</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ydbio.2015.08.017</ArticleId>
+            <ArticleId IdType="pmc">PMC7050435</ArticleId>
+            <ArticleId IdType="pubmed">26321050</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carmon, K. S., Gong, X., Lin, Q., Thomas, A. and Liu, Q. (2011). R-spondins function as ligands of the orphan receptors LGR4 and LGR5 to regulate Wnt/β-catenin signaling. Proc. Natl. Acad. Sci. USA
+108, 11452-11457. 10.1073/pnas.1106083108</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1106083108</ArticleId>
+            <ArticleId IdType="pmc">PMC3136304</ArticleId>
+            <ArticleId IdType="pubmed">21693646</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>de Lau, W., Barker, N., Low, T. Y., Koo, B.-K., Li, V. S. W., Teunissen, H., Kujala, P., Haegebarth, A., Peters, P. J., van de Wetering, M.et al.  (2011). Lgr5 homologues associate with Wnt receptors and mediate R-spondin signalling. Nature
+476, 293-297. 10.1038/nature10337</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature10337</ArticleId>
+            <ArticleId IdType="pubmed">21727895</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dharmadhikari, A. V., Sun, J. J., Gogolewski, K., Carofino, B. L., Ustiyan, V., Hill, M., Majewski, T., Szafranski, P., Justice, M. J., Ray, R. S.et al.  (2016). Lethal lung hypoplasia and vascular defects in mice with conditional Foxf1 overexpression. Biol. Open
+5, 1595-1606. 10.1242/bio.019208</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/bio.019208</ArticleId>
+            <ArticleId IdType="pmc">PMC5155529</ArticleId>
+            <ArticleId IdType="pubmed">27638768</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Domyan, E. T., Ferretti, E., Throckmorton, K., Mishina, Y., Nicolis, S. K. and Sun, X. (2011). Signaling through BMP receptors promotes respiratory identity in the foregut via repression of Sox2. Development
+138, 971-981. 10.1242/dev.053694</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.053694</ArticleId>
+            <ArticleId IdType="pmc">PMC4074297</ArticleId>
+            <ArticleId IdType="pubmed">21303850</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Falkenstein, K. N. and Vokes, S. A. (2014). Transcriptional regulation of graded Hedgehog signaling. Semin. Cell Dev. Biol.
+33, 73-80. 10.1016/j.semcdb.2014.05.010</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.semcdb.2014.05.010</ArticleId>
+            <ArticleId IdType="pmc">PMC4130763</ArticleId>
+            <ArticleId IdType="pubmed">24862856</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fraga, J. C., Jennings, R. W. and Kim, P. C. W. (2016). Pediatric tracheomalacia. Semin. Pediatr. Surg.
+25, 156-164. 10.1053/j.sempedsurg.2016.02.008</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1053/j.sempedsurg.2016.02.008</ArticleId>
+            <ArticleId IdType="pubmed">27301602</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gerhardt, B., Leesman, L., Burra, K., Snowball, J., Rosenzweig, R., Guzman, N., Ambalavanan, M. and Sinner, D. (2018). Notum attenuates Wnt/β-catenin signaling to promote tracheal cartilage patterning. Dev. Biol.
+436, 14-27. 10.1016/j.ydbio.2018.02.002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ydbio.2018.02.002</ArticleId>
+            <ArticleId IdType="pmc">PMC5889736</ArticleId>
+            <ArticleId IdType="pubmed">29428562</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gong, X., Carmon, K. S., Lin, Q., Thomas, A., Yi, J. and Liu, Q. (2012). LGR6 is a high affinity receptor of R-spondins and potentially functions as a tumor suppressor. PloS one
+7, e37137
+10.1371/journal.pone.0037137</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0037137</ArticleId>
+            <ArticleId IdType="pmc">PMC3355120</ArticleId>
+            <ArticleId IdType="pubmed">22615920</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goss, A. M., Tian, Y., Tsukiyama, T., Cohen, E. D., Zhou, D., Lu, M. M., Yamaguchi, T. P. and Morrisey, E. E. (2009). Wnt2/2b and β-catenin signaling are necessary and sufficient to specify lung progenitors in the foregut. Dev. Cell
+17, 290-298. 10.1016/j.devcel.2009.06.005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.devcel.2009.06.005</ArticleId>
+            <ArticleId IdType="pmc">PMC2763331</ArticleId>
+            <ArticleId IdType="pubmed">19686689</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hébert, J. M. and McConnell, S. K. (2000). Targeting of cre to the Foxg1 (BF-1) locus mediates loxP recombination in the telencephalon and other developing head structures. Dev. Biol.
+222, 296-306. 10.1006/dbio.2000.9732</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/dbio.2000.9732</ArticleId>
+            <ArticleId IdType="pubmed">10837119</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hines, E. A., Jones, M.-K. N., Verheyden, J. M., Harvey, J. F. and Sun, X. (2013). Establishment of smooth muscle and cartilage juxtaposition in the developing mouse upper airways. Proc. Natl. Acad. Sci. USA
+110, 19444-19449. 10.1073/pnas.1313223110</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1313223110</ArticleId>
+            <ArticleId IdType="pmc">PMC3845103</ArticleId>
+            <ArticleId IdType="pubmed">24218621</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoffmann, A. D., Yang, X. H., Burnicka-Turek, O., Bosman, J. D., Ren, X., Steimle, J. D., Vokes, S. A., McMahon, A. P., Kalinichenko, V. V. and Moskowitz, I. P. (2014). Foxf genes integrate tbx5 and hedgehog pathways in the second heart field for cardiac septation. PLoS Genet.
+10, e1004604
+10.1371/journal.pgen.1004604</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1004604</ArticleId>
+            <ArticleId IdType="pmc">PMC4214600</ArticleId>
+            <ArticleId IdType="pubmed">25356765</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoggatt, A. M., Kim, J.-R., Ustiyan, V., Ren, X., Kalin, T. V., Kalinichenko, V. V. and Herring, B. P. (2013). The transcription factor Foxf1 binds to serum response factor and myocardin to regulate gene transcription in visceral smooth muscle cells. J. Biol. Chem.
+288, 28477-28487. 10.1074/jbc.M113.478974</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M113.478974</ArticleId>
+            <ArticleId IdType="pmc">PMC3789949</ArticleId>
+            <ArticleId IdType="pubmed">23946491</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hou, Z., Wu, Q., Sun, X., Chen, H., Li, Y., Zhang, Y., Mori, M., Yang, Y., Que, J. and Jiang, M. (2019). Wnt/Fgf crosstalk is required for the specification of basal cells in the mouse trachea. Development
+146, dev171496
+10.1242/dev.171496</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.171496</ArticleId>
+            <ArticleId IdType="pmc">PMC6382003</ArticleId>
+            <ArticleId IdType="pubmed">30696710</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ioannides, A. S., Henderson, D. J., Spitz, L. and Copp, A. J. (2003). Role of Sonic hedgehog in the development of the trachea and oesophagus. J. Pediatr. Surg.
+38, 29-36; discussion 29-36
+10.1053/jpsu.2003.50005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1053/jpsu.2003.50005</ArticleId>
+            <ArticleId IdType="pubmed">12592614</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jia, X., Min, L., Zhu, S., Zhang, S. and Huang, X. (2018). Loss of sonic hedgehog gene leads to muscle development disorder and megaesophagus in mice. FASEB J.
+32, 5703-5715. 10.1096/fj.201701581R</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1096/fj.201701581R</ArticleId>
+            <ArticleId IdType="pubmed">29768039</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Johnston, J. J., Olivos-Glander, I., Killoran, C., Elson, E., Turner, J. T., Peters, K. F., Abbott, M. H., Aughton, D. J., Aylsworth, A. S., Bamshad, M. J.et al.  (2005). Molecular and clinical analyses of Greig cephalopolysyndactyly and Pallister-Hall syndromes: robust phenotype prediction from the type and position of GLI3 mutations. Am. J. Hum. Genet.
+76, 609-622. 10.1086/429346</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1086/429346</ArticleId>
+            <ArticleId IdType="pmc">PMC1199298</ArticleId>
+            <ArticleId IdType="pubmed">15739154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kamran, A. and Jennings, R. W. (2019). Tracheomalacia and Tracheobronchomalacia in pediatrics: an overview of evaluation, medical management, and surgical treatment. Front. Pediatr.
+7, 512
+10.3389/fped.2019.00512</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fped.2019.00512</ArticleId>
+            <ArticleId IdType="pmc">PMC6922019</ArticleId>
+            <ArticleId IdType="pubmed">31921725</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kazanskaya, O., Glinka, A., del Barco Barrantes, I., Stannek, P., Niehrs, C. and Wu, W. (2004). R-Spondin2 is a secreted activator of Wnt/β-catenin signaling and is required for Xenopus myogenesis. Dev. Cell
+7, 525-534. 10.1016/j.devcel.2004.07.019</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.devcel.2004.07.019</ArticleId>
+            <ArticleId IdType="pubmed">15469841</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim, K.-A., Wagle, M., Tran, K., Zhan, X., Dixon, M. A., Liu, S., Gros, D., Korver, W., Yonkovich, S., Tomasevic, N.et al.  (2008). R-Spondin family members regulate the Wnt pathway by a common mechanism. Mol. Biol. Cell
+19, 2588-2596. 10.1091/mbc.e08-02-0187</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1091/mbc.e08-02-0187</ArticleId>
+            <ArticleId IdType="pmc">PMC2397303</ArticleId>
+            <ArticleId IdType="pubmed">18400942</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kishimoto, K., Tamura, M., Nishita, M., Minami, Y., Yamaoka, A., Abe, T., Shigeta, M. and Morimoto, M. (2018). Synchronized mesenchymal cell polarization and differentiation shape the formation of the murine trachea and esophagus. Nat. Commun.
+9, 2816
+10.1038/s41467-018-05189-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-018-05189-2</ArticleId>
+            <ArticleId IdType="pmc">PMC6053463</ArticleId>
+            <ArticleId IdType="pubmed">30026494</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kist, R., Schrewe, H., Balling, R. and Scherer G. (2002). Conditional inactivation of Sox9: a mouse model for campomelic dysplasia. Genesis32, 121-123.
+10.1002/gene.10050
+PMID: 11857796</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/gene.10050</ArticleId>
+            <ArticleId IdType="pubmed">11857796</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kozhemyakina, E., Lassar, A. B. and Zelzer, E. (2015). A pathway to bone: signaling molecules and transcription factors involved in chondrocyte development and maturation. Development
+142, 817-831. 10.1242/dev.105536</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.105536</ArticleId>
+            <ArticleId IdType="pmc">PMC4352987</ArticleId>
+            <ArticleId IdType="pubmed">25715393</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kuwahara, A., Lewis, A. E., Coombes, C., Leung, F.-S., Percharde, M. and Bush, J. O. (2020). Delineating the early transcriptional specification of the mammalian trachea and esophagus. eLife
+9, e55526
+10.7554/eLife.55526</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.55526</ArticleId>
+            <ArticleId IdType="pmc">PMC7282815</ArticleId>
+            <ArticleId IdType="pubmed">32515350</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lebensohn, A. M. and Rohatgi, R. (2018). R-spondins can potentiate WNT signaling without LGRs. eLife
+7, e33126
+10.7554/eLife.33126</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.33126</ArticleId>
+            <ArticleId IdType="pmc">PMC5800842</ArticleId>
+            <ArticleId IdType="pubmed">29405118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lefebvre, V., Angelozzi, M. and Haseeb, A. (2019). SOX9 in cartilage development and disease. Curr. Opin. Cell Biol.
+61, 39-47. 10.1016/j.ceb.2019.07.008</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ceb.2019.07.008</ArticleId>
+            <ArticleId IdType="pmc">PMC6956855</ArticleId>
+            <ArticleId IdType="pubmed">31382142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lewis, A. E., Vasudevan, H. N., O'Neill, A. K., Soriano, P. and Bush, J. O. (2013). The widely used Wnt1-Cre transgene causes developmental phenotypes by ectopic activation of Wnt signaling. Dev. Biol.
+379, 229-234. 10.1016/j.ydbio.2013.04.026</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ydbio.2013.04.026</ArticleId>
+            <ArticleId IdType="pmc">PMC3804302</ArticleId>
+            <ArticleId IdType="pubmed">23648512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lex, R. K., Ji, Z., Falkenstein, K. N., Zhou, W., Henry, J. L., Ji, H. and Vokes, S. A. (2020). GLI transcriptional repression regulates tissue-specific enhancer activity in response to Hedgehog signaling. eLife
+9, e50670
+10.7554/eLife.50670</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.50670</ArticleId>
+            <ArticleId IdType="pmc">PMC6986877</ArticleId>
+            <ArticleId IdType="pubmed">31989924</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li, C., Xiao, J., Hormi, K., Borok, Z. and Minoo, P. (2002). Wnt5a participates in distal lung morphogenesis. Dev. Biol.
+248, 68-81. 10.1006/dbio.2002.0729</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/dbio.2002.0729</ArticleId>
+            <ArticleId IdType="pubmed">12142021</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li, Y., Zhang, H., Choi, S. C., Litingtung, Y. and Chiang, C. (2004). Sonic hedgehog signaling regulates Gli3 processing, mesenchymal proliferation, and differentiation during mouse lung organogenesis. Dev. Biol.
+270, 214-231. 10.1016/j.ydbio.2004.03.009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ydbio.2004.03.009</ArticleId>
+            <ArticleId IdType="pubmed">15136151</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li, Y., Gordon, J., Manley, N. R., Litingtung, Y. and Chiang, C. (2008). Bmp4 is required for tracheal formation: a novel mouse model for tracheal agenesis. Dev. Biol.
+322, 145-155. 10.1016/j.ydbio.2008.07.021</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ydbio.2008.07.021</ArticleId>
+            <ArticleId IdType="pmc">PMC3780977</ArticleId>
+            <ArticleId IdType="pubmed">18692041</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Litingtung, Y., Lei, L., Westphal, H. and Chiang, C. (1998). Sonic hedgehog is essential to foregut development. Nat. Genet.
+20, 58-61. 10.1038/1717</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/1717</ArticleId>
+            <ArticleId IdType="pubmed">9731532</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Litingtung, Y., Dahn, R. D., Li, Y., Fallon, J. F. and Chiang, C. (2002). Shh and Gli3 are dispensable for limb skeleton formation but regulate digit number and identity. Nature
+418, 979-983. 10.1038/nature01033</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature01033</ArticleId>
+            <ArticleId IdType="pubmed">12198547</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu, S., Zhang, E., Yang, M. and Lu, L. (2014). Overexpression of Wnt11 promotes chondrogenic differentiation of bone marrow-derived mesenchymal stem cells in synergism with TGF-β. Mol. Cell. Biochem.
+390, 123-131. 10.1007/s11010-014-1963-0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11010-014-1963-0</ArticleId>
+            <ArticleId IdType="pubmed">24474615</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Long, F., Zhang, X. M., Karp, S., Yang, Y. and McMahon, A. P. (2001). Genetic manipulation of hedgehog signaling in the endochondral skeleton reveals a direct role in the regulation of chondrocyte proliferation. Development
+128, 5099-5108.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11748145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Madison, B. B., McKenna, L. B., Dolson, D., Epstein, D. J. and Kaestner, K. H. (2009). FoxF1 and FoxL1 link hedgehog signaling and the control of epithelial proliferation in the developing stomach and intestine. J. Biol. Chem.
+284, 5936-5944. 10.1074/jbc.M808103200</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M808103200</ArticleId>
+            <ArticleId IdType="pmc">PMC2645837</ArticleId>
+            <ArticleId IdType="pubmed">19049965</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mahlapuu, M., Enerback, S. and Carlsson, P. (2001). Haploinsufficiency of the forkhead gene Foxf1, a target for sonic hedgehog signaling, causes lung and foregut malformations. Development
+128, 2397-2406.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11493558</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miller, L.-A. D., Wert, S. E., Clark, J. C., Xu, Y., Perl, A.-K. T. and Whitsett, J. A. (2004). Role of Sonic hedgehog in patterning of tracheal-bronchial cartilage and the peripheral lung. Dev. Dyn.
+231, 57-71. 10.1002/dvdy.20105</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/dvdy.20105</ArticleId>
+            <ArticleId IdType="pubmed">15305287</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Minoo, P., Su, G., Drum, H., Bringas, P. and Kimura, S. (1999). Defects in tracheoesophageal and lung morphogenesis in Nkx2.1(−/−) mouse embryos. Dev. Biol.
+209, 60-71. 10.1006/dbio.1999.9234</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/dbio.1999.9234</ArticleId>
+            <ArticleId IdType="pubmed">10208743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Motoyama, J., Liu, J., Mo, R., Ding, Q., Post, M. and Hui, C.-C. (1998). Essential function of Gli2 and Gli3 in the formation of lung, trachea and oesophagus. Nat. Genet.
+20, 54-57. 10.1038/1711</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/1711</ArticleId>
+            <ArticleId IdType="pubmed">9731531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muzumdar, M. D., Tasic, B., Miyamichi, K., Li, L. and Luo, L. (2007). A global double-fluorescent Cre reporter mouse. Genesis
+45, 593-605. 10.1002/dvg.20335</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/dvg.20335</ArticleId>
+            <ArticleId IdType="pubmed">17868096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nasr, T., Mancini, P., Rankin, S. A., Edwards, N. A., Agricola, Z. N., Kenny, A. P., Kinney, J. L., Daniels, K., Vardanyan, J., Han, L.et al.  (2019). Endosome-mediated epithelial remodeling downstream of Hedgehog-Gli is required for tracheoesophageal separation. Dev. Cell
+51, 665-674.e6. 10.1016/j.devcel.2019.11.003</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.devcel.2019.11.003</ArticleId>
+            <ArticleId IdType="pubmed">31813796</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Park, J., Zhang, J. J. R., Moro, A., Kushida, M., Wegner, M. and Kim, P. C. W. (2010). Regulation of Sox9 by Sonic Hedgehog (Shh) is essential for patterning and formation of tracheal cartilage. Dev. Dyn.
+239, 514-526. 10.1002/dvdy.22192</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/dvdy.22192</ArticleId>
+            <ArticleId IdType="pubmed">20034104</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Que, J., Okubo, T., Goldenring, J. R., Nam, K.-T., Kurotani, R., Morrisey, E. E., Taranova, O., Pevny, L. H. and Hogan, B. L. M. (2007). Multiple dose-dependent roles for Sox2 in the patterning and differentiation of anterior foregut endoderm. Development
+134, 2521-2531. 10.1242/dev.003855</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.003855</ArticleId>
+            <ArticleId IdType="pmc">PMC3625644</ArticleId>
+            <ArticleId IdType="pubmed">17522155</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Que, J., Luo, X., Schwartz, R. J. and Hogan, B. L. M. (2009). Multiple roles for Sox2 in the developing and adult mouse trachea. Development
+136, 1899-1907. 10.1242/dev.034629</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.034629</ArticleId>
+            <ArticleId IdType="pmc">PMC2680112</ArticleId>
+            <ArticleId IdType="pubmed">19403656</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rajagopal, J., Carroll, T. J., Guseh, J. S., Bores, S. A., Blank, L. J., Anderson, W. J., Yu, J., Zhou, Q., McMahon, A. P. and Melton, D. A. (2008). Wnt7b stimulates embryonic lung growth by coordinately increasing the replication of epithelium and mesenchyme. Development
+135, 1625-1634. 10.1242/dev.015495</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.015495</ArticleId>
+            <ArticleId IdType="pmc">PMC2556060</ArticleId>
+            <ArticleId IdType="pubmed">18367557</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramírez, F., Ryan, D. P., Grüning, B., Bhardwaj, V., Kilpert, F., Richter, A. S., Heyne, S., Dündar, F. and Manke, T. (2016). deepTools2: a next generation web server for deep-sequencing data analysis. Nucleic Acids Res.
+44, W160-W165. 10.1093/nar/gkw257</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkw257</ArticleId>
+            <ArticleId IdType="pmc">PMC4987876</ArticleId>
+            <ArticleId IdType="pubmed">27079975</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rankin, S. A., Han, L., McCracken, K. W., Kenny, A. P., Anglin, C. T., Grigg, E. A., Crawford, C. M., Wells, J. M., Shannon, J. M. and Zorn, A. M. (2016). A retinoic acid-Hedgehog cascade coordinates mesoderm-inducing signals and endoderm competence during lung specification. Cell Rep.
+16, 66-78. 10.1016/j.celrep.2016.05.060</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2016.05.060</ArticleId>
+            <ArticleId IdType="pmc">PMC5314425</ArticleId>
+            <ArticleId IdType="pubmed">27320915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ren, X., Ustiyan, V., Pradhan, A., Cai, Y., Havrilak, J. A., Bolte, C. S., Shannon, J. M., Kalin, T. V. and Kalinichenko, V. V. (2014). FOXF1 transcription factor is required for formation of embryonic vasculature by regulating VEGF signaling in endothelial cells. Circ. Res.
+115, 709-720. 10.1161/CIRCRESAHA.115.304382</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/CIRCRESAHA.115.304382</ArticleId>
+            <ArticleId IdType="pmc">PMC4810682</ArticleId>
+            <ArticleId IdType="pubmed">25091710</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ruffner, H., Sprunger, J., Charlat, O., Leighton-Davies, J., Grosshans, B., Salathe, A., Zietzling, S., Beck, V., Therier, M., Isken, A.et al.  (2012). R-Spondin potentiates Wnt/β-catenin signaling through orphan receptors LGR4 and LGR5. PLoS ONE
+7, e40976
+10.1371/journal.pone.0040976</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0040976</ArticleId>
+            <ArticleId IdType="pmc">PMC3397969</ArticleId>
+            <ArticleId IdType="pubmed">22815884</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shefchek, K. A., Harris, N. L., Gargano, M., Matentzoglu, N., Unni, D., Brush, M., Keith, D., Conlin, T., Vasilevsky, N., Zhang, X. A.et al.  (2020). The Monarch Initiative in 2019: an integrative data and analytic platform connecting phenotypes to genotypes across species. Nucleic Acids Res.
+48, D704-D715. 10.1093/nar/gkz997</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkz997</ArticleId>
+            <ArticleId IdType="pmc">PMC7056945</ArticleId>
+            <ArticleId IdType="pubmed">31701156</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sinner, D. I., Carey, B., Zgherea, D., Kaufman, K. M., Leesman, L., Wood, R. E., Rutter, M. J., de Alarcon, A., Elluru, R. G., Harley, J. B.et al.  (2019). Complete tracheal ring deformity. a translational genomics approach to pathogenesis. Am. J. Respir. Crit. Care. Med.
+200, 1267-1281. 10.1164/rccm.201809-1626OC</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1164/rccm.201809-1626OC</ArticleId>
+            <ArticleId IdType="pmc">PMC6857493</ArticleId>
+            <ArticleId IdType="pubmed">31215789</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Snowball, J., Ambalavanan, M., Whitsett, J. and Sinner, D. (2015). Endodermal Wnt signaling is required for tracheal cartilage formation. Dev. Biol.
+405, 56-70. 10.1016/j.ydbio.2015.06.009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ydbio.2015.06.009</ArticleId>
+            <ArticleId IdType="pmc">PMC4529778</ArticleId>
+            <ArticleId IdType="pubmed">26093309</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sosic, D., Richardson, J. A., Yu, K., Ornitz D. M., Olson, E. N. (2003). Twist regulates cytokine gene expression through a negative feedback loop that represses NF-kappaB activity. Cell112,169-80.
+10.1016/s0092-8674(03)00002-3
+PMID: 12553906</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0092-8674(03)00002-3</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Steimle, J. D., Rankin, S. A., Slagle, C. E., Bekeny, J., Rydeen, A. B., Chan, S. S.-K., Kweon, J., Yang, X. H., Ikegami, K., Nadadur, R. D.et al.  (2018). Evolutionarily conserved Tbx5-Wnt2/2b pathway orchestrates cardiopulmonary development. Proc. Natl. Acad. Sci. USA
+115, E10615-E10624. 10.1073/pnas.1811624115</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1811624115</ArticleId>
+            <ArticleId IdType="pmc">PMC6233116</ArticleId>
+            <ArticleId IdType="pubmed">30352852</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tabler, J. M., Rigney, M. M., Berman, G. J., Gopalakrishnan, S., Heude, E., Al-Lami, H. A., Yannakoudakis, B. Z., Fitch, R. D., Carter, C., Vokes, S.et al.  (2017). Cilia-mediated Hedgehog signaling controls form and function in the mammalian larynx. eLife
+6, e19153
+10.7554/eLife.19153</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.19153</ArticleId>
+            <ArticleId IdType="pmc">PMC5358977</ArticleId>
+            <ArticleId IdType="pubmed">28177282</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tada, M. and Smith, J. C. (2000). Xwnt11 is a target of Xenopus Brachyury: regulation of gastrulation movements via Dishevelled, but not through the canonical Wnt pathway. Development
+127, 2227-2238.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10769246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tan, Z., Niu, B., Tsang, K. Y., Melhado, I. G., Ohba, S., He, X., Huang, Y., Wang, C., McMahon, A. P., Jauch, R.et al.  (2018). Synergistic co-regulation and competition by a SOX9-GLI-FOXA phasic transcriptional network coordinate chondrocyte differentiation transitions. PLoS Genet.
+14, e1007346
+10.1371/journal.pgen.1007346</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1007346</ArticleId>
+            <ArticleId IdType="pmc">PMC5919691</ArticleId>
+            <ArticleId IdType="pubmed">29659575</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>te Welscher, P., Zuniga, A., Kuijper, S., Drenth, T., Goedemans, H. J., Meijlink, F. and Zeller, R. (2002). Progression of vertebrate limb development through SHH-mediated counteraction of GLI3. Science
+298, 827-830. 10.1126/science.1075620</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1075620</ArticleId>
+            <ArticleId IdType="pubmed">12215652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Teramoto, M., Sugawara, R., Minegishi, K., Uchikawa, M., Takemoto, T., Kuroiwa, A., Ishii, Y. and Kondoh, H. (2020). The absence of SOX2 in the anterior foregut alters the esophagus into trachea and bronchi in both epithelial and mesenchymal components. Biol. Open
+9, bio048728
+10.1242/bio.048728</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/bio.048728</ArticleId>
+            <ArticleId IdType="pmc">PMC7044460</ArticleId>
+            <ArticleId IdType="pubmed">31988094</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trisno, S. L., Philo, K. E. D., McCracken, K. W., Catá, E. M., Ruiz-Torres, S., Rankin, S. A., Han, L., Nasr, T., Chaturvedi, P., Rothenberg, M. E.et al.  (2018). Esophageal organoids from human pluripotent stem cells delineate Sox2 functions during esophageal specification. Cell Stem Cell
+23, 501-515.e7. 10.1016/j.stem.2018.08.008</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.stem.2018.08.008</ArticleId>
+            <ArticleId IdType="pmc">PMC6225525</ArticleId>
+            <ArticleId IdType="pubmed">30244869</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ustiyan, V., Bolte, C., Zhang, Y., Han, L., Xu, Y., Yutzey, K. E., Zorn, A. M., Kalin, T. V., Shannon, J. M. and Kalinichenko, V. V. (2018). FOXF1 transcription factor promotes lung morphogenesis by inducing cellular proliferation in fetal lung mesenchyme. Dev. Biol.
+443, 50-63. 10.1016/j.ydbio.2018.08.011</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ydbio.2018.08.011</ArticleId>
+            <ArticleId IdType="pmc">PMC6191344</ArticleId>
+            <ArticleId IdType="pubmed">30153454</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vokes, S. A., Ji, H., Wong, W. H. and McMahon, A. P. (2008). A genome-scale analysis of the cis-regulatory circuitry underlying sonic hedgehog-mediated patterning of the mammalian limb. Genes Dev.
+22, 2651-2663. 10.1101/gad.1693008</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.1693008</ArticleId>
+            <ArticleId IdType="pmc">PMC2559910</ArticleId>
+            <ArticleId IdType="pubmed">18832070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wallis, C., Alexopoulou, E., Antón-Pacheco, J. L., Bhatt, J. M., Bush, A., Chang, A. B., Charatsi, A.-M., Coleman, C., Depiazzi, J., Douros, K.et al.  (2019). ERS statement on tracheomalacia and bronchomalacia in children. Eur. Respir. J.
+54, 1900382
+10.1183/13993003.00382-2019</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1183/13993003.00382-2019</ArticleId>
+            <ArticleId IdType="pubmed">31320455</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang, Y., Liu, T., Meyer, C. A., Eeckhoute, J., Johnson, D. S., Bernstein, B. E., Nusbaum, C., Myers, R. M., Brown, M., Li, W.et al.  (2008). Model-based analysis of ChIP-Seq (MACS). Genome Biol.
+9, R137
+10.1186/gb-2008-9-9-r137</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/gb-2008-9-9-r137</ArticleId>
+            <ArticleId IdType="pmc">PMC2592715</ArticleId>
+            <ArticleId IdType="pubmed">18798982</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

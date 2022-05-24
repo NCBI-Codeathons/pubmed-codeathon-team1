@@ -1,0 +1,420 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35600222</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">2055-7434</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>8</Volume>
+            <PubDate>
+              <Year>2022</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Microsystems &amp; nanoengineering</Title>
+          <ISOAbbreviation>Microsyst Nanoeng</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Rapid switching and durable on-chip spark-cavitation-bubble cell sorter.</ArticleTitle>
+        <Pagination>
+          <StartPage>52</StartPage>
+          <MedlinePgn>52</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">52</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41378-022-00382-2</ELocationID>
+        <Abstract>
+          <AbstractText>Precise and high-speed sorting of individual target cells from heterogeneous populations plays an imperative role in cell research. Although the conventional fluorescence-activated cell sorter (FACS) is capable of rapid and accurate cell sorting, it occupies a large volume of the instrument and inherently brings in aerosol generation as well as cross-contamination among samples. The sorting completed in a fully enclosed and disposable microfluidic chip has the potential to eliminate the above concerns. However, current microfluidic cell sorters are hindered by the high complexities of the fabrication procedure and the off-chip setup. In this paper, a spark-cavitation-bubble-based fluorescence-activated cell sorter is developed to perform fast and accurate sorting in a microfluidic chip. It features a simple structure and an easy operation. This microfluidic sorter comprises a positive electrode of platinum and a negative electrode of tungsten, which are placed on the side of the main channel. By applying a high-voltage discharge on the pair of electrodes, a single spark cavitation bubble is created to deflect the target particle into the downstream collection channel. The sorter has a short switching time of 150 μs and a long lifespan of more than 100 million workable actions. In addition, a novel control strategy is proposed to dynamically adjust the discharge time to stabilize the size of the cavitation bubble for continuous sorting. The dynamic control of continuously triggering the sorter, the optimal delay time between fluorescence detection and cell sorting, and a theoretical model to predict the ideal sorting recovery and purity are studied to improve and evaluate the sorter performance. The experiments demonstrate that the sorting rate of target particles achieves 1200 eps, the total analysis throughput is up to 10,000 eps, the particles sorted at 4000 eps exhibit a purity greater than 80% and a recovery rate greater than 90%, and the sorting effect on the viability of HeLa cells is negligible.</AbstractText>
+          <CopyrightInformation>© The Author(s) 2022.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Jiao</LastName>
+            <ForeName>Zeheng</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Precision Measurement Technology and Instrument, Tsinghua University, Beijing, 100084 China.</Affiliation>
+              <Identifier Source="GRID">grid.12527.33</Identifier>
+              <Identifier Source="ISNI">0000 0001 0662 3178</Identifier>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Precision Instrument, Tsinghua University, Beijing, 100084 China.</Affiliation>
+              <Identifier Source="GRID">grid.12527.33</Identifier>
+              <Identifier Source="ISNI">0000 0001 0662 3178</Identifier>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Beijing Laboratory for Biomedical Detection Technology and Instrument, Tsinghua University, Beijing, 100084 China.</Affiliation>
+              <Identifier Source="GRID">grid.12527.33</Identifier>
+              <Identifier Source="ISNI">0000 0001 0662 3178</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Han</LastName>
+            <ForeName>Yong</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">0000-0003-2178-0678</Identifier>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Precision Measurement Technology and Instrument, Tsinghua University, Beijing, 100084 China.</Affiliation>
+              <Identifier Source="GRID">grid.12527.33</Identifier>
+              <Identifier Source="ISNI">0000 0001 0662 3178</Identifier>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Precision Instrument, Tsinghua University, Beijing, 100084 China.</Affiliation>
+              <Identifier Source="GRID">grid.12527.33</Identifier>
+              <Identifier Source="ISNI">0000 0001 0662 3178</Identifier>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Beijing Laboratory for Biomedical Detection Technology and Instrument, Tsinghua University, Beijing, 100084 China.</Affiliation>
+              <Identifier Source="GRID">grid.12527.33</Identifier>
+              <Identifier Source="ISNI">0000 0001 0662 3178</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Jingjing</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Structural Biology, Stanford University, School of Medicine, Stanford, CA 94305-5126 USA.</Affiliation>
+              <Identifier Source="GRID">grid.168010.e</Identifier>
+              <Identifier Source="ISNI">0000000419368956</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chao</LastName>
+            <ForeName>Zixi</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Precision Measurement Technology and Instrument, Tsinghua University, Beijing, 100084 China.</Affiliation>
+              <Identifier Source="GRID">grid.12527.33</Identifier>
+              <Identifier Source="ISNI">0000 0001 0662 3178</Identifier>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Precision Instrument, Tsinghua University, Beijing, 100084 China.</Affiliation>
+              <Identifier Source="GRID">grid.12527.33</Identifier>
+              <Identifier Source="ISNI">0000 0001 0662 3178</Identifier>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Beijing Laboratory for Biomedical Detection Technology and Instrument, Tsinghua University, Beijing, 100084 China.</Affiliation>
+              <Identifier Source="GRID">grid.12527.33</Identifier>
+              <Identifier Source="ISNI">0000 0001 0662 3178</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tárnok</LastName>
+            <ForeName>Attila</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Precision Instrument, Tsinghua University, Beijing, 100084 China.</Affiliation>
+              <Identifier Source="GRID">grid.12527.33</Identifier>
+              <Identifier Source="ISNI">0000 0001 0662 3178</Identifier>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute for Medical Informatics, Statistics and Epidemiology (IMISE), University of Leipzig, Leipzig, Germany.</Affiliation>
+              <Identifier Source="GRID">grid.9647.c</Identifier>
+              <Identifier Source="ISNI">0000 0004 7669 9786</Identifier>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Therapy Validation, Fraunhofer Institute for Cell Therapy and Immunology IZI, Leipzig, Germany.</Affiliation>
+              <Identifier Source="GRID">grid.418008.5</Identifier>
+              <Identifier Source="ISNI">0000 0004 0494 3022</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>You</LastName>
+            <ForeName>Zheng</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Precision Measurement Technology and Instrument, Tsinghua University, Beijing, 100084 China.</Affiliation>
+              <Identifier Source="GRID">grid.12527.33</Identifier>
+              <Identifier Source="ISNI">0000 0001 0662 3178</Identifier>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Precision Instrument, Tsinghua University, Beijing, 100084 China.</Affiliation>
+              <Identifier Source="GRID">grid.12527.33</Identifier>
+              <Identifier Source="ISNI">0000 0001 0662 3178</Identifier>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Beijing Laboratory for Biomedical Detection Technology and Instrument, Tsinghua University, Beijing, 100084 China.</Affiliation>
+              <Identifier Source="GRID">grid.12527.33</Identifier>
+              <Identifier Source="ISNI">0000 0001 0662 3178</Identifier>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>18</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Microsyst Nanoeng</MedlineTA>
+        <NlmUniqueID>101695458</NlmUniqueID>
+        <ISSNLinking>2055-7434</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Electrical and electronic engineering</Keyword>
+        <Keyword MajorTopicYN="N">Microfluidics</Keyword>
+      </KeywordList>
+      <CoiStatement>Conflict of interestThe authors declare that they have no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>8</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>31</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>23</Day>
+          <Hour>3</Hour>
+          <Minute>50</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35600222</ArticleId>
+        <ArticleId IdType="pmc">PMC9117265</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41378-022-00382-2</ArticleId>
+        <ArticleId IdType="pii">382</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Fu AY, Spence C, Scherer A, Arnold FH, Quake SR. A microfabricated fluorescence-activated cell sorter. Nat. Biotechnol. 1999;17:1109–1111. doi: 10.1038/15095.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/15095</ArticleId>
+            <ArticleId IdType="pubmed">10545919</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dittrich PS, Schwille P. An integrated microfluidic system for reaction, high-sensitivity detection, and sorting of fluorescent cells and particles. Anal. Chem. 2003;75:5767–5774. doi: 10.1021/ac034568c.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/ac034568c</ArticleId>
+            <ArticleId IdType="pubmed">14588016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huh D, et al.  Reversible switching of high-speed air-liquid two-phase flows using electrowetting-assisted flow-pattern change. J. Am. Chem. Soc. 2003;125:14678–14679. doi: 10.1021/ja037350g.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/ja037350g</ArticleId>
+            <ArticleId IdType="pubmed">14640622</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ho CT, Lin RZ, Chang HY, Liu CH. Micromachined electrochemical T-switches for cell sorting applications. Lab Chip. 2005;5:1248–1258. doi: 10.1039/b507575k.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1039/b507575k</ArticleId>
+            <ArticleId IdType="pubmed">16234948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim HJ, Moon HS, Kwak BS, Jung HI. Microfluidic device to separate micro-beads with various fluorescence intensities. Sens. Actuator B-Chem. 2011;160:1536–1543. doi: 10.1016/j.snb.2011.08.013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.snb.2011.08.013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meineke G, Hermans M, Klos J, Lenenbach A, Noll R. Microfluidic opto-caloric switch for sorting of particles with 3D hydrodynamic focusing based on SLE fabrication capabilities. Lab Chip. 2016;16:820–828. doi: 10.1039/C5LC01478F.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1039/C5LC01478F</ArticleId>
+            <ArticleId IdType="pubmed">26862603</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Perroud TD, et al.  Microfluidic-based cell sorting of Francisella tularensis infected macrophages using optical forces. Anal. Chem. 2008;80:6365–6372. doi: 10.1021/ac8007779.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/ac8007779</ArticleId>
+            <ArticleId IdType="pubmed">18510341</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang XL, et al.  Enhanced cell sorting and manipulation with combined optical tweezer and microfluidic chip technologies. Lab Chip. 2011;11:3656–3662. doi: 10.1039/c1lc20653b.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1039/c1lc20653b</ArticleId>
+            <ArticleId IdType="pubmed">21918752</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baret JC, et al.  Fluorescence-activated droplet sorting (FADS): efficient microfluidic cell sorting based on enzymatic activity. Lab Chip. 2009;9:1850–1858. doi: 10.1039/b902504a.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1039/b902504a</ArticleId>
+            <ArticleId IdType="pubmed">19532959</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mazutis L, et al.  Single-cell analysis and sorting using droplet-based microfluidics. Nat. Protoc. 2013;8:870–891. doi: 10.1038/nprot.2013.046.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nprot.2013.046</ArticleId>
+            <ArticleId IdType="pmc">PMC4128248</ArticleId>
+            <ArticleId IdType="pubmed">23558786</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jakobsson O, Grenvall C, Nordin M, Evander M, Laurell T. Acoustic actuated fluorescence activated sorting of microparticles. Lab Chip. 2014;14:1943–1950. doi: 10.1039/C3LC51408K.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1039/C3LC51408K</ArticleId>
+            <ArticleId IdType="pubmed">24763517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ung, W. L. et al. Enhanced surface acoustic wave cell sorting by 3D microfluidic-chip design. Lab Chip17, 4059-4069 (2017).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cheng Z, Wu X, Cheng J, Liu P. Microfluidic fluorescence-activated cell sorting (μFACS) chip with integrated piezoelectric actuators for low-cost mammalian cell enrichment. Microfluidics Nanofluidics. 2017;21:9. doi: 10.1007/s10404-017-1847-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10404-017-1847-1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sakuma, S., Kasai, Y., Hayakawa, T. &amp; Arai, F. On-chip cell sorting by high-speed local-flow control using dual membrane pumps. Lab Chip17 (2017).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nitta N, et al.  Intelligent image-activated cell sorting. Cell. 2018;175:266. doi: 10.1016/j.cell.2018.08.028.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2018.08.028</ArticleId>
+            <ArticleId IdType="pubmed">30166209</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Foster, J. S. et al. Multi-stage cartridge for MEMS particle storing system. U.S., US8993311B2 (2012).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pritchard RH, et al.  Cell sorting actuated by a microfluidic inertial vortex. Lab Chip. 2019;19:2456–2465. doi: 10.1039/C9LC00120D.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1039/C9LC00120D</ArticleId>
+            <ArticleId IdType="pubmed">31210196</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cai KP, Mankar S, Maslova A, Ajiri T, Yotoriyama T. Amplified piezoelectrically actuated on-chip flow switching for a rapid and stable microfluidic fluorescence activated cell sorter. RSC Adv. 2020;10:40395–40405. doi: 10.1039/D0RA04919K.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1039/D0RA04919K</ArticleId>
+            <ArticleId IdType="pmc">PMC9057478</ArticleId>
+            <ArticleId IdType="pubmed">35520855</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu TH, Gao LY, Chen Y, Wei K, Chiou PY. Pulsed laser triggered high speed microfluidic switch. Appl. Phys. Lett. 2008;93:3.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen Y, et al.  Pulsed laser activated cell sorting with three dimensional sheathless inertial focusing. Small. 2014;10:1746–1751. doi: 10.1002/smll.201302885.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/smll.201302885</ArticleId>
+            <ArticleId IdType="pmc">PMC4324602</ArticleId>
+            <ArticleId IdType="pubmed">24536017</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hong ZY, et al.  High-speed micro-particle manipulation in a microfluidic chip by directional femtosecond laser impulse. Sens. Actuator A-Phys. 2019;297:6. doi: 10.1016/j.sna.2019.111566.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.sna.2019.111566</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen CC, Wang JS, Solgaard O. Micromachined bubble-jet cell sorter with multiple operation modes. Sens. Actuator B-Chem. 2006;117:523–529. doi: 10.1016/j.snb.2006.05.011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.snb.2006.05.011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>De WK, et al.  Micro vapor bubble jet flow for safe and high-rate fluorescence-activated cell sorting. Lab Chip. 2017;17:1287–1296. doi: 10.1039/C6LC01560C.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1039/C6LC01560C</ArticleId>
+            <ArticleId IdType="pubmed">28252674</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chahine, G., Frederick, G., Lambrecht, C., Harris, G. &amp; Mair, H. in SAVIAC Proceedings of the 66th Shock and Vibrations Symposium, Vol. 1 (1995).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Surdo S, Diaspro A, Duocastella M. Micromixing with spark-generated cavitation bubbles. Microfluidics Nanofluidics. 2017;21:82. doi: 10.1007/s10404-017-1917-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10404-017-1917-4</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao J, You Z. Spark‐generated microbubble cell sorter for microfluidic flow cytometry. Cytom. Part A. 2018;93:222–231. doi: 10.1002/cyto.a.23296.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cyto.a.23296</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao J, You Z. A Microflow Cytometer with a rectangular quasi-flat-top laser spot. Sensors. 2016;16:1474. doi: 10.3390/s16091474.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s16091474</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Han Y, et al.  Diffractive beam shaper for multiwavelength lasers for flow cytometry. Cytom. Part A. 2021;99:194–204. doi: 10.1002/cyto.a.24240.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cyto.a.24240</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eubank PT, Patel MR, Barrufet MA, Bozkurt B. Theoretical-models of the electrical-discharge machining process .3. the variable mass, cylindrical plasma model. J. Appl. Phys. 1993;73:7900–7909. doi: 10.1063/1.353942.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1063/1.353942</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bhattacharyya B, Doloi BN, Sorkhel SK. Experimental investigations into electrochemical discharge machining (ECDM) of non-conductive ceramic materials. J. Mater. Process. Technol. 1999;95:145–154. doi: 10.1016/S0924-0136(99)00318-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0924-0136(99)00318-0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiao ZH, Zhao JJ, Han Y, Chao ZX, You Z. Dynamics of spark cavitation bubbles in a microchamber. Microfluidics Nanofluidics. 2021;25:8. doi: 10.1007/s10404-021-02422-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10404-021-02422-1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Han Y, Jiao Z, Zhao J, Chao Z, You Z. A simple approach to fabricate ayer glass microfluidic chips based on laser processing and thermocompression bonding. Microfluidics Nanofluidics. 2021;25:77. doi: 10.1007/s10404-021-02479-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10404-021-02479-y</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iino T, et al.  High-speed microparticle isolation unlimited by Poisson statistics. Lab Chip. 2019;19:2669–2677. doi: 10.1039/C9LC00324J.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1039/C9LC00324J</ArticleId>
+            <ArticleId IdType="pubmed">31332412</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

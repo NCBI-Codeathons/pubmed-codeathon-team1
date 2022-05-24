@@ -1,0 +1,745 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">33931636</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>05</Month>
+        <Day>12</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>05</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2041-1723</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>12</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Apr</Month>
+              <Day>30</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nature communications</Title>
+          <ISOAbbreviation>Nat Commun</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Single nucleus RNA-sequencing defines unexpected diversity of cholinergic neuron types in the adult mouse spinal cord.</ArticleTitle>
+        <Pagination>
+          <StartPage>2471</StartPage>
+          <MedlinePgn>2471</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">2471</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41467-021-22691-2</ELocationID>
+        <Abstract>
+          <AbstractText>In vertebrates, motor control relies on cholinergic neurons in the spinal cord that have been extensively studied over the past hundred years, yet the full heterogeneity of these neurons and their different functional roles in the adult remain to be defined. Here, we develop a targeted single nuclear RNA sequencing approach and use it to identify an array of cholinergic interneurons, visceral and skeletal motor neurons. Our data expose markers for distinguishing these classes of cholinergic neurons and their rich diversity. Specifically, visceral motor neurons, which provide autonomic control, can be divided into more than a dozen transcriptomic classes with anatomically restricted localization along the spinal cord. The complexity of the skeletal motor neurons is also reflected in our analysis with alpha, gamma, and a third subtype, possibly corresponding to the elusive beta motor neurons, clearly distinguished. In combination, our data provide a comprehensive transcriptomic description of this important population of neurons that control many aspects of physiology and movement and encompass the cellular substrates for debilitating degenerative disorders.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Alkaslasi</LastName>
+            <ForeName>Mor R</ForeName>
+            <Initials>MR</Initials>
+            <Identifier Source="ORCID">0000-0001-6298-885X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroscience, Brown University, Providence, RI, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Piccus</LastName>
+            <ForeName>Zoe E</ForeName>
+            <Initials>ZE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroscience, Brown University, Providence, RI, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hareendran</LastName>
+            <ForeName>Sangeetha</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Silberberg</LastName>
+            <ForeName>Hanna</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Li</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Yajun</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Petros</LastName>
+            <ForeName>Timothy J</ForeName>
+            <Initials>TJ</Initials>
+            <Identifier Source="ORCID">0000-0002-8943-546X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Le Pichon</LastName>
+            <ForeName>Claire E</ForeName>
+            <Initials>CE</Initials>
+            <Identifier Source="ORCID">0000-0002-9274-3615</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, MD, USA. claire.lepichon@nih.gov.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>ZIA HD008966</GrantID>
+            <Acronym>ImNIH</Acronym>
+            <Agency>Intramural NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>04</Month>
+          <Day>30</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Nat Commun</MedlineTA>
+        <NlmUniqueID>101528555</NlmUniqueID>
+        <ISSNLinking>2041-1723</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002467" MajorTopicYN="N">Cell Nucleus</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059329" MajorTopicYN="N">Cholinergic Neurons</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017403" MajorTopicYN="N">In Situ Hybridization</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007395" MajorTopicYN="N">Interneurons</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008822" MajorTopicYN="N">Mice, Transgenic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009046" MajorTopicYN="N">Motor Neurons</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000081246" MajorTopicYN="N">RNA-Seq</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059010" MajorTopicYN="N">Single-Cell Analysis</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017552" MajorTopicYN="N">Solitary Nucleus</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013116" MajorTopicYN="N">Spinal Cord</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059467" MajorTopicYN="N">Transcriptome</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>6</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>3</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>3</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">33931636</ArticleId>
+        <ArticleId IdType="pmc">PMC8087807</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41467-021-22691-2</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41467-021-22691-2</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Stifani N. Motor neurons and the generation of spinal motor neuron diversity. Front. Cell Neurosci. 2014;8:293. doi: 10.3389/fncel.2014.00293.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncel.2014.00293</ArticleId>
+            <ArticleId IdType="pmc">PMC4191298</ArticleId>
+            <ArticleId IdType="pubmed">25346659</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miles GB, Hartley R, Todd AJ, Brownstone RM. Spinal cholinergic interneurons regulate the excitability of motoneurons during locomotion. Proc. Natl Acad. Sci. USA. 2007;104:2448–2453. doi: 10.1073/pnas.0611134104.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0611134104</ArticleId>
+            <ArticleId IdType="pmc">PMC1794344</ArticleId>
+            <ArticleId IdType="pubmed">17287343</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zagoraiou L, et al.  A cluster of cholinergic premotor interneurons modulates mouse locomotor activity. Neuron. 2009;64:645–662. doi: 10.1016/j.neuron.2009.10.017.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2009.10.017</ArticleId>
+            <ArticleId IdType="pmc">PMC2891428</ArticleId>
+            <ArticleId IdType="pubmed">20005822</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hadzipasic M, et al.  Selective degeneration of a physiological subtype of spinal motor neuron in mice with SOD1-linked ALS. Proc. Natl Acad. Sci. USA. 2014;111:16883–16888. doi: 10.1073/pnas.1419497111.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1419497111</ArticleId>
+            <ArticleId IdType="pmc">PMC4250117</ArticleId>
+            <ArticleId IdType="pubmed">25385594</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Powis RA, Gillingwater TH. Selective loss of alpha motor neurons with sparing of gamma motor neurons and spinal cord cholinergic neurons in a mouse model of spinal muscular atrophy. J. Anat. 2015;228:443–451. doi: 10.1111/joa.12419.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/joa.12419</ArticleId>
+            <ArticleId IdType="pmc">PMC5341542</ArticleId>
+            <ArticleId IdType="pubmed">26576026</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Murray LM, Beauvais A, Gibeault S, Courtney NL, Kothary R. Transcriptional profiling of differentially vulnerable motor neurons at pre-symptomatic stage in the Smn (2b/-) mouse model of spinal muscular atrophy. Acta Neuropathol. Commun. 2015;3:55. doi: 10.1186/s40478-015-0231-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s40478-015-0231-1</ArticleId>
+            <ArticleId IdType="pmc">PMC4570693</ArticleId>
+            <ArticleId IdType="pubmed">26374403</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ragagnin AMG, Shadfar S, Vidal M, Jamali MS, Atkin JD. Motor neuron susceptibility in ALS/FTD. Front. Neurosci. 2019;13:532. doi: 10.3389/fnins.2019.00532.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnins.2019.00532</ArticleId>
+            <ArticleId IdType="pmc">PMC6610326</ArticleId>
+            <ArticleId IdType="pubmed">31316328</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kanning KC, Kaplan A, Henderson CE. Motor neuron diversity in development and disease. Annu. Rev. Neurosci. 2010;33:409–440. doi: 10.1146/annurev.neuro.051508.135722.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev.neuro.051508.135722</ArticleId>
+            <ArticleId IdType="pubmed">20367447</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaplan A, et al.  Neuronal matrix metalloproteinase-9 is a determinant of selective neurodegeneration. Neuron. 2014;81:333–348. doi: 10.1016/j.neuron.2013.12.009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2013.12.009</ArticleId>
+            <ArticleId IdType="pmc">PMC6015650</ArticleId>
+            <ArticleId IdType="pubmed">24462097</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Delile J, et al.  Single cell transcriptomics reveals spatial and temporal dynamics of gene expression in the developing mouse spinal cord. Development. 2019;146:dev173807. doi: 10.1242/dev.173807.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.173807</ArticleId>
+            <ArticleId IdType="pmc">PMC6602353</ArticleId>
+            <ArticleId IdType="pubmed">30846445</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rosenberg AB, et al.  Single-cell profiling of the developing mouse brain and spinal cord with split-pool barcoding. Science. 2018;360:eaam8999. doi: 10.1126/science.aam8999.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aam8999</ArticleId>
+            <ArticleId IdType="pmc">PMC7643870</ArticleId>
+            <ArticleId IdType="pubmed">29545511</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sathyamurthy A, et al.  Massively parallel single nucleus transcriptional profiling defines spinal cord neurons and their activity during behavior. Cell Rep. 2018;22:2216–2225. doi: 10.1016/j.celrep.2018.02.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2018.02.003</ArticleId>
+            <ArticleId IdType="pmc">PMC5849084</ArticleId>
+            <ArticleId IdType="pubmed">29466745</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Habib N, et al.  Massively parallel single-nucleus RNA-seq with DroNc-seq. Nat. Methods. 2017 doi: 10.1038/nmeth.4407.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.4407</ArticleId>
+            <ArticleId IdType="pmc">PMC5623139</ArticleId>
+            <ArticleId IdType="pubmed">28846088</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nguyen MQ, Pichon CEL, Ryba N. Stereotyped transcriptomic transformation of somatosensory neurons in response to injury. Elife. 2019;8:e49679. doi: 10.7554/eLife.49679.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.49679</ArticleId>
+            <ArticleId IdType="pmc">PMC6783272</ArticleId>
+            <ArticleId IdType="pubmed">31592768</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mo A, et al.  Epigenomic signatures of neuronal diversity in the mammalian brain. Neuron. 2015;86:1369–1384. doi: 10.1016/j.neuron.2015.05.018.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2015.05.018</ArticleId>
+            <ArticleId IdType="pmc">PMC4499463</ArticleId>
+            <ArticleId IdType="pubmed">26087164</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Borges LF, Iversen SD. Topography of choline acetyltransferase Immunoreactive Neurons and fibers in the rat spinal cord. Brain Res. 1986;362:140–148. doi: 10.1016/0006-8993(86)91407-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0006-8993(86)91407-1</ArticleId>
+            <ArticleId IdType="pubmed">3510688</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barber RP, et al.  The morphology and distribution of neurons containing choline acetyltransferase in the adult rat spinal cord: An immunocytochemical study. J. Comp. Neurol. 1984;229:329–346. doi: 10.1002/cne.902290305.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cne.902290305</ArticleId>
+            <ArticleId IdType="pubmed">6389613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Phelps PE, et al.  Postnatal development of neurons containing choline acetyltransferase in rat spinal cord: An immunocytochemical study. J. Comp. Neurol. 1984;229:347–361. doi: 10.1002/cne.902290306.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cne.902290306</ArticleId>
+            <ArticleId IdType="pubmed">6389614</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang A, Noga BR, Carr PA, Fedirchuk B, Jordan LM. Spinal cholinergic neurons activated during locomotion: localization and electrophysiological characterization. J. Neurophysiol. 2000;83:3537–3547. doi: 10.1152/jn.2000.83.6.3537.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.2000.83.6.3537</ArticleId>
+            <ArticleId IdType="pubmed">10848569</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Markham JA, Vaughn JE. Migration patterns of sympathetic preganglionic neurons in embryonic rat spinal cord. J. Neurobiol. 1991;22:811–822. doi: 10.1002/neu.480220803.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/neu.480220803</ArticleId>
+            <ArticleId IdType="pubmed">1779224</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thaler JP, et al.  A postmitotic role for Isl-class LIM homeodomain proteins in the assignment of visceral spinal motor neuron identity. Neuron. 2004;41:337–350. doi: 10.1016/S0896-6273(04)00011-X.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0896-6273(04)00011-X</ArticleId>
+            <ArticleId IdType="pubmed">14766174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burrill JD, Moran L, Goulding MD, Saueressig H. PAX2 is expressed in multiple spinal cord interneurons, including a population of EN1+ interneurons that require PAX6 for their development. Dev. Camb. Engl. 1997;124:4493–4503.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9409667</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roy A, et al.  Onecut transcription factors act upstream of Isl1 to regulate spinal motoneuron diversification. Dev. Camb. Engl. 2012;139:3109–3119.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4074251</ArticleId>
+            <ArticleId IdType="pubmed">22833130</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Escurat M, Gumpel M, Lachapelle F, Gros F, Portier MM. [Comparative expression of 2 intermediate filament proteins, peripherin and the 68 kDa neurofilament protein, during embryonal development of the rat] Comptes Rendus De. L’académie Des. Sci. Série Iii Sci. De. La Vie. 1988;306:447–456.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3136870</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Troy CM, Brown K, Greene LA, Shelanski ML. Ontogeny of the neuronal intermediate filament protein, peripherin, in the mouse embryo. Neuroscience. 1990;36:217–237. doi: 10.1016/0306-4522(90)90364-A.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0306-4522(90)90364-A</ArticleId>
+            <ArticleId IdType="pubmed">2215919</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Manuel M, Zytnicki D. Alpha, beta, and gamma motoneurons: functional diversity in the motor system’s final pathway. J. Integr. Neurosci. 2011;10:243–276. doi: 10.1142/S0219635211002786.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1142/S0219635211002786</ArticleId>
+            <ArticleId IdType="pubmed">21960303</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bessou P, Emonet-Dénand F, Laporte Y. Motor fibres innervating extrafusal and intrafusal muscle fibres in the cat. J. Physiol. 1965;180:649–672. doi: 10.1113/jphysiol.1965.sp007722.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.1965.sp007722</ArticleId>
+            <ArticleId IdType="pmc">PMC1357408</ArticleId>
+            <ArticleId IdType="pubmed">4221243</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boyd IA, Gladden MH, McWilliam PN, Ward J. Control of dynamic and static nuclear bag fibres and nuclear chain fibres by gamma and beta axons in isolated cat muscle spindels. J. Physiol. 1977;265:133–162. doi: 10.1113/jphysiol.1977.sp011709.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.1977.sp011709</ArticleId>
+            <ArticleId IdType="pmc">PMC1307812</ArticleId>
+            <ArticleId IdType="pubmed">139469</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Frey D, et al.  Early and selective loss of neuromuscular synapse subtypes with low sprouting competence in motoneuron diseases. J. Neurosci. 2000;20:2534–2542. doi: 10.1523/JNEUROSCI.20-07-02534.2000.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.20-07-02534.2000</ArticleId>
+            <ArticleId IdType="pmc">PMC6772256</ArticleId>
+            <ArticleId IdType="pubmed">10729333</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dengler R, et al.  Amyotrophic lateral sclerosis: macro-EMG and twitch forces of single motor units: motor units in ALS. Muscle Nerve. 1990;13:545–550. doi: 10.1002/mus.880130612.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/mus.880130612</ArticleId>
+            <ArticleId IdType="pubmed">2366827</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lalancette-Hebert M, Sharma A, Lyashchenko AK, Shneider NA. Gamma motor neurons survive and exacerbate alpha motor neuron degeneration in ALS. Proc. Natl Acad. Sci. USA. 2016;113:E8316–E8325. doi: 10.1073/pnas.1605210113.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1605210113</ArticleId>
+            <ArticleId IdType="pmc">PMC5187676</ArticleId>
+            <ArticleId IdType="pubmed">27930290</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sarnat HB, Nochlin D, Born DE. Neuronal nuclear antigen (NeuN): a marker of neuronal maturation in the early human fetal nervous system. Brain Dev. 1998;20:88–94. doi: 10.1016/S0387-7604(97)00111-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0387-7604(97)00111-3</ArticleId>
+            <ArticleId IdType="pubmed">9545178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Friese A, et al.  Gamma and alpha motor neurons distinguished by expression of transcription factor Err3. Proc. Natl Acad. Sci. USA. 2009;106:13588–13593. doi: 10.1073/pnas.0906809106.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0906809106</ArticleId>
+            <ArticleId IdType="pmc">PMC2716387</ArticleId>
+            <ArticleId IdType="pubmed">19651609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Enjin A, et al.  Sensorimotor function is modulated by the serotonin receptor 1d, a novel marker for gamma motor neurons. Mol. Cell Neurosci. 2012;49:322–332. doi: 10.1016/j.mcn.2012.01.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.mcn.2012.01.003</ArticleId>
+            <ArticleId IdType="pmc">PMC3306528</ArticleId>
+            <ArticleId IdType="pubmed">22273508</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shneider NA, Brown MN, Smith CA, Pickel J, Alvarez FJ. Gamma motor neurons express distinct genetic markers at birth and require muscle spindle-derived GDNF for postnatal survival. Neural Dev. 2009;4:42. doi: 10.1186/1749-8104-4-42.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1749-8104-4-42</ArticleId>
+            <ArticleId IdType="pmc">PMC2800842</ArticleId>
+            <ArticleId IdType="pubmed">19954518</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Edwards IJ, et al.  Na+/K+ ATPase 1 and 3 isoforms are differentially expressed in - and -motoneurons. J. Neurosci. 2013;33:9913–9919. doi: 10.1523/JNEUROSCI.5584-12.2013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.5584-12.2013</ArticleId>
+            <ArticleId IdType="pmc">PMC3722489</ArticleId>
+            <ArticleId IdType="pubmed">23761886</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ashrafi S, et al.  Wnt7A identifies embryonic γ-motor neurons and reveals early postnatal dependence of γ-motor neurons on a muscle spindle-derived signal. J. Neurosci. 2012;32:8725–8731. doi: 10.1523/JNEUROSCI.1160-12.2012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.1160-12.2012</ArticleId>
+            <ArticleId IdType="pmc">PMC3496251</ArticleId>
+            <ArticleId IdType="pubmed">22723712</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scott JJA, Kümmel H, Illert M. Skeletofusimotor (β) innervation of proximal and distal forelimb muscles of the cat. Neurosci. Lett. 1995;190:1–4. doi: 10.1016/0304-3940(95)11485-F.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0304-3940(95)11485-F</ArticleId>
+            <ArticleId IdType="pubmed">7624043</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nijssen J, Comley LH, Hedlund E. Motor neuron vulnerability and resistance in amyotrophic lateral sclerosis. Acta Neuropathol. 2017;133:863–885. doi: 10.1007/s00401-017-1708-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00401-017-1708-8</ArticleId>
+            <ArticleId IdType="pmc">PMC5427160</ArticleId>
+            <ArticleId IdType="pubmed">28409282</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pun S, Santos AF, Saxena S, Xu L, Caroni P. Selective vulnerability and pruning of phasic motoneuron axons in motoneuron disease alleviated by CNTF. Nat. Neurosci. 2006;9:408–419. doi: 10.1038/nn1653.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn1653</ArticleId>
+            <ArticleId IdType="pubmed">16474388</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saxena S, Caroni P. Selective neuronal vulnerability in neurodegenerative diseases: from stressor thresholds to degeneration. Neuron. 2011;71:35–48. doi: 10.1016/j.neuron.2011.06.031.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2011.06.031</ArticleId>
+            <ArticleId IdType="pubmed">21745636</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mendelsohn AI, Dasen JS, Jessell TM. Divergent hox coding and evasion of retinoid signaling specifies motor neurons innervating digit muscles. Neuron. 2017;93:792–805.e4. doi: 10.1016/j.neuron.2017.01.017.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2017.01.017</ArticleId>
+            <ArticleId IdType="pmc">PMC5325683</ArticleId>
+            <ArticleId IdType="pubmed">28190640</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goetz C, Pivetta C, Arber S. Distinct limb and trunk premotor circuits establish laterality in the spinal cord. Neuron. 2015;85:131–144. doi: 10.1016/j.neuron.2014.11.024.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2014.11.024</ArticleId>
+            <ArticleId IdType="pubmed">25543457</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rozani I, et al.  Pitx2 cholinergic interneurons are the source of C bouton synapses on brainstem motor neurons. Sci. Rep. 2019;9:4936. doi: 10.1038/s41598-019-39996-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-019-39996-4</ArticleId>
+            <ArticleId IdType="pmc">PMC6426951</ArticleId>
+            <ArticleId IdType="pubmed">30894556</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stepien AE, Tripodi M, Arber S. Monosynaptic rabies virus reveals premotor network organization and synaptic specificity of cholinergic partition cells. Neuron. 2010;68:456–472. doi: 10.1016/j.neuron.2010.10.019.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2010.10.019</ArticleId>
+            <ArticleId IdType="pubmed">21040847</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nascimento F, et al.  Synaptic mechanisms underlying modulation of locomotor-related motoneuron output by premotor cholinergic interneurons. Elife. 2020;9:e54170. doi: 10.7554/eLife.54170.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.54170</ArticleId>
+            <ArticleId IdType="pmc">PMC7062467</ArticleId>
+            <ArticleId IdType="pubmed">32081133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Coste B, et al.  Piezo1 and Piezo2 are essential components of distinct mechanically activated cation channels. Science. 2010;330:55–60. doi: 10.1126/science.1193270.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1193270</ArticleId>
+            <ArticleId IdType="pmc">PMC3062430</ArticleId>
+            <ArticleId IdType="pubmed">20813920</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chesler AT, et al.  The Role of PIEZO2 in human mechanosensation. N. Engl. J. Med. 2016;375:1355–1364. doi: 10.1056/NEJMoa1602812.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa1602812</ArticleId>
+            <ArticleId IdType="pmc">PMC5911918</ArticleId>
+            <ArticleId IdType="pubmed">27653382</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nonomura K, et al.  Piezo2 senses airway stretch and mediates lung inflation-induced apnoea. Nature. 2016;541:176–181. doi: 10.1038/nature20793.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature20793</ArticleId>
+            <ArticleId IdType="pmc">PMC5267560</ArticleId>
+            <ArticleId IdType="pubmed">28002412</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kandel, E. R., Schwartz, J. H., Jessell, T. M., Siegelbaum, S. A. &amp; Hudspeth, A. J. Principles of Neural Science., McGraw-Hill Education (5th edn).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Krukoff TL. Peptidergic inputs to sympathetic preganglionic neurons. Can. J. Physiol. Pharm. 1987;65:1619–1623. doi: 10.1139/y87-254.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1139/y87-254</ArticleId>
+            <ArticleId IdType="pubmed">3319110</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anderson CR, Edwards SL. Intraperitoneal injections of fluorogold reliably labels all sympathetic preganglionic neurons in the rat. J. Neurosci. Meth. 1994;53:137–141. doi: 10.1016/0165-0270(94)90170-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0165-0270(94)90170-8</ArticleId>
+            <ArticleId IdType="pubmed">7823616</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Leong S-K, Ling E-A. Labelling neurons with fluorescent dyes administered via intravenous, subcutaneous or intraperitoneal route. J. Neurosci. Meth. 1990;32:15–23. doi: 10.1016/0165-0270(90)90067-P.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0165-0270(90)90067-P</ArticleId>
+            <ArticleId IdType="pubmed">2186224</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dalsgaard C-J, Hökfelt T, Johansson O, Elde R. Somatostatin immunoreactive cell bodies in the dorsal horn and the parasympathetic intermediolateral nucleus of the rat spinal cord. Neurosci. Lett. 1981;27:335–339. doi: 10.1016/0304-3940(81)90453-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0304-3940(81)90453-5</ArticleId>
+            <ArticleId IdType="pubmed">6120492</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krukoff TL, Ciriello J, Calaresu FR. Somatostatin‐Like immunoreactivity in neurons, nerve terminals, and fibers of the cat spinal cord. J. Comp. Neurol. 1986;243:13–22. doi: 10.1002/cne.902430103.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cne.902430103</ArticleId>
+            <ArticleId IdType="pubmed">2869066</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Keast JR. Neuropeptide-containing axon terminals in the male rat major pelvic ganglion are primarily of sacral origin. J. Auton. Nerv. Syst. 1994;47:151–158. doi: 10.1016/0165-1838(94)90076-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0165-1838(94)90076-0</ArticleId>
+            <ArticleId IdType="pubmed">8188980</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dasen JS, Jessell TM. Hox networks and the origins of motor neuron diversity. Curr. Top. Dev. Biol. 2009;88:169–200. doi: 10.1016/S0070-2153(09)88006-X.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0070-2153(09)88006-X</ArticleId>
+            <ArticleId IdType="pubmed">19651305</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blum, J. et al. Single-cell transcriptomic analysis of the adult mouse spinal cord reveals molecular diversity of autonomic and skeletal motor neurons. Nat. Neurosci.24, 572–583 (2021)..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8016743</ArticleId>
+            <ArticleId IdType="pubmed">33589834</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rossi J, et al.  Melanocortin-4 receptors expressed by cholinergic neurons regulate energy balance and glucose homeostasis. Cell Metab. 2011;13:195–204. doi: 10.1016/j.cmet.2011.01.010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cmet.2011.01.010</ArticleId>
+            <ArticleId IdType="pmc">PMC3033043</ArticleId>
+            <ArticleId IdType="pubmed">21284986</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stuart T, et al.  Comprehensive integration of single-cell data. Cell. 2019;177:1888–1902.e21. doi: 10.1016/j.cell.2019.05.031.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2019.05.031</ArticleId>
+            <ArticleId IdType="pmc">PMC6687398</ArticleId>
+            <ArticleId IdType="pubmed">31178118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Butler A, Hoffman P, Smibert P, Papalexi E, Satija R. Integrating single-cell transcriptomic data across different conditions, technologies, and species. Nat. Biotechnol. 2018;36:411–420. doi: 10.1038/nbt.4096.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nbt.4096</ArticleId>
+            <ArticleId IdType="pmc">PMC6700744</ArticleId>
+            <ArticleId IdType="pubmed">29608179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Becht E, et al.  Dimensionality reduction for visualizing single-cell data using UMAP. Nat. Biotechnol. 2018;37:38–44. doi: 10.1038/nbt.4314.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nbt.4314</ArticleId>
+            <ArticleId IdType="pubmed">30531897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Love MI, Huber W, Anders S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol. 2014;15:550. doi: 10.1186/s13059-014-0550-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13059-014-0550-8</ArticleId>
+            <ArticleId IdType="pmc">PMC4302049</ArticleId>
+            <ArticleId IdType="pubmed">25516281</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vandeweerd J-M, Hontoir F, Knoop AD, Swert KD, Nicaise C. Retrograde neuroanatomical tracing of phrenic motor neurons in mice. J. Vis. Exp. 2018 doi: 10.3791/56758.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3791/56758</ArticleId>
+            <ArticleId IdType="pmc">PMC5931327</ArticleId>
+            <ArticleId IdType="pubmed">29553523</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schindelin J, et al.  Fiji: an open-source platform for biological-image analysis. Nat. Methods. 2012;9:676–682. doi: 10.1038/nmeth.2019.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.2019</ArticleId>
+            <ArticleId IdType="pmc">PMC3855844</ArticleId>
+            <ArticleId IdType="pubmed">22743772</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Renier N, et al.  Mapping of brain activity by automated volume analysis of immediate early genes. Cell. 2016;165:1789–1802. doi: 10.1016/j.cell.2016.05.007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2016.05.007</ArticleId>
+            <ArticleId IdType="pmc">PMC4912438</ArticleId>
+            <ArticleId IdType="pubmed">27238021</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

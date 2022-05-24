@@ -1,0 +1,1286 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">32888429</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>05</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>09</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1097-4172</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>182</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>Sep</Month>
+              <Day>17</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Cell</Title>
+          <ISOAbbreviation>Cell</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The Human and Mouse Enteric Nervous System at Single-Cell Resolution.</ArticleTitle>
+        <Pagination>
+          <StartPage>1606</StartPage>
+          <EndPage>1622.e23</EndPage>
+          <MedlinePgn>1606-1622.e23</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cell.2020.08.003</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0092-8674(20)30994-6</ELocationID>
+        <Abstract>
+          <AbstractText>The enteric nervous system (ENS) coordinates diverse functions in the intestine but has eluded comprehensive molecular characterization because of the rarity and diversity of cells. Here we develop two methods to profile the ENS of adult mice and humans at single-cell resolution: RAISIN RNA-seq for profiling intact nuclei with ribosome-bound mRNA and MIRACL-seq for label-free enrichment of rare cell types by droplet-based profiling. The 1,187,535 nuclei in our mouse atlas include 5,068 neurons from the ileum and colon, revealing extraordinary neuron diversity. We highlight circadian expression changes in enteric neurons, show that disease-related genes are dysregulated with aging, and identify differences between the ileum and proximal/distal colon. In humans, we profile 436,202 nuclei, recovering 1,445 neurons, and identify conserved and species-specific transcriptional programs and putative neuro-epithelial, neuro-stromal, and neuro-immune interactions. The human ENS expresses risk genes for neuropathic, inflammatory, and extra-intestinal diseases, suggesting neuronal contributions to disease.</AbstractText>
+          <CopyrightInformation>Copyright © 2020 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Drokhlyansky</LastName>
+            <ForeName>Eugene</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Smillie</LastName>
+            <ForeName>Christopher S</ForeName>
+            <Initials>CS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Van Wittenberghe</LastName>
+            <ForeName>Nicholas</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ericsson</LastName>
+            <ForeName>Maria</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell Biology, Harvard Medical School, Boston, MA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Griffin</LastName>
+            <ForeName>Gabriel K</ForeName>
+            <Initials>GK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Broad Institute of MIT and Harvard, Cambridge, MA, USA; Department of Pathology, Brigham and Women's Hospital, Boston, MA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Eraslan</LastName>
+            <ForeName>Gokcen</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dionne</LastName>
+            <ForeName>Danielle</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cuoco</LastName>
+            <ForeName>Michael S</ForeName>
+            <Initials>MS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goder-Reiser</LastName>
+            <ForeName>Max N</ForeName>
+            <Initials>MN</Initials>
+            <AffiliationInfo>
+              <Affiliation>Massachusetts General Hospital, Cambridge, MA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sharova</LastName>
+            <ForeName>Tatyana</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Massachusetts General Hospital, Cambridge, MA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kuksenko</LastName>
+            <ForeName>Olena</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Aguirre</LastName>
+            <ForeName>Andrew J</ForeName>
+            <Initials>AJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Broad Institute of MIT and Harvard, Cambridge, MA, USA; Department of Medical Oncology, Dana Farber Cancer Institute, Boston, MA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Boland</LastName>
+            <ForeName>Genevieve M</ForeName>
+            <Initials>GM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Molecular Biology, Massachusetts General Hospital, Boston, MA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Graham</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Broad Institute of MIT and Harvard, Cambridge, MA, USA; Department of Molecular Biology, Massachusetts General Hospital, Boston, MA, USA; Gastrointestinal Unit and Center for the Study of Inflammatory Bowel Disease, Massachusetts General Hospital, Boston, MA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rozenblatt-Rosen</LastName>
+            <ForeName>Orit</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA. Electronic address: orit@broadinstitute.org.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xavier</LastName>
+            <ForeName>Ramnik J</ForeName>
+            <Initials>RJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Broad Institute of MIT and Harvard, Cambridge, MA, USA; Department of Molecular Biology, Massachusetts General Hospital, Boston, MA, USA; Gastrointestinal Unit and Center for the Study of Inflammatory Bowel Disease, Massachusetts General Hospital, Boston, MA, USA; Center for Computational and Integrative Biology, Massachusetts General Hospital, Boston, MA, USA. Electronic address: xavier@molbio.mgh.harvard.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Regev</LastName>
+            <ForeName>Aviv</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klarman Cell Observatory, Broad Institute of MIT and Harvard, Cambridge, MA, USA; Howard Hughes Medical Institute and Koch Institute for Integrative Cancer Research, Department of Biology, Massachusetts Institute of Technology, Cambridge, MA, USA. Electronic address: aregev@broadinstitute.org.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>P30 DK043351</GrantID>
+            <Acronym>DK</Acronym>
+            <Agency>NIDDK NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>RC2 DK114784</GrantID>
+            <Acronym>DK</Acronym>
+            <Agency>NIDDK NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <Acronym>HHMI</Acronym>
+            <Agency>Howard Hughes Medical Institute</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>K08 CA218420</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 DK117263</GrantID>
+            <Acronym>DK</Acronym>
+            <Agency>NIDDK NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>09</Month>
+          <Day>03</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Cell</MedlineTA>
+        <NlmUniqueID>0413066</NlmUniqueID>
+        <ISSNLinking>0092-8674</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Nat Rev Gastroenterol Hepatol. 2020 Dec;17(12):717-718</RefSource>
+          <PMID Version="1">33087897</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000375" MajorTopicYN="N">Aging</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057906" MajorTopicYN="N">Circadian Clocks</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003106" MajorTopicYN="N">Colon</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018870" MajorTopicYN="N">Endoplasmic Reticulum, Rough</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000648" MajorTopicYN="N">ultrastructure</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017615" MajorTopicYN="N">Enteric Nervous System</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004847" MajorTopicYN="N">Epithelial Cells</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018507" MajorTopicYN="N">Gene Expression Regulation, Developmental</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020022" MajorTopicYN="N">Genetic Predisposition to Disease</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007082" MajorTopicYN="N">Ileum</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007249" MajorTopicYN="N">Inflammation</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007410" MajorTopicYN="N">Intestinal Diseases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008822" MajorTopicYN="N">Mice, Transgenic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D046529" MajorTopicYN="N">Microscopy, Electron, Transmission</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009422" MajorTopicYN="N">Nervous System Diseases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009457" MajorTopicYN="N">Neuroglia</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009562" MajorTopicYN="N">Nissl Bodies</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000648" MajorTopicYN="N">ultrastructure</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000081246" MajorTopicYN="N">RNA-Seq</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012270" MajorTopicYN="N">Ribosomes</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000648" MajorTopicYN="N">ultrastructure</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059010" MajorTopicYN="N">Single-Cell Analysis</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017154" MajorTopicYN="N">Stromal Cells</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">ENS</Keyword>
+        <Keyword MajorTopicYN="Y">GWAS</Keyword>
+        <Keyword MajorTopicYN="Y">aging</Keyword>
+        <Keyword MajorTopicYN="Y">circadian</Keyword>
+        <Keyword MajorTopicYN="Y">colon</Keyword>
+        <Keyword MajorTopicYN="Y">enteric nervous system</Keyword>
+        <Keyword MajorTopicYN="Y">enteric neuron</Keyword>
+        <Keyword MajorTopicYN="Y">ileum</Keyword>
+        <Keyword MajorTopicYN="Y">neuro-immune</Keyword>
+        <Keyword MajorTopicYN="Y">single cell</Keyword>
+      </KeywordList>
+      <CoiStatement>Declaration of Interests A.R. is a co-founder and equity holder of Celsius Therapeutics, equity holder of Immunitas, and, until August, 2020, an SAB member of ThermoFisher Scientific, Syros Pharmaceuticals, Neogene Therapeutics, and Asimov. A.R. is an employee of Genentech Inc. R.J.X. is a co-founder and equity holder of Celsius Therapeutics and Jnana Therapeutics. E.D. is an employee of Bristol-Myers Squibb. E.D., C.S., G.E., O.R.R., R.X., and A.R. are co-inventors on PCT/US2019/055894, which includes the methods of this manuscript.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2020</Year>
+          <Month>6</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>7</Month>
+          <Day>31</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>5</Day>
+          <Hour>12</Hour>
+          <Minute>14</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32888429</ArticleId>
+        <ArticleId IdType="mid">NIHMS1728589</ArticleId>
+        <ArticleId IdType="pmc">PMC8358727</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.cell.2020.08.003</ArticleId>
+        <ArticleId IdType="pii">S0092-8674(20)30994-6</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Assas BM, Pennock JI, and Miyan JA (2014). Calcitonin gene-related peptide is a
+key neurotransmitter in the neuro-immune axis.
+Front. Neurosci. 8,
+23.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3924554</ArticleId>
+            <ArticleId IdType="pubmed">24592205</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Benjamini Y, and Hochberg Y (1995). Controlling the False Discovery
+Rate: A Practical and Powerful Approach to Multiple Testing.
+J. R. Stat. Soc. Series B Stat. Methodol.
+57,
+289–300.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bernard CE, Gibbons SJ, Gomez-Pinilla PJ, Lurken MS, Schmalz PF, Roeder JL, Linden D, Cima RR, Dozois EJ, Larson DW, et al. (2009). Effect of age on the
+enteric nervous system of the human colon.
+Neurogastroenterol. Motil. 21,
+746–e46.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2776702</ArticleId>
+            <ArticleId IdType="pubmed">19220755</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bernstein N, Fong N, Lam I, Roy M, Hendrickson DG, and Kelley DR (2019). Solo: doublet identification via
+semi-supervised deep learning.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Betancur P, Bronner-Fraser M, and Sauka-Spengler T (2010). Genomic code for Sox10 activation
+reveals a key regulatory enhancer for cranial neural crest.
+Proc. Natl. Acad. Sci. U. S. A. 107,
+3570–3575.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2840498</ArticleId>
+            <ArticleId IdType="pubmed">20139305</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boesmans W, Lasrado R, Vanden Berghe P, and Pachnis V (2015). Heterogeneity and phenotypic
+plasticity of glial cells in the mammalian enteric nervous
+system. Glia
+63,
+229–241.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25161129</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bondurand N, and Southard-Smith EM (2016). Mouse models of Hirschsprung disease
+and other developmental disorders of the enteric nervous system: Old and new
+players. Dev. Biol. 417,
+139–157.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5026931</ArticleId>
+            <ArticleId IdType="pubmed">27370713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brookes SJ, Steele PA, and Costa M (1991a). Identification and
+immunohistochemistry of cholinergic and non-cholinergic circular muscle
+motor neurons in the guinea-pig small intestine.
+Neuroscience
+42,
+863–878.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1720229</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brookes SJ, Steele PA, and Costa M (1991b). Calretinin immunoreactivity in
+cholinergic motor neurones, interneurones and vasomotor neurones in the
+guinea-pig small intestine. Cell Tissue
+Res. 263,
+471–481.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1715238</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Butler A, Hoffman P, Smibert P, Papalexi E, and Satija R (2018). Integrating single-cell
+transcriptomic data across different conditions, technologies, and
+species. Nat. Biotechnol.
+36, 411.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6700744</ArticleId>
+            <ArticleId IdType="pubmed">29608179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chaidez V, Hansen RL, and Hertz-Picciotto I (2014). Gastrointestinal problems in
+children with autism, developmental delays or typical
+development. J. Autism Dev. Disord.
+44,
+1117–1127.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3981895</ArticleId>
+            <ArticleId IdType="pubmed">24193577</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chang D, Nalls MA, Hallgrímsdóttir IB, Hunkapiller J, van der Brug M, Cai F, International Parkinson’s Disease Genomics Consortium,
+23andMe Research Team, Kerchner GA, Ayalon G, et al. (2017). A meta-analysis of
+genome-wide association studies identifies 17 new Parkinson’s disease
+risk loci. Nat. Genet. 49,
+1511–1516.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5812477</ArticleId>
+            <ArticleId IdType="pubmed">28892059</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cleary B, Cong L, Cheung A, Lander ES, and Regev A (2017). Efficient Generation of
+Transcriptomic Profiles by Random Composite Measurements.
+Cell
+171,
+1424–1436.e18.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5726792</ArticleId>
+            <ArticleId IdType="pubmed">29153835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Debbache J, Parfejevs V, and Sommer L (2018). Cre-driver lines used for genetic
+fate mapping of neural crest cells in the mouse: An
+overview. Genesis
+56, e23105.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6099459</ArticleId>
+            <ArticleId IdType="pubmed">29673028</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Deczkowska A, and Schwartz M (2018). Targeting neuro-immune communication
+in neurodegeneration: Challenges and opportunities.
+J. Exp. Med. 215,
+2702–2704.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6219738</ArticleId>
+            <ArticleId IdType="pubmed">30301785</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>De Giorgio R, Bianco F, Latorre R, Caio G, Clavenzani P, and Bonora E (2016). Enteric neuropathies: Yesterday,
+Today and Tomorrow. Adv. Exp. Med. Biol.
+891,
+123–133.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27379640</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Drokhlyansky E, Göz Aytürk D, Soh TK, Chrenek R, O’Loughlin E, Madore C, Butovsky O, and Cepko CL (2017). The brain parenchyma has a type I
+interferon response that can limit virus spread.
+Proc. Natl. Acad. Sci. U. S. A. 114,
+E95–E104.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5224383</ArticleId>
+            <ArticleId IdType="pubmed">27980033</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dvorak AM, and Silen W (1985). Differentiation between
+Crohn’s disease and other inflammatory conditions by electron
+microscopy. Ann. Surg.
+201,
+53–63.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1250618</ArticleId>
+            <ArticleId IdType="pubmed">3966828</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ferguson SM, Bazalakova M, Savchenko V, Tapia JC, Wright J, and Blakely RD (2004). Lethal impairment of cholinergic
+neurotransmission in hemicholinium-3-sensitive choline transporter knockout
+mice. Proc. Natl. Acad. Sci. U. S. A.
+101,
+8762–8767.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC423269</ArticleId>
+            <ArticleId IdType="pubmed">15173594</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Finak G, McDavid A, Yajima M, Deng J, Gersuk V, Shalek AK, Slichter CK, Miller HW, McElrath MJ, Prlic M, et al. (2015). MAST: a flexible
+statistical framework for assessing transcriptional changes and
+characterizing heterogeneity in single-cell RNA sequencing
+data. Genome Biol. 16,
+278.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4676162</ArticleId>
+            <ArticleId IdType="pubmed">26653891</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Furness JB (2012). The enteric nervous system and
+neurogastroenterology. Nat. Rev. Gastroenterol.
+Hepatol. 9,
+286–294.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22392290</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Furness JB, Costa M, Rökaeus A, McDonald TJ, and Brooks B (1987). Galanin-immunoreactive neurons in
+the guinea-pig small intestine: their projections and relationships to other
+enteric neurons. Cell Tissue Res.
+250,
+607–615.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2446770</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Furness JB, Jones C, Nurgali K, and Clerc N (2004). Intrinsic primary afferent neurons
+and nerve circuits within the intestine. Prog.
+Neurobiol. 72,
+143–164.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15063530</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garfield AS, Lam DD, Marston OJ, Przydzial MJ, and Heisler LK (2009). Role of central melanocortin
+pathways in energy homeostasis. Trends Endocrinol.
+Metab. 20,
+203–215.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19541496</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gopalakrishnan V, Helmink BA, Spencer CN, Reuben A, and Wargo JA (2018). The Influence of the Gut Microbiome
+on Cancer, Immunity, and Cancer Immunotherapy.
+Cancer Cell
+33,
+570–580.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6529202</ArticleId>
+            <ArticleId IdType="pubmed">29634945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grider JR (1994). Interplay of somatostatin, opioid,
+and GABA neurons in the regulation of the peristaltic
+reflex. Am. J. Physiol. 267,
+G696–G701.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7943334</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grider JR (2003). Neurotransmitters mediating the
+intestinal peristaltic reflex in the mouse. J.
+Pharmacol. Exp. Ther. 307,
+460–467.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12966154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Haber AL, Biton M, Rogel N, Herbst RH, Shekhar K, Smillie C, Burgin G, Delorey TM, Howitt MR, Katz Y, et al. (2017). A single-cell survey of the
+small intestinal epithelium. Nature
+551,
+333–339.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6022292</ArticleId>
+            <ArticleId IdType="pubmed">29144463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Habib N, Li Y, Heidenreich M, Swiech L, Avraham-Davidi I, Trombetta JJ, Hession C, Zhang F, and Regev A (2016). Div-Seq: Single-nucleus RNA-Seq
+reveals dynamics of rare adult newborn neurons.
+Science
+353,
+925–928.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5480621</ArticleId>
+            <ArticleId IdType="pubmed">27471252</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Habib N, Avraham-Davidi I, Basu A, Burks T, Shekhar K, Hofree M, Choudhury SR, Aguet F, Gelfand E, Ardlie K, et al. (2017). Massively parallel
+single-nucleus RNA-seq with DroNc-seq. Nat.
+Methods
+14,
+955–958.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5623139</ArticleId>
+            <ArticleId IdType="pubmed">28846088</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Haramis A-PG, Begthel H, van den Born M, van Es J, Jonkheer S, Offerhaus GJA, and Clevers H (2004). De novo crypt formation and juvenile
+polyposis on BMP inhibition in mouse intestine.
+Science
+303,
+1684–1686.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15017003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Herrero A, Duhart JM, and Ceriani MF (2017). Neuronal and Glial Clocks Underlying
+Structural Remodeling of Pacemaker Neurons in.
+Front. Physiol. 8,
+918.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5694478</ArticleId>
+            <ArticleId IdType="pubmed">29184510</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hodge RD, Bakken TE, Miller JA, Smith KA, Barkan ER, Graybuck LT, Close JL, Long B, Johansen N, Penn O, et al. (2019). Conserved cell types with
+divergent features in human versus mouse cortex.
+Nature
+573,
+61–68.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6919571</ArticleId>
+            <ArticleId IdType="pubmed">31435019</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jarret A, Jackson R, Duizer C, Healy ME, Zhao J, Rone JM, Bielecki P, Sefik E, Roulis M, Rice T, et al. (2020). Enteric Nervous
+System-Derived IL-18 Orchestrates Mucosal Barrier Immunity.
+Cell
+180,
+50–63.e12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7339937</ArticleId>
+            <ArticleId IdType="pubmed">31923399</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Junttila IS (2018). Tuning the Cytokine Responses: An
+Update on Interleukin (IL)-4 and IL-13 Receptor Complexes.
+Front. Immunol. 9,
+888.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6001902</ArticleId>
+            <ArticleId IdType="pubmed">29930549</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Klose CSN, Mahlakõiv T, Moeller JB, Rankin LC, Flamar A-L, Kabata H, Monticelli LA, Moriyama S, Putzel GG, Rakhilin N, et al. (2017). The neuropeptide neuromedin
+U stimulates innate lymphoid cells and type 2 inflammation.
+Nature
+549,
+282–286.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6066372</ArticleId>
+            <ArticleId IdType="pubmed">28869965</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kunze WA, and Furness JB (1999). The enteric nervous system and
+regulation of intestinal motility. Annu. Rev.
+Physiol. 61,
+117–142.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10099684</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Laranjeira C, Sandgren K, Kessaris N, Richardson W, Potocnik A, Vanden Berghe P, and Pachnis V (2011). Glial cells in the mouse enteric
+nervous system can undergo neurogenesis in response to
+injury. J. Clin. Invest.
+121,
+3412–3424.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3163972</ArticleId>
+            <ArticleId IdType="pubmed">21865647</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lasrado R, Boesmans W, Kleinjung J, Pin C, Bell D, Bhaw L, McCallum S, Zong H, Luo L, Clevers H, et al. (2017). Lineage-dependent spatial
+and functional organization of the mammalian enteric nervous
+system. Science
+356,
+722–726.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28522527</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Legay C (2000). Why so many forms of
+acetylcholinesterase? Microsc. Res. Tech.
+49,
+56–72.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10757879</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lesage S, and Brice A (2009). Parkinson’s disease: from
+monogenic forms to genetic susceptibility factors.
+Hum. Mol. Genet. 18,
+R48–R59.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19297401</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Levine JH, Simonds EF, Bendall SC, Davis KL, Amir E-AD, Tadmor MD, Litvin O, Fienberg HG, Jager A, Zunder ER, et al. (2015). Data-Driven Phenotypic
+Dissection of AML Reveals Progenitor-like Cells that Correlate with
+Prognosis. Cell
+162,
+184–197.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4508757</ArticleId>
+            <ArticleId IdType="pubmed">26095251</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lewis AE, Vasudevan HN, O’Neill AK, Soriano P, and Bush JO (2013). The widely used Wnt1-Cre transgene
+causes developmental phenotypes by ectopic activation of Wnt
+signaling. Dev. Biol. 379,
+229–234.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3804302</ArticleId>
+            <ArticleId IdType="pubmed">23648512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li B, and Dewey CN (2011). RSEM: accurate transcript
+quantification from RNA-Seq data with or without a reference
+genome. BMC Bioinformatics
+12, 323.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3163565</ArticleId>
+            <ArticleId IdType="pubmed">21816040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li M, Santpere G, Imamura Kawasawa Y, Evgrafov OV, Gulden FO, Pochareddy S, Sunkin SM, Li Z, Shin Y, Zhu Y, et al. (2018). Integrative functional
+genomic analysis of human brain development and neuropsychiatric
+risks. Science
+362.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6413317</ArticleId>
+            <ArticleId IdType="pubmed">30545854</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Linkert M, Rueden CT, Allan C, Burel J-M, Moore W, Patterson A, Loranger B, Moore J, Neves C, Macdonald D, et al. (2010). Metadata matters: access to
+image data in the real world. J. Cell Biol.
+189,
+777–782.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2878938</ArticleId>
+            <ArticleId IdType="pubmed">20513764</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lopez R, Regier J, Cole MB, Jordan MI, and Yosef N (2018). Deep generative modeling for
+single-cell transcriptomics. Nat. Methods
+15,
+1053–1058.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6289068</ArticleId>
+            <ArticleId IdType="pubmed">30504886</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Matsuoka T, Ahlberg PE, Kessaris N, Iannarelli P, Dennehy U, Richardson WD, McMahon AP, and Koentges G (2005). Neural crest origins of the neck and
+shoulder. Nature
+436,
+347–355.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1352163</ArticleId>
+            <ArticleId IdType="pubmed">16034409</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McGinnis CS, Murrow LM, and Gartner ZJ (2019). DoubletFinder: Doublet Detection in
+Single-Cell RNA Sequencing Data Using Artificial Nearest
+Neighbors. Cell Syst
+8,
+329–337.e4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6853612</ArticleId>
+            <ArticleId IdType="pubmed">30954475</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mo A, Mukamel EA, Davis FP, Luo C, Henry GL, Picard S, Urich MA, Nery JR, Sejnowski TJ, Lister R, et al. (2015). Epigenomic Signatures of
+Neuronal Diversity in the Mammalian Brain.
+Neuron
+86,
+1369–1384.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4499463</ArticleId>
+            <ArticleId IdType="pubmed">26087164</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muller PA, Koscsó B, Rajani GM, Stevanovic K, Berres M-L, Hashimoto D, Mortha A, Leboeuf M, Li X-M, Mucida D, et al. (2014). Crosstalk between
+muscularis macrophages and enteric neurons regulates gastrointestinal
+motility. Cell
+158,
+300–313.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4149228</ArticleId>
+            <ArticleId IdType="pubmed">25036630</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peng Y-R, Shekhar K, Yan W, Herrmann D, Sappington A, Bryman GS, van Zyl T, Do MTH, Regev A, and Sanes JR (2019). Molecular Classification and
+Comparative Taxonomics of Foveal and Peripheral Cells in Primate
+Retina. Cell
+176,
+1222–1237.e22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6424338</ArticleId>
+            <ArticleId IdType="pubmed">30712875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pfeiffer RF (2003). Gastrointestinal dysfunction in
+Parkinson’s disease. Lancet Neurol.
+2,
+107–116.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12849267</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pietzsch T, Preibisch S, Tomancák P, and Saalfeld S (2012). ImgLib2--generic image processing in
+Java. Bioinformatics
+28,
+3009–3011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3496339</ArticleId>
+            <ArticleId IdType="pubmed">22962343</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pla P, and Larue L (2003). Involvement of endothelin receptors
+in normal and pathological development of neural crest
+cells. Int. J. Dev. Biol. 47,
+315–325.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12895026</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prunuske AJ, and Ullman KS (2006). The nuclear envelope: form and
+reformation. Curr. Opin. Cell Biol.
+18,
+108–116.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4339063</ArticleId>
+            <ArticleId IdType="pubmed">16364623</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramilowski JA, Goldberg T, Harshbarger J, Kloppmann E, Lizio M, Satagopam VP, Itoh M, Kawaji H, Carninci P, Rost B, et al. (2015). A draft network of
+ligand-receptor-mediated multicellular signalling in human.
+Nat. Commun. 6,
+7866.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4525178</ArticleId>
+            <ArticleId IdType="pubmed">26198319</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rossi J, Luukko K, Poteryaev D, Laurikainen A, Sun YF, Laakso T, Eerikäinen S, Tuominen R, Lakso M, Rauvala H, et al. (1999). Retarded growth and
+deficits in the enteric and parasympathetic nervous system in mice lacking
+GFR alpha2, a functional neurturin receptor.
+Neuron
+22,
+243–252.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10069331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanders SJ, He X, Willsey AJ, Ercan-Sencicek AG, Samocha KE, Cicek AE, Murtha MT, Bal VH, Bishop SL, Dong S, et al. (2015). Insights into Autism
+Spectrum Disorder Genomic Architecture and Biology from 71 Risk
+Loci. Neuron
+87,
+1215–1233.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4624267</ArticleId>
+            <ArticleId IdType="pubmed">26402605</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sang Q, and Young HM (1996). Chemical coding of neurons in the
+myenteric plexus and external muscle of the small and large intestine of the
+mouse. Cell Tissue Res.
+284,
+39–53.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8601295</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sasselli V, Pachnis V, and Burns AJ (2012). The enteric nervous
+system. Dev. Biol. 366,
+64–73.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22290331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Satoh-Takayama N, Lesjean-Pottier S, Vieira P, Sawa S, Eberl G, Vosshenrich CAJ, and Di Santo JP (2010). IL-7 and IL-15 independently program
+the differentiation of intestinal CD3-NKp46+ cell subsets from Id2-dependent
+precursors. J. Exp. Med.
+207,
+273–280.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2822619</ArticleId>
+            <ArticleId IdType="pubmed">20142427</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scheving LA (2000). Biological clocks and the digestive
+system. Gastroenterology
+119,
+536–549.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10930389</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schindelin J, Arganda-Carreras I, Frise E, Kaynig V, Longair M, Pietzsch T, Preibisch S, Rueden C, Saalfeld S, Schmid B, et al. (2012). Fiji: an open-source
+platform for biological-image analysis. Nat.
+Methods
+9,
+676–682.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3855844</ArticleId>
+            <ArticleId IdType="pubmed">22743772</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schindelin J, Rueden CT, Hiner MC, and Eliceiri KW (2015). The ImageJ ecosystem: An open
+platform for biomedical image analysis. Mol. Reprod.
+Dev. 82,
+518–529.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5428984</ArticleId>
+            <ArticleId IdType="pubmed">26153368</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schneider CA, Rasband WS, and Eliceiri KW (2012). NIH Image to ImageJ: 25 years of
+image analysis. Nat. Methods
+9,
+671–675.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5554542</ArticleId>
+            <ArticleId IdType="pubmed">22930834</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schofield JN, Day IN, Thompson RJ, and Edwards YH (1995). PGP9.5, a ubiquitin C-terminal
+hydrolase; pattern of mRNA and protein expression during neural development
+in the mouse. Brain Res. Dev. Brain Res.
+85,
+229–238.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7600671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schuchardt A, D’Agati V, Pachnis V, and Costantini F (1996). Renal agenesis and hypodysplasia in
+ret-k- mutant mice result from defects in ureteric bud
+development. Development
+122,
+1919–1929.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8674430</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shekhar K, Lapan SW, Whitney IE, Tran NM, Macosko EZ, Kowalczyk M, Adiconis X, Levin JZ, Nemesh J, Goldman M, et al. (2016). Comprehensive
+Classification of Retinal Bipolar Neurons by Single-Cell
+Transcriptomics. Cell
+166,
+1308–1323.e30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5003425</ArticleId>
+            <ArticleId IdType="pubmed">27565351</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smillie CS, Biton M, Ordovas-Montanes J, Sullivan KM, Burgin G, Graham DB, Herbst RH, Rogel N, Slyper M, Waldman J, et al. (2018). Rewiring of the cellular and
+inter-cellular landscape of the human colon during ulcerative
+colitis.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Söllner JF, Leparc G, Hildebrandt T, Klein H, Thomas L, Stupka E, and Simon E (2017). An RNA-Seq atlas of gene expression
+in mouse and rat normal tissues. Sci Data
+4, 170185.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5726313</ArticleId>
+            <ArticleId IdType="pubmed">29231921</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Steinhoff MM, Kodner IJ, and DeSchryver-Kecskemeti K (1988). Axonal degeneration/necrosis: a
+possible ultrastructural marker for Crohn’s disease.
+Mod. Pathol. 1,
+182–187.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3237698</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Szurszewski JH, Ermilov LG, and Miller SM (2002). Prevertebral ganglia and
+intestinofugal afferent neurones. Gut
+51
+Suppl 1,
+i6–i10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1867710</ArticleId>
+            <ArticleId IdType="pubmed">12077055</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Talbot J, Hahn P, Kroehling L, Nguyen H, Li D, and Littman DR (2020). Feeding-dependent VIP neuron-ILC3
+circuit regulates the intestinal barrier.
+Nature
+579,
+575–580.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7135938</ArticleId>
+            <ArticleId IdType="pubmed">32050257</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Traag VA, Waltman L, and van Eck NJ (2019). From Louvain to Leiden: guaranteeing
+well-connected communities. Sci. Rep.
+9, 5233.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6435756</ArticleId>
+            <ArticleId IdType="pubmed">30914743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vatanen T, Kostic AD, d’Hennezel E, Siljander H, Franzosa EA, Yassour M, Kolde R, Vlamakis H, Arthur TD, Hämäläinen A-M, et al. (2016). Variation in Microbiome LPS
+Immunogenicity Contributes to Autoimmunity in Humans.
+Cell
+165, 1551.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27259157</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vento-Tormo R, Efremova M, Botting RA, Turco MY, Vento-Tormo M, Meyer KB, Park J-E, Stephenson E, Polański K, Goncalves A, et al. (2018). Single-cell reconstruction
+of the early maternal-fetal interface in humans.
+Nature
+563,
+347–353.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30429548</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wallrapp A, Riesenfeld SJ, Burkett PR, Abdulnour R-EE, Nyman J, Dionne D, Hofree M, Cuoco MS, Rodman C, Farouq D, et al. (2017). The neuropeptide NMU
+amplifies ILC2-driven allergic lung inflammation.
+Nature
+549,
+351–356.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5746044</ArticleId>
+            <ArticleId IdType="pubmed">28902842</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wiese CB, Fleming N, Buehler DP, and Southard-Smith EM (2013). A Uchl1-Histone2BmCherry:GFP-gpi BAC
+transgene for imaging neuronal progenitors.
+Genesis
+51,
+852–861.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3953494</ArticleId>
+            <ArticleId IdType="pubmed">24123561</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wolock SL, Lopez R, and Klein AM (2019). Scrublet: Computational
+Identification of Cell Doublets in Single-Cell Transcriptomic
+Data. Cell Syst
+8,
+281–291.e9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6625319</ArticleId>
+            <ArticleId IdType="pubmed">30954476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu H, Ding J, Porter CBM, Wallrapp A, Tabaka M, Ma S, Fu S, Guo X, Riesenfeld SJ, Su C, et al. (2019). Transcriptional Atlas of
+Intestinal Immune Cells Reveals that Neuropeptide α-CGRP Modulates
+Group 2 Innate Lymphoid Cell Responses.
+Immunity
+51,
+696–708.e9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6991097</ArticleId>
+            <ArticleId IdType="pubmed">31618654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yan J, Wang H, Liu Y, and Shao C (2008). Analysis of gene regulatory networks
+in the mammalian circadian rhythm. PLoS Comput.
+Biol. 4, e1000193.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2543109</ArticleId>
+            <ArticleId IdType="pubmed">18846204</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoo BB, and Mazmanian SK (2017). The Enteric Network: Interactions
+between the Immune and Nervous Systems of the Gut.
+Immunity
+46,
+910–926.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5551410</ArticleId>
+            <ArticleId IdType="pubmed">28636959</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Young HM, Furness JB, and Povey JM (1995). Analysis of connections between
+nitric oxide synthase neurons in the myenteric plexus of the guinea-pig
+small intestine. J. Neurocytol.
+24,
+257–263.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7543936</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu Y-B, Zuo X-L, Zhao Q-J, Chen F-X, Yang J, Dong Y-Y, Wang P, and Li Y-Q (2012). Brain-derived neurotrophic factor
+contributes to abdominal pain in irritable bowel syndrome.
+Gut
+61,
+685–694.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21997550</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zeisel A, Hochgerner H, Lönnerberg P, Johnsson A, Memic F, van der Zwan J, Häring M, Braun E, Borm LE, La Manno G, et al. (2018). Molecular Architecture of
+the Mouse Nervous System. Cell
+174,
+999–1014.e22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6086934</ArticleId>
+            <ArticleId IdType="pubmed">30096314</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

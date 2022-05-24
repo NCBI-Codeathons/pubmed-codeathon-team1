@@ -1,0 +1,812 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35504863</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Print">2157-9024</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>11</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>03</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Oncogenesis</Title>
+          <ISOAbbreviation>Oncogenesis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Cytoglobin attenuates pancreatic cancer growth via scavenging reactive oxygen species.</ArticleTitle>
+        <Pagination>
+          <StartPage>23</StartPage>
+          <MedlinePgn>23</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">23</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41389-022-00389-4</ELocationID>
+        <Abstract>
+          <AbstractText>Pancreatic cancer is a highly challenging malignancy with extremely poor prognosis. Cytoglobin (CYGB), a hemeprotein involved in liver fibrosis and cancer development, is expressed in pericytes of all organs. Here, we examined the role of CYGB in the development of pancreatic cancer. CYGB expression appeared predominately in the area surrounding adenocarcinoma and negatively correlated with tumor size in patients with pancreatic cancer. Directly injecting 7, 12-dimethylbenz[a]anthracene into the pancreatic tail in wild-type mice resulted in time-dependent induction of severe pancreatitis, fibrosis, and oxidative damage, which was rescued by Cygb overexpression in transgenic mice. Pancreatic cancer incidence was 93% in wild-type mice but only 55% in transgenic mice. Enhanced CYGB expression in human pancreatic stellate cells in vitro reduced cellular collagen synthesis, inhibited cell activation, increased expression of antioxidant-related genes, and increased CYGB secretion into the medium. Cygb-overexpressing or recombinant human CYGB (rhCYGB) -treated MIA PaCa-2 cancer cells exhibited dose-dependent cell cycle arrest at the G1 phase, diminished cell migration, and reduction in colony formation. RNA sequencing in rhCYGB-treated MIA PaCa-2 cells revealed downregulation of cell cycle and oxidative phosphorylation pathways. An increase in MIA PaCa-2 cell proliferation and reactive oxygen species production by H<sub>2</sub>O<sub>2</sub> challenge was blocked by rhCYGB treatment or Cygb overexpression. PANC-1, OCUP-A2, and BxPC-3 cancer cells showed similar responses to rhCYGB. Known antioxidants N-acetyl cysteine and glutathione also inhibited cancer cell growth. These results demonstrate that CYGB suppresses pancreatic stellate cell activation, pancreatic fibrosis, and tumor growth, suggesting its potential therapeutic application against pancreatic cancer.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Hoang</LastName>
+            <ForeName>Dinh Viet</ForeName>
+            <Initials>DV</Initials>
+            <Identifier Source="ORCID">0000-0001-7844-3192</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatology, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Departmet of Anesthesiology, Cho Ray Hospital, Ho Chi Minh City, Vietnam.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Thuy</LastName>
+            <ForeName>Le Thi Thanh</ForeName>
+            <Initials>LTT</Initials>
+            <Identifier Source="ORCID">0000-0003-4460-735X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatology, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hai</LastName>
+            <ForeName>Hoang</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatology, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hieu</LastName>
+            <ForeName>Vu Ngoc</ForeName>
+            <Initials>VN</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatology, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kimura</LastName>
+            <ForeName>Kenjiro</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepato-Biliary-Pancreatic Surgery, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Oikawa</LastName>
+            <ForeName>Daisuke</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathobiochemistry, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ikura</LastName>
+            <ForeName>Yoshihiro</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">0000-0001-8599-2245</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, Takatsuki General Hospital, Takatsuki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dat</LastName>
+            <ForeName>Ninh Quoc</ForeName>
+            <Initials>NQ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, Hanoi Medical University, Hanoi, Vietnam.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hoang</LastName>
+            <ForeName>Truong Huu</ForeName>
+            <Initials>TH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatology, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pain Medicine and Palliative Care, Cancer Institute, 108 Military Central Hospital, Hanoi, Vietnam.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sato-Matsubara</LastName>
+            <ForeName>Misako</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatology, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dong</LastName>
+            <ForeName>Minh Phuong</ForeName>
+            <Initials>MP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatology, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hanh</LastName>
+            <ForeName>Ngo Vinh</ForeName>
+            <Initials>NV</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatology, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Uchida-Kobayashi</LastName>
+            <ForeName>Sawako</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatology, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tokunaga</LastName>
+            <ForeName>Fuminori</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathobiochemistry, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kubo</LastName>
+            <ForeName>Shoji</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepato-Biliary-Pancreatic Surgery, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ohtani</LastName>
+            <ForeName>Naoko</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathophysiology, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yoshizato</LastName>
+            <ForeName>Katsutoshi</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Donated Laboratory for Synthetic Biology, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kawada</LastName>
+            <ForeName>Norifumi</ForeName>
+            <Initials>N</Initials>
+            <Identifier Source="ORCID">0000-0002-6392-8311</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatology, Graduate School of Medicine, Osaka Metropolitan University, Osaka, Japan. kawadanori@omu.ac.jp.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>03</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Oncogenesis</MedlineTA>
+        <NlmUniqueID>101580004</NlmUniqueID>
+        <ISSNLinking>2157-9024</ISSNLinking>
+      </MedlineJournalInfo>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>7</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>3</Day>
+          <Hour>23</Hour>
+          <Minute>13</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35504863</ArticleId>
+        <ArticleId IdType="pmc">PMC9065067</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41389-022-00389-4</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41389-022-00389-4</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Ryan DP, Hong TS, Bardeesy N. Pancreatic adenocarcinoma. New Engl J Med. 2014;371:1039–49. doi: 10.1056/NEJMra1404198.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMra1404198</ArticleId>
+            <ArticleId IdType="pubmed">25207767</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Siegel RL, Miller KD, Jemal A. Cancer Statistics, 2017. CA Cancer J Clin. 2017;67:7–30. doi: 10.3322/caac.21387.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3322/caac.21387</ArticleId>
+            <ArticleId IdType="pubmed">28055103</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Satoi S, Yamamoto T, Matsui Y. Conversion surgery in patients with initially unresectable pancreatic ductal adenocarcinoma: where do we stand in 2018? J Pancreatol. 2018;1:25–9. doi: 10.1097/JP9.0000000000000001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/JP9.0000000000000001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Okusaka T, Nakamura M, Yoshida M, Kitano M, Uesaka K, Ito Y, et al.  Clinical Practice Guidelines for Pancreatic Cancer 2019 From the Japan Pancreas Society: a synopsis. Pancreas. 2020;49:326–35. doi: 10.1097/MPA.0000000000001513.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/MPA.0000000000001513</ArticleId>
+            <ArticleId IdType="pmc">PMC7077959</ArticleId>
+            <ArticleId IdType="pubmed">32132516</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Valkenburg KC, de Groot AE, Pienta KJ. Targeting the tumour stroma to improve cancer therapy. Nat Rev Clin Oncol. 2018;15:366–81. doi: 10.1038/s41571-018-0007-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41571-018-0007-1</ArticleId>
+            <ArticleId IdType="pmc">PMC5960434</ArticleId>
+            <ArticleId IdType="pubmed">29651130</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hosein AN, Huang H, Wang Z, Parmar K, Du W, Huang J, et al. Cellular heterogeneity during mouse pancreatic ductal adenocarcinoma progression at single-cell resolution. JCI Insight. 2019;4:e129212.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Watari N, Hotta Y, Mabuchi Y. Morphological studies on a vitamin A-storing cell and its complex with macrophage observed in mouse pancreatic tissues following excess vitamin A administration. Okajimas Folia Anat Jpn. 1982;58:837–58. doi: 10.2535/ofaj1936.58.4-6_837.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2535/ofaj1936.58.4-6_837</ArticleId>
+            <ArticleId IdType="pubmed">7122019</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Apte MV, Pirola RC, Wilson JS. Pancreatic stellate cells: a starring role in normal and diseased pancreas. Front Physiol. 2012;3:344. doi: 10.3389/fphys.2012.00344.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fphys.2012.00344</ArticleId>
+            <ArticleId IdType="pmc">PMC3428781</ArticleId>
+            <ArticleId IdType="pubmed">22973234</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xie D, Xie K. Pancreatic cancer stromal biology and therapy. Genes Dis. 2015;2:133–43. doi: 10.1016/j.gendis.2015.01.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.gendis.2015.01.002</ArticleId>
+            <ArticleId IdType="pmc">PMC4476547</ArticleId>
+            <ArticleId IdType="pubmed">26114155</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chronopoulos A, Robinson B, Sarper M, Cortes E, Auernheimer V, Lachowski D, et al.  ATRA mechanically reprograms pancreatic stellate cells to suppress matrix remodelling and inhibit cancer cell invasion. Nat Commun. 2016;7:12630. doi: 10.1038/ncomms12630.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms12630</ArticleId>
+            <ArticleId IdType="pmc">PMC5023948</ArticleId>
+            <ArticleId IdType="pubmed">27600527</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen ML, Pittet MJ, Gorelik L, Flavell RA, Weissleder R, von Boehmer H, et al.  Regulatory T cells suppress tumor-specific CD8 T cell cytotoxicity through TGF-beta signals in vivo. Proc Natl Acad Sci USA. 2005;102:419–24. doi: 10.1073/pnas.0408197102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0408197102</ArticleId>
+            <ArticleId IdType="pmc">PMC544311</ArticleId>
+            <ArticleId IdType="pubmed">15623559</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Richards KE, Zeleniak AE, Fishel ML, Wu J, Littlepage LE, Hill R. Cancer-associated fibroblast exosomes regulate survival and proliferation of pancreatic cancer cells. Oncogene. 2017;36:1770–8. doi: 10.1038/onc.2016.353.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/onc.2016.353</ArticleId>
+            <ArticleId IdType="pmc">PMC5366272</ArticleId>
+            <ArticleId IdType="pubmed">27669441</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fu Y, Liu S, Zeng S, and Shen H. The critical roles of activated stellate cells-mediated paracrine signaling, metabolism and onco-immunology in pancreatic ductal adenocarcinoma. Mol Cancer. 2018;17:62.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Li C, Cui L, Yang L, Wang B, Zhuo Y, Zhang L, et al.  Pancreatic stellate cells promote tumor progression by promoting an immunosuppressive microenvironment in murine models of pancreatic cancer. Pancreas. 2020;49:120–7. doi: 10.1097/MPA.0000000000001464.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/MPA.0000000000001464</ArticleId>
+            <ArticleId IdType="pubmed">31856087</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liou GY, Döppler H, DelGiorno KE, Zhang L, Leitges M, Crawford HC, et al.  Mutant KRas-induced mitochondrial oxidative stress in acinar cells upregulates EGFR signaling to drive formation of pancreatic precancerous lesions. Cell Rep. 2016;14:2325–36. doi: 10.1016/j.celrep.2016.02.029.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2016.02.029</ArticleId>
+            <ArticleId IdType="pmc">PMC4794374</ArticleId>
+            <ArticleId IdType="pubmed">26947075</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kodydkova J, Vavrova L, Stankova B, Macasek J, Krechler T, Zak A. Antioxidant status and oxidative stress markers in pancreatic cancer and chronic pancreatitis. Pancreas. 2013;42:614–21. doi: 10.1097/MPA.0b013e318288360a.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/MPA.0b013e318288360a</ArticleId>
+            <ArticleId IdType="pubmed">23558240</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Durand N, Storz P. Targeting reactive oxygen species in development and progression of pancreatic cancer. Expert Rev Anticancer Ther. 2017;17:19–31. doi: 10.1080/14737140.2017.1261017.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/14737140.2017.1261017</ArticleId>
+            <ArticleId IdType="pmc">PMC5518736</ArticleId>
+            <ArticleId IdType="pubmed">27841037</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoeijmakers JH. DNA damage, aging, and cancer. New Engl J Med. 2009;361:1475–85.. doi: 10.1056/NEJMra0804615.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMra0804615</ArticleId>
+            <ArticleId IdType="pubmed">19812404</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Laurent A, Nicco C, Chéreau C, Goulvestre C, Alexandre J, Alves A, et al.  Controlling tumor growth by modulating endogenous production of reactive oxygen species. Cancer Res. 2005;65:948–56.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15705895</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schumacker PT. Reactive oxygen species in cancer cells: live by the sword, die by the sword. Cancer Cell. 2006;10:175–6. doi: 10.1016/j.ccr.2006.08.015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ccr.2006.08.015</ArticleId>
+            <ArticleId IdType="pubmed">16959608</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Storz P. Reactive oxygen species in tumor progression. Front Biosci. 2005;10:1881–96. doi: 10.2741/1667.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2741/1667</ArticleId>
+            <ArticleId IdType="pubmed">15769673</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Matsumura N, Ochi K, Ichimura M, Mizushima T, Harada H, Harada M. Study on free radicals and pancreatic fibrosis-pancreatic fibrosis induced by repeated injections of superoxide dismutase inhibitor. Pancreas. 2001;22:53–7. doi: 10.1097/00006676-200101000-00009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/00006676-200101000-00009</ArticleId>
+            <ArticleId IdType="pubmed">11138971</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Asaumi H, Watanabe S, Taguchi M, Tashiro M, Otsuki M. Externally applied pressure activates pancreatic stellate cells through the generation of intracellular reactive oxygen species. Am J Physiol Gastrointest Liver Physiol. 2007;293:G972–8. doi: 10.1152/ajpgi.00018.2007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpgi.00018.2007</ArticleId>
+            <ArticleId IdType="pubmed">17761838</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ryu GR, Lee E, Chun HJ, Yoon KH, Ko SH, Ahn YB, et al.  Oxidative stress plays a role in high glucose-induced activation of pancreatic stellate cells. Biochem Biophys Res Commun. 2013;439:258–63. doi: 10.1016/j.bbrc.2013.08.046.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbrc.2013.08.046</ArticleId>
+            <ArticleId IdType="pubmed">23973482</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martinez-Useros J, Li W, Cabeza-Morales M, &amp; Garcia-Foncillas J. Oxidative stress: a new target for pancreatic cancer prognosis and treatment. J Clin Med. 2017;6:29.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Masamune A, Watanabe T, Kikuta K, Satoh K, Shimosegawa T. NADPH oxidase plays a crucial role in the activation of pancreatic stellate cells. Am J Physiol Gastrointest Liver Physiol. 2008;294:G99–g108. doi: 10.1152/ajpgi.00272.2007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpgi.00272.2007</ArticleId>
+            <ArticleId IdType="pubmed">17962358</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Apte MV, Phillips PA, Fahmy RG, Darby SJ, Rodgers SC, McCaughan GW, et al.  Does alcohol directly stimulate pancreatic fibrogenesis? Studies with rat pancreatic stellate cells. Gastroenterology. 2000;118:780–94. doi: 10.1016/S0016-5085(00)70148-X.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0016-5085(00)70148-X</ArticleId>
+            <ArticleId IdType="pubmed">10734030</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lei J, Huo X, Duan W, Xu Q, Li R, Ma J, et al.  α-Mangostin inhibits hypoxia-driven ROS-induced PSC activation and pancreatic cancer cell invasion. Cancer Lett. 2014;347:129–38. doi: 10.1016/j.canlet.2014.02.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.canlet.2014.02.003</ArticleId>
+            <ArticleId IdType="pmc">PMC4005872</ArticleId>
+            <ArticleId IdType="pubmed">24513179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bimonte S, Barbieri A, Palma G, Luciano A, Rea D, Arra C. Curcumin inhibits tumor growth and angiogenesis in an orthotopic mouse model of human pancreatic cancer. Biomed Res Int. 2013;2013:810423.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3842048</ArticleId>
+            <ArticleId IdType="pubmed">24324975</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hussein D, Mo H. d-δ-Tocotrienol-mediated suppression of the proliferation of human PANC-1, MIA PaCa-2, and BxPC-3 pancreatic carcinoma cells. Pancreas. 2009;38:e124–36. doi: 10.1097/MPA.0b013e3181a20f9c.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/MPA.0b013e3181a20f9c</ArticleId>
+            <ArticleId IdType="pubmed">19346993</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang C, Husain K, Zhang A, Centeno BA, Chen DT, Tong Z, et al.  EGR-1/Bax pathway plays a role in vitamin E δ-tocotrienol-induced apoptosis in pancreatic cancer cells. J Nutr Biochem. 2015;26:797–807. doi: 10.1016/j.jnutbio.2015.02.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jnutbio.2015.02.008</ArticleId>
+            <ArticleId IdType="pmc">PMC4576995</ArticleId>
+            <ArticleId IdType="pubmed">25997867</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Husain K, Centeno BA, Chen DT, Fulp WJ, Perez M, Zhang Lee G, et al.  Prolonged survival and delayed progression of pancreatic intraepithelial neoplasia in LSL-KrasG12D/+;Pdx-1-Cre mice by vitamin E δ-tocotrienol. Carcinogenesis. 2013;34:858–63. doi: 10.1093/carcin/bgt002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/carcin/bgt002</ArticleId>
+            <ArticleId IdType="pmc">PMC3616675</ArticleId>
+            <ArticleId IdType="pubmed">23302291</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sawai H, Kawada N, Yoshizato K, Nakajima H, Aono S, Shiro Y. Characterization of the heme environmental structure of cytoglobin, a fourth globin in humans. Biochemistry. 2003;42:5133–42. doi: 10.1021/bi027067e.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/bi027067e</ArticleId>
+            <ArticleId IdType="pubmed">12718557</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nakatani K, Okuyama H, Shimahara Y, Saeki S, Kim DH, Nakajima Y, et al.  Cytoglobin/STAP, its unique localization in splanchnic fibroblast-like cells and function in organ fibrogenesis. Lab Investig. 2004;84:91–101. doi: 10.1038/labinvest.3700013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/labinvest.3700013</ArticleId>
+            <ArticleId IdType="pubmed">14647402</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thuy le TT, Van Thuy TT, Matsumoto Y, Hai H, Ikura Y, Yoshizato K, et al.  Absence of cytoglobin promotes multiple organ abnormalities in aged mice. Sci Rep. 2016;6:24990. doi: 10.1038/srep24990.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/srep24990</ArticleId>
+            <ArticleId IdType="pmc">PMC4857093</ArticleId>
+            <ArticleId IdType="pubmed">27146058</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kawada N, Kristensen DB, Asahina K, Nakatani K, Minamiyama Y, Seki S, et al.  Characterization of a stellate cell activation-associated protein (STAP) with peroxidase activity found in rat hepatic stellate cells. J Biol Chem. 2001;276:25318–23. doi: 10.1074/jbc.M102630200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M102630200</ArticleId>
+            <ArticleId IdType="pubmed">11320098</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thuy le TT, Matsumoto Y, Thuy TTV, Hai H, Suoh M, Urahara Y, et al.  Cytoglobin deficiency promotes liver cancer development from hepatosteatosis through activation of the oxidative stress pathway. Am J Pathol. 2015;185:1045–1060. doi: 10.1016/j.ajpath.2014.12.017.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ajpath.2014.12.017</ArticleId>
+            <ArticleId IdType="pubmed">25665792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Motoyama H, Komiya T, Thuy le TT, Tamori A, Enomoto M, Morikawa H, et al.  Cytoglobin is expressed in hepatic stellate cells, but not in myofibroblasts, in normal and fibrotic human liver. Lab Invest. 2014;94:192–207. doi: 10.1038/labinvest.2013.135.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/labinvest.2013.135</ArticleId>
+            <ArticleId IdType="pubmed">24296877</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Casini A, Galli A, Pignalosa P, Frulloni L, Grappone C, Milani S, et al.  Collagen type I synthesized by pancreatic periacinar stellate cells (PSC) co-localizes with lipid peroxidation-derived aldehydes in chronic alcoholic pancreatitis. J Pathol. 2000;192:81–9. doi: 10.1002/1096-9896(2000)9999:9999&lt;::AID-PATH675&gt;3.0.CO;2-N.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/1096-9896(2000)9999:9999&lt;::AID-PATH675&gt;3.0.CO;2-N</ArticleId>
+            <ArticleId IdType="pubmed">10951404</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kusiak AA, Szopa MD, Jakubowska MA, Ferdek PE. Signaling in the physiology and pathophysiology of pancreatic stellate cells - a brief review of recent advances. Front Physiol. 2020;11:78. doi: 10.3389/fphys.2020.00078.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fphys.2020.00078</ArticleId>
+            <ArticleId IdType="pmc">PMC7033654</ArticleId>
+            <ArticleId IdType="pubmed">32116785</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Österreicher CH, Penz-Österreicher M, Grivennikov SI, Guma M, Koltsova EK, Datz C, et al.  Fibroblast-specific protein 1 identifies an inflammatory subpopulation of macrophages in the liver. Proc Natl Acad Sci USA. 2011;108:308–13. doi: 10.1073/pnas.1017547108.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1017547108</ArticleId>
+            <ArticleId IdType="pmc">PMC3017162</ArticleId>
+            <ArticleId IdType="pubmed">21173249</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Evans A &amp; Costello E. The role of inflammatory cells in fostering pancreatic cancer cell growth and invasion. Front Physiol. 2012;3:270.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Romero JM, Grünwald B, Jang GH, Bavi PP, Jhaveri A, Masoomian M, et al.  A four-chemokine signature is associated with a T-cell-inflamed phenotype in primary and metastatic pancreatic cancer. Clin Cancer Res. 2020;26:1997–2010. doi: 10.1158/1078-0432.CCR-19-2803.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1078-0432.CCR-19-2803</ArticleId>
+            <ArticleId IdType="pubmed">31964786</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xue J, Sharma V, Hsieh MH, Chawla A, Murali R, Pandol SJ, et al.  Alternatively activated macrophages promote pancreatic fibrosis in chronic pancreatitis. Nat Commun. 2015;6:7158. doi: 10.1038/ncomms8158.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms8158</ArticleId>
+            <ArticleId IdType="pmc">PMC4632846</ArticleId>
+            <ArticleId IdType="pubmed">25981357</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Öhlund D, Handly-Santana A, Biffi G, Elyada E, Almeida AS, Ponz-Sarvise M, et al.  Distinct populations of inflammatory fibroblasts and myofibroblasts in pancreatic cancer. J Exp Med. 2017;214:579–96. doi: 10.1084/jem.20162024.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1084/jem.20162024</ArticleId>
+            <ArticleId IdType="pmc">PMC5339682</ArticleId>
+            <ArticleId IdType="pubmed">28232471</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Batcioglu K, Uyumlu AB, Satilmis B, Yildirim B, Yucel N, Demirtas H, et al.  Oxidative stress in the in vivo DMBA rat model of breast cancer: suppression by a voltage-gated sodium channel inhibitor (RS100642) Basic Clin Pharmacol Toxicol. 2012;111:137–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22429688</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ozdemir I, Selamoglu Talas Z, Gul M, Ates B, Gok Y, Esrefoglu M, et al.  Inhibition of DMBA induced rat mammary duct damage by novel synthetic organoselenium compounds. Exp Anim. 2006;55:449–55. doi: 10.1538/expanim.55.449.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1538/expanim.55.449</ArticleId>
+            <ArticleId IdType="pubmed">17090961</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dat NQ, Thuy LTT, Hieu VN, Hai H, Hoang DV, Thi Thanh Hai N. et al. Hexa histidine-tagged recombinant human cytoglobin deactivates hepatic stellate cells and inhibits liver fibrosis by scavenging reactive oxygen species. Hepatology. 2021;73:2527–45. doi: 10.1002/hep.31752.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hep.31752</ArticleId>
+            <ArticleId IdType="pmc">PMC8251927</ArticleId>
+            <ArticleId IdType="pubmed">33576020</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sato-Matsubara M, Matsubara T, Daikoku A, Okina Y, Longato L, Rombouts K, et al.  Fibroblast growth factor 2 (FGF2) regulates cytoglobin expression and activation of human hepatic stellate cells via JNK signaling. J Biol Chem. 2017;292:18961–72. doi: 10.1074/jbc.M117.793794.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M117.793794</ArticleId>
+            <ArticleId IdType="pmc">PMC5706471</ArticleId>
+            <ArticleId IdType="pubmed">28916723</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Apte MV, Park S, Phillips PA, Santucci N, Goldstein D, Kumar RK, et al.  Desmoplastic reaction in pancreatic cancer: role of pancreatic stellate cells. Pancreas. 2004;29:179–87. doi: 10.1097/00006676-200410000-00002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/00006676-200410000-00002</ArticleId>
+            <ArticleId IdType="pubmed">15367883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bachem MG, Schünemann M, Ramadani M, Siech M, Beger H, Buck A, et al.  Pancreatic carcinoma cells induce fibrosis by stimulating proliferation and matrix synthesis of stellate cells. Gastroenterology. 2005;128:907–21.. doi: 10.1053/j.gastro.2004.12.036.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1053/j.gastro.2004.12.036</ArticleId>
+            <ArticleId IdType="pubmed">15825074</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Erkan M, Reiser-Erkan C, Michalski CW, Deucker S, Sauliunaite D, Streit S, et al.  Cancer-stellate cell interactions perpetuate the hypoxia-fibrosis cycle in pancreatic ductal adenocarcinoma. Neoplasia. 2009;11:497–508. doi: 10.1593/neo.81618.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1593/neo.81618</ArticleId>
+            <ArticleId IdType="pmc">PMC2671860</ArticleId>
+            <ArticleId IdType="pubmed">19412434</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hwang RF, Moore T, Arumugam T, Ramachandran V, Amos KD, Rivera A, et al.  Cancer-associated stromal fibroblasts promote pancreatic tumor progression. Cancer Res. 2008;68:918–26. doi: 10.1158/0008-5472.CAN-07-5714.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-07-5714</ArticleId>
+            <ArticleId IdType="pmc">PMC2519173</ArticleId>
+            <ArticleId IdType="pubmed">18245495</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McRonald FE, Liloglou T, Xinarianos G, Hill L, Rowbottom L, Langan JE, et al.  Down-regulation of the cytoglobin gene, located on 17q25, in tylosis with oesophageal cancer (TOC): evidence for trans-allele repression. Hum Mol Genet. 2006;15:1271–7. doi: 10.1093/hmg/ddl042.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/hmg/ddl042</ArticleId>
+            <ArticleId IdType="pubmed">16510494</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xinarianos G, McRonald FE, Risk JM, Bowers NL, Nikolaidis G, Field JK, et al.  Frequent genetic and epigenetic abnormalities contribute to the deregulation of cytoglobin in non-small cell lung cancer. Hum Mol Genet. 2006;15:2038–44. doi: 10.1093/hmg/ddl128.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/hmg/ddl128</ArticleId>
+            <ArticleId IdType="pubmed">16698880</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaw RJ, Omar MM, Rokadiya S, Kogera FA, Lowe D, Hall GL, et al.  Cytoglobin is upregulated by tumour hypoxia and silenced by promoter hypermethylation in head and neck cancer. Br J Cancer. 2009;101:139–44. doi: 10.1038/sj.bjc.6605121.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/sj.bjc.6605121</ArticleId>
+            <ArticleId IdType="pmc">PMC2713706</ArticleId>
+            <ArticleId IdType="pubmed">19568272</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Presneau N, Dewar K, Forgetta V, Provencher D, Mes-Masson AM, Tonin PN. Loss of heterozygosity and transcriptome analyses of a 1.2 Mb candidate ovarian cancer tumor suppressor locus region at 17q25.1-q25.2. Mol Carcinog. 2005;43:141–54. doi: 10.1002/mc.20096.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/mc.20096</ArticleId>
+            <ArticleId IdType="pubmed">15937959</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chua PJ, Yip GW, Bay BH. Cell cycle arrest induced by hydrogen peroxide is associated with modulation of oxidative stress related genes in breast cancer cells. Exp Biol Med (Maywood) 2009;234:1086–94. doi: 10.3181/0903-RM-98.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3181/0903-RM-98</ArticleId>
+            <ArticleId IdType="pubmed">19596828</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wojnarowicz PM, Provencher DM, Mes-Masson AM, Tonin PN. Chromosome 17q25 genes, RHBDF2 and CYGB, in ovarian cancer. Int J Oncol. 2012;40:1865–80.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22344671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen H, Zhao X, Meng T. Expression and biological role of cytoglobin in human ovarian cancer. Tumour Biol. 2014;35:6933–9. doi: 10.1007/s13277-014-1941-x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13277-014-1941-x</ArticleId>
+            <ArticleId IdType="pubmed">24737588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hubers AJ, Heideman DA, Burgers SA, Herder GJ, Sterk PJ, Rhodius RJ, et al.  DNA hypermethylation analysis in sputum for the diagnosis of lung cancer: training validation set approach. Br J Cancer. 2015;112:1105–13. doi: 10.1038/bjc.2014.636.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/bjc.2014.636</ArticleId>
+            <ArticleId IdType="pmc">PMC4366885</ArticleId>
+            <ArticleId IdType="pubmed">25719833</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Latina A, Viticchie G, Lena AM, Piro MC, Annicchiarico-Petruzzelli M, Melino G, et al. ΔNp63 targets cytoglobin to inhibit oxidative stress-induced apoptosis in keratinocytes and lung cancer. Oncogene. 2016;35:1493–503.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xu HW, Huang YJ, Xie ZY, Lin L, Guo YC, Zhuang ZR, et al.  The expression of cytoglobin as a prognostic factor in gliomas: a retrospective analysis of 88 patients. BMC Cancer. 2013;13:247. doi: 10.1186/1471-2407-13-247.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2407-13-247</ArticleId>
+            <ArticleId IdType="pmc">PMC3663650</ArticleId>
+            <ArticleId IdType="pubmed">23688241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thuy le TT, Morita T, Yoshida K, Wakasa K, Iizuka M, Ogawa T, et al.  Promotion of liver and lung tumorigenesis in DEN-treated cytoglobin-deficient mice. Am J Pathol. 2011;179:1050–60. doi: 10.1016/j.ajpath.2011.05.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ajpath.2011.05.006</ArticleId>
+            <ArticleId IdType="pmc">PMC3157247</ArticleId>
+            <ArticleId IdType="pubmed">21684245</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu Z, Vonlaufen A, Phillips PA, Fiala-Beer E, Zhang X, Yang L, et al.  Role of pancreatic stellate cells in pancreatic cancer metastasis. Am J Pathol. 2010;177:2585–96. doi: 10.2353/ajpath.2010.090899.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2353/ajpath.2010.090899</ArticleId>
+            <ArticleId IdType="pmc">PMC2966814</ArticleId>
+            <ArticleId IdType="pubmed">20934972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thomas D, Radhakrishnan P. Pancreatic stellate cells: the key orchestrator of the pancreatic tumor microenvironment. Adv Exp Med Biol. 2020;1234:57–70. doi: 10.1007/978-3-030-37184-5_5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-3-030-37184-5_5</ArticleId>
+            <ArticleId IdType="pubmed">32040855</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thomas D, Radhakrishnan P. Tumor-stromal crosstalk in pancreatic cancer and tissue fibrosis. Mol Cancer. 2019;18:14. doi: 10.1186/s12943-018-0927-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12943-018-0927-5</ArticleId>
+            <ArticleId IdType="pmc">PMC6341551</ArticleId>
+            <ArticleId IdType="pubmed">30665410</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Randi EB, Vervaet B, Tsachaki M, Porto E, Vermeylen S, Lindenmeyer MT, et al.  The antioxidative role of cytoglobin in podocytes: implications for a role in chronic kidney disease. Antioxid Redox Signal. 2020;32:1155–71. doi: 10.1089/ars.2019.7868.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/ars.2019.7868</ArticleId>
+            <ArticleId IdType="pubmed">31910047</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang J, Pei Y, Yang W, Yang W, Chen B, Zhao X, et al.  Cytoglobin ameliorates the stemness of hepatocellular carcinoma via coupling oxidative-nitrosative stress signals. Mol Carcinog. 2019;58:334–43. doi: 10.1002/mc.22931.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/mc.22931</ArticleId>
+            <ArticleId IdType="pubmed">30365183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wen J, Wu Y, Wei W, Li Z, Wang P, Zhu S, et al.  Protective effects of recombinant human cytoglobin against chronic alcohol-induced liver disease in vivo and in vitro. Sci Rep. 2017;7:41647. doi: 10.1038/srep41647.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/srep41647</ArticleId>
+            <ArticleId IdType="pmc">PMC5269723</ArticleId>
+            <ArticleId IdType="pubmed">28128325</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thi Thanh Hai N, Thuy LTT, Shiota A, Kadono C, Daikoku A, Hoang DV, et al.  Selective overexpression of cytoglobin in stellate cells attenuates thioacetamide-induced liver fibrosis in mice. Sci Rep. 2018;8:17860. doi: 10.1038/s41598-018-36215-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-018-36215-4</ArticleId>
+            <ArticleId IdType="pmc">PMC6294752</ArticleId>
+            <ArticleId IdType="pubmed">30552362</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bryant KL, Mancias JD, Kimmelman AC, Der CJ. KRAS: feeding pancreatic cancer proliferation. Trends Biochem Sci. 2014;39:91–100. doi: 10.1016/j.tibs.2013.12.004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tibs.2013.12.004</ArticleId>
+            <ArticleId IdType="pmc">PMC3955735</ArticleId>
+            <ArticleId IdType="pubmed">24388967</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hu Y, Lu W, Chen G, Wang P, Chen Z, Zhou Y, et al.  K-rasG12V transformation leads to mitochondrial dysfunction and a metabolic switch from oxidative phosphorylation to glycolysis. Cell Res. 2012;22:399–412. doi: 10.1038/cr.2011.145.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/cr.2011.145</ArticleId>
+            <ArticleId IdType="pmc">PMC3257361</ArticleId>
+            <ArticleId IdType="pubmed">21876558</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chang C-H, Pauklin S. ROS and TGFβ: from pancreatic tumour growth to metastasis. J Exp Clin Cancer Res. 2021;40:152. doi: 10.1186/s13046-021-01960-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13046-021-01960-4</ArticleId>
+            <ArticleId IdType="pmc">PMC8091747</ArticleId>
+            <ArticleId IdType="pubmed">33941245</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hota KB, Hota SK, Srivastava RB, Singh SB. Neuroglobin regulates hypoxic response of neuronal cells through Hif-1α- and Nrf2-mediated mechanism. J Cereb Blood Flow Metab. 2012;32:1046–60. doi: 10.1038/jcbfm.2012.21.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/jcbfm.2012.21</ArticleId>
+            <ArticleId IdType="pmc">PMC3367222</ArticleId>
+            <ArticleId IdType="pubmed">22472608</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brierley JD, Gospodarowicz MK, and Wittekind C (eds). TNM classificationof malignant tumours. 8th ed. Wiley, 2016.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kimura K, Satoh K, Kanno A, Hamada S, Hirota M, Endoh M, et al.  Activation of Notch signaling in tumorigenesis of experimental pancreatic cancer induced by dimethylbenzanthracene in mice. Cancer Sci. 2007;98:155–62. doi: 10.1111/j.1349-7006.2006.00369.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1349-7006.2006.00369.x</ArticleId>
+            <ArticleId IdType="pubmed">17297654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miura K, Kimura K, Amano R, Yamazoe S, Ohira G, Murata A, et al.  Establishment and characterization of new cell lines of anaplastic pancreatic cancer, which is a rare malignancy: OCUP-A1 and OCUP-A2. BMC Cancer. 2016;16:268–268. doi: 10.1186/s12885-016-2297-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12885-016-2297-y</ArticleId>
+            <ArticleId IdType="pmc">PMC4828819</ArticleId>
+            <ArticleId IdType="pubmed">27067801</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

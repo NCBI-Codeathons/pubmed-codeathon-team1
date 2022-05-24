@@ -1,0 +1,826 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35603046</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">1871-4080</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>16</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Cognitive neurodynamics</Title>
+          <ISOAbbreviation>Cogn Neurodyn</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Population and individual firing behaviors in sparsely synchronized rhythms in the hippocampal dentate gyrus.</ArticleTitle>
+        <Pagination>
+          <StartPage>643</StartPage>
+          <EndPage>665</EndPage>
+          <MedlinePgn>643-665</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11571-021-09728-4</ELocationID>
+        <Abstract>
+          <AbstractText>We investigate population and individual firing behaviors in sparsely synchronized rhythms (SSRs) in a spiking neural network of the hippocampal dentate gyrus (DG). The main encoding granule cells (GCs) are grouped into lamellar clusters. In each GC cluster, there is one inhibitory (I) basket cell (BC) along with excitatory (E) GCs, and they form the E-I loop. Winner-take-all competition, leading to sparse activation of the GCs, occurs in each GC cluster. Such sparsity has been thought to enhance pattern separation performed in the DG. During the winner-take-all competition, SSRs are found to appear in each population of the GCs and the BCs through interaction of excitation of the GCs with inhibition of the BCs. Sparsely synchronized spiking stripes appear successively with the population frequency <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"> <mml:mrow><mml:msub><mml:mi>f</mml:mi> <mml:mi>p</mml:mi></mml:msub> <mml:mrow><mml:mspace/> <mml:mo>(</mml:mo> <mml:mo>=</mml:mo> <mml:mn>13.1</mml:mn></mml:mrow> </mml:mrow> </mml:math> Hz) in the raster plots of spikes. We also note that excitatory hilar mossy cells (MCs) control the firing activity of the GC-BC loop by providing excitation to both the GCs and the BCs. SSR also appears in the population of MCs via interaction with the GCs (i.e., GC-MC loop). Population behaviors in the SSRs are quantitatively characterized in terms of the synchronization measures. In addition, we investigate individual firing activity of GCs, BCs, and MCs in the SSRs. Individual GCs exhibit random spike skipping, leading to a multi-peaked inter-spike-interval histogram, which is well characterized in terms of the random phase-locking degree. In this case, population-averaged mean-firing-rate (MFR) <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mo>&lt;</mml:mo> <mml:mspace/> <mml:msubsup><mml:mi>f</mml:mi> <mml:mi>i</mml:mi> <mml:mrow><mml:mo>(</mml:mo> <mml:mtext>GC</mml:mtext> <mml:mo>)</mml:mo></mml:mrow> </mml:msubsup> <mml:mspace/> <mml:mo>&gt;</mml:mo></mml:mrow> </mml:math> is less than the population frequency <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:msub><mml:mi>f</mml:mi> <mml:mi>p</mml:mi></mml:msub> </mml:math> . On the other hand, both BCs and MCs show "intrastripe" burstings within stripes, together with random spike skipping. Thus, the population-averaged MFR <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mo>⟨</mml:mo> <mml:msubsup><mml:mi>f</mml:mi> <mml:mi>i</mml:mi> <mml:mrow><mml:mo>(</mml:mo> <mml:mi>X</mml:mi> <mml:mo>)</mml:mo></mml:mrow> </mml:msubsup> <mml:mo>⟩</mml:mo></mml:mrow> </mml:math> ( <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mi>X</mml:mi> <mml:mo>=</mml:mo></mml:mrow> </mml:math> MC and BC) is larger than <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:msub><mml:mi>f</mml:mi> <mml:mi>p</mml:mi></mml:msub> </mml:math> , in contrast to the case of the GCs. MC loss may occur during epileptogenesis. With decreasing the fraction of the MCs, changes in the population and individual firings in the SSRs are also studied. Finally, quantitative association between the population/individual firing behaviors in the SSRs and the winner-take-all competition is discussed.</AbstractText>
+          <CopyrightInformation>© The Author(s), under exclusive licence to Springer Nature B.V. 2021.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Sang-Yoon</ForeName>
+            <Initials>SY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute for Computational Neuroscience and Department of Science Education, Daegu National University of Education, Daegu, 42411 Korea.</Affiliation>
+              <Identifier Source="GRID">grid.443756.7</Identifier>
+              <Identifier Source="ISNI">0000 0004 0647 5154</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lim</LastName>
+            <ForeName>Woochang</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute for Computational Neuroscience and Department of Science Education, Daegu National University of Education, Daegu, 42411 Korea.</Affiliation>
+              <Identifier Source="GRID">grid.443756.7</Identifier>
+              <Identifier Source="ISNI">0000 0004 0647 5154</Identifier>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>23</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Cogn Neurodyn</MedlineTA>
+        <NlmUniqueID>101306907</NlmUniqueID>
+        <ISSNLinking>1871-4080</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Hippocampal dentate gyrus</Keyword>
+        <Keyword MajorTopicYN="N">Intrastripe bursting</Keyword>
+        <Keyword MajorTopicYN="N">Random spike skipping</Keyword>
+        <Keyword MajorTopicYN="N">Sparsely synchronized rhythms</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>9</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pmc-release">
+          <Year>2023</Year>
+          <Month>6</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>23</Day>
+          <Hour>4</Hour>
+          <Minute>34</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35603046</ArticleId>
+        <ArticleId IdType="pmc">PMC9120338</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11571-021-09728-4</ArticleId>
+        <ArticleId IdType="pii">9728</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Almeida LD, Idiart M, Lisman JE. A second function of gamma frequency oscillations: An E%-max winner-take-all mechanism selects which cells fire. J Neurosci. 2009;29:7497–7503. doi: 10.1523/JNEUROSCI.6044-08.2009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.6044-08.2009</ArticleId>
+            <ArticleId IdType="pmc">PMC2758634</ArticleId>
+            <ArticleId IdType="pubmed">19515917</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Amaral DG, Witter MP. The three-dimensional organization of the hippocampal formation: a review of anatomical data. Neuroscience. 1989;31:571–591. doi: 10.1016/0306-4522(89)90424-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0306-4522(89)90424-7</ArticleId>
+            <ArticleId IdType="pubmed">2687721</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Amaral DG, Ishizuka N, Claiborne B. Neurons, numbers and the hippocampal network. Prog Brain Res. 1990;83:1–11. doi: 10.1016/S0079-6123(08)61237-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0079-6123(08)61237-6</ArticleId>
+            <ArticleId IdType="pubmed">2203093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Amaral DG, Scharfman HE, Lavenex P. The dentate gyrus: fundamental neuroanatomical organization (dentate gyrus for dummies) Prog Brain Res. 2007;163:3–22. doi: 10.1016/S0079-6123(07)63001-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0079-6123(07)63001-5</ArticleId>
+            <ArticleId IdType="pmc">PMC2492885</ArticleId>
+            <ArticleId IdType="pubmed">17765709</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Andersen P, Bliss TVP, Skrede KK. Lamellar organization of hippocampal excitatory pathways. Exp Brain Res. 1971;13:222–238.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">5570425</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Andersen P, Soleng AF, Raastad M. The hippocampal lamella hypothesis revisited. Brain Res. 2000;886:165–171. doi: 10.1016/S0006-8993(00)02991-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0006-8993(00)02991-7</ArticleId>
+            <ArticleId IdType="pubmed">11119694</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bakker A, Kirwan CB, Miller M, Stark CEL. Pattern separation in the human hippocampal CA3 and dentate gyrus. Science. 2008;319:1640–1642. doi: 10.1126/science.1152882.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1152882</ArticleId>
+            <ArticleId IdType="pmc">PMC2829853</ArticleId>
+            <ArticleId IdType="pubmed">18356518</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barranca VJ, Huang H, Kawakita G. Network structure and input integration in competing firing rate models for decision-making. J Comput Neurosci. 2019;46:145–168. doi: 10.1007/s10827-018-0708-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10827-018-0708-6</ArticleId>
+            <ArticleId IdType="pubmed">30661144</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bartos M, Vida I, Frotscher M, Geiger JR, Jonas P. Rapid signaling at inhibitory synapses in a dentate gyrus interneuron network. J Neurosci. 2001;21:2687–2698. doi: 10.1523/JNEUROSCI.21-08-02687.2001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.21-08-02687.2001</ArticleId>
+            <ArticleId IdType="pmc">PMC6762544</ArticleId>
+            <ArticleId IdType="pubmed">11306622</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beck H, Goussakov IV, Lie A, Helmstaedter C, Elger CE. Synaptic plasticity in the human dentate gyrus. J Neurosci. 2000;20:7080–7086. doi: 10.1523/JNEUROSCI.20-18-07080.2000.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.20-18-07080.2000</ArticleId>
+            <ArticleId IdType="pmc">PMC6772802</ArticleId>
+            <ArticleId IdType="pubmed">10995855</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bielczyk NZ, Piskała K, Płomecka M, Radziński P, Todorova L, Foryś U, (2019) Time-delay model of perceptual decision making in cortical networks. PLoS One 14:e0211885</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Brunel N, Hakim V. Sparsely synchronized neuronal oscillations. Chaos. 2008;18:015113. doi: 10.1063/1.2779858.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1063/1.2779858</ArticleId>
+            <ArticleId IdType="pubmed">18377094</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brunel N, Wang XJ. What determines the frequency of fast network oscillations with irregular neural discharges? I. Synaptic dynamics and excitation-inhibition balance. J Neurophysiol. 2003;90:415–430. doi: 10.1152/jn.01095.2002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.01095.2002</ArticleId>
+            <ArticleId IdType="pubmed">12611969</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buckmaster PS, Jongen-Rêlo AL. Highly specific neuron loss preserves lateral inhibitory circuits in the dentate gyrus of kainite-induced epileptic rats. J Neurosci. 1999;19:9519–9529. doi: 10.1523/JNEUROSCI.19-21-09519.1999.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.19-21-09519.1999</ArticleId>
+            <ArticleId IdType="pmc">PMC6782907</ArticleId>
+            <ArticleId IdType="pubmed">10531454</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buckmaster PS, Wenzel HJ, Kunkel DD, Schwartzkroin PA. Axon arbors and synaptic connections of hippocampal mossy cells in the rat in vivo. J Comp Neurol. 1996;366:271–292. doi: 10.1002/(SICI)1096-9861(19960304)366:2&lt;270::AID-CNE7&gt;3.0.CO;2-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/(SICI)1096-9861(19960304)366:2&lt;270::AID-CNE7&gt;3.0.CO;2-2</ArticleId>
+            <ArticleId IdType="pubmed">8698887</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buckmaster PS, Yamawaki R, Zhang GF. Axon arbors and synaptic connections of a vulnerable population of interneurons in the dentate gyrus in vivo. J Comp Neurol. 2002;445:360–373. doi: 10.1002/cne.10183.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cne.10183</ArticleId>
+            <ArticleId IdType="pubmed">11920713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chavlis S, Petrantonakis PC, Poirazi P. Dendrites of dentate gyrus granule cells contribute to pattern separation by controlling sparsity. Hippocampus. 2017;27:89–110. doi: 10.1002/hipo.22675.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hipo.22675</ArticleId>
+            <ArticleId IdType="pmc">PMC5217096</ArticleId>
+            <ArticleId IdType="pubmed">27784124</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chiang PH, Wu PY, Kuo TW, Liu YC, Chan CF, Chien TC, Cheng JK, Huang YY, Chiu CD, Lien CC. GABA is depolarizing in hippocampal dentate granule cells of the adolescent and adult rats. J Neurosci. 2012;32:62–67. doi: 10.1523/JNEUROSCI.3393-11.2012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.3393-11.2012</ArticleId>
+            <ArticleId IdType="pmc">PMC6621339</ArticleId>
+            <ArticleId IdType="pubmed">22219270</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Coultrip R, Granger R, Lynch G. A cortical model of winner-take-all competition via lateral inhibition. Neural Netw. 1992;5:47–54. doi: 10.1016/S0893-6080(05)80006-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0893-6080(05)80006-1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Csicsvari J, Hirase H, Czurko A, Mamiya A, Buzsáki G. Oscillatory coupling of hippocampal pyramidal cells and interneurons in the behaving rat. J Neurosci. 1999;19:274–287. doi: 10.1523/JNEUROSCI.19-01-00274.1999.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.19-01-00274.1999</ArticleId>
+            <ArticleId IdType="pmc">PMC6782375</ArticleId>
+            <ArticleId IdType="pubmed">9870957</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Csicsvari J, Jamieson B, Wise K, Buzsáki G. Mechanisms of gamma oscillations in the hippocampus of the behaving rat. Neuron. 2003;37:311–322. doi: 10.1016/S0896-6273(02)01169-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0896-6273(02)01169-8</ArticleId>
+            <ArticleId IdType="pubmed">12546825</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Destexhe A, Paré D. Impact of network activity on the integrative properties of neocortical pyramidal neurons in vivo. J Neurophysiol. 1999;81:1531–1547. doi: 10.1152/jn.1999.81.4.1531.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.1999.81.4.1531</ArticleId>
+            <ArticleId IdType="pubmed">10200189</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>van Dijk MT, Fenton AA. On how the dentate gyrus contributes to memory discrimination. Neuron. 2018;98:832–845. doi: 10.1016/j.neuron.2018.04.018.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2018.04.018</ArticleId>
+            <ArticleId IdType="pmc">PMC6066591</ArticleId>
+            <ArticleId IdType="pubmed">29731252</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dudek SM, Alexander GM, Farris S. Rediscovering area CA2: unique properties and functions. Nat Rev Nurosci. 2016;17:89–102. doi: 10.1038/nrn.2015.22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn.2015.22</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Espinoza C, Guzman SJ, Zhang X, Jonas P. Parvalbumin+ interneurons obey unique connectivity rules and establish a powerful lateral inhibition microcircuit in dentate gyrus. Nat Commun. 2018;9:4605. doi: 10.1038/s41467-018-06899-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-018-06899-3</ArticleId>
+            <ArticleId IdType="pmc">PMC6214995</ArticleId>
+            <ArticleId IdType="pubmed">30389916</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ewell LA, Jones MV. Frequency-tuned distribution of inhibition in the dentate gyrus. J Neurosci. 2010;30:12597–12607. doi: 10.1523/JNEUROSCI.1854-10.2010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.1854-10.2010</ArticleId>
+            <ArticleId IdType="pmc">PMC6633593</ArticleId>
+            <ArticleId IdType="pubmed">20861366</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fellous J, Sejnowski TJ. Cholinergic induction of oscillations in the hippocampal slice in the slow (0.5-2 Hz), theta (5–12 Hz) and gamma (35–70 Hz) bands. Hippocampus. 2000;10:187–197. doi: 10.1002/(SICI)1098-1063(2000)10:2&lt;187::AID-HIPO8&gt;3.0.CO;2-M.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/(SICI)1098-1063(2000)10:2&lt;187::AID-HIPO8&gt;3.0.CO;2-M</ArticleId>
+            <ArticleId IdType="pubmed">10791841</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fernández-Ruiz A, Oliva A, Soula M, Rocha-Almeida F, Nagy GA, Martin-Vazquez G, Buzsáki G. Gamma rhythm communication between entorhinal cortex and dentate gyrus neuronal assemblies. Science. 2021;372:eabf3119. doi: 10.1126/science.abf3119.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.abf3119</ArticleId>
+            <ArticleId IdType="pmc">PMC8285088</ArticleId>
+            <ArticleId IdType="pubmed">33795429</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Geiger JRP, Lübke J, Roth A, Frotscher M, Jonas P. Submillisecond AMPA receptor-mediated signaling at a principal neuron-interneuron synapse. Neuron. 1997;18:1009–1023. doi: 10.1016/S0896-6273(00)80339-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0896-6273(00)80339-6</ArticleId>
+            <ArticleId IdType="pubmed">9208867</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Geisler C, Brunel N, Wang XJ. Contributions of intrinsic membrane dynamics to fast network oscillations with irregular neuronal discharges. J Neurophysiol. 2005;94:4344–4361. doi: 10.1152/jn.00510.2004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.00510.2004</ArticleId>
+            <ArticleId IdType="pubmed">16093332</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gerstner W, Kistler W.  Spiking Neuron Models. New York: Cambridge University Press; 2002. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gluck MA, Myers CE.  Gateway to memory: an introduction to neural network modeling of the hippocampus in learning and memory. Cambridge: MIT Press; 2001. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hafting T, Fyhn M, Molden S, Moser MB, Moser EI. Microstructure of a spatial map in the entorhinal cortex. Nature. 2005;436:801–806. doi: 10.1038/nature03721.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature03721</ArticleId>
+            <ArticleId IdType="pubmed">15965463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hasenstaub A, Shu Y, Haider B, Kraushaar U, Duque A, McCormick D. Inhibitory postsynaptic potentials carry synchronized frequency information in active cortical networks. Neuron. 2005;47:423–435. doi: 10.1016/j.neuron.2005.06.016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2005.06.016</ArticleId>
+            <ArticleId IdType="pubmed">16055065</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hosp JA, Strüber M, Yanagawa Y, Obata K, Vida I, Jonas P, Bartos M. Morpho-physiological criteria divide dentate gyrus interneurons into classes. Hippocampus. 2014;24:189–203. doi: 10.1002/hipo.22214.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hipo.22214</ArticleId>
+            <ArticleId IdType="pmc">PMC4165310</ArticleId>
+            <ArticleId IdType="pubmed">24108530</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Houghton C. Dentate gyrus and hilar region revisited. Behav Brain Sci. 2017;39:28–29.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hsiao YT, Zheng C, Colgin LL. Slow gamma rhythms in CA3 are entrained by slow gamma activity in the dentate gyrus. J Neurophysiol. 2016;116:2594–2603. doi: 10.1152/jn.00499.2016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.00499.2016</ArticleId>
+            <ArticleId IdType="pmc">PMC5133296</ArticleId>
+            <ArticleId IdType="pubmed">27628206</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jahr CE, Stevens CF. Voltage dependence of NMDA-activated macroscopic conductances predicted by single-channel kinetics. J Neurosci. 1990;10:3178–3182. doi: 10.1523/JNEUROSCI.10-09-03178.1990.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.10-09-03178.1990</ArticleId>
+            <ArticleId IdType="pmc">PMC6570236</ArticleId>
+            <ArticleId IdType="pubmed">1697902</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jinde S, Zsiros V, Jiang Z, Nakao K, Pickel J, Kohno K, Belforte JE, Nakazawa K. Hilar mossy cell degeneration causes transient dentate granule cell hyperexcitability and impaired pattern separation. Neuron. 2012;76:1189–1200. doi: 10.1016/j.neuron.2012.10.036.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2012.10.036</ArticleId>
+            <ArticleId IdType="pmc">PMC3530172</ArticleId>
+            <ArticleId IdType="pubmed">23259953</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jinde S, Zsiros V, Nakazawa K. Hilar mossy cell circuitry controlling dentate granule cell excitability. Front Neural Circuit. 2013;7:14. doi: 10.3389/fncir.2013.00014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncir.2013.00014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kassab R, Alexandre F. Pattern separation in the hippocampus: distinct circuits under different conditions. Brain Struct Funct. 2018;223:2785–2808. doi: 10.1007/s00429-018-1659-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00429-018-1659-4</ArticleId>
+            <ArticleId IdType="pubmed">29637298</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim SY, Lim W. Realistic thermodynamic and statistical-mechanical measures for neural synchronization. J Neurosci Meth. 2014;226:161–170. doi: 10.1016/j.jneumeth.2013.12.013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jneumeth.2013.12.013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim SY, Lim W. Effect of inhibitory spike-timing-dependent plasticity on fast sparsely synchronized rhythms in a small-world neuronal network. Neural Netw. 2018;106:50–66. doi: 10.1016/j.neunet.2018.06.013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neunet.2018.06.013</ArticleId>
+            <ArticleId IdType="pubmed">30025272</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim SY, Lim W. Effect of diverse recoding of granule cells on optokinetic response in a cerebellar ring network with synaptic plasticity. Neural Netw. 2021;134:173–204. doi: 10.1016/j.neunet.2020.11.014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neunet.2020.11.014</ArticleId>
+            <ArticleId IdType="pubmed">33316723</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim SY, Lim W. Influence of various temporal recoding on Pavlovian eyeblink conditioning in the cerebellum. Cogn Neurodyn. 2021 doi: 10.1007/s11571-021-09673-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11571-021-09673-2</ArticleId>
+            <ArticleId IdType="pmc">PMC8572302</ArticleId>
+            <ArticleId IdType="pubmed">34790271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim SY, Lim W.  Equalization effect in interpopulation spike-timing-dependent plasticity in two inhibitory and excitatory populations. In: Lintas A, Enrico P, Pan X, Wang R, Villa A, editors. Advances in cognitive neurodynamics (VII) Singapore: Springer; 2021. p. 8.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim SY, Lim W (2021d) Dynamical origin for winner-take-all competition in a biological network of the hippocampal dentate gyrus. bioRxiv, 10.1101/2021.5.12.443925</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kneisler TB, Dingledine R. Spontaneous and synaptic input from granule cells and the perforant path to dentate basket cells in the rat hippocampus. Hippocampus. 1995;5:151–164. doi: 10.1002/hipo.450050302.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hipo.450050302</ArticleId>
+            <ArticleId IdType="pubmed">7550611</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Knierim JJ, Neunuebel JP. Tracking the flow of hippocampal computation: Pattern separation, pattern completion, and attractor dynamics. Neurobiol Learn Mem. 2016;129:38–49. doi: 10.1016/j.nlm.2015.10.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.nlm.2015.10.008</ArticleId>
+            <ArticleId IdType="pmc">PMC4792674</ArticleId>
+            <ArticleId IdType="pubmed">26514299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krueppel R, Remy S, Beck H. Dendritic integration in hippocampal dentate granule cells. Neuron. 2011;71:512–528. doi: 10.1016/j.neuron.2011.05.043.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2011.05.043</ArticleId>
+            <ArticleId IdType="pubmed">21835347</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Larimer P, Strowbridge BW. Nonrandom local circuits in the dentate gyrus. J Neurosci. 2008;28:12212–12223. doi: 10.1523/JNEUROSCI.3612-08.2008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.3612-08.2008</ArticleId>
+            <ArticleId IdType="pmc">PMC5546755</ArticleId>
+            <ArticleId IdType="pubmed">19020015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Leutgeb JK, Leutgeb S, Moser MB, Moser EI. Pattern separation in the dentate gyrus and CA3 of the hippocampus. Science. 2007;315:961–966. doi: 10.1126/science.1135801.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1135801</ArticleId>
+            <ArticleId IdType="pubmed">17303747</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lübke J, Frotscher M, Spruston N. Specialized electrophysiological properties of anatomically identified neurons in the hilar region of the rat fascia dentata. J Neurophysiol. 1998;79:1518–1534. doi: 10.1152/jn.1998.79.3.1518.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.1998.79.3.1518</ArticleId>
+            <ArticleId IdType="pubmed">9497429</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marr D. Simple memory: a theory for archicortex. Phil Trans R Soc Lond B. 1971;262:23–81. doi: 10.1098/rstb.1971.0078.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1098/rstb.1971.0078</ArticleId>
+            <ArticleId IdType="pubmed">4399412</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McNaughton B, Morris R. Hippocampal synaptic enhancement and information storage within a distributed memory system. Trends Neurosci. 1987;10:408–415. doi: 10.1016/0166-2236(87)90011-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0166-2236(87)90011-7</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McNaughton BL, Barnes CA, Mizumori SJY, Green EJ, Sharp PE.  Contribution of granule cells to spatial representations in hippocampal circuits: A puzzle. In: Morrell F, editor. Kindling and synaptic plasticity: the legacy of Graham Goddar. Boston: Springer-Verlag; 1991. pp. 110–123.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Morgan RJ, Santhakumar V, Soletsz I. Modeling the dentate gyrus. Prog Brain Res. 2007;163:639–658. doi: 10.1016/S0079-6123(07)63035-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0079-6123(07)63035-0</ArticleId>
+            <ArticleId IdType="pubmed">17765743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Myers CE, Scharfman HE. A role for hilar cells in pattern separation in the dentate gyrus: A computational approach. Hippocampus. 2009;19:321–337. doi: 10.1002/hipo.20516.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hipo.20516</ArticleId>
+            <ArticleId IdType="pmc">PMC2723776</ArticleId>
+            <ArticleId IdType="pubmed">18958849</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Myers CE, Scharfman HE. Pattern separation in the dentate gyrus: A role for the CA3 backprojection. Hippocampus. 2011;21:1190–1215. doi: 10.1002/hipo.20828.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hipo.20828</ArticleId>
+            <ArticleId IdType="pmc">PMC2976779</ArticleId>
+            <ArticleId IdType="pubmed">20683841</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Myers CE, Bermudez-Hernandez K, Scharfman HE. The influence of ectopic migration of granule cells into the hilus on dentate gyrus-CA3 function. PLoS ONE. 2013;8:e68208. doi: 10.1371/journal.pone.0068208.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0068208</ArticleId>
+            <ArticleId IdType="pmc">PMC3695928</ArticleId>
+            <ArticleId IdType="pubmed">23840835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nitz D, McNaughton B. Differential modulation of CA1 and dentate gyrus interneurons during exploration of novel environments. J Neurophysiol. 2004;91:863–872. doi: 10.1152/jn.00614.2003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.00614.2003</ArticleId>
+            <ArticleId IdType="pubmed">14523073</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nomura T, Fukuda T, Aika Y, Heizmann CW, Emson PC, Kobayashi T, Kosaka T. Distribution of nonprincipal neurons in the rat hippocampus, with special reference to their dorsoventral difference. Brain Res. 1997;751:64–80. doi: 10.1016/S0006-8993(96)01395-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0006-8993(96)01395-9</ArticleId>
+            <ArticleId IdType="pubmed">9098569</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nomura T, Fukuda T, Aika Y, Heizmann CW, Emson PC, Kobayashi T, Kosaka T. Laminar distribution of non-principal neurons in the rat hippocampus, with special reference to their compositional difference among layers. Brain Res. 1997;764:197–204. doi: 10.1016/S0006-8993(97)00457-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0006-8993(97)00457-5</ArticleId>
+            <ArticleId IdType="pubmed">9295210</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Reilly RC, McClelland JC (1994) Hippocampal conjunctive encoding, storage, and recall: Avoiding a tradeoff. Hippocampus 4:661–682</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pearson K. Notes on regression and inheritance in the case of two parents. Proc R Soc Lond. 1895;58:240–242. doi: 10.1098/rspl.1895.0041.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1098/rspl.1895.0041</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Petrantonakis PC, Poirazi P. A compressed sensing perspective of hippocampal function. Front Syst Neurosci. 2014;8:141. doi: 10.3389/fnsys.2014.00141.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnsys.2014.00141</ArticleId>
+            <ArticleId IdType="pmc">PMC4126371</ArticleId>
+            <ArticleId IdType="pubmed">25152718</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Petrantonakis PC, Poirazi P. Dentate gyrus circuitry features improve performance of sparse approximation algorithms. PLoS One. 2015;10:e0117023. doi: 10.1371/journal.pone.0117023.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0117023</ArticleId>
+            <ArticleId IdType="pmc">PMC4312091</ArticleId>
+            <ArticleId IdType="pubmed">25635776</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Press WH, teukolsky SA, Vetterling WT, Flannery BP, (1992) Nemerical receipes in C: the art of scientific computing, 2nd edn. Cambridge University Press, New York</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rangel LM, Chiba AA, Quinn LK. Theta and beta oscillatory dynamics in the dentate gyrus reveal a shift in network processing state during cue encounters. Front Syst Neurosci. 2015;9:96. doi: 10.3389/fnsys.2015.00096.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnsys.2015.00096</ArticleId>
+            <ArticleId IdType="pmc">PMC4486843</ArticleId>
+            <ArticleId IdType="pubmed">26190979</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ratzliff AH, Santhakumar V, Howard A, Soltesz I. Mossy cells in epilepsy: rigor mortis or vigor mortis? Trends Neurosci. 2002;25:140–144. doi: 10.1016/S0166-2236(00)02122-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0166-2236(00)02122-6</ArticleId>
+            <ArticleId IdType="pubmed">11852145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ratzliff ADH, Howard AL, Santhakumar V, Osapay I, Soltesz I. Rapid deletion of mossy cells does not result in a hyperexcitable dentate gyrus: Implications for epileptogenesis. J Neurosci. 2004;24:2259–2269. doi: 10.1523/JNEUROSCI.5191-03.2004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.5191-03.2004</ArticleId>
+            <ArticleId IdType="pmc">PMC6730423</ArticleId>
+            <ArticleId IdType="pubmed">14999076</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rojas-Líbano D, Kay LM. Olfactory system gamma oscillations: the physiological dissection of a cognitive neural system. Cogn Neurodyn. 2008;2:179–194. doi: 10.1007/s11571-008-9053-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11571-008-9053-1</ArticleId>
+            <ArticleId IdType="pmc">PMC2518753</ArticleId>
+            <ArticleId IdType="pubmed">19003484</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rolls ET.  Functions of neuronal networks in the hippocampus and neocortex in memory. In: Byrne JH, Berry WO, editors. Neural models of plasticity: experimental and theoretical approaches. San Diego: Academic Press; 1989. pp. 240–265.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rolls ET.  The representation and storage of information in neural networks in the primate cerebral cortex and hippocampus. In: Durbin R, Miall C, Mitchison G, editors. Comput Neuron. Wokingham: Addition-Wesley; 1989. pp. 125–159.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rolls ET.  Functions of neuronal networks in the hippocampus and cerebral cortex in memory. In: Cotterill R, editor. Models Brain Function. New York: Cambridge University Press; 1989. pp. 15–33.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rolls ET. Pattern separation, completion, and categorization in the hippocampus and neocortex. Neurobiol Learn Mem. 2016;129:4–28. doi: 10.1016/j.nlm.2015.07.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.nlm.2015.07.008</ArticleId>
+            <ArticleId IdType="pubmed">26190832</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roux NL, Amar M, Baux G, Fossier P. Homeostatic control of the excitation-inhibition balance in cortical layer 5 pyramidal neurons. Eur J Neurosci. 2006;24:3507–3518. doi: 10.1111/j.1460-9568.2006.05203.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1460-9568.2006.05203.x</ArticleId>
+            <ArticleId IdType="pubmed">17229099</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Santhakumar V, Bender R, Frotscher M, Ross ST, Hollrigel GS, Toth Z, Soltesz I (2000) Granule cell hyperexcitability in the early post-traumatic rat dentate gyrus: the “irritable mossy cell” hypothesis. J Physiol 524:117–134</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Santhakumar V, Aradi I, Soltesz I. Role of mossy fiber sprouting and mossy cell loss in hyperexcitability: A network model of the dentate gyrus incorporating cell types and axonal topography. J Neurophysiol. 2005;93:437–453. doi: 10.1152/jn.00777.2004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.00777.2004</ArticleId>
+            <ArticleId IdType="pubmed">15342722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Santoro A. Reassessing pattern separation in the dentate gyrus. Front Behav Neurosci. 2013;7:96. doi: 10.3389/fnbeh.2013.00096.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnbeh.2013.00096</ArticleId>
+            <ArticleId IdType="pmc">PMC3726960</ArticleId>
+            <ArticleId IdType="pubmed">23908611</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Savanthrapadian S, Meyer T, Elgueta C, Booker SA, Vida I, Bartos M. Synaptic properties of SOM- and CCK-expressing cells in dentate gyrus interneuron networks. J Neurosci. 2014;34:8197–8209. doi: 10.1523/JNEUROSCI.5433-13.2014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.5433-13.2014</ArticleId>
+            <ArticleId IdType="pmc">PMC6608234</ArticleId>
+            <ArticleId IdType="pubmed">24920624</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scharfman HE. Dentate hilar cells with dendrites in the molecular layer have lower thresholds for synaptic activation by perforant path than granule cells. J Neurosci. 1991;11:1660–1673. doi: 10.1523/JNEUROSCI.11-06-01660.1991.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.11-06-01660.1991</ArticleId>
+            <ArticleId IdType="pmc">PMC6575404</ArticleId>
+            <ArticleId IdType="pubmed">2045880</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scharfman HE. Advances in understanding hilar mossy cells of the dentate gyrus. Cell Tissue Res. 2018;373:643–652. doi: 10.1007/s00441-017-2750-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00441-017-2750-5</ArticleId>
+            <ArticleId IdType="pmc">PMC5993616</ArticleId>
+            <ArticleId IdType="pubmed">29222692</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scharfman HE, Myers CE. Hilar mossy cells of the dentate gyrus: A historical perspective. Front Neural Circuit. 2013;6:106. doi: 10.3389/fncir.2012.00106.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncir.2012.00106</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scharfman HE, Myers CE (2016) Corruption of the dentate gyrus by “dominant” granule cells: Implications for dentate gyrus function in health and disease. Neurobiol Learn Mem 129:69–82</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schmidt B, Marrone DF, Markus EJ. Disambiguating the similar: the dentate gyrus and pattern separation. Behav Brain Res. 2012;226:56–65. doi: 10.1016/j.bbr.2011.08.039.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbr.2011.08.039</ArticleId>
+            <ArticleId IdType="pubmed">21907247</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schmidt-Hieber C, Bischofberger J. Fast sodium channel gating supports localized and efficient axonal action potential initiation. J Neurosci. 2010;30:10233–10242. doi: 10.1523/JNEUROSCI.6335-09.2010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.6335-09.2010</ArticleId>
+            <ArticleId IdType="pmc">PMC6633381</ArticleId>
+            <ArticleId IdType="pubmed">20668206</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schmidt-Hieber C, Jonas P, Bischofberger J. Subthreshold dendritic signal processing and coincidence detection in dentate gyrus granule cells. J Neurosci. 2007;27:8430–8441. doi: 10.1523/JNEUROSCI.1787-07.2007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.1787-07.2007</ArticleId>
+            <ArticleId IdType="pmc">PMC6673070</ArticleId>
+            <ArticleId IdType="pubmed">17670990</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shimazaki H, Shinomoto S. Kernel bandwidth optimization in spike rate estimation. J Comput Neurosci. 2010;29:171–182. doi: 10.1007/s10827-009-0180-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10827-009-0180-4</ArticleId>
+            <ArticleId IdType="pmc">PMC2940025</ArticleId>
+            <ArticleId IdType="pubmed">19655238</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sloviter RS (1991) Permanently altered hippocampal structure, excitability, and inhibition after experimental status epilepticus in the rat: the “dormant basket cell” hypothesis and its possible relevance to temporal lobe epilepsy. Hippocampus 1:41–66</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sloviter RS. The functional organization of the hippocampal dentate gyrus and its relevance to the pathogenesis of temporal lobe epilepsy. Ann Neurol. 1994;35:640–654. doi: 10.1002/ana.410350604.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/ana.410350604</ArticleId>
+            <ArticleId IdType="pubmed">8210220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sloviter RS, Lømo T. Updating the lamellar hypothesis of hippocampal organization. Front Neural Circuit. 2012;6:102. doi: 10.3389/fncir.2012.00102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncir.2012.00102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>De Solages C, Szapiro G, Brunel N, Hakim V, Isope P, Buisseret P, Rousseau C, Barbour B, Lna C. High-frequency organization and synchrony of activity in the purkinje cell layer of the cerebellum. Neuron. 2008;58:775–788. doi: 10.1016/j.neuron.2008.05.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2008.05.008</ArticleId>
+            <ArticleId IdType="pubmed">18549788</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Squire L.  Memory and Brain. New York: Oxford University Press; 1987. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Su L, Chang CJ, Lynch N. Spike-based winner-take-all computation: Fundamental limits and order-optimal circuits. Neural Comput. 2019;31:2523–2561. doi: 10.1162/neco_a_01242.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/neco_a_01242</ArticleId>
+            <ArticleId IdType="pubmed">31614103</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trapp P, Echeveste R, Gros C. E-I balance naturally emerges from continuous Hebbian learning in autonomous neural networks. Sci Rep. 2018;8:8939. doi: 10.1038/s41598-018-27099-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-018-27099-5</ArticleId>
+            <ArticleId IdType="pmc">PMC5997746</ArticleId>
+            <ArticleId IdType="pubmed">29895972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Treves A, Rolls ET. What determines the capacity of autoassociative memories in the brain? Network. 1991;2:371–397. doi: 10.1088/0954-898X_2_4_004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/0954-898X_2_4_004</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Treves A, Rolls ET. Computational constraints suggest the need for two distinct input systems to the hippocampal CA3 network. Hippocampus. 1992;2:189–199. doi: 10.1002/hipo.450020209.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hipo.450020209</ArticleId>
+            <ArticleId IdType="pubmed">1308182</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Treves A, Rolls ET. Computational analysis of the role of the hippocampus in memory. Hippocampus. 1994;4:374–391. doi: 10.1002/hipo.450040319.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hipo.450040319</ArticleId>
+            <ArticleId IdType="pubmed">7842058</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang XJ. Neurophysiological and computational principles of fscortical rhythms in cognition. Physiol Rev. 2010;90:1195–1268. doi: 10.1152/physrev.00035.2008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/physrev.00035.2008</ArticleId>
+            <ArticleId IdType="pmc">PMC2923921</ArticleId>
+            <ArticleId IdType="pubmed">20664082</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Y, Zhang X, Xin Q, Hung W, Florman J, Huo J, Xu T, Xie Y, Alkema MJ, Zhen M, Wen Q (2020) Flexible motor sequence generation during stereotyped escape responses. eLife 9: e56942</Citation>
+        </Reference>
+        <Reference>
+          <Citation>West MJ, Slomianka L, Gundersen HJ. Unbiased stereological estimation of the total number of neurons in the subdivisions of the rat hippocampus using the optical fractionator. Anat Rec. 1991;231:482–497. doi: 10.1002/ar.1092310411.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/ar.1092310411</ArticleId>
+            <ArticleId IdType="pubmed">1793176</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Willshaw D, Buckingham J (1990) An assessment of Marr’s theory of the hippocampus as a temporary memory store. Phil Trans R Soc Lond B 329:205–215</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yassa MA, Stark CEL. Pattern separation in the hippocampus. Trends Neurosci. 2011;34:515–525. doi: 10.1016/j.tins.2011.06.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tins.2011.06.006</ArticleId>
+            <ArticleId IdType="pmc">PMC3183227</ArticleId>
+            <ArticleId IdType="pubmed">21788086</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yim MY, Hanuschkin A, Wolfart J. Intrinsic rescaling of granule cells restores pattern separation ability of a dentate gyrus network model during epileptic hyperexcitability. Hippocampus. 2015;25:297–308. doi: 10.1002/hipo.22373.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hipo.22373</ArticleId>
+            <ArticleId IdType="pubmed">25269417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

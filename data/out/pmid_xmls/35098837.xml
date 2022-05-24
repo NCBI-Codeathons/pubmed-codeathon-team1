@@ -1,0 +1,436 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35098837</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>21</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>30</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1365-2060</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>54</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Annals of medicine</Title>
+          <ISOAbbreviation>Ann Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A MALDI-TOF mass spectrometry-based haemoglobin chain quantification method for rapid screen of thalassaemia.</ArticleTitle>
+        <Pagination>
+          <StartPage>293</StartPage>
+          <EndPage>301</EndPage>
+          <MedlinePgn>293-301</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1080/07853890.2022.2028002</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Thalassaemia is one of the most common inherited monogenic diseases worldwide with a heavy global health burden. Considering its high prevalence in low and middle-income countries, a cheap, accurate and high-throughput screening test of thalassaemia prior to a more expensive confirmatory diagnostic test is urgently needed.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">In this study, we constructed a machine learning model based on MALDI-TOF mass spectrometry quantification of haemoglobin chains in blood, and for the first time, evaluated its diagnostic efficacy in 674 thalassaemia (including both asymptomatic carriers and symptomatic patients) and control samples collected in three hospitals. Parameters related to haemoglobin imbalance (α-globin, β-globin, γ-globin, α/β and α-β) were used for feature selection before classification model construction with 8 machine learning methods in cohort 1 and further model efficiency validation in cohort 2.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The logistic regression model with 5 haemoglobin peak features achieved good classification performance in validation cohort 2 (AUC 0.99, 95% CI 0.98-1, sensitivity 98.7%, specificity 95.5%). Furthermore, the logistic regression model with 6 haemoglobin peak features was also constructed to specifically identify β-thalassaemia (AUC 0.94, 95% CI 0.91-0.97, sensitivity 96.5%, specificity 87.8% in validation cohort 2).</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">For the first time, we constructed an inexpensive, accurate and high-throughput classification model based on MALDI-TOF mass spectrometry quantification of haemoglobin chains and demonstrated its great potential in rapid screening of thalassaemia in large populations.Key messagesThalassaemia is one of the most common inherited monogenic diseases worldwide with a heavy global health burden.We constructed a machine learning model based on MALDI-TOF mass spectrometry quantification of haemoglobin chains to screen for thalassaemia.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Jian</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Proteomics, Beijing Proteome Research Center, National Center for Protein Sciences (Beijing), Beijing Institute of Lifeomics, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Zhizhong</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Beijing Bo'ai Hospital, China Rehabilitation Research Center, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Ribing</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Longgang District People's Hospital of Shenzhen, Shenzhen, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ma</LastName>
+            <ForeName>Qingwei</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Bioyong Technologics Inc., Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lyu</LastName>
+            <ForeName>Qian</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Bioyong Technologics Inc., Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fu</LastName>
+            <ForeName>Shuhui</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Bioyong Technologics Inc., Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>He</LastName>
+            <ForeName>Yufei</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Bioyong Technologics Inc., Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xiao</LastName>
+            <ForeName>Zijie</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Proteomics, Beijing Proteome Research Center, National Center for Protein Sciences (Beijing), Beijing Institute of Lifeomics, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Luo</LastName>
+            <ForeName>Zhi</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Proteomics, Beijing Proteome Research Center, National Center for Protein Sciences (Beijing), Beijing Institute of Lifeomics, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Luo</LastName>
+            <ForeName>Jianming</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, The First Affiliated Hospital, Guangxi Medical University, Nanning, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Xingyu</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Beijing Hypertension League Institute, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Xiangyi</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Laboratory Medicine, Beijing Tongren Hospital, Capital Medical University, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>An</LastName>
+            <ForeName>Peng</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Nutrition and Health, China Agricultural University, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sun</LastName>
+            <ForeName>Wei</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Proteomics, Beijing Proteome Research Center, National Center for Protein Sciences (Beijing), Beijing Institute of Lifeomics, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Ann Med</MedlineTA>
+        <NlmUniqueID>8906388</NlmUniqueID>
+        <ISSNLinking>0785-3890</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D006454">Hemoglobins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006454" MajorTopicYN="N">Hemoglobins</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006579" MajorTopicYN="N">Heterozygote</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019032" MajorTopicYN="N">Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013789" MajorTopicYN="Y">Thalassemia</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017086" MajorTopicYN="Y">beta-Thalassemia</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">MALDI-TOF</Keyword>
+        <Keyword MajorTopicYN="Y">haemoglobin</Keyword>
+        <Keyword MajorTopicYN="Y">molecular diagnostics</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>31</Day>
+          <Hour>8</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35098837</ArticleId>
+        <ArticleId IdType="pmc">PMC8812805</ArticleId>
+        <ArticleId IdType="doi">10.1080/07853890.2022.2028002</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Taher AT, Weatherall DJ, Cappellini MD.. 
+Thalassaemia. Lancet. 2018;391(10116):155–167.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28774421</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Weatherall DJ.
+The inherited diseases of hemoglobin are an emerging global health burden. Blood. 2010;115(22):4331–4336.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2881491</ArticleId>
+            <ArticleId IdType="pubmed">20233970</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Higgs DR, Engel JD, Stamatoyannopoulos G.. 
+Thalassaemia. Lancet. 2012;379(9813):373–383.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21908035</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taher AT, Musallam KM, Cappellini MD.. 
+β-Thalassemias. N Engl J Med. 2021;384(8):727–743.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33626255</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berg Jm TJ, Stryer L. Biochemistry (5th). Hemoglobin transports oxygen efficiently by binding oxygen cooperatively. New York: W H Freeman. 2002.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bajwa H, Basit H.. 
+Thalassemia. Treasure Island (FL): StatPearls; 2021.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Denton CC, Shah P, Suriany S, et al. . 
+Loss of alpha-globin genes in human subjects is associated with improved nitric oxide-mediated vascular perfusion. Am J Hematol. 2021;96(3):277–281.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33247606</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mettananda S, Gibbons RJ, Higgs DR.. 
+α-Globin as a molecular target in the treatment of β-thalassemia. Blood. 2015;125(24):3694–3701.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4497969</ArticleId>
+            <ArticleId IdType="pubmed">25869286</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taher AT, Musallam KM, El-Beshlawy A, et al. . 
+Age-related complications in treatment-naïve patients with thalassaemia intermedia. Br J Haematol. 2010;150(4):486–489.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20456362</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Galanello R, Barella S, Gasperini D, et al. . 
+Evaluation of an automatic HPLC analyser for thalassemia and haemoglobin variants screening. J Automat Chem. 1995;17(2):73–76.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2548064</ArticleId>
+            <ArticleId IdType="pubmed">18925016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Uaprasert N, Settapiboon R, Amornsiriwat S, et al. . 
+Diagnostic utility of isoelectric focusing and high performance liquid chromatography in neonatal cord blood screening for thalassemia and non-sickling hemoglobinopathies. Clin Chim Acta. 2014;427:23–26.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24095765</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ip HW, So CC.. 
+Diagnosis and prevention of thalassemia. Crit Rev Clin Lab Sci. 2013;50(6):125–141.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24295057</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shang X, Peng Z, Ye Y, et al. . 
+Rapid targeted next-generation sequencing platform for molecular screening and clinical genotyping in subjects with hemoglobinopathies. EBioMedicine. 2017;23:150–159.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5605365</ArticleId>
+            <ArticleId IdType="pubmed">28865746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Duncan MW, Nedelkov D, Walsh R, et al. . 
+Applications of MALDI mass spectrometry in clinical chemistry. Clin Chem. 2016;62(1):134–143.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26585930</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liao HK, Su YN, Kao HY, et al. . 
+Parallel minisequencing followed by multiplex matrix-assisted laser desorption/ionization mass spectrometry assay for beta-thalassemia mutations. J Hum Genet. 2005;50(3):139–150.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15761692</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Looi ML, Sivalingam M, Husin ND, et al. . 
+Multiplexed genotyping of beta globin mutations with MALDI-TOF mass spectrometry. Clin Chim Acta. 2011;412(11-12):999–1002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21315703</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thongnoppakhun W, Jiemsup S, Yongkiettrakul S, et al. . 
+Simple, efficient, and cost-effective multiplex genotyping with matrix assisted laser desorption/ionization time-of-flight mass spectrometry of hemoglobin beta gene mutations. J Mol Diagn. 2009;11(4):334–346.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2710711</ArticleId>
+            <ArticleId IdType="pubmed">19460936</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kleinert P, Schmid M, Zurbriggen K, et al. . 
+Mass spectrometry: a tool for enhanced detection of hemoglobin variants. Clin Chem. 2008;54(1):69–76.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17932132</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iles R, Mahmoud N.. 
+Future laboratory medicine: rapid, effcient and affordable screening for haemoglobinopathies by MALDI-ToF mass spectrometry. Adv Biochem Biotehcnol. 2018;2018(01):1–5.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pais JR, Jardine C, Zmuidinaite R, et al. . 
+Rapid, affordable and efficient screening of multiple blood abnormalities made possible using an automated tool for MALDI-ToF spectrometry analysis. Appl. Sci. 2019;(9): :4999.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Naubourg P, El Osta M, Rageot D, et al. . 
+A multicentre pilot study of a two-tier newborn sickle cell disease screening procedure with a first tier based on a fully automated MALDI-TOF MS platform. Int J Neonatal Screen. 2019;5(1):10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7510195</ArticleId>
+            <ArticleId IdType="pubmed">33072970</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Robin X, Turck N, Hainard A, et al. . 
+pROC: an open-source package for R and S + to analyze and compare ROC curves. BMC Bioinformatics. 2011;12:77.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3068975</ArticleId>
+            <ArticleId IdType="pubmed">21414208</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liaw A, Wiener M.. 
+Classification and regression by RandomForest. R News. 2002;2 (3): 18–22.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Friedman J, Hastie T, Tibshirani R.. 
+Regularization paths for generalized linear models via coordinate descent. J Stat Softw. 2010;33(1):1–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2929880</ArticleId>
+            <ArticleId IdType="pubmed">20808728</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chang C-C, Lin C-J.. 
+LIBSVM. ACM Trans Intell Syst Technol. 2011;2(3):1–27.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hechenbichler K, Schliep K.. 
+Weighted k-Nearest-Neighbor techniques and ordinal classification. Discussion Paper 399, SFB 386, Ludwig-Maximilians University, Munich. 2004, pp.1–16.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Alfaro E, Gámez M, García N.. 
+Adabag an R package for classification with boosting and bagging. J Stat Soft. 2013;54(2).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Venables B, Ripley B. Modern Applied Statistics With S, 2002.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhuang J, Tian J, Wei J, et al. . 
+Molecular analysis of a large novel deletion causing α+-thalassemia. BMC Med Genet. 2019;20(1):74.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6501318</ArticleId>
+            <ArticleId IdType="pubmed">31060505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shang X, Xu X.. 
+Update in the genetics of thalassemia: what clinicians need to know. Best Pract Res Clin Obstet Gynaecol. 2017;39:3–15.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27876354</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Albrethsen J.
+Reproducibility in protein profiling by MALDI-TOF mass spectrometry. Clin Chem. 2007;53(5):852–858.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17395711</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

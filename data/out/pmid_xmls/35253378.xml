@@ -1,0 +1,394 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35253378</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>21</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1749-4486</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>47</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Clinical otolaryngology : official journal of ENT-UK ; official journal of Netherlands Society for Oto-Rhino-Laryngology &amp; Cervico-Facial Surgery</Title>
+          <ISOAbbreviation>Clin Otolaryngol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Artificial intelligence to classify ear disease from otoscopy: A systematic review and meta-analysis.</ArticleTitle>
+        <Pagination>
+          <StartPage>401</StartPage>
+          <EndPage>413</EndPage>
+          <MedlinePgn>401-413</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/coa.13925</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To summarise the accuracy of artificial intelligence (AI) computer vision algorithms to classify ear disease from otoscopy.</AbstractText>
+          <AbstractText Label="DESIGN" NlmCategory="METHODS">Systematic review and meta-analysis.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Using the PRISMA guidelines, nine online databases were searched for articles that used AI computer vision algorithms developed from various methods (convolutional neural networks, artificial neural networks, support vector machines, decision trees and k-nearest neighbours) to classify otoscopic images. Diagnostic classes of interest: normal tympanic membrane, acute otitis media (AOM), otitis media with effusion (OME), chronic otitis media (COM) with or without perforation, cholesteatoma and canal obstruction.</AbstractText>
+          <AbstractText Label="MAIN OUTCOME MEASURES" NlmCategory="METHODS">Accuracy to correctly classify otoscopic images compared to otolaryngologists (ground truth). The Quality Assessment of Diagnostic Accuracy Studies Version 2 tool was used to assess the quality of methodology and risk of bias.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Thirty-nine articles were included. Algorithms achieved 90.7% (95%CI: 90.1-91.3%) accuracy to difference between normal or abnormal otoscopy images in 14 studies. The most common multiclassification algorithm (3 or more diagnostic classes) achieved 97.6% (95%CI: 97.3-97.9%) accuracy to differentiate between normal, AOM and OME in three studies. AI algorithms outperformed human assessors to classify otoscopy images achieving 93.4% (95%CI: 90.5-96.4%) versus 73.2% (95%CI: 67.9-78.5%) accuracy in three studies. Convolutional neural networks achieved the highest accuracy compared to other classification methods.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">AI can classify ear disease from otoscopy. A concerted effort is required to establish a comprehensive and reliable otoscopy database for algorithm training. An AI-supported otoscopy system may assist health care workers, trainees and primary care practitioners with less otology experience identify ear disease.</AbstractText>
+          <CopyrightInformation>© 2022 The Authors. Clinical Otolaryngology published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Habib</LastName>
+            <ForeName>Al-Rahim</ForeName>
+            <Initials>AR</Initials>
+            <Identifier Source="ORCID">0000-0001-6327-4648</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Medicine and Health, University of Sydney, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology - Head and Neck Surgery, Princess Alexandra Hospital, Woolloongabba, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology - Head and Neck Surgery, Westmead Hospital, Westmead, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kajbafzadeh</LastName>
+            <ForeName>Majid</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Medicine and Health, University of Sydney, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hasan</LastName>
+            <ForeName>Zubair</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology - Head and Neck Surgery, Westmead Hospital, Westmead, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wong</LastName>
+            <ForeName>Eugene</ForeName>
+            <Initials>E</Initials>
+            <Identifier Source="ORCID">0000-0002-5799-5083</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology - Head and Neck Surgery, Westmead Hospital, Westmead, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gunasekera</LastName>
+            <ForeName>Hasantha</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Medicine and Health, University of Sydney, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The Children's Hospital at Westmead, Westmead, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Perry</LastName>
+            <ForeName>Chris</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology - Head and Neck Surgery, Princess Alexandra Hospital, Woolloongabba, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>University of Queensland Medical School, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sacks</LastName>
+            <ForeName>Raymond</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Medicine and Health, University of Sydney, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kumar</LastName>
+            <ForeName>Ashnil</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Biomedical Engineering, Faculty of Engineering, University of Sydney, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Singh</LastName>
+            <ForeName>Narinder</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Medicine and Health, University of Sydney, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology - Head and Neck Surgery, Westmead Hospital, Westmead, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+          <PublicationType UI="D000078182">Systematic Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>15</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Clin Otolaryngol</MedlineTA>
+        <NlmUniqueID>101247023</NlmUniqueID>
+        <ISSNLinking>1749-4478</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001185" MajorTopicYN="N">Artificial Intelligence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004427" MajorTopicYN="Y">Ear Diseases</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010033" MajorTopicYN="Y">Otitis Media</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010034" MajorTopicYN="Y">Otitis Media with Effusion</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019720" MajorTopicYN="N">Otoscopes</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D038781" MajorTopicYN="N">Otoscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">artificial intelligence</Keyword>
+        <Keyword MajorTopicYN="N">computer vision</Keyword>
+        <Keyword MajorTopicYN="N">diagnosis</Keyword>
+        <Keyword MajorTopicYN="N">machine learning</Keyword>
+        <Keyword MajorTopicYN="N">otoscopy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>8</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>14</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35253378</ArticleId>
+        <ArticleId IdType="doi">10.1111/coa.13925</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>REFERENCES</Title>
+        <Reference>
+          <Citation>Buchanan CM, Pothier DD. Recognition of paediatric otopathology by General Practitioners. Int J Pediatr Otorhinolaryngol. 2008;72(5):669-673.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wormald PJ, Browning GG, Robinson K. Is otoscopy reliable? A structured teaching method to improve otoscopic accuracy in trainees. Clin Otolaryngol Allied Sci. 1995;20(1):63-67.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Oyewumi M, Brandt MG, Carrillo B, et al. Objective evaluation of otoscopy skills among family and community medicine, pediatric, and otolaryngology residents. J Surg Educ. 2016;73(1):129-135.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lecun Y, Bengio Y, Hinton G. Deep learning. Nature. 2015;521(7553):436-444.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Esteva A, Kuprel B, Novoa RA, et al. Dermatologist-level classification of skin cancer with deep neural networks. Nature. 2017;542:115-118.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Raumviboonsuk P, Krause J, Chotcomwongse P, et al. Deep learning versus human graders for classifying diabetic retinopathy severity in a nationwide screening program. NPJ Digit Med. 2019;2(1):10. 10.1038/s41746-019-0099-8</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bogoch II, Watts A, Thomas-Bachli A, Huber C, Kraemer MUG, Khan K. Pneumonia of unknown aetiology in Wuhan, China: potential for international spread via commercial air travel. J Travel Med. 2020;27(2):1-3.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Seah JCY, Tang CHM, Buchlak QD, et al. Effect of a comprehensive deep-learning model on the accuracy of chest x-ray interpretation by radiologists: a retrospective, multireader multicase study. Lancet Digit Health. 2021;7500(21):1-11.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Marom T, Kraus O, Habashi N, Tamir SO. Emerging technologies for the diagnosis of otitis media. Otolaryngol Head Neck Surg. 2019;160(3):447-456.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Smith AC, Armfield NR, Wu WI, Brown CA, Perry C. A mobile telemedicine-enabled ear screening service for Indigenous children in Queensland: activity and outcomes in the first three years. J Telemed and Telecare. 2012;18(8):485-489.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Moher D, Liberati A, Tetzlaff J, Altman DG, Group TP. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Medicine. 2009;6(7):e1000097.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Whiting PF, Rutjes AWS, Westwood ME, et al. QUADAS-2: a revised tool for the quality assessment of diagnostic accuracy studies. Ann Intern Med. 2011;155(4):529-536.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Higgins J &amp; Green S. Cochrane handbook for systematic reviews of interventions version 5.1.0 [Internet]. 2011. Accessed February 18, 2021. www.cochrane-handbook.org</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Simon C, Caorsi V, Campillo C. Chapter 14: otitis media diagnosis model for tympanic. Modelling and analysis of active biopotential signals in healthcare, 2nd ed. Institute of Physics Publishing Ltd; 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Basaran E, Comert Z, Celik Y. Convolutional neural network approach for automatic tympanic membrane detection and classification. Biomed Signal Process Control. 2020;56(1):1-14.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Goshtasbi K. Machine learning models to predict diagnosis and surgical outcomes in otolaryngology [Internet]. University of California Irvine; 2020. Accessed January 3, 2021. https://escholarship.org/uc/item/1tr0c2p0</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tsutsumi K, Goshtasbi K, Risbud A, et al. A web-based deep learning model for automated diagnosis of otoscopic images. Otol Neurotol. 2021;42(9):e1382-e1388.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mironicǎ I, Vertan C, Gheorghe DC. Automatic pediatric otitis detection by classification of global image features. 2011 E-Health and Bioengineering Conference, EHB 2011. 2011;1-4.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Crowson MG, Hartnick CJ, Diercks GR, et al. Machine learning for accurate intraoperative pediatric middle ear effusion diagnosis. Pediatrics. 2021;147(4):e2020034546.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wu Z, Lin Z, Li L, et al. Deep learning for classification of pediatric otitis media. Laryngoscope. 2020;131:1-8.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Huang YK, Huang CP. A depth-first search algorithm based otoscope application for real-time otitis media image interpretation. Parallel and Distributed Computing, Applications and Technologies, PDCAT Proceedings. 2018;2017-Decem:170-5.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kuruvilla A, Shaikh N, Hoberman A, Kovačević J. Automated diagnosis of otitis media: vocabulary and grammar. Int J Biomed Imaging. 2013;2013:1-15.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kuruvilla A, Li J, Yeomans PH, Quelhas P, Instituto I, Biomedica DE. Otitis media vocabulary and grammar. Proc Int Conf Image Proc. 2012;2012:2845-2848.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sundgaard JV, Harte J, Bray P, et al. Deep metric learning for otitis media classification. Med Image Anal. 2021;71:102034.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Livingstone D, Chau J. Otoscopic diagnosis using computer vision: an automated machine learning approach. Laryngoscope. 2020;130:1408-1413.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Khan MA, Kwon S, Choo J, et al. Automatic detection of tympanic membrane and middle ear infection from oto-endoscopic images via convolutional neural networks. Neural Netw. 2020;126:384-394. 10.1016/j.neunet.2020.03.023</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cai Y, Yu JG, Chen Y, et al. Investigating the use of a two-stage attention-aware convolutional neural network for the automated diagnosis of otitis media from tympanic membrane images: a prediction model development and validation study. BMJ Open. 2021;11(1):1-7.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Byun H, Yu S, Oh J, et al. An assistive role of a machine learning network in diagnosis of middle ear diseases. J Clin Med. 2021;10(15):3198.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang W, Tamhane A, Santos C, et al. Pediatric otoscopy video screening with shift contrastive anomaly detection. Front Digit Health. 2022;3:810427.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pichichero ME, Poole MD. Comparison of performance by otolaryngologists, pediatricians, and general practioners on an otoendoscopic diagnostic video examination. Int J Pediatr Otorhinolaryngol. 2005;69(3):361-366.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Geron A, Géron A. Hands-on machine learing with scikit-learn &amp; tensor flow [Internet]. O’Reilly Media; 2017:760. Accessed March 18, 2021. http://arxiv.org/abs/1412.3919</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kasher MS. Otitis media analysis-an automated feature extraction and image classification system. 2018. Accessed November 10, 2018. https://www.theseus.fi/handle/10024/144562</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pham VT, Tran TT, Wang PC, Chen PY, Lo MT. EAR-UNet: a deep learning-based approach for segmentation of tympanic membranes from otoscopic images. Artif Intell Med. 2021;115:102065.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pichichero ME. Can machine learning and AI replace otoscopy for diagnosis of otitis media? Pediatrics. 2021;147(4):e2020049584.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gulshan V, Peng L, Coram M, et al. Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs. JAMA. 2016;316(22):2402.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Krause J, Gulshan V, Rahimy E, et al. Grader variability and the importance of reference standards for evaluating machine learning models for diabetic retinopathy. Ophthalmology. 2018;125(8):1264-1272.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gates GA, Cooper JC. Effect of anesthetic gases on middle ear pressure in the presence of effusion. Ann Otol Rhinol Laryngol Suppl. 1980;89(3 Pt 2):62-64.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ghojogh B, Crowley M. The theory behind overfitting, cross validation, regularization, bagging, and boosting: tutorial. arXiv. 2019;1905.12787. http://arxiv.org/abs/1905.12787</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hawkins DM, Basak SC, Mills D. Assessing model fit by cross-validation. J Chem Inf Comput Sci. 2003;579-586.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Arlot S, Celisse A. A survey of cross-validation procedures for model selection. Stat Surv. 2010;4:40-79.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Alenezi EMA, Jajko K, Reid A, et al. The reliability of video otoscopy recordings and still images in the asynchronous diagnosis of middle-ear disease. Int J Audiology. 2021. doi:10.1080/14992027.2021.1983217.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Myburgh HC, Jose S, Swanepoel DW, Laurent C. Towards low cost automated smartphone- and cloud-based otitis media diagnosis. Biomed Signal Process Control. 2018;39:34-52.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Senaras C, Moberly AC, Teknos T, Essig G, Elmaraghy C, Taj-Schaal N, et al. Detection of eardrum abnormalities using ensemble deep learning approaches. In: Mori K, Petrick N, eds. Medical Imaging 2018: Computer-Aided Diagnosis [Internet]. SPIE; 2018:45. Accessed February 26, 2019. https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10575/2293297/Detection-of-eardrum-abnormalities-using-ensemble-deep-learning-approaches/10.1117/12.2293297.full</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tran TT, Fang TY, Pham VT, Lin C, Wang PC, Lo MT. Development of an automatic diagnostic algorithm for pediatric otitis media. Otol Neurotol. 2018;39(8):1060-1065.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Senaras C, Moberly AC, Teknos T, et al. Autoscope: automated otoscopy image analysis to diagnose ear pathology and use of clinically motivated eardrum features. Med Imaging 2017: Compu-Aided Diagnosis. 2017;10134(March 2017):101341X.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Myburgh HC, van Zijl WH, Swanepoel DW, Hellström S, Laurent C. Otitis media diagnosis for developing countries using tympanic membrane image-analysis. EBioMedicine. 2016;5:156-160.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang X, Valdez TA, Bi J. Detecting tympanostomy tubes from otoscopic images via offline and online training. Comput Biol Med. 2015;61:107-118. 10.1016/j.compbiomed.2015.03.025</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shie CK, Chang HT, Fan FC, et al. A hybrid feature-based segmentation and classification system for the computer aided self-diagnosis of otitis media. In: 2014 36th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC 2014. 2014:4655-4658.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kuruvilla A, Shaikh N, Hoberman A, Kovačević J. Automated diagnosis of otitis media: vocabulary and grammar. Int J Biomed Imaging. 2013;2013:1-15.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kuruvilla A, Li J, Yeomans PH, Quelhas P, Instituto I, Biomedica DE. Otitis media vocabulary and grammar. IEEE. 2012;2845-2848.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mironicǎ I, Vertan C, Gheorghe DC. Automatic pediatric otitis detection by classification of global image features. 2011 E-Health and Bioengineering Conference, EHB 2011. 2011:1-4.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Vertan C, Gheorghe DC, Ionescu B, Eardrum color content analysis in video-otoscopy images for the diagnosis support of pediatric otitis. ISSCS 2011 - International Symposium on Signals, Circuits and Systems, Proceedings. 2011;129-32.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

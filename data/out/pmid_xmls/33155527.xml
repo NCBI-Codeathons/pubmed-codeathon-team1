@@ -1,0 +1,162 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">33155527</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1538-0254</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>40</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of biomolecular structure &amp; dynamics</Title>
+          <ISOAbbreviation>J Biomol Struct Dyn</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Identification of small molecules against cyclin dependent kinase-5 using chemoinformatics approach for Alzheimer's disease and other tauopathies.</ArticleTitle>
+        <Pagination>
+          <StartPage>2815</StartPage>
+          <EndPage>2827</EndPage>
+          <MedlinePgn>2815-2827</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1080/07391102.2020.1844050</ELocationID>
+        <Abstract>
+          <AbstractText>Alzheimer's disease (AD) is a multifactorial complex and wide spreading global disease. It is a chronic neurodegenerative disorder characterized by amyloid beta (Aβ) and neurofibrillary tangles (NFTs). Several enzymes are involved in which CDK5 is a major tau phosphorylation enzyme. We have screened (<i>n</i> = 5,36,801) compounds against CDK5 and 392 compounds were selected for pharmacokinetics analysis. In the pharmacokinetics analysis, various descriptors were used for filtering the compounds. After that 16 compounds with the control compound Z3R were employed for the redocking using Autodock Vina and Autodock. Lastly, four compounds were selected and employed for 100 ns MDS studies. On the basis of various MD analysis like RMSD, RMSF, Rg, SASA, Number of hydrogen bonds, Principal component analysis and binding free energy (CDK5-ZINC6261568: -129.50 kJ.mol<sup>-1</sup> and CDK5-ZINC14168360: -191.16 kJ.mol<sup>-1</sup>), we have found that ZINC6261568 and ZINC14168360 can act as a lead compound against the CDK5.Communicated by Ramaswamy H. Sarma.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Shukla</LastName>
+            <ForeName>Rohit</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biotechnology and Bioinformatics, Jaypee University of Information Technology (JUIT), Waknaghat, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Singh</LastName>
+            <ForeName>Tiratha Raj</ForeName>
+            <Initials>TR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biotechnology and Bioinformatics, Jaypee University of Information Technology (JUIT), Waknaghat, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>11</Month>
+          <Day>06</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Biomol Struct Dyn</MedlineTA>
+        <NlmUniqueID>8404176</NlmUniqueID>
+        <ISSNLinking>0739-1102</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016229">Amyloid beta-Peptides</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016875">tau Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="D051360">Cyclin-Dependent Kinase 5</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000544" MajorTopicYN="Y">Alzheimer Disease</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016229" MajorTopicYN="N">Amyloid beta-Peptides</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000080911" MajorTopicYN="N">Cheminformatics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051360" MajorTopicYN="N">Cyclin-Dependent Kinase 5</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016874" MajorTopicYN="N">Neurofibrillary Tangles</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010766" MajorTopicYN="N">Phosphorylation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016875" MajorTopicYN="N">tau Proteins</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Alzheimer’s disease</Keyword>
+        <Keyword MajorTopicYN="Y">CDK5</Keyword>
+        <Keyword MajorTopicYN="Y">MM-PBSA</Keyword>
+        <Keyword MajorTopicYN="Y">molecular docking</Keyword>
+        <Keyword MajorTopicYN="Y">molecular dynamics simulation</Keyword>
+        <Keyword MajorTopicYN="Y">neurofibrillary tangles</Keyword>
+        <Keyword MajorTopicYN="Y">principal component analysis</Keyword>
+        <Keyword MajorTopicYN="Y">virtual screening</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>11</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>11</Month>
+          <Day>6</Day>
+          <Hour>8</Hour>
+          <Minute>40</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">33155527</ArticleId>
+        <ArticleId IdType="doi">10.1080/07391102.2020.1844050</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

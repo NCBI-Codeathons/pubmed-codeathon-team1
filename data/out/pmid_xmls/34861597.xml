@@ -1,0 +1,808 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">34861597</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>01</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1873-6882</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>70</Volume>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Oct</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Current opinion in neurobiology</Title>
+          <ISOAbbreviation>Curr Opin Neurobiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Dynamical self-organization and efficient representation of space by grid cells.</ArticleTitle>
+        <Pagination>
+          <StartPage>206</StartPage>
+          <EndPage>213</EndPage>
+          <MedlinePgn>206-213</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.conb.2021.11.007</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0959-4388(21)00134-3</ELocationID>
+        <Abstract>
+          <AbstractText>To plan trajectories and navigate, animals must maintain a mental representation of the environment and their own position within it. This "cognitive map" is thought to be supported in part by the entorhinal cortex, where grid cells are active when an animal occupies the vertices of a scaling hierarchy of periodic lattices of locations in an enclosure. Here, we review computational developments which suggest that the grid cell network is: (a) efficient, providing required spatial resolution with a minimum number of neurons, (b) self-organizing, dynamically coordinating the structure and scale of the responses, and (c) adaptive, re-organizing in response to changes in landmarks and the structure of the boundaries of spaces. We consider these ideas in light of recent discoveries of similar structures in the mental representation of abstract spaces of shapes and smells, and in other brain areas, and highlight promising directions for future research.</AbstractText>
+          <CopyrightInformation>Copyright © 2021 The Author(s). Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>DiTullio</LastName>
+            <ForeName>Ronald W</ForeName>
+            <Initials>RW</Initials>
+            <AffiliationInfo>
+              <Affiliation>David Rittenhouse Laboratories &amp; Computational Neuroscience Initiative, University of Pennsylvania, Philadelphia, PA 19104, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Balasubramanian</LastName>
+            <ForeName>Vijay</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>David Rittenhouse Laboratories &amp; Computational Neuroscience Initiative, University of Pennsylvania, Philadelphia, PA 19104, USA. Electronic address: vijay@physics.upenn.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 MH125544</GrantID>
+            <Acronym>MH</Acronym>
+            <Agency>NIMH NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>30</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Curr Opin Neurobiol</MedlineTA>
+        <NlmUniqueID>9111376</NlmUniqueID>
+        <ISSNLinking>0959-4388</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018728" MajorTopicYN="N">Entorhinal Cortex</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008959" MajorTopicYN="Y">Models, Neurological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013028" MajorTopicYN="Y">Space Perception</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>Conflict of interest statement Nothing declared.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>9</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pmc-release">
+          <Year>2022</Year>
+          <Month>11</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>3</Day>
+          <Hour>20</Hour>
+          <Minute>24</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34861597</ArticleId>
+        <ArticleId IdType="mid">NIHMS1757151</ArticleId>
+        <ArticleId IdType="pmc">PMC8688296</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.conb.2021.11.007</ArticleId>
+        <ArticleId IdType="pii">S0959-4388(21)00134-3</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Tolman EC, Psychological review
+55, 189 (1948).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18870876</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Edvardsen V, Bicanski A, and Burgess N, Hippocampus
+30, 220 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8641373</ArticleId>
+            <ArticleId IdType="pubmed">31408264</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee H, GoodSmith D, and Knierim JJ, “Parallel processing streams in the hippocampus,” (2020).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang C, Chen X, and Knierim JJ, “Egocentric and allocentric representations of space in the rodent brain,” (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7080648</ArticleId>
+            <ArticleId IdType="pubmed">31794917</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hafting T, Fyhn M, Molden S, Moser MB, and Moser EI, Nature
+436, 801 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15965463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Solstad T, Boccara CN, Kropff E, Moser MB, and Moser EI, Science
+322, 1865 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19095945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taube JS, Annu. Rev. Neurosci
+30, 181 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17341158</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Deshmukh SS and Knierim JJ, Hippocampus
+23, 253 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3869706</ArticleId>
+            <ArticleId IdType="pubmed">23447419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Connor CE and Knierim JJ, “Integration of objects and space in perception and memory,” (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5920781</ArticleId>
+            <ArticleId IdType="pubmed">29073645</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Høydal ØA, Skytøen ER, Andersson SO, Moser M-B, and Moser EI, Nature
+568, 400 (2019).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30944479</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hinman JR, Brandon MP, Climer JR, Chapman GW, and Hasselmo ME, Neuron
+91, 666 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4976037</ArticleId>
+            <ArticleId IdType="pubmed">27427460</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Munn RG, Mallory CS, Hardcastle K, Chetkovich DM, and Giocomo LM, Nature neuroscience
+23, 239 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7007349</ArticleId>
+            <ArticleId IdType="pubmed">31932764</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eichenbaum H, Nature Reviews Neuroscience
+15, 732 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4348090</ArticleId>
+            <ArticleId IdType="pubmed">25269553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Salz DM, Tiganj Z, Khasnabish S, Kohley A, Sheehan D, Howard MW, and Eichenbaum H, Journal of Neuroscience
+36, 7476 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4945667</ArticleId>
+            <ArticleId IdType="pubmed">27413157</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stensola H, Stensola T, Solstad T, FrØland K, Moser MB, and Moser EI, “The entorhinal grid map is discretized,” (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23222610</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burak Y and Fiete IR, PLoS Computational Biology
+5 (2009), 10.1371/journal.pcbi.1000291.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1000291</ArticleId>
+            <ArticleId IdType="pmc">PMC2632741</ArticleId>
+            <ArticleId IdType="pubmed">19229307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bush D and Burgess N, Journal of Neuroscience
+34, 5065 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3972729</ArticleId>
+            <ArticleId IdType="pubmed">24695724</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shay CF, Ferrante M, Chapman IV GW, and Hasselmo ME, Neurobiology of learning and memory
+129, 83 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4792788</ArticleId>
+            <ArticleId IdType="pubmed">26385258</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Si B, Kropff E, and Treves A, Biological cybernetics
+106, 483 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22892761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urdapilleta E, Si B, and Treves A, Hippocampus
+27, 1204 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5697658</ArticleId>
+            <ArticleId IdType="pubmed">28768062</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stella F, Urdapilleta E, Luo Y, and Treves A, Hippocampus
+30, 302 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31339190</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fiete IR, Burak Y, and Brookings T, Journal of Neuroscience
+28, 6858 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6670990</ArticleId>
+            <ArticleId IdType="pubmed">18596161</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sreenivasan S and Fiete I, Nature neuroscience
+14, 1330 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21909090</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mathis A, Herz AV, and Stemmler M, Neural computation
+24, 2280 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22594833</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wei X-X, Prentice J, and Balasubramanian V, Elife
+4, e08362 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4616244</ArticleId>
+            <ArticleId IdType="pubmed">26335200</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hardcastle K, Ganguli S, and Giocomo LM, Neuron
+86, 827 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25892299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Keinath AT, Epstein RA, and Balasubramanian V, eLife
+7 (2018), 10.7554/eLife.38169.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.38169</ArticleId>
+            <ArticleId IdType="pmc">PMC6203432</ArticleId>
+            <ArticleId IdType="pubmed">30346272</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krupic J, Bauza M, Burton S, Barry C, and O’Keefe J, Nature
+518, 232 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4576734</ArticleId>
+            <ArticleId IdType="pubmed">25673417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Constantinescu AO, O’Reilly JX, and Behrens TE, Science
+352, 1464 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5248972</ArticleId>
+            <ArticleId IdType="pubmed">27313047</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aronov D, Nevers R, and Tank DW, Nature
+543, 719 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5492514</ArticleId>
+            <ArticleId IdType="pubmed">28358077</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Low RJ, Lewallen S, Aronov D, Nevers R, and Tank DW, “Probing variability in a cognitive map using manifold inference from neural dynamics,” (2018).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Barron HC, Reeve HM, Koolschijn RS, Perestenko PV, Shpektor A, Nili H, Rothaermel R, Campo-Urriza N, O’Reilly JX, Bannerman DM, Behrens TE, and Dupret D, Cell
+183, 228 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7116148</ArticleId>
+            <ArticleId IdType="pubmed">32946810</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Whittington JC, Muller TH, Mark S, Chen G, Barry C, Burgess N, and Behrens TE, Cell (2020), 10.1016/j.cell.2020.10.024.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2020.10.024</ArticleId>
+            <ArticleId IdType="pmc">PMC7707106</ArticleId>
+            <ArticleId IdType="pubmed">33181068</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bao X, Gjorgieva E, Shanahan LK, Howard JD, Kahnt T, and Gottfried JA, Neuron
+102, 1066 (2019).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7497729</ArticleId>
+            <ArticleId IdType="pubmed">31023509</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Raithel CU and Gottfried JA, Behavioral Neuroscience (2021), 10.1037/bne0000453.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1037/bne0000453</ArticleId>
+            <ArticleId IdType="pmc">PMC8299309</ArticleId>
+            <ArticleId IdType="pubmed">33734733</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Witter MP, Doan TP, Jacobsen B, Nilssen ES, and Ohara S, “Architecture of the entorhinal cortex a review of entorhinal anatomy in rodents with some comparative notes,” (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5488372</ArticleId>
+            <ArticleId IdType="pubmed">28701931</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dannenberg XH, Kelley C, Hoyland XA, Monaghan XCK, and Hasselmo XME, 39, 3434 (2019).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Barry C, Hayman R, Burgess N, and Jeffery KJ, Nature neuroscience
+10, 682 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17486102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krupic J, Bauza M, Burton S, Lever C, and O’Keefe J, Philosophical Transactions of the Royal Society B: Biological Sciences
+369 (2014), 10.1098/rstb.2013.0188.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1098/rstb.2013.0188</ArticleId>
+            <ArticleId IdType="pmc">PMC3866452</ArticleId>
+            <ArticleId IdType="pubmed">24366142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zilli EA, Frontiers in Neural Circuits
+6, 1 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3328924</ArticleId>
+            <ArticleId IdType="pubmed">22529780</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cueva CJ and Wei XX, 6th International Conference on Learning Representations, ICLR 2018 - Conference Track Proceedings , 1 (2018), arXiv:1803.07770.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dordek Y, Soudry D, Meir R, and Derdikman D, eLife
+5 (2016), 10.7554/eLife.10094.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.10094</ArticleId>
+            <ArticleId IdType="pmc">PMC4841785</ArticleId>
+            <ArticleId IdType="pubmed">26952211</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stachenfeld KL, Botvinick MM, and Gershman SJ, Nature Neuroscience
+20, 1643 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28967910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schönfeld F and Wiskott L, Frontiers in computational neuroscience
+9, 51 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4441153</ArticleId>
+            <ArticleId IdType="pubmed">26052279</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rowland DC, Obenhaus HA, Skytøen ER, Zhang Q, Kentros CG, Moser EI, and Moser MB, eLife
+7, 1 (2018).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zutshi I, Fu ML, Lilascharoen V, Leutgeb JK, Lim BK, and Leutgeb S, Nature communications
+9, 1 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6135799</ArticleId>
+            <ArticleId IdType="pubmed">30209250</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Witter MP, Doan TP, Jacobsen B, Nilssen ES, and Ohara S, Frontiers in Systems Neuroscience
+11, 1 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mosheiff N and Burak Y, eLife
+8 (2019), 10.7554/eLife.48494.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.48494</ArticleId>
+            <ArticleId IdType="pmc">PMC6756787</ArticleId>
+            <ArticleId IdType="pubmed">31469365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pollock E, Desai N, Wei X.-x., and Balasubramanian V, arXiv preprint arXiv:1808.01503 (2018).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Keinath AT, Julian JB, Epstein RA, and Muzzio IA, Current Biology
+27, 309 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5296211</ArticleId>
+            <ArticleId IdType="pubmed">28089516</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ocko SA, Hardcastle K, Giocomo LM, and Ganguli S, Proceedings of the National Academy of Sciences
+115, E11798 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6294895</ArticleId>
+            <ArticleId IdType="pubmed">30482856</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Monaco JD and Abbott LF, Journal of Neuroscience
+31, 9414 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3143841</ArticleId>
+            <ArticleId IdType="pubmed">21697391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lyttle D, Gereke B, Lin KK, and Fellous J-M, Hippocampus
+23, 729 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4120775</ArticleId>
+            <ArticleId IdType="pubmed">23576417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brandon MP, Bogaard AR, Libby CP, Connerney MA, Gupta K, and Hasselmo ME, Science
+332, 595 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3252766</ArticleId>
+            <ArticleId IdType="pubmed">21527714</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bush D, Barry C, and Burgess N, Trends in neurosciences
+37, 136 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3945817</ArticleId>
+            <ArticleId IdType="pubmed">24485517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bonnevie T, Dunn B, Fyhn M, Hafting T, Derdikman D, Kubie JL, Roudi Y, Moser EI, and Moser MB, Nature Neuroscience
+16, 309 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23334581</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tesileanu T, Conte MM, Briguglio JJ, Hermundstad AM, Victor JD, and Balasubramanian V, ELife
+9, e54347 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7494356</ArticleId>
+            <ArticleId IdType="pubmed">32744505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lewicki MS, Nature neuroscience
+5, 356 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11896400</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith EC and Lewicki MS, Nature
+439, 978 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16495999</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Teşileanu T, Cocco S, Monasson R, and Balasubramanian V, Elife
+8, e39279 (2019).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6398974</ArticleId>
+            <ArticleId IdType="pubmed">30806351</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Banino A, Barry C, Uria B, Blundell C, Lillicrap T, Mirowski P, Pritzel A, Chadwick MJ, Degris T, Modayil J, Wayne G, Soyer H, Viola F, Zhang B, Goroshin R, Rabinowitz N, Pascanu R, Beattie C, Petersen S, Sadik A, Gaffney S, King H, Kavukcuoglu K, Hassabis D, Hadsell R, and Kumaran D, Nature
+557, 429 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29743670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kanitscheider I and Fiete I, arXiv preprint arXiv:1609.09059 and NeurIPS
+2017 (2017).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Piray P and Daw ND, Nature communications
+12, 1 (2021).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8368103</ArticleId>
+            <ArticleId IdType="pubmed">34400622</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barry C, Ginzberg LL, O’Keefe J, and Burgess N, Proceedings of the National Academy of Sciences
+109, 17687 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3491492</ArticleId>
+            <ArticleId IdType="pubmed">23045662</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Turner-Evans DB, Jensen KT, Ali S, Paterson T, Sheridan A, Ray RP, Wolff T, Lauritzen JS, Rubin GM, Bock DD, et al.
+Neuron
+108, 145 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8356802</ArticleId>
+            <ArticleId IdType="pubmed">32916090</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lu J, Westeinde EA, Hamburg L, Dawson PM, Lyu B, Maimon G, Druckmann S, and Wilson RI, bioRxiv (2020).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Babichev A, Morozov D, and Dabaghian Y, PLoS computational biology
+14, e1006433 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6161922</ArticleId>
+            <ArticleId IdType="pubmed">30226836</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kang L, Xu B, and Morozov D, Frontiers in Computational Neuroscience
+15, 28 (2021).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lepperød ME, Christensen AC, Lensjø KK, Buccino AP, Yu J, Fyhn M, and Hafting T, Science Advances
+7, eabd5684 (2021).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33952512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zilli EA, Yoshida M, Tahvildari B, Giocomo LM, and Hasselmo ME, PLoS computational biology
+5, e1000573 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2773844</ArticleId>
+            <ArticleId IdType="pubmed">19936051</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bush D and Burgess N, Hippocampus
+30, 745 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7383596</ArticleId>
+            <ArticleId IdType="pubmed">32065488</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neru A and Assisi C, Eneuro (2021).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ferrante M, Shay CF, Tsuno Y, William Chapman G, and Hasselmo ME, Cerebral Cortex
+27, 2111 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5963826</ArticleId>
+            <ArticleId IdType="pubmed">26965902</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urdapilleta E, Si B, and Treves A, Hippocampus
+27, 1204 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5697658</ArticleId>
+            <ArticleId IdType="pubmed">28768062</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Derdikman D, Whitlock JR, Tsao A, Fyhn M, Hafting T, Moser MB, and Moser EI, Nature Neuroscience
+12, 1325 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19749749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carpenter F, Manson D, Jeffery K, Burgess N, and Barry C, Current Biology
+25, 1176 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4425461</ArticleId>
+            <ArticleId IdType="pubmed">25913404</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Posani L, Cocco S, and Monasson R, PLoS computational biology
+14, e1006320 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6117099</ArticleId>
+            <ArticleId IdType="pubmed">30106966</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bicanski A and Burgess N, eLife
+7 (2018), 10.7554/eLife.33752.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.33752</ArticleId>
+            <ArticleId IdType="pmc">PMC6122954</ArticleId>
+            <ArticleId IdType="pubmed">30176988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jezek K, Henriksen EJ, Treves A, Moser EI, and Moser M-B, Nature
+478, 246 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21964339</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boccara CN, Sargolini F, Thoresen VH, Solstad T, Witter MP, Moser EI, and Moser MB, Nature Neuroscience
+13, 987 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20657591</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krupic J, Bauza M, Burton S, and O’Keefe J, Science
+359, 1143 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6331044</ArticleId>
+            <ArticleId IdType="pubmed">29590044</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Julian JB, Keinath AT, Frazzetta G, and Epstein RA, Nature neuroscience
+21, 191 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5801057</ArticleId>
+            <ArticleId IdType="pubmed">29311745</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Keinath AT, Rechnitz O, Balasubramanian V, and Epstein RA, Hippocampus
+31, 89 (2021).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8293620</ArticleId>
+            <ArticleId IdType="pubmed">32941670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stensola T and Moser EI, in Research and Perspectives in Neurosciences, 9783319288017 (Springer Verlag, 2016) pp. 59–80.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Savelli F, Luck JD, and Knierim JJ, eLife
+6 (2017), 10.7554/eLife.21354.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.21354</ArticleId>
+            <ArticleId IdType="pmc">PMC5271608</ArticleId>
+            <ArticleId IdType="pubmed">28084992</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Knierim JJ and Neunuebel JP, “Tracking the flow of hippocampal computation: Pattern separation, pattern completion, and attractor dynamics,” (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4792674</ArticleId>
+            <ArticleId IdType="pubmed">26514299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alexander AS, Robinson JC, Dannenberg H, Kinsky NR, Levy SJ, Mau W, Chapman GW, Sullivan BW, and Hasselmo ME, (2020), 10.1177/2398212820972871.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/2398212820972871</ArticleId>
+            <ArticleId IdType="pmc">PMC7708714</ArticleId>
+            <ArticleId IdType="pubmed">33294626</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>LaChance PA, Todd TP, and Taube JS, Science
+365 (2019), 10.1126/science.aax4192.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aax4192</ArticleId>
+            <ArticleId IdType="pmc">PMC7063980</ArticleId>
+            <ArticleId IdType="pubmed">31296737</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hintiryan H, Foster NN, Bowman I, Bay M, Song MY, Gou L, Yamashita S, Bienkowski MS, Zingg B, Zhu M, Yang XW, Shih JC, Toga AW, and Dong HW, Nature Neuroscience
+19, 1100 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5564682</ArticleId>
+            <ArticleId IdType="pubmed">27322419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jacobs LF, Proceedings of the National Academy of Sciences
+109, 10693 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3386877</ArticleId>
+            <ArticleId IdType="pubmed">22723365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

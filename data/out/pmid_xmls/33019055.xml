@@ -1,0 +1,129 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">33019055</PMID>
+      <DateCompleted>
+        <Year>2020</Year>
+        <Month>10</Month>
+        <Day>26</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>10</Month>
+        <Day>26</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2694-0604</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>2020</Volume>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference</Title>
+          <ISOAbbreviation>Annu Int Conf IEEE Eng Med Biol Soc</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Development of A Learning-Based Terrain Classification Framework for Pushrim-Activated Power-Assisted Wheelchairs<sup/>.</ArticleTitle>
+        <Pagination>
+          <StartPage>4762</StartPage>
+          <EndPage>4765</EndPage>
+          <MedlinePgn>4762-4765</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1109/EMBC44109.2020.9175678</ELocationID>
+        <Abstract>
+          <AbstractText>Pushrim-activated power-assisted wheels (PAPAWs) are assistive technologies that provide on-demand torque assistance to wheelchair users. Although the available power can reduce the physical load of wheelchair propulsion, it may also cause maneuverability and controllability issues. Commercially-available PAPAW controllers are insensitive to environmental changes, leading to inefficient and/or unsafe wheelchair movements. In this regard, adaptive velocity/torque control strategies could be employed to improve safety and stability. To investigate this objective, we propose a context-aware sensory framework to recognize terrain conditions. In this paper, we present a learning-based terrain classification framework for PAPAWs. Study participants performed various maneuvers consisting of common daily-life wheelchair propulsion routines on different indoor and outdoor terrains. Relevant features from wheelchair frame-mounted gyroscope and accelerometer measurements were extracted and used to train and test the proposed classifiers. Our findings revealed that a one-stage multi-label classification framework has a higher accuracy performance compared to a two-stage classification pipeline with an indoor-outdoor classification in the first stage. We also found that, on average, outdoor terrains can be classified with higher accuracy (90%) compared to indoor terrains (65%). This framework can be used for real-time terrain classification applications and provide the required information for an adaptive velocity/torque controller design.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Khalili</LastName>
+            <ForeName>Mahsa</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McConkey</LastName>
+            <ForeName>Keenan T</ForeName>
+            <Initials>KT</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ta</LastName>
+            <ForeName>Kevin</ForeName>
+            <Initials>K</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Lyndia C</ForeName>
+            <Initials>LC</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Van der Loos</LastName>
+            <ForeName>H F Machiel</ForeName>
+            <Initials>HFM</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Borisoff</LastName>
+            <ForeName>Jaimie F</ForeName>
+            <Initials>JF</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Annu Int Conf IEEE Eng Med Biol Soc</MedlineTA>
+        <NlmUniqueID>101763872</NlmUniqueID>
+        <ISSNLinking>2375-7477</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006233" MajorTopicYN="Y">Disabled Persons</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007858" MajorTopicYN="N">Learning</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014910" MajorTopicYN="Y">Wheelchairs</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>10</Month>
+          <Day>6</Day>
+          <Hour>1</Hour>
+          <Minute>5</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>10</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2020</Year>
+          <Month>10</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">33019055</ArticleId>
+        <ArticleId IdType="doi">10.1109/EMBC44109.2020.9175678</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

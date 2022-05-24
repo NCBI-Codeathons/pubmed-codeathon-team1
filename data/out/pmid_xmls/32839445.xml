@@ -1,0 +1,610 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">32839445</PMID>
+      <DateCompleted>
+        <Year>2020</Year>
+        <Month>09</Month>
+        <Day>14</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>22</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2041-1723</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>11</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>Aug</Month>
+              <Day>24</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nature communications</Title>
+          <ISOAbbreviation>Nat Commun</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Grid cells are modulated by local head direction.</ArticleTitle>
+        <Pagination>
+          <StartPage>4228</StartPage>
+          <MedlinePgn>4228</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">4228</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41467-020-17500-1</ELocationID>
+        <Abstract>
+          <AbstractText>Grid and head direction codes represent cognitive spaces for navigation and memory. Pure grid cells generate grid codes that have been assumed to be independent of head direction, whereas conjunctive cells generate grid representations that are tuned to a single head direction. Here, we demonstrate that pure grid cells also encode head direction, but through distinct mechanisms. We show that individual firing fields of pure grid cells are tuned to multiple head directions, with the preferred sets of directions differing between fields. This local directional modulation is not predicted by previous continuous attractor or oscillatory interference models of grid firing but is accounted for by models in which pure grid cells integrate inputs from co-aligned conjunctive cells with firing rates that differ between their fields. We suggest that local directional signals from grid cells may contribute to downstream computations by decorrelating different points of view from the same location.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Gerlei</LastName>
+            <ForeName>Klara</ForeName>
+            <Initials>K</Initials>
+            <Identifier Source="ORCID">0000-0002-7803-6666</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Centre for Discovery Brain Sciences, University of Edinburgh, Edinburgh, EH8 9XD, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Passlack</LastName>
+            <ForeName>Jessica</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Discovery Brain Sciences, University of Edinburgh, Edinburgh, EH8 9XD, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Hawes</LastName>
+            <ForeName>Ian</ForeName>
+            <Initials>I</Initials>
+            <Identifier Source="ORCID">0000-0002-3574-7812</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Centre for Discovery Brain Sciences, University of Edinburgh, Edinburgh, EH8 9XD, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vandrey</LastName>
+            <ForeName>Brianna</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Discovery Brain Sciences, University of Edinburgh, Edinburgh, EH8 9XD, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Stevens</LastName>
+            <ForeName>Holly</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Discovery Brain Sciences, University of Edinburgh, Edinburgh, EH8 9XD, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Papastathopoulos</LastName>
+            <ForeName>Ioannis</ForeName>
+            <Initials>I</Initials>
+            <Identifier Source="ORCID">0000-0002-7498-2540</Identifier>
+            <AffiliationInfo>
+              <Affiliation>School of Mathematics, Maxwell Institute and Centre for Statistics, University of Edinburgh, Edinburgh, EH9 3FD, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The Alan Turing Institute, 96 Euston Road, London, NW1 2DB, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nolan</LastName>
+            <ForeName>Matthew F</ForeName>
+            <Initials>MF</Initials>
+            <Identifier Source="ORCID">0000-0003-1062-6501</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Centre for Discovery Brain Sciences, University of Edinburgh, Edinburgh, EH8 9XD, UK. mattnolan@ed.ac.uk.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Simons Initiative for the Developing Brain, University of Edinburgh, Edinburgh, EH8 9XD, UK. mattnolan@ed.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <Acronym>WT_</Acronym>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>200855/Z/16/Z</GrantID>
+            <Acronym>WT_</Acronym>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>108890/Z/15/Z</GrantID>
+            <Acronym>WT_</Acronym>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>BB/L010496/1</GrantID>
+            <Acronym>BB_</Acronym>
+            <Agency>Biotechnology and Biological Sciences Research Council</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>08</Month>
+          <Day>24</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Nat Commun</MedlineTA>
+        <NlmUniqueID>101528555</NlmUniqueID>
+        <ISSNLinking>2041-1723</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000200" MajorTopicYN="N">Action Potentials</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004594" MajorTopicYN="N">Electrophysiology</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018728" MajorTopicYN="N">Entorhinal Cortex</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071038" MajorTopicYN="N">Grid Cells</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006257" MajorTopicYN="N">Head</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008959" MajorTopicYN="N">Models, Neurological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009043" MajorTopicYN="N">Motor Activity</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2019</Year>
+          <Month>8</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>7</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>8</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>8</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32839445</ArticleId>
+        <ArticleId IdType="pmc">PMC7445272</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41467-020-17500-1</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41467-020-17500-1</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Wolbers T, Hegarty M. What determines our navigational abilities? Trends Cogn. Sci. 2010;14:138–146.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20138795</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buzsáki G, Moser EI. Memory, navigation and theta rhythm in the hippocampal-entorhinal system. Nat. Neurosci. 2013;16:130–138.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4079500</ArticleId>
+            <ArticleId IdType="pubmed">23354386</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Epstein RA, Patai EZ, Julian JB, Spiers HJ. The cognitive map in humans: spatial navigation and beyond. Nat. Neurosci. 2017;20:1504–1513.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6028313</ArticleId>
+            <ArticleId IdType="pubmed">29073650</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bellmund, J. L. S., Gärdenfors, P., Moser, E. I. &amp; Doeller, C. F. Navigating cognition: spatial codes for human thinking. Science362, eaat6766 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30409861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hafting T, Fyhn M, Molden S, Moser M-B, Moser EI. Microstructure of a spatial map in the entorhinal cortex. Nature. 2005;436:801–806.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15965463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Valerio S, Taube JS. Path integration: how the head direction signal maintains and corrects spatial orientation. Nat. Neurosci. 2012;15:1445–1453.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3458173</ArticleId>
+            <ArticleId IdType="pubmed">22983210</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hardcastle K, et al.  A multiplexed, heterogeneous, and adaptive code for navigation in medial entorhinal cortex. Neuron. 2017;94:375.e7–387.e7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5498174</ArticleId>
+            <ArticleId IdType="pubmed">28392071</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sargolini F, et al.  Conjunctive representation of position, direction, and velocity in entorhinal cortex. Science. 2006;312:758–762.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16675704</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guanella A, Kiper D, Verschure P. A model of grid cells based on a twisted torus topology. Int. J. Neural Syst. 2007;17:231–240.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17696288</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burak Y, Fiete IR. Accurate path integration in continuous attractor network models of grid cells. PLoS Comput. Biol. 2009;5:e1000291.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2632741</ArticleId>
+            <ArticleId IdType="pubmed">19229307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fuhs MC, Touretzky DS. A spin glass model of path integration in rat medial entorhinal cortex. J. Neurosci. 2006;26:4266–4276.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6674007</ArticleId>
+            <ArticleId IdType="pubmed">16624947</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burgess N, Barry C, O’Keefe J. An oscillatory interference model of grid cell firing. Hippocampus. 2007;17:801–812.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2678278</ArticleId>
+            <ArticleId IdType="pubmed">17598147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pastoll H, Solanka L, van Rossum MCW, Nolan MF. Feedback inhibition enables theta-nested gamma oscillations and grid firing fields. Neuron. 2013;77:141–154.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23312522</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McNaughton BL, Battaglia FP, Jensen O, Moser EI, Moser M-B. Path integration and the neural basis of the ‘cognitive map’. Nat. Rev. Neurosci. 2006;7:663–678.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16858394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Si B, Treves A. A model for the differentiation between grid and conjunctive units in medial entorhinal cortex. Hippocampus. 2013;23:1410–1424.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23966345</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fiete IR, Burak Y, Brookings T. What grid cells convey about rat location. J. Neurosci. 2008;28:6858–6871.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6670990</ArticleId>
+            <ArticleId IdType="pubmed">18596161</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stemmler M, Mathis A, Herz AVM. Connecting multiple spatial scales to decode the population activity of grid cells. Sci. Adv. 2015;1:e1500816.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4730856</ArticleId>
+            <ArticleId IdType="pubmed">26824061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muller RU, Bostock E, Taube JS, Kubie JL. On the directional firing properties of hippocampal place cells. J. Neurosci. 1994;14:7235–7251.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6576887</ArticleId>
+            <ArticleId IdType="pubmed">7996172</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kropff E, Carmichael JE, Moser M-B, Moser EI. Speed cells in the medial entorhinal cortex. Nature. 2015;523:419–424.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26176924</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Góis ZHTD, Tort ABL. Characterizing speed cells in the rat hippocampus. Cell Rep. 2018;25:1872.e4–1884.e4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30428354</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iwase M, Kitanishi T, Mizuseki K. Cell type, sub-region, and layer-specific speed representation in the hippocampal–entorhinal circuit. Sci. Rep. 2020;10:1407.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6989659</ArticleId>
+            <ArticleId IdType="pubmed">31996750</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Giocomo LM, Moser M-B, Moser EI. Review computational models of grid cells. Neuron. 2011;71:589–603.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21867877</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Giocomo LM, Zilli EA, Fransén E, Hasselmo ME. Temporal frequency of subthreshold oscillations scales with entorhinal grid cell field spacing. Science. 2007;315:1719–1722.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2950607</ArticleId>
+            <ArticleId IdType="pubmed">17379810</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ismakov R, Barak O, Jeffery K, Derdikman D. Grid cells encode local positional information. Curr. Biol. 2017;27:2337.e3–2343.e3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5558037</ArticleId>
+            <ArticleId IdType="pubmed">28756950</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tocker, G., Barak, O. &amp; Derdikman, D. Grid cells correlation structure suggests organized feedforward projections into superficial layers of the medial entorhinal cortex. Hippocampus10.1002/hipo.22481 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26105192</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beed P, et al.  Analysis of excitatory microcircuitry in the medial entorhinal cortex reveals cell-type-specific differences. Neuron. 2010;68:1059–1066.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21172609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Köhler C. Intrinsic connections of the retrohippocampal region in the rat brain. II. The medial entorhinal area. J. Comp. Neurol. 1986;246:149–169.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3958250</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Samsonovich A, McNaughton BL. Path integration and cognitive mapping in a continuous attractor neural network model. J. Neurosci. 1997;17:5900–5920.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6573219</ArticleId>
+            <ArticleId IdType="pubmed">9221787</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hardcastle K, Ganguli S, Giocomo LM. Cell types for our sense of location: where we are and where we are going. Nat. Neurosci. 2017;20:1474–1482.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6175666</ArticleId>
+            <ArticleId IdType="pubmed">29073649</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tennant SA, et al.  Stellate cells in the medial entorhinal cortex are required for spatial learning. Cell Rep. 2018;22:1313–1324.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5809635</ArticleId>
+            <ArticleId IdType="pubmed">29386117</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qin H, et al.  A visual-cue-dependent memory circuit for place navigation. Neuron. 2018;99:47.e4–55.e4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6048686</ArticleId>
+            <ArticleId IdType="pubmed">29909996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gu Y, et al.  A map-like micro-organization of grid cells in the medial entorhinal cortex. Cell. 2018;175:736.e30–750.e30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6591153</ArticleId>
+            <ArticleId IdType="pubmed">30270041</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pastoll H, Ramsden HL, Nolan MF. Intrinsic electrophysiological properties of entorhinal cortex stellate cells and their contribution to grid cell firing fields. Front. Neural Circuits. 2012;6:1–21.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3334835</ArticleId>
+            <ArticleId IdType="pubmed">22536175</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Leutgeb JK, Leutgeb S, Moser M-B, Moser EI. Pattern separation in the dentate gyrus and CA3 of the hippocampus. Science. 2007;315:961–966.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17303747</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Knierim JJ, Neunuebel JP. Tracking the flow of hippocampal computation: pattern separation, pattern completion, and attractor dynamics. Neurobiol. Learn. Mem. 2016;129:38–49.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4792674</ArticleId>
+            <ArticleId IdType="pubmed">26514299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cayco-Gajic AN, Silver AR. Re-evaluating circuit mechanisms underlying pattern separation. Neuron. 2019;101:584–602.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7028396</ArticleId>
+            <ArticleId IdType="pubmed">30790539</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acharya L, et al.  Causal influence of visual cues on hippocampal article causal influence of visual cues on hippocampal directional selectivity. Cell. 2016;164:197–207.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26709045</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Doeller CF, Barry C, Burgess N. Evidence for grid cells in a human memory network. Nature. 2010;463:657–661.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3173857</ArticleId>
+            <ArticleId IdType="pubmed">20090680</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Killian NJ, Jutras MJ, Buffalo EA. A map of visual space in the primate entorhinal cortex. Nature. 2012;5:3–6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shima Y, et al.  A mammalian enhancer trap resource for discovering and manipulating neuronal cell types. Elife. 2016;5:e13503.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4846381</ArticleId>
+            <ArticleId IdType="pubmed">26999799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anikeeva P, et al.  Optetrode: a multichannel readout for optogenetic control in freely moving mice. Nat. Neurosci. 2011;15:163–170.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4164695</ArticleId>
+            <ArticleId IdType="pubmed">22138641</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grieves RM, Jenkins BW, Harland BC, Wood ER, Dudchenko PA. Place field repetition and spatial learning in a multicompartment environment. Hippocampus. 2016;26:118–134.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4745022</ArticleId>
+            <ArticleId IdType="pubmed">26190393</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sürmeli G, et al.  Molecularly defined circuitry reveals input-output segregation in deep layers of the medial entorhinal cortex. Neuron. 2015;88:1040–1053.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4675718</ArticleId>
+            <ArticleId IdType="pubmed">26606996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lopes G, et al.  Bonsai: an event-based framework for processing and controlling data streams. Front. Neuroinform. 2015;9:7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4389726</ArticleId>
+            <ArticleId IdType="pubmed">25904861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Siegle JH, et al.  Open Ephys: an open-source, plugin-based platform for multichannel electrophysiology. J. Neural Eng. 2017;14:045003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28169219</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chung JE, et al.  A fully automated approach to spike sorting. Neuron. 2017;95:1381.e6–1394.e6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5743236</ArticleId>
+            <ArticleId IdType="pubmed">28910621</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krupic J, Bauza M, Burton S, Barry C, O’Keefe J. Grid cell symmetry is shaped by environmental geometry. Nature. 2015;518:232–235.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4576734</ArticleId>
+            <ArticleId IdType="pubmed">25673417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harvey CD, Collman F, Dombeck DA, Tank DW. Intracellular dynamics of hippocampal place cells during virtual navigation. Nature. 2009;461:941–946.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2771429</ArticleId>
+            <ArticleId IdType="pubmed">19829374</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fernández-Durán, J. J. &amp; Domínguez, M. M. G. A likelihood ratio test for homogeneity in circular data. J. Biometrics Biostat.10.4172/2155-6180.1000107 (2010).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pewsey A, Neuhäuser M, Ruxton GD.  Circular Statistics in R. Oxford: OUP; 2013. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zilli, E. A. Models of grid cell spatial firing published 2005–2011. Front. Neural Circuits6, 16 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3328924</ArticleId>
+            <ArticleId IdType="pubmed">22529780</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hines ML, Carnevale NT. The NEURON simulation environment. Neural Comput. 1997;9:1179–1209.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9248061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garden DLF, Dodson PD, O’Donnell C, White MD, Nolan MF. Tuning of synaptic integration in the medial entorhinal cortex to the organization of grid cell firing fields. Neuron. 2008;60:875–889.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19081381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mainen ZF, Sejnowski TJ. Influence of dendritic structure on firing pattern in model neocortical neurons. Nature. 1996;382:363–366.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8684467</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schmidt-Hieber, C. &amp; Häusser, M. Cellular mechanisms of spatial navigation in the medial entorhinal cortex. Nat. Neurosci. 10.1038/nn.3340 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23396102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nolan MF, Dudman JT, Dodson PD, Santoro B. HCN1 channels control resting and active integrative properties of stellate cells from layer II of the entorhinal cortex. J. Neurosci. 2007;27:12440–12451.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6673323</ArticleId>
+            <ArticleId IdType="pubmed">18003822</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

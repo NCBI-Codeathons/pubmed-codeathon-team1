@@ -1,0 +1,268 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">27077122</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>12</Month>
+        <Day>30</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>30</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">2352-3964</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>5</Volume>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>EBioMedicine</Title>
+          <ISOAbbreviation>EBioMedicine</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Otitis Media Diagnosis for Developing Countries Using Tympanic Membrane Image-Analysis.</ArticleTitle>
+        <Pagination>
+          <StartPage>156</StartPage>
+          <EndPage>160</EndPage>
+          <MedlinePgn>156-60</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ebiom.2016.02.017</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Otitis media is one of the most common childhood diseases worldwide, but because of lack of doctors and health personnel in developing countries it is often misdiagnosed or not diagnosed at all. This may lead to serious, and life-threatening complications. There is, thus a need for an automated computer based image-analyzing system that could assist in making accurate otitis media diagnoses anywhere.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">A method for automated diagnosis of otitis media is proposed. The method uses image-processing techniques to classify otitis media. The system is trained using high quality pre-assessed images of tympanic membranes, captured by digital video-otoscopes, and classifies undiagnosed images into five otitis media categories based on predefined signs. Several verification tests analyzed the classification capability of the method.</AbstractText>
+          <AbstractText Label="FINDINGS" NlmCategory="RESULTS">An accuracy of 80.6% was achieved for images taken with commercial video-otoscopes, while an accuracy of 78.7% was achieved for images captured on-site with a low cost custom-made video-otoscope.</AbstractText>
+          <AbstractText Label="INTERPRETATION" NlmCategory="CONCLUSIONS">The high accuracy of the proposed otitis media classification system compares well with the classification accuracy of general practitioners and pediatricians (~64% to 80%) using traditional otoscopes, and therefore holds promise for the future in making automated diagnosis of otitis media in medically underserved populations.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Myburgh</LastName>
+            <ForeName>Hermanus C</ForeName>
+            <Initials>HC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Electrical, Electronic and Computer Engineering, University of Pretoria, Pretoria, South Africa.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van Zijl</LastName>
+            <ForeName>Willemien H</ForeName>
+            <Initials>WH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Electrical, Electronic and Computer Engineering, University of Pretoria, Pretoria, South Africa.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Swanepoel</LastName>
+            <ForeName>DeWet</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Speech-Language Pathology and Audiology, University of Pretoria, Pretoria, South Africa; Ear Sciences Centre, School of Surgery, The University of Western Australia, Nedlands, Australia; Ear Science Institute Australia, Subiaco, Western Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hellström</LastName>
+            <ForeName>Sten</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Audiology and Neurotology, Karolinska University Hospital, Stockholm, Sweden; CLINTEC/Otorhinolaryngology, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Laurent</LastName>
+            <ForeName>Claude</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Speech-Language Pathology and Audiology, University of Pretoria, Pretoria, South Africa; Department of Clinical Science, University of Umeå, Umeå, Sweden.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2016</Year>
+          <Month>02</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>EBioMedicine</MedlineTA>
+        <NlmUniqueID>101647039</NlmUniqueID>
+        <ISSNLinking>2352-3964</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003906" MajorTopicYN="N">Developing Countries</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007091" MajorTopicYN="N">Image Processing, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010033" MajorTopicYN="N">Otitis Media</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014432" MajorTopicYN="N">Tympanic Membrane</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Automated diagnosis</Keyword>
+        <Keyword MajorTopicYN="N">Decision tree</Keyword>
+        <Keyword MajorTopicYN="N">Feature extraction</Keyword>
+        <Keyword MajorTopicYN="N">Global medicine</Keyword>
+        <Keyword MajorTopicYN="N">Otitis media</Keyword>
+        <Keyword MajorTopicYN="N">Video-otoscope</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2015</Year>
+          <Month>11</Month>
+          <Day>8</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2016</Year>
+          <Month>2</Month>
+          <Day>6</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2016</Year>
+          <Month>2</Month>
+          <Day>6</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2016</Year>
+          <Month>4</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2016</Year>
+          <Month>4</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>12</Month>
+          <Day>31</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">27077122</ArticleId>
+        <ArticleId IdType="pmc">PMC4816811</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.ebiom.2016.02.017</ArticleId>
+        <ArticleId IdType="pii">S2352-3964(16)30050-0</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Acuin J.  WHO; Geneva: 2004. Chronic Suppurative Otitis Media: Burden of Illness and Management Options. ( http://www.who.int/pbd/deafness/activities/hearing_care/otitis_media.pdf, accessed August 29, 2012)</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Asher E., Leibovitz E., Press J., Greenberg D., Bilenko N., Reuveni H. Accuracy of acute otitis media diagnosis in community and hospital settings. Acta Paediatr. 2005;94(4):423–428.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16092455</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blomgren K., Pitkäranta A. Is it possible to diagnose acute otitis media accurately in primary health care? Fam. Pract. 2003;20:524–527.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14507792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buchanan C.M., Pothier D.D. Recognition of paediatric otopathology by general practitioners. Int. J. Pediatr. Otorhinolaryngol. 2008;72(5):669–673.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18325603</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fagan J.J., Jacobs M. Survey of ENT services in Africa: need for a comprehensive intervention. Global Health Action. 2009;2:1–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2779942</ArticleId>
+            <ArticleId IdType="pubmed">20027268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Global Burden of Disease Study 2013 Collaborators  Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013. Lancet. 2015;386:743–800.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4561509</ArticleId>
+            <ArticleId IdType="pubmed">26063472</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jensen P.M., Louis J. Criteria, performance and diagnostic problems in diagnosing acute otitis media. Fam. Pract. 1999;16:262–268.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10439980</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kuruvilla A., Shaikh N., Hoberman A., Kovacevic J. Automated diagnosis of otitis media: vocabulary and grammar. Int. J. Biomed. Imaging. 2013;2013:1–15.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3749602</ArticleId>
+            <ArticleId IdType="pubmed">23997759</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Legros J.M., Hitoto H., Garnier F., Dagorne C., Parot-Schinkel E., Fanello S. Clinical qualitative evaluation of the diagnosis of acute otitis media in general practice. Int. J. Pediatr. Otorhinolaryngol. 2008;72(1):23–30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17976829</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lieberthal A.S., Carroll A.E., Chonmaitree T. The diagnosis and management of acute otitis media. Pediatrics. 2013;131(3):e964–e999.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23439909</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Monasta L., Ronfani L., Marchetti F. Burden of disease caused by otitis media: systematic review and global estimates. PLoS One. 2012;7(4)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3340347</ArticleId>
+            <ArticleId IdType="pubmed">22558393</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Paparella M., Bluestone C., Arnold W. Definition and classification. Ann. Otol. Rhinol. Laryngol. 1985;94(Suppl. 116):8–9.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pichichero M.E., Poole M.D. Assesing diagnostic accuracy and tympanoscentesis skills in the management of otitis media. Arch. Pediatr. Adolesc. Med. 2001;155(10):137–142.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11576009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Quinlan J. Induction of decision trees. Mach. Learn. 1986;1:81–106.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>World Health Organization . World Health Organization; Geneva: 2004. Chronic Suppurative Otitis Media. Burden of Illness and Management Options; p. 83.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>World Health Organization . Switzerland; Geneva: 2013. Multi-Country Assessment of National Capacity to Provide Hearing Care. (Retrieved from:  http://0www.who.int.innopac.up.ac.za/pbd/publications/WHOReportHearingCare_Englishweb.pdf)</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

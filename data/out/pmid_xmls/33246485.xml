@@ -1,0 +1,914 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">33246485</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>11</Month>
+        <Day>05</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>11</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1756-994X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>12</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>Nov</Month>
+              <Day>27</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Genome medicine</Title>
+          <ISOAbbreviation>Genome Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Population genomics and antimicrobial resistance in Corynebacterium diphtheriae.</ArticleTitle>
+        <Pagination>
+          <StartPage>107</StartPage>
+          <MedlinePgn>107</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">107</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13073-020-00805-7</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Corynebacterium diphtheriae, the agent of diphtheria, is a genetically diverse bacterial species. Although antimicrobial resistance has emerged against several drugs including first-line penicillin, the genomic determinants and population dynamics of resistance are largely unknown for this neglected human pathogen.</AbstractText>
+          <AbstractText Label="METHODS">Here, we analyzed the associations of antimicrobial susceptibility phenotypes, diphtheria toxin production, and genomic features in C. diphtheriae. We used 247 strains collected over several decades in multiple world regions, including the 163 clinical isolates collected prospectively from 2008 to 2017 in France mainland and overseas territories.</AbstractText>
+          <AbstractText Label="RESULTS">Phylogenetic analysis revealed multiple deep-branching sublineages, grouped into a Mitis lineage strongly associated with diphtheria toxin production and a largely toxin gene-negative Gravis lineage with few toxin-producing isolates including the 1990s ex-Soviet Union outbreak strain. The distribution of susceptibility phenotypes allowed proposing ecological cutoffs for most of the 19 agents tested, thereby defining acquired antimicrobial resistance. Penicillin resistance was found in 17.2% of prospective isolates. Seventeen (10.4%) prospective isolates were multidrug-resistant (≥ 3 antimicrobial categories), including four isolates resistant to penicillin and macrolides. Homologous recombination was frequent (r/m = 5), and horizontal gene transfer contributed to the emergence of antimicrobial resistance in multiple sublineages. Genome-wide association mapping uncovered genetic factors of resistance, including an accessory penicillin-binding protein (PBP2m) located in diverse genomic contexts. Gene pbp2m is widespread in other Corynebacterium species, and its expression in C. glutamicum demonstrated its effect against several beta-lactams. A novel 73-kb C. diphtheriae multiresistance plasmid was discovered.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">This work uncovers the dynamics of antimicrobial resistance in C. diphtheriae in the context of phylogenetic structure, biovar, and diphtheria toxin production and provides a blueprint to analyze re-emerging diphtheria.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hennart</LastName>
+            <ForeName>Melanie</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, Biodiversity and Epidemiology of Bacterial Pathogens, Paris, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Collège doctoral, Sorbonne Université, F-75005, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Panunzi</LastName>
+            <ForeName>Leonardo G</ForeName>
+            <Initials>LG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, Biodiversity and Epidemiology of Bacterial Pathogens, Paris, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institut Français de Bioinformatique, CNRS UMS 3601, Evry, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rodrigues</LastName>
+            <ForeName>Carla</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, Biodiversity and Epidemiology of Bacterial Pathogens, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gaday</LastName>
+            <ForeName>Quentin</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Unité de Microbiologie Structurale, Institut Pasteur, CNRS UMR 3528, Université de Paris, F-75015, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Baines</LastName>
+            <ForeName>Sarah L</ForeName>
+            <Initials>SL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Doherty Applied Microbial Genomics, Department of Microbiology &amp; Immunology, The University of Melbourne at The Peter Doherty Institute for Infection &amp; Immunity, Melbourne, Victoria, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Barros-Pinkelnig</LastName>
+            <ForeName>Marina</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, Biodiversity and Epidemiology of Bacterial Pathogens, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Carmi-Leroy</LastName>
+            <ForeName>Annick</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, Biodiversity and Epidemiology of Bacterial Pathogens, Paris, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, National Reference Center for Corynebacteria of the Diphtheriae Complex, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dazas</LastName>
+            <ForeName>Melody</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, Biodiversity and Epidemiology of Bacterial Pathogens, Paris, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, National Reference Center for Corynebacteria of the Diphtheriae Complex, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wehenkel</LastName>
+            <ForeName>Anne Marie</ForeName>
+            <Initials>AM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Unité de Microbiologie Structurale, Institut Pasteur, CNRS UMR 3528, Université de Paris, F-75015, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Didelot</LastName>
+            <ForeName>Xavier</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Sciences and Department of Statistics, University of Warwick, Coventry, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Toubiana</LastName>
+            <ForeName>Julie</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, Biodiversity and Epidemiology of Bacterial Pathogens, Paris, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, National Reference Center for Corynebacteria of the Diphtheriae Complex, Paris, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of General Pediatrics and Pediatric Infectious Diseases, Hôpital Necker-Enfants Malades, APHP, Université de Paris, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Badell</LastName>
+            <ForeName>Edgar</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, Biodiversity and Epidemiology of Bacterial Pathogens, Paris, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, National Reference Center for Corynebacteria of the Diphtheriae Complex, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brisse</LastName>
+            <ForeName>Sylvain</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0002-2516-2108</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, Biodiversity and Epidemiology of Bacterial Pathogens, Paris, France. sbrisse@pasteur.fr.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, National Reference Center for Corynebacteria of the Diphtheriae Complex, Paris, France. sbrisse@pasteur.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>11</Month>
+          <Day>27</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Genome Med</MedlineTA>
+        <NlmUniqueID>101475844</NlmUniqueID>
+        <ISSNLinking>1756-994X</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D004269">DNA, Bacterial</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D004167">Diphtheria Toxin</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018942">Macrolides</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000900" MajorTopicYN="N">Anti-Bacterial Agents</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003353" MajorTopicYN="N">Corynebacterium diphtheriae</DescriptorName>
+          <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+          <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004269" MajorTopicYN="N">DNA, Bacterial</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004165" MajorTopicYN="N">Diphtheria</DescriptorName>
+          <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004167" MajorTopicYN="N">Diphtheria Toxin</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D024881" MajorTopicYN="N">Drug Resistance, Bacterial</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005798" MajorTopicYN="N">Genes, Bacterial</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055106" MajorTopicYN="N">Genome-Wide Association Study</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D023281" MajorTopicYN="N">Genomics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018942" MajorTopicYN="N">Macrolides</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D056186" MajorTopicYN="Y">Metagenomics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008826" MajorTopicYN="N">Microbial Sensitivity Tests</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D058885" MajorTopicYN="N">Multilocus Sequence Typing</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Antibiotic resistance</Keyword>
+        <Keyword MajorTopicYN="Y">Biovar</Keyword>
+        <Keyword MajorTopicYN="Y">C. diphtheriae</Keyword>
+        <Keyword MajorTopicYN="Y">Genome-wide association study</Keyword>
+        <Keyword MajorTopicYN="Y">Mobile genetic element</Keyword>
+        <Keyword MajorTopicYN="Y">Phylogeny</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>5</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>11</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>11</Month>
+          <Day>28</Day>
+          <Hour>5</Hour>
+          <Minute>23</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>11</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">33246485</ArticleId>
+        <ArticleId IdType="pmc">PMC7694903</ArticleId>
+        <ArticleId IdType="doi">10.1186/s13073-020-00805-7</ArticleId>
+        <ArticleId IdType="pii">10.1186/s13073-020-00805-7</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Patey O, et al.  Clinical and molecular study of Corynebacterium diphtheriae systemic infections in France. Coryne Study Group. J Clin Microbiol. 1997;35:441–445. doi: 10.1128/JCM.35.2.441-445.1997.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.35.2.441-445.1997</ArticleId>
+            <ArticleId IdType="pmc">PMC229596</ArticleId>
+            <ArticleId IdType="pubmed">9003612</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hadfield TL, McEvoy P, Polotsky Y, Tzinserling VA, Yakovlev AA. The pathology of diphtheria. J Infect Dis. 2000;181(Suppl 1):S116–S120. doi: 10.1086/315551.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1086/315551</ArticleId>
+            <ArticleId IdType="pubmed">10657202</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burkovski, A. Corynebacterium diphtheriae and related toxigenic species: genomics, pathogenicity and applications. (Springer, 2014).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sharma NC, et al.  Diphtheria. Nat Rev Dis Primer. 2019;5:81. doi: 10.1038/s41572-019-0131-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41572-019-0131-y</ArticleId>
+            <ArticleId IdType="pubmed">31804499</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Freeman VJ. Studies on the virulence of bacteriophage-infected strains of Corynebacterium diphtheriae. J Bacteriol. 1951;61:675–688. doi: 10.1128/JB.61.6.675-688.1951.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JB.61.6.675-688.1951</ArticleId>
+            <ArticleId IdType="pmc">PMC386063</ArticleId>
+            <ArticleId IdType="pubmed">14850426</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Parveen S, Bishai WR, Murphy JR. Corynebacterium diphtheriae: diphtheria toxin, the tox Operon, and its regulation by Fe2+ activation of apo-DtxR. Microbiol Spectr. 2019;7(4):GPP3-0063-2019.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31267892</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pappenheimer AM, Murphy JR. Studies on the molecular epidemiology of diphtheria. Lancet Lond. Engl. 1983;2:923–926. doi: 10.1016/S0140-6736(83)90449-X.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0140-6736(83)90449-X</ArticleId>
+            <ArticleId IdType="pubmed">6138500</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trost E, et al.  Pangenomic study of Corynebacterium diphtheriae that provides insights into the genomic diversity of pathogenic isolates from cases of classical diphtheria, endocarditis, and pneumonia. J Bacteriol. 2012;194:3199–3215. doi: 10.1128/JB.00183-12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JB.00183-12</ArticleId>
+            <ArticleId IdType="pmc">PMC3370855</ArticleId>
+            <ArticleId IdType="pubmed">22505676</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sangal V, Hoskisson PA. Evolution, epidemiology and diversity of Corynebacterium diphtheriae: new perspectives on an old foe. Infect. Genet. Evol. J. Mol. Epidemiol. Evol. Genet. Infect. Dis. 2016;43:364–370.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27291708</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Timms VJ, Nguyen T, Crighton T, Yuen M, Sintchenko V. Genome-wide comparison of Corynebacterium diphtheriae isolates from Australia identifies differences in the Pan-genomes between respiratory and cutaneous strains. BMC Genomics. 2018;19:869. doi: 10.1186/s12864-018-5147-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12864-018-5147-2</ArticleId>
+            <ArticleId IdType="pmc">PMC6278121</ArticleId>
+            <ArticleId IdType="pubmed">30509172</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sangal V, et al.  A lack of genetic basis for biovar differentiation in clinically important Corynebacterium diphtheriae from whole genome sequencing. Infect Genet Evol J Mol Epidemiol Evol Genet Infect Dis. 2014;21:54–57.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24200588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bolt F, et al.  Multilocus sequence typing identifies evidence for recombination and two distinct lineages of Corynebacterium diphtheriae. J Clin Microbiol. 2010;48:4177–4185. doi: 10.1128/JCM.00274-10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.00274-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3020856</ArticleId>
+            <ArticleId IdType="pubmed">20844217</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grosse-Kock S, et al.  Genomic analysis of endemic clones of toxigenic and non-toxigenic Corynebacterium diphtheriae in Belarus during and after the major epidemic in 1990s. BMC Genomics. 2017;18:873. doi: 10.1186/s12864-017-4276-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12864-017-4276-3</ArticleId>
+            <ArticleId IdType="pmc">PMC5683216</ArticleId>
+            <ArticleId IdType="pubmed">29132312</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dittmann S, et al.  Successful control of epidemic diphtheria in the states of the former Union of Soviet Socialist Republics: lessons learned. J Infect Dis. 2000;181(Suppl 1):S10–S22. doi: 10.1086/315534.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1086/315534</ArticleId>
+            <ArticleId IdType="pubmed">10657185</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>WHO. Surveillance and burden of diphtheria. http://www.who.int/immunization/monitoring_surveillance/burden/diphtheria/en/. (2018).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Galazka A. The changing epidemiology of diphtheria in the vaccine era. J Infect Dis. 2000;181(Suppl 1):S2–S9. doi: 10.1086/315533.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1086/315533</ArticleId>
+            <ArticleId IdType="pubmed">10657184</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rahman MR, Islam K. Massive diphtheria outbreak among Rohingya refugees: lessons learnt. J Travel Med. 2019;26(1):1-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30407562</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dureab F, Müller O, Jahn A. Resurgence of diphtheria in Yemen due to population movement. J. Travel Med. 2018;25(1):1–2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30289480</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zakikhany K, Efstratiou A. Diphtheria in Europe: current problems and new challenges. Future Microbiol. 2012;7:595–607. doi: 10.2217/fmb.12.24.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2217/fmb.12.24</ArticleId>
+            <ArticleId IdType="pubmed">22568715</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meinel DM, et al.  Outbreak investigation for toxigenic Corynebacterium diphtheriae wound infections in refugees from Northeast Africa and Syria in Switzerland and Germany by whole genome sequencing. Clin. Microbiol. Infect. Off. Publ. Eur. Soc. Clin. Microbiol. Infect. Dis. 2016;22:1003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27585943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scheifer C, et al.  Re-emergence of Corynebacterium diphtheriae. Med Mal Infect. 2019;49:463–466. doi: 10.1016/j.medmal.2018.12.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.medmal.2018.12.001</ArticleId>
+            <ArticleId IdType="pubmed">30583866</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Möller J, et al.  Proteomics of diphtheria toxoid vaccines reveals multiple proteins that are immunogenic and may contribute to protection of humans against Corynebacterium diphtheriae. Vaccine. 2019;37:3061–3070. doi: 10.1016/j.vaccine.2019.04.059.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.vaccine.2019.04.059</ArticleId>
+            <ArticleId IdType="pubmed">31036455</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zasada, A. A. Antimicrobial susceptibility and treatment. in Corynebacterium diphtheriae and related toxigenic species genomics, pathogenicity and applications. Burkovski A., editor. 239–246 (New York: Springer, 2014).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kupferschmidt K. Life-saving diphtheria drug is running out. Science. 2017;355:118–119. doi: 10.1126/science.355.6321.118.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.355.6321.118</ArticleId>
+            <ArticleId IdType="pubmed">28082541</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>PAHO/WHO, P. A. H. O. / W. H. O. Epidemiological update: diphtheria. (2018).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kneen R, et al.  Penicillin vs erythromycin in the treatment of diphtheria. Clin Infect Dis Off Publ Infect Dis Soc Am. 1998;27:845–850. doi: 10.1086/514959.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1086/514959</ArticleId>
+            <ArticleId IdType="pubmed">9798043</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pereira GA, et al.  Antimicrobial resistance among Brazilian Corynebacterium diphtheriae strains. Mem Inst Oswaldo Cruz. 2008;103:507–510. doi: 10.1590/S0074-02762008000500019.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1590/S0074-02762008000500019</ArticleId>
+            <ArticleId IdType="pubmed">18797769</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>von Hunolstein C, Scopetti F, Efstratiou A, Engler K. Penicillin tolerance amongst non-toxigenic Corynebacterium diphtheriae isolated from cases of pharyngitis. J Antimicrob Chemother. 2002;50:125–128. doi: 10.1093/jac/dkf107.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/jac/dkf107</ArticleId>
+            <ArticleId IdType="pubmed">12096018</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Benamrouche N, et al.  Microbiological and molecular characterization of Corynebacterium diphtheriae isolated in Algeria between 1992 and 2015. Clin. Microbiol. Infect. Off. Publ. Eur. Soc. Clin. Microbiol. Infect. Dis. 2016;22:1005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27585941</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Paveenkittiporn W, Sripakdee S, Koobkratok O, Sangkitporn S, Kerdsin A. Molecular epidemiology and antimicrobial susceptibility of outbreak-associated Corynebacterium diphtheriae in Thailand, 2012. Infect. Genet Evol J Mol Epidemiol Evol Genet Infect Dis. 2019;75:104007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31472364</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Husada D, et al.  First-line antibiotic susceptibility pattern of toxigenic Corynebacterium diphtheriae in Indonesia. BMC Infect Dis. 2019;19:1049. doi: 10.1186/s12879-019-4675-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12879-019-4675-y</ArticleId>
+            <ArticleId IdType="pmc">PMC6907133</ArticleId>
+            <ArticleId IdType="pubmed">31829153</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bernard K, Pacheco AL. In vitro activity of 22 antimicrobial agents against Corynebacterium and microbacterium species referred to the Canadian National Microbiology Laboratory. Clin Microbiol Newsl. 2015;37:187–198. doi: 10.1016/j.clinmicnews.2015.11.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.clinmicnews.2015.11.003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schiller J, Groman N, Coyle M. Plasmids in Corynebacterium diphtheriae and diphtheroids mediating erythromycin resistance. Antimicrob Agents Chemother. 1980;18:814–821. doi: 10.1128/AAC.18.5.814.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AAC.18.5.814</ArticleId>
+            <ArticleId IdType="pmc">PMC284096</ArticleId>
+            <ArticleId IdType="pubmed">6255866</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jellard CH, Lipinski AE. Corynebacterium diphtheriae resistant to erythromycin and lincomycin. Lancet Lond Engl. 1973;1:156. doi: 10.1016/S0140-6736(73)90236-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0140-6736(73)90236-5</ArticleId>
+            <ArticleId IdType="pubmed">4118506</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Patey O, et al.  Antibiotic susceptibilities of 38 non-toxigenic strains of Corynebacterium diphtheriae. J Antimicrob Chemother. 1995;36:1108–1110. doi: 10.1093/jac/36.6.1108.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/jac/36.6.1108</ArticleId>
+            <ArticleId IdType="pubmed">8821618</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tauch A, Bischoff N, Brune I, Kalinowski J. Insights into the genetic organization of the Corynebacterium diphtheriae erythromycin resistance plasmid pNG2 deduced from its complete nucleotide sequence. Plasmid. 2003;49:63–74. doi: 10.1016/S0147-619X(02)00115-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0147-619X(02)00115-4</ArticleId>
+            <ArticleId IdType="pubmed">12584002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barraud O, Badell E, Denis F, Guiso N, Ploy M-C. Antimicrobial drug resistance in Corynebacterium diphtheriae mitis. Emerg Infect Dis. 2011;17:2078–2080. doi: 10.3201/eid1711.110282.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3201/eid1711.110282</ArticleId>
+            <ArticleId IdType="pmc">PMC3310561</ArticleId>
+            <ArticleId IdType="pubmed">22099107</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cerdeño-Tárraga AM, et al.  The complete genome sequence and analysis of Corynebacterium diphtheriae NCTC13129. Nucleic Acids Res. 2003;31:6516–6523. doi: 10.1093/nar/gkg874.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkg874</ArticleId>
+            <ArticleId IdType="pmc">PMC275568</ArticleId>
+            <ArticleId IdType="pubmed">14602910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Farfour E, et al.  Characterization and comparison of invasive Corynebacterium diphtheriae isolates from France and Poland. J Clin Microbiol. 2012;50:173–175. doi: 10.1128/JCM.05811-11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.05811-11</ArticleId>
+            <ArticleId IdType="pmc">PMC3256683</ArticleId>
+            <ArticleId IdType="pubmed">22090411</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grimont PAD, et al.  International nomenclature for Corynebacterium diphtheriae ribotypes. Res Microbiol. 2004;155:162–166. doi: 10.1016/j.resmic.2003.12.005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.resmic.2003.12.005</ArticleId>
+            <ArticleId IdType="pubmed">15059628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Park WH, Williams AW. The production of diphtheria toxin. J Exp Med. 1896;1:164–185. doi: 10.1084/jem.1.1.164.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1084/jem.1.1.164</ArticleId>
+            <ArticleId IdType="pmc">PMC2077824</ArticleId>
+            <ArticleId IdType="pubmed">19866791</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dazas M, Badell E, Carmi-Leroy A, Criscuolo A, Brisse S. Taxonomic status of Corynebacterium diphtheriae biovar Belfanti and proposal of Corynebacterium belfantii sp. nov. Int J Syst Evol Microbiol. 2018;68:3826–3831. doi: 10.1099/ijsem.0.003069.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/ijsem.0.003069</ArticleId>
+            <ArticleId IdType="pubmed">30355399</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Badell, E. et al. Corynebacterium rouxii sp. nov., a novel member of the diphtheriae species complex. Res. Microbiol. 2020. 10.1016/j.resmic.2020.02.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32119905</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hauser D, Popoff MR, Kiredjian M, Boquet P, Bimet F. Polymerase chain reaction assay for diagnosis of potentially toxinogenic Corynebacterium diphtheriae strains: correlation with ADP-ribosylation activity assay. J Clin Microbiol. 1993;31:2720–2723. doi: 10.1128/JCM.31.10.2720-2723.1993.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.31.10.2720-2723.1993</ArticleId>
+            <ArticleId IdType="pmc">PMC265991</ArticleId>
+            <ArticleId IdType="pubmed">8253972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Engler KH, Glushkevich T, Mazurova IK, George RC, Efstratiou A. A modified Elek test for detection of toxigenic corynebacteria in the diagnostic laboratory. J Clin Microbiol. 1997;35:495–498. doi: 10.1128/JCM.35.2.495-498.1997.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.35.2.495-498.1997</ArticleId>
+            <ArticleId IdType="pmc">PMC229610</ArticleId>
+            <ArticleId IdType="pubmed">9003626</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Magiorakos AP, et al.  Multidrug-resistant, extensively drug-resistant and pandrug-resistant bacteria: an international expert proposal for interim standard definitions for acquired resistance. Clin Microbiol Infect. 2012;18:268–281. doi: 10.1111/j.1469-0691.2011.03570.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1469-0691.2011.03570.x</ArticleId>
+            <ArticleId IdType="pubmed">21793988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Badell E, et al.  Improved quadruplex real-time PCR assay for the diagnosis of diphtheria. J Med Microbiol. 2019;68:1455–1465. doi: 10.1099/jmm.0.001070.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/jmm.0.001070</ArticleId>
+            <ArticleId IdType="pubmed">31478826</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Criscuolo, A. &amp; Brisse, S. AlienTrimmer: a tool to quickly and accurately trim off multiple short contaminant sequences from high-throughput sequencing reads. Genomics. 2013. 10.1016/j.ygeno.2013.07.011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23912058</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crusoe MR, et al.  The khmer software package: enabling efficient nucleotide sequence analysis. F1000Research. 2015;4:900. doi: 10.12688/f1000research.6924.1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.12688/f1000research.6924.1</ArticleId>
+            <ArticleId IdType="pmc">PMC4608353</ArticleId>
+            <ArticleId IdType="pubmed">26535114</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu Y, Schröder J, Schmidt B. Musket: a multistage k-mer spectrum-based error corrector for Illumina sequence data. Bioinforma Oxf Engl. 2013;29:308–315. doi: 10.1093/bioinformatics/bts690.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/bts690</ArticleId>
+            <ArticleId IdType="pubmed">23202746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bankevich A, et al.  SPAdes: a new genome assembly algorithm and its applications to single-cell sequencing. J Comput Biol. 2012;19:455–477. doi: 10.1089/cmb.2012.0021.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/cmb.2012.0021</ArticleId>
+            <ArticleId IdType="pmc">PMC3342519</ArticleId>
+            <ArticleId IdType="pubmed">22506599</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seemann T. Prokka: rapid prokaryotic genome annotation. Bioinforma. Oxf. Engl. 2014;30:2068–2069. doi: 10.1093/bioinformatics/btu153.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btu153</ArticleId>
+            <ArticleId IdType="pubmed">24642063</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Page AJ, et al.  Roary: rapid large-scale prokaryote pan genome analysis. Bioinforma. Oxf. Engl. 2015;31:3691–3693. doi: 10.1093/bioinformatics/btv421.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btv421</ArticleId>
+            <ArticleId IdType="pmc">PMC4817141</ArticleId>
+            <ArticleId IdType="pubmed">26198102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Didelot X, Wilson DJ. ClonalFrameML: efficient inference of recombination in whole bacterial genomes. PLoS Comput Biol. 2015;11:e1004041. doi: 10.1371/journal.pcbi.1004041.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1004041</ArticleId>
+            <ArticleId IdType="pmc">PMC4326465</ArticleId>
+            <ArticleId IdType="pubmed">25675341</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guindon S, et al.  New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0. Syst Biol. 2010;59:307–321. doi: 10.1093/sysbio/syq010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/sysbio/syq010</ArticleId>
+            <ArticleId IdType="pubmed">20525638</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Minh BQ, et al.  IQ-TREE 2: new models and efficient methods for phylogenetic inference in the genomic era. Mol Biol Evol. 2020;37:1530–1534. doi: 10.1093/molbev/msaa015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/molbev/msaa015</ArticleId>
+            <ArticleId IdType="pmc">PMC7182206</ArticleId>
+            <ArticleId IdType="pubmed">32011700</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Collins C, Didelot X. A phylogenetic method to perform genome-wide association studies in microbes that accounts for population structure and recombination. PLoS Comput Biol. 2018;14:e1005958. doi: 10.1371/journal.pcbi.1005958.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1005958</ArticleId>
+            <ArticleId IdType="pmc">PMC5814097</ArticleId>
+            <ArticleId IdType="pubmed">29401456</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sogues A, et al.  Essential dynamic interdependence of FtsZ and SepF for Z-ring and septum formation in Corynebacterium glutamicum. Nat Commun. 2020;11:1641. doi: 10.1038/s41467-020-15490-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-020-15490-8</ArticleId>
+            <ArticleId IdType="pmc">PMC7118173</ArticleId>
+            <ArticleId IdType="pubmed">32242019</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mitchell AL, et al.  InterPro in 2019: improving coverage, classification and access to protein sequence annotations. Nucleic Acids Res. 2019;47:D351–D360. doi: 10.1093/nar/gky1100.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gky1100</ArticleId>
+            <ArticleId IdType="pmc">PMC6323941</ArticleId>
+            <ArticleId IdType="pubmed">30398656</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Madeira F, et al.  The EMBL-EBI search and sequence analysis tools APIs in 2019. Nucleic Acids Res. 2019;47:W636–W641. doi: 10.1093/nar/gkz268.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkz268</ArticleId>
+            <ArticleId IdType="pmc">PMC6602479</ArticleId>
+            <ArticleId IdType="pubmed">30976793</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ansari MA, Didelot X. Inference of the properties of the recombination process from whole bacterial genomes. Genetics. 2014;196:253–265. doi: 10.1534/genetics.113.157172.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1534/genetics.113.157172</ArticleId>
+            <ArticleId IdType="pmc">PMC3872189</ArticleId>
+            <ArticleId IdType="pubmed">24172133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Santos AS, et al.  Searching whole genome sequences for biochemical identification features of emerging and reemerging pathogenic Corynebacterium species. Funct Integr Genomics. 2018;18:593–610. doi: 10.1007/s10142-018-0610-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10142-018-0610-3</ArticleId>
+            <ArticleId IdType="pubmed">29752561</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tagini F, et al.  Distinct genomic features characterize two clades of Corynebacterium diphtheriae: proposal of Corynebacterium diphtheriae subsp. diphtheriae subsp. nov. and Corynebacterium diphtheriae subsp. lausannense subsp. nov. Front. Microbiol. 2018;9:1743. doi: 10.3389/fmicb.2018.01743.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fmicb.2018.01743</ArticleId>
+            <ArticleId IdType="pmc">PMC6108181</ArticleId>
+            <ArticleId IdType="pubmed">30174653</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kahlmeter G, et al.  European harmonization of MIC breakpoints for antimicrobial susceptibility testing of bacteria. J Antimicrob Chemother. 2003;52:145–148. doi: 10.1093/jac/dkg312.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/jac/dkg312</ArticleId>
+            <ArticleId IdType="pubmed">12837738</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tauch A, Kassing F, Kalinowski J, Pühler A. The Corynebacterium xerosis composite transposon Tn5432 consists of two identical insertion sequences, designated IS1249, flanking the erythromycin resistance gene ermCX. Plasmid. 1995;34:119–131. doi: 10.1006/plas.1995.9995.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/plas.1995.9995</ArticleId>
+            <ArticleId IdType="pubmed">8559800</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lavollay M, et al.  The beta-lactam-sensitive D,D-carboxypeptidase activity of Pbp4 controls the L,D and D,D transpeptidation pathways in Corynebacterium jeikeium. Mol. Microbiol. 2009;74:650–661. doi: 10.1111/j.1365-2958.2009.06887.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1365-2958.2009.06887.x</ArticleId>
+            <ArticleId IdType="pubmed">19807868</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seth-Smith HMB, Egli A. Whole genome sequencing for surveillance of diphtheria in low incidence settings. Front Public Health. 2019;7:235. doi: 10.3389/fpubh.2019.00235.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fpubh.2019.00235</ArticleId>
+            <ArticleId IdType="pmc">PMC6713046</ArticleId>
+            <ArticleId IdType="pubmed">31497588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barksdale L. Corynebacterium diphtheriae and its relatives. Bacteriol Rev. 1970;34:378–422. doi: 10.1128/MMBR.34.4.378-422.1970.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/MMBR.34.4.378-422.1970</ArticleId>
+            <ArticleId IdType="pmc">PMC378364</ArticleId>
+            <ArticleId IdType="pubmed">4322195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McLeod, J. W. The types mitis, intermedius and gravis of corynebacterium diphtheriae: a review of observations during the past ten years. Bacteriol Rev 7, 1–41 (1943).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC440866</ArticleId>
+            <ArticleId IdType="pubmed">16350084</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zou J, et al.  Phenotypic and genotypic correlates of penicillin susceptibility in nontoxigenic Corynebacterium diphtheriae, British Columbia, Canada, 2015-2018. Emerg Infect Dis. 2020;26:97–103. doi: 10.3201/eid2601.191241.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3201/eid2601.191241</ArticleId>
+            <ArticleId IdType="pmc">PMC6924910</ArticleId>
+            <ArticleId IdType="pubmed">31855139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marosevic DV, et al. Antimicrobial susceptibility of Corynebacterium diphtheriae and Corynebacterium ulcerans in Germany 2011-17. J Antimicrob Chemother. 2020. 10.1093/jac/dkaa280.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32747952</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sariadji K, Puspandari SN, Sembiring M. Antibiotic susceptibility pattern of Corynebacterium diphtheriae isolated from outbreaks in Indonesia 2010-2015. Indones Biomed J. 2018;10:51–55. doi: 10.18585/inabj.v10i1.331.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18585/inabj.v10i1.331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Parande MV, Roy S, Mantur BG, Parande AM, Shinde RS. Resurgence of diphtheria in rural areas of North Karnataka, India. Indian J Med Microbiol. 2017;35:247–251.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28681814</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anonymous. Conduite à tenir lors de l’apparition d’un cas de diphtérie. https://www.hcsp.fr/explore.cgi/hcspr20110304_conduitediphterie.pdf. (2011).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tauch A, Götker S, Pühler A, Kalinowski J, Thierbach G. The 27.8-kb R-plasmid pTET3 from Corynebacterium glutamicum encodes the aminoglycoside adenyltransferase gene cassette aadA9 and the regulated tetracycline efflux system Tet 33 flanked by active copies of the widespread insertion sequence IS6100. Plasmid. 2002;48:117–129. doi: 10.1016/S0147-619X(02)00120-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0147-619X(02)00120-8</ArticleId>
+            <ArticleId IdType="pubmed">12383729</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tauch A, Kassing F, Kalinowski J, Pühler A. The erythromycin resistance gene of the Corynebacterium xerosis R-plasmid pTP10 also carrying chloramphenicol, kanamycin, and tetracycline resistances is capable of transposition in Corynebacterium glutamicum. Plasmid. 1995;33:168–179. doi: 10.1006/plas.1995.1018.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/plas.1995.1018</ArticleId>
+            <ArticleId IdType="pubmed">7568464</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoon S, Kim H, Lee Y, Kim S. Bacteremia caused by Corynebacterium amycolatum with a novel mutation in gyrA gene that confers high-level quinolone resistance. Korean J Lab Med. 2011;31:47–48.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3111041</ArticleId>
+            <ArticleId IdType="pubmed">21239871</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sierra JM, Martinez-Martinez L, Vázquez F, Giralt E, Vila J. Relationship between mutations in the gyrA gene and quinolone resistance in clinical isolates of Corynebacterium striatum and Corynebacterium amycolatum. Antimicrob Agents Chemother. 2005;49:1714–1719. doi: 10.1128/AAC.49.5.1714-1719.2005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AAC.49.5.1714-1719.2005</ArticleId>
+            <ArticleId IdType="pmc">PMC1087617</ArticleId>
+            <ArticleId IdType="pubmed">15855486</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pivot D, et al. Carriage of a single strain of non-toxigenic Corynebacterium diphtheriae biovar Belfanti (Corynebacterium belfantii) in four patients with cystic fibrosis. J Clin Microbiol. 2019. 10.1128/JCM.00042-19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6498024</ArticleId>
+            <ArticleId IdType="pubmed">30814269</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Forde BM, et al. Fatal respiratory diphtheria caused by β-lactam-resistant Corynebacterium diphtheriae. Clin Infect Dis Off Publ Infect Dis Soc Am. 2020. 10.1093/cid/ciaa1147.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32772111</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fishovitz J, et al.  Disruption of allosteric response as an unprecedented mechanism of resistance to antibiotics. J Am Chem Soc. 2014;136:9814–9817. doi: 10.1021/ja5030657.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/ja5030657</ArticleId>
+            <ArticleId IdType="pmc">PMC4210145</ArticleId>
+            <ArticleId IdType="pubmed">24955778</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Otero LH, et al.  How allosteric control of Staphylococcus aureus penicillin binding protein 2a enables methicillin resistance and physiological function. Proc Natl Acad Sci U S A. 2013;110:16808–16813. doi: 10.1073/pnas.1300118110.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1300118110</ArticleId>
+            <ArticleId IdType="pmc">PMC3800995</ArticleId>
+            <ArticleId IdType="pubmed">24085846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bernardo-García N, et al.  Allostery, recognition of nascent peptidoglycan, and cross-linking of the cell wall by the essential penicillin-binding protein 2x of Streptococcus pneumoniae. ACS Chem Biol. 2018;13:694–702. doi: 10.1021/acschembio.7b00817.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acschembio.7b00817</ArticleId>
+            <ArticleId IdType="pubmed">29357220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chewapreecha C, et al.  Comprehensive identification of single nucleotide polymorphisms associated with beta-lactam resistance within pneumococcal mosaic genes. PLoS Genet. 2014;10:e1004547. doi: 10.1371/journal.pgen.1004547.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1004547</ArticleId>
+            <ArticleId IdType="pmc">PMC4125147</ArticleId>
+            <ArticleId IdType="pubmed">25101644</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brisse, S., Badell, E., Hennart, M. &amp; Criscuolo, A. Genomic content and phylogenetic diversity of C. diphtheriae and related species were compared to clarify taxonomic relationships and study evolutionary trends. European Nucleotide Archive https://www.ebi.ac.uk/ena/browser/view/PRJEB22103 (2020).</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

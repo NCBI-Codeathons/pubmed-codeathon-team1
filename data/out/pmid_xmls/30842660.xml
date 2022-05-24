@@ -1,0 +1,772 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">30842660</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>10</Month>
+        <Day>14</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>01</Month>
+        <Day>09</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1476-4687</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>567</Volume>
+            <Issue>7748</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nature</Title>
+          <ISOAbbreviation>Nature</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Single-neuron perturbations reveal feature-specific competition in V1.</ArticleTitle>
+        <Pagination>
+          <StartPage>334</StartPage>
+          <EndPage>340</EndPage>
+          <MedlinePgn>334-340</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41586-019-0997-6</ELocationID>
+        <Abstract>
+          <AbstractText>The computations performed by local neural populations, such as a cortical layer, are typically inferred from anatomical connectivity and observations of neural activity. Here we describe a method-influence mapping-that uses single-neuron perturbations to directly measure how cortical neurons reshape sensory representations. In layer 2/3 of the primary visual cortex (V1), we use two-photon optogenetics to trigger action potentials in a targeted neuron and calcium imaging to measure the effect on spiking in neighbouring neurons in awake mice viewing visual stimuli. Excitatory neurons on average suppressed other neurons and had a centre-surround influence profile over anatomical space. A neuron's influence on its neighbour depended on their similarity in activity. Notably, neurons suppressed activity in similarly tuned neurons more than in dissimilarly tuned neurons. In addition, photostimulation reduced the population response, specifically to the targeted neuron's preferred stimulus, by around 2%. Therefore, V1 layer 2/3 performed feature competition, in which a like-suppresses-like motif reduces redundancy in population activity and may assist with inference of the features that underlie sensory input. We anticipate that influence mapping can be extended to investigate computations in other neural populations.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Chettih</LastName>
+            <ForeName>Selmaan N</ForeName>
+            <Initials>SN</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurobiology, Harvard Medical School, Boston, MA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Harvey</LastName>
+            <ForeName>Christopher D</ForeName>
+            <Initials>CD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurobiology, Harvard Medical School, Boston, MA, USA. harvey@hms.harvard.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 NS108410</GrantID>
+            <Acronym>NS</Acronym>
+            <Agency>NINDS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>P30 EY012196</GrantID>
+            <Acronym>EY</Acronym>
+            <Agency>NEI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 MH107620</GrantID>
+            <Acronym>MH</Acronym>
+            <Agency>NIMH NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 NS089521</GrantID>
+            <Acronym>NS</Acronym>
+            <Agency>NINDS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2019</Year>
+          <Month>03</Month>
+          <Day>06</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Nature</MedlineTA>
+        <NlmUniqueID>0410462</NlmUniqueID>
+        <ISSNLinking>0028-0836</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Nature. 2019 Mar;567(7748):320-321</RefSource>
+          <PMID Version="1">30880328</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000200" MajorTopicYN="N">Action Potentials</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020013" MajorTopicYN="N">Calcium Signaling</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008959" MajorTopicYN="Y">Models, Neurological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009433" MajorTopicYN="Y">Neural Inhibition</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+          <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D062308" MajorTopicYN="N">Optogenetics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010775" MajorTopicYN="N">Photic Stimulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014793" MajorTopicYN="N">Visual Cortex</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014796" MajorTopicYN="N">Visual Perception</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>Author Information. The authors declare no competing financial interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>5</Month>
+          <Day>9</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2019</Year>
+          <Month>2</Month>
+          <Day>7</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>3</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>10</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>3</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30842660</ArticleId>
+        <ArticleId IdType="mid">NIHMS1521090</ArticleId>
+        <ArticleId IdType="pmc">PMC6682407</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41586-019-0997-6</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41586-019-0997-6</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Niell CM &amp; Stryker MP
+Highly Selective Receptive Fields in Mouse Visual Cortex. J. Neurosci
+28, 7520–7536 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3040721</ArticleId>
+            <ArticleId IdType="pubmed">18650330</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lien AD &amp; Scanziani M
+Tuned thalamic excitation is amplified by visual cortical circuits. Nat. Neurosci
+16, 1315–1323 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3774518</ArticleId>
+            <ArticleId IdType="pubmed">23933748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun W, Tan Z, Mensh BD &amp; Ji N
+Thalamus provides layer 4 of primary visual cortex with orientation- and direction-tuned inputs. Nat. Neurosci
+19, 308–315 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4731241</ArticleId>
+            <ArticleId IdType="pubmed">26691829</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harris KD &amp; Mrsic-Flogel TD
+Cortical connectivity and sensory coding. Nature
+503, 51–58 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24201278</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cossell L
+et al.
+Functional organization of excitatory synaptic strength in primary visual cortex. Nature
+518, 399–403 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4843963</ArticleId>
+            <ArticleId IdType="pubmed">25652823</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Weliky M, Kandler K, Fitzpatrick D &amp; Katz LC
+Patterns of excitation and inhibition evoked by horizontal connections in visual cortex share a common relationship to orientation columns. Neuron
+15, 541–552 (1995).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7546734</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gilbert C &amp; Wiesel T
+Columnar specificity of intrinsic horizontal and corticocortical connections in cat visual cortex. J. Neurosci
+9, 2432–2442 (1989).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6569760</ArticleId>
+            <ArticleId IdType="pubmed">2746337</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ko H
+et al.
+Functional specificity of local synaptic connections in neocortical networks. Nature
+473, 87–91 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3089591</ArticleId>
+            <ArticleId IdType="pubmed">21478872</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee W-CA
+et al.
+Anatomy and function of an excitatory network in the visual cortex. Nature
+532, 370–374 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4844839</ArticleId>
+            <ArticleId IdType="pubmed">27018655</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Olshausen BA &amp; Field DJ
+Sparse coding with an overcomplete basis set: a strategy employed by V1?
+Vision Res
+37, 3311–3325 (1997).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9425546</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Olshausen B &amp; Field D
+Sparse coding of sensory inputs. Curr. Opin. Neurobiol
+14, 481–487 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15321069</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lochmann T, Ernst UA &amp; Denève S
+Perceptual Inference Predicts Contextual Modulations of Sensory Responses. J. Neurosci
+32, 4179–4195 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6621224</ArticleId>
+            <ArticleId IdType="pubmed">22442081</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lochmann T &amp; Deneve S
+Neural processing as causal inference. Curr. Opin. Neurobiol
+21, 774–781 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21742484</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trott AR &amp; Born RT
+Input-Gain Control Produces Feature-Specific Surround Suppression. J. Neurosci
+35, 4973–4982 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4389596</ArticleId>
+            <ArticleId IdType="pubmed">25810527</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vinje WE &amp; Gallant JL
+Sparse Coding and Decorrelation in Primary Visual Cortex During Natural Vision. Science
+287, 1273–1273 (2000).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10678835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Coen-Cagli R, Kohn A &amp; Schwartz O
+Flexible gating of contextual influences in natural vision. Nat. Neurosci
+18, 1648–1655 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4624479</ArticleId>
+            <ArticleId IdType="pubmed">26436902</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moreno-Bote R &amp; Drugowitsch J
+Causal Inference and Explaining Away in a Spiking Network. Sci. Rep
+5, 17531 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4664919</ArticleId>
+            <ArticleId IdType="pubmed">26621426</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bock DD
+et al.
+Network anatomy and in vivo physiology of visual cortical neurons. Nature
+471, 177–182 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3095821</ArticleId>
+            <ArticleId IdType="pubmed">21390124</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jouhanneau J-S, Kremkow J &amp; Poulet JFA
+Single synaptic inputs drive high-precision action potentials in parvalbumin expressing GABA-ergic cortical neurons in vivo. Nat. Commun
+9, 1540 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5906477</ArticleId>
+            <ArticleId IdType="pubmed">29670095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Isaacson JS &amp; Scanziani M
+How Inhibition Shapes Cortical Activity. Neuron
+72, 231–243 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3236361</ArticleId>
+            <ArticleId IdType="pubmed">22017986</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>London M, Roth A, Beeren L, Häusser M &amp; Latham PE
+Sensitivity to perturbations in vivo implies high noise and suggests rate coding in cortex. Nature
+466, 123–127 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2898896</ArticleId>
+            <ArticleId IdType="pubmed">20596024</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feldt S, Bonifazi P &amp; Cossart R
+Dissecting functional connectivity of neuronal microcircuits: experimental and theoretical insights. Trends Neurosci
+34, 225–236 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21459463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rickgauer JP, Deisseroth K &amp; Tank DW
+Simultaneous cellular-resolution optical perturbation and imaging of place cell firing fields. Nat. Neurosci
+17, 1816–1824 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4459599</ArticleId>
+            <ArticleId IdType="pubmed">25402854</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Packer AM, Russell LE, Dalgleish HWP &amp; Häusser M
+Simultaneous all-optical manipulation and recording of neural circuit activity with cellular resolution in vivo. Nat. Methods
+12, 140–146 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4933203</ArticleId>
+            <ArticleId IdType="pubmed">25532138</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kwan AC &amp; Dan Y
+Dissection of Cortical Microcircuits by Single-Neuron Stimulation In Vivo. Curr. Biol
+22, 1459–1467 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3467311</ArticleId>
+            <ArticleId IdType="pubmed">22748320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carrillo-Reid L, Yang W, Bando Y, Peterka DS &amp; Yuste R
+Imprinting and recalling cortical ensembles. Science
+353, 691–694 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5482530</ArticleId>
+            <ArticleId IdType="pubmed">27516599</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen I-W
+et al.
+Parallel holographic illumination enables sub-millisecond two-photon optogenetic activation in mouse visual cortex in vivo. bioRxiv 250795 (2018). doi:10.1101/250795</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/250795</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prakash R
+et al.
+Two-photon optogenetic toolbox for fast inhibition, excitation and bistable modulation. Nat. Methods
+9, 1171–1179 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5734860</ArticleId>
+            <ArticleId IdType="pubmed">23169303</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mardinly AR
+et al.
+Precise multimodal optical control of neural ensemble activity. Nat. Neurosci
+21, 881–893 (2018)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5970968</ArticleId>
+            <ArticleId IdType="pubmed">29713079</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yizhar O
+et al.
+Neocortical excitation/inhibition balance in information processing and social dysfunction. Nature
+477, 171–178 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4155501</ArticleId>
+            <ArticleId IdType="pubmed">21796121</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Klapoetke NC
+et al.
+Independent optical excitation of distinct neural populations. Nat. Methods
+11, 338–346 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3943671</ArticleId>
+            <ArticleId IdType="pubmed">24509633</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu C, Ivanova E, Zhang Y &amp; Pan Z-H
+rAAV-Mediated Subcellular Targeting of Optogenetic Tools in Retinal Ganglion Cells In Vivo. PLoS ONE
+8, e66332 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3683040</ArticleId>
+            <ArticleId IdType="pubmed">23799092</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baker CA, Elyada YM, Parra A &amp; Bolton MM
+Cellular resolution circuit mapping with temporal-focused excitation of soma-targeted channelrhodopsin. eLife
+5, e14193 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5001837</ArticleId>
+            <ArticleId IdType="pubmed">27525487</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bonin V, Histed MH, Yurgenson S &amp; Reid RC
+Local Diversity and Fine-Scale Organization of Receptive Fields in Mouse Visual Cortex. J. Neurosci
+31, 18506–18521 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3758577</ArticleId>
+            <ArticleId IdType="pubmed">22171051</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rosenbaum R, Smith MA, Kohn A, Rubin JE &amp; Doiron B
+The spatial structure of correlated neuronal variability. Nat. Neurosci
+20, 107–114 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5191923</ArticleId>
+            <ArticleId IdType="pubmed">27798630</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rickgauer JP &amp; Tank DW
+Two-photon excitation of channelrhodopsin-2 at saturation. Proc. Natl. Acad. Sci
+106, 15025–15030 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2736443</ArticleId>
+            <ArticleId IdType="pubmed">19706471</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Haider B, Häusser M &amp; Carandini M
+Inhibition dominates sensory responses in the awake cortex. Nature
+493, 97–100 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3537822</ArticleId>
+            <ArticleId IdType="pubmed">23172139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vinje WE &amp; Gallant JL
+Natural stimulation of the nonclassical receptive field increases information transmission efficiency in V1. J. Neurosci
+22, 2904–2915 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6758304</ArticleId>
+            <ArticleId IdType="pubmed">11923455</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Haider B
+et al.
+Synaptic and Network Mechanisms of Sparse and Reliable Visual Cortical Activity during Nonclassical Receptive Field Stimulation. Neuron
+65, 107–121 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3110675</ArticleId>
+            <ArticleId IdType="pubmed">20152117</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koulakov AA &amp; Rinberg D
+Sparse Incomplete Representations: A Potential Role of Olfactory Granule Cells. Neuron
+72, 124–136 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3202217</ArticleId>
+            <ArticleId IdType="pubmed">21982374</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hofer SB
+et al.
+Differential connectivity and response dynamics of excitatory and inhibitory neurons in visual cortex. Nat. Neurosci
+14, 1045–1052 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6370002</ArticleId>
+            <ArticleId IdType="pubmed">21765421</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Packer AM &amp; Yuste R
+Dense, Unspecific Connectivity of Neocortical Parvalbumin-Positive Interneurons: A Canonical Microcircuit for Inhibition?
+J. Neurosci
+31, 13260–13271 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3178964</ArticleId>
+            <ArticleId IdType="pubmed">21917809</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kerlin AM, Andermann ML, Berezovskii VK &amp; Reid RC
+Broadly Tuned Response Properties of Diverse Inhibitory Neuron Subtypes in Mouse Visual Cortex. Neuron
+67, 858–871 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3327881</ArticleId>
+            <ArticleId IdType="pubmed">20826316</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wilson NR, Runyan CA, Wang FL &amp; Sur M
+Division and subtraction by distinct cortical inhibitory networks in vivo. Nature
+488, 343–348 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3653570</ArticleId>
+            <ArticleId IdType="pubmed">22878717</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoshimura Y &amp; Callaway EM
+Fine-scale specificity of cortical networks depends on inhibitory cell type and connectivity. Nat. Neurosci
+8, 1552–1559 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16222228</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Znamenskiy P
+et al.
+Functional selectivity and specific connectivity of inhibitory neurons in primary visual cortex. bioRxiv 294835 (2018). doi:10.1101/294835</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/294835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Runyan CA
+et al.
+Response Features of Parvalbumin-Expressing Interneurons Suggest Precise Roles for Subtypes of Inhibition in Visual Cortex. Neuron
+67, 847–857 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2948796</ArticleId>
+            <ArticleId IdType="pubmed">20826315</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tan AYY, Brown BD, Scholl B, Mohanty D &amp; Priebe NJ
+Orientation Selectivity of Synaptic Input to Neurons in Mouse and Cat Primary Visual Cortex. J. Neurosci
+31, 12339–12350 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3202243</ArticleId>
+            <ArticleId IdType="pubmed">21865476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wehr M &amp; Zador AM
+Balanced inhibition underlies tuning and sharpens spike timing in auditory cortex. Nature
+426, 442–446 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14647382</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anderson JS, Carandini M &amp; Ferster D
+Orientation Tuning of Input Conductance, Excitation, and Inhibition in Cat Primary Visual Cortex. J. Neurophysiol
+84, 909–926 (2000).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10938316</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lim ST, Antonucci DE, Scannevin RH &amp; Trimmer JS
+A Novel Targeting Signal for Proximal Clustering of the Kv2.1 K+ Channel in Hippocampal Neurons. Neuron
+25, 385–397 (2000).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10719893</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen T-W
+et al.
+Ultrasensitive fluorescent proteins for imaging neuronal activity. Nature
+499, 295–300 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3777791</ArticleId>
+            <ArticleId IdType="pubmed">23868258</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harvey CD, Coen P &amp; Tank DW
+Choice-specific sequences in parietal cortex during a virtual-navigation decision task. Nature
+484, 62–68 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3321074</ArticleId>
+            <ArticleId IdType="pubmed">22419153</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yatsenko D
+et al.
+DataJoint: managing big scientific data using MATLAB or Python. bioRxiv 031658 (2015). doi:10.1101/031658</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/031658</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Komai S, Denk W, Osten P, Brecht M &amp; Margrie TW
+Two-photon targeted patching (TPTP) in vivo. Nat. Protoc
+1, 647–652 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17406293</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guizar-Sicairos M, Thurman ST &amp; Fienup JR
+Efficient subpixel image registration algorithms. Opt. Lett
+33, 156–158 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18197224</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Greenberg DS &amp; Kerr JND
+Automated correction of fast motion artifacts for two-photon imaging of awake animals. J. Neurosci. Methods
+176, 1–15 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18789968</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Friedrich J
+et al.
+Multi-scale approaches for high-speed imaging and analysis of large neural populations. PLOS Comput. Biol
+13, e1005685 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5557609</ArticleId>
+            <ArticleId IdType="pubmed">28771570</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pnevmatikakis EA
+et al.
+A structured matrix factorization framework for large scale calcium imaging data analysis. arXiv 1409.2903 (2014).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pnevmatikakis EA
+et al.
+Simultaneous Denoising, Deconvolution, and Demixing of Calcium Imaging Data. Neuron
+89, 285–299 (2016)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4881387</ArticleId>
+            <ArticleId IdType="pubmed">26774160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Driscoll LN, Pettit NL, Minderer M, Chettih SN &amp; Harvey CD
+Dynamic Reorganization of Neuronal Activity Patterns in Parietal Cortex. Cell
+170, 986–999.e16 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5718200</ArticleId>
+            <ArticleId IdType="pubmed">28823559</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ding CH, He X &amp; Simon HD
+On the Equivalence of Nonnegative Matrix Factorization and Spectral Clustering. SDM
+5, 606–610 (SIAM, 2005).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Friedrich J, Zhou P &amp; Paninski L
+Fast Active Set Methods for Online Deconvolution of Calcium Imaging Data. arXiv 1609.00639 (2016).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Storey JD
+A direct approach to false discovery rates. J. R. Stat. Soc. Ser. B Stat. Methodol
+64, 479–498 (2002).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yu BM
+et al.
+Gaussian-Process Factor Analysis for Low-Dimensional Single-Trial Analysis of Neural Population Activity. J. Neurophysiol
+102, 614–635 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2712272</ArticleId>
+            <ArticleId IdType="pubmed">19357332</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rasmussen CE &amp; Williams CK
+Gaussian Processes for Machine Learning. (MIT Press, 2006).</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

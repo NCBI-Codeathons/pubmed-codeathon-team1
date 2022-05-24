@@ -1,0 +1,324 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35577814</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2045-2322</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>12</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>16</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Scientific reports</Title>
+          <ISOAbbreviation>Sci Rep</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A metamodel-based flexible insulin therapy for type 1 diabetes patients subjected to aerobic physical activity.</ArticleTitle>
+        <Pagination>
+          <StartPage>8017</StartPage>
+          <MedlinePgn>8017</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">8017</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41598-022-11772-x</ELocationID>
+        <Abstract>
+          <AbstractText>Patients with type 1 diabetes are subject to exogenous insulin injections, whether manually or through (semi)automated insulin pumps. Basic knowledge of the patient's characteristics and flexible insulin therapy (FIT) parameters are then needed. Specifically, artificial pancreas-like closed-loop insulin delivery systems are some of the most promising devices for substituting for endogenous insulin secretion in type 1 diabetes patients. However, these devices require self-reported information such as carbohydrates or physical activity from the patient, introducing potential miscalculations and delays that can have life-threatening consequences. Here, we display a metamodel for glucose-insulin dynamics that is subject to carbohydrate ingestion and aerobic physical activity. This metamodel incorporates major existing knowledge-based models. We derive comprehensive and universal definitions of the underlying FIT parameters to form an insulin sensitivity factor (ISF). In addition, the relevance of physical activity modelling is assessed, and the FIT is updated to take physical exercise into account. Specifically, we cope with physical activity by using heart rate sensors (watches) with a fully automated closed insulin loop, aiming to maximize the time spent in the glycaemic range (75.5% in the range and 1.3% below the range for hypoglycaemia on a virtual patient simulator).These mathematical parameter definitions are interesting on their own, may be new tools for assessing mathematical models and can ultimately be used in closed-loop artificial pancreas algorithms or to extend distinguished FIT.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Scharbarg</LastName>
+            <ForeName>Emeric</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nantes Université, École Centrale Nantes, CNRS, LS2N, UMR 6004, Nantes, F-44000, France. emeric.scharbarg@chu-nantes.fr.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Nantes Université, CHU Nantes, Department of Endocrinology, l'Institut du Thorax, Nantes, F-44000, France. emeric.scharbarg@chu-nantes.fr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Greck</LastName>
+            <ForeName>Joachim</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nantes Université, École Centrale Nantes, CNRS, LS2N, UMR 6004, Nantes, F-44000, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Le Carpentier</LastName>
+            <ForeName>Eric</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nantes Université, École Centrale Nantes, CNRS, LS2N, UMR 6004, Nantes, F-44000, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chaillous</LastName>
+            <ForeName>Lucy</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nantes Université, CHU Nantes, Department of Endocrinology, l'Institut du Thorax, Nantes, F-44000, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Moog</LastName>
+            <ForeName>Claude H</ForeName>
+            <Initials>CH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nantes Université, École Centrale Nantes, CNRS, LS2N, UMR 6004, Nantes, F-44000, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>16</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Sci Rep</MedlineTA>
+        <NlmUniqueID>101563288</NlmUniqueID>
+        <ISSNLinking>2045-2322</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001786">Blood Glucose</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D007004">Hypoglycemic Agents</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D007328">Insulin</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001786" MajorTopicYN="N">Blood Glucose</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003922" MajorTopicYN="Y">Diabetes Mellitus, Type 1</DescriptorName>
+          <QualifierName UI="Q000139" MajorTopicYN="N">chemically induced</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015444" MajorTopicYN="N">Exercise</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007004" MajorTopicYN="N">Hypoglycemic Agents</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007328" MajorTopicYN="N">Insulin</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007332" MajorTopicYN="Y">Insulin Infusion Systems</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>16</Day>
+          <Hour>23</Hour>
+          <Minute>17</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35577814</ArticleId>
+        <ArticleId IdType="pmc">PMC9110411</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41598-022-11772-x</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41598-022-11772-x</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Weisman A, Bai J-W, Cardinez M, Kramer CK, Perkins BA. Effect of artificial pancreas systems on glycaemic control in patients with type 1 diabetes: a systematic review and meta-analysis of outpatient randomised controlled trials. Lancet Diabetes Endocrinol. 2017;5:501–512. doi: 10.1016/S2213-8587(17)30167-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S2213-8587(17)30167-5</ArticleId>
+            <ArticleId IdType="pubmed">28533136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brooker, G. Handbook of Biomechatronics, chap. 11-The Artificial Pancreas (Academic Press, 2019).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pathak, V., Pathak, N. M., O’Neill, C. L., Guduric-Fuchs, J. spsampsps Medina, R. J. Therapies for type 1 diabetes: current scenario and future perspectives. Clin. Med. Insights Endocrinol. Diabetes10.1177/1179551419844521 (2019).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wilson L, Castle J. Stable liquid glucagon: Beyond emergency hypoglycemia rescue. J. Diabetes Sci. Technol. 2018;12:847–853. doi: 10.1177/1932296818757795.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1932296818757795</ArticleId>
+            <ArticleId IdType="pmc">PMC6134309</ArticleId>
+            <ArticleId IdType="pubmed">29415555</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>DAFNE-Group-Study. Training in flexible, intensive insulin management to enable dietary freedom in people with type 1 diabetes: dose adjustment for normal eating (dafne) randomised controlled trial. BMJ325, 746, 10.1136/bmj.325.7367.746 (2002).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chimen M, et al.  What are the health benefits of physical activity in type 1 diabetes mellitus? A literature review. Diabetologia. 2012;55:542–551. doi: 10.1007/s00125-011-2403-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00125-011-2403-2</ArticleId>
+            <ArticleId IdType="pubmed">22189486</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boucher, J., C. R. K., &amp; Kleinridders, A.. Insulin receptor signaling in normal and insulin-resistant states. Cold Spring Harb Perspect Biol.6, 10.1101/cshperspect.a009191 (2014).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Roy A, Parker R. Dynamic modeling of exercise effects on plasma glucose and insulin levels. J. Diabetes Sci. Technol. 2007;1:338–347. doi: 10.1177/193229680700100305.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/193229680700100305</ArticleId>
+            <ArticleId IdType="pmc">PMC2769581</ArticleId>
+            <ArticleId IdType="pubmed">19885088</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Breton M. Physical activity - the major unaccounted impediment to closed loop control. J. Diabetes Sci. Technol. 2008;2:169–174. doi: 10.1177/193229680800200127.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/193229680800200127</ArticleId>
+            <ArticleId IdType="pmc">PMC2769710</ArticleId>
+            <ArticleId IdType="pubmed">19885195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alkhateeb, H., Fathi, A. E., Ghanbari, M. &amp; Haidar, A. Modelling glucose dynamics during moderate exercise in individuals with type 1 diabetes. PLOS ONE. 10.1371/journal.pone.0248280 (2021).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Garcia-Tirado J, Zuluaga-Bedoya C, Breton MD. Identifiability analysis of three control-oriented models for use in artificial pancreas systems. J. Diabetes Sci. Technol. 2018;12:937–952. doi: 10.1177/1932296818788873.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1932296818788873</ArticleId>
+            <ArticleId IdType="pmc">PMC6134618</ArticleId>
+            <ArticleId IdType="pubmed">30095007</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hernandez-Ordonez M, Campos-Delgado D. An extension to the compartmental model of type 1 diabetic patients to reproduce exercise periods with glycogen depletion and replenishment. J. Biomech. 2008;41:744–752. doi: 10.1016/j.jbiomech.2007.11.028.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jbiomech.2007.11.028</ArticleId>
+            <ArticleId IdType="pubmed">18206156</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bergman R, Ider Y, Bowden C, Cobelli C. Quantitative estimation of insulin sensitivity. Am. J. Physiol. 1979;233:667–677. doi: 10.1152/ajpendo.1979.236.6.E667.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpendo.1979.236.6.E667</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zaharieva DP, Riddell MC. Prevention of exercise-associated dysglycemia: a case study-based approach. Diabetes Spectr. 2015;28:55–62. doi: 10.2337/diaspect.28.1.55.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2337/diaspect.28.1.55</ArticleId>
+            <ArticleId IdType="pmc">PMC4334080</ArticleId>
+            <ArticleId IdType="pubmed">25717279</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Resalat N, Youssef JE, Tyler N, Castle J. A statistical virtual patient population for the glucoregulatory system in type 1 diabetes with integrated exercise model. PLoS ONE. 2019;14:1–17. doi: 10.1371/journal.pone.0217301.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0217301</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Colberg, S. R. et al. Physical activity/exercise and diabetes: A position statement of the american diabetes association. Diabetes Care39, 2065–2079, 10.2337/dc16-1728 (2016).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Association, A. D. 6. glycemic targets: Standards of medical care in diabetes-2021. Diabetes Care44, S73–S84, 10.2337/dc21-S006 (2021).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Magdelaine N, et al.  A long-term model of the glucose-insulin dynamics of type 1 diabetes. IEEE Trans. Biomed. Eng. 2015;62:1546–1552. doi: 10.1109/TBME.2015.2394239.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TBME.2015.2394239</ArticleId>
+            <ArticleId IdType="pubmed">25615904</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Magdelaine, N. Diabète de type 1 : du modèle ... à la boucle fermée. Thèse, Centrale Nantes (2017).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gellish R, et al.  Longitudinal modeling of the relationship between age and maximal heart rate. Med. Sci. Sports Exerc. 2007;39:822–829. doi: 10.1097/mss.0b013e31803349c6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/mss.0b013e31803349c6</ArticleId>
+            <ArticleId IdType="pubmed">17468581</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Man CD, Micheletto F, Breton M, Kovatchev B, Cobelli C. The uva/padova type 1 diabetes simulator: New features. J. Diabetes Sci. Technol. 2014;8:26–34. doi: 10.1177/1932296813514502.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1932296813514502</ArticleId>
+            <ArticleId IdType="pmc">PMC4454102</ArticleId>
+            <ArticleId IdType="pubmed">24876534</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hovorka R, et al.  Partitioning glucose distribution/transport, disposal and endogenous production during ivgtt. Am. J. Physiol. Endocrinol. Metab. 2001;282:992–1007. doi: 10.1152/ajpendo.00304.2001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpendo.00304.2001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Visentin R, et al.  The uva/padova type 1 diabetes simulator goes from single meal to single day. J. Diabetes Sci. Technol. 2018;12:273–281. doi: 10.1177/1932296818757747.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1932296818757747</ArticleId>
+            <ArticleId IdType="pmc">PMC5851236</ArticleId>
+            <ArticleId IdType="pubmed">29451021</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

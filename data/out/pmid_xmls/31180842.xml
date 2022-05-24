@@ -1,0 +1,108 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">31180842</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>02</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>02</Month>
+        <Day>11</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1939-3539</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>42</Volume>
+            <Issue>12</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>IEEE transactions on pattern analysis and machine intelligence</Title>
+          <ISOAbbreviation>IEEE Trans Pattern Anal Mach Intell</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Semantic Fisher Scores for Task Transfer: Using Objects to Classify Scenes.</ArticleTitle>
+        <Pagination>
+          <StartPage>3102</StartPage>
+          <EndPage>3118</EndPage>
+          <MedlinePgn>3102-3118</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1109/TPAMI.2019.2921960</ELocationID>
+        <Abstract>
+          <AbstractText>The transfer of a neural network (CNN) trained to recognize objects to the task of scene classification is considered. A Bag-of-Semantics (BoS) representation is first induced, by feeding scene image patches to the object CNN, and representing the scene image by the ensuing bag of posterior class probability vectors (semantic posteriors). The encoding of the BoS with a Fisher vector (FV) is then studied. A link is established between the FV of any probabilistic model and the Q-function of the expectation-maximization (EM) algorithm used to estimate its parameters by maximum likelihood. This enables 1) immediate derivation of FVs for any model for which an EM algorithm exists, and 2) leveraging efficient implementations from the EM literature for the computation of FVs. It is then shown that standard FVs, such as those derived from Gaussian or even Dirichlet mixtures, are unsuccessful for the transfer of semantic posteriors, due to the highly non-linear nature of the probability simplex. The analysis of these FVs shows that significant benefits can ensue by 1) designing FVs in the natural parameter space of the multinomial distribution, and 2) adopting sophisticated probabilistic models of semantic feature covariance. The combination of these two insights leads to the encoding of the BoS in the natural parameter space of the multinomial, using a vector of Fisher scores derived from a mixture of factor analyzers (MFA). A network implementation of the MFA Fisher Score (MFA-FS), denoted as the MFAFSNet, is finally proposed to enable end-to-end training. Experiments with various object CNNs and datasets show that the approach has state-of-the-art transfer performance. Somewhat surprisingly, the scene classification results are superior to those of a CNN explicitly trained for scene classification, using a large scene dataset (Places). This suggests that holistic analysis is insufficient for scene classification. The modeling of local object semantics appears to be at least equally important. The two approaches are also shown to be strongly complementary, leading to very large scene classification gains when combined, and outperforming all previous scene classification approaches by a sizable margin.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Dixit</LastName>
+            <ForeName>Mandar</ForeName>
+            <Initials>M</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Yunsheng</ForeName>
+            <Initials>Y</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vasconcelos</LastName>
+            <ForeName>Nuno</ForeName>
+            <Initials>N</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>11</Month>
+          <Day>03</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>IEEE Trans Pattern Anal Mach Intell</MedlineTA>
+        <NlmUniqueID>9885960</NlmUniqueID>
+        <ISSNLinking>0098-5589</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>6</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>6</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>6</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31180842</ArticleId>
+        <ArticleId IdType="doi">10.1109/TPAMI.2019.2921960</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

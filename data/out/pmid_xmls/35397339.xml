@@ -1,0 +1,219 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35397339</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>19</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1879-0534</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>145</Volume>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Computers in biology and medicine</Title>
+          <ISOAbbreviation>Comput Biol Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Lupus nephritis diagnosis using enhanced moth flame algorithm with support vector machines.</ArticleTitle>
+        <Pagination>
+          <StartPage>105435</StartPage>
+          <MedlinePgn>105435</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.compbiomed.2022.105435</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0010-4825(22)00227-X</ELocationID>
+        <Abstract>
+          <AbstractText>Systemic lupus erythematosus is a chronic autoimmune disease that affects the kidney in most patients. Lupus nephritis (LN) is divided into six categories by the International Society of Nephrology/Renal Pathology Society (ISN/RPS). The purpose of this research is to build a framework for discriminating between ISN/RPS pure class V(MLN) and classes III ± V or IV ± V (PLN) using real clinical data. The framework is developed by merging a hybrid stochastic optimizer, moth-flame algorithm (HMFO), with a support vector machine (SVM), dubbed HMFO-SVM. The HMFO is constructed by enhancing the original moth-flame algorithm (MFO) with a bee-foraging learning operator, which guarantees that the algorithm speeds convergence and departs from the local optimum. The HMFO is used to optimize parameters and select features simultaneously for SVM on clinical SLE data. On 23 benchmark tests, the suggested HMFO method is validated. Finally, clinical data from LN patients are analyzed to determine the efficacy of HMFO-SVM over other SVM rivals. The statistical findings indicate that all measures have predictive capabilities and that the suggested HMFO-SVM is more stable for analyzing systemic LN. HMFO-SVM may be used to analyze LN as a feasible computer-assisted technique.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Mingjing</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Computer Science and Artificial Intelligence, Wenzhou University, Wenzhou, 325035, China. Electronic address: wangmingjing.style@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liang</LastName>
+            <ForeName>Yingqi</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Wenzhou Medical University, Wenzhou, China. Electronic address: lyq@wmu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Zhongyi</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Computer Science and Artificial Intelligence, Wenzhou University, Wenzhou, 325035, China. Electronic address: huzhongyi@wzu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Siyuan</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Affiliated People's Hospital of Jiangsu University, 8 Dianli Road, Zhenjiang, Jiangsu, 212000, China. Electronic address: csy_qi@yeah.net.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shi</LastName>
+            <ForeName>Beibei</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Affiliated People's Hospital of Jiangsu University, 8 Dianli Road, Zhenjiang, Jiangsu, 212000, China. Electronic address: shibeibei1993zjfph@163.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Heidari</LastName>
+            <ForeName>Ali Asghar</ForeName>
+            <Initials>AA</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Surveying and Geospatial Engineering, College of Engineering, University of Tehran, Tehran, Iran. Electronic address: as/_heidari@ut.ac.ir.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Qian</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Wenzhou University of Technology, Wenzhou, 325035, China. Electronic address: qz_zhangqian@163.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Huiling</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Computer Science and Artificial Intelligence, Wenzhou University, Wenzhou, 325035, China. Electronic address: chenhuiling.jlu@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Xiaowei</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Rheumatology and Immunology, The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, 325000, China. Electronic address: 179781679@qq.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>04</Month>
+          <Day>02</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Comput Biol Med</MedlineTA>
+        <NlmUniqueID>1250250</NlmUniqueID>
+        <ISSNLinking>0010-4825</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001706" MajorTopicYN="N">Biopsy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008180" MajorTopicYN="Y">Lupus Erythematosus, Systemic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008181" MajorTopicYN="Y">Lupus Nephritis</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009036" MajorTopicYN="Y">Moths</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D060388" MajorTopicYN="N">Support Vector Machine</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Artificial bee colony</Keyword>
+        <Keyword MajorTopicYN="N">Bee-foraging learning</Keyword>
+        <Keyword MajorTopicYN="N">Feature selection</Keyword>
+        <Keyword MajorTopicYN="N">Lupus nephritis</Keyword>
+        <Keyword MajorTopicYN="N">Moth-flame optimizer</Keyword>
+        <Keyword MajorTopicYN="N">Parameter optimization</Keyword>
+        <Keyword MajorTopicYN="N">Support vector machine</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>9</Day>
+          <Hour>20</Hour>
+          <Minute>9</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35397339</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.compbiomed.2022.105435</ArticleId>
+        <ArticleId IdType="pii">S0010-4825(22)00227-X</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

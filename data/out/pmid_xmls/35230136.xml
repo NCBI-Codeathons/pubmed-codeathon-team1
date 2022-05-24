@@ -1,0 +1,294 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35230136</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1748-880X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>95</Volume>
+            <Issue>1134</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>The British journal of radiology</Title>
+          <ISOAbbreviation>Br J Radiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A reproducible dynamic phantom for sequence testing in hyperpolarised <sup>13</sup>C-magnetic resonance.</ArticleTitle>
+        <Pagination>
+          <StartPage>20210770</StartPage>
+          <MedlinePgn>20210770</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1259/bjr.20210770</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To develop a phantom system which can be integrated with an automated injection system, eliminating the experimental variability that arises with manual injection; for the purposes of pulse sequence testing and metric derivation in hyperpolarised <sup>13</sup>C-MR.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">The custom dynamic phantom was machined from Ultem and filled with a nicotinamide adenine dinucleotide and lactate dehydrogenase mixture dissolved in phosphate buffered saline. Hyperpolarised [1-<sup>13</sup>C]-pyruvate was then injected into the phantom (<i>n</i> = 8) via an automated syringe pump and the conversion of pyruvate to lactate monitored through a <sup>13</sup>C imaging sequence.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The phantom showed low coefficient of variation for the lactate to pyruvate peak signal heights (11.6%) and dynamic area-under curve ratios (11.0%). The variance for the lactate dehydrogenase enzyme rate constant (kP) was also seen to be low at 15.6%.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The dynamic phantom demonstrates high reproducibility for quantification of <sup>13</sup>C-hyperpolarised MR-derived metrics. Establishing such a phantom is needed to facilitate development of hyperpolarsed <sup>13</sup>C-MR pulse sequenced; and moreover, to enable multisite hyperpolarised <sup>13</sup>C-MR clinical trials where assessment of metric variability across sites is critical.</AbstractText>
+          <AbstractText Label="ADVANCES IN KNOWLEDGE" NlmCategory="CONCLUSIONS">The dynamic phantom developed during the course of this study will be a useful tool in testing new pulse sequences and standardisation in future hyperpolarised work.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Chowdhury</LastName>
+            <ForeName>Rafat</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Medical Imaging, Division of Medicine, University College London, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Papoutsaki</LastName>
+            <ForeName>Marianthi-Vasiliki</ForeName>
+            <Initials>MV</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Medical Imaging, Division of Medicine, University College London, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Müller</LastName>
+            <ForeName>Christoph A</ForeName>
+            <Initials>CA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, Medical Physics, Medical Center - University of Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>German Cancer Consortium (DKTK), partner site Freiburg, German Cancer Research Center (DKFZ), Heidelberg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Smith</LastName>
+            <ForeName>Lorna</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Gold Standard Phantoms Limited, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gong</LastName>
+            <ForeName>Fiona</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Medical Imaging, Division of Medicine, University College London, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bullock</LastName>
+            <ForeName>Max</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Medical Imaging, Division of Medicine, University College London, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rogers</LastName>
+            <ForeName>Harriet</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Medical Imaging, Division of Medicine, University College London, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mathew</LastName>
+            <ForeName>Manju</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Medical Imaging, Division of Medicine, University College London, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Syer</LastName>
+            <ForeName>Tom</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Medical Imaging, Division of Medicine, University College London, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Singh</LastName>
+            <ForeName>Saurabh</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Medical Imaging, Division of Medicine, University College London, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Retter</LastName>
+            <ForeName>Adam</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Medical Imaging, Division of Medicine, University College London, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Caselton</LastName>
+            <ForeName>Lucy</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Medical Imaging, Division of Medicine, University College London, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ryu</LastName>
+            <ForeName>Jung</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Medical Imaging, Division of Medicine, University College London, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Oliver-Taylor</LastName>
+            <ForeName>Aaron</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Gold Standard Phantoms Limited, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Golay</LastName>
+            <ForeName>Xavier</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Gold Standard Phantoms Limited, London, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Brain Repair and Rehabilitation, Institute of Neurology, Queen's Square, University College London, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bainbridge</LastName>
+            <ForeName>Alan</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Physics and Biomedical Engineering, University College London Hospitals, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gadian</LastName>
+            <ForeName>David G</ForeName>
+            <Initials>DG</Initials>
+            <AffiliationInfo>
+              <Affiliation>UCL Great Ormond Street Institute of Child Health, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Punwani</LastName>
+            <ForeName>Shonit</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Medical Imaging, Division of Medicine, University College London, London, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, University College London Hospitals NHS Foundation Trust, London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Br J Radiol</MedlineTA>
+        <NlmUniqueID>0373125</NlmUniqueID>
+        <ISSNLinking>0007-1285</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D002247">Carbon Isotopes</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>33X04XA5AT</RegistryNumber>
+          <NameOfSubstance UI="D019344">Lactic Acid</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>8558G7RUTR</RegistryNumber>
+          <NameOfSubstance UI="D019289">Pyruvic Acid</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 1.1.-</RegistryNumber>
+          <NameOfSubstance UI="D045022">Lactate Dehydrogenases</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D002247" MajorTopicYN="N">Carbon Isotopes</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D045022" MajorTopicYN="N">Lactate Dehydrogenases</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019344" MajorTopicYN="N">Lactic Acid</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008279" MajorTopicYN="Y">Magnetic Resonance Imaging</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009682" MajorTopicYN="N">Magnetic Resonance Spectroscopy</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019289" MajorTopicYN="Y">Pyruvic Acid</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>1</Day>
+          <Hour>12</Hour>
+          <Minute>14</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35230136</ArticleId>
+        <ArticleId IdType="doi">10.1259/bjr.20210770</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

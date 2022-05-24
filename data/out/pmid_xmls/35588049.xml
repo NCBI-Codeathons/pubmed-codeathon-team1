@@ -1,0 +1,263 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">35588049</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>19</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2168-619X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>19</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>JAMA otolaryngology-- head &amp; neck surgery</Title>
+          <ISOAbbreviation>JAMA Otolaryngol Head Neck Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A Deep Learning Approach to Predict Conductive Hearing Loss in Patients With Otitis Media With Effusion Using Otoscopic Images.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1001/jamaoto.2022.0900</ELocationID>
+        <Abstract>
+          <AbstractText Label="IMPORTANCE" NlmCategory="UNASSIGNED">Otitis media with effusion (OME) is one of the most common causes of acquired conductive hearing loss (CHL). Persistent hearing loss is associated with poor childhood speech and language development and other adverse consequence. However, to obtain accurate and reliable hearing thresholds largely requires a high degree of cooperation from the patients.</AbstractText>
+          <AbstractText Label="OBJECTIVE" NlmCategory="UNASSIGNED">To predict CHL from otoscopic images using deep learning (DL) techniques and a logistic regression model based on tympanic membrane features.</AbstractText>
+          <AbstractText Label="DESIGN, SETTING, AND PARTICIPANTS" NlmCategory="UNASSIGNED">A retrospective diagnostic/prognostic study was conducted using 2790 otoscopic images obtained from multiple centers between January 2015 and November 2020. Participants were aged between 4 and 89 years. Of 1239 participants, there were 209 ears from children and adolescents (aged 4-18 years [16.87%]), 804 ears from adults (aged 18-60 years [64.89%]), and 226 ears from older people (aged &gt;60 years, [18.24%]). Overall, 679 ears (54.8%) were from men. The 2790 otoscopic images were randomly assigned into a training set (2232 [80%]), and validation set (558 [20%]). The DL model was developed to predict an average air-bone gap greater than 10 dB. A logistic regression model was also developed based on otoscopic features.</AbstractText>
+          <AbstractText Label="MAIN OUTCOMES AND MEASURES" NlmCategory="UNASSIGNED">The performance of the DL model in predicting CHL was measured using the area under the receiver operating curve (AUC), accuracy, and F1 score (a measure of the quality of a classifier, which is the harmonic mean of precision and recall; a higher F1 score means better performance). In addition, these evaluation parameters were compared to results obtained from the logistic regression model and predictions made by three otologists.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="UNASSIGNED">The performance of the DL model in predicting CHL showed the AUC of 0.74, accuracy of 81%, and F1 score of 0.89. This was better than the results from the logistic regression model (ie, AUC of 0.60, accuracy of 76%, and F1 score of 0.82), and much improved on the performance of the 3 otologists; accuracy of 16%, 30%, 39%, and F1 scores of 0.09, 0.18, and 0.25, respectively. Furthermore, the DL model took 2.5 seconds to predict from 205 otoscopic images, whereas the 3 otologists spent 633 seconds, 645 seconds, and 692 seconds, respectively.</AbstractText>
+          <AbstractText Label="CONCLUSIONS AND RELEVANCE" NlmCategory="UNASSIGNED">The model in this diagnostic/prognostic study provided greater accuracy in prediction of CHL in ears with OME than those obtained from the logistic regression model and otologists. This indicates great potential for the use of artificial intelligence tools to facilitate CHL evaluation when CHL is unable to be measured.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zeng</LastName>
+            <ForeName>Junbo</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kang</LastName>
+            <ForeName>Weibiao</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>The second Hospital, Medical College, Shantou University, Shantou, Guangdong Province, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Suijun</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lin</LastName>
+            <ForeName>Yi</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Jarvis Lab, Tencent, Shen Zhen city, Guangdong Province, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Hong Kong University of Science and Technology, Hong Kong, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Deng</LastName>
+            <ForeName>Wenting</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Yajing</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Guisheng</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ma</LastName>
+            <ForeName>Kai</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Jarvis Lab, Tencent, Shen Zhen city, Guangdong Province, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Fei</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Speech and Language Therapy and Hearing Science, Cardiff School of Sport and Health Sciences, Cardiff Metropolitan University, Wales, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zheng</LastName>
+            <ForeName>Yefeng</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Jarvis Lab, Tencent, Shen Zhen city, Guangdong Province, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liang</LastName>
+            <ForeName>Maojin</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zeng</LastName>
+            <ForeName>Linqi</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ye</LastName>
+            <ForeName>Weijie</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Zhongshan School of Medicine, Sun Yat-sen University, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Peng</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology-Head and Neck Surgery, The Third Affiliated Hospital of Sun Yat-sen University, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Yubin</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology-Head and Neck Surgery, The Third Affiliated Hospital of Sun Yat-sen University, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Guoping</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, Zhongshan City People's Hospital, Zhongshan Affiliated Hospital of Sun Yat-sen University, Zhongshan, Guangdong Province, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gao</LastName>
+            <ForeName>Jinliang</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, Shenzhen Baoan Women's and Children's Hospital, Shenzhen, Guangdong Province, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Minjian</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Su</LastName>
+            <ForeName>Yuejia</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zheng</LastName>
+            <ForeName>Yiqing</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shenzhen-Shanwei Central Hospital, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Shanwei City, Guangdong Province, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cai</LastName>
+            <ForeName>Yuexin</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shenzhen-Shanwei Central Hospital, Sun Yat-sen Memorial Hospital, Sun Yat-sen University, Shanwei City, Guangdong Province, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>19</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>JAMA Otolaryngol Head Neck Surg</MedlineTA>
+        <NlmUniqueID>101589542</NlmUniqueID>
+        <ISSNLinking>2168-6181</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>19</Day>
+          <Hour>15</Hour>
+          <Minute>57</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35588049</ArticleId>
+        <ArticleId IdType="doi">10.1001/jamaoto.2022.0900</ArticleId>
+        <ArticleId IdType="pii">2792681</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

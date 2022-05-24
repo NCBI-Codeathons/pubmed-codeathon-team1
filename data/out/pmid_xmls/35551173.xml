@@ -1,0 +1,816 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35551173</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>17</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2059-3635</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>7</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>13</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Signal transduction and targeted therapy</Title>
+          <ISOAbbreviation>Signal Transduct Target Ther</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Gefitinib and fostamatinib target EGFR and SYK to attenuate silicosis: a multi-omics study with drug exploration.</ArticleTitle>
+        <Pagination>
+          <StartPage>157</StartPage>
+          <MedlinePgn>157</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">157</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41392-022-00959-3</ELocationID>
+        <Abstract>
+          <AbstractText>Silicosis is the most prevalent and fatal occupational disease with no effective therapeutics, and currently used drugs cannot reverse the disease progress. Worse still, there are still challenges to be addressed to fully decipher the intricated pathogenesis. Thus, specifying the essential mechanisms and targets in silicosis progression then exploring anti-silicosis pharmacuticals are desperately needed. In this work, multi-omics atlas was constructed to depict the pivotal abnormalities of silicosis and develop targeted agents. By utilizing an unbiased and time-resolved analysis of the transcriptome, proteome and phosphoproteome of a silicosis mouse model, we have verified the significant differences in transcript, protein, kinase activity and signaling pathway level during silicosis progression, in which the importance of essential biological processes such as macrophage activation, chemotaxis, immune cell recruitment and chronic inflammation were emphasized. Notably, the phosphorylation of EGFR (p-EGFR) and SYK (p-SYK) were identified as potential therapeutic targets in the progression of silicosis. To inhibit and validate these targets, we tested fostamatinib (targeting SYK) and Gefitinib (targeting EGFR), and both drugs effectively ameliorated pulmonary dysfunction and inhibited the progression of inflammation and fibrosis. Overall, our drug discovery with multi-omics approach provides novel and viable therapeutic strategies for the treatment of silicosis.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Mingyao</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">0000-0003-4731-3488</Identifier>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Laboratory of Stem Cell and Tissue Engineering, Orthopedic Research Institute, State Key Laboratory of Biotherapy and Cancer Center, West China Hospital, Sichuan University and Collaborative Innovation Center of Biotherapy, Chengdu, 610041, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Zhe</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pulmonary and Critical Care Medicine, The First Hospital of Shanxi Medical University, Taiyuan, 030001, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>NHC Key Laboratory of Pneumoconiosis, Taiyuan, 030001, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Shanxi Province Key Laboratory of Respiratory Disease, Taiyuan, 030001, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Jiangfeng</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China. ljf@pumc.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Song</LastName>
+            <ForeName>Meiyue</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pulmonary and Critical Care Medicine, Center of Respiratory Medicine, China-Japan Friendship Hospital, Beijing, 100029, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Tiantian</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Yiling</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital of Xi'an Jiao tong University, Xi'an, 710061, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Huiyuan</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Respiratory and Critical Care Medicine, The First Affiliated Hospital of Xi'an Jiao tong University, Xi'an, 710061, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Peiran</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Bolun</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Song</LastName>
+            <ForeName>Xiaomin</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pang</LastName>
+            <ForeName>Junling</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xing</LastName>
+            <ForeName>Yanjiang</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cao</LastName>
+            <ForeName>Zhujie</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Guo</LastName>
+            <ForeName>Wenjun</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Hao</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Key Lab of Transplant Engineering and Immunology, MOH; Regenerative Medical Research Center, West China Hospital, Sichuan University, Chengdu, 610041, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Jing</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0003-1180-391X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China. wangjing@ibms.pumc.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Juntao</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0003-2410-5408</Identifier>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China. yangjt@pumc.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Chen</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences Chinese Academy of Medical Sciences, School of Basic Medicine Peking Union Medical College, Beijing, 100005, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>13</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Signal Transduct Target Ther</MedlineTA>
+        <NlmUniqueID>101676423</NlmUniqueID>
+        <ISSNLinking>2059-3635</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000631">Aminopyridines</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D009025">Morpholines</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011725">Pyridines</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011743">Pyrimidines</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+          <NameOfSubstance UI="D066246">ErbB Receptors</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>S65743JHBS</RegistryNumber>
+          <NameOfSubstance UI="D000077156">Gefitinib</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>SQ8A3S5101</RegistryNumber>
+          <NameOfSubstance UI="C523665">fostamatinib</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000631" MajorTopicYN="N">Aminopyridines</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066246" MajorTopicYN="N">ErbB Receptors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000077156" MajorTopicYN="N">Gefitinib</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007249" MajorTopicYN="N">Inflammation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009025" MajorTopicYN="N">Morpholines</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011658" MajorTopicYN="Y">Pulmonary Fibrosis</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011725" MajorTopicYN="N">Pyridines</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011743" MajorTopicYN="N">Pyrimidines</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012829" MajorTopicYN="Y">Silicosis</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>31</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>13</Day>
+          <Hour>13</Hour>
+          <Minute>13</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35551173</ArticleId>
+        <ArticleId IdType="pmc">PMC9098425</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41392-022-00959-3</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41392-022-00959-3</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Leung CC, Yu ITS, Chen W. Silicosis. Lancet. 2012;379:2008–2018. doi: 10.1016/S0140-6736(12)60235-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0140-6736(12)60235-9</ArticleId>
+            <ArticleId IdType="pubmed">22534002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoy RF, Chambers DC. Silica-related diseases in the modern world. Allergy. 2020;75:2805–2817. doi: 10.1111/all.14202.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/all.14202</ArticleId>
+            <ArticleId IdType="pubmed">31989662</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wollin, L. et al. Potential of nintedanib in treatment of progressive fibrosing interstitial lung diseases. Eur Respir J. 54, 1900161 (2019).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lopes-Pacheco M, Bandeira E, Morales MM. Cell-based therapy for silicosis. Stem Cells Int. 2016;2016:5091838. doi: 10.1155/2016/5091838.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2016/5091838</ArticleId>
+            <ArticleId IdType="pmc">PMC4811211</ArticleId>
+            <ArticleId IdType="pubmed">27066079</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wagner GR. Asbestosis and silicosis. Lancet. 1997;349:1311–1315. doi: 10.1016/S0140-6736(96)07336-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0140-6736(96)07336-9</ArticleId>
+            <ArticleId IdType="pubmed">9142077</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fubini B, Hubbard A. Reactive oxygen species (ROS) and reactive nitrogen species (RNS) generation by silica in inflammation and fibrosis. Free Radic. Biol. Med. 2003;34:1507–1516. doi: 10.1016/S0891-5849(03)00149-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0891-5849(03)00149-7</ArticleId>
+            <ArticleId IdType="pubmed">12788471</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chong S, et al.  Pneumoconiosis: comparison of imaging and pathologic findings. Radiographics. 2006;26:59–77. doi: 10.1148/rg.261055070.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1148/rg.261055070</ArticleId>
+            <ArticleId IdType="pubmed">16418244</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huaux F. New developments in the understanding of immunology in silicosis. Curr. Opin. Allergy Clin. Immunol. 2007;7:168–173. doi: 10.1097/ACI.0b013e32802bf8a5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/ACI.0b013e32802bf8a5</ArticleId>
+            <ArticleId IdType="pubmed">17351471</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Di Giuseppe M, et al.  Systemic inhibition of NF-kappaB activation protects from silicosis. PLoS ONE. 2009;4:e5689. doi: 10.1371/journal.pone.0005689.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0005689</ArticleId>
+            <ArticleId IdType="pmc">PMC2682759</ArticleId>
+            <ArticleId IdType="pubmed">19479048</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mossman BT, Churg A. Mechanisms in the pathogenesis of asbestosis and silicosis. Am. J. Respir. Crit. Care Med. 1998;157:1666–1680. doi: 10.1164/ajrccm.157.5.9707141.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1164/ajrccm.157.5.9707141</ArticleId>
+            <ArticleId IdType="pubmed">9603153</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pollard KM. Silica, silicosis, and autoimmunity. Front. Immunol. 2016;7:97. doi: 10.3389/fimmu.2016.00097.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fimmu.2016.00097</ArticleId>
+            <ArticleId IdType="pmc">PMC4786551</ArticleId>
+            <ArticleId IdType="pubmed">27014276</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bai JPF, Melas IN, Hur J, Guo E. Advances in omics for informed pharmaceutical research and development in the era of systems medicine. Expert Opin. Drug Discov. 2018;13:1–4. doi: 10.1080/17460441.2018.1394839.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/17460441.2018.1394839</ArticleId>
+            <ArticleId IdType="pubmed">29073782</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yokota H. Applications of proteomics in pharmaceutical research and development. Biochim Biophys. Acta Proteins Proteom. 2019;1867:17–21. doi: 10.1016/j.bbapap.2018.05.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbapap.2018.05.008</ArticleId>
+            <ArticleId IdType="pubmed">29753086</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yan, S.-K. et al. “Omics” in pharmaceutical research: overview, applications, challenges, and future perspectives. Chin. J. Nat. Med. 13, 3–21 (2015).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Li, C.-X., Wheelock, C. E., Sköld, C. M. &amp; Wheelock, Å. M. Integration of multi-omics datasets enables molecular classification of COPD. Eur. Respir. J. 51, 1701930 (2018).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Winslow, S. et al. Multi-omics links IL-6 trans-signalling with neutrophil extracellular trap formation and infection in COPD. Eur. Respir. J. 58, 2003312 (2021).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Christenson S, Hersh CP. Found in translation: multi-omics assessment of the chronic obstructive pulmonary disease-lung cancer interaction. Am. J. Respir. Crit. Care Med. 2019;200:276–277. doi: 10.1164/rccm.201901-0156ED.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1164/rccm.201901-0156ED</ArticleId>
+            <ArticleId IdType="pmc">PMC6680298</ArticleId>
+            <ArticleId IdType="pubmed">30753788</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kropski JA, Blackwell TS. Progress in understanding and treating idiopathic pulmonary fibrosis. Annu Rev. Med. 2019;70:211–224. doi: 10.1146/annurev-med-041317-102715.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-med-041317-102715</ArticleId>
+            <ArticleId IdType="pmc">PMC6378692</ArticleId>
+            <ArticleId IdType="pubmed">30691371</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pang J, et al.  Multi-omics study of silicosis reveals the potential therapeutic targets PGD and TXA. Theranostics. 2021;11:2381–2394. doi: 10.7150/thno.47627.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7150/thno.47627</ArticleId>
+            <ArticleId IdType="pmc">PMC7797695</ArticleId>
+            <ArticleId IdType="pubmed">33500731</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Na M, et al.  Proteomic profile of TGF-β1 treated lung fibroblasts identifies novel markers of activated fibroblasts in the silica exposed rat lung. Exp. Cell Res. 2019;375:1–9. doi: 10.1016/j.yexcr.2019.01.010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.yexcr.2019.01.010</ArticleId>
+            <ArticleId IdType="pubmed">30641040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grimminger F, Günther A, Vancheri C. The role of tyrosine kinases in the pathogenesis of idiopathic pulmonary fibrosis. Eur. Respir. J. 2015;45:1426–1433. doi: 10.1183/09031936.00149614.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1183/09031936.00149614</ArticleId>
+            <ArticleId IdType="pubmed">25745048</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cao Z, et al.  A novel pathophysiological classification of silicosis models provides some new insights into the progression of the disease. Ecotoxicol. Environ. Saf. 2020;202:110834. doi: 10.1016/j.ecoenv.2020.110834.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ecoenv.2020.110834</ArticleId>
+            <ArticleId IdType="pubmed">32622305</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krzywinski, M. I. et al. Circos: an information aesthetic for comparative genomics. Genome Res. 19, 1639–645 (2009).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Stolarczyk M, Scholte BJ. The EGFR-ADAM17 axis in chronic obstructive pulmonary disease and cystic fibrosis lung pathology. Mediators Inflamm. 2018;2018:1067134. doi: 10.1155/2018/1067134.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2018/1067134</ArticleId>
+            <ArticleId IdType="pmc">PMC5818912</ArticleId>
+            <ArticleId IdType="pubmed">29540993</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Korfhagen TR, et al.  Rapamycin prevents transforming growth factor-alpha-induced pulmonary fibrosis. Am. J. Respir. Cell Mol. Biol. 2009;41:562–572. doi: 10.1165/rcmb.2008-0377OC.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1165/rcmb.2008-0377OC</ArticleId>
+            <ArticleId IdType="pmc">PMC2778163</ArticleId>
+            <ArticleId IdType="pubmed">19244201</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fang X, et al.  Role of hepatic deposited immunoglobulin g in the pathogenesis of liver damage in systemic lupus erythematosus. Front. Immunol. 2018;9:1457. doi: 10.3389/fimmu.2018.01457.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fimmu.2018.01457</ArticleId>
+            <ArticleId IdType="pmc">PMC6026631</ArticleId>
+            <ArticleId IdType="pubmed">29988500</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wishart DS, et al.  DrugBank: a comprehensive resource for in silico drug discovery and exploration. Nucleic Acids Res. 2006;34:D668–D672. doi: 10.1093/nar/gkj067.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkj067</ArticleId>
+            <ArticleId IdType="pmc">PMC1347430</ArticleId>
+            <ArticleId IdType="pubmed">16381955</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roskoski R. Properties of FDA-approved small molecule protein kinase inhibitors: a 2020 update. Pharmacol. Res. 2020;152:104609. doi: 10.1016/j.phrs.2019.104609.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.phrs.2019.104609</ArticleId>
+            <ArticleId IdType="pubmed">31862477</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fukuoka M, et al.  Multi-institutional randomized phase II trial of gefitinib for previously treated patients with advanced non-small-cell lung cancer (The IDEAL 1 Trial) [corrected] J. Clin. Oncol. 2003;21:2237–2246. doi: 10.1200/JCO.2003.10.038.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1200/JCO.2003.10.038</ArticleId>
+            <ArticleId IdType="pubmed">12748244</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kris MG, et al.  Efficacy of gefitinib, an inhibitor of the epidermal growth factor receptor tyrosine kinase, in symptomatic patients with non-small cell lung cancer: a randomized trial. JAMA. 2003;290:2149–2158. doi: 10.1001/jama.290.16.2149.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jama.290.16.2149</ArticleId>
+            <ArticleId IdType="pubmed">14570950</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mok TS, et al.  Gefitinib or carboplatin-paclitaxel in pulmonary adenocarcinoma. N. Engl. J. Med. 2009;361:947–957. doi: 10.1056/NEJMoa0810699.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa0810699</ArticleId>
+            <ArticleId IdType="pubmed">19692680</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang, C. et al. Effects of gefitinib on radiation-induced lung injury in mice. J. Nippon Med. Sch. 75, 96–105 (2008).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ishii Y, Fujimoto S, Fukuda T. Gefitinib prevents bleomycin-induced lung fibrosis in mice. Am. J. Respir. Crit. Care Med. 2006;174:550–556. doi: 10.1164/rccm.200509-1534OC.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1164/rccm.200509-1534OC</ArticleId>
+            <ArticleId IdType="pubmed">16741154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roskoski R. Properties of FDA-approved small molecule protein kinase inhibitors. Pharmacol. Res. 2019;144:19–50. doi: 10.1016/j.phrs.2019.03.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.phrs.2019.03.006</ArticleId>
+            <ArticleId IdType="pubmed">30877063</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Strich JR, et al.  Fostamatinib inhibits neutrophils extracellular traps induced by COVID-19 patient plasma: a potential therapeutic. J. Infect. Dis. 2021;223:981–984. doi: 10.1093/infdis/jiaa789.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/infdis/jiaa789</ArticleId>
+            <ArticleId IdType="pmc">PMC7799006</ArticleId>
+            <ArticleId IdType="pubmed">33367731</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pamuk ON, et al.  Spleen tyrosine kinase (Syk) inhibitor fostamatinib limits tissue damage and fibrosis in a bleomycin-induced scleroderma mouse model. Clin. Exp. Rheumatol. 2015;33:S15–S22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26148346</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ma TK-W, McAdoo SP, Tam FW-K. Spleen tyrosine kinase: a crucial player and potential therapeutic target in renal disease. Nephron. 2016;133:261–269. doi: 10.1159/000446879.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1159/000446879</ArticleId>
+            <ArticleId IdType="pubmed">27476075</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Le Huu D, et al.  Blockade of Syk ameliorates the development of murine sclerodermatous chronic graft-versus-host disease. J. Dermatol. Sci. 2014;74:214–221. doi: 10.1016/j.jdermsci.2014.02.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jdermsci.2014.02.008</ArticleId>
+            <ArticleId IdType="pubmed">24679982</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Suzuki H, Aoshiba K, Yokohori N, Nagai A. Epidermal growth factor receptor tyrosine kinase inhibition augments a murine model of pulmonary fibrosis. Cancer Res. 2003;63:5054–5059.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12941834</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhu Y, et al.  Immunotoxicity assessment for the novel Spleen tyrosine kinase inhibitor R406. Toxicol. Appl. Pharmacol. 2007;221:268–277. doi: 10.1016/j.taap.2007.03.027.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.taap.2007.03.027</ArticleId>
+            <ArticleId IdType="pubmed">17490694</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stenton GR, et al.  Aerosolized Syk antisense suppresses Syk expression, mediator release from macrophages, and pulmonary inflammation. J. Immunol. 2000;164:3790–3797. doi: 10.4049/jimmunol.164.7.3790.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4049/jimmunol.164.7.3790</ArticleId>
+            <ArticleId IdType="pubmed">10725739</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Haberzettl P, et al.  Impact of the FcgammaII-receptor on quartz uptake and inflammatory response by alveolar macrophages. Am. J. Physiol. Lung Cell Mol. Physiol. 2008;294:L1137–L1148. doi: 10.1152/ajplung.00261.2007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajplung.00261.2007</ArticleId>
+            <ArticleId IdType="pubmed">18390832</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Banks DE, Cheng YH, Weber SL, Ma JK. Strategies for the treatment of pneumoconiosis. Occup. Med. 1993;8:205–232.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8456348</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xie Q-M, Tang H-F, Chen J-Q, Bian R-L. Pharmacological actions of tetrandrine in inflammatory pulmonary diseases. Acta Pharmacol. Sin. 2002;23:1107–1113.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12466048</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pang J, et al.  Comparative transcriptome analyses reveal a transcriptional landscape of human silicosis lungs and provide potential strategies for silicosis treatment. Front. Genet. 2021;12:652901. doi: 10.3389/fgene.2021.652901.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fgene.2021.652901</ArticleId>
+            <ArticleId IdType="pmc">PMC8210851</ArticleId>
+            <ArticleId IdType="pubmed">34149803</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Deshmukh HS, et al.  Metalloproteinases mediate mucin 5AC expression by epidermal growth factor receptor activation. Am. J. Respir. Crit. Care Med. 2005;171:305–314. doi: 10.1164/rccm.200408-1003OC.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1164/rccm.200408-1003OC</ArticleId>
+            <ArticleId IdType="pubmed">15531749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cortijo J, et al.  Aclidinium inhibits cholinergic and tobacco smoke-induced MUC5AC in human airways. Eur. Respir. J. 2011;37:244–254. doi: 10.1183/09031936.00182009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1183/09031936.00182009</ArticleId>
+            <ArticleId IdType="pubmed">20525722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Adamson IY, Young L, Bowden DH. Relationship of alveolar epithelial injury and repair to the induction of pulmonary fibrosis. Am. J. Pathol. 1988;130:377–383.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1880524</ArticleId>
+            <ArticleId IdType="pubmed">3341452</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Selman M, King TE, Pardo A. Idiopathic pulmonary fibrosis: prevailing and evolving hypotheses about its pathogenesis and implications for therapy. Ann. Intern Med. 2001;134:136–151. doi: 10.7326/0003-4819-134-2-200101160-00015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7326/0003-4819-134-2-200101160-00015</ArticleId>
+            <ArticleId IdType="pubmed">11177318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Forsythe B, Faulkner K. Overview of the tolerability of gefitinib (IRESSA) monotherapy: clinical experience in non-small-cell lung cancer. Drug Saf. 2004;27:1081–1092. doi: 10.2165/00002018-200427140-00002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2165/00002018-200427140-00002</ArticleId>
+            <ArticleId IdType="pubmed">15554744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu N, et al.  Genetic or pharmacologic blockade of EGFR inhibits renal fibrosis. J. Am. Soc. Nephrol. 2012;23:854–867. doi: 10.1681/ASN.2011050493.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1681/ASN.2011050493</ArticleId>
+            <ArticleId IdType="pmc">PMC3338288</ArticleId>
+            <ArticleId IdType="pubmed">22362908</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shah S, et al.  EGFR tyrosine kinase inhibition decreases cardiac remodeling and SERCA2a/NCX1 depletion in streptozotocin induced cardiomyopathy in C57/BL6 mice. Life Sci. 2018;210:29–39. doi: 10.1016/j.lfs.2018.08.018.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.lfs.2018.08.018</ArticleId>
+            <ArticleId IdType="pubmed">30107170</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu K-H, et al.  Spleen Tyrosine Kinase (SYK) in the progression of peritoneal fibrosis through activation of the TGF-β1/Smad3 signaling pathway. Med. Sci. Monit. 2019;25:9346–9356. doi: 10.12659/MSM.917287.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.12659/MSM.917287</ArticleId>
+            <ArticleId IdType="pmc">PMC6918804</ArticleId>
+            <ArticleId IdType="pubmed">31812978</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kawanami O, et al.  Alveolar fibrosis and capillary alteration in experimental pulmonary silicosis in rats. Am. J. Respir. Crit. Care Med. 1995;151:1946–1955. doi: 10.1164/ajrccm.151.6.7767544.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1164/ajrccm.151.6.7767544</ArticleId>
+            <ArticleId IdType="pubmed">7767544</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hamilton RF, Thakur SA, Holian A. Silica binding and toxicity in alveolar macrophages. Free Radic. Biol. Med. 2008;44:1246–1258. doi: 10.1016/j.freeradbiomed.2007.12.027.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.freeradbiomed.2007.12.027</ArticleId>
+            <ArticleId IdType="pmc">PMC2680955</ArticleId>
+            <ArticleId IdType="pubmed">18226603</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wollin L, et al.  Antifibrotic and anti-inflammatory activity of the tyrosine kinase inhibitor nintedanib in experimental models of lung fibrosis. J. Pharmacol. Exp. Ther. 2014;349:209–220. doi: 10.1124/jpet.113.208223.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1124/jpet.113.208223</ArticleId>
+            <ArticleId IdType="pubmed">24556663</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Namba T, et al.  Suppression of expression of heat shock protein 70 by gefitinib and its contribution to pulmonary fibrosis. PLoS ONE. 2011;6:e27296. doi: 10.1371/journal.pone.0027296.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0027296</ArticleId>
+            <ArticleId IdType="pmc">PMC3212557</ArticleId>
+            <ArticleId IdType="pubmed">22096546</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Inoue A, et al.  Severe acute interstitial pneumonia and gefitinib. Lancet. 2003;361:137–139. doi: 10.1016/S0140-6736(03)12190-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0140-6736(03)12190-3</ArticleId>
+            <ArticleId IdType="pubmed">12531582</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lynch TJ, et al.  Activating mutations in the epidermal growth factor receptor underlying responsiveness of non-small-cell lung cancer to gefitinib. N. Engl. J. Med. 2004;350:2129–2139. doi: 10.1056/NEJMoa040938.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa040938</ArticleId>
+            <ArticleId IdType="pubmed">15118073</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Paez JG, et al.  EGFR mutations in lung cancer: correlation with clinical response to gefitinib therapy. Science. 2004;304:1497–1500. doi: 10.1126/science.1099314.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1099314</ArticleId>
+            <ArticleId IdType="pubmed">15118125</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Park K, et al.  Afatinib versus gefitinib as first-line treatment of patients with EGFR mutation-positive non-small-cell lung cancer (LUX-Lung 7): a phase 2B, open-label, randomised controlled trial. Lancet Oncol. 2016;17:577–589. doi: 10.1016/S1470-2045(16)30033-X.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1470-2045(16)30033-X</ArticleId>
+            <ArticleId IdType="pubmed">27083334</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li J, et al.  The role of fibrocyte in the pathogenesis of silicosis. Biomed. Environ. Sci. 2018;31:311–316.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29773095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao Y, et al.  Silica particles disorganize the polarization of pulmonary macrophages in mice. Ecotoxicol. Environ. Saf. 2020;193:110364. doi: 10.1016/j.ecoenv.2020.110364.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ecoenv.2020.110364</ArticleId>
+            <ArticleId IdType="pubmed">32114243</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim D, Langmead B, Salzberg SL. HISAT: a fast spliced aligner with low memory requirements. Nat. Methods. 2015;12:357–360. doi: 10.1038/nmeth.3317.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.3317</ArticleId>
+            <ArticleId IdType="pmc">PMC4655817</ArticleId>
+            <ArticleId IdType="pubmed">25751142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lawrence M, et al.  Software for computing and annotating genomic ranges. PLoS Comput Biol. 2013;9:e1003118. doi: 10.1371/journal.pcbi.1003118.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1003118</ArticleId>
+            <ArticleId IdType="pmc">PMC3738458</ArticleId>
+            <ArticleId IdType="pubmed">23950696</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Love MI, Huber W, Anders S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol. 2014;15:550. doi: 10.1186/s13059-014-0550-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13059-014-0550-8</ArticleId>
+            <ArticleId IdType="pmc">PMC4302049</ArticleId>
+            <ArticleId IdType="pubmed">25516281</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Subramanian A, et al.  Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. Proc. Natl Acad. Sci. USA. 2005;102:15545–15550. doi: 10.1073/pnas.0506580102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0506580102</ArticleId>
+            <ArticleId IdType="pmc">PMC1239896</ArticleId>
+            <ArticleId IdType="pubmed">16199517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ma J, et al.  iProX: an integrated proteome resource. Nucleic Acids Res. 2019;47:D1211–D1217. doi: 10.1093/nar/gky869.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gky869</ArticleId>
+            <ArticleId IdType="pmc">PMC6323926</ArticleId>
+            <ArticleId IdType="pubmed">30252093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

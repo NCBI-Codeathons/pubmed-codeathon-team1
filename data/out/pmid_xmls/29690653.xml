@@ -1,0 +1,1894 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">29690653</PMID>
+      <DateCompleted>
+        <Year>2018</Year>
+        <Month>09</Month>
+        <Day>17</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>01</Month>
+        <Day>09</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1422-0067</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>19</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Apr</Month>
+              <Day>23</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of molecular sciences</Title>
+          <ISOAbbreviation>Int J Mol Sci</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Molecular Pharmacology of VEGF-A Isoforms: Binding and Signalling at VEGFR2.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">1264</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/ijms19041264</ELocationID>
+        <Abstract>
+          <AbstractText>Vascular endothelial growth factor-A (VEGF-A) is a key mediator of angiogenesis, signalling via the class IV tyrosine kinase receptor family of VEGF Receptors (VEGFRs). Although VEGF-A ligands bind to both VEGFR1 and VEGFR2, they primarily signal via VEGFR2 leading to endothelial cell proliferation, survival, migration and vascular permeability. Distinct VEGF-A isoforms result from alternative splicing of the <i>Vegfa</i> gene at exon 8, resulting in VEGF<sub>xxx</sub>a or VEGF<sub>xxx</sub>b isoforms. Alternative splicing events at exons 5⁻7, in addition to recently identified posttranslational read-through events, produce VEGF-A isoforms that differ in their bioavailability and interaction with the co-receptor Neuropilin-1. This review explores the molecular pharmacology of VEGF-A isoforms at VEGFR2 in respect to ligand binding and downstream signalling. To understand how VEGF-A isoforms have distinct signalling despite similar affinities for VEGFR2, this review re-evaluates the typical classification of these isoforms relative to the prototypical, &amp;ldquo;pro-angiogenic&amp;rdquo; VEGF<sub>165</sub>a. We also examine the molecular mechanisms underpinning the regulation of VEGF-A isoform signalling and the importance of interactions with other membrane and extracellular matrix proteins. As approved therapeutics targeting the VEGF-A/VEGFR signalling axis largely lack long-term efficacy, understanding these isoform-specific mechanisms could aid future drug discovery efforts targeting VEGF receptor pharmacology.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Peach</LastName>
+            <ForeName>Chloe J</ForeName>
+            <Initials>CJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Physiology, Pharmacology and Neuroscience, School of Life Sciences, Queen's Medical Centre, University of Nottingham, Nottingham NG7 2UH, UK. chloe.peach@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Centre of Membrane Proteins and Receptors (COMPARE), University of Birmingham and University of Nottingham, Midlands NG7 2UH, UK. chloe.peach@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mignone</LastName>
+            <ForeName>Viviane W</ForeName>
+            <Initials>VW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Physiology, Pharmacology and Neuroscience, School of Life Sciences, Queen's Medical Centre, University of Nottingham, Nottingham NG7 2UH, UK. viviane.mignone@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Centre of Membrane Proteins and Receptors (COMPARE), University of Birmingham and University of Nottingham, Midlands NG7 2UH, UK. viviane.mignone@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>CAPES-University of Nottingham Programme in Drug Discovery, Queen's Medical Centre, University of Nottingham, Nottingham NG7 2UH, UK. viviane.mignone@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Arruda</LastName>
+            <ForeName>Maria Augusta</ForeName>
+            <Initials>MA</Initials>
+            <Identifier Source="ORCID">0000-0002-0828-9430</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Physiology, Pharmacology and Neuroscience, School of Life Sciences, Queen's Medical Centre, University of Nottingham, Nottingham NG7 2UH, UK. maria.arruda@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Centre of Membrane Proteins and Receptors (COMPARE), University of Birmingham and University of Nottingham, Midlands NG7 2UH, UK. maria.arruda@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>CAPES-University of Nottingham Programme in Drug Discovery, Queen's Medical Centre, University of Nottingham, Nottingham NG7 2UH, UK. maria.arruda@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alcobia</LastName>
+            <ForeName>Diana C</ForeName>
+            <Initials>DC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Physiology, Pharmacology and Neuroscience, School of Life Sciences, Queen's Medical Centre, University of Nottingham, Nottingham NG7 2UH, UK. mbxdc1@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Centre of Membrane Proteins and Receptors (COMPARE), University of Birmingham and University of Nottingham, Midlands NG7 2UH, UK. mbxdc1@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hill</LastName>
+            <ForeName>Stephen J</ForeName>
+            <Initials>SJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Physiology, Pharmacology and Neuroscience, School of Life Sciences, Queen's Medical Centre, University of Nottingham, Nottingham NG7 2UH, UK. steve.hill@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Centre of Membrane Proteins and Receptors (COMPARE), University of Birmingham and University of Nottingham, Midlands NG7 2UH, UK. steve.hill@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kilpatrick</LastName>
+            <ForeName>Laura E</ForeName>
+            <Initials>LE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Physiology, Pharmacology and Neuroscience, School of Life Sciences, Queen's Medical Centre, University of Nottingham, Nottingham NG7 2UH, UK. laura.kilpatrick@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Centre of Membrane Proteins and Receptors (COMPARE), University of Birmingham and University of Nottingham, Midlands NG7 2UH, UK. laura.kilpatrick@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Woolard</LastName>
+            <ForeName>Jeanette</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Physiology, Pharmacology and Neuroscience, School of Life Sciences, Queen's Medical Centre, University of Nottingham, Nottingham NG7 2UH, UK. jeanette.woolard@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Centre of Membrane Proteins and Receptors (COMPARE), University of Birmingham and University of Nottingham, Midlands NG7 2UH, UK. jeanette.woolard@nottingham.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>BB/L019418/1</GrantID>
+            <Acronym>BB_</Acronym>
+            <Agency>Biotechnology and Biological Sciences Research Council</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>MR/N020081/1</GrantID>
+            <Acronym>MRC_</Acronym>
+            <Agency>Medical Research Council</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>04</Month>
+          <Day>23</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Int J Mol Sci</MedlineTA>
+        <NlmUniqueID>101092791</NlmUniqueID>
+        <ISSNLinking>1422-0067</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D020033">Protein Isoforms</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D042461">Vascular Endothelial Growth Factor A</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+          <NameOfSubstance UI="D040301">Vascular Endothelial Growth Factor Receptor-2</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D042783" MajorTopicYN="N">Endothelial Cells</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020033" MajorTopicYN="N">Protein Isoforms</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D042461" MajorTopicYN="N">Vascular Endothelial Growth Factor A</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D040301" MajorTopicYN="N">Vascular Endothelial Growth Factor Receptor-2</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">angiogenesis</Keyword>
+        <Keyword MajorTopicYN="N">blood vessel</Keyword>
+        <Keyword MajorTopicYN="N">endothelial cells</Keyword>
+        <Keyword MajorTopicYN="N">receptor tyrosine kinase inhibitors</Keyword>
+        <Keyword MajorTopicYN="N">splicing</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>3</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2018</Year>
+          <Month>4</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2018</Year>
+          <Month>4</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>4</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>4</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2018</Year>
+          <Month>9</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">29690653</ArticleId>
+        <ArticleId IdType="pmc">PMC5979509</ArticleId>
+        <ArticleId IdType="doi">10.3390/ijms19041264</ArticleId>
+        <ArticleId IdType="pii">ijms19041264</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Carmeliet P. Angiogenesis in life, disease and medicine. Nature. 2005;438:932–936. doi: 10.1038/nature04478.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature04478</ArticleId>
+            <ArticleId IdType="pubmed">16355210</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Takahashi T., Kalka C., Masuda H., Chen D., Silver M., Kearney M., Magner M., Isner J., Asahara T. Ischemia- and cytokine-induced mobilization of bone marrow-derived endothelial progenitor cells for neovascularization. Nat. Med. 1999;5:434–438. doi: 10.1038/7434.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/7434</ArticleId>
+            <ArticleId IdType="pubmed">10202935</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tepper O.M., Capla J.M., Galiano R.D., Ceradini D.J., Callaghan M.J., Kleinman M.E., Gurtner G.C. Adult vasculogenesis occurs through in situ recruitment, proliferation, and tubulization of circulating bone marrow-derived cells. Blood. 2005;105:1068–1077. doi: 10.1182/blood-2004-03-1051.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1182/blood-2004-03-1051</ArticleId>
+            <ArticleId IdType="pubmed">15388583</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Johnson K.E., Wilgus T.A. Vascular Endothelial Growth Factor and Angiogenesis in the Regulation of Cutaneous Wound Repair. Adv. Wound Care. 2014;3:647–661. doi: 10.1089/wound.2013.0517.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/wound.2013.0517</ArticleId>
+            <ArticleId IdType="pmc">PMC4183920</ArticleId>
+            <ArticleId IdType="pubmed">25302139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lai T., Vlahos N., Shih I., Zhao Y. Expression patterns of VEGF and Flk-1 in human endometrium at the various phases of the natural menstrual cycle. Hum. Reprod. 2014;29:i195.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hanahan D., Weinberg R.A. Hallmarks of cancer: The next generation. Cell. 2011;144:646–674. doi: 10.1016/j.cell.2011.02.013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2011.02.013</ArticleId>
+            <ArticleId IdType="pubmed">21376230</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miller J.W., Le Couter J., Strauss E.C., Ferrara N. Vascular endothelial growth factor a in intraocular vascular disease. Ophthalmology. 2013;120:106–114. doi: 10.1016/j.ophtha.2012.07.038.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ophtha.2012.07.038</ArticleId>
+            <ArticleId IdType="pubmed">23031671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Azizi G., Boghozian R., Mirshafiey A. The potential role of angiogenic factors in rheumatoid arthritis. Int. J. Rheum. Dis. 2014;17:369–383. doi: 10.1111/1756-185X.12280.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/1756-185X.12280</ArticleId>
+            <ArticleId IdType="pubmed">24467605</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Folkman J. Angiogenesis in psoriasis: Therapeutic implications. J. Investig. Dermatol. 1972;59:40–43. doi: 10.1111/1523-1747.ep12625746.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/1523-1747.ep12625746</ArticleId>
+            <ArticleId IdType="pubmed">5039962</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ved N., Hulse R.P., Bestall S.M., Donaldson L.F., Bainbridge J.W., Bates D.O. Vascular endothelial growth factor-A 165 b ameliorates outer-retinal barrier and vascular dysfunction in the diabetic retina. Clin. Sci. 2017;131:1225–1243. doi: 10.1042/CS20170102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/CS20170102</ArticleId>
+            <ArticleId IdType="pmc">PMC5450016</ArticleId>
+            <ArticleId IdType="pubmed">28341661</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alkim C., Alkim H., Koksal A.R., Boga S., Sen I. Angiogenesis in inflammatory bowel disease. Int. J. Inflam. 2015;2015:1–10. doi: 10.1155/2015/970890.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2015/970890</ArticleId>
+            <ArticleId IdType="pmc">PMC4709626</ArticleId>
+            <ArticleId IdType="pubmed">26839731</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pallet N., Thervet E., Timsit M.O. Angiogenic response following renal ischemia reperfusion injury: New players. Prog. Urol. 2014;24:S20–S25. doi: 10.1016/S1166-7087(14)70059-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1166-7087(14)70059-4</ArticleId>
+            <ArticleId IdType="pubmed">24950928</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shibuya M. Vascular endothelial growth factor and its receptor system: Physiological functions in angiogenesis and pathological roles in various diseases. J. Biochem. 2013;153:13–19. doi: 10.1093/jb/mvs136.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/jb/mvs136</ArticleId>
+            <ArticleId IdType="pmc">PMC3528006</ArticleId>
+            <ArticleId IdType="pubmed">23172303</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Matsumoto K., Ema M. Roles of VEGF-A signalling in development, regeneration, and tumours. J. Biochem. 2014;156:1–10. doi: 10.1093/jb/mvu031.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/jb/mvu031</ArticleId>
+            <ArticleId IdType="pubmed">24839295</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Folkman J. Angiogenesis: An organizing principle for drug discovery? Nat. Rev. Drug Discov. 2007;6:273–286. doi: 10.1038/nrd2115.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrd2115</ArticleId>
+            <ArticleId IdType="pubmed">17396134</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Woolard J., Bevan H.S., Harper S.J., Bates D. Molecular diversity of VEGF-A as a regulator of its biological activity. Microcirculation. 2009;16:572–592. doi: 10.1080/10739680902997333.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/10739680902997333</ArticleId>
+            <ArticleId IdType="pmc">PMC2929464</ArticleId>
+            <ArticleId IdType="pubmed">19521900</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Senger D., Galli S., Dvorak A., Perruzzi C., Harvey V., Dvorak H. Tumor Cells Secrete a Vascular Permeability Factor That Promotes Accumulation of Ascites Fluid. Science. 1983;219:983–985. doi: 10.1126/science.6823562.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.6823562</ArticleId>
+            <ArticleId IdType="pubmed">6823562</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Senger D., Perruzzi C., Feder J., Dvorak H. A Highly Conserved Vascular Permeability Factor Secreted by a Variety of Human and Rodent Tumor Cell Lines. Cancer Res. 1986;46:5629–5632.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3756910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ferrara N., Henzel W. Pituitary follicular cells secrete a novel heparin-binding growth factor specific for vascular endothelial cells. Biochem. Biophys. Res. Commun. 1989;161:851–858. doi: 10.1016/0006-291X(89)92678-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0006-291X(89)92678-8</ArticleId>
+            <ArticleId IdType="pubmed">2735925</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fearnley G.W., Odell A.F., Latham A.M., Mughal N.A., Bruns A.F., Burgoyne N.J., Homer-Vanniasinkam S., Zachary I.C., Hollstein M.C., Wheatcroft S.B., et al.  VEGF-A isoforms differentially regulate ATF-2-dependent VCAM-1 gene expression and endothelial-leukocyte interactions. Mol. Biol. Cell. 2014;25:2509–2521. doi: 10.1091/mbc.E14-05-0962.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1091/mbc.E14-05-0962</ArticleId>
+            <ArticleId IdType="pmc">PMC4142621</ArticleId>
+            <ArticleId IdType="pubmed">24966171</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ferrara N. Vascular endothelial growth factor: Basic science and clinical progress. Endocr. Rev. 2004;25:581–611. doi: 10.1210/er.2003-0027.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1210/er.2003-0027</ArticleId>
+            <ArticleId IdType="pubmed">15294883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ogawa S., Oku A., Sawano A., Yamaguchi S., Yazaki Y., Shibuya M. A novel type of vascular endothelial growth factor, VEGF-E (NZ-7 VEGF) J. Biol. Chem. 1998;273:31273–31282. doi: 10.1074/jbc.273.47.31273.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.273.47.31273</ArticleId>
+            <ArticleId IdType="pubmed">9813035</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yamazaki Y., Matsunaga Y., Tokunaga Y., Obayashi S., Saito M., Morita T. Snake venom vascular endothelial growth factors (VEGF-Fs) exclusively vary their structures and functions among species. J. Biol. Chem. 2009;284:9885–9891. doi: 10.1074/jbc.M809071200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M809071200</ArticleId>
+            <ArticleId IdType="pmc">PMC2665111</ArticleId>
+            <ArticleId IdType="pubmed">19208624</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iyer S., Acharya K.R. Tying the knot: The cystine signature and molecular-recognition processes of the vascular endothelial growth factor family of angiogenic cytokines. FEBS J. 2011;278:4304–4322. doi: 10.1111/j.1742-4658.2011.08350.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1742-4658.2011.08350.x</ArticleId>
+            <ArticleId IdType="pmc">PMC3328748</ArticleId>
+            <ArticleId IdType="pubmed">21917115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ferrara N., Adamis A.P. Ten years of anti-vascular endothelial growth factor therapy. Nat. Rev. Drug Discov. 2016;15:385–403. doi: 10.1038/nrd.2015.17.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrd.2015.17</ArticleId>
+            <ArticleId IdType="pubmed">26775688</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muller Y.A., Heiring C., Misselwitz R., Welfle K., Welfle H. The cystine knot promotes folding and not thermodynamic stability in vascular endothelial growth factor. J. Biol. Chem. 2002;277:43410–43416. doi: 10.1074/jbc.M206438200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M206438200</ArticleId>
+            <ArticleId IdType="pubmed">12207021</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Uchida K., Uchida S., Nitta K., Yumura W., Marumo F., Nihei H. Glomerular endothelial cells in culture express and secrete vascular endothelial growth factor. Am. J. Physiol. 1994;266:F81–F88. doi: 10.1152/ajprenal.1994.266.1.F81.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajprenal.1994.266.1.F81</ArticleId>
+            <ArticleId IdType="pubmed">8304487</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Namiki A., Brogi E., Kearney M., Kim E.A., Wu T., Couffinhal T., Varticovski L., Isner J.M. Hypoxia induces vascular endothelial growth factor in cultured human endothelial cells. J. Biol. Chem. 1995;270:31189–31195. doi: 10.1074/jbc.270.52.31189.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.270.52.31189</ArticleId>
+            <ArticleId IdType="pubmed">8537383</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nissen N.N., Polverini P.J., Koch A.E., Volin M.V., Gamelli R.L., DiPietro L.A. Vascular endothelial growth factor mediates angiogenic activity during the proliferative phase of wound healing. Am. J. Pathol. 1998;152:1445–1452.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1858442</ArticleId>
+            <ArticleId IdType="pubmed">9626049</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brogi E., Wu T., Namiki A. Indirect angiogenic cytokines upregulate VEGF and bFGF gene expression in vascular smooth muscle cells, whereas hypoxia upregulates VEGF expression only. Circulation. 1994;90:649–652. doi: 10.1161/01.CIR.90.2.649.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.CIR.90.2.649</ArticleId>
+            <ArticleId IdType="pubmed">8044933</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Banks R.E., Forbes M.A., Kinsey S.E., Stanley A., Ingham E., Walters C., Selby P.J. Release of the angiogenic cytokine vascular endothelial growth factor (VEGF) from platelets: Significance for VEGF measurements and cancer biology. Br. J. Cancer. 1998;77:956–964. doi: 10.1038/bjc.1998.158.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/bjc.1998.158</ArticleId>
+            <ArticleId IdType="pmc">PMC2150108</ArticleId>
+            <ArticleId IdType="pubmed">9528841</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gaudry M., Brégerie O., Andrieu V., El Benna J., Pocidalo M.-A.A., Hakim J. Intracellular pool of vascular endothelial growth factor in human neutrophils. Blood. 1997;90:4153–4161.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9354686</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berse B., Brown L.F., Van De Water L., Dvorak H.F., Senger D.R. Vascular permeability factor (vascular endothelial growth factor) gene is expressed differentially in normal tissues, macrophages, and tumors. Mol. Biol. Cell. 1992;3:211–220. doi: 10.1091/mbc.3.2.211.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1091/mbc.3.2.211</ArticleId>
+            <ArticleId IdType="pmc">PMC275520</ArticleId>
+            <ArticleId IdType="pubmed">1550962</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Franco M., Roswall P., Cortez E., Hanahan D., Pietras K. Pericytes promote endothelial cell survival through induction of autocrine VEGF-Asignaling and Bcl-w expression. Blood. 2011;118:2906–2917. doi: 10.1182/blood-2011-01-331694.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1182/blood-2011-01-331694</ArticleId>
+            <ArticleId IdType="pmc">PMC3172806</ArticleId>
+            <ArticleId IdType="pubmed">21778339</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alexander S.P.H., Fabbro D., Kelly E., Marrion N., Peters J.A., Benson H.E., Faccenda E., Pawson A.J., Sharman J.L., Southan C., et al.  The Concise Guide to pharmacology 2015/16: Catalytic receptors. Br. J. Pharmacol. 2015;172:5979–6023. doi: 10.1111/bph.13353.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/bph.13353</ArticleId>
+            <ArticleId IdType="pmc">PMC4718208</ArticleId>
+            <ArticleId IdType="pubmed">26650444</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shibuya M. VEGFR and type-V RTK activation and signaling. Cold Spring Harb. Perspect. Biol. 2013;5:1–13. doi: 10.1101/cshperspect.a009092.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/cshperspect.a009092</ArticleId>
+            <ArticleId IdType="pmc">PMC3783052</ArticleId>
+            <ArticleId IdType="pubmed">24086040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koch S., Tugues S., Li X., Gualandi L., Claesson-Welsh L. Signal transduction by vascular endothelial growth factor receptors. Biochem. J. 2011;437:169–183. doi: 10.1042/BJ20110301.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/BJ20110301</ArticleId>
+            <ArticleId IdType="pubmed">21711246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith G.A., Fearnley G.W., Tomlinson D.C., Harrison M.A., Ponnambalam S. The cellular response to vascular endothelial growth factors requires co-ordinated signal transduction, trafficking and proteolysis. Biosci. Rep. 2015;35:e00253. doi: 10.1042/BSR20150171.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/BSR20150171</ArticleId>
+            <ArticleId IdType="pmc">PMC4613718</ArticleId>
+            <ArticleId IdType="pubmed">26285805</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kabrun N., Bühring H.J., Choi K., Ullrich A., Risau W., Keller G. Flk-1 expression defines a population of early embryonic hematopoietic precursors. Development. 1997;124:2039–2048.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9169850</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ishida A., Murray J., Saito Y., Kanthou C., Benzakour O., Shibuya M., Wijelath E.S. Expression of vascular endothelial growth factor receptors in smooth muscle cells. J. Cell. Physiol. 2001;188:359–368. doi: 10.1002/jcp.1121.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jcp.1121</ArticleId>
+            <ArticleId IdType="pubmed">11473363</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Witmer A.N., Dai J., Weich H.A., Vrensen G.F., Schlingemann R.O. Expression of vascular endothelial growth factor receptors 1, 2, and 3 in quiescent endothelia. J. Histochem. Cytochem. 2002;50:767–777. doi: 10.1177/002215540205000603.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/002215540205000603</ArticleId>
+            <ArticleId IdType="pubmed">12019293</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Simons M., Gordon E., Claesson-Welsh L. Mechanisms and regulation of endothelial VEGF receptor signalling. Nat. Rev. Mol. Cell Biol. 2016;17:611–625. doi: 10.1038/nrm.2016.87.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrm.2016.87</ArticleId>
+            <ArticleId IdType="pubmed">27461391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meyer R.D., Mohammadi M., Rahimi N. A single amino acid substitution in the activation loop defines the decoy characteristic of VEGFR-1/FLT-1. J. Biol. Chem. 2006;281:867–875. doi: 10.1074/jbc.M506454200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M506454200</ArticleId>
+            <ArticleId IdType="pmc">PMC1360223</ArticleId>
+            <ArticleId IdType="pubmed">16286478</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Waltenberger J., Claesson-Welsh L., Siegbahn A., Shibuya M., Heldin C. Different Signal-Transduction Properties of Kdr and Flt1, 2 Receptors for Vascular Endothelial Growth-Factor. J. Biol. Chem. 1994;269:26988–26995.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7929439</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li Y.L., Zhao H., Ren X.-B., Li Y.L., Zhao H., Ren X.B. Relationship of VEGF/VEGFR with immune and cancer cells: Staggering or forward? Cancer Biol. Med. 2016;13:206–214. doi: 10.20892/j.issn.2095-3941.2015.0070.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.20892/j.issn.2095-3941.2015.0070</ArticleId>
+            <ArticleId IdType="pmc">PMC4944543</ArticleId>
+            <ArticleId IdType="pubmed">27458528</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sawano A., Iwai S., Sakurai Y., Ito M., Shitara K., Nakahata T., Shibuya M. Flt-1, vascular endothelial growth factor receptor 1, is a novel cell surface marker for the lineage of monocyte-macrophages in humans. Blood. 2001;97:785–791. doi: 10.1182/blood.V97.3.785.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1182/blood.V97.3.785</ArticleId>
+            <ArticleId IdType="pubmed">11157498</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cao Y. Positive and Negative Modulation of Angiogenesis by VEGFR1 Ligands. Sci. Signal. 2009;2:1–11. doi: 10.1126/scisignal.259re1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/scisignal.259re1</ArticleId>
+            <ArticleId IdType="pubmed">19244214</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu Y. Hypoxia Regulates Vascular Endothelial Growth Factor Gene Expression in Endothelial Cells. Circ. Res. 1995;77:638–643.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7641334</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Forsythe J.O.A., Jiang B., Iyer N.V., Agani F., Leung S.W. Activation of vascular endothelial growth factor gene transcription by hypoxia-inducible factor Activation of Vascular Endothelial Growth Factor Gene Transcription by Hypoxia-Inducible Factor 1. Mol. Cell. Biol. 1996;16:4604–4612. doi: 10.1128/MCB.16.9.4604.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/MCB.16.9.4604</ArticleId>
+            <ArticleId IdType="pmc">PMC231459</ArticleId>
+            <ArticleId IdType="pubmed">8756616</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mineur P., Colige A.C., Deroanne C.F., Dubail J., Kesteloot F., Habraken Y., Noël A., Vöö S., Waltenberger J., Lapière C.M., et al.  Newly identified biologically active and proteolysis-resistant VEGF-A isoform VEGF111 is induced by genotoxic agents. J. Cell Biol. 2007;179:1261–1273. doi: 10.1083/jcb.200703052.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1083/jcb.200703052</ArticleId>
+            <ArticleId IdType="pmc">PMC2140032</ArticleId>
+            <ArticleId IdType="pubmed">18086921</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nowak D.G., Woolard J., Amin E.M., Konopatskaya O., Saleem M.A., Churchill A.J., Ladomery M.R., Harper S.J., Bates D.O. Expression of pro- and anti-angiogenic isoforms of VEGF is differentially regulated by splicing and growth factors. J. Cell Sci. 2008;121:3487–3495. doi: 10.1242/jcs.016410.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/jcs.016410</ArticleId>
+            <ArticleId IdType="pmc">PMC2613349</ArticleId>
+            <ArticleId IdType="pubmed">18843117</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Venables J.P. Unbalanced alternative splicing and its significance in cancer. BioEssays. 2006;28:378–386. doi: 10.1002/bies.20390.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/bies.20390</ArticleId>
+            <ArticleId IdType="pubmed">16547952</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tischer E., Mitchell R., Hartman T., Silva M., Gospodarowicz D., Fiddes J.C., Abraham J.A. The Human Gene for Vascular Endothelial Growth-Factor. Multiple Protein Forms Are Encoded Through Alternative Exon Splicing. J. Biol. Chem. 1991;266:11947–11954.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1711045</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guyot M., Pages G.  Methods in Molecular Biology. Volume 1332. Springer; Berlin, Germany: 2015. VEGF Splicing and the Role of VEGF Splice Variants: From Physiological-Pathological Conditions to Specific Pre-mRNA Splicing. pp. 3–24.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26285742</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gu F., Li X., Kong J., Pan B., Sun M., Zheng L., Yao Y. VEGF111b, a new member of VEGFxxxb isoforms and induced by mitomycin C, inhibits angiogenesis. Biochem. Biophys. Res. Commun. 2013;441:18–24. doi: 10.1016/j.bbrc.2013.09.144.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbrc.2013.09.144</ArticleId>
+            <ArticleId IdType="pubmed">24125722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eswarappa S.M., Potdar A.A., Koch W.J., Fan Y., Vasu K., Lindner D., Willard B., Graham L.M., Dicorleto P.E., Fox P.L. Programmed translational readthrough generates antiangiogenic VEGF-Ax. Cell. 2014;157:1605–1618. doi: 10.1016/j.cell.2014.04.033.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2014.04.033</ArticleId>
+            <ArticleId IdType="pmc">PMC4113015</ArticleId>
+            <ArticleId IdType="pubmed">24949972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pritchard-Jones R.O., Dunn D.B.A., Qiu Y., Varey A.H.R., Orlando A., Rigby H., Harper S.J., Bates D.O. Expression of VEGFxxxb, the inhibitory isoforms of VEGF, in malignant melanoma. Br. J. Cancer. 2007;97:223–230. doi: 10.1038/sj.bjc.6603839.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/sj.bjc.6603839</ArticleId>
+            <ArticleId IdType="pmc">PMC2360298</ArticleId>
+            <ArticleId IdType="pubmed">17595666</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bates D.O., Mavrou A., Qiu Y., Carter J.G., Hamdollah-Zadeh M., Barratt S., Gammons M.V., Millar A.B., Salmon A.H.J., Oltean S., et al.  Detection of VEGF-Axxxb Isoforms in Human Tissues. PLoS ONE. 2013;8 doi: 10.1371/journal.pone.0068399.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0068399</ArticleId>
+            <ArticleId IdType="pmc">PMC3729684</ArticleId>
+            <ArticleId IdType="pubmed">23935865</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dehghanian F., Hojati Z. Comparative insight into expression of recombinant human VEGF111b, a newly identified anti-angiogenic isoform, in eukaryotic cell lines. Gene. 2014;553:57–62. doi: 10.1016/j.gene.2014.10.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.gene.2014.10.002</ArticleId>
+            <ArticleId IdType="pubmed">25284510</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ye X., Abou-Rayyah Y., Bischoff J., Ritchie A., Sebire N.J., Watts P., Churchill A.J., Bates D.O. Altered ratios of pro- and anti-angiogenic VEGF-A variants and pericyte expression of DLL4 disrupt vascular maturation in infantile haemangioma. J. Pathol. 2016;239:139–151. doi: 10.1002/path.4715.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/path.4715</ArticleId>
+            <ArticleId IdType="pmc">PMC4869683</ArticleId>
+            <ArticleId IdType="pubmed">26957058</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barratt S.L., Blythe T., Jarrett C., Ourradi K., Shelley-Fraser G., Day M.J., Qiu Y., Harper S., Maher T.M., Oltean S., et al.  Differential Expression of VEGF-A xxx Isoforms Is Critical for Development of Pulmonary Fibrosis. Am. J. Respir. Crit. Care Med. 2017;196:479–493. doi: 10.1164/rccm.201603-0568OC.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1164/rccm.201603-0568OC</ArticleId>
+            <ArticleId IdType="pmc">PMC5564672</ArticleId>
+            <ArticleId IdType="pubmed">28661183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lambert C.A., Garbacki N., Colige A.C. Chemotherapy induces alternative transcription and splicing: Facts and hopes for cancer treatment. Int. J. Biochem. Cell Biol. 2017;91:84–97. doi: 10.1016/j.biocel.2017.04.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.biocel.2017.04.006</ArticleId>
+            <ArticleId IdType="pubmed">28433505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oltean S., Gammons M., Hulse R., Hamdollah-Zadeh M., Mavrou A., Donaldson L., Salmon A.H., Harper S.J., Ladomery M.R., Bates D. SRPK1 inhibition in vivo: Modulation of VEGF splicing and potential treatment for multiple diseases. Biochem. Soc. Trans. 2012;40:831–835. doi: 10.1042/BST20120051.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/BST20120051</ArticleId>
+            <ArticleId IdType="pubmed">22817743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stevens M., Oltean S. Modulation of VEGF-A Alternative Splicing as a Novel Treatment in Chronic Kidney Disease. Genes (Basel) 2018;9:98.  doi: 10.3390/genes9020098.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/genes9020098</ArticleId>
+            <ArticleId IdType="pmc">PMC5852594</ArticleId>
+            <ArticleId IdType="pubmed">29462869</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Batson J., Toop H.D., Redondo C., Babaei-Jadidi R., Chaikuad A., Wearmouth S.F., Gibbons B., Allen C., Tallant C., Zhang J., et al.  Development of Potent, Selective SRPK1 Inhibitors as Potential Topical Therapeutics for Neovascular Eye Disease. ACS Chem. Biol. 2017;12:825–832. doi: 10.1021/acschembio.6b01048.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acschembio.6b01048</ArticleId>
+            <ArticleId IdType="pubmed">28135068</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gammons M.V., Lucas R., Dean R., Coupland S.E., Oltean S., Bates D.O. Targeting SRPK1 to control VEGF-mediated tumour angiogenesis in metastatic melanoma. Br. J. Cancer. 2014;111:477–485. doi: 10.1038/bjc.2014.342.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/bjc.2014.342</ArticleId>
+            <ArticleId IdType="pmc">PMC4119992</ArticleId>
+            <ArticleId IdType="pubmed">25010863</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Keyt B.A., Berleau L.T. The Carboxyl-terminal Domain(111–165) of Vascular Endothelial Growth Factor Is Critical for Its Mitogenic Potency. J. Biol. Chem. 1996;271:7788–7795. doi: 10.1074/jbc.271.13.7788.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.271.13.7788</ArticleId>
+            <ArticleId IdType="pubmed">8631822</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Holmes D.I.R., Zachary I.C. Vascular endothelial growth factor regulates Stanniocalcin-1 expression via Neuropilin-1-dependent regulation of KDR and synergism with fibroblast growth Factor-2. Cell Signal. 2008;20:569–579. doi: 10.1016/j.cellsig.2007.11.009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cellsig.2007.11.009</ArticleId>
+            <ArticleId IdType="pubmed">18164591</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fairbrother W.J., Champe M.A., Christinger H.W., Keyt B.A., Starovasnik M.A. Solution structure of the heparin-binding domain of vascular endothelial growth factor. Structure. 1998;6:637–648. doi: 10.1016/S0969-2126(98)00065-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0969-2126(98)00065-3</ArticleId>
+            <ArticleId IdType="pubmed">9634701</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krilleke D., DeErkenez A., Schubert W., Giri I., Robinson G.S., Ng Y.S., Shima D.T. Molecular mapping and functional characterization of the VEGF164 heparin-binding domain. J. Biol. Chem. 2007;282:28045–28056. doi: 10.1074/jbc.M700319200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M700319200</ArticleId>
+            <ArticleId IdType="pubmed">17626017</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee T.Y., Folkman J., Javaherian K. HSPG-Binding peptide corresponding to the exon 6a-encoded domain of VEGF inhibits tumor growth by blocking angiogenesis in Murine model. PLoS ONE. 2010;5:1–8. doi: 10.1371/journal.pone.0009945.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0009945</ArticleId>
+            <ArticleId IdType="pmc">PMC2848586</ArticleId>
+            <ArticleId IdType="pubmed">20376344</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Houck K., Leung D.W., Rowland A.M., Winer J., Ferrara N. Dual regulation of vascular endothelial growth factor bioavailability by genetic and proteolytic mechanisms. J. Biol. Chem. 1992;267:26031–26037.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1464614</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Houck K.A., Ferrara N., Winer J., Cachianes G., Li B., Leung D.W. The Vascular Endothelial Growth Factor Family: Identification of a Fourth Molecular Species and Characterization of Alternative Splicing of RNA. Mol. Endocrinol. 1991;5:1806–1814. doi: 10.1210/mend-5-12-1806.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1210/mend-5-12-1806</ArticleId>
+            <ArticleId IdType="pubmed">1791831</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bates D., Cui T.G., Doughty J.M., Winkler M., Sugiono M., Shields J.D., Peat D., Gillatt D., Harper S.J. VEGF165b, an inhibitory splice variant of vascular endothelial growth factor, is down-regulated in renal cell carcinoma. Cancer Res. 2002;62:4123–4131. doi: 10.1038/35025220.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/35025220</ArticleId>
+            <ArticleId IdType="pubmed">12124351</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ladomery M.R., Harper S.J., Bates D.O. Alternative splicing in angiogenesis: The vascular endothelial growth factor paradigm. Cancer Lett. 2007;249:133–142. doi: 10.1016/j.canlet.2006.08.015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.canlet.2006.08.015</ArticleId>
+            <ArticleId IdType="pubmed">17027147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Olsson A.K., Dimberg A., Kreuger J., Claesson-Welsh L. VEGF receptor signalling–in control of vascular function. Nat. Rev. Mol. Cell Biol. 2006;7:359–371. doi: 10.1038/nrm1911.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrm1911</ArticleId>
+            <ArticleId IdType="pubmed">16633338</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Woolard J., Wang W., Bevan H.S., Qiu Y., Morbidelli L., Pritchard-Jones R.O., Cui T., Sugiono M., Waine E., Perrin R., et al.  VEGF 165b, an Inhibitory Vascular Endothelial Growth Factor Splice Variant: Mechanism of Action, In vivo Effect On Angiogenesis and Endogenous Protein Expression. Cancer Res. 2004;64:7822–7835. doi: 10.1158/0008-5472.CAN-04-0934.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-04-0934</ArticleId>
+            <ArticleId IdType="pubmed">15520188</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Catena R., Larzabal L., Larrayoz M., Molina E., Hermida J., Agorreta J., Montes R., Pio R., Montuenga L.M., Calvo A. VEGF121b and VEGF165b are weakly angiogenic isoforms of VEGF-A. Mol. Cancer. 2010;9:1–14. doi: 10.1186/1476-4598-9-320.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1476-4598-9-320</ArticleId>
+            <ArticleId IdType="pmc">PMC3022671</ArticleId>
+            <ArticleId IdType="pubmed">21194429</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cébe Suarez S., Pieren M., Cariolato L., Arn S., Hoffman U., Bogucki A., Manlius C., Wood J., Ballmer-Hofer K. A VEGF-A splice variant defective for heparan sulfate and neuropilin-1 binding shows attenuated signaling through VEGFR-2. Cell. Mol. Life Sci. 2006;63:2067–2077. doi: 10.1007/s00018-006-6254-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00018-006-6254-9</ArticleId>
+            <ArticleId IdType="pubmed">16909199</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harris S., Craze M., Newton J., Fisher M., Shima D.T., Tozer G.M., Kanthou C. Do anti-angiogenic VEGF (VEGFxxxb) isoforms exist? a Cautionary Tale. PLoS ONE. 2012;7:1–14. doi: 10.1371/journal.pone.0035231.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0035231</ArticleId>
+            <ArticleId IdType="pmc">PMC3342274</ArticleId>
+            <ArticleId IdType="pubmed">22567098</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bridgett S., Dellett M., Simpson D.A. RNA-Sequencing data supports the existence of novel VEGFA splicing events but not of VEGFAxxxb isoforms. Sci. Rep. 2017:1–11. doi: 10.1038/s41598-017-00100-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-017-00100-3</ArticleId>
+            <ArticleId IdType="pmc">PMC5427905</ArticleId>
+            <ArticleId IdType="pubmed">28246395</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xin H., Zhong C., Nudleman E., Ferrara N. Evidence for Pro-angiogenic Functions of VEGF-Ax. Cell. 2016;167:275–284. doi: 10.1016/j.cell.2016.08.054.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2016.08.054</ArticleId>
+            <ArticleId IdType="pubmed">27662093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roskoski R. VEGF receptor protein-tyrosine kinases: Structure and regulation. Biochem. Biophys. Res. Commun. 2008;375:287–291. doi: 10.1016/j.bbrc.2008.07.121.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbrc.2008.07.121</ArticleId>
+            <ArticleId IdType="pubmed">18680722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brozzo M.S., Bjelic S., Kisko K., Schleier T., Leppánen V.-M., Alitalo K., Winkler F.K., Ballmer-Hofer K. Thermodynamic and structural description of allosterically regulated VEGF receptor 2 dimerization. Blood. 2011;119:1781–1788. doi: 10.1182/blood-2011-11-390922.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1182/blood-2011-11-390922</ArticleId>
+            <ArticleId IdType="pubmed">22207738</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Leppanen V.M., Prota A.E., Jeltsch M., Anisimov A., Kalkkinen N., Strandin T., Lankinen H., Goldman A., Ballmer-Hofer K., Alitalo K. Structural determinants of growth factor binding and specificity by VEGF receptor 2. Proc. Natl. Acad. Sci. USA. 2010;107:2425–2430. doi: 10.1073/pnas.0914318107.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0914318107</ArticleId>
+            <ArticleId IdType="pmc">PMC2823880</ArticleId>
+            <ArticleId IdType="pubmed">20145116</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wiesmann C., Fuh G., Christinger H.W., Eigenbrot C., Wells J.A., de Vos A.M. Crystal Structure at 1.7 Å Resolution of VEGF in Complex with Domain 2 of the Flt-1 Receptor. Cell. 1997;91:695–704. doi: 10.1016/S0092-8674(00)80456-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0092-8674(00)80456-0</ArticleId>
+            <ArticleId IdType="pubmed">9393862</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Starovasnik M.A., Christinger H.W., Wiesmann C., Champe M.A., de Vos A.M., Skelton N.J. Solution structure of the VEGF-binding domain of Flt-1: Comparison of its free and bound states. J. Mol. Biol. 1999;293:531–544. doi: 10.1006/jmbi.1999.3134.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/jmbi.1999.3134</ArticleId>
+            <ArticleId IdType="pubmed">10543948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Markovic-Mueller S., Stuttfeld E., Asthana M., Weinert T., Bliven S., Goldie K.N., Kisko K., Capitani G., Ballmer-Hofer K. Structure of the Full-length VEGFR-1 Extracellular Domain in Complex with VEGF-A. Structure. 2017;25:1–12. doi: 10.1016/j.str.2016.12.012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.str.2016.12.012</ArticleId>
+            <ArticleId IdType="pubmed">28111021</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Parker M.W., Xu P., Li X., Vander Kooi C.W. Structural basis for selective vascular endothelial growth factor-A (VEGF-A) binding to neuropilin-1. J. Biol. Chem. 2012;287:11082–11089. doi: 10.1074/jbc.M111.331140.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M111.331140</ArticleId>
+            <ArticleId IdType="pmc">PMC3322888</ArticleId>
+            <ArticleId IdType="pubmed">22318724</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neubig R.R., Spedding M., Kenakin T., Christopoulos A. International Union of Pharmacology Committee on Receptor Nomenclature and Drug Classification. XXXVIII. Update on terms and symbols in quantitative pharmacology. Pharmacol. Rev. 2003;55:597–606. doi: 10.1124/pr.55.4.4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1124/pr.55.4.4</ArticleId>
+            <ArticleId IdType="pubmed">14657418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Simon M., Rockl W., Hornig C., Grone E., Theis H., Weich H., Fuchs E., Yayon A., Grone H. Receptors of Vascular Endothelial Growth Factor/Vascular Permeability Factor (VEGF/VPF) in Fetal and Adult Human Kidney : Localization and [125I] VEGF Binding. J. Am. Soc. Nephrol. 1998;9:1032–1044.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9621286</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Whitaker G.B., Limberg B.J., Rosenbaum J.S. Vascular Endothelial Growth Factor Receptor-2 and Neuropilin-1 Form a Receptor Complex that is Responsible for the Differential Signaling Potency of VEGF165 and VEGF121. J. Biol. Chem. 2001;276:25520–25531. doi: 10.1074/jbc.M102315200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M102315200</ArticleId>
+            <ArticleId IdType="pubmed">11333271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gille H., Kowalski J., Li B., LeCouter J., Moffat B., Zioncheck T.F., Pelletier N., Ferrara N. Analysis of biological effects and signaling properties of Flt-1 (VEGFR-1) and KDR (VEGFR-2): A reassessment using novel receptor-specific vascular endothelial growth factor mutants. J. Biol. Chem. 2001;276:3222–3230. doi: 10.1074/jbc.M002016200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M002016200</ArticleId>
+            <ArticleId IdType="pubmed">11058584</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nieminen T., Toivanen P.I., Rintanen N., Heikura T., Jauhiainen S., Airenne K.J., Alitalo K., Marjomäki V., Ylä-Herttuala S. The impact of the receptor binding profiles of the vascular endothelial growth factors on their angiogenic features. Biochim. Biophys. Acta. 2014;1840:454–463. doi: 10.1016/j.bbagen.2013.10.005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbagen.2013.10.005</ArticleId>
+            <ArticleId IdType="pubmed">24112971</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stoddart L., Johnstone E.K.M., Wheal A.J., Goulding J., Robers M.B., Machleidt T., Wood K.V., Hill S.J., Pfleger K.D.G. Application of BRET to monitor ligand binding to GPCRs. Nat. Methods. 2015:1–5. doi: 10.1038/nmeth.3398.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.3398</ArticleId>
+            <ArticleId IdType="pmc">PMC4488387</ArticleId>
+            <ArticleId IdType="pubmed">26030448</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stoddart L.A., Kilpatrick L.E., Hill S.J. NanoBRET Approaches to Study Ligand Binding to GPCRs and RTKs. Trends Pharmacol. Sci. 2017;39:1–12. doi: 10.1016/j.tips.2017.10.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tips.2017.10.006</ArticleId>
+            <ArticleId IdType="pubmed">29132917</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kilpatrick L.E., Friedman-Ohana R., Alcobia D., Riching K., Peach C.J., Wheal A., Briddon S., Robers M., Zimmerman K., Machleidt T., et al.  Real-time analysis of the binding of fluorescent VEGF165a to VEGFR2 in living cells: Effect of receptor tyrosine kinase inhibitors and fate of internalized agonist-receptor complexes. Biochem. Pharmacol. 2017;136:62–75. doi: 10.1016/j.bcp.2017.04.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bcp.2017.04.006</ArticleId>
+            <ArticleId IdType="pmc">PMC5457915</ArticleId>
+            <ArticleId IdType="pubmed">28392095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clegg L.E., Mac Gabhann F. A computational analysis of in vivo VEGFR activation by multiple co-expressed ligands. PLOS Comput. Biol. 2017;13:e1005445.  doi: 10.1371/journal.pcbi.1005445.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1005445</ArticleId>
+            <ArticleId IdType="pmc">PMC5378411</ArticleId>
+            <ArticleId IdType="pubmed">28319199</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>De Smet F., Christopoulos A., Carmeliet P. Allosteric targeting of receptor tyrosine kinases. Nat. Biotechnol. 2014;32:1113–1120. doi: 10.1038/nbt.3028.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nbt.3028</ArticleId>
+            <ArticleId IdType="pubmed">25380447</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ruch C., Skiniotis G., Steinmetz M.O., Walz T., Ballmer-Hofer K. Structure of a VEGF–VEGF receptor complex determined by electron microscopy. Nat. Struct. Mol. Biol. 2007;14:249–250. doi: 10.1038/nsmb1202.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nsmb1202</ArticleId>
+            <ArticleId IdType="pubmed">17293873</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kisko K., Brozzo M.S., Missimer J., Schleier T., Menzel A., Leppänen V.-M., Alitalo K., Walzthoeni T., Aebersold R., Ballmer-Hofer K. Structural analysis of vascular endothelial growth factor receptor-2/ligand complexes by small-angle X-ray solution scattering. FASEB J. 2011;25:2980–2986. doi: 10.1096/fj.11-185397.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1096/fj.11-185397</ArticleId>
+            <ArticleId IdType="pubmed">21613573</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Y., Xie P., Opatowsky Y., Schlessinger J. Direct contacts between extracellular membrane-proximal domains are required for VEGF receptor activation and cell signaling. Proc. Natl. Acad. Sci. USA. 2010;107:1906–1911. doi: 10.1073/pnas.0914052107.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0914052107</ArticleId>
+            <ArticleId IdType="pmc">PMC2836632</ArticleId>
+            <ArticleId IdType="pubmed">20080685</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hyde C.A.C., Giese A., Stuttfeld E., Abram Saliba J., Villemagne D., Schleier T., Binz H.K., Ballmer-Hofer K. Targeting extracellular domains D4 and D7 of vascular endothelial growth factor receptor 2 reveals allosteric receptor regulatory sites. Mol. Cell. Biol. 2012;32:3802–3813. doi: 10.1128/MCB.06787-11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/MCB.06787-11</ArticleId>
+            <ArticleId IdType="pmc">PMC3457528</ArticleId>
+            <ArticleId IdType="pubmed">22801374</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thieltges K.M., Avramovic D., Piscitelli C.L., Markovic-Mueller S., Binz H.K., Ballmer-Hofer K. Characterization of a drug-targetable allosteric site regulating vascular endothelial growth factor signaling. Angiogenesis. 2018:1–11. doi: 10.1007/s10456-018-9606-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10456-018-9606-9</ArticleId>
+            <ArticleId IdType="pubmed">29502220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dosch D.D., Ballmer-Hofer K. Transmembrane domain-mediated orientation of receptor monomers in active VEGFR-2 dimers. FASEB J. 2010;24:32–38. doi: 10.1096/fj.09-132670.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1096/fj.09-132670</ArticleId>
+            <ArticleId IdType="pubmed">19726758</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Manni S., Mineev K.S., Usmanova D., Lyukmanova E.N., Shulepko M.A., Kirpichnikov M.P., Winter J., Matkovic M., Deupi X., Arseniev A.S., et al.  Structural and functional characterization of alternative transmembrane domain conformations in VEGF receptor 2 activation. Structure. 2014;22:1077–1089. doi: 10.1016/j.str.2014.05.010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.str.2014.05.010</ArticleId>
+            <ArticleId IdType="pubmed">24980797</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sarabipour S., Ballmer-Hofer K., Hristova K. VEGFR-2 conformational switch in response to ligand binding. Elife. 2016;5:1–23. doi: 10.7554/eLife.13876.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.13876</ArticleId>
+            <ArticleId IdType="pmc">PMC4829425</ArticleId>
+            <ArticleId IdType="pubmed">27052508</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McTigue M.A., Wickersham J.A., Pinko C., Showalter R.E., Parast C.V., Tempczyk-Russell A., Gehring M.R., Mroczkowski B., Kan C.-C., Villafranca J.E., et al.  Crystal structure of the kinase domain of human vascular endothelial growth factor receptor 2: A key enzyme in angiogenesis. Structure. 1999;7:319–330. doi: 10.1016/S0969-2126(99)80042-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0969-2126(99)80042-2</ArticleId>
+            <ArticleId IdType="pubmed">10368301</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Manni S., Kisko K., Schleier T., Missimer J., Ballmer-Hofer K. Functional and structural characterization of the kinase insert and the carboxy terminal domain in VEGF receptor 2 activation. FASEB J. 2014;28:4914–4923. doi: 10.1096/fj.14-256206.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1096/fj.14-256206</ArticleId>
+            <ArticleId IdType="pubmed">25114179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Takahashi T., Yamaguchi S., Chida K., Shibuya M. A single autophosphorylation site on KDR/Flk-1 is essential for VEGF-A-dependent activation of PLC-g and DNA synthesis in vascular endothelial cells. EMBO J. 2001;20:2678–2778. doi: 10.1093/emboj/20.11.2768.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/emboj/20.11.2768</ArticleId>
+            <ArticleId IdType="pmc">PMC125481</ArticleId>
+            <ArticleId IdType="pubmed">11387210</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Takahashi T., Ueno H., Shibuya M. VEGF activates protein kinase C-dependent, but Ras-independent Raf-MEK-MAP kinase pathway for DNA synthesis in primary endothelial cells. Oncogene. 1999;18:2221–2230. doi: 10.1038/sj.onc.1202527.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/sj.onc.1202527</ArticleId>
+            <ArticleId IdType="pubmed">10327068</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Abu-Ghazaleh R., Kabir J., Jia H., Lobo M., Zachary I. Src mediates stimulation by vascular endothelial growth factor of the phosphorylation of focal adhesion kinase at tyrosine 861, and migration and anti-apoptosis in endothelial cells. Biochem. J. 2001;360:255–264. doi: 10.1042/bj3600255.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/bj3600255</ArticleId>
+            <ArticleId IdType="pmc">PMC1222225</ArticleId>
+            <ArticleId IdType="pubmed">11696015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gerber H.P., McMurtrey A., Kowalski J., Yan M., Keyt B.A., Dixit V., Ferrara N. Vascular Endothelial Growth Factor Regulates Endothelial Cell Survival through the Phosphatidylinositol 3’-Kinase/Akt Signal transduction pathway. Requirement for Flk-1/KDR activation. J. Biol. Chem. 1998;273:30336–30343. doi: 10.1074/jbc.273.46.30336.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.273.46.30336</ArticleId>
+            <ArticleId IdType="pubmed">9804796</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Holmqvist K., Cross M.J., Rolny C., Hägerkvist R., Rahimi N., Matsumoto T., Claesson-Welsh L., Welsh M. The adaptor protein Shb binds to tyrosine 1175 in vascular endothelial growth factor (VEGF) receptor-2 and regulates VEGF-dependent cellular migration. J. Biol. Chem. 2004;279:22267–22275. doi: 10.1074/jbc.M312729200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M312729200</ArticleId>
+            <ArticleId IdType="pubmed">15026417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen X.L., Nam J.O., Jean C., Lawson C., Walsh C.T., Goka E., Lim S.T., Tomar A., Tancioni I., Uryu S., et al.  VEGF-Induced Vascular Permeability Is Mediated by FAK. Dev. Cell. 2012;22:146–157. doi: 10.1016/j.devcel.2011.11.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.devcel.2011.11.002</ArticleId>
+            <ArticleId IdType="pmc">PMC3266538</ArticleId>
+            <ArticleId IdType="pubmed">22264731</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McMullen M.E., Bryant P.W., Glembotski C.C., Vincent P.A., Pumiglia K.M. Activation of p38 has opposing effects on the proliferation and migration of endothelial cells. J. Biol. Chem. 2005;280:20995–21003. doi: 10.1074/jbc.M407060200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M407060200</ArticleId>
+            <ArticleId IdType="pubmed">15790570</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee M.Y., Luciano A.K., Ackah E., Rodriguez-Vita J., Bancroft T., Eichmann A., Simons M., Kyriakides T.R., Morales-Ruiz M., Sessa W.C. Endothelial Akt1 mediates angiogenesis by phosphorylating multiple angiogenic substrates. Proc. Natl. Acad. Sci. USA. 2014;111:1–6. doi: 10.1073/pnas.1408472111.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1408472111</ArticleId>
+            <ArticleId IdType="pmc">PMC4156707</ArticleId>
+            <ArticleId IdType="pubmed">25136137</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kang Z., Zhu H., Jiang W., Zhang S. Protocatechuic Acid Induces Angiogenesis through PI3K-Akt-eNOS-VEGF Signalling Pathway. Basic Clin. Pharmacol. Toxicol. 2013;113:221–227. doi: 10.1111/bcpt.12094.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/bcpt.12094</ArticleId>
+            <ArticleId IdType="pubmed">23738793</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lanahan A.A., Lech D., Dubrac A., Zhang J., Zhuang Z.W., Eichmann A., Simons M. PTP1b is a physiologic regulator of vascular endothelial growth factor signaling in endothelial cells. Circulation. 2014;130:902–909. doi: 10.1161/CIRCULATIONAHA.114.009683.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/CIRCULATIONAHA.114.009683</ArticleId>
+            <ArticleId IdType="pmc">PMC6060619</ArticleId>
+            <ArticleId IdType="pubmed">24982127</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Haj F.G., Verveer P.J., Squire A., Neel B.G., Bastiaens P.I.H. Imaging Sites of Receptor Dephosphorylation by PTP1B on the Surface of the Endoplasmic Reticulum. Science. 2002;295:1708–1711. doi: 10.1126/science.1067566.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1067566</ArticleId>
+            <ArticleId IdType="pubmed">11872838</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stephenson R.P. A Modification of Receptor Theory. Br. J. Pharmacol. Chemother. 1956;11:379–393. doi: 10.1111/j.1476-5381.1956.tb00006.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1476-5381.1956.tb00006.x</ArticleId>
+            <ArticleId IdType="pmc">PMC1510558</ArticleId>
+            <ArticleId IdType="pubmed">13383117</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kenakin T. New concepts in pharmacological efficacy at 7TM receptors. Br. J. Pharmacol. 2013;168:554–575. doi: 10.1111/j.1476-5381.2012.02223.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1476-5381.2012.02223.x</ArticleId>
+            <ArticleId IdType="pmc">PMC3579279</ArticleId>
+            <ArticleId IdType="pubmed">22994528</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Galandrin S., Bouvier M. Distinct Signaling Profiles of beta1 and beta2 Adrenergic Receptor Ligands toward Adenylyl Cyclase and Mitogen-Activated Protein Kinase Reveals the Pluridimensionality of Efficacy. Mol. Pharmacol. 2006;70:1575–1584. doi: 10.1124/mol.106.026716.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1124/mol.106.026716</ArticleId>
+            <ArticleId IdType="pubmed">16901982</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pan Q., Chathery Y., Wu Y., Rathore N., Tong R.K., Peale F., Bagri A., Tessier-Lavigne M., Koch A.W., Watts R.J. Neuropilin-1 binds to VEGF121 and regulates endothelial cell migration and sprouting. J. Biol. Chem. 2007;282:24049–24056. doi: 10.1074/jbc.M703554200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M703554200</ArticleId>
+            <ArticleId IdType="pubmed">17575273</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kawamura H., Li X., Harper S.J., Bates D., Claesson-Welsh L. Vascular Endothelial Growth Factor (VEGF)-A165b Is A Weak In vitro Agonist for VEGF Receptor-2 Due to Lack of Coreceptor Binding and Deficient Regulation of Kinase Activity. Cancer Res. 2008;68:4683–4692. doi: 10.1158/0008-5472.CAN-07-6577.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-07-6577</ArticleId>
+            <ArticleId IdType="pubmed">18559514</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Delcombel R., Janssen L., Vassy R., Gammons M., Haddad O., Richard B., Letourneur D., Bates D., Hendricks C., Waltenberger J., et al.  New prospects in the roles of the C-terminal domains of VEGF-A and their cooperation for ligand binding, cellular signaling and vessels formation. Angiogenesis. 2013;16:353–371. doi: 10.1007/s10456-012-9320-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10456-012-9320-y</ArticleId>
+            <ArticleId IdType="pubmed">23254820</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hervé M.A., Buteau-Lozano H., Mourah S., Calvo F., Perrot-Applanat M. VEGF189 stimulates endothelial cells proliferation and migration in vitro and up-regulates the expression of Flk-1/KDR mRNA. Exp. Cell Res. 2005;309:24–31. doi: 10.1016/j.yexcr.2005.05.022.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.yexcr.2005.05.022</ArticleId>
+            <ArticleId IdType="pubmed">15996656</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ourradi K., Blythe T., Jarrett C., Barratt S.L., Welsh G.I., Millar A.B. VEGF isoforms have differential effects on permeability of human pulmonary microvascular endothelial cells. Respir. Res. 2017;18:1–12. doi: 10.1186/s12931-017-0602-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12931-017-0602-1</ArticleId>
+            <ArticleId IdType="pmc">PMC5457598</ArticleId>
+            <ArticleId IdType="pubmed">28578669</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pang V., Bates D.O., Leach L. Regulation of human feto-placental endothelial barrier integrity by vascular endothelial growth factors: Competitive interplay between VEGF-A165a, VEGF-A165b, PIGF and VE-cadherin. Clin. Sci. 2017;131:2763–2775. doi: 10.1042/CS20171252.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/CS20171252</ArticleId>
+            <ArticleId IdType="pmc">PMC5869853</ArticleId>
+            <ArticleId IdType="pubmed">29054861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shiying W., Boyun S., Jianye Y., Wanjun Z., Ping T., Jiang L., Hongyi H. The Different Effects of VEGFA121 and VEGFA165 on Regulating Angiogenesis Depend on Phosphorylation Sites of VEGFR2. Inflamm. Bowel Dis. 2017;23:603–616. doi: 10.1097/MIB.0000000000001055.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/MIB.0000000000001055</ArticleId>
+            <ArticleId IdType="pubmed">28296822</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fearnley G.W., Bruns A.F., Wheatcroft S.B., Ponnambalam S. VEGF-A isoform-specific regulation of calcium ion flux, transcriptional activation and endothelial cell migration. Biol. Open. 2015;4:731–742. doi: 10.1242/bio.201410884.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/bio.201410884</ArticleId>
+            <ArticleId IdType="pmc">PMC4467193</ArticleId>
+            <ArticleId IdType="pubmed">25910937</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fearnley G.W., Smith G.A., Abdul-Zani I., Yuldasheva N., Mughal N.A., Homer-Vanniasinkam S., Kearney M.T., Zachary I.C., Tomlinson D.C., Harrison M.A., et al.  VEGF-A isoforms program differential VEGFR2 signal transduction, trafficking and proteolysis. Biol. Open. 2016;5:571–583. doi: 10.1242/bio.017434.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/bio.017434</ArticleId>
+            <ArticleId IdType="pmc">PMC4874356</ArticleId>
+            <ArticleId IdType="pubmed">27044325</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rennel E., Waine E., Guan H., Schüler Y., Leenders W., Woolard J., Sugiono M., Gillatt D., Kleinerman E., Bates D., et al.  The endogenous anti-angiogenic VEGF isoform, VEGF165b inhibits human tumour growth in mice. Br. J. Cancer. 2008;98:1250–1257. doi: 10.1038/sj.bjc.6604309.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/sj.bjc.6604309</ArticleId>
+            <ArticleId IdType="pmc">PMC2359649</ArticleId>
+            <ArticleId IdType="pubmed">18349828</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hueso L., Rios-Navarro C., Ruiz-Sauri A., Chorro F.J., Nunez J., Sanz M.J., Bodi V., Piqueras L. Dynamics and implications of circulating anti-angiogenic VEGF-A165b isoform in patients with ST-elevation myocardial infarction. Sci. Rep. 2017;7:1–14. doi: 10.1038/s41598-017-10505-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-017-10505-9</ArticleId>
+            <ArticleId IdType="pmc">PMC5577291</ArticleId>
+            <ArticleId IdType="pubmed">28855597</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu D., Fuster M.M., Lawrence R., Esko J.D. Heparan sulfate regulates VEGF165- and VEGF121- mediated vascular hyperpermeability. J. Biol. Chem. 2011;286:737–745. doi: 10.1074/jbc.M110.177006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M110.177006</ArticleId>
+            <ArticleId IdType="pmc">PMC3013032</ArticleId>
+            <ArticleId IdType="pubmed">20974861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Becker P.M., Waltenberger J., Yachechko R., Mirzapoiazova T., Sham J., Lee C., Elia J., Verin A. Neuropilin-1 Regulates Vascular Endothelial Growth Factor-Mediated Endothelial Permeability. Circ. Res. 2005;96:1257–1265. doi: 10.1161/01.RES.0000171756.13554.49.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.RES.0000171756.13554.49</ArticleId>
+            <ArticleId IdType="pubmed">15920019</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yamamoto H., Rundqvist H., Branco C., Johnson R.S. Autocrine VEGF Isoforms Differentially Regulate Endothelial Cell Behavior. Front. Cell Dev. Biol. 2016;4:1–12. doi: 10.3389/fcell.2016.00099.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fcell.2016.00099</ArticleId>
+            <ArticleId IdType="pmc">PMC5030275</ArticleId>
+            <ArticleId IdType="pubmed">27709112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Imoukhuede P.I., Popel A.S. Quantification and cell-to-cell variation of vascular endothelial growth factor receptors. Exp. Cell Res. 2011;317:955–965. doi: 10.1016/j.yexcr.2010.12.014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.yexcr.2010.12.014</ArticleId>
+            <ArticleId IdType="pmc">PMC3073416</ArticleId>
+            <ArticleId IdType="pubmed">21185287</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baranska P., Jerczynska H., Pawlowska Z., Koziolkiewicz W., Cierniewski C.S. Expression of Integrins and Adhesive Properties of Human Endothelial Cell Line EA.hy 926. Cancer Genom. Proteom. 2005;270:265–269. doi: 10.1002/jcp.1041530302.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jcp.1041530302</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Murphy J.E., Padilla B.E., Hasdemir B., Cottrell G.S., Bunnett N.W. Endosomes: A legitimate platform for the signaling train. Proc. Natl. Acad. Sci. USA. 2009;106:17615–17622. doi: 10.1073/pnas.0906541106.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0906541106</ArticleId>
+            <ArticleId IdType="pmc">PMC2764915</ArticleId>
+            <ArticleId IdType="pubmed">19822761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gourlaouen M., Welti J.C., Vasudev N.S., Reynolds A.R. Essential Role for Endocytosis in the Growth Factor-stimulated Activation of ERK1/2 in Endothelial Cells. J. Biol. Chem. 2013;288:7467–7480. doi: 10.1074/jbc.M112.446401.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M112.446401</ArticleId>
+            <ArticleId IdType="pmc">PMC3597788</ArticleId>
+            <ArticleId IdType="pubmed">23341459</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Basagiannis D., Zografou S., Galanopoulou K., Christoforidis S. Dynasore impairs VEGFR2 signalling in an endocytosis- independent manner. Sci. Rep. 2017;7:1–11. doi: 10.1038/srep45035.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/srep45035</ArticleId>
+            <ArticleId IdType="pmc">PMC5361198</ArticleId>
+            <ArticleId IdType="pubmed">28327657</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jopling H.M., Howell G.J., Gamper N., Ponnambalam S. The VEGFR2 receptor tyrosine kinase undergoes constitutive endosome-to-plasma membrane recycling. Biochem. Biophys. Res. Commun. 2011;410:170–176. doi: 10.1016/j.bbrc.2011.04.093.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbrc.2011.04.093</ArticleId>
+            <ArticleId IdType="pmc">PMC6103438</ArticleId>
+            <ArticleId IdType="pubmed">21539813</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jopling H.M., Odell A.F., Pellet-Many C., Latham A.M., Frankel P., Sivaprasadarao A., Walker J.H., Zachary I.C., Ponnambalam S. Endosome-to-Plasma Membrane Recycling of VEGFR2 Receptor Tyrosine Kinase Regulates Endothelial Function and Blood Vessel Formation. Cells. 2014;3:363–385. doi: 10.3390/cells3020363.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cells3020363</ArticleId>
+            <ArticleId IdType="pmc">PMC4092869</ArticleId>
+            <ArticleId IdType="pubmed">24785348</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lampugnani M.G., Orsenigo F., Gagliani M.C., Tacchetti C., Dejana E. Vascular endothelial cadherin controls VEGFR-2 internalization and signaling from intracellular compartments. J. Cell Biol. 2006;174:593–604. doi: 10.1083/jcb.200602080.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1083/jcb.200602080</ArticleId>
+            <ArticleId IdType="pmc">PMC2064264</ArticleId>
+            <ArticleId IdType="pubmed">16893970</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ewan L.C., Jopling H.M., Jia H., Mittar S., Bagherzadeh A., Howell G.J., Walker J.H., Zachary I.C., Ponnambalam S. Intrinsic tyrosine kinase activity is required for vascular endothelial growth factor receptor 2 ubiquitination, sorting and degradation in endothelial cells. Traffic. 2006;7:1270–1282. doi: 10.1111/j.1600-0854.2006.00462.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1600-0854.2006.00462.x</ArticleId>
+            <ArticleId IdType="pubmed">17004325</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Basagiannis D., Christoforidis S. Constitutive endocytosis of VEGFR2 protects the receptor against shedding. J. Biol. Chem. 2016;291:16892–16903. doi: 10.1074/jbc.M116.730309.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M116.730309</ArticleId>
+            <ArticleId IdType="pmc">PMC4974401</ArticleId>
+            <ArticleId IdType="pubmed">27298320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Basagiannis D., Zografou S., Murphy C., Fotsis T., Morbidelli L., Ziche M., Bleck C., Mercer J., Christoforidis S. VEGF induces signalling and angiogenesis by directing VEGFR2 internalisation via macropinocytosis. J. Cell Sci. 2016;129:4091–4104. doi: 10.1242/jcs.188219.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/jcs.188219</ArticleId>
+            <ArticleId IdType="pubmed">27656109</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith G.A., Fearnley G.W., Abdul-Zani I., Wheatcroft S.B., Tomlinson D.C., Harrison M.A., Ponnambalam S. VEGFR2 Trafficking, Signaling and Proteolysis is Regulated by the Ubiquitin Isopeptidase USP8. Traffic. 2016;17:53–65. doi: 10.1111/tra.12341.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/tra.12341</ArticleId>
+            <ArticleId IdType="pmc">PMC4832373</ArticleId>
+            <ArticleId IdType="pubmed">26459808</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gampel A., Moss L., Jones M.C., Brunton V., Norman J.C., Mellor H. VEGF regulates the mobilization of VEGFR2/KDR from an intracellular endothelial storage compartment. Blood. 2006;108:2624–2631. doi: 10.1182/blood-2005-12-007484.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1182/blood-2005-12-007484</ArticleId>
+            <ArticleId IdType="pubmed">16638931</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bruns A.F., Herbert S.P., Odell A.F., Jopling H.M., Hooper N.M., Zachary I.C., Walker J.H., Ponnambalam S. Ligand-stimulated VEGFR2 signaling is regulated by co-ordinated trafficking and proteolysis. Traffic. 2010;11:161–174. doi: 10.1111/j.1600-0854.2009.01001.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1600-0854.2009.01001.x</ArticleId>
+            <ArticleId IdType="pubmed">19883397</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clegg L.W., Mac Gabhann F. Site-Specific Phosphorylation of VEGFR2 Is Mediated by Receptor Trafficking: Insights from a Computational Model. PLOS Comput. Biol. 2015;11:e1004158.  doi: 10.1371/journal.pcbi.1004158.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1004158</ArticleId>
+            <ArticleId IdType="pmc">PMC4466579</ArticleId>
+            <ArticleId IdType="pubmed">26067165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ballmer-Hofer K., Andersson A.E., Ratcliffe L.E., Berger P. Neuropilin-1 promotes VEGFR-2 trafficking through Rab11 vesicles thereby specifying signal output. Blood. 2011;118:816–826. doi: 10.1182/blood-2011-01-328773.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1182/blood-2011-01-328773</ArticleId>
+            <ArticleId IdType="pubmed">21586748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Y., Nakayama M., Pitulescu M.E., Schmidt T.S., Bochenek M.L., Sakakibara A., Adams S., Davy A., Deutsch U., Lüthi U., et al.  Ephrin-B2 controls VEGF-induced angiogenesis and lymphangiogenesis. Nature. 2010;465:483–486. doi: 10.1038/nature09002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature09002</ArticleId>
+            <ArticleId IdType="pubmed">20445537</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vempati P., Popel A.S., Mac Gabhann F. Extracellular regulation of VEGF: Isoforms, proteolysis, and vascular patterning. Cytokine Growth Factor Rev. 2014;25:1–19. doi: 10.1016/j.cytogfr.2013.11.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cytogfr.2013.11.002</ArticleId>
+            <ArticleId IdType="pmc">PMC3977708</ArticleId>
+            <ArticleId IdType="pubmed">24332926</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Melissa E.S., Skelton N.J., Fairbrother W.J. Refinement of the solution structure of the heparin-binding domain of vascular endothelial growth factor using residual dipolar couplings. J. Biomol. NMR. 2002;23:57–61. doi: 10.1023/A:1015346504499.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1023/A:1015346504499</ArticleId>
+            <ArticleId IdType="pubmed">12061718</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao W., McCallum S.A., Xiao Z., Zhang F., Linhardt R.J. Binding affinities of vascular endothelial growth factor (VEGF) for heparin-derived oligosaccharides. Biosci. Rep. 2012;32:71–81. doi: 10.1042/BSR20110077.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/BSR20110077</ArticleId>
+            <ArticleId IdType="pmc">PMC3190640</ArticleId>
+            <ArticleId IdType="pubmed">21658003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gitay-Goren H., Soker S., Vlodavsky I., Neufeld G. The binding of vascular endothelial growth factor to its receptors is dependent on cell surface-associated heparin-like molecules. J. Biol. Chem. 1992;267:6093–6098.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1556117</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Soker S., Takashima S., Miao H.Q., Neufeld G., Klagsbrun M. Neuropilin-1 Is Expressed by Endothelial and Tumor Cells as an Isoform-Specific Receptor for Vascular Endothelial Growth Factor. Cell. 1998;92:735–745. doi: 10.1016/S0092-8674(00)81402-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0092-8674(00)81402-6</ArticleId>
+            <ArticleId IdType="pubmed">9529250</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Teran M., Nugent M.A. Synergistic binding of vascular endothelial growth factor-a and its receptors to heparin selectively modulates complex affinity. J. Biol. Chem. 2015;290:16451–16462. doi: 10.1074/jbc.M114.627372.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M114.627372</ArticleId>
+            <ArticleId IdType="pmc">PMC4481241</ArticleId>
+            <ArticleId IdType="pubmed">25979342</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ashikari-Hada S., Habuchi H., Kariya Y., Kimata K. Heparin regulates vascular endothelial growth factor165-dependent mitogenic activity, tube formation, and its receptor phosphorylation of human endothelial cells. Comparison of the effects of heparin and modified heparins. J. Biol. Chem. 2005;280:31508–31515. doi: 10.1074/jbc.M414581200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M414581200</ArticleId>
+            <ArticleId IdType="pubmed">16027124</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mamluk R., Gechtman Z., Kutcher M.E., Gasiunas N., Gallagher J., Klagsbrun M. Neuropilin-1 binds vascular endothelial growth factor 165, placenta growth factor-2, and heparin via its b1b2 domain. J. Biol. Chem. 2002;277:24818–24825. doi: 10.1074/jbc.M200730200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M200730200</ArticleId>
+            <ArticleId IdType="pubmed">11986311</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gu C., Limberg B.J., Brian Whitaker G., Perman B., Leahy D.J., Rosenbaum J.S., Ginty D.D., Kolodkin A.L. Characterization of neuropilin-1 structural features that confer binding to semaphorin 3A and vascular endothelial growth factor 165. J. Biol. Chem. 2002;277:18069–18076. doi: 10.1074/jbc.M201681200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M201681200</ArticleId>
+            <ArticleId IdType="pubmed">11886873</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Djordjevic S., Driscoll P.C. Targeting VEGF signalling via the neuropilin co-receptor. Drug Discov. Today. 2013;18:447–455. doi: 10.1016/j.drudis.2012.11.013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.drudis.2012.11.013</ArticleId>
+            <ArticleId IdType="pubmed">23228652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo H.F., Vander Kooi C.W. Neuropilin Functions as an Essential Cell Surface Receptor. J. Biol. Chem. 2015;290:29120–29126. doi: 10.1074/jbc.R115.687327.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.R115.687327</ArticleId>
+            <ArticleId IdType="pmc">PMC4705917</ArticleId>
+            <ArticleId IdType="pubmed">26451046</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Appleton B., Wu P., Maloney J., Yin J.P., Liang W.-C., Stawicki S., Mortara K., Bowman K.K., Elliott J.M., Desmarais W., et al.  Structural studies of neuropilin/antibody complexes provide insights into semaphorin and VEGF binding. EMBO J. 2007;26:4902–4912. doi: 10.1038/sj.emboj.7601906.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/sj.emboj.7601906</ArticleId>
+            <ArticleId IdType="pmc">PMC2099469</ArticleId>
+            <ArticleId IdType="pubmed">17989695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kitsukawa T., Shimizu M., Sanbo M., Hirata T., Taniguchi M., Bekku Y., Yagi T., Fujisawa H. Neuropilin–Semaphorin III/D-Mediated Chemorepulsive Signals Play a Crucial Role in Peripheral Nerve Projection in Mice. Neuron. 1997;19:995–1005. doi: 10.1016/S0896-6273(00)80392-X.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0896-6273(00)80392-X</ArticleId>
+            <ArticleId IdType="pubmed">9390514</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kawasaki T., Kitsukawa T., Bekku Y., Matsuda Y., Sanbo M., Yagi T., Fujisawa H. A requirement for neuropilin-1 in embryonic vessel formation. Development. 1999;126:4895–4902.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10518505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gu C., Rodriguez E.R., Reimert D.V., Shu T., Fritzsch B., Richards L.J., Kolodkin A.L., Ginty D.D. Neuropilin-1 conveys semaphorin and VEGF signaling during neural and cardiovascular development. Dev. Cell. 2003;5:45–57. doi: 10.1016/S1534-5807(03)00169-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1534-5807(03)00169-2</ArticleId>
+            <ArticleId IdType="pmc">PMC3918747</ArticleId>
+            <ArticleId IdType="pubmed">12852851</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goel H.L., Mercurio A.M. VEGF targets the tumour cell. Nat. Rev. Cancer. 2013;13:871–882. doi: 10.1038/nrc3627.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrc3627</ArticleId>
+            <ArticleId IdType="pmc">PMC4011842</ArticleId>
+            <ArticleId IdType="pubmed">24263190</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jubb A.M., Strickland L.A., Liu S.D., Mak J., Schmidt M., Koeppen H. Neuropilin-1 expression in cancer and development. J. Pathol. 2012;226:50–60. doi: 10.1002/path.2989.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/path.2989</ArticleId>
+            <ArticleId IdType="pubmed">22025255</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee S.W., Lee J.E., Yoo C.Y., Ko M.S., Park C.S., Yang S.H. NRP-1 expression is strongly associated with the progression of pituitary adenomas. Oncol. Rep. 2014;32:1537–1542. doi: 10.3892/or.2014.3392.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3892/or.2014.3392</ArticleId>
+            <ArticleId IdType="pubmed">25109698</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chittenden T.W., Claes F., Lanahan A.A., Autiero M., Palac R.T., Tkachenko E.V., Elfenbein A., Ruiz de Almodovar C., Dedkov E., Tomanek R., et al.  Selective Regulation of Arterial Branching Morphogenesis by Synectin. Dev. Cell. 2006;10:783–795. doi: 10.1016/j.devcel.2006.03.012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.devcel.2006.03.012</ArticleId>
+            <ArticleId IdType="pubmed">16740480</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fantin A., Schwarz Q., Davidson K., Normando E.M., Denti L., Ruhrberg C. The cytoplasmic domain of neuropilin 1 is dispensable for angiogenesis, but promotes the spatial separation of retinal arteries and veins. Development. 2011;138:4185–4191. doi: 10.1242/dev.070037.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.070037</ArticleId>
+            <ArticleId IdType="pmc">PMC3171219</ArticleId>
+            <ArticleId IdType="pubmed">21852397</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lanahan A., Zhang X., Fantin A., Zhuang Z., Rivera-Molina F., Speichinger K., Prahst C., Zhang J., Wang Y., Davis G., et al.  The neuropilin 1 cytoplasmic domain is required for VEGF-A-dependent arteriogenesis. Dev. Cell. 2013;25:156–168. doi: 10.1016/j.devcel.2013.03.019.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.devcel.2013.03.019</ArticleId>
+            <ArticleId IdType="pmc">PMC3774154</ArticleId>
+            <ArticleId IdType="pubmed">23639442</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vander Kooi C.W., Jusino M.A., Perman B., Neau D.B., Bellamy H.D., Leahy D.J. Structural basis for ligand and heparin binding to neuropilin B domains. Proc. Natl. Acad. Sci. USA. 2007;104:6152–6157. doi: 10.1073/pnas.0700043104.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0700043104</ArticleId>
+            <ArticleId IdType="pmc">PMC1851056</ArticleId>
+            <ArticleId IdType="pubmed">17405859</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mota F., Fotinou C., Rhana R., Edith Chan A.W., Yelland T., Arooz M.T., O’Leary A.P., Hutton J., Frankel P., Zachary I., et al.  Architecture and Hydration of the Arginine Binding Site of Neuropilin-1. FEBS J. 2018:1–15. doi: 10.1111/febs.14405.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/febs.14405</ArticleId>
+            <ArticleId IdType="pmc">PMC5947257</ArticleId>
+            <ArticleId IdType="pubmed">29430837</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Herzog B., Pellet-Many C., Britton G., Hartzoulakis B., Zachary I.C. VEGF binding to NRP1 is essential for VEGF stimulation of endothelial cell migration, complex formation between NRP1 and VEGFR2, and signaling via FAK Tyr407 phosphorylation. Mol. Biol. Cell. 2011;22:2766–2776. doi: 10.1091/mbc.E09-12-1061.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1091/mbc.E09-12-1061</ArticleId>
+            <ArticleId IdType="pmc">PMC3145551</ArticleId>
+            <ArticleId IdType="pubmed">21653826</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Von Wronski M.A., Raju N., Pillai R., Bogdan N.J., Marinelli E.R., Nanjappan P., Ramalingam K., Arunachalam T., Eaton S., Linder K.E., et al.  Tuftsin binds neuropilin-1 through a sequence similar to that encoded by exon 8 of vascular endothelial growth factor. J. Biol. Chem. 2006;281:5702–5710. doi: 10.1074/jbc.M511941200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M511941200</ArticleId>
+            <ArticleId IdType="pubmed">16371354</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Starzec A., Ladam P., Vassy R., Badache S., Bouchemal N., Navaza A., du Penhoat C.H., Perret G.Y. Structure-function analysis of the antiangiogenic ATWLPPR peptide inhibiting VEGF165 binding to neuropilin-1 and molecular dynamics simulations of the ATWLPPR/neuropilin-1 complex. Peptides. 2007;28:2397–2402. doi: 10.1016/j.peptides.2007.09.013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.peptides.2007.09.013</ArticleId>
+            <ArticleId IdType="pubmed">17983687</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Starzec A., Vassy R., Martin A., Lecouvey M., Di Benedetto M., Crépin M., Perret G.Y. Antiangiogenic and antitumor activities of peptide inhibiting the vascular endothelial growth factor binding to neuropilin-1. Life Sci. 2006;79:2370–2381. doi: 10.1016/j.lfs.2006.08.005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.lfs.2006.08.005</ArticleId>
+            <ArticleId IdType="pubmed">16959272</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fuh G., Garcia K.C., de Vos A.M. The interaction of neuropilin-1 with vascular endothelial growth factor and its receptor flt-1. J Biol.Chem. 2000;275:26690–26695. doi: 10.1074/jbc.M003955200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M003955200</ArticleId>
+            <ArticleId IdType="pubmed">10842181</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Parker M.W., Guo H.F., Li X., Linkugel A.D., Vander Kooi C.W. Function of members of the neuropilin family as essential pleiotropic cell surface receptors. Biochemistry. 2012;51:9437–9446. doi: 10.1021/bi3012143.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/bi3012143</ArticleId>
+            <ArticleId IdType="pmc">PMC3510667</ArticleId>
+            <ArticleId IdType="pubmed">23116416</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koch S., Van Meeteren L.A., Morin E., Testini C., Weström S., Björkelund H., Le Jan S., Adler J., Berger P., Claesson-Welsh L. NRP1 Presented in trans to the endothelium arrests VEGFR2 endocytosis, preventing angiogenic signaling and tumor initiation. Dev. Cell. 2014;28:633–646. doi: 10.1016/j.devcel.2014.02.010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.devcel.2014.02.010</ArticleId>
+            <ArticleId IdType="pubmed">24656741</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cai H., Reed R.R. Cloning and characterization of neuropilin-1-interacting protein: A PSD-95/Dlg/ZO-1 domain-containing protein that interacts with the cytoplasmic domain of neuropilin-1. J. Neurosci. 1999;19:6519–6527. doi: 10.1523/JNEUROSCI.19-15-06519.1999.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.19-15-06519.1999</ArticleId>
+            <ArticleId IdType="pmc">PMC6782790</ArticleId>
+            <ArticleId IdType="pubmed">10414980</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang L., Mukhopadhyay D., Xu X. C terminus of RGS-GAIP-interacting protein conveys neuropilin-1-mediated signaling during angiogenesis. FASEB J. 2006;20:1513–1515. doi: 10.1096/fj.05-5504fje.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1096/fj.05-5504fje</ArticleId>
+            <ArticleId IdType="pubmed">16754745</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prahst C., Héroult M., Lanahan A.A., Uziel N., Kessler O., Shraga-Heled N., Simons M., Neufeld G., Augustin H.G. Neuropilin-1-VEGFR-2 complexing requires the PDZ-binding domain of neuropilin-1. J. Biol. Chem. 2008;283:25110–25114. doi: 10.1074/jbc.C800137200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.C800137200</ArticleId>
+            <ArticleId IdType="pmc">PMC2533068</ArticleId>
+            <ArticleId IdType="pubmed">18628209</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wells A.L., Lin A.W., Chen L.Q., Safer D., Cain S.M., Hasson T., Carragher B.O., Milligan R.A., Sweeney H.L. Myosin VI is an actin-based motor that moves backwards. Nature. 1999;401:505–508. doi: 10.1038/46835.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/46835</ArticleId>
+            <ArticleId IdType="pubmed">10519557</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shang G., Brautigam C.A., Chen R., Lu D., Torres-vázquez J. Structure analyses reveal a regulated oligomerization mechanism of the PlexinD1/GIPC/myosin VI complex. Elife. 2017:1–25. doi: 10.7554/eLife.27322.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.27322</ArticleId>
+            <ArticleId IdType="pmc">PMC5461112</ArticleId>
+            <ArticleId IdType="pubmed">28537552</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Naccache S., Hasson T., Horowitz A. Binding of internalized receptors to the PDZ domain of GIPC/synectin recruits myosin VI to endocytic vesicles. PNAS. 2006;103:12735–12740. doi: 10.1073/pnas.0605317103.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0605317103</ArticleId>
+            <ArticleId IdType="pmc">PMC1568917</ArticleId>
+            <ArticleId IdType="pubmed">16908842</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reed B., Cefalu C., Bellaire B., Cardelli J., Louis T., Salamon J., Bloecher M., Bunn R. GLUT1CBP(TIP2/GIPC1) Interactions with GLUT1 and Myosin VI: Evidence Supporting an Adapter Function for GLUT1CBP. Mol. Biol. Cell. 2005;16:4183–4201. doi: 10.1091/mbc.E04-11-0978.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1091/mbc.E04-11-0978</ArticleId>
+            <ArticleId IdType="pmc">PMC1196329</ArticleId>
+            <ArticleId IdType="pubmed">15975910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Parker M.W., Xu P., Guo H.F., Vander Kooi C.W. Mechanism of Selective VEGF-A Binding by Neuropilin-1 Reveals a Basis for Specific Ligand Inhibition. PLoS ONE. 2012;7:e49177.  doi: 10.1371/journal.pone.0049177.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0049177</ArticleId>
+            <ArticleId IdType="pmc">PMC3493496</ArticleId>
+            <ArticleId IdType="pubmed">23145112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tillo M., Erskine L., Cariboni A., Fantin A., Joyce A., Denti L., Ruhrberg C. VEGF189 binds NRP1 and is sufficient for VEGF/NRP1-dependent neuronal patterning in the developing brain. Development. 2015;142:314–319. doi: 10.1242/dev.115998.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.115998</ArticleId>
+            <ArticleId IdType="pmc">PMC4302834</ArticleId>
+            <ArticleId IdType="pubmed">25519242</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sarabipour S., Mac Gabhann F. VEGF-A121a binding to Neuropilins–A concept revisited. Cell Adh. Migr. 2017:1–11. doi: 10.1080/19336918.2017.1372878.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/19336918.2017.1372878</ArticleId>
+            <ArticleId IdType="pmc">PMC6149436</ArticleId>
+            <ArticleId IdType="pubmed">29095088</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rahimi N., Dayanir V., Lashkari K. Receptor chimeras indicate that the vascular endothelial growth factor receptor-1 (VEGFR-1) modulates mitogenic activity of VEGFR-2 in endothelial cells. J. Biol. Chem. 2000;275:16986–16992. doi: 10.1074/jbc.M000528200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M000528200</ArticleId>
+            <ArticleId IdType="pubmed">10747927</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cudmore M.J., Hewett P.W., Ahmad S., Wang K.-Q., Cai M., Al-Ani B., Fujisawa T., Ma B., Sissaoui S., Ramma W., et al.  The role of heterodimerization between VEGFR-1 and VEGFR-2 in the regulation of endothelial cell homeostasis. Nat. Commun. 2012;3:972. doi: 10.1038/ncomms1977.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms1977</ArticleId>
+            <ArticleId IdType="pubmed">22828632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dixelius J., Mäkinen T., Wirzenius M., Karkkainen M.J., Wernstedt C., Alitalo K., Claesson-Welsh L. Ligand-induced Vascular Endothelial Growth Factor Receptor-3 (VEGFR-3) Heterodimerization with VEGFR-2 in Primary Lymphatic Endothelial Cells Regulates Tyrosine Phosphorylation Sites. J. Biol. Chem. 2003;278:40973–40979. doi: 10.1074/jbc.M304499200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M304499200</ArticleId>
+            <ArticleId IdType="pubmed">12881528</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nilsson I., Bahram F., Li X., Gualandi L., Koch S., Jarvius M., Söderberg O., Anisimov A., Kholová I., Pytowski B., et al.  VEGF receptor 2/-3 heterodimers detected in situ by proximity ligation on angiogenic sprouts. EMBO J. 2010;29:1377–1388. doi: 10.1038/emboj.2010.30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/emboj.2010.30</ArticleId>
+            <ArticleId IdType="pmc">PMC2868571</ArticleId>
+            <ArticleId IdType="pubmed">20224550</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Coon B.G., Baeyens N., Han J., Budatha M., Ross T.D., Fang J.S., Yun S., Thomas J.-L., Schwartz M.A. Intramembrane binding of VE-cadherin to VEGFR2 and VEGFR3 assembles the endothelial mechanosensory complex. J. Cell Biol. 2015;208:975–986. doi: 10.1083/jcb.201408103.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1083/jcb.201408103</ArticleId>
+            <ArticleId IdType="pmc">PMC4384728</ArticleId>
+            <ArticleId IdType="pubmed">25800053</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bussolati B., Dunk C., Grohman M., Kontos C.D., Mason J., Ahmed A. Vascular Endothelial Growth Factor Receptor-1 Modulates Vascular Endothelial Growth Factor-Mediated Angiogenesis via Nitric Oxide. Am. J. Pathol. 2001;159:993–1008. doi: 10.1016/S0002-9440(10)61775-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0002-9440(10)61775-0</ArticleId>
+            <ArticleId IdType="pmc">PMC1850457</ArticleId>
+            <ArticleId IdType="pubmed">11549592</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mac Gabhann F., Popel A.S. Dimerization of VEGF receptors and implications for signal transduction: A computational study. Biophys. Chem. 2007;128:125–139. doi: 10.1016/j.bpc.2007.03.010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bpc.2007.03.010</ArticleId>
+            <ArticleId IdType="pmc">PMC2711879</ArticleId>
+            <ArticleId IdType="pubmed">17442480</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neagoe P.E., Lemieux C., Sirois M.G. Vascular endothelial growth factor (VEGF)-A165-induced prostacyclin synthesis requires the activation of VEGF receptor-1 and -2 heterodimer. J. Biol. Chem. 2005;280:9904–9912. doi: 10.1074/jbc.M412017200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M412017200</ArticleId>
+            <ArticleId IdType="pubmed">15637071</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang K., Andersson C., Roomans G.M., Ito N., Claesson-Welsh L. Signaling properties of VEGF receptor-1 and -2 homo- and heterodimers. Int. J. Biochem. Cell Biol. 2001;33:315–324. doi: 10.1016/S1357-2725(01)00019-X.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1357-2725(01)00019-X</ArticleId>
+            <ArticleId IdType="pubmed">11312102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Autiero M., Waltenberger J., Communi D., Kranz A., Moons L., Lambrechts D., Kroll J., Plaisance S., de Mol M., Bono F., et al.  Role of PlGF in the intra- and intermolecular cross talk between the VEGF receptors Flt1 and Flk1. Nat. Med. 2003;9:936–943. doi: 10.1038/nm884.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nm884</ArticleId>
+            <ArticleId IdType="pubmed">12796773</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Danastas K., Miller E.J., Hey-Cunningham A.J., Murphy C.R., Lindsay L.A. Expression of vascular endothelial growth factor A isoforms is dysregulated in women with endometriosis. Reprod. Fertil. Dev. 2017;2 doi: 10.1071/RD17184.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1071/RD17184</ArticleId>
+            <ArticleId IdType="pubmed">29017687</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Majumder S., Advani A. VEGF and the diabetic kidney: More than too much of a good thing. J. Diabetes Complic. 2016;1:1–7. doi: 10.1016/j.jdiacomp.2016.10.020.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jdiacomp.2016.10.020</ArticleId>
+            <ArticleId IdType="pubmed">27836681</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hulse R.P., Beazley-Long N., Ved N., Bestall S.M., Riaz H., Singhal P., Ballmer-Hofer K., Harper S.J., Bates D., Donaldson L.F. Vascular endothelial growth factor-A 165b prevents diabetic neuropathic pain and sensory neuronal degeneration. Clin. Sci. 2015;129:741–756. doi: 10.1042/CS20150124.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/CS20150124</ArticleId>
+            <ArticleId IdType="pubmed">26201024</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rubio R.G., Adamis A.P. Ocular Angiogenesis: Vascular Endothelial Growth Factor and Other Factors. Dev. Ophthalmol. 2016;55:28–37.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26502333</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shibata Y., Kikuchi R., Ishii H., Suzuki S., Harada K., Hirayama K., Suzuki A., Tatami Y., Kondo K., Murohara T. Balance between angiogenic and anti-angiogenic isoforms of VEGF-A is associated with the complexity and severity of coronary artery disease. Clin. Chim. Acta. 2018;478:114–119. doi: 10.1016/j.cca.2017.12.042.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cca.2017.12.042</ArticleId>
+            <ArticleId IdType="pubmed">29289620</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ganta V.C., Choi M., Kutateladze A., Annex B.H. VEGF165b Modulates Endothelial VEGFR1-STAT3 Signaling Pathway and Angiogenesis in Human and Experimental Peripheral Arterial Disease. Pediatr. Neurol. 2016;52:566–584. doi: 10.1016/j.pediatrneurol.2015.01.016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.pediatrneurol.2015.01.016</ArticleId>
+            <ArticleId IdType="pmc">PMC5453503</ArticleId>
+            <ArticleId IdType="pubmed">27974423</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kikuchi R., Nakamura K., Maclauchlan S., Ngo D.T. An anti-angiogenic isoform of VEGF-A contributes to impaired vascularization in peripheral artery disease. Nat. Med. 2015;20:1464–1471. doi: 10.1038/nm.3703.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nm.3703</ArticleId>
+            <ArticleId IdType="pmc">PMC4257756</ArticleId>
+            <ArticleId IdType="pubmed">25362254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sia D., Clara A., Newell P., Villanueva A. VEGF signaling in cancer treatment. Curr. Pharm. Des. 2014;20:2834–2842. doi: 10.2174/13816128113199990590.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2174/13816128113199990590</ArticleId>
+            <ArticleId IdType="pubmed">23944367</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rapisarda A., Melillo G. Role of the VEGF/VEGFR Axis in Cancer Biology and Therapy. Adv. Cancer Res. 2012;114:237–267.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22588059</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guyot M., Hilmi C., Ambrosetti D., Merlano M., Lo Nigro C., Durivault J., Grépin R., Pagès G. Targeting the pro-angiogenic forms of VEGF or inhibiting their expression as anti-cancer strategies. Oncotarget. 2016;8:9174–9188. doi: 10.18632/oncotarget.13942.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/oncotarget.13942</ArticleId>
+            <ArticleId IdType="pmc">PMC5354723</ArticleId>
+            <ArticleId IdType="pubmed">27999187</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Amadio M., Govoni S., Pascale A. Targeting VEGF in eye neovascularization: What’s new?: A comprehensive review on current therapies and oligonucleotide-based interventions under development. Pharmacol. Res. 2016;103:253–269. doi: 10.1016/j.phrs.2015.11.027.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.phrs.2015.11.027</ArticleId>
+            <ArticleId IdType="pubmed">26678602</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Comunanza V., Bussolino F. Therapy for Cancer: Strategy of Combining Anti-Angiogenic and Target Therapies. Front. Cell Dev. Biol. 2017;5:101. doi: 10.3389/fcell.2017.00101.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fcell.2017.00101</ArticleId>
+            <ArticleId IdType="pmc">PMC5725406</ArticleId>
+            <ArticleId IdType="pubmed">29270405</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim K.J., Li B., Houck K., Winer J., Ferrara N. The Vascular Endothelial Growth Factor Proteins: Identification of Biologically Relevant Regions by Neutralizing Monoclonal Antibodies. Growth Factors. 1992;7:53–64. doi: 10.3109/08977199209023937.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/08977199209023937</ArticleId>
+            <ArticleId IdType="pubmed">1380254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Varey A.H.R., Rennel E.S., Qiu Y., Bevan H.S., Perrin R.M., Raffy S., Dixon A.R., Paraskeva C., Zaccheo O., Hassan A.B., et al.  VEGF165b, an antiangiogenic VEGF-A isoform, binds and inhibits bevacizumab treatment in experimental colorectal carcinoma: Balance of pro- and antiangiogenic VEGF-A isoforms has implications for therapy. Br. J. Cancer. 2008;98:1366–1379. doi: 10.1038/sj.bjc.6604308.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/sj.bjc.6604308</ArticleId>
+            <ArticleId IdType="pmc">PMC2361696</ArticleId>
+            <ArticleId IdType="pubmed">18349829</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Simon T., Gagliano T., Giamas G. Direct Effects of Anti-Angiogenic Therapies on Tumor Cells: VEGF Signaling. Trends Mol. Med. 2017;23:282–292. doi: 10.1016/j.molmed.2017.01.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molmed.2017.01.002</ArticleId>
+            <ArticleId IdType="pubmed">28162910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang S., Zhao J., Sun X. Resistance to anti-VEGF therapy in neovascular age-related macular degeneration : A comprehensive review. Drug Des. Dev. Ther. 2016:1857–1867. doi: 10.2147/DDDT.S97653.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2147/DDDT.S97653</ArticleId>
+            <ArticleId IdType="pmc">PMC4898027</ArticleId>
+            <ArticleId IdType="pubmed">27330279</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bahrami B., Zhu M., Hong T., Chang A. Diabetic macular oedema: Pathophysiology, management challenges and treatment resistance. Diabetologia. 2016;59:1594–1608. doi: 10.1007/s00125-016-3974-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00125-016-3974-8</ArticleId>
+            <ArticleId IdType="pubmed">27179659</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schmidinger M. Understanding and managing toxicities of vascular endothelial growth factor (VEGF) inhibitors. Eur. J. Cancer Suppl. 2013;11:172–191. doi: 10.1016/j.ejcsup.2013.07.016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejcsup.2013.07.016</ArticleId>
+            <ArticleId IdType="pmc">PMC4041401</ArticleId>
+            <ArticleId IdType="pubmed">26217127</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carter J.J., Fretwell L.V., Woolard J. Effects of 4 multitargeted receptor tyrosine kinase inhibitors on regional hemodynamics in conscious, freely moving rats. FASEB J. 2017;31:1193–1203. doi: 10.1096/fj.201600749R.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1096/fj.201600749R</ArticleId>
+            <ArticleId IdType="pmc">PMC5295730</ArticleId>
+            <ArticleId IdType="pubmed">27986807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

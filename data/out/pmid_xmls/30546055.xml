@@ -1,0 +1,1547 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">30546055</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>12</Month>
+        <Day>13</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1471-0080</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>20</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nature reviews. Molecular cell biology</Title>
+          <ISOAbbreviation>Nat Rev Mol Cell Biol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Hippo-YAP/TAZ signalling in organ regeneration and regenerative medicine.</ArticleTitle>
+        <Pagination>
+          <StartPage>211</StartPage>
+          <EndPage>226</EndPage>
+          <MedlinePgn>211-226</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41580-018-0086-y</ELocationID>
+        <Abstract>
+          <AbstractText>The Hippo pathway and its downstream effectors, the transcriptional co-activators Yes-associated protein (YAP) and transcriptional co-activator with PDZ-binding motif (TAZ), regulate organ growth and cell plasticity during animal development and regeneration. Remarkably, experimental activation of YAP/TAZ in the mouse can promote regeneration in organs with poor or compromised regenerative capacity, such as the adult heart and the liver and intestine of old or diseased mice. However, therapeutic YAP/TAZ activation may cause serious side effects. Most notably, YAP/TAZ are hyperactivated in human cancers, and prolonged activation of YAP/TAZ triggers cancer development in mice. Thus, can the power of YAP/TAZ to promote regeneration be harnessed in a safe way? Here, we review the role of Hippo signalling in animal regeneration, examine the promises and risks of YAP/TAZ activation for regenerative medicine and discuss strategies to activate YAP/TAZ for regenerative therapy while minimizing adverse side effects.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Moya</LastName>
+            <ForeName>Iván M</ForeName>
+            <Initials>IM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Facultad de Ingeniería y Ciencias Aplicadas, Universidad de Las Americas, Quito, Ecuador. ivan.moya.molina@udla.edu.ec.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>VIB Center for Cancer Biology, and KU Leuven Department of Oncology, University of Leuven, Leuven, Belgium. ivan.moya.molina@udla.edu.ec.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Halder</LastName>
+            <ForeName>Georg</ForeName>
+            <Initials>G</Initials>
+            <Identifier Source="ORCID">0000-0001-7580-3236</Identifier>
+            <AffiliationInfo>
+              <Affiliation>VIB Center for Cancer Biology, and KU Leuven Department of Oncology, University of Leuven, Leuven, Belgium. georg.halder@vib.be.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Nat Rev Mol Cell Biol</MedlineTA>
+        <NlmUniqueID>100962782</NlmUniqueID>
+        <ISSNLinking>1471-0072</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D048868">Adaptor Proteins, Signal Transducing</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="D017346">Protein Serine-Threonine Kinases</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D048868" MajorTopicYN="N">Adaptor Proteins, Signal Transducing</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017346" MajorTopicYN="N">Protein Serine-Threonine Kinases</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D044968" MajorTopicYN="N">Regenerative Medicine</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014157" MajorTopicYN="N">Transcription Factors</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30546055</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41580-018-0086-y</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41580-018-0086-y</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Baddour, J. A., Sousounis, K. &amp; Tsonis, P. A. Organ repair and regeneration: an overview. Birth Defects Res. C Embryo Today 96, 1–29 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22457174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muneoka, K., Allan, C. H., Yang, X., Lee, J. &amp; Han, M. Mammalian regeneration and regenerative medicine. Birth Defects Res. C Embryo Today 84, 265–280 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19067422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mao, A. S. &amp; Mooney, D. J. Regenerative medicine: Current therapies and future directions. Proc. Natl Acad. Sci. USA 112, 14452–14459 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26598661</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pasumarthi, K. B., Nakajima, H., Nakajima, H. O., Soonpaa, M. H. &amp; Field, L. J. Targeted expression of cyclin D2 results in cardiomyocyte DNA synthesis and infarct regression in transgenic mice. Circ. Res. 96, 110–118 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15576649</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hassink, R. J. et al. Cardiomyocyte cell cycle activation improves cardiac function after myocardial infarction. Cardiovasc. Res. 78, 18–25 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18079102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kuhn, B. et al. Periostin induces proliferation of differentiated cardiomyocytes and promotes cardiac repair. Nat. Med. 13, 962–969 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17632525</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Engel, F. B., Hsieh, P. C., Lee, R. T. &amp; Keating, M. T. FGF1/p38 MAP kinase inhibitor therapy induces cardiomyocyte mitosis, reduces scarring, and rescues function after myocardial infarction. Proc. Natl Acad. Sci. USA 103, 15546–15551 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17032753</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trounson, A. &amp; McDonald, C. Stem cell therapies in clinical trials: progress and challenges. Cell Stem Cell 17, 11–22 (2015).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Juan, W. C. &amp; Hong, W. Targeting the Hippo signaling pathway for tissue regeneration and cancer therapy. Genes 7, 55 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">5042386</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Patel, S. H., Camargo, F. D. &amp; Yimlamai, D. Hippo signaling in the liver regulates organ size, cell fate, and carcinogenesis. Gastroenterology 152, 533–545 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28003097</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moya, I. M. &amp; Halder, G. The Hippo pathway in cellular reprogramming and regeneration of different organs. Curr. Opin. Cell Biol. 43, 62–68 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27592171</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Johnson, R. &amp; Halder, G. The two faces of Hippo: targeting the Hippo pathway for regenerative medicine and cancer treatment. Nat. Rev. Drug Discov. 13, 63–79 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24336504</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heallen, T. et al. Hippo signaling impedes adult heart regeneration. Development 140, 4683–4690 (2013). This paper shows that Hippo signalling is an endogenous repressor of adult cardiomyocyte renewal and regeneration and that Hippo deficiency enhances cardiomyocyte regeneration after adult myocardial infarction.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24255096</ArticleId>
+            <ArticleId IdType="pmc">3833428</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xin, M. et al. Hippo pathway effector Yap promotes cardiac regeneration. Proc. Natl Acad. Sci. USA 110, 13839–13844 (2013). This paper demonstrates that forced expression of constitutively active YAP-1SA stimulates cardiac regeneration in the adult heart through the activation of embryonic and proliferative gene programmes in cardiomyocytes.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23918388</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin, Z. et al. Cardiac-specific YAP activation improves cardiac function and survival in an experimental murine MI model. Circ. Res. 115, 354–363 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24833660</ArticleId>
+            <ArticleId IdType="pmc">4104149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morikawa, Y., Heallen, T., Leach, J., Xiao, Y. &amp; Martin, J. F. Dystrophin-glycoprotein complex sequesters Yap to inhibit cardiomyocyte proliferation. Nature 547, 227–231 (2017). This paper demonstrates that the dystrophin–glycoprotein complex component dystroglycan 1 directly binds to the Hippo pathway effector YAP to inhibit cardiomyocyte proliferation in mice.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28581498</ArticleId>
+            <ArticleId IdType="pmc">5528853</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>von Gise, A. et al. YAP1, the nuclear target of Hippo signaling, stimulates heart growth through cardiomyocyte proliferation but not hypertrophy. Proc. Natl Acad. Sci. USA 109, 2394–2399 (2012). In this study, fetal activation of YAP1 is shown to stimulate cardiomyocyte proliferation in postnatal hearts.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Loforese, G. et al. Impaired liver regeneration in aged mice can be rescued by silencing Hippo core kinases MST1 and MST2. EMBO Mol. Med. 9, 46–60 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27940445</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lu, L., Finegold, M. J. &amp; Johnson, R. L. Hippo pathway coactivators Yap and Taz are required to coordinate mammalian liver regeneration. Exp. Mol. Med. 50, e423 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29303509</ArticleId>
+            <ArticleId IdType="pmc">5992983</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zanconato, F., Cordenonsi, M. &amp; Piccolo, S. YAP/TAZ at the roots of cancer. Cancer Cell 29, 783–803 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27300434</ArticleId>
+            <ArticleId IdType="pmc">6186419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harvey, K. F., Zhang, X. &amp; Thomas, D. M. The Hippo pathway and human cancer. Nat. Rev. Cancer 13, 246–257 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23467301</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tapon, N. et al. salvador promotes both cell cycle exit and apoptosis in Drosophila and is mutated in human cancer cell lines. Cell 110, 467–478 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12202036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harvey, K. F., Pfleger, C. M. &amp; Hariharan, I. K. The Drosophila Mst ortholog, hippo, restricts growth and cell proliferation and promotes apoptosis. Cell 114, 457–467 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12941274</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Udan, R. S., Kango-Singh, M., Nolo, R., Tao, C. &amp; Halder, G. Hippo promotes proliferation arrest and apoptosis in the Salvador/Warts pathway. Nat. Cell Biol. 5, 914–920 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14502294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pantalacci, S., Tapon, N. &amp; Leopold, P. The Salvador partner Hippo promotes apoptosis and cell-cycle exit in Drosophila. Nat. Cell Biol. 5, 921–927 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14502295</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu, S., Huang, J., Dong, J. &amp; Pan, D. hippo encodes a Ste-20 family protein kinase that restricts cell proliferation and promotes apoptosis in conjunction with salvador and warts. Cell 114, 445–456 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12941273</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Justice, R. W., Zilian, O., Woods, D. F., Noll, M. &amp; Bryant, P. J. The Drosophila tumor suppressor gene warts encodes a homolog of human myotonic dystrophy kinase and is required for the control of cell shape and proliferation. Genes Dev. 9, 534–546 (1995).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7698644</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kango-Singh, M. et al. Shar-pei mediates cell proliferation arrest during imaginal disc growth in Drosophila. Development 129, 5719–5730 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12421711</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu, T., Wang, W., Zhang, S., Stewart, R. A. &amp; Yu, W. Identifying tumor suppressors in genetic mosaics: the Drosophila lats gene encodes a putative protein kinase. Development 121, 1053–1063 (1995).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7743921</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lai, Z. C. et al. Control of cell proliferation and apoptosis by mob as tumor suppressor, mats. Cell 120, 675–685 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15766530</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Camargo, F. D. et al. YAP1 increases organ size and expands undifferentiated progenitor cells. Curr. Biol. 17, 2054–2060 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17980593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dong, J. et al. Elucidation of a universal size-control mechanism in Drosophila and mammals. Cell 130, 1120–1133 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17889654</ArticleId>
+            <ArticleId IdType="pmc">2666353</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee, K. P. et al. The Hippo-Salvador pathway restrains hepatic oval cell proliferation, liver size, and liver tumorigenesis. Proc. Natl Acad. Sci. USA 107, 8248–8253 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20404163</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lu, L. et al. Hippo signaling is a potent in vivo growth and tumor suppressor pathway in the mammalian liver. Proc. Natl Acad. Sci. USA 107, 1437–1442 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20080689</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Song, H. et al. Mammalian Mst1 and Mst2 kinases play essential roles in organ size control and tumor suppression. Proc. Natl Acad. Sci. USA 107, 1431–1436 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20080598</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang, N. et al. The Merlin/NF2 tumor suppressor functions through the YAP oncoprotein to regulate tissue homeostasis in mammals. Dev. Cell 19, 27–38 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20643348</ArticleId>
+            <ArticleId IdType="pmc">2925178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou, D. et al. Mst1 and Mst2 maintain hepatocyte quiescence and suppress the development of hepatocellular carcinoma through inactivation of the Yap1 oncogene. Cancer Cell 16, 425–438 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19878874</ArticleId>
+            <ArticleId IdType="pmc">3023165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee, J. H. et al. A crucial role of WW45 in developing epithelial tissues in the mouse. EMBO J. 27, 1231–1242 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18369314</ArticleId>
+            <ArticleId IdType="pmc">2367404</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meng, Z., Moroishi, T. &amp; Guan, K. L. Mechanisms of Hippo pathway regulation. Genes Dev. 30, 1–17 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26728553</ArticleId>
+            <ArticleId IdType="pmc">4701972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goulev, Y. et al. SCALLOPED interacts with YORKIE, the nuclear effector of the hippo tumor-suppressor pathway in Drosophila. Curr. Biol. 18, 435–441 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18313299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oh, H. et al. Genome-wide association of Yorkie with chromatin and chromatin remodeling complexes. Cell Rep. 3, 309–318 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23395637</ArticleId>
+            <ArticleId IdType="pmc">3633442</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ikmi, A. et al. Molecular evolution of the Yap/Yorkie proto-oncogene and elucidation of its core transcriptional program. Mol. Biol. Evol. 31, 1375–1390 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24509725</ArticleId>
+            <ArticleId IdType="pmc">4032125</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Galli, G. G. et al. YAP drives growth by controlling transcriptional pause release from dynamic enhancers. Mol. Cell 60, 328–337 (2015). This study shows that YAP modulates transcription from superenhancer elements predominantly by regulating promoter-proximal Pol II pause release.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26439301</ArticleId>
+            <ArticleId IdType="pmc">4624327</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qing, Y. et al. The Hippo effector Yorkie activates transcription by interacting with a histone methyltransferase complex through Ncoa6. Elife 3, e02564 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">4118621</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zanconato, F. et al. Genome-wide association between YAP/TAZ/TEAD and AP-1 at enhancers drives oncogenic growth. Nat. Cell Biol. 17, 1218–1227 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26258633</ArticleId>
+            <ArticleId IdType="pmc">6186417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao, B. et al. TEAD mediates YAP-dependent gene induction and growth control. Genes Dev. 22, 1962–1971 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18579750</ArticleId>
+            <ArticleId IdType="pmc">2492741</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stein, C. et al. YAP1 exerts its transcriptional control via TEAD-mediated activation of enhancers. PLOS Genet. 11, e1005465 (2015). This study shows that YAP/TAZ–TEAD and AP-1 form a complex that synergistically activates target genes directly involved in the control of S phase entry and mitosis.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26295846</ArticleId>
+            <ArticleId IdType="pmc">4546604</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mudryj, M. et al. Cell cycle regulation of the E2F transcription factor involves an interaction with cyclin A. Cell 65, 1243–1253 (1991).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1829647</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ehmer, U. et al. Organ size control is dominant over Rb family inactivation to restrict proliferation in vivo. Cell Rep. 8, 371–381 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25017070</ArticleId>
+            <ArticleId IdType="pmc">4128252</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Verfaillie, A. et al. Decoding the regulatory landscape of melanoma reveals TEADS as regulators of the invasive cell state. Nat. Commun. 6, 6683 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25865119</ArticleId>
+            <ArticleId IdType="pmc">4403341</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu, X. et al. Tead and AP1 coordinate transcription and motility. Cell Rep. 14, 1169–1180 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26832411</ArticleId>
+            <ArticleId IdType="pmc">4749442</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Strano, S. et al. The transcriptional coactivator Yes-associated protein drives p73 gene-target specificity in response to DNA Damage. Mol. Cell 18, 447–459 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15893728</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yagi, R., Chen, L. F., Shigesada, K., Murakami, Y. &amp; Ito, Y. A WW domain-containing yes-associated protein (YAP) is a novel transcriptional co-activator. EMBO J. 18, 2551–2562 (1999).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10228168</ArticleId>
+            <ArticleId IdType="pmc">1171336</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Murakami, M., Nakagawa, M., Olson, E. N. &amp; Nakagawa, O. A. WW domain protein TAZ is a critical coactivator for TBX5, a transcription factor implicated in Holt-Oram syndrome. Proc. Natl Acad. Sci. USA 102, 18034–18039 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16332960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rosenbluh, J. et al. β-Catenin-driven cancers require a YAP1 transcriptional complex for survival and tumorigenesis. Cell 151, 1457–1473 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23245941</ArticleId>
+            <ArticleId IdType="pmc">3530160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Callus, B. A., Verhagen, A. M. &amp; Vaux, D. L. Association of mammalian sterile twenty kinases, Mst1 and Mst2, with hSalvador via C-terminal coiled-coil domains, leads to its stabilization and phosphorylation. FEBS J. 273, 4264–4276 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16930133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chan, E. H. et al. The Ste20-like kinase Mst2 activates the human large tumor suppressor kinase Lats1. Oncogene 24, 2076–2086 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15688006</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hergovich, A., Schmitz, D. &amp; Hemmings, B. A. The human tumour suppressor LATS1 is activated by human MOB1 at the membrane. Biochem. Biophys. Res. Commun. 345, 50–58 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16674920</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yin, F. et al. Spatial organization of Hippo signaling at the plasma membrane mediated by the tumor suppressor Merlin/NF2. Cell 154, 1342–1355 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24012335</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meng, Z. et al. MAP4K family kinases act in parallel to MST1/2 to activate LATS1/2 in the Hippo pathway. Nat. Commun. 6, 8357 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26437443</ArticleId>
+            <ArticleId IdType="pmc">4600732</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zheng, Y. et al. Identification of Happyhour/MAP4K as alternative Hpo/Mst-like kinases in the Hippo kinase cascade. Dev. Cell 34, 642–655 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26364751</ArticleId>
+            <ArticleId IdType="pmc">4589524</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li, Q. et al. The conserved misshapen-warts-Yorkie pathway acts in enteroblasts to regulate intestinal stem cells in Drosophila. Dev. Cell 31, 291–304 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25453828</ArticleId>
+            <ArticleId IdType="pmc">4254555</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vassilev, A., Kaneko, K. J., Shu, H., Zhao, Y. &amp; DePamphilis, M. L. TEAD/TEF transcription factors utilize the activation domain of YAP65, a Src/Yes-associated protein localized in the cytoplasm. Genes Dev. 15, 1229–1241 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11358867</ArticleId>
+            <ArticleId IdType="pmc">313800</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang, L. et al. The TEAD/TEF family of transcription factor Scalloped mediates Hippo signaling in organ size control. Dev. Cell 14, 377–387 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18258485</ArticleId>
+            <ArticleId IdType="pmc">2292673</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu, S., Liu, Y., Zheng, Y., Dong, J. &amp; Pan, D. The TEAD/TEF family protein Scalloped mediates transcriptional output of the Hippo growth-regulatory pathway. Dev. Cell 14, 388–398 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18258486</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao, B. et al. Inactivation of YAP oncoprotein by the Hippo pathway is involved in cell contact inhibition and tissue growth control. Genes Dev. 21, 2747–2761 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17974916</ArticleId>
+            <ArticleId IdType="pmc">2045129</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao, B., Li, L., Tumaneng, K., Wang, C. Y. &amp; Guan, K. L. A coordinated phosphorylation by Lats and CK1 regulates YAP stability through SCF(β-TRCP). Genes Dev. 24, 72–85 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20048001</ArticleId>
+            <ArticleId IdType="pmc">2802193</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lei, Q. Y. et al. TAZ promotes cell proliferation and epithelial-mesenchymal transition and is inhibited by the hippo pathway. Mol. Cell. Biol. 28, 2426–2436 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18227151</ArticleId>
+            <ArticleId IdType="pmc">2268418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu, C. Y. et al. The hippo tumor pathway promotes TAZ degradation by phosphorylating a phosphodegron and recruiting the SCF<sup>β-TrCP</sup> E3 ligase. J. Biol. Chem. 285, 37159–37169 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20858893</ArticleId>
+            <ArticleId IdType="pmc">2988322</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim, N. G. &amp; Gumbiner, B. M. Adhesion to fibronectin regulates Hippo signaling via the FAK-Src-PI3K pathway. J. Cell Biol. 210, 503–515 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26216901</ArticleId>
+            <ArticleId IdType="pmc">4523609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao, B. et al. Cell detachment activates the Hippo pathway via cytoskeleton reorganization to induce anoikis. Genes Dev. 26, 54–68 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22215811</ArticleId>
+            <ArticleId IdType="pmc">3258966</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schlegelmilch, K. et al. Yap1 acts downstream of alpha-catenin to control epidermal proliferation. Cell 144, 782–795 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21376238</ArticleId>
+            <ArticleId IdType="pmc">3237196</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Silvis, M. R. et al. α-catenin is a tumor suppressor that controls cell accumulation by regulating the localization and activity of the transcriptional coactivator Yap1. Sci. Signal 4, ra33 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21610251</ArticleId>
+            <ArticleId IdType="pmc">3366274</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim, N. G., Koh, E., Chen, X. &amp; Gumbiner, B. M. E-cadherin mediates contact inhibition of proliferation through Hippo signaling-pathway components. Proc. Natl Acad. Sci. USA 108, 11930–11935 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21730131</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wada, K.-I., Itoga, K., Okano, T., Yonemura, S. &amp; Sasaki, H. Hippo pathway regulation by cell morphology and stress fibers. Development 138, 3907–3914 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21831922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dupont, S. et al. Role of YAP/TAZ in mechanotransduction. Nature 474, 179–183 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21654799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aragona, M. et al. A mechanical checkpoint controls multicellular growth through YAP/TAZ regulation by actin-processing factors. Cell 154, 1047–1059 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23954413</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen, C. L. et al. The apical-basal cell polarity determinant Crumbs regulates Hippo signaling in Drosophila. Proc. Natl Acad. Sci. USA 107, 15810–15815 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20798049</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun, G. &amp; Irvine, K. D. Regulation of Hippo signaling by Jun kinase signaling during compensatory cell proliferation and regeneration, and in neoplastic tumors. Dev. Biol. 350, 139–151 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21145886</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Varelas, X. et al. The Crumbs complex couples cell density sensing to Hippo-dependent control of the TGF-beta-SMAD pathway. Dev. Cell 19, 831–844 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21145499</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grzeschik, N. A., Parsons, L. M., Allott, M. L., Harvey, K. F. &amp; Richardson, H. E. Lgl, aPKC, and Crumbs regulate the Salvador/Warts/Hippo pathway through two distinct mechanisms. Curr. Biol. 20, 573–581 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20362447</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Robinson, B. S., Huang, J., Hong, Y. &amp; Moberg, K. H. Crumbs regulates Salvador/Warts/Hippo signaling in Drosophila via the FERM-domain protein Expanded. Curr. Biol. 20, 582–590 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20362445</ArticleId>
+            <ArticleId IdType="pmc">2855393</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu, J. et al. Kibra functions as a tumor suppressor protein that regulates Hippo signaling in conjunction with Merlin and Expanded. Dev. Cell 18, 288–299 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20159598</ArticleId>
+            <ArticleId IdType="pmc">2858562</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baumgartner, R., Poernbacher, I., Buser, N., Hafen, E. &amp; Stocker, H. The WW domain protein Kibra acts upstream of Hippo in Drosophila. Dev. Cell 18, 309–316 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20159600</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genevet, A., Wehr, M. C., Brain, R., Thompson, B. J. &amp; Tapon, N. Kibra is a regulator of the Salvador/Warts/Hippo signaling network. Dev. Cell 18, 300–308 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20159599</ArticleId>
+            <ArticleId IdType="pmc">2845807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mohseni, M. et al. A genetic screen identifies an LKB1-MARK signalling axis controlling the Hippo-YAP pathway. Nat. Cell Biol. 16, 108–117 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24362629</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ling, C. et al. The apical transmembrane protein Crumbs functions as a tumor suppressor that regulates Hippo signaling by binding to Expanded. Proc. Natl Acad. Sci. USA 107, 10532–10537 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20498073</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen, C. L., Schroeder, M. C., Kango-Singh, M., Tao, C. &amp; Halder, G. Tumor suppression by cell competition through regulation of the Hippo pathway. Proc. Natl Acad. Sci. USA 109, 484–489 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22190496</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hamaratoglu, F. et al. The tumour-suppressor genes NF2/Merlin and Expanded act through Hippo signalling to regulate cell proliferation and apoptosis. Nat. Cell Biol. 8, 27–36 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16341207</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mo, J. S. et al. Cellular energy stress induces AMPK-mediated regulation of YAP and the Hippo pathway. Nat. Cell Biol. 17, 500–510 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25751140</ArticleId>
+            <ArticleId IdType="pmc">4380774</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang, W. et al. AMPK modulates Hippo pathway activity to regulate energy homeostasis. Nat. Cell Biol. 17, 490–499 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25751139</ArticleId>
+            <ArticleId IdType="pmc">4380807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hong, A. W. et al. Osmotic stress-induced phosphorylation by NLK at Ser128 activates YAP. EMBO Rep. 18, 72–86 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27979971</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ma, B. et al. Hypoxia regulates Hippo signalling through the SIAH2 ubiquitin E3 ligase. Nat. Cell Biol. 17, 95–103 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25438054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun, S., Reddy, B. V. V. G. &amp; Irvine, K. D. Localization of Hippo signalling complexes and Warts activation in vivo. Nat. Commun. 6, 8402 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26420589</ArticleId>
+            <ArticleId IdType="pmc">4598633</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang, W., Huang, J. &amp; Chen, J. Angiomotin-like proteins associate with and negatively regulate YAP1. J. Biol. Chem. 286, 4364–4370 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21187284</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao, B. et al. Angiomotin is a novel Hippo pathway component that inhibits YAP oncoprotein. Genes Dev. 25, 51–63 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21205866</ArticleId>
+            <ArticleId IdType="pmc">3012936</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Karaman, R. &amp; Halder, G. Cell junctions in Hippo signaling. Cold Spring Harb. Perspect Biol. 10, a028753 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28600393</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chan, S. W. et al. Hippo pathway-independent restriction of TAZ and YAP by angiomotin. J. Biol. Chem. 286, 7018–7026 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21224387</ArticleId>
+            <ArticleId IdType="pmc">3044958</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Das Thakur, M. et al. Ajuba LIM proteins are negative regulators of the Hippo signaling pathway. Curr. Biol. 20, 657–662 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20303269</ArticleId>
+            <ArticleId IdType="pmc">2855397</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rauskolb, C., Sun, S., Sun, G., Pan, Y. &amp; Irvine, K. D. Cytoskeletal tension inhibits Hippo signaling through an Ajuba-Warts complex. Cell 158, 143–156 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24995985</ArticleId>
+            <ArticleId IdType="pmc">4082802</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang, K. C. et al. Flow-dependent YAP/TAZ activities regulate endothelial phenotypes and atherosclerosis. Proc. Natl Acad. Sci. USA 113, 11525–11530 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27671657</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang, L. et al. Integrin-YAP/TAZ-JNK cascade mediates atheroprotective effect of unidirectional shear flow. Nature 540, 579–582 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27926730</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sansores-Garcia, L. et al. Modulating F-actin organization induces organ growth by affecting the Hippo pathway. EMBO J. 30, 2325–2335 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21556047</ArticleId>
+            <ArticleId IdType="pmc">3116287</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fernandez, B. G. et al. Actin-capping protein and the Hippo pathway regulate F-actin and tissue growth in Drosophila. Development 138, 2337–2346 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21525075</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Elosegui-Artola, A. et al. Force triggers YAP nuclear entry by regulating transport across nuclear pores. Cell 171, 1397–1410 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29107331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu, F.-X. et al. Regulation of the Hippo-YAP pathway by G-protein coupled receptor signaling. Cell 150, 780–791 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22863277</ArticleId>
+            <ArticleId IdType="pmc">3433174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miller, E. et al. Identification of serum-derived sphingosine-1-phosphate as a small molecule regulator of YAP. Chem. Biol. 19, 955–962 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22884261</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Azzolin, L. et al. YAP/TAZ incorporation in the beta-catenin destruction complex orchestrates the Wnt response. Cell 158, 157–170 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24976009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Park, H. W. et al. Alternative Wnt signaling activates YAP/TAZ. Cell 162, 780–794 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26276632</ArticleId>
+            <ArticleId IdType="pmc">4538707</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cai, J., Maitra, A., Anders, R. A., Taketo, M. M. &amp; Pan, D. β-catenin destruction complex-independent regulation of Hippo-YAP signaling by APC in intestinal tumorigenesis. Genes Dev. 29, 1493–1506 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26193883</ArticleId>
+            <ArticleId IdType="pmc">4526734</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Levy, D., Adamovich, Y., Reuven, N. &amp; Shaul, Y. Yap1 phosphorylation by c-Abl is a critical step in selective activation of proapoptotic genes in response to DNA damage. Mol. Cell 29, 350–361 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18280240</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taniguchi, K. et al. A gp130-Src-YAP module links inflammation to epithelial regeneration. Nature 519, 57–62 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25731159</ArticleId>
+            <ArticleId IdType="pmc">4447318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fan, R., Kim, N. G. &amp; Gumbiner, B. M. Regulation of Hippo pathway by mitogenic growth factors via phosphoinositide 3-kinase and phosphoinositide-dependent kinase-1. Proc. Natl Acad. Sci. USA 110, 2569–2574 (2013). This study demonstrates that treatment with the reversible MST1/MST2 inhibitor XMU-MP-1 can promote mouse intestinal and liver regeneration by hyperactivating YAP.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23359693</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hong, A. W., Meng, Z. &amp; Guan, K. L. The Hippo pathway in intestinal regeneration and disease. Nat. Rev. Gastroenterol. Hepatol. 13, 324–337 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27147489</ArticleId>
+            <ArticleId IdType="pmc">5642988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiao, Y., Leach, J., Wang, J. &amp; Martin, J. F. Hippo/Yap signaling in cardiac development and regeneration. Curr. Treat. Options Cardiovasc. Med. 18, 38 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27040401</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang, Y. &amp; Del, Re,D. P. A growing role for the Hippo signaling pathway in the heart. J. Mol. Med. 95, 465–472 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28280861</ArticleId>
+            <ArticleId IdType="pmc">5404975</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Benhamouche, S. et al. Nf2/Merlin controls progenitor homeostasis and tumorigenesis in the liver. Genes Dev. 24, 1718–1730 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20675406</ArticleId>
+            <ArticleId IdType="pmc">2922501</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boggiano, J. C., Vanderzalm, P. J. &amp; Fehon, R. G. Tao-1 phosphorylates Hippo/MST kinases to regulate the Hippo-Salvador-Warts tumor suppressor pathway. Dev. Cell 21, 888–895 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22075147</ArticleId>
+            <ArticleId IdType="pmc">3217187</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heallen, T. et al. Hippo pathway inhibits Wnt signaling to restrain cardiomyocyte proliferation and heart size. Science 332, 458–461 (2011). In this study, embryonic deletion of Hippo core kinases is shown to induce cardiomyocyte proliferation and heart overgrowth by interaction of the Hippo effector YAP with β-catenin on Sox2 and Snai2 genes.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21512031</ArticleId>
+            <ArticleId IdType="pmc">3133743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao, R. et al. Yap tunes airway epithelial size and architecture by regulating the identity, maintenance, and self-renewal of stem cells. Dev. Cell 30, 151–165 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25043474</ArticleId>
+            <ArticleId IdType="pmc">4130488</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang, H., Pasolli, H. A. &amp; Fuchs, E. Yes-associated protein (YAP) transcriptional coactivator functions in balancing growth and differentiation in skin. Proc. Natl Acad. Sci. USA 108, 2270–2275 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21262812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou, D. et al. Mst1 and Mst2 protein kinases restrain intestinal stem cell proliferation and colonic tumorigenesis by inhibition of Yes-associated protein (Yap) overabundance. Proc. Natl Acad. Sci. USA 108, E1312–E1320 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22042863</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morin-Kensicki, E. M. et al. Defects in yolk sac vasculogenesis, chorioallantoic fusion, and embryonic axis elongation in mice with targeted disruption of Yap65. Mol. Cell. Biol. 26, 77–87 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16354681</ArticleId>
+            <ArticleId IdType="pmc">1317614</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Makita, R. et al. Multiple renal cysts, urinary concentration defects, and pulmonary emphysematous changes in mice lacking TAZ. Am. J. Physiol. Renal Physiol. 294, F542–F553 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18172001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mitani, A. et al. Transcriptional coactivator with PDZ-binding motif is essential for normal alveolarization in mice. Am. J. Respir. Crit. Care Med. 180, 326–338 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19498055</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hossain, Z. et al. Glomerulocystic kidney disease in mice with a targeted inactivation of Wwtr1. Proc. Natl Acad. Sci. USA 104, 1631–1636 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17251353</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nishioka, N. et al. The Hippo signaling pathway components Lats and Yap pattern Tead4 activity to distinguish mouse trophectoderm from inner cell mass. Dev. Cell 16, 398–410 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19289085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xin, M. et al. Regulation of insulin-like growth factor signaling by Yap governs cardiomyocyte proliferation and embryonic heart size. Sci. Signal 4, ra70 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22028467</ArticleId>
+            <ArticleId IdType="pmc">3440872</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang, X. et al. YAP/TAZ orchestrate VEGF signaling during developmental angiogenesis. Dev. Cell 42, 462–478 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28867486</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim, J. et al. YAP/TAZ regulates sprouting angiogenesis and vascular barrier maturation. J. Clin. Invest. 127, 3441–3461 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28805663</ArticleId>
+            <ArticleId IdType="pmc">5669570</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mahoney, J. E., Mori, M., Szymaniak, A. D., Varelas, X. &amp; Cardoso, W. V. The hippo pathway effector Yap controls patterning and differentiation of airway epithelial progenitors. Dev. Cell 30, 137–150 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25043473</ArticleId>
+            <ArticleId IdType="pmc">6331061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reginensi, A. et al. A critical role for NF2 and the Hippo pathway in branching morphogenesis. Nat. Commun. 7, 12309 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27480037</ArticleId>
+            <ArticleId IdType="pmc">4974664</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cai, J. et al. The Hippo signaling pathway restricts the oncogenic potential of an intestinal regeneration program. Genes Dev. 24, 2383–2388 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21041407</ArticleId>
+            <ArticleId IdType="pmc">2964748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yui, S. et al. YAP/TAZ-dependent reprogramming of colonic epithelium links ECM remodeling to tissue regeneration. Cell Stem Cell 22, 35–49 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29249464</ArticleId>
+            <ArticleId IdType="pmc">5766831</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yimlamai, D. et al. Hippo pathway activity influences liver cell fate. Cell 157, 1324–1338 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24906150</ArticleId>
+            <ArticleId IdType="pmc">4136468</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shen, Z. &amp; Stanger, B. Z. YAP regulates S-phase entry in endothelial cells. PLOS ONE 10, e0117522 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25635998</ArticleId>
+            <ArticleId IdType="pmc">4312014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mizuno, T. et al. YAP induces malignant mesothelioma cell proliferation by upregulating transcription of cell cycle-promoting genes. Oncogene 31, 5117–5122 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22286761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kapoor, A. et al. Yap1 activation enables bypass of oncogenic Kras addiction in pancreatic cancer. Cell 158, 185–197 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24954535</ArticleId>
+            <ArticleId IdType="pmc">4109295</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lian, I. et al. The role of YAP transcription coactivator in regulating stem cell self-renewal and differentiation. Genes Dev. 24, 1106–1118 (2010). This study shows that YAP is inactivated during ES cell differentiation and elevated during iPS cell reprogramming.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20516196</ArticleId>
+            <ArticleId IdType="pmc">2878649</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qin, H. et al. YAP induces human naive pluripotency. Cell Rep. 14, 2301–2312 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26947063</ArticleId>
+            <ArticleId IdType="pmc">4807727</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Quinn, J., Kunath, T. &amp; Rossant, J. Mouse trophoblast stem cells. Methods Mol. Med. 121, 125–148 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16251740</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qin, H. et al. Transcriptional analysis of pluripotency reveals the Hippo pathway as a barrier to reprogramming. Hum. Mol. Genet. 21, 2054–2067 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22286172</ArticleId>
+            <ArticleId IdType="pmc">3315209</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chung, H. et al. Yap1 is dispensable for self-renewal but required for proper differentiation of mouse embryonic stem (ES) cells. EMBO Rep. 17, 519–529 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26917425</ArticleId>
+            <ArticleId IdType="pmc">4818770</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li, P. et al. Functional role of Mst1/Mst2 in embryonic stem cell differentiation. PLOS ONE 8, e79867 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24224013</ArticleId>
+            <ArticleId IdType="pmc">3818222</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Panciera, T. et al. Induction of expandable tissue-specific stem/progenitor cells through transient expression of YAP/TAZ. Cell Stem Cell 19, 725–737 (2016). This study demonstrates that transient expression of exogenous YAP or TAZ in primary differentiated mouse cells can induce conversion to a tissue-specific stem or progenitor cell state in mammary gland, neuronal and pancreatic exocrine cells.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27641305</ArticleId>
+            <ArticleId IdType="pmc">5145813</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Totaro, A. et al. YAP/TAZ link cell mechanics to Notch signalling to control epidermal stem cell fate. Nat. Commun. 8, 15206 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28513598</ArticleId>
+            <ArticleId IdType="pmc">5442321</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee, M.-J., Byun, M. R., Furutani-Seiki, M., Hong, J.-H. &amp; Jung, H.-S. YAP and TAZ regulate skin wound healing. J. Invest. Dermatol. 134, 518–525 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24108406</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hu, J. K.-H. et al. An FAK-YAP-mTOR signaling axis regulates stem cell-based tissue renewal in mice. Cell Stem Cell 21, 91–106 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28457749</ArticleId>
+            <ArticleId IdType="pmc">5501749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Han, D. et al. YAP/TAZ enhance mammalian embryonic neural stem cell characteristics in a Tead-dependent manner. Biochem. Biophys. Res. Commun. 458, 110–116 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25634692</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Volckaert, T. et al. Fgf10-Hippo epithelial-mesenchymal crosstalk maintains and recruits lung basal stem cells. Dev. Cell 43, 48–59 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29017029</ArticleId>
+            <ArticleId IdType="pmc">5679744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fitamant, J. et al. YAP inhibition restores hepatocyte differentiation in advanced HCC, leading to tumor regression. Cell Rep. 10, 1692–1707 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25772357</ArticleId>
+            <ArticleId IdType="pmc">4565791</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grijalva, J. L. et al. Dynamic alterations in Hippo signaling pathway and YAP activation during liver regeneration. Am. J. Physiol. Gastrointest. Liver Physiol. 307, G196–G204 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24875096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bai, H. et al. Yes-associated protein regulates the hepatic response after bile duct ligation. Hepatology 56, 1097–1107 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22886419</ArticleId>
+            <ArticleId IdType="pmc">3431197</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gregorieff, A., Liu, Y., Inanlou, M. R., Khomchuk, Y. &amp; Wrana, J. L. Yap-dependent reprogramming of Lgr5<sup>+</sup> stem cells drives intestinal regeneration and cancer. Nature 526, 715–718 (2015). This study provides evidence that YAP transiently reprogrammes LGR-positive intestinal stem cells by suppressing WNT signalling while promoting an intestine regeneration programme that includes EGF pathway activation.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26503053</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barry, E. R. et al. Restriction of intestinal stem cell expansion and the regenerative response by YAP. Nature 493, 106–110 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23178811</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Elbediwy, A. et al. Integrin signalling regulates YAP and TAZ to control skin homeostasis. Development 143, 1674–1687 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26989177</ArticleId>
+            <ArticleId IdType="pmc">4874484</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mosqueira, D. et al. Hippo pathway effectors control cardiac progenitor cell fate by acting as dynamic sensors of substrate mechanics and nanostructure. ACS Nano 8, 2033–2047 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24483337</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramjee, V. et al. Epicardial YAP/TAZ orchestrate an immunosuppressive response following myocardial infarction. J. Clin. Invest. 127, 899–911 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28165342</ArticleId>
+            <ArticleId IdType="pmc">5330722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Porrello, E. R. et al. Transient regenerative potential of the neonatal mouse heart. Science 331, 1078–1080 (2011). This paper demonstrates that hearts of 1-day-old neonatal mice can regenerate after partial surgical resection, but this capacity is lost by 7 days of age.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21350179</ArticleId>
+            <ArticleId IdType="pmc">3099478</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Leach, J. P. &amp; Martin, J. F. Cardiomyocyte proliferation for therapeutic regeneration. Curr. Cardiol. Rep. 20, 63 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29904823</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schmucker, D. L. &amp; Sanchez, H. Liver regeneration and aging: a current perspective. Curr. Gerontol. Geriatr. Res. 2011, 8 (2011).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Horiguchi, N., Ishac, E. J. N. &amp; Gao, B. Liver regeneration is suppressed in alcoholic cirrhosis: correlation with decreased STAT3 activation. Alcohol 41, 271–280 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17630087</ArticleId>
+            <ArticleId IdType="pmc">1986734</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yokoyama, Y., Nagino, M. &amp; Nimura, Y. Mechanism of impaired hepatic regeneration in cholestatic liver. J. Hepatobiliary Pancreat. Surg. 14, 159–166 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17384907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ananthakrishnan, A., Gogineni, V. &amp; Saeian, K. Epidemiology of primary and secondary liver cancers. Semin. Intervent. Radiol. 23, 47–63 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21326720</ArticleId>
+            <ArticleId IdType="pmc">3036307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fan, F. et al. Pharmacological targeting of kinases MST1 and MST2 augments tissue repair and regeneration. Sci. Transl Med. 8, 352ra108 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27535619</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fausto, N. &amp; Campbell, J. S. The role of hepatocytes and oval cells in liver regeneration and repopulation. Mech. Dev. 120, 117–130 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12490302</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Okamoto, R. Epithelial regeneration in inflammatory bowel diseases. Inflamm. Regen. 31, 275–281 (2011).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fuchs, E. &amp; Chen, T. A matter of life and death: self-renewal in stem cells. EMBO Rep. 14, 39–48 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23229591</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mannaerts, I. et al. The Hippo pathway effector YAP controls mouse hepatic stellate cell activation. J. Hepatol. 63, 679–688 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25908270</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen, Q. et al. A temporal requirement for Hippo signaling in mammary gland differentiation, growth, and tumorigenesis. Genes Dev. 28, 432–437 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24589775</ArticleId>
+            <ArticleId IdType="pmc">3950341</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>George, N. M., Day, C. E., Boerner, B. P., Johnson, R. L. &amp; Sarvetnick, N. E. Hippo signaling regulates pancreas development through inactivation of Yap. Mol. Cell. Biol. 32, 5116–5128 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23071096</ArticleId>
+            <ArticleId IdType="pmc">3510525</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lavado, A. et al. Tumor suppressor Nf2 limits expansion of the neural progenitor pool by inhibiting Yap/Taz transcriptional coactivators. Development 140, 3323–3334 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23863479</ArticleId>
+            <ArticleId IdType="pmc">3737715</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin, C., Yao, E. &amp; Chuang, P. T. A conserved MST1/2-YAP axis mediates Hippo signaling during lung growth. Dev. Biol. 403, 101–113 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25912685</ArticleId>
+            <ArticleId IdType="pmc">4469623</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo, Y. et al. Functional and clinical evidence that TAZ is a candidate oncogene in hepatocellular carcinoma. J. Cell. Biochem. 116, 2465–2475 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25650113</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Han, S. X. et al. Expression and clinical significance of YAP, TAZ, and AREG in hepatocellular carcinoma. J. Immunol. Res. 2014, 261365 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24860833</ArticleId>
+            <ArticleId IdType="pmc">4016924</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim, G. J., Kim, H. &amp; Park, Y. N. Increased expression of Yes-associated protein 1 in hepatocellular carcinoma with stemness and combined hepatocellular-cholangiocarcinoma. PLOS ONE 8, e75449 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24086533</ArticleId>
+            <ArticleId IdType="pmc">3782432</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiao, H., Jiang, N., Zhou, B., Liu, Q. &amp; Du, C. TAZ regulates cell proliferation and epithelial-mesenchymal transition of human hepatocellular carcinoma. Cancer Sci. 106, 151–159 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25495189</ArticleId>
+            <ArticleId IdType="pmc">4399022</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu, M. Z. et al. Yes-associated protein is an independent prognostic marker in hepatocellular carcinoma. Cancer 115, 4576–4585 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19551889</ArticleId>
+            <ArticleId IdType="pmc">2811690</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng, H. et al. Functional genomics screen identifies YAP1 as a key determinant to enhance treatment sensitivity in lung cancer cells. Oncotarget 7, 28976–28988 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26716514</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lau, A. N. et al. Tumor-propagating cells and Yap/Taz activity contribute to lung tumor progression and metastasis. EMBO J. 33, 468–481 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24497554</ArticleId>
+            <ArticleId IdType="pmc">3989628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Noguchi, S. et al. An integrative analysis of the tumorigenic role of TAZ in human non-small cell lung cancer. Clin. Cancer Res. 20, 4660–4672 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24951773</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Su, L. L. et al. Expression of Yes-associated protein in non-small cell lung cancer and its relationship with clinical pathological factors. Chinese Med. J. 125, 4003–4008 (2012).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang, Y. et al. Overexpression of yes-associated protein contributes to progression and poor prognosis of non-small-cell lung cancer. Cancer Sci. 101, 1279–1285 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20219076</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xie, M. et al. Prognostic significance of TAZ expression in resected non-small cell lung cancer. J. Thorac. Oncol. 7, 799–807 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22481233</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cordenonsi, M. et al. The Hippo transducer TAZ confers cancer stem cell-related traits on breast cancer cells. Cell 147, 759–772 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22078877</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bartucci, M. et al. TAZ is required for metastatic activity and chemoresistance of breast cancer stem cells. Oncogene 34, 681–690 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24531710</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee, K. W. et al. Significant association of oncogene YAP1 with poor prognosis and cetuximab resistance in colorectal cancer patients. Clin. Cancer Res. 21, 357–364 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25388162</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yuen, H. F. et al. TAZ expression as a prognostic indicator in colorectal cancer. PLOS ONE 8, e54211 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23372686</ArticleId>
+            <ArticleId IdType="pmc">3553150</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baldwin, C., Garnis, C., Zhang, L. W., Rosin, M. P. &amp; Lam, W. L. Multiple microalterations detected at high frequency in oral cancer. Cancer Res. 65, 7561–7567 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16140918</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lam-Himlin, D. M. et al. The hippo pathway in human upper gastrointestinal dysplasia and carcinoma: a novel oncogenic pathway. Int. J. Gastrointest. Cancer 37, 103–109 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18175224</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feng, X. et al. Hippo-independent activation of YAP by the GNAQ uveal melanoma oncogene through a trio-regulated Rho GTPase signaling circuitry. Cancer Cell 25, 831–845 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24882515</ArticleId>
+            <ArticleId IdType="pmc">4074519</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Menzel, M. et al. In melanoma, Hippo signaling is affected by copy number alterations and YAP1 overexpression impairs patient survival. Pigment Cell Melanoma Res. 27, 671–673 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24703331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fujii, M. et al. TGF-beta synergizes with defects in the Hippo pathway to stimulate human malignant mesothelioma growth. J. Exp. Med. 209, 479–494 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22329991</ArticleId>
+            <ArticleId IdType="pmc">3302232</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang, Q. et al. TAZ promotes epithelial to mesenchymal transition via the upregulation of connective tissue growth factor expression in neuroblastoma cells. Mol. Med. Rep. 11, 982–988 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25354978</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mueller, S. et al. Evolutionary routes and KRAS dosage define pancreatic cancer phenotypes. Nature 554, 62–68 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29364867</ArticleId>
+            <ArticleId IdType="pmc">6097607</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Snijders-Keilholz, A., Ewing, P., Seynaeve, C. &amp; Burger, C. W. Primitive neuroectodermal tumor of the cervix uteri: a case report — changing concepts in therapy. Gynecol. Oncol. 98, 516–519 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15979131</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shen, S. et al. A miR-130a-YAP positive feedback loop promotes organ size and tumorigenesis. Cell Res. 25, 997–1012 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26272168</ArticleId>
+            <ArticleId IdType="pmc">4559818</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang, W. et al. YAP promotes malignant progression of Lkb1-deficient lung adenocarcinoma through downstream regulation of survivin. Cancer Res. 75, 4450–4457 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26363011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lamar, J. M. et al. The Hippo pathway target, YAP, promotes metastasis through its TEAD-interaction domain. Proc. Natl Acad. Sci. USA 109, E2441–E2450 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22891335</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bhat, K. P. et al. The transcriptional coactivator TAZ regulates mesenchymal differentiation in malignant glioma. Genes Dev. 25, 2594–2609 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22190458</ArticleId>
+            <ArticleId IdType="pmc">3248681</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Coussens, L. M. &amp; Werb, Z. Inflammation and cancer. Nature 420, 860–867 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12490959</ArticleId>
+            <ArticleId IdType="pmc">2803035</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Su, T. et al. Two-signal requirement for growth-promoting function of Yap in hepatocytes. Elife 4, e02948 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">4363878</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu, F. et al. Mechanosignaling through YAP and TAZ drives fibroblast activation and fibrosis. Am. J. Physiol. Lung Cell. Mol. Physiol. 308, L344–L357 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25502501</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liang, M. et al. Yap/Taz deletion in Gli<sup>+</sup> cell-derived myofibroblasts attenuates fibrosis. J. Am. Soc. Nephrol. 28, 3278–3290 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28768710</ArticleId>
+            <ArticleId IdType="pmc">5661271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Judson, R. N. et al. Constitutive expression of yes-associated protein (Yap) in adult skeletal muscle fibres induces muscle atrophy and myopathy. PLOS ONE 8, e59622 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23544078</ArticleId>
+            <ArticleId IdType="pmc">3609830</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Halder, G. &amp; Johnson, R. L. Hippo signaling: growth control and beyond. Development 138, 9–22 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21138973</ArticleId>
+            <ArticleId IdType="pmc">2998162</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zincarelli, C., Soltys, S., Rengo, G. &amp; Rabinowitz, J. E. Analysis of AAV serotypes 1–9 mediated gene expression and tropism in mice after systemic injection. Mol. Ther. 16, 1073–1080 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18414476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Samulski, R. J. &amp; Muzyczka, N. AAV-mediated gene therapy for research and therapeutic purposes. Annu. Rev. Virol. 1, 427–451 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26958729</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Naso, M. F., Tomkowicz, B., Perry, W. L. &amp; Strohl, W. R. Adeno-Associated Virus (AAV) as a vector for gene therapy. Biodrugs 31, 317–334 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28669112</ArticleId>
+            <ArticleId IdType="pmc">5548848</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vanrell, L. et al. Development of a liver-specific Tet-on inducible system for AAV vectors and its application in the treatment of liver cancer. Mol. Ther. 19, 1245–1253 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21364542</ArticleId>
+            <ArticleId IdType="pmc">3129565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Valon, L., Marin-Llaurado, A., Wyatt, T., Charras, G. &amp; Trepat, X. Optogenetic control of cellular forces and mechanotransduction. Nat. Commun. 8, 14396 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28186127</ArticleId>
+            <ArticleId IdType="pmc">5309899</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bassat, E. et al. The extracellular matrix protein agrin promotes heart regeneration in mice. Nature 547, 179–184 (2017). This paper shows that agrin, a component of neonatal ECM, promotes cardiac regeneration through disassembly of the dystrophin–glycoprotein complex, which stimulates signalling mediated by YAP and ERK.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28581497</ArticleId>
+            <ArticleId IdType="pmc">5769930</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mokalled, M. H. et al. Injury-induced ctgfa directs glial bridging and spinal cord regeneration in zebrafish. Science 354, 630–634 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27811277</ArticleId>
+            <ArticleId IdType="pmc">5114142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun, X. et al. The influence of connective tissue growth factor on rabbit ligament injury repair. Bone Joint Res. 6, 399–404 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28663339</ArticleId>
+            <ArticleId IdType="pmc">5782798</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhu, S. et al. Combined effects of connective tissue growth factor-modified bone marrow-derived mesenchymal stem cells and NaOH-treated PLGA scaffolds on the repair of articular cartilage defect in rabbits. Cell Transplant. 23, 715–727 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24763260</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim, K. H., Chen, C. C., Monzon, R. I. &amp; Lau, L. F. Matricellular protein CCN1 promotes regression of liver fibrosis through induction of cellular senescence in hepatic myofibroblasts. Mol. Cell. Biol. 33, 2078–2090 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23508104</ArticleId>
+            <ArticleId IdType="pmc">3647960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Choi, J. S., Kim, K. H. &amp; Lau, L. F. The matricellular protein CCN1 promotes mucosal healing in murine colitis through IL-6. Mucosal Immunol. 8, 1285–1296 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25807183</ArticleId>
+            <ArticleId IdType="pmc">4583322</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

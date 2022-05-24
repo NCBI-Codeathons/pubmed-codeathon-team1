@@ -1,0 +1,305 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35528144</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">0031-3203</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>128</Volume>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Pattern recognition</Title>
+          <ISOAbbreviation>Pattern Recognit</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Super U-Net: a modularized generalizable architecture.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">108669</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.patcog.2022.108669</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="UNASSIGNED">To develop and validate a novel convolutional neural network (CNN) termed "Super U-Net" for medical image segmentation.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="UNASSIGNED">Super U-Net integrates a dynamic receptive field module and a fusion upsampling module into the classical U-Net architecture. The model was developed and tested to segment retinal vessels, gastrointestinal (GI) polyps, skin lesions on several image types (i.e., fundus images, endoscopic images, dermoscopic images). We also trained and tested the traditional U-Net architecture, seven U-Net variants, and two non-U-Net segmentation architectures. K-fold cross-validation was used to evaluate performance. The performance metrics included Dice similarity coefficient (DSC), accuracy, positive predictive value (PPV), and sensitivity.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="UNASSIGNED">Super U-Net achieved average DSCs of 0.808±0.0210, 0.752±0.019, 0.804±0.239, and 0.877±0.135 for segmenting retinal vessels, pediatric retinal vessels, GI polyps, and skin lesions, respectively. The Super U-net consistently outperformed U-Net, seven U-Net variants, and two non-U-Net segmentation architectures (p &lt; 0.05).</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="UNASSIGNED">Dynamic receptive fields and fusion upsampling can significantly improve image segmentation performance.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Beeche</LastName>
+            <ForeName>Cameron</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, University of Pittsburgh, Pittsburgh, PA 15213, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Singh</LastName>
+            <ForeName>Jatin P</ForeName>
+            <Initials>JP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, University of Pittsburgh, Pittsburgh, PA 15213, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Leader</LastName>
+            <ForeName>Joseph K</ForeName>
+            <Initials>JK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, University of Pittsburgh, Pittsburgh, PA 15213, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gezer</LastName>
+            <ForeName>Sinem</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, University of Pittsburgh, Pittsburgh, PA 15213, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Oruwari</LastName>
+            <ForeName>Amechi P</ForeName>
+            <Initials>AP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, University of Pittsburgh, Pittsburgh, PA 15213, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dansingani</LastName>
+            <ForeName>Kunal K</ForeName>
+            <Initials>KK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Ophthalmology, University of Pittsburgh, Pittsburgh, PA 15213, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chhablani</LastName>
+            <ForeName>Jay</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Ophthalmology, University of Pittsburgh, Pittsburgh, PA 15213, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pu</LastName>
+            <ForeName>Jiantao</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, University of Pittsburgh, Pittsburgh, PA 15213, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA 15213, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 CA237277</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>04</Month>
+          <Day>01</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Pattern Recognit</MedlineTA>
+        <NlmUniqueID>0250655</NlmUniqueID>
+        <ISSNLinking>0031-3203</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">U-Net</Keyword>
+        <Keyword MajorTopicYN="N">dynamic receptive field</Keyword>
+        <Keyword MajorTopicYN="N">fusion upsampling</Keyword>
+        <Keyword MajorTopicYN="N">image segmentation</Keyword>
+      </KeywordList>
+      <CoiStatement>Declaration of Interests The authors have no conflicts of interest to declare.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pmc-release">
+          <Year>2023</Year>
+          <Month>8</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>9</Day>
+          <Hour>3</Hour>
+          <Minute>51</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35528144</ArticleId>
+        <ArticleId IdType="mid">NIHMS1796786</ArticleId>
+        <ArticleId IdType="pmc">PMC9070860</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.patcog.2022.108669</ArticleId>
+        <ArticleId IdType="pii">108669</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Lifeng Qiao YZ, Zhou Hui, “Diabetic Retinopathy Detection Using Prognosis of Microaneurysm and Early Diagnosis System for Non-Proliferative Diabetic Retinopathy Based on Deep Learning Algorithms,” IEEE Access, vol. 8, pp. 104292–104302, 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kuan-Song Wang GY, Chao Xu, et al., “Accurate diagnosis of colorectal cancer based on histopathology images using artificial intelligence,” BMC Med, vol. 19, 2021.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lennox Hoyte WY, Brubaker Linda, Fielding Julia R., Lockhard Mark E., Heilbrun Marta E., Brown Morton B., Warfield Simon K., “Segmentations of MRI Images of the Female PelvicFloor: A Study of Inter- and Intra-reader Reliability,” Journal of Magnetic Resonance Imaging, vol. 33, pp. 684–691, 2011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4364418</ArticleId>
+            <ArticleId IdType="pubmed">21563253</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Frezghi Habte SB, Shay Keren1, Doyle Timothy C,, Levin Craig S, Paik David S, “In situ study of the impact of inter- and intra-reader variability on region of interest (ROI) analysis in preclinical molecular imaging,” American journal of nuclear medicine and molecular imaging, vol. 3, pp. 175–181, 2013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3601477</ArticleId>
+            <ArticleId IdType="pubmed">23526701</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aggarwal N. S. a. L. M., “Automated medical image segmentation techniques,” Journal of Medical Physics, vol. 35, 2010.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Leo C.S. LCCT, Suneetha V, “An Automated Segmentation Algorithm for Medical Images,” 13th International Conference on Biomedical Engineering, vol. 23, 2009.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kaus MR, Warfield SK, Nabavi A, Black PM, Jolesz FA, and Kikinis R, “Automated Segmentation of MR Images of Brain Tumors,” Radiology, vol. 218, no. 2, pp. 586–591, 2001, doi: 10.1148/radiology.218.2.r01fe44586.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1148/radiology.218.2.r01fe44586</ArticleId>
+            <ArticleId IdType="pubmed">11161183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fu R
+et al., “Automated delineation of orbital abscess depicted on CT scan using deep learning,” Medical Physics, no. in press, 2021.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang L
+et al., “Automated segmentation of the optic disc from fundus images using an asymmetric deep learning network,” Pattern Recognition, vol. 112, p. 107810, 2021/04/01/ 2021, doi: 10.1016/j.patcog.2020.107810.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.patcog.2020.107810</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ashraf SF
+et al., “Predicting benign, preinvasive, and invasive lung nodules on computed tomography scans using machine learning,” J Thorac Cardiovasc Surg, Feb
+16
+2021, doi: 10.1016/j.jtcvs.2021.02.010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jtcvs.2021.02.010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhen Y, Chen H, Zhang X, Meng X, Zhang J, and Pu J, “Assessment of Central Serous Chorioretinopathy Depicted on Color Fundus Photographs Using Deep Learning,” Retina, vol. 40, no. 8, pp. 1558–1564, Aug
+2020, doi: 10.1097/IAE.0000000000002621.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/IAE.0000000000002621</ArticleId>
+            <ArticleId IdType="pubmed">31283737</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Olaf Ronneberger Phillip Fischer a. T. B., “U-Net: Convolutional Networks for Biomedical Image Segmentation,” in International Conference on Medical image computing and computer-assisted intervention, pp. 234–241, 2015.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liang-Chieh Chen GP, Schroff Florian, Adam Hartwig, “Rethinking Atrous Convolution for Semantic Image Segmentation,” ArXiv, 2017.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zongwei Zhou MMRS, Tajbakhsh Nima, Liang Jianming, “UNet++: A Nested U-Net Architecture for Medical Image Segmentation,” Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support, pp. 3–11, 2018.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7329239</ArticleId>
+            <ArticleId IdType="pubmed">32613207</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Christian Szegedy WL, Jia Yangqing, Sermanet Pierre, Reed Scott, Anguelov Dragomir, Erhan Dumitru, Vanhoucke Vincent, Rabinovich Andrew, “Going deeper with convolutions,” 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 1–9, 2015.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kaiming He XZ, Ren Shaoqing, Sun Jian, “Deep Residual Learning for Image Recognition,” IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 770–778, 2016.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ozan Oktay JS, Le Folgoc Loic, Lee Matthew, Heinrich Mattias, Misawa Kazunari, Mori Kensaku, McDonagh Steven, Hammerla Nils Y, Kainz Bernhard, Glocker Ben, Rueckert Daniel, “Attention U-Net: Learning Where to Look for the Pancreas,” Medical Imaging with Deep learning, 2018.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Md Zahangir Alom MH, Yakopcic Chris, Taha Tarek M., Asari Vijayan K., “Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation,” Journal of Medical Imaging, vol. 6, 2019.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhengxin Zhang QL, Wang Yunhong, “Road Extraction by Deep Residual U-Net,” IEEE Geoscience and Remote Sensing Letters, vol. 15, no. 5, pp. 749–753, 2018.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Debesh Jha PHS, Riegler Michael A., Johansen Dag, de Lange, Pal Halvorsen Thomas, Johansen Havard D., “ResUNet++: An Advanced Architecture for Medical Image Segmentation,” IEEE International Symposium on Multimedia (ISM), pp. 225–2255, 2019.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jie Hu LS, Albanie Samuel, Sun Gang, Wu Enhua, “Squeeze-and-Excitation Networks,” IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 7132–7141, 2018.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>“DRIVE: Digital Retinal Images for Vessel Extraction.” https://drive.grand-challenge.org/ (accessed.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Debesh Jha PHS, Riegler Michael A., Halvorsen Pål, Johansen Dag, de Lange Thomas, and Johansen Håvard D., “Kvasir-SEG: A Segmented Polyp Dataset,” In Proceedings of the ternational conference on Multimedia Modeling, 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fatima RPB
+Haggar A, “Colorectal Cancer Epidemiology: Incidence, Mortality, Survival, and Risk Factors,” Clinics in colon and rectal surgery, vol. 22, 2009.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Owen CG
+et al., “Retinal arteriolar tortuosity and cardiovascular risk factors in a multi-ethnic population study of 10-year-old children; The child heart and health study in England (CHASE),” Arteriosclerosis, Thrombosis, and Vascular Biology, Article vol. 31, no. 8, pp. 1933–1938, 2011, doi: 10.1161/ATVBAHA.111.225219.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/ATVBAHA.111.225219</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Codella N GD, Celebi ME, Helba B, Marchetti MA, Dusza S, Kalloo A, Liopyris K, Mishra N, Kittler H, Halpern A, “Skin Lesion Analysis Toward Melanoma Detection: A Challenge at the 2017 International Symposium on Biomedical Imaging (ISBI), Hosted by the International Skin Imaging Collaboration (ISIC),” arXiv: 1710.05006 [cs.CV], 2017.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Narinder Punn SA, “Inception U-Net Architecture for Semantic Segmentation to Identify Nuclei in Microscopy Cell Images,” ACM Transactions on Multimedia Computing, Communications, and Applications, pp. 1–15, 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Guosheng Lin AM, Shen Chunhua, Reid Ian, “RefineNet: Multi-path Refinement Networks for High-Resolution Semantic Segmentation,” IEEE Conference on Computer Vision and Pattern Recognition (CVPR), vol. 1, pp. 5168–5177, 2017.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Badrinarayanan V, Kendall A, and Cipolla R, “SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation,” IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 39, no. 12, pp. 2481–2495, 2017, doi: 10.1109/TPAMI.2016.2644615.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TPAMI.2016.2644615</ArticleId>
+            <ArticleId IdType="pubmed">28060704</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chaurasia A and Culurciello E, “LinkNet: Exploiting encoder representations for efficient semantic segmentation,” 2017 IEEE Visual Communications and Image Processing (VCIP), pp. 1–4, 2017.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,1860 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35595748</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2041-4889</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>13</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>21</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Cell death &amp; disease</Title>
+          <ISOAbbreviation>Cell Death Dis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>m6A methylated EphA2 and VEGFA through IGF2BP2/3 regulation promotes vasculogenic mimicry in colorectal cancer via PI3K/AKT and ERK1/2 signaling.</ArticleTitle>
+        <Pagination>
+          <StartPage>483</StartPage>
+          <MedlinePgn>483</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">483</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41419-022-04950-2</ELocationID>
+        <Abstract>
+          <AbstractText>Exploring the epigenetic regulation mechanism of colorectal cancer (CRC) from the perspective of N6-methyladenosine (m6A) modification may provide a new target for tumor therapy. Analysis using high-throughput RNA-seq profile from TCGA found that the gene expression of Methyltransferase-like 3 (METTL3) was significantly upregulated among 20 m6A binding proteins in CRC, which was also validated in CRC cancer tissues and cell lines. Moreover, transcriptome sequencing in METTL3 knockdown cells using CRISPR/Cas9 editing suggested that EphA2 and VEGFA were differential expression, which were enriched in the vasculature development, PI3K/AKT and ERK1/2 signal pathway through the functional enrichment analysis. The results in vitro revealed that METTL3 as the m6A "writers" participates the methylation of EphA2 and VEGFA, which were recognized by the m6A "readers", insulin-like growth factor 2 mRNA binding protein 2/3 (IGF2BP2/3), to prevent their mRNA degradation. In addition, EphA2 and VEGFA targeted by METTL3 via different IGF2BP-dependent mechanisms were found to promote vasculogenic mimicry (VM) formation via PI3K/AKT/mTOR and ERK1/2 signaling in CRC. The study suggests that intervention with m6A-binding proteins (METTL3 and IGF2BP2/3) may provide a potential diagnostic or prognostic target of VM-based anti-metastasis drugs for CRC.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Xin</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>He</LastName>
+            <ForeName>Hongjuan</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Fengwei</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Xin</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bi</LastName>
+            <ForeName>Fanqi</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, Computational Biology Research Center, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Kai</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yu</LastName>
+            <ForeName>Haoran</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Yue</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Xiang'an Hospital of Xiamen University, Xiamen, 361000, Fu Jian, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Teng</LastName>
+            <ForeName>Xiangqi</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Jiaqi</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Lihong</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Yan</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, Computational Biology Research Center, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China. zhangtyo@hit.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Qiong</ForeName>
+            <Initials>Q</Initials>
+            <Identifier Source="ORCID">0000-0003-3305-6652</Identifier>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China. kigo@hit.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>21</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Cell Death Dis</MedlineTA>
+        <NlmUniqueID>101524092</NlmUniqueID>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C498779">IGF2BP2 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016601">RNA-Binding Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C467484">VEGFA protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D042461">Vascular Endothelial Growth Factor A</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.1.1.-</RegistryNumber>
+          <NameOfSubstance UI="D008780">Methyltransferases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.1.1.62</RegistryNumber>
+          <NameOfSubstance UI="C468275">METTL3 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="D051057">Proto-Oncogene Proteins c-akt</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015179" MajorTopicYN="Y">Colorectal Neoplasms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D044127" MajorTopicYN="N">Epigenesis, Genetic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020935" MajorTopicYN="N">MAP Kinase Signaling System</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008780" MajorTopicYN="N">Methyltransferases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019869" MajorTopicYN="N">Phosphatidylinositol 3-Kinases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051057" MajorTopicYN="Y">Proto-Oncogene Proteins c-akt</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016601" MajorTopicYN="N">RNA-Binding Proteins</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D042461" MajorTopicYN="N">Vascular Endothelial Growth Factor A</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>20</Day>
+          <Hour>23</Hour>
+          <Minute>15</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35595748</ArticleId>
+        <ArticleId IdType="pmc">PMC9122982</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41419-022-04950-2</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41419-022-04950-2</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, et al.  Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin. 2021;71:209–49. doi: 10.3322/caac.21660.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3322/caac.21660</ArticleId>
+            <ArticleId IdType="pubmed">33538338</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jung YD, Ahmad SA, Liu W, Reinmuth N, Parikh A, Stoeltzing O, et al.  The role of the microenvironment and intercellular cross-talk in tumor angiogenesis. Semin Cancer Biol. 2002;12:105–12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12027582</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Y, Sun H, Zhang D, Fan D, Zhang Y, Dong X, et al.  TP53INP1 inhibits hypoxia-induced vasculogenic mimicry formation via the ROS/snail signalling axis in breast cancer. J Cell Mol Med. 2018;22:3475–88.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6010892</ArticleId>
+            <ArticleId IdType="pubmed">29655255</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maniotis AJ, Folberg R, Hess A, Seftor EA, Gardner LM, Pe’er J, et al.  Vascular channel formation by human melanoma cells in vivo and in vitro: vasculogenic mimicry. Am J Pathol. 1999;155:739–52..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1866899</ArticleId>
+            <ArticleId IdType="pubmed">10487832</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang X, Zhang J, Zhou H, Fan G, Li Q. Molecular mechanisms and anticancer therapeutic strategies in vasculogenic mimicry. J Cancer. 2019;10:6327–40.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6856738</ArticleId>
+            <ArticleId IdType="pubmed">31772665</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ge H, Luo H. Overview of advances in vasculogenic mimicry - a potential target for tumor therapy. Cancer Manag Res. 2018;10:2429–37.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6080880</ArticleId>
+            <ArticleId IdType="pubmed">30122992</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meng J, Chen S, Lei YY, Han JX, Zhong WL, Wang XR, et al.  Hsp90β promotes aggressive vasculogenic mimicry via epithelial-mesenchymal transition in hepatocellular carcinoma. Oncogene. 2019;38:228–43.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30087438</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Camorani S, Crescenzi E, Gramanzini M, Fedele M, Zannetti A, Cerchia L. Aptamer-mediated impairment of EGFR-integrin αvβ3 complex inhibits vasculogenic mimicry and growth of triple-negative breast cancers. Sci Rep. 2017;7:46659.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5397976</ArticleId>
+            <ArticleId IdType="pubmed">28425453</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li W, Zong S, Shi Q, Li H, Xu J, Hou F. Hypoxia-induced vasculogenic mimicry formation in human colorectal cancer cells: Involvement of HIF-1a, Claudin-4, and E-cadherin and Vimentin. Sci Rep. 2016;6:37534.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5116622</ArticleId>
+            <ArticleId IdType="pubmed">27869227</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang H, Huang B, Li BM, Cao KY, Mo CQ, Jiang SJ, et al.  ZEB1-mediated vasculogenic mimicry formation associates with epithelial-mesenchymal transition and cancer stem cell phenotypes in prostate cancer. J Cell Mol Med. 2018;22:3768–81.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6050489</ArticleId>
+            <ArticleId IdType="pubmed">29754422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wei X, Chen Y, Jiang X, Peng M, Liu Y, Mo Y, et al.  Mechanisms of vasculogenic mimicry in hypoxic tumor microenvironments. Mol Cancer. 2021;20:7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7784348</ArticleId>
+            <ArticleId IdType="pubmed">33397409</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim HS, Won YJ, Shim JH, Kim HJ, Kim BS, Hong HN. Role of EphA2-PI3K signaling in vasculogenic mimicry induced by cancer-associated fibroblasts in gastric cancer cells. Oncol Lett. 2019;18:3031–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6704280</ArticleId>
+            <ArticleId IdType="pubmed">31452781</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li G, Huang M, Cai Y, Ke Y, Yang Y, Sun X. miR‑141 inhibits glioma vasculogenic mimicry by controlling EphA2 expression. Mol Med Rep. 2018;18:1395–404.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6072184</ArticleId>
+            <ArticleId IdType="pubmed">29901110</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu S, Bai J, Zhuan Z, Li B, Zhang Z, Wu X, et al.  EBV‑LMP1 is involved in vasculogenic mimicry formation via VEGFA/VEGFR1 signaling in nasopharyngeal carcinoma. Oncol Rep. 2018;40:377–84.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29749553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Z, Sun B, Li Y, Zhao X, Zhao X, Gu Q, et al.  ZEB2 promotes vasculogenic mimicry by TGF-β1 induced epithelial-to-mesenchymal transition in hepatocellular carcinoma. Exp Mol Pathol. 2015;98:352–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25818166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cui S, Wu Q, Liu M, Su M, Liu S, Shao L, et al.  EphA2 super-enhancer promotes tumor progression by recruiting FOSL2 and TCF7L2 to activate the target gene EphA2. Cell Death Dis. 2021;12:264.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7955082</ArticleId>
+            <ArticleId IdType="pubmed">33712565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taddei ML, Parri M, Angelucci A, Bianchini F, Marconi C, Giannoni E, et al.  EphA2 induces metastatic growth regulating amoeboid motility and clonogenic potential in prostate carcinoma cells. Mol Cancer Res. 2011;9:149–60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21205836</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang JY, Sun T, Zhao XL, Zhang SW, Zhang DF, Gu Q, et al.  Functional significance of VEGF-a in human ovarian carcinoma: role in vasculogenic mimicry. Cancer Biol Ther. 2008;7:758–66.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18376140</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yao X, Ping Y, Liu Y, Chen K, Yoshimura T, Liu M, et al.  Vascular endothelial growth factor receptor 2 (VEGFR-2) plays a key role in vasculogenic mimicry formation, neovascularization and tumor initiation by Glioma stem-like cells. PLoS One. 2013;8:e57188.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3594239</ArticleId>
+            <ArticleId IdType="pubmed">23536763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dominissini D, Moshitch-Moshkovitz S, Schwartz S, Salmon-Divon M, Ungar L, Osenberg S, et al.  Topology of the human and mouse m6A RNA methylomes revealed by m6A-seq. Nature. 2012;485:201–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22575960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luo Q, Wang J, Zhao W, Peng Z, Liu X, Li B, et al.  Vasculogenic mimicry in carcinogenesis and clinical applications. J Hematol Oncol. 2020;13:19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7071697</ArticleId>
+            <ArticleId IdType="pubmed">32169087</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meyer KD, Saletore Y, Zumbo P, Elemento O, Mason CE, Jaffrey SR. Comprehensive analysis of mRNA methylation reveals enrichment in 3’ UTRs and near stop codons. Cell. 2012;149:1635–46.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3383396</ArticleId>
+            <ArticleId IdType="pubmed">22608085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang T, Kong S, Tao M, Ju S. The potential role of RNA N6-methyladenosine in Cancer progression. Mol Cancer. 2020;19:88.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7216508</ArticleId>
+            <ArticleId IdType="pubmed">32398132</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Du H, Zhao Y, He J, Zhang Y, Xi H, Liu M, et al.  YTHDF2 destabilizes m(6)A-containing RNA through direct recruitment of the CCR4-NOT deadenylase complex. Nat Commun. 2016;7:12626.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5007331</ArticleId>
+            <ArticleId IdType="pubmed">27558897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin S, Choe J, Du P, Triboulet R, Gregory RI. The m(6)A methyltransferase METTL3 promotes translation in human cancer cells. Mol Cell. 2016;62:335–45.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4860043</ArticleId>
+            <ArticleId IdType="pubmed">27117702</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Geula S, Moshitch-Moshkovitz S, Dominissini D, Mansour AA, Kol N, Salmon-Divon M, et al.  Stem cells. m6A mRNA methylation facilitates resolution of naïve pluripotency toward differentiation. Science. 2015;347:1002–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25569111</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hao J, Xianfeng Y, Gao W, Wei J, Qi M, Han L, et al.  The perturbed expression of m6A in parthenogenetic mouse embryos. Genet Mol Biol. 2019;42:666–70.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6905444</ArticleId>
+            <ArticleId IdType="pubmed">31188932</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiang Y, Laurent B, Hsu CH, Nachtergaele S, Lu Z, Sheng W, et al.  RNA m(6)A methylation regulates the ultraviolet-induced DNA damage response. Nature. 2017;543:573–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5490984</ArticleId>
+            <ArticleId IdType="pubmed">28297716</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vu LP, Pickering BF, Cheng Y, Zaccara S, Nguyen D, Minuesa G, et al.  The N(6)-methyladenosine (m(6)A)-forming enzyme METTL3 controls myeloid differentiation of normal hematopoietic and leukemia cells. Nat Med. 2017;23:1369–76.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5677536</ArticleId>
+            <ArticleId IdType="pubmed">28920958</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen H, Gao S, Liu W, Wong CC, Wu J, Wu J, et al.  RNA N(6)-methyladenosine methyltransferase METTL3 facilitates colorectal cancer by activating the m(6)A-GLUT1-mTORC1 axis and Is a therapeutic target. Gastroenterology. 2021;160:1284–300.e16.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33217448</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li T, Hu PS, Zuo Z, Lin JF, Li X, Wu QN, et al.  METTL3 facilitates tumor progression via an m(6)A-IGF2BP2-dependent mechanism in colorectal carcinoma. Mol Cancer. 2019;18:112.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6589893</ArticleId>
+            <ArticleId IdType="pubmed">31230592</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng M, Sheng L, Gao Q, Xiong Q, Zhang H, Wu M, et al.  The m(6)A methyltransferase METTL3 promotes bladder cancer progression via AFF4/NF-κB/MYC signaling network. Oncogene. 2019;38:3667–80..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30659266</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang DD, Chen ZH, Yu K, Lu JH, Wu QN, Wang Y, et al.  METTL3 promotes the progression of gastric cancer via targeting the MYC pathway. Front Oncol. 2020;10:115.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7054453</ArticleId>
+            <ArticleId IdType="pubmed">32175271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen M, Wong CM. The emerging roles of N6-methyladenosine (m6A) deregulation in liver carcinogenesis. Mol Cancer. 2020;19:44.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7047367</ArticleId>
+            <ArticleId IdType="pubmed">32111216</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen XY, Zhang J, Zhu JS. The role of m(6)A RNA methylation in human cancer. Mol Cancer. 2019;18:103.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6540575</ArticleId>
+            <ArticleId IdType="pubmed">31142332</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen M, Wei L, Law CT, Tsang FH, Shen J, Cheng CL, et al.  RNA N6-methyladenosine methyltransferase-like 3 promotes liver cancer progression through YTHDF2-dependent posttranscriptional silencing of SOCS2. Hepatology. 2018;67:2254–70..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29171881</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang C, Samanta D, Lu H, Bullen JW, Zhang H, Chen I, et al.  Hypoxia induces the breast cancer stem cell phenotype by HIF-dependent and ALKBH5-mediated m6A-demethylation of NANOG mRNA. Proc Natl Acad Sci USA. 2016;113:E2047–56.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4833258</ArticleId>
+            <ArticleId IdType="pubmed">27001847</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang JG, Li XY, Wang YZ, Zhang QD, Gu SY, Wu X, et al.  ROCK is involved in vasculogenic mimicry formation in hepatocellular carcinoma cell line. PLoS One. 2014;9:e107661.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4169566</ArticleId>
+            <ArticleId IdType="pubmed">25238232</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu X, Zong Y, Gao Y, Sun X, Zhao H, Luo W, et al.  VEGF induce vasculogenic mimicry of choroidal melanoma through the PI3k signal pathway. Biomed Res Int. 2019;2019:3909102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6657640</ArticleId>
+            <ArticleId IdType="pubmed">31380420</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang X, Song Q, Wei C, Qu J. LRIG1 inhibits hypoxia-induced vasculogenic mimicry formation via suppression of the EGFR/PI3K/AKT pathway and epithelial-to-mesenchymal transition in human glioma SHG-44 cells. Cell Stress Chaperones. 2015;20:631–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4463919</ArticleId>
+            <ArticleId IdType="pubmed">25860915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Z, Wang T, Wu D, Min Z, Tan J, Yu B. RNA N6-methyladenosine reader IGF2BP3 regulates cell cycle and angiogenesis in colon cancer. J Exp Clin Cancer Res. 2020;39:203.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7523351</ArticleId>
+            <ArticleId IdType="pubmed">32993738</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maity A, Das B. N6-methyladenosine modification in mRNA: machinery, function and implications for health and diseases. Febs j. 2016;283:1607–30..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26645578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qin Y, Li L, Luo E, Hou J, Yan G, Wang D, et al.  Role of m6A RNA methylation in cardiovascular disease (Review) Int J Mol Med. 2020;46:1958–72.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7595665</ArticleId>
+            <ArticleId IdType="pubmed">33125109</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shi H, Wang X, Lu Z, Zhao BS, Ma H, Hsu PJ, et al.  YTHDF3 facilitates translation and decay of N(6)-methyladenosine-modified RNA. Cell Res. 2017;27:315–28..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5339834</ArticleId>
+            <ArticleId IdType="pubmed">28106072</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang X, Zhao BS, Roundtree IA, Lu Z, Han D, Ma H, et al.  N(6)-methyladenosine modulates messenger RNA translation efficiency. Cell. 2015;161:1388–99.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4825696</ArticleId>
+            <ArticleId IdType="pubmed">26046440</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bittner M, Meltzer P, Chen Y, Jiang Y, Seftor E, Hendrix M, et al.  Molecular classification of cutaneous malignant melanoma by gene expression profiling. Nature. 2000;406:536–40.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10952317</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qiao K, Liu Y, Xu Z, Zhang H, Zhang H, Zhang C, et al.  RNA m6A methylation promotes the formation of vasculogenic mimicry in hepatocellular carcinoma via Hippo pathway. Angiogenesis. 2021;24:83–96.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32920668</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ding X, Xi W, Ji J, Cai Q, Jiang J, Shi M, et al.  HGF derived from cancer‑associated fibroblasts promotes vascularization in gastric cancer via PI3K/AKT and ERK1/2 signaling. Oncol Rep. 2018;40:1185–95..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29917165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li Z, Weng H, Su R, Weng X, Zuo Z, Li C, et al.  FTO plays an oncogenic role in acute myeloid leukemia as a N(6)-methyladenosine RNA demethylase. Cancer Cell. 2017;31:127–41..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5234852</ArticleId>
+            <ArticleId IdType="pubmed">28017614</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35595748</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2041-4889</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>13</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>21</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Cell death &amp; disease</Title>
+          <ISOAbbreviation>Cell Death Dis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>m6A methylated EphA2 and VEGFA through IGF2BP2/3 regulation promotes vasculogenic mimicry in colorectal cancer via PI3K/AKT and ERK1/2 signaling.</ArticleTitle>
+        <Pagination>
+          <StartPage>483</StartPage>
+          <MedlinePgn>483</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">483</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41419-022-04950-2</ELocationID>
+        <Abstract>
+          <AbstractText>Exploring the epigenetic regulation mechanism of colorectal cancer (CRC) from the perspective of N6-methyladenosine (m6A) modification may provide a new target for tumor therapy. Analysis using high-throughput RNA-seq profile from TCGA found that the gene expression of Methyltransferase-like 3 (METTL3) was significantly upregulated among 20 m6A binding proteins in CRC, which was also validated in CRC cancer tissues and cell lines. Moreover, transcriptome sequencing in METTL3 knockdown cells using CRISPR/Cas9 editing suggested that EphA2 and VEGFA were differential expression, which were enriched in the vasculature development, PI3K/AKT and ERK1/2 signal pathway through the functional enrichment analysis. The results in vitro revealed that METTL3 as the m6A "writers" participates the methylation of EphA2 and VEGFA, which were recognized by the m6A "readers", insulin-like growth factor 2 mRNA binding protein 2/3 (IGF2BP2/3), to prevent their mRNA degradation. In addition, EphA2 and VEGFA targeted by METTL3 via different IGF2BP-dependent mechanisms were found to promote vasculogenic mimicry (VM) formation via PI3K/AKT/mTOR and ERK1/2 signaling in CRC. The study suggests that intervention with m6A-binding proteins (METTL3 and IGF2BP2/3) may provide a potential diagnostic or prognostic target of VM-based anti-metastasis drugs for CRC.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Xin</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>He</LastName>
+            <ForeName>Hongjuan</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Fengwei</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Xin</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bi</LastName>
+            <ForeName>Fanqi</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, Computational Biology Research Center, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Kai</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yu</LastName>
+            <ForeName>Haoran</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Yue</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Xiang'an Hospital of Xiamen University, Xiamen, 361000, Fu Jian, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Teng</LastName>
+            <ForeName>Xiangqi</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Jiaqi</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Lihong</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Yan</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, Computational Biology Research Center, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China. zhangtyo@hit.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Qiong</ForeName>
+            <Initials>Q</Initials>
+            <Identifier Source="ORCID">0000-0003-3305-6652</Identifier>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China. kigo@hit.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>21</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Cell Death Dis</MedlineTA>
+        <NlmUniqueID>101524092</NlmUniqueID>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C498779">IGF2BP2 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016601">RNA-Binding Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C467484">VEGFA protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D042461">Vascular Endothelial Growth Factor A</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.1.1.-</RegistryNumber>
+          <NameOfSubstance UI="D008780">Methyltransferases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.1.1.62</RegistryNumber>
+          <NameOfSubstance UI="C468275">METTL3 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="D051057">Proto-Oncogene Proteins c-akt</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015179" MajorTopicYN="Y">Colorectal Neoplasms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D044127" MajorTopicYN="N">Epigenesis, Genetic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020935" MajorTopicYN="N">MAP Kinase Signaling System</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008780" MajorTopicYN="N">Methyltransferases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019869" MajorTopicYN="N">Phosphatidylinositol 3-Kinases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051057" MajorTopicYN="Y">Proto-Oncogene Proteins c-akt</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016601" MajorTopicYN="N">RNA-Binding Proteins</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D042461" MajorTopicYN="N">Vascular Endothelial Growth Factor A</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>20</Day>
+          <Hour>23</Hour>
+          <Minute>15</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35595748</ArticleId>
+        <ArticleId IdType="pmc">PMC9122982</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41419-022-04950-2</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41419-022-04950-2</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, et al.  Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin. 2021;71:209–49. doi: 10.3322/caac.21660.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3322/caac.21660</ArticleId>
+            <ArticleId IdType="pubmed">33538338</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jung YD, Ahmad SA, Liu W, Reinmuth N, Parikh A, Stoeltzing O, et al.  The role of the microenvironment and intercellular cross-talk in tumor angiogenesis. Semin Cancer Biol. 2002;12:105–12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12027582</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Y, Sun H, Zhang D, Fan D, Zhang Y, Dong X, et al.  TP53INP1 inhibits hypoxia-induced vasculogenic mimicry formation via the ROS/snail signalling axis in breast cancer. J Cell Mol Med. 2018;22:3475–88.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6010892</ArticleId>
+            <ArticleId IdType="pubmed">29655255</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maniotis AJ, Folberg R, Hess A, Seftor EA, Gardner LM, Pe’er J, et al.  Vascular channel formation by human melanoma cells in vivo and in vitro: vasculogenic mimicry. Am J Pathol. 1999;155:739–52..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1866899</ArticleId>
+            <ArticleId IdType="pubmed">10487832</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang X, Zhang J, Zhou H, Fan G, Li Q. Molecular mechanisms and anticancer therapeutic strategies in vasculogenic mimicry. J Cancer. 2019;10:6327–40.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6856738</ArticleId>
+            <ArticleId IdType="pubmed">31772665</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ge H, Luo H. Overview of advances in vasculogenic mimicry - a potential target for tumor therapy. Cancer Manag Res. 2018;10:2429–37.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6080880</ArticleId>
+            <ArticleId IdType="pubmed">30122992</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meng J, Chen S, Lei YY, Han JX, Zhong WL, Wang XR, et al.  Hsp90β promotes aggressive vasculogenic mimicry via epithelial-mesenchymal transition in hepatocellular carcinoma. Oncogene. 2019;38:228–43.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30087438</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Camorani S, Crescenzi E, Gramanzini M, Fedele M, Zannetti A, Cerchia L. Aptamer-mediated impairment of EGFR-integrin αvβ3 complex inhibits vasculogenic mimicry and growth of triple-negative breast cancers. Sci Rep. 2017;7:46659.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5397976</ArticleId>
+            <ArticleId IdType="pubmed">28425453</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li W, Zong S, Shi Q, Li H, Xu J, Hou F. Hypoxia-induced vasculogenic mimicry formation in human colorectal cancer cells: Involvement of HIF-1a, Claudin-4, and E-cadherin and Vimentin. Sci Rep. 2016;6:37534.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5116622</ArticleId>
+            <ArticleId IdType="pubmed">27869227</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang H, Huang B, Li BM, Cao KY, Mo CQ, Jiang SJ, et al.  ZEB1-mediated vasculogenic mimicry formation associates with epithelial-mesenchymal transition and cancer stem cell phenotypes in prostate cancer. J Cell Mol Med. 2018;22:3768–81.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6050489</ArticleId>
+            <ArticleId IdType="pubmed">29754422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wei X, Chen Y, Jiang X, Peng M, Liu Y, Mo Y, et al.  Mechanisms of vasculogenic mimicry in hypoxic tumor microenvironments. Mol Cancer. 2021;20:7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7784348</ArticleId>
+            <ArticleId IdType="pubmed">33397409</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim HS, Won YJ, Shim JH, Kim HJ, Kim BS, Hong HN. Role of EphA2-PI3K signaling in vasculogenic mimicry induced by cancer-associated fibroblasts in gastric cancer cells. Oncol Lett. 2019;18:3031–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6704280</ArticleId>
+            <ArticleId IdType="pubmed">31452781</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li G, Huang M, Cai Y, Ke Y, Yang Y, Sun X. miR‑141 inhibits glioma vasculogenic mimicry by controlling EphA2 expression. Mol Med Rep. 2018;18:1395–404.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6072184</ArticleId>
+            <ArticleId IdType="pubmed">29901110</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu S, Bai J, Zhuan Z, Li B, Zhang Z, Wu X, et al.  EBV‑LMP1 is involved in vasculogenic mimicry formation via VEGFA/VEGFR1 signaling in nasopharyngeal carcinoma. Oncol Rep. 2018;40:377–84.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29749553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Z, Sun B, Li Y, Zhao X, Zhao X, Gu Q, et al.  ZEB2 promotes vasculogenic mimicry by TGF-β1 induced epithelial-to-mesenchymal transition in hepatocellular carcinoma. Exp Mol Pathol. 2015;98:352–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25818166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cui S, Wu Q, Liu M, Su M, Liu S, Shao L, et al.  EphA2 super-enhancer promotes tumor progression by recruiting FOSL2 and TCF7L2 to activate the target gene EphA2. Cell Death Dis. 2021;12:264.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7955082</ArticleId>
+            <ArticleId IdType="pubmed">33712565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taddei ML, Parri M, Angelucci A, Bianchini F, Marconi C, Giannoni E, et al.  EphA2 induces metastatic growth regulating amoeboid motility and clonogenic potential in prostate carcinoma cells. Mol Cancer Res. 2011;9:149–60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21205836</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang JY, Sun T, Zhao XL, Zhang SW, Zhang DF, Gu Q, et al.  Functional significance of VEGF-a in human ovarian carcinoma: role in vasculogenic mimicry. Cancer Biol Ther. 2008;7:758–66.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18376140</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yao X, Ping Y, Liu Y, Chen K, Yoshimura T, Liu M, et al.  Vascular endothelial growth factor receptor 2 (VEGFR-2) plays a key role in vasculogenic mimicry formation, neovascularization and tumor initiation by Glioma stem-like cells. PLoS One. 2013;8:e57188.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3594239</ArticleId>
+            <ArticleId IdType="pubmed">23536763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dominissini D, Moshitch-Moshkovitz S, Schwartz S, Salmon-Divon M, Ungar L, Osenberg S, et al.  Topology of the human and mouse m6A RNA methylomes revealed by m6A-seq. Nature. 2012;485:201–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22575960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luo Q, Wang J, Zhao W, Peng Z, Liu X, Li B, et al.  Vasculogenic mimicry in carcinogenesis and clinical applications. J Hematol Oncol. 2020;13:19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7071697</ArticleId>
+            <ArticleId IdType="pubmed">32169087</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meyer KD, Saletore Y, Zumbo P, Elemento O, Mason CE, Jaffrey SR. Comprehensive analysis of mRNA methylation reveals enrichment in 3’ UTRs and near stop codons. Cell. 2012;149:1635–46.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3383396</ArticleId>
+            <ArticleId IdType="pubmed">22608085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang T, Kong S, Tao M, Ju S. The potential role of RNA N6-methyladenosine in Cancer progression. Mol Cancer. 2020;19:88.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7216508</ArticleId>
+            <ArticleId IdType="pubmed">32398132</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Du H, Zhao Y, He J, Zhang Y, Xi H, Liu M, et al.  YTHDF2 destabilizes m(6)A-containing RNA through direct recruitment of the CCR4-NOT deadenylase complex. Nat Commun. 2016;7:12626.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5007331</ArticleId>
+            <ArticleId IdType="pubmed">27558897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin S, Choe J, Du P, Triboulet R, Gregory RI. The m(6)A methyltransferase METTL3 promotes translation in human cancer cells. Mol Cell. 2016;62:335–45.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4860043</ArticleId>
+            <ArticleId IdType="pubmed">27117702</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Geula S, Moshitch-Moshkovitz S, Dominissini D, Mansour AA, Kol N, Salmon-Divon M, et al.  Stem cells. m6A mRNA methylation facilitates resolution of naïve pluripotency toward differentiation. Science. 2015;347:1002–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25569111</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hao J, Xianfeng Y, Gao W, Wei J, Qi M, Han L, et al.  The perturbed expression of m6A in parthenogenetic mouse embryos. Genet Mol Biol. 2019;42:666–70.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6905444</ArticleId>
+            <ArticleId IdType="pubmed">31188932</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiang Y, Laurent B, Hsu CH, Nachtergaele S, Lu Z, Sheng W, et al.  RNA m(6)A methylation regulates the ultraviolet-induced DNA damage response. Nature. 2017;543:573–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5490984</ArticleId>
+            <ArticleId IdType="pubmed">28297716</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vu LP, Pickering BF, Cheng Y, Zaccara S, Nguyen D, Minuesa G, et al.  The N(6)-methyladenosine (m(6)A)-forming enzyme METTL3 controls myeloid differentiation of normal hematopoietic and leukemia cells. Nat Med. 2017;23:1369–76.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5677536</ArticleId>
+            <ArticleId IdType="pubmed">28920958</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen H, Gao S, Liu W, Wong CC, Wu J, Wu J, et al.  RNA N(6)-methyladenosine methyltransferase METTL3 facilitates colorectal cancer by activating the m(6)A-GLUT1-mTORC1 axis and Is a therapeutic target. Gastroenterology. 2021;160:1284–300.e16.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33217448</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li T, Hu PS, Zuo Z, Lin JF, Li X, Wu QN, et al.  METTL3 facilitates tumor progression via an m(6)A-IGF2BP2-dependent mechanism in colorectal carcinoma. Mol Cancer. 2019;18:112.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6589893</ArticleId>
+            <ArticleId IdType="pubmed">31230592</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng M, Sheng L, Gao Q, Xiong Q, Zhang H, Wu M, et al.  The m(6)A methyltransferase METTL3 promotes bladder cancer progression via AFF4/NF-κB/MYC signaling network. Oncogene. 2019;38:3667–80..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30659266</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang DD, Chen ZH, Yu K, Lu JH, Wu QN, Wang Y, et al.  METTL3 promotes the progression of gastric cancer via targeting the MYC pathway. Front Oncol. 2020;10:115.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7054453</ArticleId>
+            <ArticleId IdType="pubmed">32175271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen M, Wong CM. The emerging roles of N6-methyladenosine (m6A) deregulation in liver carcinogenesis. Mol Cancer. 2020;19:44.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7047367</ArticleId>
+            <ArticleId IdType="pubmed">32111216</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen XY, Zhang J, Zhu JS. The role of m(6)A RNA methylation in human cancer. Mol Cancer. 2019;18:103.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6540575</ArticleId>
+            <ArticleId IdType="pubmed">31142332</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen M, Wei L, Law CT, Tsang FH, Shen J, Cheng CL, et al.  RNA N6-methyladenosine methyltransferase-like 3 promotes liver cancer progression through YTHDF2-dependent posttranscriptional silencing of SOCS2. Hepatology. 2018;67:2254–70..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29171881</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang C, Samanta D, Lu H, Bullen JW, Zhang H, Chen I, et al.  Hypoxia induces the breast cancer stem cell phenotype by HIF-dependent and ALKBH5-mediated m6A-demethylation of NANOG mRNA. Proc Natl Acad Sci USA. 2016;113:E2047–56.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4833258</ArticleId>
+            <ArticleId IdType="pubmed">27001847</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang JG, Li XY, Wang YZ, Zhang QD, Gu SY, Wu X, et al.  ROCK is involved in vasculogenic mimicry formation in hepatocellular carcinoma cell line. PLoS One. 2014;9:e107661.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4169566</ArticleId>
+            <ArticleId IdType="pubmed">25238232</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu X, Zong Y, Gao Y, Sun X, Zhao H, Luo W, et al.  VEGF induce vasculogenic mimicry of choroidal melanoma through the PI3k signal pathway. Biomed Res Int. 2019;2019:3909102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6657640</ArticleId>
+            <ArticleId IdType="pubmed">31380420</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang X, Song Q, Wei C, Qu J. LRIG1 inhibits hypoxia-induced vasculogenic mimicry formation via suppression of the EGFR/PI3K/AKT pathway and epithelial-to-mesenchymal transition in human glioma SHG-44 cells. Cell Stress Chaperones. 2015;20:631–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4463919</ArticleId>
+            <ArticleId IdType="pubmed">25860915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Z, Wang T, Wu D, Min Z, Tan J, Yu B. RNA N6-methyladenosine reader IGF2BP3 regulates cell cycle and angiogenesis in colon cancer. J Exp Clin Cancer Res. 2020;39:203.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7523351</ArticleId>
+            <ArticleId IdType="pubmed">32993738</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maity A, Das B. N6-methyladenosine modification in mRNA: machinery, function and implications for health and diseases. Febs j. 2016;283:1607–30..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26645578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qin Y, Li L, Luo E, Hou J, Yan G, Wang D, et al.  Role of m6A RNA methylation in cardiovascular disease (Review) Int J Mol Med. 2020;46:1958–72.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7595665</ArticleId>
+            <ArticleId IdType="pubmed">33125109</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shi H, Wang X, Lu Z, Zhao BS, Ma H, Hsu PJ, et al.  YTHDF3 facilitates translation and decay of N(6)-methyladenosine-modified RNA. Cell Res. 2017;27:315–28..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5339834</ArticleId>
+            <ArticleId IdType="pubmed">28106072</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang X, Zhao BS, Roundtree IA, Lu Z, Han D, Ma H, et al.  N(6)-methyladenosine modulates messenger RNA translation efficiency. Cell. 2015;161:1388–99.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4825696</ArticleId>
+            <ArticleId IdType="pubmed">26046440</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bittner M, Meltzer P, Chen Y, Jiang Y, Seftor E, Hendrix M, et al.  Molecular classification of cutaneous malignant melanoma by gene expression profiling. Nature. 2000;406:536–40.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10952317</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qiao K, Liu Y, Xu Z, Zhang H, Zhang H, Zhang C, et al.  RNA m6A methylation promotes the formation of vasculogenic mimicry in hepatocellular carcinoma via Hippo pathway. Angiogenesis. 2021;24:83–96.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32920668</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ding X, Xi W, Ji J, Cai Q, Jiang J, Shi M, et al.  HGF derived from cancer‑associated fibroblasts promotes vascularization in gastric cancer via PI3K/AKT and ERK1/2 signaling. Oncol Rep. 2018;40:1185–95..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29917165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li Z, Weng H, Su R, Weng X, Zuo Z, Li C, et al.  FTO plays an oncogenic role in acute myeloid leukemia as a N(6)-methyladenosine RNA demethylase. Cancer Cell. 2017;31:127–41..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5234852</ArticleId>
+            <ArticleId IdType="pubmed">28017614</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35595748</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2041-4889</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>13</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>21</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Cell death &amp; disease</Title>
+          <ISOAbbreviation>Cell Death Dis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>m6A methylated EphA2 and VEGFA through IGF2BP2/3 regulation promotes vasculogenic mimicry in colorectal cancer via PI3K/AKT and ERK1/2 signaling.</ArticleTitle>
+        <Pagination>
+          <StartPage>483</StartPage>
+          <MedlinePgn>483</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">483</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41419-022-04950-2</ELocationID>
+        <Abstract>
+          <AbstractText>Exploring the epigenetic regulation mechanism of colorectal cancer (CRC) from the perspective of N6-methyladenosine (m6A) modification may provide a new target for tumor therapy. Analysis using high-throughput RNA-seq profile from TCGA found that the gene expression of Methyltransferase-like 3 (METTL3) was significantly upregulated among 20 m6A binding proteins in CRC, which was also validated in CRC cancer tissues and cell lines. Moreover, transcriptome sequencing in METTL3 knockdown cells using CRISPR/Cas9 editing suggested that EphA2 and VEGFA were differential expression, which were enriched in the vasculature development, PI3K/AKT and ERK1/2 signal pathway through the functional enrichment analysis. The results in vitro revealed that METTL3 as the m6A "writers" participates the methylation of EphA2 and VEGFA, which were recognized by the m6A "readers", insulin-like growth factor 2 mRNA binding protein 2/3 (IGF2BP2/3), to prevent their mRNA degradation. In addition, EphA2 and VEGFA targeted by METTL3 via different IGF2BP-dependent mechanisms were found to promote vasculogenic mimicry (VM) formation via PI3K/AKT/mTOR and ERK1/2 signaling in CRC. The study suggests that intervention with m6A-binding proteins (METTL3 and IGF2BP2/3) may provide a potential diagnostic or prognostic target of VM-based anti-metastasis drugs for CRC.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Xin</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>He</LastName>
+            <ForeName>Hongjuan</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Fengwei</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Xin</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bi</LastName>
+            <ForeName>Fanqi</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, Computational Biology Research Center, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Kai</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yu</LastName>
+            <ForeName>Haoran</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Yue</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Urology, Xiang'an Hospital of Xiamen University, Xiamen, 361000, Fu Jian, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Teng</LastName>
+            <ForeName>Xiangqi</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Jiaqi</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Lihong</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Yan</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, Computational Biology Research Center, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China. zhangtyo@hit.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Qiong</ForeName>
+            <Initials>Q</Initials>
+            <Identifier Source="ORCID">0000-0003-3305-6652</Identifier>
+            <AffiliationInfo>
+              <Affiliation>School of Life Science and Technology, State Key Laboratory of Urban Water Resource and Environment, Harbin Institute of Technology, Harbin, 150001, Heilongjiang, China. kigo@hit.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>21</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Cell Death Dis</MedlineTA>
+        <NlmUniqueID>101524092</NlmUniqueID>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C498779">IGF2BP2 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016601">RNA-Binding Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C467484">VEGFA protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D042461">Vascular Endothelial Growth Factor A</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.1.1.-</RegistryNumber>
+          <NameOfSubstance UI="D008780">Methyltransferases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.1.1.62</RegistryNumber>
+          <NameOfSubstance UI="C468275">METTL3 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="D051057">Proto-Oncogene Proteins c-akt</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015179" MajorTopicYN="Y">Colorectal Neoplasms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D044127" MajorTopicYN="N">Epigenesis, Genetic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020935" MajorTopicYN="N">MAP Kinase Signaling System</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008780" MajorTopicYN="N">Methyltransferases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019869" MajorTopicYN="N">Phosphatidylinositol 3-Kinases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051057" MajorTopicYN="Y">Proto-Oncogene Proteins c-akt</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016601" MajorTopicYN="N">RNA-Binding Proteins</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D042461" MajorTopicYN="N">Vascular Endothelial Growth Factor A</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>20</Day>
+          <Hour>23</Hour>
+          <Minute>15</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35595748</ArticleId>
+        <ArticleId IdType="pmc">PMC9122982</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41419-022-04950-2</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41419-022-04950-2</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Sung H, Ferlay J, Siegel RL, Laversanne M, Soerjomataram I, Jemal A, et al.  Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin. 2021;71:209–49. doi: 10.3322/caac.21660.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3322/caac.21660</ArticleId>
+            <ArticleId IdType="pubmed">33538338</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jung YD, Ahmad SA, Liu W, Reinmuth N, Parikh A, Stoeltzing O, et al.  The role of the microenvironment and intercellular cross-talk in tumor angiogenesis. Semin Cancer Biol. 2002;12:105–12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12027582</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Y, Sun H, Zhang D, Fan D, Zhang Y, Dong X, et al.  TP53INP1 inhibits hypoxia-induced vasculogenic mimicry formation via the ROS/snail signalling axis in breast cancer. J Cell Mol Med. 2018;22:3475–88.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6010892</ArticleId>
+            <ArticleId IdType="pubmed">29655255</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maniotis AJ, Folberg R, Hess A, Seftor EA, Gardner LM, Pe’er J, et al.  Vascular channel formation by human melanoma cells in vivo and in vitro: vasculogenic mimicry. Am J Pathol. 1999;155:739–52..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1866899</ArticleId>
+            <ArticleId IdType="pubmed">10487832</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang X, Zhang J, Zhou H, Fan G, Li Q. Molecular mechanisms and anticancer therapeutic strategies in vasculogenic mimicry. J Cancer. 2019;10:6327–40.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6856738</ArticleId>
+            <ArticleId IdType="pubmed">31772665</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ge H, Luo H. Overview of advances in vasculogenic mimicry - a potential target for tumor therapy. Cancer Manag Res. 2018;10:2429–37.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6080880</ArticleId>
+            <ArticleId IdType="pubmed">30122992</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meng J, Chen S, Lei YY, Han JX, Zhong WL, Wang XR, et al.  Hsp90β promotes aggressive vasculogenic mimicry via epithelial-mesenchymal transition in hepatocellular carcinoma. Oncogene. 2019;38:228–43.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30087438</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Camorani S, Crescenzi E, Gramanzini M, Fedele M, Zannetti A, Cerchia L. Aptamer-mediated impairment of EGFR-integrin αvβ3 complex inhibits vasculogenic mimicry and growth of triple-negative breast cancers. Sci Rep. 2017;7:46659.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5397976</ArticleId>
+            <ArticleId IdType="pubmed">28425453</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li W, Zong S, Shi Q, Li H, Xu J, Hou F. Hypoxia-induced vasculogenic mimicry formation in human colorectal cancer cells: Involvement of HIF-1a, Claudin-4, and E-cadherin and Vimentin. Sci Rep. 2016;6:37534.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5116622</ArticleId>
+            <ArticleId IdType="pubmed">27869227</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang H, Huang B, Li BM, Cao KY, Mo CQ, Jiang SJ, et al.  ZEB1-mediated vasculogenic mimicry formation associates with epithelial-mesenchymal transition and cancer stem cell phenotypes in prostate cancer. J Cell Mol Med. 2018;22:3768–81.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6050489</ArticleId>
+            <ArticleId IdType="pubmed">29754422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wei X, Chen Y, Jiang X, Peng M, Liu Y, Mo Y, et al.  Mechanisms of vasculogenic mimicry in hypoxic tumor microenvironments. Mol Cancer. 2021;20:7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7784348</ArticleId>
+            <ArticleId IdType="pubmed">33397409</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim HS, Won YJ, Shim JH, Kim HJ, Kim BS, Hong HN. Role of EphA2-PI3K signaling in vasculogenic mimicry induced by cancer-associated fibroblasts in gastric cancer cells. Oncol Lett. 2019;18:3031–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6704280</ArticleId>
+            <ArticleId IdType="pubmed">31452781</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li G, Huang M, Cai Y, Ke Y, Yang Y, Sun X. miR‑141 inhibits glioma vasculogenic mimicry by controlling EphA2 expression. Mol Med Rep. 2018;18:1395–404.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6072184</ArticleId>
+            <ArticleId IdType="pubmed">29901110</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu S, Bai J, Zhuan Z, Li B, Zhang Z, Wu X, et al.  EBV‑LMP1 is involved in vasculogenic mimicry formation via VEGFA/VEGFR1 signaling in nasopharyngeal carcinoma. Oncol Rep. 2018;40:377–84.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29749553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Z, Sun B, Li Y, Zhao X, Zhao X, Gu Q, et al.  ZEB2 promotes vasculogenic mimicry by TGF-β1 induced epithelial-to-mesenchymal transition in hepatocellular carcinoma. Exp Mol Pathol. 2015;98:352–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25818166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cui S, Wu Q, Liu M, Su M, Liu S, Shao L, et al.  EphA2 super-enhancer promotes tumor progression by recruiting FOSL2 and TCF7L2 to activate the target gene EphA2. Cell Death Dis. 2021;12:264.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7955082</ArticleId>
+            <ArticleId IdType="pubmed">33712565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taddei ML, Parri M, Angelucci A, Bianchini F, Marconi C, Giannoni E, et al.  EphA2 induces metastatic growth regulating amoeboid motility and clonogenic potential in prostate carcinoma cells. Mol Cancer Res. 2011;9:149–60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21205836</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang JY, Sun T, Zhao XL, Zhang SW, Zhang DF, Gu Q, et al.  Functional significance of VEGF-a in human ovarian carcinoma: role in vasculogenic mimicry. Cancer Biol Ther. 2008;7:758–66.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18376140</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yao X, Ping Y, Liu Y, Chen K, Yoshimura T, Liu M, et al.  Vascular endothelial growth factor receptor 2 (VEGFR-2) plays a key role in vasculogenic mimicry formation, neovascularization and tumor initiation by Glioma stem-like cells. PLoS One. 2013;8:e57188.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3594239</ArticleId>
+            <ArticleId IdType="pubmed">23536763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dominissini D, Moshitch-Moshkovitz S, Schwartz S, Salmon-Divon M, Ungar L, Osenberg S, et al.  Topology of the human and mouse m6A RNA methylomes revealed by m6A-seq. Nature. 2012;485:201–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22575960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luo Q, Wang J, Zhao W, Peng Z, Liu X, Li B, et al.  Vasculogenic mimicry in carcinogenesis and clinical applications. J Hematol Oncol. 2020;13:19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7071697</ArticleId>
+            <ArticleId IdType="pubmed">32169087</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meyer KD, Saletore Y, Zumbo P, Elemento O, Mason CE, Jaffrey SR. Comprehensive analysis of mRNA methylation reveals enrichment in 3’ UTRs and near stop codons. Cell. 2012;149:1635–46.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3383396</ArticleId>
+            <ArticleId IdType="pubmed">22608085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang T, Kong S, Tao M, Ju S. The potential role of RNA N6-methyladenosine in Cancer progression. Mol Cancer. 2020;19:88.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7216508</ArticleId>
+            <ArticleId IdType="pubmed">32398132</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Du H, Zhao Y, He J, Zhang Y, Xi H, Liu M, et al.  YTHDF2 destabilizes m(6)A-containing RNA through direct recruitment of the CCR4-NOT deadenylase complex. Nat Commun. 2016;7:12626.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5007331</ArticleId>
+            <ArticleId IdType="pubmed">27558897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin S, Choe J, Du P, Triboulet R, Gregory RI. The m(6)A methyltransferase METTL3 promotes translation in human cancer cells. Mol Cell. 2016;62:335–45.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4860043</ArticleId>
+            <ArticleId IdType="pubmed">27117702</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Geula S, Moshitch-Moshkovitz S, Dominissini D, Mansour AA, Kol N, Salmon-Divon M, et al.  Stem cells. m6A mRNA methylation facilitates resolution of naïve pluripotency toward differentiation. Science. 2015;347:1002–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25569111</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hao J, Xianfeng Y, Gao W, Wei J, Qi M, Han L, et al.  The perturbed expression of m6A in parthenogenetic mouse embryos. Genet Mol Biol. 2019;42:666–70.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6905444</ArticleId>
+            <ArticleId IdType="pubmed">31188932</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiang Y, Laurent B, Hsu CH, Nachtergaele S, Lu Z, Sheng W, et al.  RNA m(6)A methylation regulates the ultraviolet-induced DNA damage response. Nature. 2017;543:573–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5490984</ArticleId>
+            <ArticleId IdType="pubmed">28297716</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vu LP, Pickering BF, Cheng Y, Zaccara S, Nguyen D, Minuesa G, et al.  The N(6)-methyladenosine (m(6)A)-forming enzyme METTL3 controls myeloid differentiation of normal hematopoietic and leukemia cells. Nat Med. 2017;23:1369–76.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5677536</ArticleId>
+            <ArticleId IdType="pubmed">28920958</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen H, Gao S, Liu W, Wong CC, Wu J, Wu J, et al.  RNA N(6)-methyladenosine methyltransferase METTL3 facilitates colorectal cancer by activating the m(6)A-GLUT1-mTORC1 axis and Is a therapeutic target. Gastroenterology. 2021;160:1284–300.e16.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33217448</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li T, Hu PS, Zuo Z, Lin JF, Li X, Wu QN, et al.  METTL3 facilitates tumor progression via an m(6)A-IGF2BP2-dependent mechanism in colorectal carcinoma. Mol Cancer. 2019;18:112.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6589893</ArticleId>
+            <ArticleId IdType="pubmed">31230592</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng M, Sheng L, Gao Q, Xiong Q, Zhang H, Wu M, et al.  The m(6)A methyltransferase METTL3 promotes bladder cancer progression via AFF4/NF-κB/MYC signaling network. Oncogene. 2019;38:3667–80..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30659266</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang DD, Chen ZH, Yu K, Lu JH, Wu QN, Wang Y, et al.  METTL3 promotes the progression of gastric cancer via targeting the MYC pathway. Front Oncol. 2020;10:115.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7054453</ArticleId>
+            <ArticleId IdType="pubmed">32175271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen M, Wong CM. The emerging roles of N6-methyladenosine (m6A) deregulation in liver carcinogenesis. Mol Cancer. 2020;19:44.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7047367</ArticleId>
+            <ArticleId IdType="pubmed">32111216</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen XY, Zhang J, Zhu JS. The role of m(6)A RNA methylation in human cancer. Mol Cancer. 2019;18:103.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6540575</ArticleId>
+            <ArticleId IdType="pubmed">31142332</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen M, Wei L, Law CT, Tsang FH, Shen J, Cheng CL, et al.  RNA N6-methyladenosine methyltransferase-like 3 promotes liver cancer progression through YTHDF2-dependent posttranscriptional silencing of SOCS2. Hepatology. 2018;67:2254–70..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29171881</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang C, Samanta D, Lu H, Bullen JW, Zhang H, Chen I, et al.  Hypoxia induces the breast cancer stem cell phenotype by HIF-dependent and ALKBH5-mediated m6A-demethylation of NANOG mRNA. Proc Natl Acad Sci USA. 2016;113:E2047–56.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4833258</ArticleId>
+            <ArticleId IdType="pubmed">27001847</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang JG, Li XY, Wang YZ, Zhang QD, Gu SY, Wu X, et al.  ROCK is involved in vasculogenic mimicry formation in hepatocellular carcinoma cell line. PLoS One. 2014;9:e107661.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4169566</ArticleId>
+            <ArticleId IdType="pubmed">25238232</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu X, Zong Y, Gao Y, Sun X, Zhao H, Luo W, et al.  VEGF induce vasculogenic mimicry of choroidal melanoma through the PI3k signal pathway. Biomed Res Int. 2019;2019:3909102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6657640</ArticleId>
+            <ArticleId IdType="pubmed">31380420</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang X, Song Q, Wei C, Qu J. LRIG1 inhibits hypoxia-induced vasculogenic mimicry formation via suppression of the EGFR/PI3K/AKT pathway and epithelial-to-mesenchymal transition in human glioma SHG-44 cells. Cell Stress Chaperones. 2015;20:631–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4463919</ArticleId>
+            <ArticleId IdType="pubmed">25860915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Z, Wang T, Wu D, Min Z, Tan J, Yu B. RNA N6-methyladenosine reader IGF2BP3 regulates cell cycle and angiogenesis in colon cancer. J Exp Clin Cancer Res. 2020;39:203.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7523351</ArticleId>
+            <ArticleId IdType="pubmed">32993738</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maity A, Das B. N6-methyladenosine modification in mRNA: machinery, function and implications for health and diseases. Febs j. 2016;283:1607–30..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26645578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qin Y, Li L, Luo E, Hou J, Yan G, Wang D, et al.  Role of m6A RNA methylation in cardiovascular disease (Review) Int J Mol Med. 2020;46:1958–72.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7595665</ArticleId>
+            <ArticleId IdType="pubmed">33125109</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shi H, Wang X, Lu Z, Zhao BS, Ma H, Hsu PJ, et al.  YTHDF3 facilitates translation and decay of N(6)-methyladenosine-modified RNA. Cell Res. 2017;27:315–28..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5339834</ArticleId>
+            <ArticleId IdType="pubmed">28106072</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang X, Zhao BS, Roundtree IA, Lu Z, Han D, Ma H, et al.  N(6)-methyladenosine modulates messenger RNA translation efficiency. Cell. 2015;161:1388–99.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4825696</ArticleId>
+            <ArticleId IdType="pubmed">26046440</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bittner M, Meltzer P, Chen Y, Jiang Y, Seftor E, Hendrix M, et al.  Molecular classification of cutaneous malignant melanoma by gene expression profiling. Nature. 2000;406:536–40.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10952317</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qiao K, Liu Y, Xu Z, Zhang H, Zhang H, Zhang C, et al.  RNA m6A methylation promotes the formation of vasculogenic mimicry in hepatocellular carcinoma via Hippo pathway. Angiogenesis. 2021;24:83–96.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32920668</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ding X, Xi W, Ji J, Cai Q, Jiang J, Shi M, et al.  HGF derived from cancer‑associated fibroblasts promotes vascularization in gastric cancer via PI3K/AKT and ERK1/2 signaling. Oncol Rep. 2018;40:1185–95..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29917165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li Z, Weng H, Su R, Weng X, Zuo Z, Li C, et al.  FTO plays an oncogenic role in acute myeloid leukemia as a N(6)-methyladenosine RNA demethylase. Cancer Cell. 2017;31:127–41..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5234852</ArticleId>
+            <ArticleId IdType="pubmed">28017614</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

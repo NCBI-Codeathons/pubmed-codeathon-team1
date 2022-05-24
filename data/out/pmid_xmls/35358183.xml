@@ -1,0 +1,497 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35358183</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>09</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">1932-6203</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>17</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2022</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>PloS one</Title>
+          <ISOAbbreviation>PLoS One</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Open-source low-cost cardiac optical mapping system.</ArticleTitle>
+        <Pagination>
+          <StartPage>e0259174</StartPage>
+          <MedlinePgn>e0259174</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">e0259174</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0259174</ELocationID>
+        <Abstract>
+          <AbstractText>Fluorescent imaging with voltage- or calcium-sensitive dyes, known as optical mapping, is one of the indispensable modern techniques to study cardiac or neural electrophysiology, unsurpassed by temporal and spatial resolution. High-speed CMOS cameras capable of optical registration of action potential propagation are in general very costly. We present a complete solution priced below US$1,000 (including camera and lens) at the moment of publication with an open-source image acquisition and processing software. We demonstrate that the iDS UI-3130CP rev.2 camera we used in this study is capable of 200x200 977 frames per second (FPS) action potential recordings from rodent hearts, with the signal-to-noise-ratio of a conditioned signal of 16 ± 10. A comparison with a specialized MiCAM Ultimate-L camera has shown that signal-to-noise ratio (SNR) while lower is sufficient for accurate measurements of AP waveform, conduction velocity (± 0.04 m/s) and action potential duration (± 7ms) in mouse and rat hearts. We used 4-aminopyridine to prolong the action potential duration in mouse heart, thus demonstrating that the proposed system is adequate for pharmacological studies.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Rybashlykov</LastName>
+            <ForeName>Dmitry</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Human Physiology Lab, Moscow Institute of Physics and Technology, Moscow, Russia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brennan</LastName>
+            <ForeName>Jaclyn</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, The George Washington University, Washington DC, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lin</LastName>
+            <ForeName>Zexu</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, The George Washington University, Washington DC, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Efimov</LastName>
+            <ForeName>Igor R</ForeName>
+            <Initials>IR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, The George Washington University, Washington DC, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Syunyaev</LastName>
+            <ForeName>Roman</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">0000-0001-9582-0199</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Human Physiology Lab, Moscow Institute of Physics and Technology, Moscow, Russia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Sechenov University, Moscow, Russia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>31</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>PLoS One</MedlineTA>
+        <NlmUniqueID>101285081</NlmUniqueID>
+        <ISSNLinking>1932-6203</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D005456">Fluorescent Dyes</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000200" MajorTopicYN="N">Action Potentials</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005456" MajorTopicYN="Y">Fluorescent Dyes</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006321" MajorTopicYN="Y">Heart</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012984" MajorTopicYN="N">Software</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>NO authors have competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>31</Day>
+          <Hour>17</Hour>
+          <Minute>14</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35358183</ArticleId>
+        <ArticleId IdType="pmc">PMC8970595</ArticleId>
+        <ArticleId IdType="doi">10.1371/journal.pone.0259174</ArticleId>
+        <ArticleId IdType="pii">PONE-D-21-32419</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Boukens BJ, Efimov IR. A century of optocardiography. IEEE Rev Biomed Eng. 2014;7: 115–125. doi: 10.1109/RBME.2013.2286296
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/RBME.2013.2286296</ArticleId>
+            <ArticleId IdType="pmc">PMC4521770</ArticleId>
+            <ArticleId IdType="pubmed">24158521</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cohen LB, Salzberg BM. Optical measurement of membrane potential. Reviews of Physiology, Biochemistry and Pharmacology. 1978. pp. 35–88. doi: 10.1007/3-540-08907-1_2
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/3-540-08907-1_2</ArticleId>
+            <ArticleId IdType="pubmed">360357</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Salzberg BM, Davila HV, Cohen LB. Optical recording of impulses in individual neurones of an invertebrate central nervous system. Nature. 1973;246: 508–509. doi: 10.1038/246508a0
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/246508a0</ArticleId>
+            <ArticleId IdType="pubmed">4357630</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Salama G, Morad M. Merocyanine 540 as an optical probe of transmembrane electrical activity in the heart. Science. 1976;191: 485–487. doi: 10.1126/science.191.4226.485
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.191.4226.485</ArticleId>
+            <ArticleId IdType="pubmed">1082169</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Loew LM. Design and characterization of electrochromic membrane probes. J Biochem Biophys Methods. 1982;6: 243–260. doi: 10.1016/0165-022x(82)90047-1
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0165-022x(82)90047-1</ArticleId>
+            <ArticleId IdType="pubmed">7130621</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Takahashi A, Camacho P, Lechleiter JD, Herman B. Measurement of intracellular calcium. Physiol Rev. 1999;79: 1089–1125. doi: 10.1152/physrev.1999.79.4.1089
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/physrev.1999.79.4.1089</ArticleId>
+            <ArticleId IdType="pubmed">10508230</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Salama G, Lombardi R, Elson J. Maps of optical action potentials and NADH fluorescence in intact working hearts. Am J Physiol. 1987;252: H384–94. doi: 10.1152/ajpheart.1987.252.2.H384
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.1987.252.2.H384</ArticleId>
+            <ArticleId IdType="pubmed">3812752</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Efimov IR, Huang DT, Rendt JM, Salama G. Optical mapping of repolarization and refractoriness from intact hearts. Circulation. 1994. pp. 1469–1480. doi: 10.1161/01.cir.90.3.1469
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.cir.90.3.1469</ArticleId>
+            <ArticleId IdType="pubmed">8087954</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cathey B, Obaid S, Zolotarev AM, Pryamonosov RA, Syunyaev RA, George SA, et al.. Open-Source Multiparametric Optocardiography.
+Sci Rep. 2019;9: 721. doi: 10.1038/s41598-018-36809-y
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-018-36809-y</ArticleId>
+            <ArticleId IdType="pmc">PMC6346041</ArticleId>
+            <ArticleId IdType="pubmed">30679527</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin SF, Wikswo JP. Panoramic optical imaging of electrical propagation in isolated heart. J Biomed Opt. 1999;4: 200–207. doi: 10.1117/1.429910
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1117/1.429910</ArticleId>
+            <ArticleId IdType="pubmed">23015205</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gloschat C, Aras K, Gupta S, Faye NR, Zhang H, Syunyaev RA, et al.. RHYTHM: An Open Source Imaging Toolkit for Cardiac Panoramic Optical Mapping. Sci Rep. 2018;8: 2921. doi: 10.1038/s41598-018-21333-w
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-018-21333-w</ArticleId>
+            <ArticleId IdType="pmc">PMC5811559</ArticleId>
+            <ArticleId IdType="pubmed">29440763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bernus O, Mukund KS, Pertsov AM. Detection of intramyocardial scroll waves using absorptive transillumination imaging. J Biomed Opt. 2007;12: 014035. doi: 10.1117/1.2709661
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1117/1.2709661</ArticleId>
+            <ArticleId IdType="pubmed">17343510</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ripplinger CM. Panoramic Optical Imaging of Cardiac Arrhythmias. Cardiac Mapping. 2012. pp. 90–97. doi: 10.1002/9781118481585.ch10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/9781118481585.ch10</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee P, Calvo CJ, Alfonso-Almazán JM, Quintanilla JG, Chorro FJ, Yan P, et al.. Low-Cost Optical Mapping Systems for Panoramic Imaging of Complex Arrhythmias and Drug-Action in Translational Heart Models. Sci Rep. 2017;7: 43217. doi: 10.1038/srep43217
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/srep43217</ArticleId>
+            <ArticleId IdType="pmc">PMC5327492</ArticleId>
+            <ArticleId IdType="pubmed">28240274</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Witkowski FX, Leon LJ, Penkoske PA, Giles WR, Spano ML, Ditto WL, et al.. Spatiotemporal evolution of ventricular fibrillation. Nature. 1998;392: 78–82. doi: 10.1038/32170
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/32170</ArticleId>
+            <ArticleId IdType="pubmed">9510250</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lang D, Sulkin M, Lou Q, Efimov IR. Optical mapping of action potentials and calcium transients in the mouse heart. J Vis Exp. 2011. doi: 10.3791/3275
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3791/3275</ArticleId>
+            <ArticleId IdType="pmc">PMC3230201</ArticleId>
+            <ArticleId IdType="pubmed">21946907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fiset C, Clark RB, Larsen TS, Giles WR. A rapidly activating sustained K+ current modulates repolarization and excitation-contraction coupling in adult mouse ventricle. J Physiol. 1997;504 (Pt 3): 557–563. doi: 10.1111/j.1469-7793.1997.557bd.x
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1469-7793.1997.557bd.x</ArticleId>
+            <ArticleId IdType="pmc">PMC1159960</ArticleId>
+            <ArticleId IdType="pubmed">9401964</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li GR, Feng J, Wang Z, Fermini B, Nattel S. Comparative mechanisms of 4-aminopyridine-resistant Ito in human and rabbit atrial myocytes. Am J Physiol. 1995;269: H463–72. doi: 10.1152/ajpheart.1995.269.2.H463
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.1995.269.2.H463</ArticleId>
+            <ArticleId IdType="pubmed">7653610</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Näbauer M, Beuckelmann DJ, Erdmann E. Characteristics of transient outward current in human ventricular myocytes from patients with terminal heart failure. Circ Res. 1993;73: 386–394. doi: 10.1161/01.res.73.2.386
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.res.73.2.386</ArticleId>
+            <ArticleId IdType="pubmed">8330381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wegener JW, Peiter A, Sampson SR, Nawrath H. Mechanism of block by 4-aminopyridine of the transient outward current in rat ventricular cardiomyocytes. J Cardiovasc Pharmacol. 1998;32: 134–138. doi: 10.1097/00005344-199807000-00021
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/00005344-199807000-00021</ArticleId>
+            <ArticleId IdType="pubmed">9676733</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Castle NA, Slawsky MT. Characterization of 4-aminopyridine block of the transient outward K+ current in adult rat ventricular myocytes. J Pharmacol Exp Ther. 1993;265: 1450–1459. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8510021</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Simurda J, Simurdová M, Christé G. Use-dependent effects of 4-aminopyridine on transient outward current in dog ventricular muscle. Pflugers Arch. 1989;415: 244–246. doi: 10.1007/BF00370600
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/BF00370600</ArticleId>
+            <ArticleId IdType="pubmed">2480578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kostadinova I, Danchev N. 4-aminopyridine–the new old drug for the treatment of neurodegenerative diseases. Pharmacia. 2019. pp. 67–74. doi: 10.3897/pharmacia.66.e35976</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3897/pharmacia.66.e35976</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang CL-H. Murine Electrophysiological Models of Cardiac Arrhythmogenesis. Physiol Rev. 2017;97: 283–409. doi: 10.1152/physrev.00007.2016
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/physrev.00007.2016</ArticleId>
+            <ArticleId IdType="pmc">PMC5539373</ArticleId>
+            <ArticleId IdType="pubmed">27974512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bayly PV, KenKnight BH, Rogers JM, Hillsley RE, Ideker RE, Smith WM. Estimation of conduction velocity vector fields from epicardial mapping data. IEEE Trans Biomed Eng. 1998;45: 563–571. doi: 10.1109/10.668746
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/10.668746</ArticleId>
+            <ArticleId IdType="pubmed">9581054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Knollmann BC, Schober T, Petersen AO, Sirenko SG, Franz MR. Action potential characterization in intact mouse heart: steady-state cycle length dependence and electrical restitution. Am J Physiol Heart Circ Physiol. 2007;292: H614–21. doi: 10.1152/ajpheart.01085.2005
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.01085.2005</ArticleId>
+            <ArticleId IdType="pubmed">16963611</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Knollmann BC, Katchman AN, Franz MR. Monophasic action potential recordings from intact mouse heart: validation, regional heterogeneity, and relation to refractoriness. J Cardiovasc Electrophysiol. 2001;12: 1286–1294. doi: 10.1046/j.1540-8167.2001.01286.x
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1046/j.1540-8167.2001.01286.x</ArticleId>
+            <ArticleId IdType="pubmed">11761418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stein M, van Veen TAB, Hauer RNW, de Bakker JMT, van Rijen HVM. A 50% Reduction of Excitability but Not of Intercellular Coupling Affects Conduction Velocity Restitution and Activation Delay in the Mouse Heart. PLoS ONE. 2011. p. e20310. doi: 10.1371/journal.pone.0020310
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0020310</ArticleId>
+            <ArticleId IdType="pmc">PMC3106008</ArticleId>
+            <ArticleId IdType="pubmed">21673812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eloff BC, Lerner DL, Yamada KA, Schuessler RB, Saffitz JE, Rosenbaum DS. High resolution optical mapping reveals conduction slowing in connexin43 deficient mice. Cardiovasc Res. 2001;51: 681–690. doi: 10.1016/s0008-6363(01)00341-8
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0008-6363(01)00341-8</ArticleId>
+            <ArticleId IdType="pubmed">11530101</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Golovko V, Gonotkov M, Lebedeva E. Effects of 4-aminopyridine on action potentials generation in mouse sinoauricular node strips. Physiological Reports. 2015. p. e12447. doi: 10.14814/phy2.12447
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.14814/phy2.12447</ArticleId>
+            <ArticleId IdType="pmc">PMC4552527</ArticleId>
+            <ArticleId IdType="pubmed">26156968</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marina-Breysse M, García-Escolano A, Vila-García J, Reale-Nosei G, Alfonso-Almazán JM, Yan P, et al.. A Complete and Low-Cost Cardiac Optical Mapping System in Translational Animal Models. Front Physiol. 2021;12: 696270. doi: 10.3389/fphys.2021.696270
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fphys.2021.696270</ArticleId>
+            <ArticleId IdType="pmc">PMC8417781</ArticleId>
+            <ArticleId IdType="pubmed">34489722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Laughner JI, Ng FS, Sulkin MS, Arthur RM, Efimov IR. Processing and analysis of cardiac optical mapping data obtained with potentiometric dyes. Am J Physiol Heart Circ Physiol. 2012;303: H753–65. doi: 10.1152/ajpheart.00404.2012
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.00404.2012</ArticleId>
+            <ArticleId IdType="pmc">PMC3469699</ArticleId>
+            <ArticleId IdType="pubmed">22821993</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Shea C, Holmes AP, Yu TY, Winter J, Wells SP, Correia J, et al.. ElectroMap: High-throughput open-source software for analysis and mapping of cardiac electrophysiology. Sci Rep. 2019;9: 1389. doi: 10.1038/s41598-018-38263-2
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-018-38263-2</ArticleId>
+            <ArticleId IdType="pmc">PMC6362081</ArticleId>
+            <ArticleId IdType="pubmed">30718782</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li X, Roney CH, Handa BS, Chowdhury RA, Niederer SA, Peters NS, et al.. Standardised Framework for Quantitative Analysis of Fibrillation Dynamics. Sci Rep. 2019;9: 16671. doi: 10.1038/s41598-019-52976-y
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-019-52976-y</ArticleId>
+            <ArticleId IdType="pmc">PMC6853901</ArticleId>
+            <ArticleId IdType="pubmed">31723154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Forman DE, Cittadini A, Azhar G, Douglas PS, Wei JY. Cardiac morphology and function in senescent rats: gender-related differences. J Am Coll Cardiol. 1997;30: 1872–1877. doi: 10.1016/s0735-1097(97)00411-7
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0735-1097(97)00411-7</ArticleId>
+            <ArticleId IdType="pubmed">9385921</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vetter FJ, McCulloch AD. Three-dimensional analysis of regional cardiac function: a model of rabbit ventricular anatomy. Progress in Biophysics and Molecular Biology. 1998. pp. 157–183. doi: 10.1016/s0079-6107(98)00006-6
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0079-6107(98)00006-6</ArticleId>
+            <ArticleId IdType="pubmed">9785937</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang SY, Tsou HL, Chiu YT, Wu JJ, Lin JH, Yang PC, et al.. Statistical method for characterization of hypertrophic cardiomyopathy by use of morphologic and pathologic measurements in pigs (Sus scrofa domestica).
+Lab Anim Sci. 1999;49: 276–282. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10403442</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Doevendans P.
+Cardiovascular phenotyping in mice. Cardiovascular Research. 1998. pp. 34–49. doi: 10.1016/s0008-6363(98)00073-x
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0008-6363(98)00073-x</ArticleId>
+            <ArticleId IdType="pubmed">9764188</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mercader M, Swift L, Sood S, Asfour H, Kay M, Sarvazyan N. Use of endogenous NADH fluorescence for real-time in situ visualization of epicardial radiofrequency ablation lesions and gaps. Am J Physiol Heart Circ Physiol. 2012;302: H2131–8. doi: 10.1152/ajpheart.01141.2011
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.01141.2011</ArticleId>
+            <ArticleId IdType="pmc">PMC3362111</ArticleId>
+            <ArticleId IdType="pubmed">22408016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

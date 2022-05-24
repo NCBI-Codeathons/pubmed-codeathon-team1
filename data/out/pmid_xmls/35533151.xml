@@ -1,0 +1,1229 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35533151</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>23</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">1553-7374</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>18</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>PLoS pathogens</Title>
+          <ISOAbbreviation>PLoS Pathog</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>TRIM25 and ZAP target the Ebola virus ribonucleoprotein complex to mediate interferon-induced restriction.</ArticleTitle>
+        <Pagination>
+          <StartPage>e1010530</StartPage>
+          <MedlinePgn>e1010530</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">e1010530</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.ppat.1010530</ELocationID>
+        <Abstract>
+          <AbstractText>Ebola virus (EBOV) causes highly pathogenic disease in primates. Through screening a library of human interferon-stimulated genes (ISGs), we identified TRIM25 as a potent inhibitor of EBOV transcription-and-replication-competent virus-like particle (trVLP) propagation. TRIM25 overexpression inhibited the accumulation of viral genomic and messenger RNAs independently of the RNA sensor RIG-I or secondary proinflammatory gene expression. Deletion of TRIM25 strongly attenuated the sensitivity of trVLPs to inhibition by type-I interferon. The antiviral activity of TRIM25 required ZAP and the effect of type-I interferon was modulated by the CpG dinucleotide content of the viral genome. We find that TRIM25 interacts with the EBOV vRNP, resulting in its autoubiquitination and ubiquitination of the viral nucleoprotein (NP). TRIM25 is recruited to incoming vRNPs shortly after cell entry and leads to dissociation of NP from the vRNA. We propose that TRIM25 targets the EBOV vRNP, exposing CpG-rich viral RNA species to restriction by ZAP.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Galão</LastName>
+            <ForeName>Rui Pedro</ForeName>
+            <Initials>RP</Initials>
+            <Identifier Source="ORCID">0000-0003-3368-5053</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Infectious Diseases, School of Immunology and Microbial Sciences, King's College London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wilson</LastName>
+            <ForeName>Harry</ForeName>
+            <Initials>H</Initials>
+            <Identifier Source="ORCID">0000-0002-3185-1073</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Infectious Diseases, School of Immunology and Microbial Sciences, King's College London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schierhorn</LastName>
+            <ForeName>Kristina L</ForeName>
+            <Initials>KL</Initials>
+            <Identifier Source="ORCID">0000-0002-8649-1394</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Infectious Diseases, School of Immunology and Microbial Sciences, King's College London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Debeljak</LastName>
+            <ForeName>Franka</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Infectious Diseases, School of Immunology and Microbial Sciences, King's College London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bodmer</LastName>
+            <ForeName>Bianca S</ForeName>
+            <Initials>BS</Initials>
+            <Identifier Source="ORCID">0000-0001-9695-9168</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Institute for Molecular Virology and Cell Biology, Friedrich-Loeffler-Institut, Greifswald, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goldhill</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <Identifier Source="ORCID">0000-0003-4597-5963</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Section of Virology, Department of Medicine, Imperial College London, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hoenen</LastName>
+            <ForeName>Thomas</ForeName>
+            <Initials>T</Initials>
+            <Identifier Source="ORCID">0000-0002-5829-6305</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Institute for Molecular Virology and Cell Biology, Friedrich-Loeffler-Institut, Greifswald, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wilson</LastName>
+            <ForeName>Sam J</ForeName>
+            <Initials>SJ</Initials>
+            <Identifier Source="ORCID">0000-0002-6065-0895</Identifier>
+            <AffiliationInfo>
+              <Affiliation>MRC Centre for Virus Research, University of Glasgow, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Swanson</LastName>
+            <ForeName>Chad M</ForeName>
+            <Initials>CM</Initials>
+            <Identifier Source="ORCID">0000-0002-6650-3634</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Infectious Diseases, School of Immunology and Microbial Sciences, King's College London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Neil</LastName>
+            <ForeName>Stuart J D</ForeName>
+            <Initials>SJD</Initials>
+            <Identifier Source="ORCID">0000-0003-3306-5831</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Infectious Diseases, School of Immunology and Microbial Sciences, King's College London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>MR/M019756/1</GrantID>
+            <Acronym>MRC_</Acronym>
+            <Agency>Medical Research Council</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>MR/S000844/1</GrantID>
+            <Acronym>MRC_</Acronym>
+            <Agency>Medical Research Council</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>09</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>PLoS Pathog</MedlineTA>
+        <NlmUniqueID>101238921</NlmUniqueID>
+        <ISSNLinking>1553-7366</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000998">Antiviral Agents</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D007370">Interferon Type I</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D012261">Ribonucleoproteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000070584">Tripartite Motif Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.3.2.27</RegistryNumber>
+          <NameOfSubstance UI="D044767">Ubiquitin-Protein Ligases</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000998" MajorTopicYN="N">Antiviral Agents</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D029043" MajorTopicYN="Y">Ebolavirus</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019142" MajorTopicYN="Y">Hemorrhagic Fever, Ebola</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007370" MajorTopicYN="Y">Interferon Type I</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012261" MajorTopicYN="N">Ribonucleoproteins</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000070584" MajorTopicYN="N">Tripartite Motif Proteins</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D044767" MajorTopicYN="N">Ubiquitin-Protein Ligases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014779" MajorTopicYN="N">Virus Replication</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors have declared no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>9</Day>
+          <Hour>13</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35533151</ArticleId>
+        <ArticleId IdType="pmc">PMC9119685</ArticleId>
+        <ArticleId IdType="doi">10.1371/journal.ppat.1010530</ArticleId>
+        <ArticleId IdType="pii">PPATHOGENS-D-21-01241</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>McNab F, Mayer-Barber K, Sher A, Wack A, O’Garra A. Type I interferons in infectious disease. Nat Rev Immunol. 2015; 15, 87–103. doi: 10.1038/nri3787
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nri3787</ArticleId>
+            <ArticleId IdType="pmc">PMC7162685</ArticleId>
+            <ArticleId IdType="pubmed">25614319</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schoggins JW, Wilson SJ, Panis M, Murphy MY, Jones CT, Bieniasz P, et al.. A diverse range of gene products are effectors of the type I interferon antiviral response. Nature. 2011; 472, 481–485. doi: 10.1038/nature09907
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature09907</ArticleId>
+            <ArticleId IdType="pmc">PMC3409588</ArticleId>
+            <ArticleId IdType="pubmed">21478870</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schneider WM, Chevillotte MD, Rice CM. Interferon-stimulated genes: a complex web of host defenses. Annu Rev Immunol. 2014; 32, 513–545. doi: 10.1146/annurev-immunol-032713-120231
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-immunol-032713-120231</ArticleId>
+            <ArticleId IdType="pmc">PMC4313732</ArticleId>
+            <ArticleId IdType="pubmed">24555472</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Basler CF. Innate immune evasion by filoviruses. Virology. 2015; 479–480, 122–130. doi: 10.1016/j.virol.2015.03.030
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.virol.2015.03.030</ArticleId>
+            <ArticleId IdType="pmc">PMC4424075</ArticleId>
+            <ArticleId IdType="pubmed">25843618</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beachboard DC, Horner SM. Innate immune evasion strategies of DNA and RNA viruses. Curr Opin Microbiol. 2016; 32, 113–119. doi: 10.1016/j.mib.2016.05.015
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.mib.2016.05.015</ArticleId>
+            <ArticleId IdType="pmc">PMC4983539</ArticleId>
+            <ArticleId IdType="pubmed">27288760</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Messaoudi I, Amarasinghe GK, Basler CF. Filovirus pathogenesis and immune evasion: insights from Ebola virus and Marburg virus. Nat Rev Microbiol. 2015; 13, 663–676. doi: 10.1038/nrmicro3524
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrmicro3524</ArticleId>
+            <ArticleId IdType="pmc">PMC5201123</ArticleId>
+            <ArticleId IdType="pubmed">26439085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Geisbert TW, Young HA, Jahrling PB, Davis KJ, Larsen T, Kagan, et al.. Pathogenesis of Ebola hemorrhagic fever in primate models: evidence that hemorrhage is not a direct effect of virus-induced cytolysis of endothelial cells. Am J Pathol. 2003; 163, 2371–2382. doi: 10.1016/S0002-9440(10)63592-4
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0002-9440(10)63592-4</ArticleId>
+            <ArticleId IdType="pmc">PMC1892396</ArticleId>
+            <ArticleId IdType="pubmed">14633609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goldstein T, Anthony SJ, Gbakima A, Bird BH, Bangura J, Tremeau-Bravard A, et al.
+The discovery of Bombali virus adds further support for bats as hosts of ebolaviruses. Nat Microb. 2018; 3, 1084–1089. doi: 10.1038/s41564-018-0227-2
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41564-018-0227-2</ArticleId>
+            <ArticleId IdType="pmc">PMC6557442</ArticleId>
+            <ArticleId IdType="pubmed">30150734</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Leroy EM, Kumulungui B, Pourrut X, Rouquet P, Hassanin A, Yaba P, et al.. (2005). Fruit bats as reservoirs of Ebola virus. Nature. 2005; 438, 575–576. doi: 10.1038/438575a
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/438575a</ArticleId>
+            <ArticleId IdType="pubmed">16319873</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Negredo A, Palacios G, Vázquez-Móron S, González F, Dopazo H, Molero F, et al.. Discovery of an Ebolavirus-Like Filovirus in Europe. PLoS Path.
+2011; 7 (10): e1002304. doi: 10.1371/journal.ppat.1002304
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1002304</ArticleId>
+            <ArticleId IdType="pmc">PMC3197594</ArticleId>
+            <ArticleId IdType="pubmed">22039362</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vetter P, Fischer WA 2nd, Schibler M, Jacobs M, Bausch DG, Kaiser L. Ebola Virus Shedding and Transmission: Review of Current Evidence. J Infect Dis. 2016; 214, S177–S184. doi: 10.1093/infdis/jiw254
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/infdis/jiw254</ArticleId>
+            <ArticleId IdType="pmc">PMC6283352</ArticleId>
+            <ArticleId IdType="pubmed">27443613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Deen GF, Broutet N, Xu W, Knust B, Sesay FR, McDonald SLR, et al.
+Ebola RNA Persistence in Semen of Ebola Virus Disease Survivors—Final Report. N Engl J Med. 2017; 377, 1428–1437. doi: 10.1056/NEJMoa1511410
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa1511410</ArticleId>
+            <ArticleId IdType="pmc">PMC5798881</ArticleId>
+            <ArticleId IdType="pubmed">26465681</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Subissi L, Keita M, Mesfin S, Rezza G, Diallo B, Van Gucht S, et al.. Ebola Virus Transmission Caused by Persistently Infected Survivors of the 2014–2016 Outbreak in West Africa. J Infect Dis. 2018; Nov
+22;218(suppl_5):S287–S291. doi: 10.1093/infdis/jiy280
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/infdis/jiy280</ArticleId>
+            <ArticleId IdType="pmc">PMC6249578</ArticleId>
+            <ArticleId IdType="pubmed">29920602</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thorson AE, Deen GF, Bernstein KT, Liu WJ, Yamba F, Habib N, et al.
+Persistence of Ebola virus in semen among Ebola virus disease survivors in Sierra Leone: A cohort study of frequency, duration, and risk factors. PLoS Med.
+2021; Feb
+10;18(2):e1003273. doi: 10.1371/journal.pmed.1003273
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pmed.1003273</ArticleId>
+            <ArticleId IdType="pmc">PMC7875361</ArticleId>
+            <ArticleId IdType="pubmed">33566817</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Geisbert TW, Hensley LE, Larsen T, Young HA, Reed DS, Geisbert JB, et al.. Pathogenesis of Ebola hemorrhagic fever in cynomolgus macaques: evidence that dendritic cells are early and sustained targets of infection. Am J Pathol. 2003. 
+163, 2347–2370. doi: 10.1016/S0002-9440(10)63591-2
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0002-9440(10)63591-2</ArticleId>
+            <ArticleId IdType="pmc">PMC1892369</ArticleId>
+            <ArticleId IdType="pubmed">14633608</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carette JE, Raaben M, Wong AC, Herbert AS, Obernosterer G, Mulherkar N, et al.. Ebola virus entry requires the cholesterol transporter Niemann-Pick C1. Nature
+2011; 477, 340–343. doi: 10.1038/nature10348
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature10348</ArticleId>
+            <ArticleId IdType="pmc">PMC3175325</ArticleId>
+            <ArticleId IdType="pubmed">21866103</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chandran K, Sullivan NJ, Felbor U, Whelan SP, Cunningham JM. Endosomal proteolysis of the Ebola virus glycoprotein is necessary for infection. Science. 2005; 308, 1643–1645. doi: 10.1126/science.1110656
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1110656</ArticleId>
+            <ArticleId IdType="pmc">PMC4797943</ArticleId>
+            <ArticleId IdType="pubmed">15831716</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cote M, Misasi J, Ren T, Bruchez A, Lee K, Filone CM, et al.
+Small molecule inhibitors reveal Niemann-Pick C1 is essential for Ebola virus infection. Nature. 2011; 477, 344–348. doi: 10.1038/nature10380
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature10380</ArticleId>
+            <ArticleId IdType="pmc">PMC3230319</ArticleId>
+            <ArticleId IdType="pubmed">21866101</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muhlberger E.
+Filovirus replication and transcription. Future Virol. 2007; 2, 205–215. doi: 10.2217/17460794.2.2.205
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2217/17460794.2.2.205</ArticleId>
+            <ArticleId IdType="pmc">PMC3787895</ArticleId>
+            <ArticleId IdType="pubmed">24093048</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muhlberger E, Weik M, Volchkov VE, Klenk HD, Becker S. Comparison of the transcription and replication strategies of marburg virus and Ebola virus by using artificial replication systems. J Virol. 1999; 73(3):2333–42. doi: 10.1128/JVI.73.3.2333-2342.1999
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.73.3.2333-2342.1999</ArticleId>
+            <ArticleId IdType="pmc">PMC104478</ArticleId>
+            <ArticleId IdType="pubmed">9971816</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tchesnokov EP, Raeisimakiani P, Ngure M, Marchant D, Goette M. Recombinant RNA-dependent RNA polymerase complex of Ebola Virus. Sci Rep. 2018; 8(1):3970. doi: 10.1038/s41598-018-22328-3
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-018-22328-3</ArticleId>
+            <ArticleId IdType="pmc">PMC5838098</ArticleId>
+            <ArticleId IdType="pubmed">29507309</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kirchdoerfer RN, Abelson DM, Li S, Wood MR, Saphire EO. Assembly of the Ebola Virus Nucleoprotein from a Chaperoned VP35 Complex. Cell Rep. 2015; 12, 140–149. doi: 10.1016/j.celrep.2015.06.003
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2015.06.003</ArticleId>
+            <ArticleId IdType="pmc">PMC4500542</ArticleId>
+            <ArticleId IdType="pubmed">26119732</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Leung DQ, Borek D, Luthra P, Binning JM, Anantpadma M, Liu G, et al.. An Intrinsically Disordered Peptide from Ebola Virus VP35 Controls Viral RNA Synthesis by Modulating Nucleoprotein-RNA Interactions. Cell Rep.
+2015; 11(3):376–89. doi: 10.1016/j.celrep.2015.03.034
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2015.03.034</ArticleId>
+            <ArticleId IdType="pmc">PMC4599368</ArticleId>
+            <ArticleId IdType="pubmed">25865894</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Noda T, Hagiwara K, Sagara H, Kawaoka Y. Characterization of the Ebola virus nucleoprotein-RNA complex. J Gen Virol. 2010; 91, 1478–1483. doi: 10.1099/vir.0.019794-0
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/vir.0.019794-0</ArticleId>
+            <ArticleId IdType="pmc">PMC2878588</ArticleId>
+            <ArticleId IdType="pubmed">20164259</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sugita Y, Matsunami H, Kawaoka Y, Noda T, Wolf M. Cryo-EM structure of the Ebola virus nucleoprotein-RNA complex at 3.6 Å resolution. Nature. 2018; 563(7729):137–140. doi: 10.1038/s41586-018-0630-0
+10.1038/s41586-018-0630-0
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-018-0630-0</ArticleId>
+            <ArticleId IdType="doi">10.1038/s41586-018-0630-0</ArticleId>
+            <ArticleId IdType="pubmed">30333622</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bharat TAM, Noda T, Riches JD, Kraehling V, Kolesnikova L, Becker S, et al.. Structural dissection of Ebola Virus and its assembly determinants using cryo-electron tomography, Proc Natl Acad Sci USA. 2012; 109(11):4275–80. doi: 10.1073/pnas.1120453109
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1120453109</ArticleId>
+            <ArticleId IdType="pmc">PMC3306676</ArticleId>
+            <ArticleId IdType="pubmed">22371572</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biedenkopf N, Schlereth J, Grunweller A, Becker S, Hartmann RK. RNA Binding of Ebola Virus VP30 Is Essential for Activating Viral Transcription. J Virol. 2016; 90, 7481–7496. doi: 10.1128/JVI.00271-16
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.00271-16</ArticleId>
+            <ArticleId IdType="pmc">PMC4984652</ArticleId>
+            <ArticleId IdType="pubmed">27279615</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kruse T, Biedenkopf N, Hertz EPT, Dietzel E, Stalmann G, Lopez-Mendez B, et al.. The Ebola Virus Nucleoprotein Recruits the Host PP2A-B56 Phosphatase to Activate Transcriptional Support Activity of VP30. Mol Cell. 2018; 69, 136–145 e136. doi: 10.1016/j.molcel.2017.11.034
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2017.11.034</ArticleId>
+            <ArticleId IdType="pubmed">29290611</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biedenkopf N, Hartlieb B, Hoenen T, Becker S. Phosphorylation of Ebola virus VP30 influences the composition of the viral nucleocapsid complex: impact on viral transcription and replication. J Biol Chem. 2013; 288, 11165–11174. doi: 10.1074/jbc.M113.461285
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M113.461285</ArticleId>
+            <ArticleId IdType="pmc">PMC3630872</ArticleId>
+            <ArticleId IdType="pubmed">23493393</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoenen T, Shabman RS, Groseth A, Herwig A, Weber M, Schudt G, et al.. Inclusion bodies are a site of ebolavirus replication. J Virol. 2012; 86, 11779–11788. doi: 10.1128/JVI.01525-12
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.01525-12</ArticleId>
+            <ArticleId IdType="pmc">PMC3486333</ArticleId>
+            <ArticleId IdType="pubmed">22915810</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martin-Serrano J, Zang T, Bieniasz PD. HIV-1 and Ebola virus encode small peptide motifs that recruit Tsg101 to sites of particle assembly to facilitate egress. Nature medicine. 2001; 7, 1313–1319. doi: 10.1038/nm1201-1313
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nm1201-1313</ArticleId>
+            <ArticleId IdType="pubmed">11726971</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Noda T, Sagara H, Suzuki E, Takada A, Kida H, Kawaoka Y. Ebola virus VP40 drives the formation of virus-like filamentous particles along with GP. J Virol. 2002; 76, 4855–4865. doi: 10.1128/jvi.76.10.4855-4865.2002
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/jvi.76.10.4855-4865.2002</ArticleId>
+            <ArticleId IdType="pmc">PMC136157</ArticleId>
+            <ArticleId IdType="pubmed">11967302</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Basler CF, Mikulasova A, Martinez-Sobrido L, Paragas J, Muhlberger E, Bray M, et al.. The Ebola virus VP35 protein inhibits activation of interferon regulatory factor 3. J Virol. 2003; 77, 7945–7956. doi: 10.1128/jvi.77.14.7945-7956.2003
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/jvi.77.14.7945-7956.2003</ArticleId>
+            <ArticleId IdType="pmc">PMC161945</ArticleId>
+            <ArticleId IdType="pubmed">12829834</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cardenas WB, Loo YM, Gale M Jr, Hartman AL, Kimberlin CR, Martinez-Sobrido L, et al.. Ebola virus VP35 protein binds double-stranded RNA and inhibits alpha/beta interferon production induced by RIG-I signaling. J Virol. 2006; 80, 5168–5178. doi: 10.1128/JVI.02199-05
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.02199-05</ArticleId>
+            <ArticleId IdType="pmc">PMC1472134</ArticleId>
+            <ArticleId IdType="pubmed">16698997</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chang T-H, Kubota T, Matsuoka M, Jones S, Bradfute SB, Bray M, et al.. Ebola Zaire virus blocks type I interferon production by exploiting the host SUMOS modification machinery. PLoS Pathog.
+2009; Jun;5(6):e1000493. doi: 10.1371/journal.ppat.1000493
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1000493</ArticleId>
+            <ArticleId IdType="pmc">PMC2696038</ArticleId>
+            <ArticleId IdType="pubmed">19557165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luthra P, Parameshwaran R, Mire CE, Weisend C, Tsuda Y, Yen B, et al.
+Mutual antagonism between the Ebola virus VP35 protein and the RIG-I activator PACT determines infection outcome. Cell Host Microbe. 2013; Jul
+17;14(1):74–84. doi: 10.1016/j.chom.2013.06.010
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.chom.2013.06.010</ArticleId>
+            <ArticleId IdType="pmc">PMC3875338</ArticleId>
+            <ArticleId IdType="pubmed">23870315</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prins KC, Cardenas WB, Basler CF. Ebola virus protein VP35 impairs the function of interferon regulatory factor-activating kinases IKKepsilon and TBK-1. J Virol. 2009; 83, 3069–3077. doi: 10.1128/JVI.01875-08
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.01875-08</ArticleId>
+            <ArticleId IdType="pmc">PMC2655579</ArticleId>
+            <ArticleId IdType="pubmed">19153231</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shabman RS, Gulcicek EE, Stone KL, Basler CF.The Ebola virus VP24 protein prevents hnRNP C1/C2 binding to karyopherin alpha1 and partially alters its nuclear import. J Infect Dis. 2011; 204
+Suppl 3, S904–910. doi: 10.1093/infdis/jir323
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/infdis/jir323</ArticleId>
+            <ArticleId IdType="pmc">PMC3189985</ArticleId>
+            <ArticleId IdType="pubmed">21987768</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang AP, Bornholdt ZA, Liu T, Abelson DM, Lee DE, Li S, et al.. The ebola virus interferon antagonist VP24 directly binds STAT1 and has a novel, pyramidal fold. PLoS Pathog. 2012; 8, e1002550. doi: 10.1371/journal.ppat.1002550
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1002550</ArticleId>
+            <ArticleId IdType="pmc">PMC3285596</ArticleId>
+            <ArticleId IdType="pubmed">22383882</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaletsky RL, Francica JR, Agrawal-Gamse C, Bates P. Tetherin-mediated restriction of filovirus budding is antagonized by the Ebola glycoprotein. Proc Natl Acad Sci U S A. 2009; 106, 2886–2891. doi: 10.1073/pnas.0811014106
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0811014106</ArticleId>
+            <ArticleId IdType="pmc">PMC2650360</ArticleId>
+            <ArticleId IdType="pubmed">19179289</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lopez LA, Yang SJ, Hauser H, Exline CM, Haworth KG, Oldenburg J, et al.. Ebola virus glycoprotein counteracts BST-2/Tetherin restriction in a sequence-independent manner that does not require tetherin surface removal. J Virol. 2010; 84, 7243–7255. doi: 10.1128/JVI.02636-09
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.02636-09</ArticleId>
+            <ArticleId IdType="pmc">PMC2898217</ArticleId>
+            <ArticleId IdType="pubmed">20444895</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang IC, Bailey CC, Weyer JL, Radoshitzky SR, Becker MM, Chiang JJ, et al.
+Distinct patterns of IFITM-mediated restriction of filoviruses, SARS coronavirus, and influenza A virus. PLoS Pathog. 2011; 7, e1001258. doi: 10.1371/journal.ppat.1001258
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1001258</ArticleId>
+            <ArticleId IdType="pmc">PMC3017121</ArticleId>
+            <ArticleId IdType="pubmed">21253575</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kuroda M, Halfmann PJ, Hill-Batorski L, Ozawa M, Lopes TJS, Neumann G, et al.. Identification of interferon-stimulated genes that attenuate EBOV infection. Nat Commun.
+2020; Jun
+11;11(1)2953. doi: 10.1038/s41467-020-16768-7
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-020-16768-7</ArticleId>
+            <ArticleId IdType="pmc">PMC7289892</ArticleId>
+            <ArticleId IdType="pubmed">32528005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Okumura A, Pitha PM, Harty RN. (2008). ISG15 inhibits Ebola VP40 VLP budding in an L-domain-dependent manner by blocking Nedd4 ligase activity. Proc Natl Acad Sci U S A. 2008; 105, 3974–3979. doi: 10.1073/pnas.0710629105
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0710629105</ArticleId>
+            <ArticleId IdType="pmc">PMC2268823</ArticleId>
+            <ArticleId IdType="pubmed">18305167</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eisfeld AJ, Halfmann PJ, Wendler JP, Kyle JE, Burnun-Johnson KE, Peralta Z, et al.. Multi-platoform ’Omics Analysis of Human Ebola Virus Disease Pathogenesis. Cell Host Microbe. 2017. 
+22(6):817–829.e8. doi: 10.1016/j.chom.2017.10.011
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.chom.2017.10.011</ArticleId>
+            <ArticleId IdType="pmc">PMC5730472</ArticleId>
+            <ArticleId IdType="pubmed">29154144</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McElroy AK, Harmon JR, Fliestra TD, Campbell S, Mehta AK, Kraft CS, et al.. Kinetic Analysis of Biomarkers in a Cohort of US patients with Ebola Virus Disease. Clin Infect Dis. 2016; 63(4):460–7. doi: 10.1093/cid/ciw334
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/cid/ciw334</ArticleId>
+            <ArticleId IdType="pmc">PMC4967605</ArticleId>
+            <ArticleId IdType="pubmed">27353663</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hutchinson KL, Rollin PE. Cytokine and chemokine expression in humans infected with Sudan Ebola Virus. J Infect Dis. 2007; 196
+Suppl 2:S357–63. doi: 10.1086/520611
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1086/520611</ArticleId>
+            <ArticleId IdType="pubmed">17940971</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kane M, Zang TM, Rihn SJ, Zhang F, Kueck T, Alim M, et al.. Identification of Interferon-Stimulated Genes with Antiretroviral Activity. Cell Host Microbe. 2016; 20, 392–405. doi: 10.1016/j.chom.2016.08.005
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.chom.2016.08.005</ArticleId>
+            <ArticleId IdType="pmc">PMC5026698</ArticleId>
+            <ArticleId IdType="pubmed">27631702</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Watt A, Moukambi F, Banadyga L, Groseth A, Callison J, Herwig A, et al.. A novel life cycle modeling system for Ebola virus shows a genome length-dependent role of VP24 in virus infectivity. J Virol. 2014; 88, 10511–10524. doi: 10.1128/JVI.01272-14
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.01272-14</ArticleId>
+            <ArticleId IdType="pmc">PMC4178905</ArticleId>
+            <ArticleId IdType="pubmed">24965473</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gack MU, Shin YC, Joo CH, Urano T, Liang C, Sun L, et al.
+TRIM25 RING-finger E3 ubiquitin ligase is essential for RIG-I-mediated antiviral activity. Nature. 2007; 446, 916–920. doi: 10.1038/nature05732
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature05732</ArticleId>
+            <ArticleId IdType="pubmed">17392790</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li MM, Lau Z, Cheung P, Aguilar EG, Schneider WM, Bozzacco L, et al.
+TRIM25 Enhances the Antiviral Action of Zinc-Finger Antiviral Protein (ZAP). PLoS Pathog.
+2017; 13, e1006145. doi: 10.1371/journal.ppat.1006145
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1006145</ArticleId>
+            <ArticleId IdType="pmc">PMC5245905</ArticleId>
+            <ArticleId IdType="pubmed">28060952</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martin-Vicente M, Medrano LM, Resino S, Garcia-Sastre A, Martinez I. TRIM25 in the Regulation of the Antiviral Innate Immunity. Front Immunol. 2017; 8, 1187. doi: 10.3389/fimmu.2017.01187
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fimmu.2017.01187</ArticleId>
+            <ArticleId IdType="pmc">PMC5614919</ArticleId>
+            <ArticleId IdType="pubmed">29018447</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meyerson NR, Zhou L, Guo YR, Zhao C, Tao YJ, Krug RM, et al.. Nuclear TRIM25 Specifically Targets Influenza Virus Ribonucleoproteins to Block the Onset of RNA Chain Elongation. Cell Host Microbe. 2017; 22, 627–638 e627. doi: 10.1016/j.chom.2017.10.003
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.chom.2017.10.003</ArticleId>
+            <ArticleId IdType="pmc">PMC6309188</ArticleId>
+            <ArticleId IdType="pubmed">29107643</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zheng X, Wang X, Tu F, Wang Q, Fan Z, Gao G. TRIM25 Is Required for the Antiviral Activity of Zinc Finger Antiviral Protein. J Virol. 2017; 91. doi: 10.1128/JVI.00088-17
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.00088-17</ArticleId>
+            <ArticleId IdType="pmc">PMC5391446</ArticleId>
+            <ArticleId IdType="pubmed">28202764</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chiu HP, Chiu H, Yang CF, Lee YL, Chiu FL, Kuo HC, et al.. Inhibition of Japanese encephalitis virus infection by the host zinc-finger antiviral protein. PLoS Pathog.
+2018; 14, e1007166. doi: 10.1371/journal.ppat.1007166
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1007166</ArticleId>
+            <ArticleId IdType="pmc">PMC6049953</ArticleId>
+            <ArticleId IdType="pubmed">30016363</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Takata MA, Goncalves-Carneiro D, Zang TM, Soll SJ, York A, Blanco-Melo D, et al.. CG dinucleotide suppression enables antiviral defence targeting non-self RNA. Nature. 2017; 550, 124–127. doi: 10.1038/nature24039
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature24039</ArticleId>
+            <ArticleId IdType="pmc">PMC6592701</ArticleId>
+            <ArticleId IdType="pubmed">28953888</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Escudero-Pérez B, Muñoz-Fontela C. Role of Type I Interferons on Filovirus Pathogenesis. Vaccines (Basel).
+2019. 
+Feb
+20;7(1):22. doi: 10.3390/vaccines7010022
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/vaccines7010022</ArticleId>
+            <ArticleId IdType="pmc">PMC6466283</ArticleId>
+            <ArticleId IdType="pubmed">30791589</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McCarthy SDS., Majchrzak-Kita B, Racine T, Kozlowski HN, Baker DP, Hoenen T, et al.. A Rapid Screening Assay Identifies Monotherapy with Interferon-ß and Combination Therapies with Nucleoside Analogs as Effective Inhibitors of Ebola Virus.
+PLoS Negl Trop Dis.
+2016; Jan
+11;10(1):e0004364. doi: 10.1371/journal.pntd.0004364
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pntd.0004364</ArticleId>
+            <ArticleId IdType="pmc">PMC4709101</ArticleId>
+            <ArticleId IdType="pubmed">26752302</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cadena C, Ahmad S, Xavier A, Willemsen J, Park S, Park JW, et al.. Ubiquitin-Dependent and -Independent Roles of E3 Ligase RIPLET in Innate Immunity. Cell. 2019; 16;177(5):1187–1200.e16. doi: 10.1016/j.cell.2019.03.017
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2019.03.017</ArticleId>
+            <ArticleId IdType="pmc">PMC6525047</ArticleId>
+            <ArticleId IdType="pubmed">31006531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oshiumi H, Miyashita M, Matsumoto M, Seya T. A distinct role of Riplet-mediated K63-linked polyubiquitination of the RIG-I suppressor domain in human antiviral innate immune responses. PLoS Pathog. 2013; 9: e1003533
+doi: 10.1371/journal.ppat.1003533
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1003533</ArticleId>
+            <ArticleId IdType="pmc">PMC3738492</ArticleId>
+            <ArticleId IdType="pubmed">23950712</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Loo YM, Gale M Jr. Immune signaling by RIG-I-like receptors. Immunity. 2011; 34, 680–692. doi: 10.1016/j.immuni.2011.05.003
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.immuni.2011.05.003</ArticleId>
+            <ArticleId IdType="pmc">PMC3177755</ArticleId>
+            <ArticleId IdType="pubmed">21616437</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brubaker SW, Gauthier AE, Mills EW, Ingolia NT, Kagan JC. A bicistronic MAVS transcript highlights a class of truncated variants in antiviral immunity. Cell. 2014; 156, 800–811. doi: 10.1016/j.cell.2014.01.021
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2014.01.021</ArticleId>
+            <ArticleId IdType="pmc">PMC3959641</ArticleId>
+            <ArticleId IdType="pubmed">24529381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bick MJ, Carroll JW, Gao G, Goff SP, Rice CM, MacDonald MR. Expression of the zinc-finger antiviral protein inhibits alphavirus replication. J Virol. 2003; 77, 11555–11562. doi: 10.1128/jvi.77.21.11555-11562.2003
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/jvi.77.21.11555-11562.2003</ArticleId>
+            <ArticleId IdType="pmc">PMC229374</ArticleId>
+            <ArticleId IdType="pubmed">14557641</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gao G, Guo X, Goff SP. Inhibition of retroviral RNA production by ZAP, a CCCH-type zinc finger protein. Science. 2002; 297, 1703–1706. doi: 10.1126/science.1074276
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1074276</ArticleId>
+            <ArticleId IdType="pubmed">12215647</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kerns JA, Emerman M, Malik HS. Positive selection and increased antiviral activity associated with the PARP-containing isoform of human zinc-finger antiviral protein. PLoS Genet. 2008; 4, e21. doi: 10.1371/journal.pgen.0040021
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pgen.0040021</ArticleId>
+            <ArticleId IdType="pmc">PMC2213710</ArticleId>
+            <ArticleId IdType="pubmed">18225958</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Charron G, Li MM, MacDonald MR, Hang HC. Prenylome profiling reveals S-farnesylation is crucial for membrane targeting and antiviral activity of ZAP long-isoform. Proc Natl Acad Sci U S A. 2013; 110, 11085–11090. doi: 10.1073/pnas.1302564110
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1302564110</ArticleId>
+            <ArticleId IdType="pmc">PMC3703996</ArticleId>
+            <ArticleId IdType="pubmed">23776219</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goodier JL, Pereira GC, Cheung LE, Rose RJ, Kazazian HH Jr. The Broad-Spectrum Antiviral Protein ZAP Restricts Human Retrotransposition. PLoS Genet.
+2015; 11, e1005252. doi: 10.1371/journal.pgen.1005252
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1005252</ArticleId>
+            <ArticleId IdType="pmc">PMC4441479</ArticleId>
+            <ArticleId IdType="pubmed">26001115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hayakawa S, Shiratori S, Yamato H, Kameyama T, Kitatsuji C, Kashigi F, et al.. ZAPS is a potent stimulator of signaling mediated by the RNA helicase RIG-I during antiviral responses. Nat Immunol. 2011; 12, 37–44. doi: 10.1038/ni.1963
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ni.1963</ArticleId>
+            <ArticleId IdType="pubmed">21102435</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muller S, Moller P, Bick MJ, Wurr S, Becker S, Gunther S, et al.. Inhibition of filovirus replication by the zinc finger antiviral protein. J Virol. 2007; 81, 2391–2400. doi: 10.1128/JVI.01601-06
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.01601-06</ArticleId>
+            <ArticleId IdType="pmc">PMC1865956</ArticleId>
+            <ArticleId IdType="pubmed">17182693</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fros JJ, Dietrich I, Alshaikhahmed K, Passchier TC, Evans DJ, Simmonds P. CpG and UpA dinucleotides in both coding and non-coding regions of echovirus 7 inhibit replication initiation post-entry. Elife.
+2017; 6:e29112. doi: 10.7554/eLife.29112
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.29112</ArticleId>
+            <ArticleId IdType="pmc">PMC5659819</ArticleId>
+            <ArticleId IdType="pubmed">28960178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ficarelli M, Wilson H, Galão RP, Mazzon M, Antzin-Anduetza I, Marsh M, et al.. KHNYN is essential for the zinc finger antiviral protein (ZAP) to restrict HIV-1 containing clustered CpG dinucleotides. Elife.
+2019; Jul
+9;8:e46767. doi: 10.7554/eLife.46767
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.46767</ArticleId>
+            <ArticleId IdType="pmc">PMC6615859</ArticleId>
+            <ArticleId IdType="pubmed">31284899</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>D’Cruz AA, Kershaw NJ, Chiang JJ, Wang MK, Nicola NA, Babon JJ, et al.. Crystal structure of the TRIM25 B30.2 (PRYSPRY) domain: a key component of antiviral signalling.
+Biochem J. 2013; 456, 231–240. doi: 10.1042/BJ20121425
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/BJ20121425</ArticleId>
+            <ArticleId IdType="pmc">PMC4012390</ArticleId>
+            <ArticleId IdType="pubmed">24015671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanchez JG, Okreglicka K, Chandrasekaran V, Welker JM, Sundquist WI, Pornillos O. The tripartite motif coiled-coil is an elongated antiparallel hairpin dimer. Proc Natl Acad Sci U S A. 2014; 111, 2494–2499. doi: 10.1073/pnas.1318962111
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1318962111</ArticleId>
+            <ArticleId IdType="pmc">PMC3932864</ArticleId>
+            <ArticleId IdType="pubmed">24550273</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tomar D, Singh R. TRIM family proteins: emerging class of RING E3 ligases as regulator of NF-kappaB pathway. Biol Cell. 2015; 107, 22–40. doi: 10.1111/boc.201400046
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/boc.201400046</ArticleId>
+            <ArticleId IdType="pubmed">25319221</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zou W, Zhang DE. The interferon-inducible ubiquitin-protein isopeptide ligase (E3) EFP also functions as an ISG15 E3 ligase. J Biol Chem. 2005; 281(7):3989–94. doi: 10.1074/jbc.M510787200
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M510787200</ArticleId>
+            <ArticleId IdType="pubmed">16352599</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nakasato N, Ikeda K, Urano T, Horie-Inoue K, Takeda S, Inoue S. A ubiquitin E3 ligase Efp is up-regulated by interferons and conjugated with ISG15. Biochemical and biophysical research communications. 2006; 351(2). doi: 10.1016/j.bbrc.2006.10.061
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbrc.2006.10.061</ArticleId>
+            <ArticleId IdType="pubmed">17069755</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Choudhury NR, Heikel G, Trubitsyna M, Kubik P, Nowak JS, Webb S, et al.. RNA-binding activity of TRIM25 is mediated by its PRY/SPRY domain and is required for ubiquitination.
+BMC Biol. 2017; 15, 105. doi: 10.1186/s12915-017-0444-9
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12915-017-0444-9</ArticleId>
+            <ArticleId IdType="pmc">PMC5678581</ArticleId>
+            <ArticleId IdType="pubmed">29117863</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanchez JG, Sparrer KMJ, Chiang C, Reis RA, Chiang JJ, Zurenski MA, et al.. TRIM25 Binds RNA to Modulate Cellular Anti-viral Defense. J Mol Biol. 2018; 430, 5280–5293. doi: 10.1016/j.jmb.2018.10.003
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jmb.2018.10.003</ArticleId>
+            <ArticleId IdType="pmc">PMC6289755</ArticleId>
+            <ArticleId IdType="pubmed">30342007</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cai X, Chen J, Xu H, Liu S, Jiang QX, Halfmann R, et al.. Prion-like polymerization underlies signal transduction in antiviral immune defense and inflammasome activation. Cell. 2014; 156, 1207–1222. doi: 10.1016/j.cell.2014.01.063
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2014.01.063</ArticleId>
+            <ArticleId IdType="pmc">PMC4034535</ArticleId>
+            <ArticleId IdType="pubmed">24630723</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Odon V, Fros JJ, Goonawardane N, Dietrich I, Ibrahim A, Alshaikhahmed K, et al.. The role of ZAP and OAS3/RNAse L pathways in the attenuation of an RNA virus with elevated frequencies of CpG and UpA dinucleotides. Nucleic Acids Res. 2019; 5;47(15):8061–8083. doi: 10.1093/nar/gkz581
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkz581</ArticleId>
+            <ArticleId IdType="pmc">PMC6735852</ArticleId>
+            <ArticleId IdType="pubmed">31276592</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fletcher AJ, Mallery DL, Watkinson RE, Dickson CF, James LC. Sequential ubiquitination and deubiquitination enzymes synchronize the dual sensor and effector functions of TRIM21. Proc Natl Acad Sci U S A. 2015; 112, 10014–10019. doi: 10.1073/pnas.1507534112
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1507534112</ArticleId>
+            <ArticleId IdType="pmc">PMC4538650</ArticleId>
+            <ArticleId IdType="pubmed">26150489</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>James LC. Intracellular antibody immunity and the cytosolic Fc receptor TRIM21. Curr Top Microbiol Immunol. 2014; 382, 51–66. doi: 10.1007/978-3-319-07911-0_3
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-3-319-07911-0_3</ArticleId>
+            <ArticleId IdType="pubmed">25116095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanchez JG, Chiang JJ, Sparrer KMJ, Alam SL, Chi M, Roganowicz MD, et al.. Mechanism of TRIM25 Catalytic Activation in the Antiviral RIG-I Pathway. Cell Rep. 2016; 16, 1315–1325. doi: 10.1016/j.celrep.2016.06.070
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2016.06.070</ArticleId>
+            <ArticleId IdType="pmc">PMC5076470</ArticleId>
+            <ArticleId IdType="pubmed">27425606</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Su Z, Wu C, Shi L, Luthra P, Pintilie GD, Johnson B, et al.. Electron Cryo-microscopy Structure of Ebola Virus Nucleoprotein Reveals a Mechanism for Nucleocapsid-like Assembly. Cell. 2018; 172, 966–978 e912. doi: 10.1016/j.cell.2018.02.009
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2018.02.009</ArticleId>
+            <ArticleId IdType="pmc">PMC5973842</ArticleId>
+            <ArticleId IdType="pubmed">29474922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wan W, Kolesnikova L, Clarke M, Koehler A, Noda T, Becker S, et al.. Structure and assembly of the Ebola virus nucleocapsid. Nature. 2017; 551, 394–397. doi: 10.1038/nature24490
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature24490</ArticleId>
+            <ArticleId IdType="pmc">PMC5714281</ArticleId>
+            <ArticleId IdType="pubmed">29144446</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pertel T, Hausmann S, Morger D, Zuger S, Guerra J, Lascano J, et al.
+TRIM5 is an innate immune sensor for the retrovirus capsid lattice. Nature. 2011; 472, 361–365. doi: 10.1038/nature09976
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature09976</ArticleId>
+            <ArticleId IdType="pmc">PMC3081621</ArticleId>
+            <ArticleId IdType="pubmed">21512573</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Refolo G, Vescovo T, Piacentini M, Firmia GM, Ciccosanti F. Mitochondrial Interactome: A Focus on Antiviral Signaling Pathways.
+Fron. Cell Dev. Biol. 2020; 8:8. doi: 10.3389/fcell.2020.00008
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fcell.2020.00008</ArticleId>
+            <ArticleId IdType="pmc">PMC7033419</ArticleId>
+            <ArticleId IdType="pubmed">32117959</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu Y, Gordesky-Gold B, Leney-Greene M, Weinbren NL, Tudor M, Cherry S. Inflammation-Induced, STING-Dependent Autophagy Restricts Zika Virus Infection in the Drosophila Brain. Cell Host Microbe. 2018; 24, 57–68 e53. doi: 10.1016/j.chom.2018.05.022
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.chom.2018.05.022</ArticleId>
+            <ArticleId IdType="pmc">PMC6173519</ArticleId>
+            <ArticleId IdType="pubmed">29934091</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao Y, Sun X, Nie X, Sun L, Tang TS, Chen D, et al.. COX5B regulates MAVS-mediated antiviral signaling through interaction with ATG5 and repressing ROS production. PLoS Pathog. 2012; 8, e1003086. doi: 10.1371/journal.ppat.1003086
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1003086</ArticleId>
+            <ArticleId IdType="pmc">PMC3534373</ArticleId>
+            <ArticleId IdType="pubmed">23308066</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gack MU, Albrecht RA, Urano T, Inn KS, Huang IC, Carnero E, et al.. Influenza A virus NS1 targets the ubiquitin ligase TRIM25 to evade recognition by the host viral RNA sensor RIG-I. Cell Host Microbe. 2009; 5, 439–449. doi: 10.1016/j.chom.2009.04.006
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.chom.2009.04.006</ArticleId>
+            <ArticleId IdType="pmc">PMC2737813</ArticleId>
+            <ArticleId IdType="pubmed">19454348</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Manokaran G, Finol E, Wang C, Gunaratne J, Bahl J, Ong EZ, et al.. Dengue subgenomic RNA binds TRIM25 to inhibit interferon expression for epidemiological fitness. Science. 2015; 350, 217–221. doi: 10.1126/science.aab3369
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aab3369</ArticleId>
+            <ArticleId IdType="pmc">PMC4824004</ArticleId>
+            <ArticleId IdType="pubmed">26138103</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dutta M, Robertson SJ, Okumura A, Scott DP, Chang J, Weiss JM, et al.
+A Systems Approach Reveals MAVS Signaling in Myeloid Cells as Critical for Resistance to Ebola Virus in Murine Models of Infection. Cell Rep. 2017; 18, 816–829. doi: 10.1016/j.celrep.2016.12.069
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2016.12.069</ArticleId>
+            <ArticleId IdType="pmc">PMC5289750</ArticleId>
+            <ArticleId IdType="pubmed">28099857</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gallois-Montbrun S, Kramer B, Swanson CM, Byers H, Lynham S, Ward M, et al.. Antiviral protein APOBEC3G localizes to ribonucleoprotein complexes found in P bodies and stress granules. J Virol. 2007; 81, 2165–2178. doi: 10.1128/JVI.02287-06
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.02287-06</ArticleId>
+            <ArticleId IdType="pmc">PMC1865933</ArticleId>
+            <ArticleId IdType="pubmed">17166910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neil SJ, Zang T, Bieniasz PD. Tetherin inhibits retrovirus release and is antagonized by HIV-1 Vpu. Nature. 2008; 451, 425–430. doi: 10.1038/nature06553
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature06553</ArticleId>
+            <ArticleId IdType="pubmed">18200009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mankouri J, Fragkoudis R, Richards KH, Wetherill LF, Harris M, Kohl A, et al.. Optineurin negatively regulates the induction of IFNbeta in response to RNA virus infection. PLoS Pathog. 2010; 6, e1000778. doi: 10.1371/journal.ppat.1000778
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1000778</ArticleId>
+            <ArticleId IdType="pmc">PMC2824764</ArticleId>
+            <ArticleId IdType="pubmed">20174559</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moncorge O, Mura M, Barclay WS. Evidence for avian and human host cell factors that affect the activity of influenza virus polymerase. J Virol. 2010; 84, 9978–9986. doi: 10.1128/JVI.01134-10
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.01134-10</ArticleId>
+            <ArticleId IdType="pmc">PMC2937815</ArticleId>
+            <ArticleId IdType="pubmed">20631125</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pleschka S, Jaskunas R, Engelhardt OG, Zurcher T, Palese P, Garcia-Sastre A. A plasmid-based reverse genetics system for influenza A virus. J Virol. 1996; 70, 4188–4192. doi: 10.1128/JVI.70.6.4188-4192.1996
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.70.6.4188-4192.1996</ArticleId>
+            <ArticleId IdType="pmc">PMC190316</ArticleId>
+            <ArticleId IdType="pubmed">8648766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moncorge O, Long JS, Cauldwell AV, Zhou H, Lycett SJ, Barclay WS. Investigation of influenza virus polymerase activity in pig cells. J Virol. 2013; 87, 384–394. doi: 10.1128/JVI.01633-12
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.01633-12</ArticleId>
+            <ArticleId IdType="pmc">PMC3536367</ArticleId>
+            <ArticleId IdType="pubmed">23077313</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cauldwell AV, Moncorge O, Barclay WS. Unstable polymerase-nucleoprotein interaction is not responsible for avian influenza virus polymerase restriction in human cells. J Virol
+2013; 87, 1278–1284. doi: 10.1128/JVI.02597-12
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.02597-12</ArticleId>
+            <ArticleId IdType="pmc">PMC3554100</ArticleId>
+            <ArticleId IdType="pubmed">23115299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Demaison C, Parsley K, Brouns G, Scherr M, Battmer K, Kinnon C, et al.. High-level transduction and gene expression in hematopoietic repopulating cells using a human immunodeficiency [correction of imunodeficiency] virus type 1-based lentiviral vector containing an internal spleen focus forming virus promoter. Hum Gene Ther. 2002; 13, 803–813. doi: 10.1089/10430340252898984
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/10430340252898984</ArticleId>
+            <ArticleId IdType="pubmed">11975847</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tscherne DM, Garcia-Sastre A. An enzymatic assay for detection of viral entry. Curr Protoc Cell Biol. 2011; Chapter 26, Unit 26 12. doi: 10.1002/0471143030.cb2612s51
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/0471143030.cb2612s51</ArticleId>
+            <ArticleId IdType="pubmed">21688257</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Long J, Wright E, Molesti E, Temperton N, Barclay W. (2015). Antiviral therapies against Ebola and other emerging viral diseases using existing medicines that block virus entry. F1000Res.
+2015; 4, 30. doi: 10.12688/f1000research.6085.2
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.12688/f1000research.6085.2</ArticleId>
+            <ArticleId IdType="pmc">PMC4431382</ArticleId>
+            <ArticleId IdType="pubmed">26069727</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Treier M, Staszewski LM, Bohmann D. Ubiquitin-dependent c-Jun degradation in vivo is mediated by the delta domain. Cell. 1994; 78, 787–798. doi: 10.1016/s0092-8674(94)90502-9
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0092-8674(94)90502-9</ArticleId>
+            <ArticleId IdType="pubmed">8087846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

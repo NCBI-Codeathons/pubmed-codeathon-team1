@@ -1,0 +1,344 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35280934</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">0957-4174</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>198</Volume>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jul</Month>
+              <Day>15</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Expert systems with applications</Title>
+          <ISOAbbreviation>Expert Syst Appl</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A novel algorithm for mask detection and recognizing actions of human.</ArticleTitle>
+        <Pagination>
+          <StartPage>116823</StartPage>
+          <MedlinePgn>116823</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.eswa.2022.116823</ELocationID>
+        <Abstract>
+          <AbstractText>Face recognition has become a significant challenge today since an increasing number of individuals wear masks to avoid infection with the novel coronavirus or Covid-19. Due to its rapid proliferation, it has garnered growing attention. The technique proposed in this chapter seeks to produce unconstrained generic actions in the video. Conventional anomaly detection is difficult because computationally expensive characteristics cannot be employed directly, owing to the necessity for real-time processing. Even before activities are completely seen, they must be located and classified. This paper proposes an expanded Mask R-CNN (Ex-Mask R-CNN) architecture that overcomes these issues. High accuracy is achieved by using robust convolutional neural network (CNN)-based features. The technique consists of two steps. First, a video surveillance algorithm is employed to determine whether or not a human is wearing a mask. Second, Multi-CNN forecasts the frame's suspicious conventional abnormality of people. Experiments on tough datasets indicate that our approach outperforms state-of-the-art online traditional detection of anomaly systems while maintaining the real-time efficiency of existing classifiers.</AbstractText>
+          <CopyrightInformation>© 2022 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Gupta</LastName>
+            <ForeName>Puja</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Information Technology, Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, Madhya Pradesh 462033 India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sharma</LastName>
+            <ForeName>Varsha</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Information Technology, Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, Madhya Pradesh 462033 India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Varma</LastName>
+            <ForeName>Sunita</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Information Technology, Shri Govindram Seksaria Institute of Technology and Science, Indore, Madhya Pradesh 452003 India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Expert Syst Appl</MedlineTA>
+        <NlmUniqueID>9884333</NlmUniqueID>
+        <ISSNLinking>0957-4174</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Apache MXNet</Keyword>
+        <Keyword MajorTopicYN="N">Image detection</Keyword>
+        <Keyword MajorTopicYN="N">Mask R-CNN</Keyword>
+        <Keyword MajorTopicYN="N">Resnet-152</Keyword>
+        <Keyword MajorTopicYN="N">Video surveillance</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>2</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>14</Day>
+          <Hour>5</Hour>
+          <Minute>15</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35280934</ArticleId>
+        <ArticleId IdType="pmc">PMC8902893</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.eswa.2022.116823</ArticleId>
+        <ArticleId IdType="pii">S0957-4174(22)00279-2</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Ali S., Basharat A., Shah M.  Proceedings of the IEEE International Conference on Computer Vision. 2007. Chaotic invariants for human action recognition.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/ICCV.2007.4409046</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brox T., Bruhn A., Papenberg N., Weickert J. High accuracy optical flow estimation based on a theory for warping. Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) 2004;3024:25–36. doi: 10.1007/978-3-540-24673-2_3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-3-540-24673-2_3</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chavda, A., Dsouza, J., Badgujar, S., &amp; Damani, A. (2020). Multi-Stage CNN Architecture for Face Mask Detection. http://arxiv.org/abs/2009.07627.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dalal, N., &amp; Triggs, B. (2005). Histograms of oriented gradients for human detection. Proceedings – 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, CVPR 2005, I, 886–893. https://doi.org/10.1109/CVPR.2005.177.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dalal N., Triggs B., Schmid C.  Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) 2006. Human detection using oriented histograms of flow and appearance.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/11744047_33</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dhiman C., Vishwakarma D.K. A review of state-of-the-art techniques for abnormal human activity recognition. Engineering Applications of Artificial Intelligence. 2019;77:21–45. doi: 10.1016/j.engappai.2018.08.014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.engappai.2018.08.014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dollár P., Rabaud V., Cottrell G., Belongie S. Behavior recognition via sparse spatio-temporal features. Proceedings – 2nd Joint IEEE International Workshop on Visual Surveillance and Performance Evaluation of Tracking and Surveillance. VS-PETS. 2005;2005:65–72. doi: 10.1109/VSPETS.2005.1570899.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/VSPETS.2005.1570899</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Elsayed O.A., Mohamed Marzouky N.A., Atef E., Salem M.A.M.  Proceedings – 2019 IEEE 9th International Conference on Intelligent Computing and Information Systems. ICICIS; 2019. Abnormal Conventional anomaly detection in video surveillance.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/ICICIS46948.2019.9014712</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fathi A., Mori G.  26th IEEE Conference on Computer Vision and Pattern Recognition. 2008. Action recognition by learning mid-level motion features.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/CVPR.2008.4587735</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feng, S., Shen, C., Xia, N., Song, W., Fan, M., &amp; Cowling, B. J. (2020). Rational use of face masks in the COVID-19 pandemic. In The Lancet Respiratory Medicine (Vol. 8, Issue 5, pp. 434–436). Lancet Publishing Group. https://doi.org/10.1016/S2213-2600(20)30134-X.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7118603</ArticleId>
+            <ArticleId IdType="pubmed">32203710</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>He K., Gkioxari G., Dollár P., Girshick R. Mask R-CNN. IEEE Transactions on Pattern Analysis and Machine Intelligence. 2020;42(2):386–397. doi: 10.1109/TPAMI.2018.2844175.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TPAMI.2018.2844175</ArticleId>
+            <ArticleId IdType="pubmed">29994331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jin C.-B., et al.  Real-Time Action Detection in Video Surveillance using Sub-Action Descriptor with Multi-CNN. ArXiv abs/1710.03383. 2017;n. pag</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Loey M., Manogaran G., Taha M.H.N., Khalifa N.E.M. A hybrid deep transfer learning model with machine learning methods for face mask detection in the era of the COVID-19 pandemic. Measurement: Journal of the International Measurement Confederation. 2021;167 doi: 10.1016/j.measurement.2020.108288.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.measurement.2020.108288</ArticleId>
+            <ArticleId IdType="pmc">PMC7386450</ArticleId>
+            <ArticleId IdType="pubmed">32834324</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lowe D.G. Distinctive image features from scale-invariant keypoints. International Journal of Computer Vision. 2004;60(2):91–110. doi: 10.1023/B:VISI.0000029664.99615.94.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1023/B:VISI.0000029664.99615.94</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McIntosh K., Hirsch M., Bloom A. Coronavirus disease 2019 (COVID-19): Epidemiology, virology, and prevention. UpToDate.com. 2020</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mukhopadhyay, S. C. (2015). Wearable sensors for human activity monitoring: A review. In IEEE Sensors Journal (Vol. 15, Issue 3, pp. 1321–1330). Institute of Electrical and Electronics Engineers Inc. https://doi.org/10.1109/JSEN.2014.2370945.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Parwez M.S., Rawat D.B., Garuba M. Big data analytics for user-activity analysis and user-anomaly detection in mobile wireless network. IEEE Transactions on Industrial Informatics. 2017;13(4):2058–2065. doi: 10.1109/TII.2017.2650206.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TII.2017.2650206</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pezzini A., Padovani A. Lifting the mask on neurological manifestations of COVID-19. Nature Reviews Neurology. 2020;16(11):636–644. doi: 10.1038/s41582-020-0398-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41582-020-0398-3</ArticleId>
+            <ArticleId IdType="pmc">PMC7444680</ArticleId>
+            <ArticleId IdType="pubmed">32839585</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Phule S.S., Sawant S.D.  Proceedings of the 2017 International Conference on Intelligent Computing and Control Systems. 2017. Abnormal activities detection for security purpose unattainded bag and crowding detection by using image processing.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/ICCONS.2017.8250631</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pradhan, D., Biswasroy, P., Kumar Naik, P., Ghosh, G., &amp; Rath, G. (2020). A Review of Current Interventions for COVID-19 Prevention. In Archives of Medical Research (Vol. 51, Issue 5, pp. 363–374). Elsevier Inc. https://doi.org/10.1016/j.arcmed.2020.04.020.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7190516</ArticleId>
+            <ArticleId IdType="pubmed">32409144</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rahman, M. M., Manik, M. M. H., Islam, M. M., Mahmud, S., &amp; Kim, J. H. (2020, September 1). An automated system to limit COVID-19 using facial mask detection in smart city network. IEMTRONICS 2020 – International IOT, Electronics and Mechatronics Conference, Proceedings. https://doi.org/10.1109/IEMTRONICS51293.2020.9216386.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schüldt C., Laptev I., Caputo B. Recognizing human actions: A local SVM approach. Proceedings – International Conference on Pattern Recognition. 2004;3:32–36. doi: 10.1109/ICPR.2004.1334462.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/ICPR.2004.1334462</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shahroudy A., Liu J., Ng T.T., Wang G.  Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. 2016. NTU RGB+D: A large scale dataset for 3D human activity analysis.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/CVPR.2016.115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vu H.Q., Li G., Law R., Zhang Y. Tourist Activity Analysis by Leveraging Mobile Social Media Data. Journal of Travel Research. 2018;57(7):883–898. doi: 10.1177/0047287517722232.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/0047287517722232</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang, B., Ye, M., Li, X., &amp; Zhao, F. (2011). Abnormal crowd behavior detection using size-adapted spatio-temporal features. In International Journal of Control, Automation and Systems (Vol. 9, Issue 5, pp. 905–912). Springer. https://doi.org/10.1007/s12555-011-0511-x.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang, J., Pan, L., Tang, S., Ji, J. S., &amp; Shi, X. (2020). Mask use during COVID-19: A risk adjusted strategy. In Environmental Pollution (Vol. 266, Issue Pt 1). Elsevier Ltd. https://doi.org/10.1016/j.envpol.2020.115099.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7314683</ArticleId>
+            <ArticleId IdType="pubmed">32623270</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang C., Zheng Q., Peng Y., De D., Song W.-Z. Distributed Abnormal Activity Detection in Smart Environments. International Journal of Distributed Sensor Networks. 2014;10(5) doi: 10.1155/2014/283197.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2014/283197</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yin M., Li X., Zhang Y., Wang S. On the Mathematical Understanding of ResNet with Feynman Path Integral. ArXiv. 2019 http://arxiv.org/abs/1904.07568</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang B., Wang L., Wang Z., Qiao Y., Wang H. Real-Time Action Recognition with Enhanced Motion Vector CNNs. IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2016;2016:2718–2726. doi: 10.1109/CVPR.2016.297.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/CVPR.2016.297</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+      <ReferenceList>
+        <Title>Further reading</Title>
+        <Reference>
+          <Citation>Chen C., Wang G., Peng C., Zhang X., Qin H. Improved Robust Video Saliency Detection Based on Long-Term Spatial-Temporal Information. IEEE Transactions on Image Processing. 2020;29:1090–1100. doi: 10.1109/TIP.2019.2934350.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TIP.2019.2934350</ArticleId>
+            <ArticleId IdType="pubmed">31449017</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen, Y., Hu, M., Hua, C., Zhai, G., Zhang, J., Li, Q., &amp; Yang, S. X. (2020). Face Mask Assistant: Detection of Face Mask Service Stage Based on Mobile Phone. http://arxiv.org/abs/2010.06421.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen C., Wang G., Peng C., Fang Y., Zhang D., Qin H. Exploring Rich and Efficient Spatial Temporal Interactions for Real-Time Video Salient Object Detection. IEEE Transactions on Image Processing. 2021;30:3995–4007. doi: 10.1109/TIP.2021.3068644.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TIP.2021.3068644</ArticleId>
+            <ArticleId IdType="pubmed">33784620</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gkioxari G., Malik J.  Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition. 2015. Finding action tubes.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/CVPR.2015.7298676</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gupta P., et al.  People detection and counting using YOLOv3 and SSD models. Materials Today: Proceedings. 2021 doi: 10.1016/j.matpr.2020.11.562.  https://www.sciencedirect.com/science/article/pii/S2214785320392312?via%3Dihub.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.matpr.2020.11.562</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Improving Video Anomaly Detection Performance by Mining Useful Data from Unseen Video Frames, NEUCOM21(early access).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Perronnin, F., Sánchez, J., &amp; Mensink, T. (2010). Improving the Fisher kernel for large-scale image classification. Lecture Notes in Computer Science (Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 6314 LNCS(PART 4), 143–156. https://doi.org/10.1007/978-3-642-15561-1_11.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>E. Shelhamer, J. Long and T. Darrell, “Fully Convolutional Networks for Semantic Segmentation,” in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 39, no. 4, pp. 640-651, 1 April 2017, doi: 10.1109/TPAMI.2016.2572683.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27244717</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang H., Kläser A., Schmid C., Liu C.L. Dense trajectories and motion boundary descriptors for action recognition. International Journal of Computer Vision. 2013;103(1):60–79. doi: 10.1007/s11263-012-0594-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11263-012-0594-8</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

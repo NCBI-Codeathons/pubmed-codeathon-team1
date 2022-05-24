@@ -1,0 +1,273 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">35478298</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1573-904X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Apr</Month>
+              <Day>27</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Pharmaceutical research</Title>
+          <ISOAbbreviation>Pharm Res</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Physiologically Based Absorption Modelling to Explore the Formulation and Gastric pH Changes on the Pharmacokinetics of Acalabrutinib.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11095-022-03268-0</ELocationID>
+        <Abstract>
+          <AbstractText>Acalabrutinib, a selective Bruton's tyrosine kinase inhibitor, is a biopharmaceutics classification system class II drug. The aim of this study was to develop a physiologically based pharmacokinetic (PBPK) model to mechanistically describe absorption of immediate release capsule formulation of acalabrutinib in humans. Integration of in vitro biorelevant measurements, dissolution studies and in silico modelling provided clinically relevant inputs for the mechanistic absorption PBPK model. The batch specific dissolution data were integrated in two ways, by fitting a diffusion layer model scalar to the drug product dissolution with integration of drug substance laser diffraction particle size data, or by fitting a product particle size distribution to the dissolution data. The latter method proved more robust and biopredictive. In both cases, the drug surface solubility was well predicted by the Simcyp simulator. The model using the product particle size distribution (P-PSD) for each clinical batch adequately captured the PK profiles of acalabrutinib and its active metabolite. Average fold errors were 0.89 for both Cmax and AUC, suggesting good agreement between predicted and observed PK values. The model also accurately predicted pH-dependent drug-drug interactions between omeprazole and acalabrutinib, which was similar across all clinical formulations. The model predicted acalabrutinib geometric mean AUC ratios (with omeprazole vs acalabrutinib alone) were 0.51 and 0.68 for 2 batches of formulations, which are close to observed values of 0.43 and 0.51~0.63, respectively. The mechanistic absorption PBPK model could be potentially used for future applications such as optimizing formulations or predicting the PK for different batches of the drug product.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Diansong</ForeName>
+            <Initials>D</Initials>
+            <Identifier Source="ORCID">0000-0002-2673-1069</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Clinical Pharmacology &amp; Quantitative Pharmacology, AstraZeneca, BioPharmaceuticals R&amp;D, Boston, Massachusetts, USA. diansong.zhou@astrazeneca.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>AstraZeneca, 35 Gatehouse Dr., Waltham, Massachusett, 02451, USA. diansong.zhou@astrazeneca.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Buyun</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical Pharmacology &amp; Quantitative Pharmacology, AstraZeneca, BioPharmaceuticals R&amp;D, South San Francisco, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sharma</LastName>
+            <ForeName>Shringi</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical Pharmacology &amp; Quantitative Pharmacology, AstraZeneca, BioPharmaceuticals R&amp;D, South San Francisco, California, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tang</LastName>
+            <ForeName>Weifeng</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical Pharmacology &amp; Quantitative Pharmacology, AstraZeneca, BioPharmaceuticals R&amp;D, Gaithersburg, Maryland, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pepin</LastName>
+            <ForeName>Xavier</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>New Modalities and Parenteral Development, Pharmaceutical Technology &amp; Development, Operations, AstraZeneca, Macclesfield, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>04</Month>
+          <Day>27</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Pharm Res</MedlineTA>
+        <NlmUniqueID>8406521</NlmUniqueID>
+        <ISSNLinking>0724-8741</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">PBPK modeling</Keyword>
+        <Keyword MajorTopicYN="N">absorption</Keyword>
+        <Keyword MajorTopicYN="N">acalabrutinib</Keyword>
+        <Keyword MajorTopicYN="N">gastric pH</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>24</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>28</Day>
+          <Hour>5</Hour>
+          <Minute>53</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35478298</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11095-022-03268-0</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11095-022-03268-0</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Abend A, Heimbach T, Cohen M, Kesisoglou F, Pepin X, Suarez-Sharp S. Dissolution and translational modeling strategies enabling patient-centric drug product development: the M-CERSI Workshop Summary Report. The AAPS journal. 2018;20(3).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pathak SM, Ruff A, Kostewicz ES, Patel N, Turner DB, Jamei M. Model-based analysis of biopharmaceutic experiments to improve mechanistic oral absorption modeling: an integrated in vitro in vivo extrapolation perspective using ketoconazole as a model drug. Mol Pharm. 2017;14(12):4305–20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acs.molpharmaceut.7b00406</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jamei M, Abrahamsson B, Brown J, Bevernage J, Bolger MB, Heimbach T, Karlsson E, Kotzagiorgis E, Lindahl A, McAllister M, Mullin JM, Pepin X, Tistaert C, Turner DB, Kesisoglou F. Current status and future opportunities for incorporation of dissolution data in PBPK modeling for pharmaceutical development and regulatory applications: OrBiTo consortium commentary. Eur J Pharm Biopharm. 2020;155:55–68.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejpb.2020.08.005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pepin XJ, Flanagan TR, Holt DJ, Eidelman A, Treacy D, Rowlings CE. Justification of drug product dissolution rate and drug substance particle size specifications based on absorption PBPK modeling for lesinurad immediate release tablets. Mol Pharm. 2016;13(9):3256–69.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acs.molpharmaceut.6b00497</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pepin XJH, Moir AJ, Mann JC, Sanderson NJ, Barker R, Meehan E, Plumb AP, Bailey GR, Murphy DS, Krejsa CM, Andrew MA, Ingallinera TG, Slatter JG. Bridging in vitro dissolution and in vivo exposure for acalabrutinib. Part II. A mechanistic PBPK model for IR formulation comparison, proton pump inhibitor drug interactions, and administration with acidic juices. European journal of pharmaceutics and biopharmaceutics. 2019;142:435–448.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pepin XJH, Sanderson NJ, Blanazs A, Grover S, Ingallinera TG, Mann JC. Bridging in vitro dissolution and in vivo exposure for acalabrutinib. Part I. Mechanistic modelling of drug product dissolution to derive a P-PSD for PBPK model input. European Journal of Pharmaceutics and Biopharmaceutics. 2019;142:421–434.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hens B, Pathak SM, Mitra A, Patel N, Liu B, Patel S, Jamei M, Brouwers J, Augustijns P, Turner DB. In silico modeling approach for the evaluation of gastrointestinal dissolution, supersaturation, and precipitation of posaconazole. Mol Pharm. 2017;14(12):4321–33.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acs.molpharmaceut.7b00396</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Loisios-Konstantinidis I, Cristofoletti R, Fotaki N, Turner DB, Dressman J. Establishing virtual bioequivalence and clinically relevant specifications using in vitro biorelevant dissolution testing and physiologically-based population pharmacokinetic modeling. case example: Naproxen. European Journal of Pharmaceutical Sciences. 2020;143:105170.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Loisios-Konstantinidis I, Cristofoletti R, Jamei M, Turner D, Dressman J. Physiologically based pharmacokinetic/pharmacodynamic modeling to predict the impact of CYP2C9 genetic polymorphisms, co-medication and formulation on the pharmacokinetics and pharmacodynamics of flurbiprofen. Pharmaceutics. 2020;12(11).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cristofoletti R, Hens B, Patel N, Esteban VV, Schmidt S, Dressman J. Integrating drug- and formulation-related properties with gastrointestinal tract variability using a product-specific particle size approach: case example ibuprofen. J Pharm Sci. 2019;108(12):3842–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.xphs.2019.09.012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chirumamilla SK, Banala VT, Jamei M, Turner DB. Mechanistic PBPK modelling to predict the advantage of the salt form of a drug when dosed with acid reducing agents. Pharmaceutics. 2021;13(8).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Heimbach T, Kesisoglou F, Novakovic J, Tistaert C, Mueller-Zsigmondy M, Kollipara S, Ahmed T, Mitra A, Suarez-Sharp S. Establishing the bioequivalence safe space for immediate-release oral dosage forms using physiologically based biopharmaceutics modeling (PBBM): Case studies. Journal of Pharmaceutical Sciences. 2021.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Heimbach T, Suarez-Sharp S, Kakhi M, Holmstock N, Olivares-Morales A, Pepin X, Sjögren E, Tsakalozou E, Seo P, Li M, Zhang X, Lin H-P, Montague T, Mitra A, Morris D, Patel N, Kesisoglou F. Dissolution and translational modeling strategies toward establishing an in vitro-in vivo link—a workshop summary report. The AAPS Journal. 2019;21(2).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Laisney M, Heimbach T, Mueller-Zsigmondy M, Blumenstein L, Costa R, Ji Y. Physiologically based biopharmaceutics modeling to demonstrate virtual bioequivalence and bioequivalence safe-space for ribociclib which has permeation rate-controlled absorption. Journal of Pharmaceutical Sciences. 2021.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang X, Wen H, Fan J, Vince B, Li T, Gao W, Kinjo M, Brown J, Sun W, Jiang W, Lionberger R. Integrating in vitro, modeling, and in vivo approaches to investigate warfarin bioequivalence. CPT: pharmacometrics &amp; systems pharmacology. 2017.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Parrott N, Stillhart C, Lindenberg M, Wagner B, Kowalski K, Guerini E, Djebli N, Meneses-Lorente G. Physiologically based absorption modelling to explore the impact of food and gastric pH changes on the pharmacokinetics of entrectinib. The AAPS Journal. 2020;22(4).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dong Z, Li J, Wu F, Zhao P, Lee SC, Zhang L, Seo P, Zhang L. Application of physiologically-based pharmacokinetic modeling to predict gastric pH-dependent drug-drug interactions for weak base drugs. CPT: pharmacometrics &amp; systems pharmacology. 2020;9(8):456–465.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Küppers R. Mechanisms of B-cell lymphoma pathogenesis. Nat Rev Cancer. 2005;5(4):251–62.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrc1589</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Covey T, Barf T, Gulrajani M, Krantz F, van Lith B, Bibikova E, van de Kar B, de Zwart E, Hamdy A, Izumi R, Kaptein A. Abstract 2596: ACP-196: a novel covalent Bruton’s tyrosine kinase (Btk) inhibitor with improved selectivity and in vivo target coverage in chronic lymphocytic leukemia (CLL) patients. Can Res. 2015;75(15 Supplement):2596.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>CDER F. Highlights of Prescribing Information. CALQUENCE® (acalabrutinib) capsules, for oral use Initial U.S. Approval: 2017. 2017 12/12/2017. Available from: https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/210259s000lbl.pdf .</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Podoll T, Pearson PG, Evarts J, Ingallinera T, Bibikova E, Sun H, Gohdes M, Cardinal K, Sanghvi M, Slatter JG. Bioavailability, biotransformation, and excretion of the covalent bruton tyrosine kinase inhibitor acalabrutinib in rats, dogs, and humans. Drug Metab Dispos. 2019;47(2):145–54.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1124/dmd.118.084459</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou D, Podoll T, Xu Y, Moorthy G, Vishwanathan K, Ware J, Slatter JG, Al-Huniti N. Evaluation of the drug-drug interaction potential of acalabrutinib and its active metabolite, ACP-5862, using a physiologically-based pharmacokinetic modeling approach. CPT: pharmacometrics &amp; systems pharmacology. 2019;8(7):489–499.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cristofoletti R, Patel N, Dressman JB. Assessment of bioequivalence of weak base formulations under various dosing conditions using physiologically based pharmacokinetic simulations in virtual populations. Case Examples: Ketoconazole and Posaconazole. J Pharm Sci. 2017;106(2):560–569.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Izumi R, Pearson PG, Hamdy A, Rodriquez S, Yang YYL, Ulrich RG, Podoll T, Andrew M, Krejsa CM, Ingallinera T. CYP3A-mediated drug interaction profile of Bruton Tyrosine Kinase inhibitor. Acalabrutinib. In.: American Society of Hematology Washington, DC; 2017.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jamei M, Marciniak S, Feng K, Barnett A, Tucker G, Rostami-Hodjegan A. The Simcyp population-based ADME simulator. Expert Opin Drug Metab Toxicol. 2009;5(2):211–23.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1517/17425250802691074</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Johnson TN, Zhou D, Bui KH. Development of physiologically based pharmacokinetic model to evaluate the relative systemic exposure to quetiapine after administration of IR and XR formulations to adults, children and adolescents. Biopharmaceutics &amp; Drug Disposition;35(6):341–352.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen Y, Zhou D, Tang W, Zhou W, Al-Huniti N, Masson E. Physiologically based pharmacokinetic modeling to evaluate the systemic exposure of gefitinib in CYP2D6 ultrarapid metabolizers and extensive metabolizers. J Clin Pharmacol. 2018;58(4):485–93.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jcph.1036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou D, Bui K, Sostek M, Al‐Huniti N. Simulation and prediction of the drug‐drug interaction potential of naloxegol by physiologically based pharmacokinetic modeling. CPT: Pharmacometrics &amp; Systems Pharmacology. 2016;5(5):250–257.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>CDER F. The use of physiologically based pharmacokinetic analyses — biopharmaceutics applications for oral drug product development, manufacturing changes, and controls. In: CDER, editor.; 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pepin X, Goetschy M, Abrahmsén-Alami S. Mechanistic models for USP2 dissolution apparatus, including fluid hydrodynamics and sedimentation. Journal of Pharmaceutical Sciences. 2021.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Budha NR, Frymoyer A, Smelick GS, Jin JY, Yago MR, Dresser MJ, Holden SN, Benet LZ, Ware JA. Drug absorption interactions between oral targeted anticancer agents and PPIs: Is pH-dependent solubility the achilles heel of targeted therapy? Clin Pharmacol Ther. 2012;92(2):203–13.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/clpt.2012.73</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang L, Wu F, Lee SC, Zhao H. pH-dependent drug-drug interactions for weak base drugs: potential implications for new drug development. Clin Pharmacol Ther. 2014;96(2):266–77.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/clpt.2014.87</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

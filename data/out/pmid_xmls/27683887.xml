@@ -1,0 +1,663 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">27683887</PMID>
+      <DateCompleted>
+        <Year>2017</Year>
+        <Month>09</Month>
+        <Day>20</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1522-1598</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>116</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>Dec</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of neurophysiology</Title>
+          <ISOAbbreviation>J Neurophysiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Neurons as oscillators.</ArticleTitle>
+        <Pagination>
+          <StartPage>2950</StartPage>
+          <EndPage>2960</EndPage>
+          <MedlinePgn>2950-2960</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1152/jn.00525.2015</ELocationID>
+        <Abstract>
+          <AbstractText>Regularly spiking neurons can be described as oscillators. In this article we review some of the insights gained from this conceptualization and their relevance for systems neuroscience. First, we explain how a regularly spiking neuron can be viewed as an oscillator and how the phase-response curve (PRC) describes the response of the neuron's spike times to small perturbations. We then discuss the meaning of the PRC for a single neuron's spiking behavior and review the PRCs measured from a variety of neurons in a range of spiking regimes. Next, we show how the PRC can be related to a number of common measures used to quantify neuronal firing, such as the spike-triggered average and the peristimulus histogram. We further show that the response of a neuron to correlated inputs depends on the shape of the PRC. We then explain how the PRC of single neurons can be used to predict neural network behavior. Given the PRC, conduction delays, and the waveform and time course of the synaptic potentials, it is possible to predict neural population behavior such as synchronization. The PRC also allows us to quantify the robustness of the synchronization to heterogeneity and noise. We finally ask how to combine the measured PRCs and the predictions based on PRC to further the understanding of systems neuroscience. As an example, we discuss how the change of the PRC by the neuromodulator acetylcholine could lead to a destabilization of cortical network dynamics. Although all of these studies are grounded in mathematical abstractions that do not strictly hold in biology, they provide good estimates for the emergence of the brain's network activity from the properties of individual neurons. The study of neurons as oscillators can provide testable hypotheses and mechanistic explanations for systems neuroscience.</AbstractText>
+          <CopyrightInformation>Copyright © 2016 the American Physiological Society.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Stiefel</LastName>
+            <ForeName>Klaus M</ForeName>
+            <Initials>KM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Neurolinx Research Institute, La Jolla, California; and.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ermentrout</LastName>
+            <ForeName>G Bard</ForeName>
+            <Initials>GB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mathematics, University of Pittsburgh, Pittsburgh, Pennsylvania bard@pitt.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+          <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2016</Year>
+          <Month>09</Month>
+          <Day>28</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>J Neurophysiol</MedlineTA>
+        <NlmUniqueID>0375404</NlmUniqueID>
+        <ISSNLinking>0022-3077</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000200" MajorTopicYN="N">Action Potentials</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001683" MajorTopicYN="N">Biological Clocks</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008959" MajorTopicYN="Y">Models, Neurological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">circuits</Keyword>
+        <Keyword MajorTopicYN="Y">oscillators</Keyword>
+        <Keyword MajorTopicYN="Y">phases resetting</Keyword>
+        <Keyword MajorTopicYN="Y">synchronization</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2015</Year>
+          <Month>6</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2016</Year>
+          <Month>9</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2016</Year>
+          <Month>9</Month>
+          <Day>30</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2017</Year>
+          <Month>9</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2016</Year>
+          <Month>9</Month>
+          <Day>30</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">27683887</ArticleId>
+        <ArticleId IdType="pmc">PMC5192043</ArticleId>
+        <ArticleId IdType="doi">10.1152/jn.00525.2015</ArticleId>
+        <ArticleId IdType="pii">jn.00525.2015</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Abouzeid A, Ermentrout B. 
+Type-II phase resetting curve is optimal for stochastic synchrony. Phys Rev E Stat Nonlin Soft Matter Phys
+80: 011911, 2009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19658733</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Abouzeid A, Ermentrout B. 
+Correlation transfer in stochastically driven neural oscillators over long and short time scales. Phys Rev E Stat Nonlin Soft Matter Phys
+84: 061914, 2011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22304123</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Achuthan S, Butera RJ, Canavier CC. 
+Synaptic and intrinsic determinants of the phase resetting curve for weak coupling. J Comput Neurosci
+30: 373–390, 2011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3059351</ArticleId>
+            <ArticleId IdType="pubmed">20700637</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Achuthan S, Canavier CC. 
+Phase-resetting curves determine synchronization, phase locking, and clustering in networks of neural oscillators. J Neurosci
+29: 5218–5233, 2009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2765798</ArticleId>
+            <ArticleId IdType="pubmed">19386918</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acker CD, Kopell N, White JA. 
+Synchronization of strongly coupled excitatory neurons: relating network behavior to biophysics. J Comput Neurosci
+15: 71–90, 2003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12843696</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Akam T, Oren I, Mantoan L, Ferenczi E, Kullmann DM. 
+Oscillatory dynamics in the hippocampus support dentate gyrus-CA3 coupling. Nat Neurosci
+15: 763–768, 2012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3378654</ArticleId>
+            <ArticleId IdType="pubmed">22466505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ashwin P, Coombes S, Nicks R. 
+Mathematical frameworks for oscillatory network dynamics in neuroscience. J Math Neurosci
+6: 2, 2016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4703605</ArticleId>
+            <ArticleId IdType="pubmed">26739133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barreiro AK, Shea-Brown E, Thilo EL. 
+Time scales of spike-train correlation for neural oscillators with common drive. Phys Rev E Stat Nonlin Soft Matter Phys
+81: 011916, 2010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20365408</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brown EN, Moehlis J, Holmes P. 
+On the phase reduction and response dynamics of neural oscillator populations. Neural Comput
+16: 673–671, 2004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15025826</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burton SD, Ermentrout GB, Urban NN. 
+Intrinsic heterogeneity in oscillatory dynamics limits correlation-induced neural synchronization. J Neurophysiol
+108: 2115–2133, 2012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3545024</ArticleId>
+            <ArticleId IdType="pubmed">22815400</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Canavier CC, Achuthan S. 
+Pulse coupled oscillators and the phase resetting curve. Math Biosci
+226: 77–96, 2010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3022482</ArticleId>
+            <ArticleId IdType="pubmed">20460132</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cohen AH, Ermentrout GB, Kiemel T, Kopell N, Sigvardt KA, Williams TL. 
+Modelling of intersegmental coordination in the lamprey central pattern generator for locomotion. Trends Neurosci
+15: 434–438, 1992.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1281350</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cui J, Canavier CC, Butera RJ. 
+Functional phase response curves: a method for understanding synchronization of adapting neurons. J Neurophysiol
+102: 387–398, 2009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2712257</ArticleId>
+            <ArticleId IdType="pubmed">19420126</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>de la Rocha J, Doiron B, Shea-Brown E, Josić K, Reyes A. 
+Correlation between neural spike trains increases with firing rate. Nature
+448: 802–806, 2007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17700699</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ermentrout B.
+Type I membranes, phase resetting curves, and synchrony. Neural Comput
+8: 979–1001, 1996.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8697231</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ermentrout B, Pascal M, Gutkin B. 
+The effects of spike frequency adaptation and negative feedback on the synchronization of neural oscillators. Neural Comput
+13: 1285–1310, 2001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11387047</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ermentrout GB, Beverlin B, Netoff T. 
+Phase response curves to measure ion channel effects on neurons. In: Phase Response Curves in Neuroscience, edited by Schultheiss NW, Prinz AA, and Butera RJ. 
+New York: Springer, 2014, p. 207–236.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ermentrout GB, Galán RF, Urban NN. 
+Relating neural dynamics to neural coding. Phys Rev Lett
+99: 248103, 2007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2533709</ArticleId>
+            <ArticleId IdType="pubmed">18233494</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ermentrout GB, Galán RF, Urban NN. 
+Reliability, synchrony and noise. Trends Neurosci
+31: 428–434, 2008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2574942</ArticleId>
+            <ArticleId IdType="pubmed">18603311</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ermentrout GB, Rinzel J. 
+Beyond a pacemaker's entrainment limit: phase walk-through. Am J Physiol Regul Integr Comp Physiol
+246: R102–R106, 1984.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">6696096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ermentrout GB, Terman DH. 
+Mathematical Foundations of Neuroscience. New York: Springer, 2010.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Farries MA, Wilson CJ. 
+Biophysical basis of the phase response curve of subthalamic neurons with generalization to other cell types. J Neurophysiol
+108: 1838–1855, 2012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3774581</ArticleId>
+            <ArticleId IdType="pubmed">22786959</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fourcaud-Trocmé N, Hansel D, Van Vreeswijk C, Brunel N. 
+How spike generation mechanisms determine the neuronal response to fluctuating inputs. J Neurosci
+23: 11628–11640, 2003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6740955</ArticleId>
+            <ArticleId IdType="pubmed">14684865</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goldberg JA, Deister CA, Wilson CJ. 
+Response properties and synchronization of rhythmically firing dendritic neurons. J Neurophysiol
+97: 208–219, 2007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16956986</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gutkin BS, Ermentrout GB, Reyes AD. 
+Phase response curves give the responses of neurons to transient inputs. J Neurophysiol
+94: 1623–1635, 2005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15829595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hansel D, Mato G, Meunier C. 
+Synchrony in excitatory neural networks. Neural Comput
+7: 307–37, 1995.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8974733</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hodgkin AL, Huxley AF. 
+A quantitative description of membrane current and its application to conduction and excitation in nerve. J Physiol
+117: 500–544, 1952a.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1392413</ArticleId>
+            <ArticleId IdType="pubmed">12991237</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hodgkin AL, Huxley AF. 
+Propagation of electrical signals along giant nerve fibers. Proc R Soc Lond B Biol Sci
+140: 177–183, 1952b.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">13003922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Izhikevich EM.
+Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting. Cambridge, MA: The MIT Press, 2010.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Izhikevich EM.
+Phase models with explicit time delays. Phys Rev E Stat Phys Plasmas Fluids Relat Interdiscip Topics
+58: 905, 1998.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kantz H, Schreiber T. 
+Nonlinear Time Series Analysis (2nd ed). Cambridge, UK: Cambridge University Press, 2004.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Litwin-Kumar A, Oswald AMM, Urban NN, Doiron B. 
+Balanced synaptic input shapes the correlation between neural spike trains. PLoS Comput Biol
+7: e1002305, 2011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3245294</ArticleId>
+            <ArticleId IdType="pubmed">22215995</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mancilla JG, Lewis TJ, Pinto DJ, Rinzel J, Connors BW. 
+Synchronization of electrically coupled pairs of inhibitory interneurons in neocortex. J Neurosci
+27: 2058–2073, 2007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6673558</ArticleId>
+            <ArticleId IdType="pubmed">17314301</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maran SK, Canavier CC. 
+Using phase resetting to predict 1:1 and 2:2 locking in two neuron networks in which firing order is not always preserved. J Comput Neurosci
+24: 37–55, 2008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2719962</ArticleId>
+            <ArticleId IdType="pubmed">17577651</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marder E, Bucher D, Schulz DJ, Taylor AL. 
+Invertebrate central pattern generation moves along. Curr Biol
+15: R685–R699, 2005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16139202</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nakae K, Iba Y, Tsubo Y, Fukai T, Aoyagi T. 
+Bayesian estimation of phase response curves. Neural Netw
+23: 752–763, 2010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20466516</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Netoff TI.
+Spike time response curve. In: Encyclopedia of Computational Neuroscience, edited by Jaeger D and Jung R. 
+New York: Springer, 2014,.  p. 1–2.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Netoff TI, Acker CD, Bettencourt JC, White JA. 
+Beyond two-cell networks: experimental measurement of neuronal responses to multiple synaptic inputs. J Comput Neurosci
+18: 287–295, 2005a.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15830165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Netoff TI, Banks MI, Dorval AD, Acker CD, Haas JS, Kopell N, White JA. 
+Synchronization in hybrid neuronal networks of the hippocampal formation. J Neurophysiol
+93: 1197–1208, 2005b.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15525802</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Netoff T, Schwemmer MA, Lewis TJ. 
+Experimentally estimating phase response curves of neurons: theoretical and practical issues. In: Phase Response Curves in Neuroscience. New York: Springer, 2012, vol. 15, p. 95–129.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nishii J, Uno Y, Suzuki R. 
+Mathematical models for the swimming pattern of a lamprey. Biol Cybern
+72: 1–9, 1994.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Oprisan SA, Prinz AA, Canavier CC. 
+Phase resetting and phase locking in hybrid circuits of one model and one biological neuron. Biophys J
+87: 2283–2298, 2004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1304653</ArticleId>
+            <ArticleId IdType="pubmed">15454430</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ota K, Omori T, Aonishi T. 
+MAP estimation algorithm for phase response curves based on analysis of the observation process. J Comput Neurosci
+26: 185–202, 2009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18751879</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ota K, Omori T, Watanabe S, Miyakawa H, Okada M, Aonishi T. 
+Measurement of infinitesimal phase response curves from noisy real neurons. Phys Rev E Stat Nonlin Soft Matter Phys
+84: 041902, 2011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22181170</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pfeuty B, Mato G, Golomb D, Hansel D. 
+The combined effects of inhibitory and electrical synapses in synchrony. Neural Comput
+17: 633–670, 2005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15802009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ratté S, Hong S, De Schutter E, Prescott SA. 
+Impact of neuronal properties on network coding: roles of spike initiation dynamics and robust synchrony transfer. Neuron
+78: 758–772, 2013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3753823</ArticleId>
+            <ArticleId IdType="pubmed">23764282</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reyes AD, Fetz EE. 
+Effects of transient depolarizing potentials on the firing rate of cat neocortical neurons. J Neurophysiol
+69: 1673–1683, 1993.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8389835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rieke F, Warland D, de Ruyter van Steveninck R, Bialek W. 
+Spikes. Exploring the Neural Code. Cambridge, MA: MIT Press, 1996.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schultheiss NW, Edgerton JR, Jaeger D. 
+Phase response curve analysis of a full morphological globus pallidus neuron model reveals distinct perisomatic and dendritic modes of synaptic integration. J Neurosci
+30: 2767–2782, 2010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2833015</ArticleId>
+            <ArticleId IdType="pubmed">20164360</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schultheiss NW, Prinz AA, Butera RJ, editors. Phase Response Curves in Neuroscience: Theory, Experiment, and Analysis. New York: Springer, 2011.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schwabedal JT, Pikovsky A. 
+Phase description of stochastic oscillations. Phys Rev Lett
+110: 204102, 2013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25167416</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schwemmer MA, Lewis TJ. 
+The theory of weakly coupled oscillators. In
+Phase Response Curves in Neuroscience: Theory, Experiment, and Analysis, edited by Schultheiss NW, Prinz AA, and Butera RJ. 
+New York: Springer, 2011, p. 3–32.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Smeal RM, Ermentrout GB, White JA. 
+Phase-response curves and synchronized neural networks. Philos Trans R Soc Lond B Biol Sci
+365: 2407–2422, 2010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2894948</ArticleId>
+            <ArticleId IdType="pubmed">20603361</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith JC, Butera RJ, Koshiya N, Del Negro C, Wilson CG, Johnson SM. 
+Respiratory rhythm generation in neonatal and adult mammals: the hybrid pacemaker-network model. Respir Physiol
+122: 131–147, 2000.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10967340</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stiefel KM, Gutkin BS, Sejnowski TJ. 
+Cholinergic neuromodulation changes phase response curve shape and type in cortical pyramidal neurons. PLoS One
+3: e3947, 2008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2596483</ArticleId>
+            <ArticleId IdType="pubmed">19079601</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stiefel KM, Gutkin BS, Sejnowski TJ. 
+The effects of cholinergic neuromodulation on neuronal phase-response curves of modeled cortical neurons. J Comput Neurosci
+26: 289–301, 2009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2857973</ArticleId>
+            <ArticleId IdType="pubmed">18784991</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tateno T, Robinson HP. 
+Phase resetting curves and oscillatory stability in interneurons of rat somatosensory cortex. Biophys J
+92: 683–695, 2007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1751383</ArticleId>
+            <ArticleId IdType="pubmed">17192317</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Teramae JN, Nakao H, Ermentrout GB. 
+Stochastic phase reduction for a general class of noisy limit cycle oscillators. Phys Rev Lett
+102: 194102, 2009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19518956</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Teramae JN, Tanaka D. 
+Robustness of the noise-induced phase synchronization in a general class of limit cycle oscillators. Phys Rev Lett
+93: 204103, 2004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15600929</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thomas PJ, Lindner B. 
+Asymptotic phase for stochastic oscillators. Phys Rev Lett
+113: 254101, 2014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25554883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Torben-Nielsen B, Uusisaari M, Stiefel KM. 
+A comparison of methods to determine neuronal phase-response curves. Front Neuroinform
+4: 6, 2010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2861477</ArticleId>
+            <ArticleId IdType="pubmed">20431724</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tsubo Y, Takada M, Reyes AD, Fukai T. 
+Layer and frequency dependencies of phase response properties of pyramidal neurons in rat motor cortex. Eur J Neurosci
+25: 3429–3441, 2007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17553012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wilson CJ, Barraza D, Troyer T, Farries MA. 
+Predicting the responses of repetitively firing neurons to current noise. PLoS Comput Biol
+10: e1003612, 2014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4014400</ArticleId>
+            <ArticleId IdType="pubmed">24809636</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Winfree AT.
+The Geometry of Biological Time (2nd ed). New York: Springer, 2001.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yuste R, MacLean JN, Smith J, Lansner A. 
+The cortex as a central pattern generator. Nat Rev Neurosci
+6: 477–483, 2005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15928717</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou P, Burton SD, Urban NN, Ermentrout GB. 
+Impact of neuronal heterogeneity on correlated colored noise-induced synchronization. Front Comput Neurosci
+7: 113, 2013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3748396</ArticleId>
+            <ArticleId IdType="pubmed">23970864</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

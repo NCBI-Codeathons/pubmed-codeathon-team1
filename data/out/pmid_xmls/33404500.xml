@@ -1,0 +1,629 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">33404500</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>17</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2050-084X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>10</Volume>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Jan</Month>
+              <Day>06</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>eLife</Title>
+          <ISOAbbreviation>Elife</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Subcellular sequencing of single neurons reveals the dendritic transcriptome of GABAergic interneurons.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">e63092</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.7554/eLife.63092</ELocationID>
+        <Abstract>
+          <AbstractText>Although mRNAs are localized in the processes of excitatory neurons, it is still unclear whether interneurons also localize a large population of mRNAs. In addition, the variability in the localized mRNA population within and between cell types is unknown. Here we describe the unbiased transcriptomic characterization of the subcellular compartments of hundreds of single neurons. We separately profiled the dendritic and somatic transcriptomes of individual rat hippocampal neurons and investigated mRNA abundances in the soma and dendrites of single glutamatergic and GABAergic neurons. We found that, like their excitatory counterparts, interneurons contain a rich repertoire of ~4000 mRNAs. We observed more cell type-specific features among somatic transcriptomes than their associated dendritic transcriptomes. Finally, using celltype-specific metabolic labeling of isolated neurites, we demonstrated that the processes of glutamatergic and, notably, GABAergic neurons were capable of local translation, suggesting mRNA localization and local translation are general properties of neurons.</AbstractText>
+          <CopyrightInformation>© 2021, Perez et al.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Perez</LastName>
+            <ForeName>Julio D</ForeName>
+            <Initials>JD</Initials>
+            <Identifier Source="ORCID">0000-0002-8769-9306</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Max Planck Institute for Brain Research, Frankfurt am Main, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dieck</LastName>
+            <ForeName>Susanne Tom</ForeName>
+            <Initials>ST</Initials>
+            <Identifier Source="ORCID">0000-0002-5884-8640</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Max Planck Institute for Brain Research, Frankfurt am Main, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alvarez-Castelao</LastName>
+            <ForeName>Beatriz</ForeName>
+            <Initials>B</Initials>
+            <Identifier Source="ORCID">0000-0001-7505-1855</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Biology, Veterinary School, Complutense University of Madrid, Madrid, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tushev</LastName>
+            <ForeName>Georgi</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Max Planck Institute for Brain Research, Frankfurt am Main, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chan</LastName>
+            <ForeName>Ivy Cw</ForeName>
+            <Initials>IC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Behavior and Brain Organization, Center of Advanced European Studies and Research, Bonn, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schuman</LastName>
+            <ForeName>Erin M</ForeName>
+            <Initials>EM</Initials>
+            <Identifier Source="ORCID">0000-0002-7053-1005</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Max Planck Institute for Brain Research, Frankfurt am Main, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>GEO</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>GSE157204</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>01</Month>
+          <Day>06</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Elife</MedlineTA>
+        <NlmUniqueID>101579614</NlmUniqueID>
+        <ISSNLinking>2050-084X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003712" MajorTopicYN="N">Dendrites</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059330" MajorTopicYN="N">GABAergic Neurons</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007395" MajorTopicYN="N">Interneurons</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059010" MajorTopicYN="Y">Single-Cell Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059467" MajorTopicYN="N">Transcriptome</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">GABAergic</Keyword>
+        <Keyword MajorTopicYN="Y">local translation</Keyword>
+        <Keyword MajorTopicYN="Y">neuroscience</Keyword>
+        <Keyword MajorTopicYN="Y">rat</Keyword>
+        <Keyword MajorTopicYN="Y">transcriptome</Keyword>
+      </KeywordList>
+      <CoiStatement>JP, SD, BA, GT, IC, ES No competing interests declared</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>10</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>1</Month>
+          <Day>5</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>1</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>1</Month>
+          <Day>6</Day>
+          <Hour>12</Hour>
+          <Minute>14</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">33404500</ArticleId>
+        <ArticleId IdType="pmc">PMC7819707</ArticleId>
+        <ArticleId IdType="doi">10.7554/eLife.63092</ArticleId>
+        <ArticleId IdType="pii">63092</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Aakalu G, Smith WB, Nguyen N, Jiang C, Schuman EM. Dynamic visualization of local protein synthesis in hippocampal neurons. Neuron. 2001;30:489–502. doi: 10.1016/S0896-6273(01)00295-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0896-6273(01)00295-1</ArticleId>
+            <ArticleId IdType="pubmed">11395009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alvarez-Castelao B, Schanzenbächer CT, Hanus C, Glock C, Tom Dieck S, Dörrbaum AR, Bartnik I, Nassim-Assir B, Ciirdaeva E, Mueller A, Dieterich DC, Tirrell DA, Langer JD, Schuman EM. Cell-type-specific metabolic labeling of nascent proteomes in vivo. Nature Biotechnology. 2017;35:1196–1201. doi: 10.1038/nbt.4016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nbt.4016</ArticleId>
+            <ArticleId IdType="pubmed">29106408</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alvarez-Castelao B, Schanzenbächer CT, Langer JD, Schuman EM. Cell-type-specific metabolic labeling, detection and identification of nascent proteomes in vivo. Nature Protocols. 2019;14:556–575. doi: 10.1038/s41596-018-0106-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41596-018-0106-6</ArticleId>
+            <ArticleId IdType="pubmed">30610240</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alvarez-Castelao B, Tom Dieck S, Fusco CM, Donlin-Asp P, Perez JD, Schuman EM. The switch-like expression of heme-regulated kinase 1 mediates neuronal proteostasis following proteasome inhibition. eLife. 2020;9:e52714.  doi: 10.7554/eLife.52714.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.52714</ArticleId>
+            <ArticleId IdType="pmc">PMC7224698</ArticleId>
+            <ArticleId IdType="pubmed">32329716</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Behm M, Öhman M. RNA editing: a contributor to neuronal dynamics in the mammalian brain. Trends in Genetics. 2016;32:165–175. doi: 10.1016/j.tig.2015.12.005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tig.2015.12.005</ArticleId>
+            <ArticleId IdType="pubmed">26803450</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Benson DL, Watkins FH, Steward O, Banker G. Characterization of GABAergic neurons in hippocampal cell cultures. Journal of Neurocytology. 1994;23:279–295. doi: 10.1007/BF01188497.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/BF01188497</ArticleId>
+            <ArticleId IdType="pubmed">8089704</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bingol B, Schuman EM. Activity-dependent dynamics and sequestration of proteasomes in dendritic spines. Nature. 2006;441:1144–1148. doi: 10.1038/nature04769.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature04769</ArticleId>
+            <ArticleId IdType="pubmed">16810255</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blondel VD, Guillaume J-L, Lambiotte R, Lefebvre E. Fast unfolding of communities in large networks. Journal of Statistical Mechanics: Theory and Experiment. 2008;2008:10008–10014. doi: 10.1088/1742-5468/2008/10/P10008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/1742-5468/2008/10/P10008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Butler A, Hoffman P, Smibert P, Papalexi E, Satija R. Integrating single-cell transcriptomic data across different conditions, technologies, and species. Nature Biotechnology. 2018;36:411–420. doi: 10.1038/nbt.4096.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nbt.4096</ArticleId>
+            <ArticleId IdType="pmc">PMC6700744</ArticleId>
+            <ArticleId IdType="pubmed">29608179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cajigas IJ, Tushev G, Will TJ, tom Dieck S, Fuerst N, Schuman EM. The local transcriptome in the synaptic neuropil revealed by deep sequencing and high-resolution imaging. Neuron. 2012;74:453–466. doi: 10.1016/j.neuron.2012.02.036.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2012.02.036</ArticleId>
+            <ArticleId IdType="pmc">PMC3627340</ArticleId>
+            <ArticleId IdType="pubmed">22578497</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen S, Zhou Y, Chen Y, Gu J. Fastp: an ultra-fast all-in-one FASTQ preprocessor. Bioinformatics. 2018;34:i884–i890. doi: 10.1093/bioinformatics/bty560.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/bty560</ArticleId>
+            <ArticleId IdType="pmc">PMC6129281</ArticleId>
+            <ArticleId IdType="pubmed">30423086</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Darnell RB. RNA protein interaction in neurons. Annual Review of Neuroscience. 2013;36:243–270. doi: 10.1146/annurev-neuro-062912-114322.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-neuro-062912-114322</ArticleId>
+            <ArticleId IdType="pmc">PMC3889695</ArticleId>
+            <ArticleId IdType="pubmed">23701460</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dieterich DC, Lee JJ, Link AJ, Graumann J, Tirrell DA, Schuman EM. Labeling, detection and identification of newly synthesized proteomes with bioorthogonal non-canonical amino-acid tagging. Nature Protocols. 2007;2:532–540. doi: 10.1038/nprot.2007.52.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nprot.2007.52</ArticleId>
+            <ArticleId IdType="pubmed">17406607</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eng CL, Lawson M, Zhu Q, Dries R, Koulena N, Takei Y, Yun J, Cronin C, Karp C, Yuan GC, Cai L. Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH+ Nature. 2019;568:235–239. doi: 10.1038/s41586-019-1049-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-019-1049-y</ArticleId>
+            <ArticleId IdType="pmc">PMC6544023</ArticleId>
+            <ArticleId IdType="pubmed">30911168</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Foley JW, Zhu C, Jolivet P, Zhu SX, Lu P, Meaney MJ, West RB. Gene expression profiling of single cells from archival tissue with laser-capture microdissection and Smart-3SEQ. Genome Research. 2019;29:1816–1825. doi: 10.1101/gr.234807.118.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gr.234807.118</ArticleId>
+            <ArticleId IdType="pmc">PMC6836736</ArticleId>
+            <ArticleId IdType="pubmed">31519740</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Glock C, Heumüller M, Schuman EM. mRNA transport &amp; local translation in neurons. Current Opinion in Neurobiology. 2017;45:169–177. doi: 10.1016/j.conb.2017.05.005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.conb.2017.05.005</ArticleId>
+            <ArticleId IdType="pubmed">28633045</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Glock C, Biever A, Tushev G, Bartnik I, bioRxiv BN. The mRNA translation landscape in the synaptic neuropil. bioRxiv. 2020 doi: 10.1101/2020.06.09.141960.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/2020.06.09.141960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goebbels S, Bormuth I, Bode U, Hermanson O, Schwab MH, Nave KA. Genetic targeting of principal neurons in neocortex and Hippocampus of NEX-Cre mice. Genesis. 2006;44:611–621. doi: 10.1002/dvg.20256.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/dvg.20256</ArticleId>
+            <ArticleId IdType="pubmed">17146780</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gumy LF, Yeo GS, Tung YC, Zivraj KH, Willis D, Coppola G, Lam BY, Twiss JL, Holt CE, Fawcett JW. Transcriptome analysis of embryonic and adult sensory axons reveals changes in mRNA repertoire localization. RNA. 2011;17:85–98. doi: 10.1261/rna.2386111.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1261/rna.2386111</ArticleId>
+            <ArticleId IdType="pmc">PMC3004069</ArticleId>
+            <ArticleId IdType="pubmed">21098654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hafemeister C, Satija R. Normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression. Genome Biology. 2019;20:296.  doi: 10.1186/s13059-019-1874-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13059-019-1874-1</ArticleId>
+            <ArticleId IdType="pmc">PMC6927181</ArticleId>
+            <ArticleId IdType="pubmed">31870423</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hafner AS, Donlin-Asp PG, Leitch B, Herzog E, Schuman EM. Local protein synthesis is a ubiquitous feature of neuronal pre- and postsynaptic compartments. Science. 2019;364:eaau3644.  doi: 10.1126/science.aau3644.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aau3644</ArticleId>
+            <ArticleId IdType="pubmed">31097639</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hanus C, Geptin H, Tushev G, Garg S, Alvarez-Castelao B, Sambandan S, Kochen L, Hafner AS, Langer JD, Schuman EM. Unconventional secretory processing diversifies neuronal ion channel properties. eLife. 2016;5:e20609.  doi: 10.7554/eLife.20609.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.20609</ArticleId>
+            <ArticleId IdType="pmc">PMC5077297</ArticleId>
+            <ArticleId IdType="pubmed">27677849</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harris KD, Hochgerner H, Skene NG, Magno L, Katona L, Bengtsson Gonzales C, Somogyi P, Kessaris N, Linnarsson S, Hjerling-Leffler J. Classes and continua of hippocampal CA1 inhibitory neurons revealed by single-cell transcriptomics. PLOS Biology. 2018;16:e2006387.  doi: 10.1371/journal.pbio.2006387.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pbio.2006387</ArticleId>
+            <ArticleId IdType="pmc">PMC6029811</ArticleId>
+            <ArticleId IdType="pubmed">29912866</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Holt CE, Martin KC, Schuman EM. Local translation in neurons: visualization and function. Nature Structural &amp; Molecular Biology. 2019;26:557–566. doi: 10.1038/s41594-019-0263-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41594-019-0263-5</ArticleId>
+            <ArticleId IdType="pubmed">31270476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang ZJ, Paul A. The diversity of GABAergic neurons and neural communication elements. Nature Reviews Neuroscience. 2019;20:563–572. doi: 10.1038/s41583-019-0195-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41583-019-0195-4</ArticleId>
+            <ArticleId IdType="pubmed">31222186</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koopmans F, van Nierop P, Andres-Alonso M, Byrnes A, Cijsouw T, Coba MP, Cornelisse LN, Farrell RJ, Goldschmidt HL, Howrigan DP, Hussain NK, Imig C, de Jong APH, Jung H, Kohansalnodehi M, Kramarz B, Lipstein N, Lovering RC, MacGillavry H, Mariano V, Mi H, Ninov M, Osumi-Sutherland D, Pielot R, Smalla KH, Tang H, Tashman K, Toonen RFG, Verpelli C, Reig-Viader R, Watanabe K, van Weering J, Achsel T, Ashrafi G, Asi N, Brown TC, De Camilli P, Feuermann M, Foulger RE, Gaudet P, Joglekar A, Kanellopoulos A, Malenka R, Nicoll RA, Pulido C, de Juan-Sanz J, Sheng M, Südhof TC, Tilgner HU, Bagni C, Bayés À, Biederer T, Brose N, Chua JJE, Dieterich DC, Gundelfinger ED, Hoogenraad C, Huganir RL, Jahn R, Kaeser PS, Kim E, Kreutz MR, McPherson PS, Neale BM, O'Connor V, Posthuma D, Ryan TA, Sala C, Feng G, Hyman SE, Thomas PD, Smit AB, Verhage M. SynGO: an Evidence-Based, Expert-Curated knowledge base for the synapse. Neuron. 2019;103:217–234. doi: 10.1016/j.neuron.2019.05.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2019.05.002</ArticleId>
+            <ArticleId IdType="pmc">PMC6764089</ArticleId>
+            <ArticleId IdType="pubmed">31171447</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kosik KS. Life at low copy number: how dendrites manage with so few mRNAs. Neuron. 2016;92:1168–1180. doi: 10.1016/j.neuron.2016.11.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2016.11.002</ArticleId>
+            <ArticleId IdType="pubmed">28009273</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kügelgen N, Chekulaeva M. Conservation of a core neurite transcriptome across neuronal types and species. WIREs RNA. 2020;11:2579.  doi: 10.1002/wrna.1590.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/wrna.1590</ArticleId>
+            <ArticleId IdType="pubmed">32059075</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kuzniewska B, Cysewski D, Wasilewski M, Sakowska P, Milek J, Kulinski TM, Winiarski M, Kozielewicz P, Knapska E, Dadlez M, Chacinska A, Dziembowski A, Dziembowska M. Mitochondrial protein biogenesis in the synapse is supported by local translation. EMBO Reports. 2020;21:e48882.  doi: 10.15252/embr.201948882.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.15252/embr.201948882</ArticleId>
+            <ArticleId IdType="pmc">PMC7403725</ArticleId>
+            <ArticleId IdType="pubmed">32558077</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liao J, Lu X, Shao X, Zhu L, Fan X. Uncovering an organ's Molecular Architecture at Single-Cell Resolution by Spatially Resolved Transcriptomics. Trends in Biotechnology. 2021;39:43–58. doi: 10.1016/j.tibtech.2020.05.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tibtech.2020.05.006</ArticleId>
+            <ArticleId IdType="pubmed">32505359</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Link AJ, Vink MK, Tirrell DA. Preparation of the functionalizable methionine surrogate azidohomoalanine via copper-catalyzed diazo transfer. Nature Protocols. 2007;2:1879–1883. doi: 10.1038/nprot.2007.268.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nprot.2007.268</ArticleId>
+            <ArticleId IdType="pubmed">17703198</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu Y, Beyer A, Aebersold R. On the dependency of cellular protein levels on mRNA abundance. Cell. 2016;165:535–550. doi: 10.1016/j.cell.2016.03.014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2016.03.014</ArticleId>
+            <ArticleId IdType="pubmed">27104977</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Macosko EZ, Basu A, Satija R, Nemesh J, Shekhar K, Goldman M, Tirosh I, Bialas AR, Kamitaki N, Martersteck EM, Trombetta JJ, Weitz DA, Sanes JR, Shalek AK, Regev A, McCarroll SA. Highly parallel Genome-wide expression profiling of individual cells using nanoliter droplets. Cell. 2015;161:1202–1214. doi: 10.1016/j.cell.2015.05.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2015.05.002</ArticleId>
+            <ArticleId IdType="pmc">PMC4481139</ArticleId>
+            <ArticleId IdType="pubmed">26000488</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martin KC, Ephrussi A. mRNA localization: gene expression in the spatial dimension. Cell. 2009;136:719–730. doi: 10.1016/j.cell.2009.01.044.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2009.01.044</ArticleId>
+            <ArticleId IdType="pmc">PMC2819924</ArticleId>
+            <ArticleId IdType="pubmed">19239891</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mayer C, Hafemeister C, Bandler RC, Machold R, Batista Brito R, Jaglin X, Allaway K, Butler A, Fishell G, Satija R. Developmental diversification of cortical inhibitory interneurons. Nature. 2018;555:457–462. doi: 10.1038/nature25999.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature25999</ArticleId>
+            <ArticleId IdType="pmc">PMC6052457</ArticleId>
+            <ArticleId IdType="pubmed">29513653</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Merkurjev D, Hong WT, Iida K, Oomoto I, Goldie BJ, Yamaguti H, Ohara T, Kawaguchi SY, Hirano T, Martin KC, Pellegrini M, Wang DO. Synaptic N6-methyladenosine (m6A) epitranscriptome reveals functional partitioning of localized transcripts. Nature Neuroscience. 2018;21:1004–1014. doi: 10.1038/s41593-018-0173-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41593-018-0173-6</ArticleId>
+            <ArticleId IdType="pubmed">29950670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Middleton SA, Eberwine J, Kim J. Comprehensive catalog of dendritically localized mRNA isoforms from sub-cellular sequencing of single mouse neurons. BMC Biology. 2019;17:5.  doi: 10.1186/s12915-019-0630-z.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12915-019-0630-z</ArticleId>
+            <ArticleId IdType="pmc">PMC6344992</ArticleId>
+            <ArticleId IdType="pubmed">30678683</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nelson SB, Valakh V. Excitatory/Inhibitory balance and circuit homeostasis in autism spectrum disorders. Neuron. 2015;87:684–698. doi: 10.1016/j.neuron.2015.07.033.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2015.07.033</ArticleId>
+            <ArticleId IdType="pmc">PMC4567857</ArticleId>
+            <ArticleId IdType="pubmed">26291155</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nichterwitz S, Chen G, Aguila Benitez J, Yilmaz M, Storvall H, Cao M, Sandberg R, Deng Q, Hedlund E. Laser capture microscopy coupled with Smart-seq2 for precise spatial transcriptomic profiling. Nature Communications. 2016;7:12139.  doi: 10.1038/ncomms12139.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms12139</ArticleId>
+            <ArticleId IdType="pmc">PMC4941116</ArticleId>
+            <ArticleId IdType="pubmed">27387371</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ntranos V, Yi L, Melsted P, Pachter L. A discriminative learning approach to differential expression analysis for single-cell RNA-seq. Nature Methods. 2019;16:163–166. doi: 10.1038/s41592-018-0303-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41592-018-0303-9</ArticleId>
+            <ArticleId IdType="pubmed">30664774</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pelkey KA, Chittajallu R, Craig MT, Tricoire L, Wester JC, McBain CJ. Hippocampal GABAergic inhibitory interneurons. Physiological Reviews. 2017;97:1619–1747. doi: 10.1152/physrev.00007.2017.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/physrev.00007.2017</ArticleId>
+            <ArticleId IdType="pmc">PMC6151493</ArticleId>
+            <ArticleId IdType="pubmed">28954853</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poon MM, Choi S-H, Jamieson CAM, Geschwind DH, Martin KC. Identification of Process-Localized mRNAs from cultured rodent hippocampal neurons. Journal of Neuroscience. 2006;26:13390–13399. doi: 10.1523/JNEUROSCI.3432-06.2006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.3432-06.2006</ArticleId>
+            <ArticleId IdType="pmc">PMC6675000</ArticleId>
+            <ArticleId IdType="pubmed">17182790</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poulopoulos A, Murphy AJ, Ozkan A, Davis P, Hatch J, Kirchner R, Macklis JD. Subcellular transcriptomes and proteomes of developing axon projections in the cerebral cortex. Nature. 2019;565:356–360. doi: 10.1038/s41586-018-0847-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-018-0847-y</ArticleId>
+            <ArticleId IdType="pmc">PMC6484835</ArticleId>
+            <ArticleId IdType="pubmed">30626971</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prakadan SM, Shalek AK, Weitz DA. Scaling by shrinking: empowering single-cell 'omics' with microfluidic devices. Nature Reviews Genetics. 2017;18:345–361. doi: 10.1038/nrg.2017.15.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrg.2017.15</ArticleId>
+            <ArticleId IdType="pmc">PMC5495114</ArticleId>
+            <ArticleId IdType="pubmed">28392571</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rangaraju V, Lauterbach M, Schuman EM. Spatially stable mitochondrial compartments fuel local translation during plasticity. Cell. 2019;176:73–84. doi: 10.1016/j.cell.2018.12.013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2018.12.013</ArticleId>
+            <ArticleId IdType="pubmed">30612742</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saunders A, Macosko EZ, Wysoker A, Goldman M, Krienen FM, de Rivera H, Bien E, Baum M, Bortolin L, Wang S, Goeva A, Nemesh J, Kamitaki N, Brumbaugh S, Kulp D, McCarroll SA. Molecular diversity and specializations among the cells of the adult mouse brain. Cell. 2018;174:1015–1030. doi: 10.1016/j.cell.2018.07.028.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2018.07.028</ArticleId>
+            <ArticleId IdType="pmc">PMC6447408</ArticleId>
+            <ArticleId IdType="pubmed">30096299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stuart T, Butler A, Hoffman P, Hafemeister C, Papalexi E, Mauck WM, Hao Y, Stoeckius M, Smibert P, Satija R. Comprehensive integration of Single-Cell data. Cell. 2019;177:1888–1902. doi: 10.1016/j.cell.2019.05.031.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2019.05.031</ArticleId>
+            <ArticleId IdType="pmc">PMC6687398</ArticleId>
+            <ArticleId IdType="pubmed">31178118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL, Gillette MA, Paulovich A, Pomeroy SL, Golub TR, Lander ES, Mesirov JP. Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. PNAS. 2005;102:15545–15550. doi: 10.1073/pnas.0506580102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0506580102</ArticleId>
+            <ArticleId IdType="pmc">PMC1239896</ArticleId>
+            <ArticleId IdType="pubmed">16199517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taniguchi H, He M, Wu P, Kim S, Paik R, Sugino K, Kvitsiani D, Kvitsani D, Fu Y, Lu J, Lin Y, Miyoshi G, Shima Y, Fishell G, Nelson SB, Huang ZJ. A resource of cre driver lines for genetic targeting of GABAergic neurons in cerebral cortex. Neuron. 2011;71:995–1013. doi: 10.1016/j.neuron.2011.07.026.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2011.07.026</ArticleId>
+            <ArticleId IdType="pmc">PMC3779648</ArticleId>
+            <ArticleId IdType="pubmed">21943598</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tóth EN, Lohith A, Mondal M, Guo J, Fukamizu A, Pourmand N. Single-cell nanobiopsy reveals compartmentalization of mRNAs within neuronal cells. Journal of Biological Chemistry. 2018;293:4940–4951. doi: 10.1074/jbc.M117.800763.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M117.800763</ArticleId>
+            <ArticleId IdType="pmc">PMC5880154</ArticleId>
+            <ArticleId IdType="pubmed">29378846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trapnell C, Roberts A, Goff L, Pertea G, Kim D, Kelley DR, Pimentel H, Salzberg SL, Rinn JL, Pachter L. Differential gene and transcript expression analysis of RNA-seq experiments with TopHat and cufflinks. Nature Protocols. 2012;7:562–578. doi: 10.1038/nprot.2012.016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nprot.2012.016</ArticleId>
+            <ArticleId IdType="pmc">PMC3334321</ArticleId>
+            <ArticleId IdType="pubmed">22383036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tushev G, Glock C, Heumüller M, Biever A, Jovanovic M, Schuman EM. Alternative 3' UTRs modify the localization, regulatory potential, stability, and plasticity of mRNAs in neuronal compartments. Neuron. 2018;98:495–511. doi: 10.1016/j.neuron.2018.03.030.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2018.03.030</ArticleId>
+            <ArticleId IdType="pubmed">29656876</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang X, You X, Langer JD, Hou J, Rupprecht F, Vlatkovic I, Quedenau C, Tushev G, Epstein I, Schaefke B, Sun W, Fang L, Li G, Hu Y, Schuman EM, Chen W. Full-length transcriptome reconstruction reveals a large diversity of RNA and protein isoforms in rat Hippocampus. Nature Communications. 2019;10:5009.  doi: 10.1038/s41467-019-13037-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-019-13037-0</ArticleId>
+            <ArticleId IdType="pmc">PMC6825209</ArticleId>
+            <ArticleId IdType="pubmed">31676752</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xia C, Fan J, Emanuel G, Hao J, Zhuang X. Spatial transcriptome profiling by MERFISH reveals subcellular RNA compartmentalization and cell cycle-dependent gene expression. PNAS. 2019;116:19490–19499. doi: 10.1073/pnas.1912459116.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1912459116</ArticleId>
+            <ArticleId IdType="pmc">PMC6765259</ArticleId>
+            <ArticleId IdType="pubmed">31501331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Younts TJ, Monday HR, Dudok B, Klein ME, Jordan BA, Katona I, Castillo PE. Presynaptic protein synthesis is required for Long-Term plasticity of GABA release. Neuron. 2016;92:479–492. doi: 10.1016/j.neuron.2016.09.040.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2016.09.040</ArticleId>
+            <ArticleId IdType="pmc">PMC5119541</ArticleId>
+            <ArticleId IdType="pubmed">27764673</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zeisel A, Muñoz-Manchado AB, Codeluppi S, Lönnerberg P, La Manno G, Juréus A, Marques S, Munguba H, He L, Betsholtz C, Rolny C, Castelo-Branco G, Hjerling-Leffler J, Linnarsson S. Brain structure cell types in the mouse cortex and Hippocampus revealed by single-cell RNA-seq. Science. 2015;347:1138–1142. doi: 10.1126/science.aaa1934.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aaa1934</ArticleId>
+            <ArticleId IdType="pubmed">25700174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zeisel A, Hochgerner H, Lönnerberg P, Johnsson A, Memic F, van der Zwan J, Häring M, Braun E, Borm LE, La Manno G, Codeluppi S, Furlan A, Lee K, Skene N, Harris KD, Hjerling-Leffler J, Arenas E, Ernfors P, Marklund U, Linnarsson S. Molecular architecture of the mouse nervous system. Cell. 2018;174:999–1014. doi: 10.1016/j.cell.2018.06.021.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2018.06.021</ArticleId>
+            <ArticleId IdType="pmc">PMC6086934</ArticleId>
+            <ArticleId IdType="pubmed">30096314</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhong J, Zhang T, Bloch LM. Dendritic mRNAs encode diversified functionalities in hippocampal pyramidal neurons. BMC Neuroscience. 2006;7:17.  doi: 10.1186/1471-2202-7-17.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2202-7-17</ArticleId>
+            <ArticleId IdType="pmc">PMC1386695</ArticleId>
+            <ArticleId IdType="pubmed">16503994</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,652 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">33514588</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>03</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1754-8411</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>14</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Mar</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Disease models &amp; mechanisms</Title>
+          <ISOAbbreviation>Dis Model Mech</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>NODAL/TGFβ signalling mediates the self-sustained stemness induced by PIK3CAH1047R homozygosity in pluripotent stem cells.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">dmm048298</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1242/dmm.048298</ELocationID>
+        <Abstract>
+          <AbstractText>Activating PIK3CA mutations are known 'drivers' of human cancer and developmental overgrowth syndromes. We recently demonstrated that the 'hotspot' PIK3CAH1047R variant exerts unexpected allele dose-dependent effects on stemness in human pluripotent stem cells (hPSCs). In this study, we combine high-depth transcriptomics, total proteomics and reverse-phase protein arrays to reveal potentially disease-related alterations in heterozygous cells, and to assess the contribution of activated TGFβ signalling to the stemness phenotype of homozygous PIK3CAH1047R cells. We demonstrate signalling rewiring as a function of oncogenic PI3K signalling strength, and provide experimental evidence that self-sustained stemness is causally related to enhanced autocrine NODAL/TGFβ signalling. A significant transcriptomic signature of TGFβ pathway activation in heterozygous PIK3CAH1047R was observed but was modest and was not associated with the stemness phenotype seen in homozygous mutants. Notably, the stemness gene expression in homozygous PIK3CAH1047R hPSCs was reversed by pharmacological inhibition of NODAL/TGFβ signalling, but not by pharmacological PI3Kα pathway inhibition. Altogether, this provides the first in-depth analysis of PI3K signalling in hPSCs and directly links strong PI3K activation to developmental NODAL/TGFβ signalling. This work illustrates the importance of allele dosage and expression when artificial systems are used to model human genetic disease caused by activating PIK3CA mutations. This article has an associated First Person interview with the first author of the paper.</AbstractText>
+          <CopyrightInformation>© 2021. Published by The Company of Biologists Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Madsen</LastName>
+            <ForeName>Ralitsa R</ForeName>
+            <Initials>RR</Initials>
+            <Identifier Source="ORCID">0000-0001-8844-5167</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Centre for Cardiovascular Science, Queen's Medical Research Institute, University of Edinburgh, Edinburgh EH16 4TJ, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Metabolic Research Laboratories, Wellcome Trust-MRC Institute of Metabolic Science, University of Cambridge, Cambridge CB2 0QQ, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The National Institute for Health Research Cambridge Biomedical Research Centre, Cambridge CB2 0QQ, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Longden</LastName>
+            <ForeName>James</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biotech Research and Innovation Centre, University of Copenhagen, DK-2200 Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Theoretical Biophysics, Institute of Biology, Humboldt-Universität zu Berlin, 10115 Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Knox</LastName>
+            <ForeName>Rachel G</ForeName>
+            <Initials>RG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Metabolic Research Laboratories, Wellcome Trust-MRC Institute of Metabolic Science, University of Cambridge, Cambridge CB2 0QQ, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The National Institute for Health Research Cambridge Biomedical Research Centre, Cambridge CB2 0QQ, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Robin</LastName>
+            <ForeName>Xavier</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biotech Research and Innovation Centre, University of Copenhagen, DK-2200 Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Völlmy</LastName>
+            <ForeName>Franziska</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biotech Research and Innovation Centre, University of Copenhagen, DK-2200 Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Macleod</LastName>
+            <ForeName>Kenneth G</ForeName>
+            <Initials>KG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Edinburgh Cancer Research UK Centre, Institute of Genetics and Molecular Medicine, University of Edinburgh, Western General Hospital, Crewe Road South, Edinburgh EH4 2XR, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moniz</LastName>
+            <ForeName>Larissa S</ForeName>
+            <Initials>LS</Initials>
+            <AffiliationInfo>
+              <Affiliation>University College London Cancer Institute, Paul O'Gorman Building, University College London, London WC1E 6BT, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Carragher</LastName>
+            <ForeName>Neil O</ForeName>
+            <Initials>NO</Initials>
+            <AffiliationInfo>
+              <Affiliation>Edinburgh Cancer Research UK Centre, Institute of Genetics and Molecular Medicine, University of Edinburgh, Western General Hospital, Crewe Road South, Edinburgh EH4 2XR, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Linding</LastName>
+            <ForeName>Rune</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biotech Research and Innovation Centre, University of Copenhagen, DK-2200 Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Theoretical Biophysics, Institute of Biology, Humboldt-Universität zu Berlin, 10115 Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vanhaesebroeck</LastName>
+            <ForeName>Bart</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>University College London Cancer Institute, Paul O'Gorman Building, University College London, London WC1E 6BT, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Semple</LastName>
+            <ForeName>Robert K</ForeName>
+            <Initials>RK</Initials>
+            <Identifier Source="ORCID">0000-0001-6539-3069</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Centre for Cardiovascular Science, Queen's Medical Research Institute, University of Edinburgh, Edinburgh EH16 4TJ, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <Acronym>WT_</Acronym>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>25722</GrantID>
+            <Acronym>CRUK_</Acronym>
+            <Agency>Cancer Research UK</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>MC_UU_12012/5</GrantID>
+            <Acronym>MRC_</Acronym>
+            <Agency>Medical Research Council</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>03</Month>
+          <Day>11</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Dis Model Mech</MedlineTA>
+        <NlmUniqueID>101483332</NlmUniqueID>
+        <ISSNLinking>1754-8403</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016212">Transforming Growth Factor beta</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.1.137</RegistryNumber>
+          <NameOfSubstance UI="D058534">Class I Phosphatidylinositol 3-Kinases</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D058534" MajorTopicYN="N">Class I Phosphatidylinositol 3-Kinases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019869" MajorTopicYN="Y">Phosphatidylinositol 3-Kinases</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D039904" MajorTopicYN="Y">Pluripotent Stem Cells</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016212" MajorTopicYN="N">Transforming Growth Factor beta</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">
+          PIK3CA
+        </Keyword>
+        <Keyword MajorTopicYN="Y">PI3K</Keyword>
+        <Keyword MajorTopicYN="Y">Pluripotent stem cells</Keyword>
+        <Keyword MajorTopicYN="Y">Stemness</Keyword>
+      </KeywordList>
+      <CoiStatement>Competing interests R.K.S. is a consultant for HotSpot Therapeutics (Boston, MA, USA). B.V. is a consultant for Karus Therapeutics (Oxford, UK), iOnctura (Geneva, Switzerland) and Venthera (Palo Alto, CA, USA), and has received speaker fees from Gilead Sciences (Foster City, CA, USA). N.O.C. is a director of Ther-IP Ltd (Edinburgh, UK) and founder, shareholder and advisor for PhenoTherapeutics Ltd (Edinburgh, UK), and a member of the advisory board and shareholder of Amplia Therapeutics Ltd (Melbourne, Australia).</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>11</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>1</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>1</Month>
+          <Day>31</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>1</Month>
+          <Day>30</Day>
+          <Hour>5</Hour>
+          <Minute>26</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">33514588</ArticleId>
+        <ArticleId IdType="pmc">PMC7969366</ArticleId>
+        <ArticleId IdType="doi">10.1242/dmm.048298</ArticleId>
+        <ArticleId IdType="pii">dmm.048298</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>André, F., Ciruelos, E., Rubovszky, G., Campone, M., Loibl, S., Rugo, H. S., Iwata, H., Conte, P., Mayer, I. A., Kaufman, B.et al.  (2019). Alpelisib for PIK3CA-mutated, hormone receptor-positive advanced breast cancer. N. Engl. J. Med.
+380, 1929-1940. 10.1056/NEJMoa1813904</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa1813904</ArticleId>
+            <ArticleId IdType="pubmed">31091374</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bar-Eli, M. (2012). Back to the embryonic stage: nodal as a biomarker for breast cancer progression. Breast Cancer Res.
+14, 105. 10.1186/bcr3177</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/bcr3177</ArticleId>
+            <ArticleId IdType="pmc">PMC3446330</ArticleId>
+            <ArticleId IdType="pubmed">22643182</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berenjeno, I. M., Piñeiro, R., Castillo, S. D., Pearce, W., Mcgranahan, N., Dewhurst, S. M., Meniel, V., Birkbak, N. J., Lau, E., Sansregret, L.et al.  (2017). Oncogenic PIK3CA induces centrosome amplification and tolerance to genome doubling. Nat. Commun.
+8, 1773. 10.1038/s41467-017-02002-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-017-02002-4</ArticleId>
+            <ArticleId IdType="pmc">PMC5701070</ArticleId>
+            <ArticleId IdType="pubmed">29170395</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bilanges, B., Posor, Y. and Vanhaesebroeck, B. (2019). PI3K isoforms in cell signalling and vesicle trafficking. Nat. Rev. Mol. Cell Biol.
+20, 515-534. 10.1038/s41580-019-0129-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41580-019-0129-z</ArticleId>
+            <ArticleId IdType="pubmed">31110302</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boyer, L., Lee, T. I., Cole, M. F., Johnstone, S. E., Levine, S. S., Zucker, J. P., Guenther, M. G., Kumar, R. M., Murray, H. L., Jenner, R. G.et al.  (2005). Core transcriptional regulatory circuitry in human embryonic stem cells. Cell
+122, 947-956. 10.1016/j.cell.2005.08.020</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2005.08.020</ArticleId>
+            <ArticleId IdType="pmc">PMC3006442</ArticleId>
+            <ArticleId IdType="pubmed">16153702</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Campbell, P. J., Getz, G., Korbel, J. O., Stuart, J. M., Jennings, J. L., Stein, L. D., Perry, M. D., Nahal-Bose, H. K., Ouellette, B., Li, F. and Constance, H. (2020). Pan-cancer analysis of whole genomes. Nature
+578, 82-93. 10.1038/s41586-020-1969-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-020-1969-6</ArticleId>
+            <ArticleId IdType="pubmed">0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chambers, I., Colby, D., Robertson, M., Nichols, J., Lee, S., Tweedie, S. and Smith, A. (2003). Functional expression cloning of Nanog, a pluripotency sustaining factor in embryonic stem cells. Cell
+113, 643-655. 10.1016/S0092-8674(03)00392-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0092-8674(03)00392-1</ArticleId>
+            <ArticleId IdType="pubmed">12787505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chambers, I., Silva, J., Colby, D., Nichols, J., Nijmeijer, B., Robertson, M., Vrana, J., Jones, K., Grotewold, L. and Smith, A. (2007). Nanog safeguards pluripotency and mediates germline development. Nature
+450, 1230-1234. 10.1038/nature06403</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature06403</ArticleId>
+            <ArticleId IdType="pubmed">18097409</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chang, M. T., Asthana, S., Gao, S. P., Lee, B. H., Chapman, J. S., Kandoth, C., Gao, J. J., Socci, N. D., Solit, D. B., Olshen, A. B.et al.  (2015). Identifying recurrent mutations in cancer reveals widespread lineage diversity and mutational specificity. Nat. Biotechnol.
+34, 155-163. 10.1038/nbt.3391</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nbt.3391</ArticleId>
+            <ArticleId IdType="pmc">PMC4744099</ArticleId>
+            <ArticleId IdType="pubmed">26619011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen, G., Gulbranson, D. R., Hou, Z., Bolin, J. M., Ruotti, V., Probasco, M. D., Smuga-Otto, K., Howden, S. E., Diol, N. R., Propson, N. E.et al.  (2011). Chemically defined conditions for human iPSC derivation and culture. Nat. Methods
+8, 424-429. 10.1038/nmeth.1593</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.1593</ArticleId>
+            <ArticleId IdType="pmc">PMC3084903</ArticleId>
+            <ArticleId IdType="pubmed">21478862</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Darr, H. (2006). Overexpression of NANOG in human ES cells enables feeder-free growth while inducing primitive ectoderm features. Development
+133, 1193-1201. 10.1242/dev.02286</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.02286</ArticleId>
+            <ArticleId IdType="pubmed">16501172</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fruman, D. A., Chiu, H., Hopkins, B. D., Bagrodia, S., Cantley, L. C. and Abraham, R. T. (2017). The PI3K pathway in human disease. Cell
+170, 605-635. 10.1016/j.cell.2017.07.029</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2017.07.029</ArticleId>
+            <ArticleId IdType="pmc">PMC5726441</ArticleId>
+            <ArticleId IdType="pubmed">28802037</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hart, J. R., Zhang, Y., Liao, L., Ueno, L., Du, L., Jonkers, M., Yates, J. R. and Vogt, P. K. (2015). The butterfly effect in cancer: a single base mutation can remodel the cell. Proc. Natl Acad. Sci. USA
+112, 1131-1136. 10.1073/pnas.1424012112</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1424012112</ArticleId>
+            <ArticleId IdType="pmc">PMC4313835</ArticleId>
+            <ArticleId IdType="pubmed">25583473</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hill, C. S. (2018). Spatial and temporal control of NODAL signaling. Curr. Opin. Cell Biol.
+51, 50-57. 10.1016/j.ceb.2017.10.005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ceb.2017.10.005</ArticleId>
+            <ArticleId IdType="pubmed">29153705</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Inman, G. J., Nicolás, F. J., Callahan, J. F., Harling, J. D., Gaster, L. M., Reith, A. D., Laping, N. J. and Hill, C. S. (2002). SB-431542 is a potent and specific inhibitor of transforming growth factor-beta superfamily type I activin receptor-like kinase (ALK) receptors ALK4, ALK5, and ALK7. Mol. Pharmacol.
+62, 65-74. 10.1124/mol.62.1.65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1124/mol.62.1.65</ArticleId>
+            <ArticleId IdType="pubmed">12065756</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ivanova, N.dobrin, R., Lu, R., Kotenko, I., Levorse, J., Decoste, C., Schafer, X., Lun, Y. and Lemischka, I. R. (2006). Dissecting self-renewal in stem cells with RNA interference. Nature
+442, 533-538. 10.1038/nature04915</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature04915</ArticleId>
+            <ArticleId IdType="pubmed">16767105</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jewer, M.Lee, L., Leibovitch, M., Zhang, G., Liu, J., Findlay, S. D., Vincent, K. M., Tandoc, K., Dieters-Castator, D., Quail, D. F.et al.  (2020). Translational control of breast cancer plasticity. Nat. Commun.
+11, 2498. 10.1038/s41467-020-16352-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-020-16352-z</ArticleId>
+            <ArticleId IdType="pmc">PMC7237473</ArticleId>
+            <ArticleId IdType="pubmed">32427827</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Katsuno, Y., Meyer, D. S., Zhang, Z., Shokat, K. M., Akhurst, R. J., Miyazono, K. and Derynck, R. (2019). Chronic TGF-b exposure drives stabilized EMT, tumor stemness, and cancer drug resistance with vulnerability to bitopic mTOR inhibition. Sci. Signal.
+12, eaau8544. 10.1126/scisignal.aau8544</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/scisignal.aau8544</ArticleId>
+            <ArticleId IdType="pmc">PMC6746178</ArticleId>
+            <ArticleId IdType="pubmed">30808819</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kiselev, V. Y., Juvin, V., Malek, M., Luscombe, N., Hawkins, P., Novère, N. L. and Stephens, L. (2015). Perturbations of PIP3 signalling trigger a global remodelling of mRNA landscape and reveal a transcriptional feedback loop. Nucleic Acids Res.
+43, 9663-9679. 10.1093/nar/gkv1015</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkv1015</ArticleId>
+            <ArticleId IdType="pmc">PMC4787766</ArticleId>
+            <ArticleId IdType="pubmed">26464442</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Langfelder, P. and Horvath, S. (2008). WGCNA: an R package for weighted correlation network analysis. BMC Bioinformatics
+9, 559. 10.1186/1471-2105-9-559</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2105-9-559</ArticleId>
+            <ArticleId IdType="pmc">PMC2631488</ArticleId>
+            <ArticleId IdType="pubmed">19114008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li, M. and Belmonte, J. C. I. (2017). Ground rules of the pluripotency gene regulatory network. Nature reviews. Genetics
+18, 180-191. 10.1038/nrg.2016.156</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrg.2016.156</ArticleId>
+            <ArticleId IdType="pubmed">28045100</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu, P., Cheng, H., Santiago, S., Raeder, M., Zhang, F., Isabella, A., Yang, J., Semaan, D. J., Chen, C., Fox, E. A.et al.  (2011). Oncogenic PIK3CA-driven mammary tumors frequently recur via PI3K pathway-dependent and PI3K pathway-independent mechanisms. Nat. Med.
+17, 1116-1120. 10.1038/nm.2402</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nm.2402</ArticleId>
+            <ArticleId IdType="pmc">PMC3169724</ArticleId>
+            <ArticleId IdType="pubmed">21822287</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Loh, Y. H., Wu, Q., Chew, J.-L., Vega, V. B., Zhang, W., Chen, X., Bourque, G., George, J., Leong, B., Liu, J.et al.  (2006). The Oct4 and Nanog transcription network regulates pluripotency in mouse embryonic stem cells. Nat. Genet.
+38, 431-440. 10.1038/ng1760</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ng1760</ArticleId>
+            <ArticleId IdType="pubmed">16518401</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Macleod, K. G., Serrels, B. and Carragher, N. O. (2017). Proteomics for drug discovery In Methods in Molecular Biology (ed. Lazar I. M., Kontoyianni M. and Lazar A. C.), pp. 153-169. New York, NY: Springer New York.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Madsen, R. R., Vanhaesebroeck, B. and Semple, R. K. (2018). Cancer-Associated PIK3CA Mutations in Overgrowth Disorders. Trends Mol. Med.
+24, 856-870. 10.1016/j.molmed.2018.08.003</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molmed.2018.08.003</ArticleId>
+            <ArticleId IdType="pmc">PMC6185869</ArticleId>
+            <ArticleId IdType="pubmed">30197175</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Madsen, R. R., Knox, R. G., Pearce, W., Lopez, S., Mahler-Araujo, B., Mcgranahan, N., Vanhaesebroeck, B. and Semple, R. K. (2019). Oncogenic PIK3CA promotes cellular stemness in an allele dose-dependent manner. Proc. Natl Acad. Sci. USA
+116, 8380-8389. 10.1073/pnas.1821093116</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1821093116</ArticleId>
+            <ArticleId IdType="pmc">PMC6486754</ArticleId>
+            <ArticleId IdType="pubmed">30948643</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Madsen, R. R., Rueda, O. M., Robin, X., Caldas, C., Semple, R. K. and Vanhaesebroeck, B. (2020). Relationship between stemness and transcriptionally-inferred PI3K activity in human breast cancer. bioRxiv
+2020.07.09.195974. 10.1101/2020.07.09.195974</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/2020.07.09.195974</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Margaryan, N. V., Hazard-Jenkins, H., Salkeni, M., Smolkin, M., Coad, J., Wen, S., Seftor, E., Seftor, R. and Hendrix, M. (2019). The stem cell phenotype of aggressive breast cancer cells. Cancers
+11, 1-11. 10.3390/cancers11030340</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cancers11030340</ArticleId>
+            <ArticleId IdType="pmc">PMC6468512</ArticleId>
+            <ArticleId IdType="pubmed">30857267</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mesnard, D., Guzman-Ayala, M. and Constam, D. B. (2006). Nodal specifies embryonic visceral endoderm and sustains pluripotent cells in the epiblast before overt axial patterning. Development
+133, 2497-2505. 10.1242/dev.02413</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.02413</ArticleId>
+            <ArticleId IdType="pubmed">16728477</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mitsui, K.tokuzawa, Y., Itoh, H., Segawa, K., Murakami, M., Takahashi, K., Maruyama, M., Maeda, M. and Yamanaka, S. (2003). The homeoprotein nanog is required for maintenance of pluripotency in mouse epiblast and ES cells. Cell
+113, 631-642. 10.1016/S0092-8674(03)00393-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0092-8674(03)00393-3</ArticleId>
+            <ArticleId IdType="pubmed">12787504</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moniz, L. S.Surinova, S., Ghazaly, E., Velasco, L. G., Haider, S., Rodrã­Guez-Prados, J. C., Berenjeno, I. M., Chelala, C. and Vanhaesebroeck, B. (2017). Phosphoproteomic comparison of Pik3ca and Pten signalling identifies the nucleotidase NT5C as a novel AKT substrate. Sci. Rep.
+7, 39985. 10.1038/srep39985</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/srep39985</ArticleId>
+            <ArticleId IdType="pmc">PMC5216349</ArticleId>
+            <ArticleId IdType="pubmed">28059163</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Murphy, D. J.junttila, M. R., Pouyet, L., Karnezis, A., Shchors, K., Bui, D. A., Brown-Swigart, L., Johnson, L. and Evan, G. I. (2008). Distinct thresholds govern Myc's biological output In Vivo. Cancer Cell
+14, 447-457. 10.1016/j.ccr.2008.10.018</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ccr.2008.10.018</ArticleId>
+            <ArticleId IdType="pmc">PMC2723751</ArticleId>
+            <ArticleId IdType="pubmed">19061836</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nichols, J., Zevnik, B., Anastassiadis, K., Niwa, H., Klewe-Nebenius, D., Chambers, I., Schöler, H. and Smith, A. (1998). Formation of pluripotent stem cells in the mammalian embryo dependes on the POU transcription factor Oct4. Cell
+95, 379-391. 10.1016/S0092-8674(00)81769-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0092-8674(00)81769-9</ArticleId>
+            <ArticleId IdType="pubmed">9814708</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Niwa, H., Miyazaki, J. and Smith, A. G. (2000). Quantitative expression of Oct-3/4 defines differentiation, dedifferentiation or self-renewal of ES cells. Nat. Genet.
+24, 372-376. 10.1038/74199</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/74199</ArticleId>
+            <ArticleId IdType="pubmed">10742100</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Parker, V. E. R., Keppler-Noreuil, K. M., Faivre, L., Luu, M., Oden, N. L., De Silva, L., Sapp, J. C., Andrews, K., Bardou, M., Chen, K. Y.et al.  (2019). Safety and efficacy of low-dose sirolimus in the PIK3CA-related overgrowth spectrum. Genet. Med.
+21, 1189-1198. 10.1038/s41436-018-0297-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41436-018-0297-9</ArticleId>
+            <ArticleId IdType="pmc">PMC6752269</ArticleId>
+            <ArticleId IdType="pubmed">30270358</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pauklin, S. and Vallier, L. (2015). Activin/Nodal signalling in stem cells. Development
+142, 607-619. 10.1242/dev.091769</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.091769</ArticleId>
+            <ArticleId IdType="pubmed">25670788</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Perez-Riverol, Y., Csordas A., Bai J., Bernal-Llinares M., Hewapathirana S., Kundu D. J., Inuganti A., Griss J., Mayer G., Eisenacher M.et al.  (2019). The PRIDE database and related tools and resources in 2019: Improving support for quantification data. Nucleic Acids Res.
+47, D442-D450. 10.1093/nar/gky1106</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gky1106</ArticleId>
+            <ArticleId IdType="pmc">PMC6323896</ArticleId>
+            <ArticleId IdType="pubmed">30395289</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Radzisheuskaya, A., Le Bin Chia, G., Dos Santos, R. L., Theunissen, T. W., Castro, L. F. C., Nichols, J. and Silva, J. C. R. (2013). A defined Oct4 level governs cell state transitions of pluripotency entry and differentiation into all embryonic lineages. Nat. Cell Biol.
+15, 579-590. 10.1038/ncb2742</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncb2742</ArticleId>
+            <ArticleId IdType="pmc">PMC3671976</ArticleId>
+            <ArticleId IdType="pubmed">23629142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Robin, X., Voellmy, F., Ferkinghoff-Borg, J., Howard, C., Altenburg, T., Engel, M., Simpson, C. D., Saginc, G., Koplev, S., Klipp, E.et al.  (2019). Probability-based detection of phosphoproteomic uncertainty reveals rare signaling events driven by oncogenic kinase gene fusion. bioRxiv
+621961. 10.1101/621961</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/621961</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanchez-Vega, F., Mina, M., Armenia, J., Chatila, W. K., Luna, A., La, K. C., Dimitriadoy, S., Liu, D. L., Kantheti, H. S., Saghafinia, S.et al.  (2018). Oncogenic signaling pathways in the cancer genome atlas. Cell
+173, 321-337.e10. 10.1016/j.cell.2018.03.035</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2018.03.035</ArticleId>
+            <ArticleId IdType="pmc">PMC6070353</ArticleId>
+            <ArticleId IdType="pubmed">29625050</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vallier, L., Reynolds, D. and Pedersen, R. A. (2004). Nodal inhibits differentiation of human embryonic stem cells along the neuroectodermal default pathway. Dev. Biol.
+275, 403-421. 10.1016/j.ydbio.2004.08.031</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ydbio.2004.08.031</ArticleId>
+            <ArticleId IdType="pubmed">15501227</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vallier, L., Alexander, M. and Pedersen, R. A. (2005). Activin/Nodal and FGF pathways cooperate to maintain pluripotency of human embryonic stem cells. J. Cell Sci.
+118, 4495-4509. 10.1242/jcs.02553</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/jcs.02553</ArticleId>
+            <ArticleId IdType="pubmed">16179608</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vallier, L., Mendjan, S., Brown, S., Chng, Z., Teo, A., Smithers, L. E., Trotter, M. W. B., Cho, C. H.-H., Martinez, A., Rugg-Gunn, P.et al.  (2009). Activin/Nodal signalling maintains pluripotency by controlling Nanog expression. Development, 136, 1339-1349. 10.1242/dev.033951</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.033951</ArticleId>
+            <ArticleId IdType="pmc">PMC2687465</ArticleId>
+            <ArticleId IdType="pubmed">19279133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Valvezan, A. J. and Manning, B. D. (2019). Molecular logic of mTORC1 signalling as a metabolic rheostat. Nature Metabolism
+1, 321-333. 10.1038/s42255-019-0038-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s42255-019-0038-7</ArticleId>
+            <ArticleId IdType="pubmed">32694720</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vukicevic, S., Kleinman, H. K., Luyten, F. P., Roberts, A. B., Roche, N. S. and Reddi, A. H. (1992). Identification of multiple active growth factors in basement membrane Matrigel suggests caution in interpretation of cellular activity related to extracellular matrix components. Exp. Cell Res.
+202, 1-8. 10.1016/0014-4827(92)90397-Q</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0014-4827(92)90397-Q</ArticleId>
+            <ArticleId IdType="pubmed">1511725</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu, R. H., Sampsell-Barron, T. L., Gu, F., Root, S., Peck, R. M., Pan, G., Yu, J., Antosiewicz-Bourget, J., Tian, S., Stewart, R.et al.  (2008). NANOG is a direct target of TGFβ/activin-mediated SMAD signaling in human ESCs. Cell Stem Cell
+3, 196-206. 10.1016/j.stem.2008.07.001</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.stem.2008.07.001</ArticleId>
+            <ArticleId IdType="pmc">PMC2758041</ArticleId>
+            <ArticleId IdType="pubmed">18682241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

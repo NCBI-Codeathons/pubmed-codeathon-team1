@@ -1,0 +1,205 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">27054060</PMID>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">2197-3768</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>3</Volume>
+            <PubDate>
+              <Year>2016</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Robotics and biomimetics</Title>
+          <ISOAbbreviation>Robotics Biomim</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Single-step collision-free trajectory planning of biped climbing robots in spatial trusses.</ArticleTitle>
+        <Pagination>
+          <StartPage>1</StartPage>
+          <MedlinePgn>1</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">1</ELocationID>
+        <Abstract>
+          <AbstractText>For a biped climbing robot with dual grippers to climb poles, trusses or trees, feasible collision-free climbing motion is inevitable and essential. In this paper, we utilize the sampling-based algorithm, Bi-RRT, to plan single-step collision-free motion for biped climbing robots in spatial trusses. To deal with the orientation limit of a 5-DoF biped climbing robot, a new state representation along with corresponding operations including sampling, metric calculation and interpolation is presented. A simple but effective model of a biped climbing robot in trusses is proposed, through which the motion planning of one climbing cycle is transformed to that of a manipulator. In addition, the pre- and post-processes are introduced to expedite the convergence of the Bi-RRT algorithm and to ensure the safe motion of the climbing robot near poles as well. The piecewise linear paths are smoothed by utilizing cubic B-spline curve fitting. The effectiveness and efficiency of the presented Bi-RRT algorithm for climbing motion planning are verified by simulations.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zhu</LastName>
+            <ForeName>Haifei</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biomimetic and Intelligent Robotics Lab (BIRL), School of Electro-mechanical Engineering, Guangdong University of Technology, Hi-education Mega Center, Guangzhou, 510006 China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Guan</LastName>
+            <ForeName>Yisheng</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biomimetic and Intelligent Robotics Lab (BIRL), School of Electro-mechanical Engineering, Guangdong University of Technology, Hi-education Mega Center, Guangzhou, 510006 China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Shengjun</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biomimetic and Intelligent Robotics Lab (BIRL), School of Electro-mechanical Engineering, Guangdong University of Technology, Hi-education Mega Center, Guangzhou, 510006 China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Su</LastName>
+            <ForeName>Manjia</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biomimetic and Intelligent Robotics Lab (BIRL), School of Electro-mechanical Engineering, Guangdong University of Technology, Hi-education Mega Center, Guangzhou, 510006 China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Hong</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biomimetic and Intelligent Robotics Lab (BIRL), School of Electro-mechanical Engineering, Guangdong University of Technology, Hi-education Mega Center, Guangzhou, 510006 China ; Department of Computing Science, University of Alberta, Edmonton, AB T6G 2E8 Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2016</Year>
+          <Month>02</Month>
+          <Day>24</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Robotics Biomim</MedlineTA>
+        <NlmUniqueID>101645154</NlmUniqueID>
+        <ISSNLinking>2197-3768</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Biped climbing robots</Keyword>
+        <Keyword MajorTopicYN="N">Collision avoidance</Keyword>
+        <Keyword MajorTopicYN="N">Motion planning</Keyword>
+        <Keyword MajorTopicYN="N">Path smoothing</Keyword>
+        <Keyword MajorTopicYN="N">Rapidly-exploring random tree</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2015</Year>
+          <Month>4</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2015</Year>
+          <Month>9</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2016</Year>
+          <Month>4</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2016</Year>
+          <Month>4</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>4</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">27054060</ArticleId>
+        <ArticleId IdType="pmc">PMC4766237</ArticleId>
+        <ArticleId IdType="doi">10.1186/s40638-016-0033-3</ArticleId>
+        <ArticleId IdType="pii">33</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Baghani A, Ahmadabadi MN, Harati A. Kinematics modeling of a wheel-based pole climbing robot (ut-pcr). In: Proceedings of the IEEE international conference on robotics and automation. 2005. p. 2111–16.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chung WK, Xu Y. A hybrid pole climbing and manipulating robot with minimum dofs for construction and service applications. Ind Robot: Int J. 2005;32(2):171–178. doi: 10.1108/01439910510582309.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1108/01439910510582309</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoon Y, Rus D. A robot that climbs 3d trusses. In: Proceedings of the IEEE international conference on robotics and automation. 2007. p. 4071–76.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Guan Y, Jiang L, Zhu H, et al. Climbot: a modular bioinspired biped climbing robot. In: Proceedings of the IEEE international conference on intelligent robots and systems. 2011. p. 1473–78.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tavakoli M, Marjovi A, Marques L, et al. 3dclimber: a climbing robot for inspection of 3d human made structures. In: IEEE/RSJ international conference on intelligent robots and systems. 2008. p. 4130–35.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Balaguer C, Gimenez A, Pastor JM, et al.  A climbing autonomous robot for inspection applications in 3d complex environments. Ind Robot. 2000;18(3):287–297. doi: 10.1017/S0263574799002258.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1017/S0263574799002258</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chung WK, Xu Y. Minimum energy demand locomotion on space station. J Robot. 2013;2013(1):1–15. doi: 10.1155/2013/723535.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2013/723535</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Khosla P, Volpe R. Superquadric artificial potential for obstacle avoidance and approach. In: Proceedings of the IEEE international conference on mechatronics and automation. 1988. p. 1778–84.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kayraki LE, Svestka P, Latombe J-C, et al.  Probabilistic roadmaps for path planning in high-dimensional configurations space. Proc IEEE Trans Robot Autom. 1996;12(4):566–580. doi: 10.1109/70.508439.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/70.508439</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lavalle SM, Kuffner JJ. Rapidly-exploring random trees: progress and prospects. In: Proceedings of algorithmic and computational robotics: new directions. 2001. p. 293–308.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lovbjerg M, Rasmussen TK, Krink T. Hybrid particle swarm optimiser with breeding and subpopulations. In: Proceedings of genetic and evolutionary computation conference. 2001. p. 469–76.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ericson C.  Real time collision detection. Oxford: Morgan Kaufmann Publishers; 2004. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>LaValle SM, Kuffner JJ Jr. Randomized kinodynamic planning. In: Proceedings of international conference on robotics and automation. 1999. p. 473–79.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>LaValle SM.  Planning algorithm. Cambridge: Cambridge University Press, Cambridge University; 2006. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Go’rski KM, Hivon E, Banday AJ, et al.  Healpix: a framework for high-resolution discretization and fast analysis of data distributed on the sphere. Astrophys J. 2005;622(2):759–771. doi: 10.1086/427976.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1086/427976</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hauser K, Ng-Thow-Hing V. Fast smoothing of manipulator trajectories using optimal bounded-acceleration shortcuts. In: IEEE international conference on robotics and automation. 2010. p. 2493–98.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

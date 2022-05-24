@@ -1,0 +1,113 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">34727155</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1530-9185</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>27</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Nov</Month>
+              <Day>02</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Artificial life</Title>
+          <ISOAbbreviation>Artif Life</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Are Artificial Dendrites Useful in Neuro-Evolution?</ArticleTitle>
+        <Pagination>
+          <StartPage>75</StartPage>
+          <EndPage>79</EndPage>
+          <MedlinePgn>75-79</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1162/artl_a_00338</ELocationID>
+        <Abstract>
+          <AbstractText>The significant role of dendritic processing within neuronal networks has become increasingly clear. This letter explores the effects of including a simple dendrite-inspired mechanism into neuro-evolution. The phenomenon of separate dendrite activation thresholds on connections is allowed to emerge under an evolutionary process. It is shown how such processing can be positively selected for, particularly for connections between the hidden and output layers, and increases performance.</AbstractText>
+          <CopyrightInformation>© 2021 Massachusetts Institute of Technology.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bull</LastName>
+            <ForeName>Larry</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of the West of England, Computer Science Research Centre. Larry.Bull@uwe.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Artif Life</MedlineTA>
+        <NlmUniqueID>9433814</NlmUniqueID>
+        <ISSNLinking>1064-5462</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003712" MajorTopicYN="Y">Dendrites</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009474" MajorTopicYN="Y">Neurons</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Connectivity</Keyword>
+        <Keyword MajorTopicYN="Y">multilayer perceptron</Keyword>
+        <Keyword MajorTopicYN="Y">regression</Keyword>
+        <Keyword MajorTopicYN="Y">synapse</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>2</Day>
+          <Hour>17</Hour>
+          <Minute>21</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34727155</ArticleId>
+        <ArticleId IdType="doi">10.1162/artl_a_00338</ArticleId>
+        <ArticleId IdType="pii">102754</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

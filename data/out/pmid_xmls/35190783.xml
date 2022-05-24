@@ -1,0 +1,826 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35190783</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Print">2167-8359</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>10</Volume>
+            <PubDate>
+              <Year>2022</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>PeerJ</Title>
+          <ISOAbbreviation>PeerJ</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Evidence of episodic positive selection in <i>Corynebacterium diphtheriae</i> complex of species and its implementations in identification of drug and vaccine targets.</ArticleTitle>
+        <Pagination>
+          <StartPage>e12662</StartPage>
+          <MedlinePgn>e12662</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">e12662</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.7717/peerj.12662</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Within the pathogenic bacterial species <i>Corynebacterium</i> genus, six species that can produce diphtheria toxin (<i>C. belfantii</i>, <i>C. diphtheriae, C. pseudotuberculosis</i>, <i>C. rouxii</i>, <i>C. silvaticum</i> and <i>C. ulcerans</i>) form a clade referred to as the <i>C. diphtheria</i> complex. These species have been found in humans and other animals, causing diphtheria or other diseases. Here we show the results of a genome scale analysis to identify positive selection in protein-coding genes that may have resulted in the adaptations of these species to their ecological niches and suggest drug and vaccine targets.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Forty genomes were sampled to represent species, subspecies or biovars of <i>Corynebacterium</i>. Ten phylogenetic groups were tested for positive selection using the PosiGene pipeline, including species and biovars from the <i>C. diphtheria</i> complex. The detected genes were tested for recombination and had their sequences alignments and homology manually examined. The final genes were investigated for their function and a probable role as vaccine or drug targets.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Nineteen genes were detected in the species <i>C. diphtheriae</i> (two), <i>C. pseudotuberculosis</i> (10), <i>C. rouxii</i> (one), and <i>C. ulcerans</i> (six). Those were found to be involved in defense, translation, energy production, and transport and in the metabolism of carbohydrates, amino acids, nucleotides, and coenzymes. Fourteen were identified as essential genes, and six as virulence factors. Thirteen from the 19 genes were identified as potential drug targets and four as potential vaccine candidates. These genes could be important in the prevention and treatment of the diseases caused by these bacteria.</AbstractText>
+          <CopyrightInformation>© 2022 Canário Viana et al.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Canário Viana</LastName>
+            <ForeName>Marcus Vinicius</ForeName>
+            <Initials>MV</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departamento de Genética, Ecologia e Evolução, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Departamento de Genética, Universidade Federal do Pará, Belém, Pará, Brazil.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Profeta</LastName>
+            <ForeName>Rodrigo</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departamento de Genética, Ecologia e Evolução, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cerqueira</LastName>
+            <ForeName>Janaína Canário</ForeName>
+            <Initials>JC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departamento de Genética, Ecologia e Evolução, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wattam</LastName>
+            <ForeName>Alice Rebecca</ForeName>
+            <Initials>AR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biocomplexity Institute, University of Virginia, Charlottesville, Virginia, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Barh</LastName>
+            <ForeName>Debmalya</ForeName>
+            <Initials>D</Initials>
+            <Identifier Source="ORCID">0000-0002-2557-7768</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Departamento de Genética, Ecologia e Evolução, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute of Integrative Omics and Applied Biotechnology, Nonakuri, West Bengal, India.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Silva</LastName>
+            <ForeName>Artur</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0002-4082-1132</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Departamento de Genética, Universidade Federal do Pará, Belém, Pará, Brazil.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Azevedo</LastName>
+            <ForeName>Vasco</ForeName>
+            <Initials>V</Initials>
+            <Identifier Source="ORCID">0000-0002-4775-2280</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Departamento de Genética, Ecologia e Evolução, Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>16</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>PeerJ</MedlineTA>
+        <NlmUniqueID>101603425</NlmUniqueID>
+        <ISSNLinking>2167-8359</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Corynebacterium</Keyword>
+        <Keyword MajorTopicYN="N">Drug target</Keyword>
+        <Keyword MajorTopicYN="N">Positive selection</Keyword>
+        <Keyword MajorTopicYN="N">Vaccine target</Keyword>
+      </KeywordList>
+      <CoiStatement>Debmalya Barh and Vasco Azevedo are Academic Editors for PeerJ.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>8</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35190783</ArticleId>
+        <ArticleId IdType="pmc">PMC8857904</ArticleId>
+        <ArticleId IdType="doi">10.7717/peerj.12662</ArticleId>
+        <ArticleId IdType="pii">12662</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Altenhoff AM, Dessimoz C. Phylogenetic and functional assessment of orthologs inference projects and methods. PLOS Computational Biology. 2009;5:e1000262.  doi: 10.1371/journal.pcbi.1000262.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1000262</ArticleId>
+            <ArticleId IdType="pmc">PMC2612752</ArticleId>
+            <ArticleId IdType="pubmed">19148271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anisimova M, Liberles DA.  Detecting and understanding natural selection. In: Cannarozzi GM, Schneider A, editors. Codon Evolution: Mechanisms and Models. Oxford: Oxford University Press; 2012. pp. 73–96.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Anisimova M, Nielsen R, Yang Z. Effect of recombination on the accuracy of the likelihood method for detecting positive selection at amino acid sites. Genetics. 2003;164:1229–1236. doi: 10.1093/bioinformatics/btn086.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btn086</ArticleId>
+            <ArticleId IdType="pmc">PMC1462615</ArticleId>
+            <ArticleId IdType="pubmed">12871927</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arndt D, Grant JR, Marcu A, Sajed T, Pon A, Liang Y, Wishart DS. PHASTER: a better, faster version of the PHAST phage search tool. Nucleic Acids Research. 2016;44:W16–W21. doi: 10.1093/nar/gkw387.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkw387</ArticleId>
+            <ArticleId IdType="pmc">PMC4987931</ArticleId>
+            <ArticleId IdType="pubmed">27141966</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arya T, Reddi R, Kishor C, Ganji RJ, Bhukya S, Gumpena R, McGowan S, Drag M, Addlagatta A. Identification of the molecular basis of inhibitor selectivity between the human and streptococcal type I methionine aminopeptidases. Journal of Medicinal Chemistry. 2015;58:2350–2357. doi: 10.1021/jm501790e.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/jm501790e</ArticleId>
+            <ArticleId IdType="pubmed">25699713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Badell E, Hennart M, Rodrigues C, Passet V, Dazas M, Panunzi L, Bouchez V, Carmi-Leroy A, Toubiana J, Brisse S. Corynebacterium rouxii sp. nov., a novel member of the diphtheriae species complex. Research in Microbiology. 2020;171:122–127. doi: 10.1016/j.resmic.2020.02.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.resmic.2020.02.003</ArticleId>
+            <ArticleId IdType="pubmed">32119905</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barinov A, Loux V, Hammani A, Nicolas P, Langella P, Ehrlichh D, Maguin E, van Guchte MD. Prediction of surface exposed proteins in Streptococcus pyogenes, with a potential application to other Gram-positive bacteria. Proteomics. 2009;9:61–73. doi: 10.1002/pmic.200800195.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/pmic.200800195</ArticleId>
+            <ArticleId IdType="pubmed">19053137</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Batool N, Ko KS, Chaurasia AK, Kim KK. Functional identification of serine hydroxymethyltransferase as a key gene involved in lysostaphin resistance and virulence potential of staphylococcus aureus strains. International Journal of Molecular Sciences. 2020;21:9135. doi: 10.3390/ijms21239135.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/ijms21239135</ArticleId>
+            <ArticleId IdType="pmc">PMC7731198</ArticleId>
+            <ArticleId IdType="pubmed">33266291</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bernard AL, Funke G.  Bergey’s Manual of Systematic of Archaea and Bacteria (Online) London:  John Wiley &amp; Sons, Bergey’s Manual Trust; 2015. Corynebacterium; pp. 1–70.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bertacine Dias MV, Santos JC, Libreros-Zúñiga GA, Ribeiro JA, Chavez-Pacheco SM. Folate biosynthesis pathway: mechanisms and insights into drug design for infectious diseases. Future Medicinal Chemistry. 2018;10:935–959. doi: 10.4155/fmc-2017-0168.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4155/fmc-2017-0168</ArticleId>
+            <ArticleId IdType="pubmed">29629843</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brasier CM. Episodic selection as a force in fungal microevolution, with special reference to clonal speciation and hybrid introgression. Canadian Journal of Botany. 1995;73:1213–1221. doi: 10.1139/b95-381.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1139/b95-381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brettin T, Davis JJ, Disz T, Edwards RA, Gerdes S, Olsen GJ, Olson R, Overbeek R, Parrello B, Pusch GD, Shukla M, Thomason JA, Stevens R, Vonstein V, Wattam AR, Xia F. RASTtk: a modular and extensible implementation of the RAST algorithm for building custom annotation pipelines and annotating batches of genomes. Scientific Reports. 2015;5:1–6. doi: 10.1038/srep08365.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/srep08365</ArticleId>
+            <ArticleId IdType="pmc">PMC4322359</ArticleId>
+            <ArticleId IdType="pubmed">25666585</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bruen TC, Philippe HH, Bryant D. A simple and robust statistical test for detecting the presence of recombination. Genetics. 2006;172:2665–2681. doi: 10.1534/genetics.105.048975.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1534/genetics.105.048975</ArticleId>
+            <ArticleId IdType="pmc">PMC1456386</ArticleId>
+            <ArticleId IdType="pubmed">16489234</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burd CG, Dreyfuss G. Conserved structures and diversity of functions of RNA-binding proteins. Science. 1994;265:615–621. doi: 10.1126/science.8036511.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.8036511</ArticleId>
+            <ArticleId IdType="pubmed">8036511</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Camacho C, Coulouris G, Avagyan V, Ma N, Papadopoulos J, Bealer K, Madden TL. BLAST+: architecture and applications. BMC Bioinformatics. 2009;10:421. doi: 10.1186/1471-2105-10-421.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2105-10-421</ArticleId>
+            <ArticleId IdType="pmc">PMC2803857</ArticleId>
+            <ArticleId IdType="pubmed">20003500</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chang ZY, Nygaard P, Chinault AC, Kellems RE. Deduced amino acid sequence of Escherichia coli adenosine deaminase reveals evolutionarily conserved amino acid residues: implications for catalytic function. Biochemistry. 1991;30:2273–2280. doi: 10.1021/bi00222a033.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/bi00222a033</ArticleId>
+            <ArticleId IdType="pubmed">1998686</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen L, Yang J, Yu J, Yao Z, Sun L, Shen Y, Jin Q. VFDB: a reference database for bacterial virulence factors. Nucleic Acids Research. 2005;33:D325–D328. doi: 10.1093/nar/gki008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gki008</ArticleId>
+            <ArticleId IdType="pmc">PMC539962</ArticleId>
+            <ArticleId IdType="pubmed">15608208</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Claverys JP. A new family of high-affinity ABC manganese and zinc permeases. Research in Microbiology. 2001;152:231–243. doi: 10.1016/s0923-2508(01)01195-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0923-2508(01)01195-0</ArticleId>
+            <ArticleId IdType="pubmed">11421271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dangel A, Berger A, Rau J, Eisenberg T, Kämpfer P, Margos G, Contzen M, Busse H-J, Konrad R, Peters M, Sting R, Sing A. Corynebacterium silvaticum sp. nov., a unique group of NTTB corynebacteria in wild boar and roe deer. International Journal of Systematic and Evolutionary Microbiology. 2020;70(6):3614–3624. doi: 10.1099/ijsem.0.004195.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/ijsem.0.004195</ArticleId>
+            <ArticleId IdType="pubmed">32368999</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Davis JJ, Gerdes S, Olsen GJ, Olson R, Pusch GD, Shukla M, Vonstein V, Wattam AR, Yoo H. PATtyFams: protein families for the microbial genomes in the PATRIC database. Frontiers in Microbiology. 2016;7:1–12. doi: 10.3389/fmicb.2016.00118.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fmicb.2016.00118</ArticleId>
+            <ArticleId IdType="pmc">PMC4744870</ArticleId>
+            <ArticleId IdType="pubmed">26903996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Davis JJ, Wattam AR, Aziz RK, Brettin T, Butler RRM, Butler RRM, Chlenski P, Conrad N, Dickerman A, Dietrich EM, Gabbard JL, Gerdes S, Guard A, Kenyon RW, Machi D, Mao C, Murphy-Olson D, Nguyen M, Nordberg EK, Olsen GJ, Olson RD, Overbeek JC, Overbeek R, Parrello B, Pusch GD, Shukla M, Thomas C, VanOeffelen M, Vonstein V, Warren AS, Xia F, Xie D, Yoo H, Stevens R. The PATRIC bioinformatics resource center: expanding data and analysis capabilities. Nucleic Acids Research. 2020;48:D606–D612. doi: 10.1093/nar/gkz943.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkz943</ArticleId>
+            <ArticleId IdType="pmc">PMC7145515</ArticleId>
+            <ArticleId IdType="pubmed">31667520</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dazas M, Badell E, Carmi-Leroy A, Criscuolo A, Brisse S. Taxonomic status of Corynebacterium diphtheriae biovar Belfanti and proposal of Corynebacterium belfantii sp. nov. International Journal of Systematic and Evolutionary Microbiology. 2018;68:3826–3831. doi: 10.1099/ijsem.0.003069.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/ijsem.0.003069</ArticleId>
+            <ArticleId IdType="pubmed">30355399</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eylert E, Schär J, Mertins S, Stoll R, Bacher A, Goebel W, Eisenreich W. Carbon metabolism of Listeria monocytogenes growing inside macrophages. Molecular Microbiology. 2008;69:1008–1017. doi: 10.1111/j.1365-2958.2008.06337.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1365-2958.2008.06337.x</ArticleId>
+            <ArticleId IdType="pubmed">18627458</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Farhat MR, Shapiro BJ, Kieser KJ, Sultana R, Jacobson KR, Victor TC, Warren RM, Streicher EM, Calver A, Sloutsky A, Kaur D, Posey JE, Plikaytis B, Oggioni MR, Gardy JL, Johnston JC, Rodrigues M, Tang PKC, Kato-Maeda M, Borowsky ML, Muddukrishna B, Kreiswirth BN, Kurepina N, Galagan J, Gagneux S, Birren B, Rubin EJ, Lander ES, Sabeti PC, Murray M. Genomic analysis identifies targets of convergent positive selection in drug-resistant Mycobacterium tuberculosis. Nature Genetics. 2013;45:1183–1189. doi: 10.1038/ng.2747.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ng.2747</ArticleId>
+            <ArticleId IdType="pmc">PMC3887553</ArticleId>
+            <ArticleId IdType="pubmed">23995135</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Felsenstein J.  Seattle: Department of Genome Sciences, University of Washington; 2005. PHYLIP (Phylogeny Inference Package) version 3.6. Distributed by Author.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Goodswen SJ, Kennedy PJ, Ellis JT. A gene-based positive selection detection approach to identify vaccine candidates using toxoplasma gondii as a test case protozoan pathogen. Frontiers in Genetics. 2018;9:1–16. doi: 10.3389/fgene.2018.00332.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fgene.2018.00332</ArticleId>
+            <ArticleId IdType="pmc">PMC6109633</ArticleId>
+            <ArticleId IdType="pubmed">30177953</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grosse-Kock S, Kolodkina V, Schwalbe EC, Blom J, Burkovski A, Hoskisson PA, Brisse S, Smith D, Sutcliffe IC, Titov L, Sangal V. Genomic analysis of endemic clones of toxigenic and non-toxigenic Corynebacterium diphtheriae in Belarus during and after the major epidemic in 1990s. BMC Genomics. 2017;18:1–10. doi: 10.1186/s12864-017-4276-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12864-017-4276-3</ArticleId>
+            <ArticleId IdType="pmc">PMC5683216</ArticleId>
+            <ArticleId IdType="pubmed">29132312</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hacker E, Antunes CA, Mattos-Guaraldi AL, Burkovski A, Tauch A. Corynebacterium ulcerans, an emerging human pathogen. Future Microbiology. 2016;11:1191–1208. doi: 10.2217/fmb-2016-0085.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2217/fmb-2016-0085</ArticleId>
+            <ArticleId IdType="pubmed">27545005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>He Y, Xiang Z, Mobley HLT. Vaxign: the first web-based vaccine design program for reverse vaccinology and applications for vaccine development. Journal of Biomedicine and Biotechnology. 2010;2010:297505. doi: 10.1155/2010/297505.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2010/297505</ArticleId>
+            <ArticleId IdType="pmc">PMC2910479</ArticleId>
+            <ArticleId IdType="pubmed">20671958</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Helgren TR, Wangtrakuldee P, Staker BL, Hagen TJ. Advances in bacterial methionine aminopeptidase inhibition. Current Topics in Medicinal Chemistry. 2016;16:397–414. doi: 10.2174/1568026615666150813145410.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2174/1568026615666150813145410</ArticleId>
+            <ArticleId IdType="pmc">PMC5009474</ArticleId>
+            <ArticleId IdType="pubmed">26268344</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hennart M, Panunzi LG, Rodrigues C, Gaday Q, Baines SL, Barros-Pinkelnig M, Carmi-Leroy A, Dazas M, Wehenkel AM, Didelot X, Toubiana J, Badell E, Brisse S. Population genomics and antimicrobial resistance in Corynebacterium diphtheriae. Genome Medicine. 2020;12:107. doi: 10.1186/s13073-020-00805-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13073-020-00805-7</ArticleId>
+            <ArticleId IdType="pmc">PMC7694903</ArticleId>
+            <ArticleId IdType="pubmed">33246485</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hongo JA, de Castro GM, Cintra LC, Zerlotini A, Lobo FP. POTION: an end-to-end pipeline for positive Darwinian selection detection in genome-scale data through phylogenetic comparison of protein-coding genes. BMC Genomics. 2015;16:567. doi: 10.1186/s12864-015-1765-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12864-015-1765-0</ArticleId>
+            <ArticleId IdType="pmc">PMC4521464</ArticleId>
+            <ArticleId IdType="pubmed">26231214</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huerta-Cepas J, Forslund K, Coelho LP, Szklarczyk D, Jensen LJ, Von Mering C, Bork P. Fast genome-wide functional annotation through orthology assignment by eggNOG-mapper. Molecular Biology and Evolution. 2017;34:2115–2122. doi: 10.1093/molbev/msx148.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/molbev/msx148</ArticleId>
+            <ArticleId IdType="pmc">PMC5850834</ArticleId>
+            <ArticleId IdType="pubmed">28460117</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hughes CA, Gorabi V, Escamilla Y, Dean FB, Bullard JM. Two forms of tyrosyl-tRNA synthetase from pseudomonas aeruginosa : characterization and discovery of inhibitory compounds. SLAS DISCOVERY: Advancing the Science of Drug Discovery. 2020;25:1072–1086. doi: 10.1177/2472555220934793.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/2472555220934793</ArticleId>
+            <ArticleId IdType="pmc">PMC7508885</ArticleId>
+            <ArticleId IdType="pubmed">32583746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jakobsen IB, Easteal S. A program for calculating and displaying compatibility matrices as an aid in determining reticulate evolution in molecular sequences. Computer Applications in the Biosciences. 1996;12:291–295. doi: 10.1093/bioinformatics/12.4.291.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/12.4.291</ArticleId>
+            <ArticleId IdType="pubmed">8902355</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jones P, Binns D, Chang H-Y, Fraser M, Li W, McAnulla C, McWilliam H, Maslen J, Mitchell A, Nuka G, Pesseat S, Quinn AF, Sangrador-Vegas A, Scheremetjew M, Yong S-Y, Lopez R, Hunter S. InterProScan 5: genome-scale protein function classification. Bioinformatics. 2014;30:1236–1240. doi: 10.1093/bioinformatics/btu031.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btu031</ArticleId>
+            <ArticleId IdType="pmc">PMC3998142</ArticleId>
+            <ArticleId IdType="pubmed">24451626</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jordan G, Goldman N. The effects of alignment error and alignment filtering on the sitewise detection of positive selection. Molecular Biology and Evolution. 2012;29:1125–1139. doi: 10.1093/molbev/msr272.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/molbev/msr272</ArticleId>
+            <ArticleId IdType="pubmed">22049066</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kipkorir T, Mashabela GT, de Wet TJ, Koch A, Wiesner L, Mizrahi V, Warner DF. De novo cobalamin biosynthesis, transport, and assimilation and cobalamin-mediated regulation of methionine biosynthesis in mycobacterium smegmatis. Journal of Bacteriology. 2021;203:e00620.  doi: 10.1128/JB.00620-20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JB.00620-20</ArticleId>
+            <ArticleId IdType="pmc">PMC8088520</ArticleId>
+            <ArticleId IdType="pubmed">33468593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kopac S, Wang Z, Wiedenbeck J, Sherry J, Wu M, Cohan FM. Genomic heterogeneity and ecological speciation within one subspecies of bacillus subtilis. Applied and Environmental Microbiology. 2014;80:4842–4853. doi: 10.1128/AEM.00576-14.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AEM.00576-14</ArticleId>
+            <ArticleId IdType="pmc">PMC4135754</ArticleId>
+            <ArticleId IdType="pubmed">24907327</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kosiol C, Anisimova M.  Selection on the protein-coding genome. In: Anisimova M, editor. Evolutionary Genomics. New York, Dordrecht, Heidelberg, London: Humana Press; 2012. pp. 113–140.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22399457</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kryazhimskiy S, Plotkin JB. The population genetics of dN/dS. PLOS Genetics. 2008;4:e1000304.  doi: 10.1371/journal.pgen.1000304.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1000304</ArticleId>
+            <ArticleId IdType="pmc">PMC2596312</ArticleId>
+            <ArticleId IdType="pubmed">19081788</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krátký M, Vinšová J, Novotná E, Mandíková J, Wsól V, Trejtnar F, Ulmann V, Stolaříková J, Fernandes S, Bhat S, Liu JO. Salicylanilide derivatives block Mycobacterium tuberculosis through inhibition of isocitrate lyase and methionine aminopeptidase. Tuberculosis. 2012;92:434–439. doi: 10.1016/j.tube.2012.06.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tube.2012.06.001</ArticleId>
+            <ArticleId IdType="pubmed">22765970</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Larkin MA, Blackshields G, Brown NP, Chenna R, Mcgettigan PA, McWilliam H, Valentin F, Wallace IM, Wilm A, Lopez R, Thompson JD, Gibson TJ, Higgins DG. Clustal W and Clustal X version 2.0. Bioinformatics. 2007;23:2947–2948. doi: 10.1093/bioinformatics/btm404.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btm404</ArticleId>
+            <ArticleId IdType="pubmed">17846036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lefort V, Desper R, Gascuel O. FastME 2.0: a comprehensive, accurate, and fast distance-based phylogeny inference program. Molecular Biology and Evolution. 2015;32:2798–2800. doi: 10.1093/molbev/msv150.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/molbev/msv150</ArticleId>
+            <ArticleId IdType="pmc">PMC4576710</ArticleId>
+            <ArticleId IdType="pubmed">26130081</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li YH, Yu CY, Li XX, Zhang P, Tang J, Yang Q, Fu T, Zhang X, Cui X, Tu G, Zhang Y, Li S, Yang F, Sun Q, Qin C, Zeng X, Chen Z, Chen YZ, Zhu F. Therapeutic target database update 2018: enriched resource for facilitating bench-to-clinic research of targeted therapeutics. Nucleic Acids Research. 2018;46:D1121–D1127. doi: 10.1093/nar/gkx1076.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkx1076</ArticleId>
+            <ArticleId IdType="pmc">PMC5753365</ArticleId>
+            <ArticleId IdType="pubmed">29140520</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lu S, Wang J, Chitsaz F, Derbyshire MK, Geer RC, Gonzales NR, Gwadz M, Hurwitz DI, Marchler GH, Song JS, Thanki N, Yamashita RA, Yang M, Zhang D, Zheng C, Lanczycki CJ, Marchler-Bauer A. CDD/SPARCLE: the conserved domain database in 2020. Nucleic Acids Research. 2020;48:D265–D268. doi: 10.1093/nar/gkz991.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkz991</ArticleId>
+            <ArticleId IdType="pmc">PMC6943070</ArticleId>
+            <ArticleId IdType="pubmed">31777944</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lubkowski J, Wlodawer A. Structural and biochemical properties of L-asparaginase. The FEBS Journal. 2021;288:4183–4209. doi: 10.1111/febs.16042.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/febs.16042</ArticleId>
+            <ArticleId IdType="pubmed">34060231</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mandlik A, Swierczynski A, Das A, Ton-That H. Pili in Gram-positive bacteria: assembly, involvement in colonization and biofilm development. Trends in Microbiology. 2008;16:33–40. doi: 10.1016/j.tim.2007.10.010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tim.2007.10.010</ArticleId>
+            <ArticleId IdType="pmc">PMC2841691</ArticleId>
+            <ArticleId IdType="pubmed">18083568</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Markova-Raina P, Petrov D. High sensitivity to aligner and high rate of false positives in the estimates of positive selection in the 12 Drosophila genomes. Genome Research. 2011;21:863–874. doi: 10.1101/gr.115949.110.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gr.115949.110</ArticleId>
+            <ArticleId IdType="pmc">PMC3106319</ArticleId>
+            <ArticleId IdType="pubmed">21393387</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martino GP, Perez CE, Magni C, Blancato VS. Implications of the expression of Enterococcus faecalis citrate fermentation genes during infection. PLOS ONE. 2018;13:e0205787.  doi: 10.1371/journal.pone.0205787.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0205787</ArticleId>
+            <ArticleId IdType="pmc">PMC6193673</ArticleId>
+            <ArticleId IdType="pubmed">30335810</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Matsumoto K, Yamazaki K, Kawakami S, Miyoshi D, Ooi T, Hashimoto S, Taguchi S. In vivo target exploration of apidaecin based on acquired resistance induced by gene overexpression (ARGO assay) Scientific Reports. 2017;7:12136. doi: 10.1038/s41598-017-12039-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-017-12039-6</ArticleId>
+            <ArticleId IdType="pmc">PMC5610309</ArticleId>
+            <ArticleId IdType="pubmed">28939819</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meier-Kolthoff JP, Auch AF, Klenk HP, Göker M. Genome sequence-based species delimitation with confidence intervals and improved distance functions. BMC Bioinformatics. 2013;14:60. doi: 10.1186/1471-2105-14-60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2105-14-60</ArticleId>
+            <ArticleId IdType="pmc">PMC3665452</ArticleId>
+            <ArticleId IdType="pubmed">23432962</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meier-Kolthoff JP, Göker M. TYGS is an automated high-throughput platform for state-of-the-art genome-based taxonomy. Nature Communications. 2019;10:2182. doi: 10.1038/s41467-019-10210-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-019-10210-3</ArticleId>
+            <ArticleId IdType="pmc">PMC6522516</ArticleId>
+            <ArticleId IdType="pubmed">31097708</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Möller J, Busch A, Berens C, Hotzel H, Burkovski A. Newly isolated animal pathogen corynebacterium silvaticum is cytotoxic to human epithelial cells. International Journal of Molecular Sciences. 2021;22:3549. doi: 10.3390/ijms22073549.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/ijms22073549</ArticleId>
+            <ArticleId IdType="pmc">PMC8037504</ArticleId>
+            <ArticleId IdType="pubmed">33805570</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Omasits U, Ahrens CH, Müller S, Wollscheid B. Protter: interactive protein feature visualization and integration with experimental proteomic data. Bioinformatics. 2014;30:884–886. doi: 10.1093/bioinformatics/btt607.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btt607</ArticleId>
+            <ArticleId IdType="pubmed">24162465</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ondov BD, Treangen TJ, Melsted P, Mallonee AB, Bergman NH, Koren S, Phillippy AM. Mash: fast genome and metagenome distance estimation using MinHash. Genome Biology. 2016;17:132. doi: 10.1186/s13059-016-0997-x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13059-016-0997-x</ArticleId>
+            <ArticleId IdType="pmc">PMC4915045</ArticleId>
+            <ArticleId IdType="pubmed">27323842</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Othman IMM, Gad-Elkareem MAM, Hassane Anouar E, Aouadi K, Snoussi M, Kadri A. New substituted pyrazolones and dipyrazolotriazines as promising tyrosyl-tRNA synthetase and peroxiredoxin-5 inhibitors: design, synthesis, molecular docking and structure-activity relationship (SAR) analysis. Bioorganic Chemistry. 2021;109:104704. doi: 10.1016/j.bioorg.2021.104704.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bioorg.2021.104704</ArticleId>
+            <ArticleId IdType="pubmed">33609915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Otsuji K, Fukuda K, Ogawa M, Saito M. Mutation and diversity of diphtheria toxin in Corynebacterium ulcerans. Emerging Infectious Diseases. 2019;25:2122–2123. doi: 10.3201/eid2511.181455.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3201/eid2511.181455</ArticleId>
+            <ArticleId IdType="pmc">PMC6810190</ArticleId>
+            <ArticleId IdType="pubmed">31625851</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Leary NA, Wright MW, Brister JR, Ciufo S, Haddad D, McVeigh R, Rajput B, Robbertse B, Smith-White B, Ako-Adjei D, Astashyn A, Badretdin A, Bao Y, Blinkova O, Brover V, Chetvernin V, Choi J, Cox E, Ermolaeva O, Farrell CM, Goldfarb T, Gupta T, Haft D, Hatcher E, Hlavina W, Joardar VS, Kodali VK, Li W, Maglott D, Masterson P, McGarvey KM, Murphy MR, O’Neill K, Pujar S, Rangwala SH, Rausch D, Riddick LD, Schoch C, Shkeda A, Storz SS, Sun H, Thibaud-Nissen F, Tolstoy I, Tully RE, Vatsan AR, Wallin C, Webb D, Wu W, Landrum MJ, Kimchi A, Tatusova T, DiCuccio M, Kitts P, Murphy TD, Pruitt KD. Reference sequence (RefSeq) database at NCBI: current status, taxonomic expansion, and functional annotation. Nucleic Acids Research. 2016;44:D733–D745. doi: 10.1093/nar/gkv1189.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkv1189</ArticleId>
+            <ArticleId IdType="pmc">PMC4702849</ArticleId>
+            <ArticleId IdType="pubmed">26553804</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peiro C, Millard P, de Simone A, Cahoreau E, Peyriga L, Enjalbert B, Heux S. Chemical and metabolic controls on dihydroxyacetone metabolism lead to suboptimal growth of Escherichia coli. Applied and Environmental Microbiology. 2019;85:1–17. doi: 10.1128/AEM.00768-19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AEM.00768-19</ArticleId>
+            <ArticleId IdType="pmc">PMC6643234</ArticleId>
+            <ArticleId IdType="pubmed">31126940</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Petersen L, Bollback JP, Dimmic M, Hubisz M, Nielsen R. Genes under positive selection in Escherichia coli. Genome Research. 2007;17:1336–1343. doi: 10.1101/gr.6254707.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gr.6254707</ArticleId>
+            <ArticleId IdType="pmc">PMC1950902</ArticleId>
+            <ArticleId IdType="pubmed">17675366</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pillalamarri V, Reddy CG, Bala SC, Jangam A, Kutty VV, Addlagatta A. Methionine aminopeptidases with short sequence inserts within the catalytic domain are differentially inhibited: Structural and biochemical studies of three proteins from Vibrio spp. European Journal of Medicinal Chemistry. 2021;209:112883. doi: 10.1016/j.ejmech.2020.112883.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejmech.2020.112883</ArticleId>
+            <ArticleId IdType="pubmed">33035924</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Raia P, Delarue M, Sauguet L. An updated structural classification of replicative DNA polymerases. Biochemical Society Transactions. 2019;47:239–249. doi: 10.1042/BST20180579.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/BST20180579</ArticleId>
+            <ArticleId IdType="pubmed">30647142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rao RT, Sivakumar N, Jayakumar K. Analyses of livestock-associated staphylococcus aureus pan-genomes suggest virulence is not primary interest in evolution of its genome. OMICS: A Journal of Integrative Biology. 2019;23:224–236. doi: 10.1089/omi.2019.0005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/omi.2019.0005</ArticleId>
+            <ArticleId IdType="pubmed">31009331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rappuoli R, Malito E.  History of diphtheria vaccine development. In: Burkovski A, editor. Corynebacterium Diphtheriae and Related Toxigenic Species. Dordrecht: Springer Netherlands; 2014. pp. 225–238.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rigden DJ. The histidine phosphatase superfamily: structure and function. The Biochemical journal. 2008;409:333–348. doi: 10.1042/BJ20071097.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/BJ20071097</ArticleId>
+            <ArticleId IdType="pubmed">18092946</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sahm A, Bens M, Platzer M, Szafranski K. PosiGene: automated and easy-to-use pipeline for genome-wide detection of positively selected genes. Nucleic Acids Research. 2017;45:1–11. doi: 10.1093/nar/gkx179.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkx179</ArticleId>
+            <ArticleId IdType="pmc">PMC5499814</ArticleId>
+            <ArticleId IdType="pubmed">28334822</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sangal V, Burkovski A, Hunt AC, Edwards B, Blom J, Hoskisson PA. A lack of genetic basis for biovar differentiation in clinically important Corynebacterium diphtheriae from whole genome sequencing. Infection, Genetics and Evolution. 2014;21:54–57. doi: 10.1016/j.meegid.2013.10.019.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.meegid.2013.10.019</ArticleId>
+            <ArticleId IdType="pubmed">24200588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schneider K, Dimroth P, Bott M. Biosynthesis of the prosthetic group of citrate lyase. Biochemistry. 2000;39:9438–9450. doi: 10.1021/bi000401r.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/bi000401r</ArticleId>
+            <ArticleId IdType="pubmed">10924139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schneider A, Souvorov A, Sabath N, Landan G, Gonnet GH, Graur D. Estimates of positive darwinian selection are inflated by errors in sequencing, annotation, and alignment. Genome Biology and Evolution. 2009;1:114–118. doi: 10.1093/gbe/evp012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/gbe/evp012</ArticleId>
+            <ArticleId IdType="pmc">PMC2817407</ArticleId>
+            <ArticleId IdType="pubmed">20333182</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scolnick E, Tompkins R, Caskey T, Nirenberg M. Release factors differing in specificity for terminator codons. Proceedings of the National Academy of Sciences of the United States of America. 1968;61:768–774. doi: 10.1073/pnas.61.2.768.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.61.2.768</ArticleId>
+            <ArticleId IdType="pmc">PMC225226</ArticleId>
+            <ArticleId IdType="pubmed">4879404</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Selim SA, Mohamed FH, Hessain AM, Moussa IM. Immunological characterization of diphtheria toxin recovered from Corynebacterium pseudotuberculosis. Saudi Journal of Biological Sciences. 2015;23:282–287. doi: 10.1016/j.sjbs.2015.11.004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.sjbs.2015.11.004</ArticleId>
+            <ArticleId IdType="pmc">PMC4778578</ArticleId>
+            <ArticleId IdType="pubmed">26981011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sharma NC, Efstratiou A, Mokrousov I, Mutreja A, Das B, Ramamurthy T. Diphtheria. Nature Reviews Disease Primers. 2019;5:81. doi: 10.1038/s41572-019-0131-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41572-019-0131-y</ArticleId>
+            <ArticleId IdType="pubmed">31804499</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shende G, Haldankar H, Barai RS, Bharmal MH, Shetty V, Idicula-Thomas S. PBIT: pipeline builder for identification of drug targets for infectious diseases. Bioinformatics. 2016;33(6):929–931. doi: 10.1093/bioinformatics/btw760.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btw760</ArticleId>
+            <ArticleId IdType="pubmed">28039165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith JM. Analyzing the mosaic structure of genes. Journal of Molecular Evolution. 1992;34:126–129. doi: 10.1007/BF00182389.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/BF00182389</ArticleId>
+            <ArticleId IdType="pubmed">1556748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Soares SC, Geyik H, Ramos RTJ, de Sá PHCG, Barbosa EGV, Baumbach J, Figueiredo HCP, Miyoshi A, Tauch A, Silva A, Azevedo V. GIPSy: genomic island prediction software. Journal of Biotechnology. 2016;232:2–11. doi: 10.1016/j.jbiotec.2015.09.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jbiotec.2015.09.008</ArticleId>
+            <ArticleId IdType="pubmed">26376473</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Storey JD, Tibshirani R. Statistical significance for genomewide studies. Proceedings of the National Academy of Sciences of the United States of America. 2003;100:9440–9445. doi: 10.1073/pnas.1530509100.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1530509100</ArticleId>
+            <ArticleId IdType="pmc">PMC170937</ArticleId>
+            <ArticleId IdType="pubmed">12883005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Timson DJ. Metabolic enzymes of helminth parasites: potential as drug targets. Current Protein &amp; Peptide Science. 2016;17:280–295. doi: 10.2174/1389203717999160226180733.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2174/1389203717999160226180733</ArticleId>
+            <ArticleId IdType="pubmed">26983888</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trost E, Ott L, Schneider J, Schröder J, Jaenicke S, Goesmann A, Husemann P, Stoye J, Dorella FA, Rocha FS, Soares SDC, D’Afonseca V, Miyoshi A, Ruiz J, Silva A, Azevedo V, Burkovski A, Guiso N, Join-Lambert OF, Kayal S, Tauch A. The complete genome sequence of Corynebacterium pseudotuberculosis FRC41 isolated from a 12-year-old girl with necrotizing lymphadenitis reveals insights into gene-regulatory networks contributing to virulence. BMC Genomics. 2010;11:728. doi: 10.1186/1471-2164-11-728.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2164-11-728</ArticleId>
+            <ArticleId IdType="pmc">PMC3022926</ArticleId>
+            <ArticleId IdType="pubmed">21192786</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Truelove SA, Keegan LT, Moss WJ, Chaisson LH, Macher E, Azman AS, Lessler J. Clinical and epidemiological aspects of diphtheria: a systematic review and pooled analysis. Clinical Infectious Diseases. 2020;71:89–97. doi: 10.1093/cid/ciz808.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/cid/ciz808</ArticleId>
+            <ArticleId IdType="pmc">PMC7312233</ArticleId>
+            <ArticleId IdType="pubmed">31425581</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Volkamer A, Kuhn D, Rippmann F, Rarey M. DoGSiteScorer: a web server for automatic binding site prediction, analysis and druggability assessment. Bioinformatics. 2012;28:2074–2075. doi: 10.1093/bioinformatics/bts310.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/bts310</ArticleId>
+            <ArticleId IdType="pubmed">22628523</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu C-C, Lin JLJ, Yuan HS. Structures, mechanisms, and functions of his-me finger nucleases. Trends in Biochemical Sciences. 2020;45:935–946. doi: 10.1016/j.tibs.2020.07.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tibs.2020.07.002</ArticleId>
+            <ArticleId IdType="pubmed">32807610</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Z. Bayes empirical bayes inference of amino acid sites under positive selection. Molecular Biology and Evolution. 2005;22:1107–1118. doi: 10.1093/molbev/msi097.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/molbev/msi097</ArticleId>
+            <ArticleId IdType="pubmed">15689528</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Z, Dos Reis M. Statistical properties of the branch-site test of positive selection. Molecular Biology and Evolution. 2011;28:1217–1228. doi: 10.1093/molbev/msq303.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/molbev/msq303</ArticleId>
+            <ArticleId IdType="pubmed">21087944</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Z, Nielsen R. Codon-substitution models for detecting molecular adaptation at individual sites along specific lineages. Molecular Biology and Evolution. 2002;19:908–917. doi: 10.1093/oxfordjournals.molbev.a004148.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/oxfordjournals.molbev.a004148</ArticleId>
+            <ArticleId IdType="pubmed">12032247</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zasada AA. Nontoxigenic highly pathogenic clone of Corynebacterium diphtheriae, Poland, 2004–2012. Emerging Infectious Diseases. 2013;19:1870–1872. doi: 10.3201/eid1911.130297.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3201/eid1911.130297</ArticleId>
+            <ArticleId IdType="pmc">PMC3837660</ArticleId>
+            <ArticleId IdType="pubmed">24209492</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zasada AA.  Corynebacterium Diphtheriae and Related Toxigenic Species. Dordrecht: Springer Netherlands; 2014. Antimicrobial susceptibility and treatment; pp. 239–246.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang R. DEG: a database of essential genes. Nucleic Acids Research. 2004;32:271D–272D. doi: 10.1093/nar/gkh024.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkh024</ArticleId>
+            <ArticleId IdType="pmc">PMC308758</ArticleId>
+            <ArticleId IdType="pubmed">14681410</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang J. Evaluation of an improved branch-site likelihood method for detecting positive selection at the molecular level. Molecular Biology and Evolution. 2005;22:2472–2479. doi: 10.1093/molbev/msi237.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/molbev/msi237</ArticleId>
+            <ArticleId IdType="pubmed">16107592</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y, Zhang H, Zhou T, Zhong Y, Jin Q. Genes under positive selection in Mycobacterium tuberculosis. Computational Biology and Chemistry. 2011;35:319–322. doi: 10.1016/j.compbiolchem.2011.08.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.compbiolchem.2011.08.001</ArticleId>
+            <ArticleId IdType="pubmed">22000803</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

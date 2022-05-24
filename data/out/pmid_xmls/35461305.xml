@@ -1,0 +1,440 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35461305</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>26</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>29</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2158-3188</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>12</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Apr</Month>
+              <Day>23</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Translational psychiatry</Title>
+          <ISOAbbreviation>Transl Psychiatry</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Individualized prediction of psychiatric readmissions for patients with major depressive disorder: a 10-year retrospective cohort study.</ArticleTitle>
+        <Pagination>
+          <StartPage>170</StartPage>
+          <MedlinePgn>170</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">170</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41398-022-01937-7</ELocationID>
+        <Abstract>
+          <AbstractText>Patients with major depressive disorder (MDD) are at high risk of psychiatric readmission while the factors associated with such adverse illness trajectories and the impact of the same factor at different follow-up times remain unclear. Based on machine learning (ML) approaches and real-world electronic medical records (EMR), we aimed to predict individual psychiatric readmission within 30, 60, 90, 180, and 365 days of an initial major depression hospitalization. In addition, we examined to what extent our prediction model could be made interpretable by quantifying and visualizing the features that drive the predictions at different follow-up times. By identifying 13,177 individuals discharged from a hospital located in western China between 2009 and 2018 with a recorded diagnosis of MDD, we established five prediction-modeling cohorts with different follow-up times. Four different ML models were trained with features extracted from the EMR, and explainable methods (SHAP and Break Down) were utilized to analyze the contribution of each of the features at both population-level and individual-level. The model showed a performance on the holdout testing dataset that decreased over follow-up time after discharge: AUC 0.814 (0.758-0.87) within 30 days, AUC 0.780 (0.728-0.833) within 60 days, AUC 0.798 (0.75-0.846) within 90 days, AUC 0.740 (0.687-0.794) within 180 days, and AUC 0.711 (0.676-0.747) within 365 days. Results add evidence that markers of depression severity and symptoms (recurrence of the symptoms, combination of key symptoms, the number of core symptoms and physical symptoms), along with age, gender, type of payment, length of stay, comorbidity, treatment patterns such as the use of anxiolytics, antipsychotics, antidepressants (especially Fluoxetine, Clonazepam, Olanzapine, and Alprazolam), physiotherapy, and psychotherapy, and vital signs like pulse and SBP, may improve prediction of psychiatric readmission. Some features can drive the prediction towards readmission at one follow-up time and towards non-readmission at another. Using such a model for decision support gives the clinician dynamic information of the patient's risk of psychiatric readmission and the specific features pulling towards readmission. This finding points to the potential of establishing personalized interventions that change with follow-up time.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zhu</LastName>
+            <ForeName>Ting</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>West China Biomedical Big Data Center, West China Hospital, Sichuan University, Chengdu, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Med-X Center for Informatics, Sichuan University, Chengdu, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jiang</LastName>
+            <ForeName>Jingwen</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>West China Biomedical Big Data Center, West China Hospital, Sichuan University, Chengdu, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Med-X Center for Informatics, Sichuan University, Chengdu, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Yao</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>West China Biomedical Big Data Center, West China Hospital, Sichuan University, Chengdu, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Med-X Center for Informatics, Sichuan University, Chengdu, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Wei</ForeName>
+            <Initials>W</Initials>
+            <Identifier Source="ORCID">0000-0003-3113-9577</Identifier>
+            <AffiliationInfo>
+              <Affiliation>West China Biomedical Big Data Center, West China Hospital, Sichuan University, Chengdu, China. weizhanghx@163.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Med-X Center for Informatics, Sichuan University, Chengdu, China. weizhanghx@163.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Mental Health Center of West China Hospital, Sichuan University, Chengdu, China. weizhanghx@163.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>04</Month>
+          <Day>23</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Transl Psychiatry</MedlineTA>
+        <NlmUniqueID>101562664</NlmUniqueID>
+        <ISSNLinking>2158-3188</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003865" MajorTopicYN="Y">Depressive Disorder, Major</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057286" MajorTopicYN="N">Electronic Health Records</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000069550" MajorTopicYN="N">Machine Learning</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010359" MajorTopicYN="Y">Patient Readmission</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>24</Day>
+          <Hour>20</Hour>
+          <Minute>6</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35461305</ArticleId>
+        <ArticleId IdType="pmc">PMC9035153</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41398-022-01937-7</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41398-022-01937-7</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>H Whiteford, Addressing the burden of mental, neurological, and substance use disorders: Key messages from disease control priorities, 3rd edition, Lancet. 2015.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Citrome L, Jain R, Tung A, Landsman-Blumberg P, Kramer K, Ali S. Prevalence, treatment patterns, and stay characteristics associated with hospitalizations for major depressive disorder. J Affect Disord. 2019;249:378–84. doi: 10.1016/j.jad.2019.01.044.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jad.2019.01.044</ArticleId>
+            <ArticleId IdType="pubmed">30818246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nordentoft M, Mortensen P, Pedersen C. Absolute risk of suicide after first hospital contact in mental disorder. Arch Gen Psychiatry. 2011;68:1058–64. doi: 10.1001/archgenpsychiatry.2011.113.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/archgenpsychiatry.2011.113</ArticleId>
+            <ArticleId IdType="pubmed">21969462</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cearns M, Opel N, Clark S, Kaehler C, Thalamuthu A, Heindel W, et al.  Predicting rehospitalization within 2 years of initial patient admission for a major depressive episode: a multimodal machine learning approach, Translational. Psychiatry. 2019;9:285.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cipriani A, Furukawa TA, Salanti G, Geddes JR, Higgins JP, Churchill R, et al.  Comparative efficacy and acceptability of 12 new-generation antidepressants: a multiple-treatments meta-analysis. Lancet. 2009;373:746–58. doi: 10.1016/S0140-6736(09)60046-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0140-6736(09)60046-5</ArticleId>
+            <ArticleId IdType="pubmed">19185342</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rost K, Nutting P, Smith JL, Elliott CE, Dickinson M. Managing depression as a chronic disease: a randomised trial of ongoing treatment in primary care. BMJ. 2002;325:934. doi: 10.1136/bmj.325.7370.934.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/bmj.325.7370.934</ArticleId>
+            <ArticleId IdType="pmc">PMC130058</ArticleId>
+            <ArticleId IdType="pubmed">12399343</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rumshisky A, Ghassemi M, Naumann T, Szolovits P, Castro V, McCoy T, et al.  Predicting early psychiatric readmission with natural language processing of narrative discharge summaries. Transl Psychiatry. 2016;6:e921. doi: 10.1038/tp.2015.182.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/tp.2015.182</ArticleId>
+            <ArticleId IdType="pmc">PMC5315537</ArticleId>
+            <ArticleId IdType="pubmed">27754482</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>National Research Council: Committee on A Framework for Developing a New Taxonomy of Disease. Toward precision medicine: building a knowledge network for biomedical research and a new taxonomy of disease, National Academic Press: Washington DC, USA; 2011.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang R, Tang S, Shaw I, Feng Z, Chen Z, Luo Y, et al. Integrated decision-making model for community-based rehabilitation service utilisation among persons with severe mental illness in China: protocol for a cross-sectional, mixed-methods study. BMJ Open. 2018;8:e021528.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hanrahan NP, Bressi S, Marcus SC, Solomon P. Examining the impact of comorbid serious mental illness on rehospitalization among medical and surgical inpatients. Gen Hospital Psychiatry. 2016;42:36–40. doi: 10.1016/j.genhosppsych.2016.06.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.genhosppsych.2016.06.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Slade EP, Jahn DR, Regenold WT, Case BG. Association of electroconvulsive therapy with psychiatric readmissions in US hospitals. JAMA Psychiatry. 2017;74:798–804. doi: 10.1001/jamapsychiatry.2017.1378.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jamapsychiatry.2017.1378</ArticleId>
+            <ArticleId IdType="pmc">PMC5710550</ArticleId>
+            <ArticleId IdType="pubmed">28658489</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Germack HD, Caron A, Solomon R, Hanrahan NP. Medical-surgical readmissions in patients with co-occurring serious mental illness: a systematic review and meta-analysis. Gen Hospital Psychiatry. 2018;55:65–71. doi: 10.1016/j.genhosppsych.2018.09.005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.genhosppsych.2018.09.005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Donisi V, Tedeschi F, Salazzari D, Amaddeo F. Pre- and post-discharge factors influencing early readmission to acute psychiatric wards: implications for quality-of-care indicators in psychiatry. Gen Hospital Psychiatry. 2016;39:53–8. doi: 10.1016/j.genhosppsych.2015.10.009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.genhosppsych.2015.10.009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Byrne SL, Hooke GR, Page AC. Readmission: a useful indicator of the quality of inpatient psychiatric care. J Affect Disord. 2010;126:206–13. doi: 10.1016/j.jad.2010.02.135.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jad.2010.02.135</ArticleId>
+            <ArticleId IdType="pubmed">20334927</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lauber C, Lay B, RSsler W. Length of first admission and treatment outcome in patients with unipolar depression. J Affect Disord. 2006;93:43–51. doi: 10.1016/j.jad.2006.02.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jad.2006.02.002</ArticleId>
+            <ArticleId IdType="pubmed">16530846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lyons JS, O’Mahoney MT, Miller SI, Neme J, Kabat J, Miller F. Predicting readmission to the psychiatric hospital in a managed care environment: implications for quality indicators. Am J Psychiatry. 1997;154:337–40. doi: 10.1176/ajp.154.3.337.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1176/ajp.154.3.337</ArticleId>
+            <ArticleId IdType="pubmed">9054780</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reese RL, Freedland KE, Steinmeyer BC, Rich MW, Rackley JW, Carney RM. Depression and rehospitalization following acute myocardial infarction. Circulation Cardiovascular Qual Outcomes. 2011;4:626–33. doi: 10.1161/CIRCOUTCOMES.111.961896.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/CIRCOUTCOMES.111.961896</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin CH, Chen YS, Lin CH, Lin KS. Factors affecting time to rehospitalization for patients with major depressive disorder. Psychiatry Clin Neurosci. 2010;61:249–54. doi: 10.1111/j.1440-1819.2007.01662.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1440-1819.2007.01662.x</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Masters GA, Baldessarini RJ, Engr D, Centorrino F. Factors associated with length of psychiatric hospitalization. Compr Psychiatry. 2014;55:681–7. doi: 10.1016/j.comppsych.2013.11.004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.comppsych.2013.11.004</ArticleId>
+            <ArticleId IdType="pubmed">24387922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vink D, Aartsen MJ, Schoevers RA. Risk factors for anxiety and depression in the elderly: a review. J Affect Disord. 2008;106:29–44. doi: 10.1016/j.jad.2007.06.005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jad.2007.06.005</ArticleId>
+            <ArticleId IdType="pubmed">17707515</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mandl KD. Longitudinal histories as predictors of future diagnoses of domestic abuse: modelling study. Br Med J. 2009;339:849–849.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Perlis HRoy. A clinical risk stratification tool for predicting treatment resistance in major depressive disorder. Biol Psychiatry. 2013;74:7–14. doi: 10.1016/j.biopsych.2012.12.007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.biopsych.2012.12.007</ArticleId>
+            <ArticleId IdType="pmc">PMC3690142</ArticleId>
+            <ArticleId IdType="pubmed">23380715</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baeza FLC, da Rocha NS, Fleck MPA. Readmission in psychiatry inpatients within a year of discharge: The role of symptoms at discharge and post-discharge care in a Brazilian sample. Gen Hosp Psychiatry. 2018;51:63–70.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chwastiak LA, Davydow DS, Mckibbin CL, Schur E, Burley M, McDonell MG, et al.  The effect of serious mental illness on the risk of rehospitalization among patients with diabetes. Psychosomatics. 2014;55:134–43. doi: 10.1016/j.psym.2013.08.012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.psym.2013.08.012</ArticleId>
+            <ArticleId IdType="pmc">PMC3997382</ArticleId>
+            <ArticleId IdType="pubmed">24367898</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin HC, Lee HC. Psychiatrists case load volume, length of stay and mental healthcare readmission rates: a three-year population-based study. Psychiatry Res. 2009;166:1–23. doi: 10.1016/j.psychres.2007.11.011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.psychres.2007.11.011</ArticleId>
+            <ArticleId IdType="pmc">PMC2696603</ArticleId>
+            <ArticleId IdType="pubmed">19208442</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stephanie B, Akin A, Becci A. Predictors of admission to acute inpatient psychiatric care among children enrolled in Medicaid. Adm Policy Ment Health. 2015;42:197–208.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Innes H, Lewsey J, Smith DJ. Predictors of admission and readmission to hospital for major depression: a community cohort study of 52,990 individuals. J Affect Disord. 2015;183:10–14. doi: 10.1016/j.jad.2015.04.019.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jad.2015.04.019</ArticleId>
+            <ArticleId IdType="pubmed">25997169</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jennings JH, Digiovine B, Obeid D, Frank C. The association between depressive symptoms and acute exacerbations of COPD. Lung. 2009;187:128–35. doi: 10.1007/s00408-009-9135-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00408-009-9135-9</ArticleId>
+            <ArticleId IdType="pubmed">19198940</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin CH, Chen MC, Chou LS, Lin CH, Chen CC, Lane HY. Time to rehospitalization in patients with major depression vs. those with schizophrenia or bipolar I disorder in a public psychiatric hospital. Psychiatry Res. 2010;180:74–9. doi: 10.1016/j.psychres.2009.12.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.psychres.2009.12.003</ArticleId>
+            <ArticleId IdType="pubmed">20494450</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>AlcOLu E, BaOLu M. Psychological effects of earthquakes in children: prospects for brief behavioral treatment. World J Pediatrics. 2008;4:165–72. doi: 10.1007/s12519-008-0032-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s12519-008-0032-8</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zheng L, Wang O, Hao S, Ye C, Liu M, Xia M, et al. Development of an early-warning system for high-risk patients for suicide attempt using deep learning and electronic health records. Transl Psychiatry. 2020;10:1–10.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Young J, Kempton MJ, Mcguire P. Using machine learning to predict outcomes in psychosis. Lancet Psychiatry. 2016;3:908–9.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Aday L, Andersen R. A framework for the study of access to medical care. Health Serv Res. 1974;9:208–20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1071804</ArticleId>
+            <ArticleId IdType="pubmed">4436074</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Andersen R. Revisiting the behavioral model and access to medical care: does it matter? J Health Soc Behav. 1995;36:1–10. doi: 10.2307/2137284.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2307/2137284</ArticleId>
+            <ArticleId IdType="pubmed">7738325</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sperandei S. Understanding logistic regression analysis. Biochemia Med. 2014;24:12–18. doi: 10.11613/BM.2014.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.11613/BM.2014.003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lundberg S, Lee S. A unified approach to interpreting model predictions. Adv Neurol. 2017;1:4765–74.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Staniak M, Biecek P. Explanations of model predictions with live and breakDown Packages. R J. 2018;10:395–409. doi: 10.32614/RJ-2018-072.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.32614/RJ-2018-072</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gosiewska A, Biecek P. Do Not Trust Additive Explanations. 2019;arXiv:1903.11420v3:1–15.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Thorsen-Meyer H, Nielsen A, Nielsen AP. Dynamic and explainable machine learning prediction of mortality in patients in the intensive care unit: a retrospective study of high-frequency data in electronic patient records. Lancet Digital Health. 2020;2:e179–91. doi: 10.1016/S2589-7500(20)30018-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S2589-7500(20)30018-2</ArticleId>
+            <ArticleId IdType="pubmed">33328078</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Silva NC, Bassani DG, Palazzo LS. A case-control study of factors associated with multiple psychiatric readmissions. Psychiatr Serv. 2009;60:786–91. doi: 10.1176/ps.2009.60.6.786.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1176/ps.2009.60.6.786</ArticleId>
+            <ArticleId IdType="pubmed">19487348</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bernardo AC, Forchuk C. Factors associated with readmission to a psychiatric facility. Psychiatr Serv. 2001;52:1100–2. doi: 10.1176/appi.ps.52.8.1100.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1176/appi.ps.52.8.1100</ArticleId>
+            <ArticleId IdType="pubmed">11474059</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schmutte T, Dunn CL, Sledge WH. Predicting time to readmission in patients with recent histories of recurrent psychiatric hospitalization. J Nerv Ment Dis. 2010;198:860–3. doi: 10.1097/NMD.0b013e3181fe726b.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/NMD.0b013e3181fe726b</ArticleId>
+            <ArticleId IdType="pubmed">21135635</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thomas H, Kravitz W. Predicting the ‘revolving door’ phenomenon among patients with schizophrenic, schizoaffective. Am J Psychiatry. 1995;152:856–61. doi: 10.1176/ajp.152.6.856.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1176/ajp.152.6.856</ArticleId>
+            <ArticleId IdType="pubmed">7755114</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,819 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">34464388</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>11</Month>
+        <Day>10</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">1549-1676</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>18</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>PLoS medicine</Title>
+          <ISOAbbreviation>PLoS Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Cell-free DNA ultra-low-pass whole genome sequencing to distinguish malignant peripheral nerve sheath tumor (MPNST) from its benign precursor lesion: A cross-sectional study.</ArticleTitle>
+        <Pagination>
+          <StartPage>e1003734</StartPage>
+          <MedlinePgn>e1003734</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">e1003734</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pmed.1003734</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">The leading cause of mortality for patients with the neurofibromatosis type 1 (NF1) cancer predisposition syndrome is the development of malignant peripheral nerve sheath tumor (MPNST), an aggressive soft tissue sarcoma. In the setting of NF1, this cancer type frequently arises from within its common and benign precursor, plexiform neurofibroma (PN). Transformation from PN to MPNST is challenging to diagnose due to difficulties in distinguishing cross-sectional imaging results and intralesional heterogeneity resulting in biopsy sampling errors.</AbstractText>
+          <AbstractText Label="METHODS AND FINDINGS">This multi-institutional study from the National Cancer Institute and Washington University in St. Louis used fragment size analysis and ultra-low-pass whole genome sequencing (ULP-WGS) of plasma cell-free DNA (cfDNA) to distinguish between MPNST and PN in patients with NF1. Following in silico enrichment for short cfDNA fragments and copy number analysis to estimate the fraction of plasma cfDNA originating from tumor (tumor fraction), we developed a noninvasive classifier that differentiates MPNST from PN with 86% pretreatment accuracy (91% specificity, 75% sensitivity) and 89% accuracy on serial analysis (91% specificity, 83% sensitivity). Healthy controls without NF1 (participants = 16, plasma samples = 16), PN (participants = 23, plasma samples = 23), and MPNST (participants = 14, plasma samples = 46) cohorts showed significant differences in tumor fraction in plasma (P = 0.001) as well as cfDNA fragment length (P &lt; 0.001) with MPNST samples harboring shorter fragments and being enriched for tumor-derived cfDNA relative to PN and healthy controls. No other covariates were significant on multivariate logistic regression. Mutational analysis demonstrated focal NF1 copy number loss in PN and MPNST patient plasma but not in healthy controls. Greater genomic instability including alterations associated with malignant transformation (focal copy number gains in chromosome arms 1q, 7p, 8q, 9q, and 17q; focal copy number losses in SUZ12, SMARCA2, CDKN2A/B, and chromosome arms 6p and 9p) was more prominently observed in MPNST plasma. Furthermore, the sum of longest tumor diameters (SLD) visualized by cross-sectional imaging correlated significantly with paired tumor fractions in plasma from MPNST patients (r = 0.39, P = 0.024). On serial analysis, tumor fraction levels in plasma dynamically correlated with treatment response to therapy and minimal residual disease (MRD) detection before relapse. Study limitations include a modest MPNST sample size despite accrual from 2 major referral centers for this rare malignancy, and lack of uniform treatment and imaging protocols representing a real-world cohort.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">Tumor fraction levels derived from cfDNA fragment size and copy number alteration analysis of plasma cfDNA using ULP-WGS significantly correlated with MPNST tumor burden, accurately distinguished MPNST from its benign PN precursor, and dynamically correlated with treatment response. In the future, our findings could form the basis for improved early cancer detection and monitoring in high-risk cancer-predisposed populations.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Szymanski</LastName>
+            <ForeName>Jeffrey J</ForeName>
+            <Initials>JJ</Initials>
+            <Identifier Source="ORCID">0000-0002-8005-701X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Cancer Biology, Department of Radiation Oncology, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sundby</LastName>
+            <ForeName>R Taylor</ForeName>
+            <Initials>RT</Initials>
+            <Identifier Source="ORCID">0000-0001-8485-0026</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Oncology Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, Maryland, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jones</LastName>
+            <ForeName>Paul A</ForeName>
+            <Initials>PA</Initials>
+            <Identifier Source="ORCID">0000-0002-8765-4917</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Cancer Biology, Department of Radiation Oncology, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Biology and Biomedical Sciences, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Srihari</LastName>
+            <ForeName>Divya</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology, Department of Medicine, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Earland</LastName>
+            <ForeName>Noah</ForeName>
+            <Initials>N</Initials>
+            <Identifier Source="ORCID">0000-0003-0170-407X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Cancer Biology, Department of Radiation Oncology, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Biology and Biomedical Sciences, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Harris</LastName>
+            <ForeName>Peter K</ForeName>
+            <Initials>PK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Cancer Biology, Department of Radiation Oncology, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Feng</LastName>
+            <ForeName>Wenjia</ForeName>
+            <Initials>W</Initials>
+            <Identifier Source="ORCID">0000-0002-6320-3927</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Cancer Biology, Department of Radiation Oncology, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Qaium</LastName>
+            <ForeName>Faridi</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Cancer Biology, Department of Radiation Oncology, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lei</LastName>
+            <ForeName>Haiyan</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Oncology Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, Maryland, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Roberts</LastName>
+            <ForeName>David</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology, Department of Medicine, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Landeau</LastName>
+            <ForeName>Michele</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology, Department of Medicine, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bell</LastName>
+            <ForeName>Jamie</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology, Department of Medicine, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huang</LastName>
+            <ForeName>Yi</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Cancer Biology, Department of Radiation Oncology, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hoffman</LastName>
+            <ForeName>Leah</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Oncology Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, Maryland, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Spencer</LastName>
+            <ForeName>Melissa</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Oncology Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, Maryland, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Spraker</LastName>
+            <ForeName>Matthew B</ForeName>
+            <Initials>MB</Initials>
+            <Identifier Source="ORCID">0000-0002-4644-2168</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Cancer Biology, Department of Radiation Oncology, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Siteman Cancer Center, Barnes Jewish Hospital and Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ding</LastName>
+            <ForeName>Li</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology, Department of Medicine, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Siteman Cancer Center, Barnes Jewish Hospital and Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>McDonnel Genome Institute, Washington University in Saint Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Genetics, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Widemann</LastName>
+            <ForeName>Brigitte C</ForeName>
+            <Initials>BC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Oncology Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, Maryland, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shern</LastName>
+            <ForeName>Jack F</ForeName>
+            <Initials>JF</Initials>
+            <Identifier Source="ORCID">0000-0001-5579-7625</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Pediatric Oncology Branch, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, Maryland, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hirbe</LastName>
+            <ForeName>Angela C</ForeName>
+            <Initials>AC</Initials>
+            <Identifier Source="ORCID">0000-0003-1719-0771</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Biology and Biomedical Sciences, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Oncology, Department of Medicine, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Siteman Cancer Center, Barnes Jewish Hospital and Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pediatrics, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chaudhuri</LastName>
+            <ForeName>Aadel A</ForeName>
+            <Initials>AA</Initials>
+            <Identifier Source="ORCID">0000-0003-3115-3061</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Cancer Biology, Department of Radiation Oncology, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Biology and Biomedical Sciences, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Siteman Cancer Center, Barnes Jewish Hospital and Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, Washington University School of Medicine, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Computer Science and Engineering, Washington University in St. Louis, St. Louis, Missouri, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>K08 CA238711</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>T32 GM007200</GrantID>
+            <Acronym>GM</Acronym>
+            <Agency>NIGMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>ZIA BC011722</GrantID>
+            <Acronym>ImNIH</Acronym>
+            <Agency>Intramural NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>ZIA BC010801</GrantID>
+            <Acronym>ImNIH</Acronym>
+            <Agency>Intramural NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>08</Month>
+          <Day>31</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>PLoS Med</MedlineTA>
+        <NlmUniqueID>101231360</NlmUniqueID>
+        <ISSNLinking>1549-1277</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000073888">Cell-Free Nucleic Acids</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000073888" MajorTopicYN="N">Cell-Free Nucleic Acids</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004252" MajorTopicYN="N">DNA Mutational Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018318" MajorTopicYN="N">Neurofibroma, Plexiform</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018319" MajorTopicYN="N">Neurofibrosarcoma</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000073336" MajorTopicYN="Y">Whole Genome Sequencing</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>I have read the journal’s policy and the authors of this manuscript have the following competing interests: A.A.C. has patent filings related to cancer biomarkers, and has served as a consultant/advisor to Roche, Tempus, Geneoscopy, NuProbe, Daiichi Sankyo, AstraZeneca, Fenix Group International and Guidepoint. A.A.C. has stock options in Geneoscopy, research support from Roche, and ownership interests in Droplet Biosciences. A.C.H. has served on advisory boards for AstraZenica and Springworks Therapeutics. F.Q. has stocks: Centene. No potential conflicts of interest were disclosed by the other authors.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>1</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>31</Day>
+          <Hour>17</Hour>
+          <Minute>20</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>9</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34464388</ArticleId>
+        <ArticleId IdType="pmc">PMC8407545</ArticleId>
+        <ArticleId IdType="doi">10.1371/journal.pmed.1003734</ArticleId>
+        <ArticleId IdType="pii">PMEDICINE-D-21-00235</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Evans DG, Baser ME, McGaughran J, Sharif S, Howard E, Moran A. Malignant peripheral nerve sheath tumours in neurofibromatosis 1. J Med Genet. 2002;39(5):311–4. Epub 2002/05/16. doi: 10.1136/jmg.39.5.311 ; PubMed Central PMCID: PMC1735122.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/jmg.39.5.311</ArticleId>
+            <ArticleId IdType="pmc">PMC1735122</ArticleId>
+            <ArticleId IdType="pubmed">12011145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peltonen J, Jaakkola S, Lebwohl M, Renvall S, Risteli L, Virtanen I, et al.. Cellular differentiation and expression of matrix genes in type 1 neurofibromatosis. Lab Investig. 1988;59(6):760–71. Epub 1988/12/01. .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2462129</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Serra E, Rosenbaum T, Winner U, Aledo R, Ars E, Estivill X, et al.. Schwann cells harbor the somatic NF1 mutation in neurofibromas: evidence of two different Schwann cell subpopulations. Hum Mol Genet. 2000;9(20):3055–64. Epub 2000/12/15. doi: 10.1093/hmg/9.20.3055 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/hmg/9.20.3055</ArticleId>
+            <ArticleId IdType="pubmed">11115850</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Basu TN, Gutmann DH, Fletcher JA, Glover TW, Collins FS, Downward J. Aberrant regulation of ras proteins in malignant tumour cells from type 1 neurofibromatosis patients. Nature. 1992;356(6371):713–5. Epub 1992/04/23. doi: 10.1038/356713a0 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/356713a0</ArticleId>
+            <ArticleId IdType="pubmed">1570015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kahen EJ, Brohl A, Yu D, Welch D, Cubitt CL, Lee JK, et al.. Neurofibromin level directs RAS pathway signaling and mediates sensitivity to targeted agents in malignant peripheral nerve sheath tumors. Oncotarget. 2018;9(32):22571–85. Epub 2018/06/02. doi: 10.18632/oncotarget.25181 ; PubMed Central PMCID: PMC5978249.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/oncotarget.25181</ArticleId>
+            <ArticleId IdType="pmc">PMC5978249</ArticleId>
+            <ArticleId IdType="pubmed">29854299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nur EKMS, Varga M, Maruta H. The GTPase-activating NF1 fragment of 91 amino acids reverses v-Ha-Ras-induced malignant phenotype. J Biol Chem. 1993;268(30):22331–7. Epub 1993/10/25. .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8226742</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miettinen MM, Antonescu CR, Fletcher CDM, Kim A, Lazar AJ, Quezado MM, et al.. Histopathologic evaluation of atypical neurofibromatous tumors and their transformation into malignant peripheral nerve sheath tumor in patients with neurofibromatosis 1-a consensus overview. Hum Pathol. 2017;67:1–10. Epub 2017/05/30. doi: 10.1016/j.humpath.2017.05.010 ; PubMed Central PMCID: PMC5628119.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.humpath.2017.05.010</ArticleId>
+            <ArticleId IdType="pmc">PMC5628119</ArticleId>
+            <ArticleId IdType="pubmed">28551330</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maertens O, Brems H, Vandesompele J, De Raedt T, Heyns I, Rosenbaum T, et al.. Comprehensive NF1 screening on cultured Schwann cells from neurofibromas. Hum Mutat. 2006;27(10):1030–40. Epub 2006/08/31. doi: 10.1002/humu.20389 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/humu.20389</ArticleId>
+            <ArticleId IdType="pubmed">16941471</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim A, Stewart DR, Reilly KM, Viskochil D, Miettinen MM, Widemann BC. Malignant Peripheral Nerve Sheath Tumors State of the Science: Leveraging Clinical and Biological Insights into Effective Therapies. Sarcoma. 2017;2017:7429697. Epub 2017/06/09. doi: 10.1155/2017/7429697; PubMed Central PMCID: PMC5448069.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2017/7429697</ArticleId>
+            <ArticleId IdType="pmc">PMC5448069</ArticleId>
+            <ArticleId IdType="pubmed">28592921</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Uusitalo E, Rantanen M, Kallionpaa RA, Poyhonen M, Leppavirta J, Yla-Outinen H, et al.. Distinctive Cancer Associations in Patients With Neurofibromatosis Type 1. J Clin Oncol. 2016;34(17):1978–86. Epub 2016/03/02. doi: 10.1200/JCO.2015.65.3576 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1200/JCO.2015.65.3576</ArticleId>
+            <ArticleId IdType="pubmed">26926675</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ducatman BS, Scheithauer BW, Piepgras DG, Reiman HM, Ilstrup DM. Malignant peripheral nerve sheath tumors. A clinicopathologic study of 120 cases. Cancer. 1986;57(10):2006–21. Epub 1986/05/15. doi: 10.1002/1097-0142(19860515)57:10&amp;lt;2006::aid-cncr2820571022&amp;gt;3.0.co;2-6 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/1097-0142(19860515)57:10&amp;lt;2006::aid-cncr2820571022&amp;gt;3.0.co;2-6</ArticleId>
+            <ArticleId IdType="pubmed">3082508</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miller DT, Freedenberg D, Schorry E, Ullrich NJ, Viskochil D, Korf BR, et al.. Health Supervision for Children With Neurofibromatosis Type 1. Pediatrics. 2019;143(5). Epub 2019/04/24. doi: 10.1542/peds.2019-0660.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1542/peds.2019-0660</ArticleId>
+            <ArticleId IdType="pubmed">31010905</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang X, Murray B, Mo G, Shern JF. The Role of Polycomb Repressive Complex in Malignant Peripheral Nerve Sheath Tumor. Genes (Basel). 2020;11(3). Epub 2020/03/19. doi: 10.3390/genes11030287; PubMed Central PMCID: PMC7140867.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/genes11030287</ArticleId>
+            <ArticleId IdType="pmc">PMC7140867</ArticleId>
+            <ArticleId IdType="pubmed">32182803</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prudner BC, Ball T, Rathore R, Hirbe AC. Diagnosis and management of malignant peripheral nerve sheath tumors: Current practice and future perspectives. Neurooncol Adv. 2020;2(Suppl 1):i40–i9. Epub 2020/07/10. doi: 10.1093/noajnl/vdz047 ; PubMed Central PMCID: PMC7317062.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/noajnl/vdz047</ArticleId>
+            <ArticleId IdType="pmc">PMC7317062</ArticleId>
+            <ArticleId IdType="pubmed">32642731</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gachiani J, Kim D, Nelson A, Kline D. Surgical management of malignant peripheral nerve sheath tumors. Neurosurg Focus. 2007;22(6):E13. Epub 2007/07/07. .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17613204</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Compston A. The Neurofibromatoses. A pathogenetic and clinical overview. J Neurol Neurosurg Psychiatry. 1994;57(10):1301–. PMC485524.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Friedman JM, Birch PH. Type 1 neurofibromatosis: a descriptive analysis of the disorder in 1,728 patients. Am J Med Genet. 1997;70(2):138–43. Epub 1997/05/16. doi: 10.1002/(sici)1096-8628(19970516)70:2&amp;lt;138::aid-ajmg7&amp;gt;3.0.co;2-u .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/(sici)1096-8628(19970516)70:2&amp;lt;138::aid-ajmg7&amp;gt;3.0.co;2-u</ArticleId>
+            <ArticleId IdType="pubmed">9128932</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Waggoner DJ, Towbin J, Gottesman G, Gutmann DH. Clinic-based study of plexiform neurofibromas in neurofibromatosis 1. Am J Med Genet. 2000;92(2):132–5. Epub 2000/05/08. .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10797438</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Graham DS, Russell TA, Eckardt MA, Motamedi K, Seeger LL, Singh AS, et al.. Oncologic Accuracy of Image-guided Percutaneous Core-Needle Biopsy of Peripheral Nerve Sheath Tumors at a High-volume Sarcoma Center. Am J Clin Oncol. 2019;42(10):739–43. Epub 2019/08/23. doi: 10.1097/COC.0000000000000591 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/COC.0000000000000591</ArticleId>
+            <ArticleId IdType="pubmed">31436746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ahlawat S, Blakeley JO, Rodriguez FJ, Fayad LM. Imaging biomarkers for malignant peripheral nerve sheath tumors in neurofibromatosis type 1. Neurology. 2019;93(11):e1076–e84. Epub 2019/08/10. doi: 10.1212/WNL.0000000000008092 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1212/WNL.0000000000008092</ArticleId>
+            <ArticleId IdType="pubmed">31395668</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Benz MR, Czernin J, Dry SM, Tap WD, Allen-Auerbach MS, Elashoff D, et al.. Quantitative F18-fluorodeoxyglucose positron emission tomography accurately characterizes peripheral nerve sheath tumors as malignant or benign. Cancer. 2010;116(2):451–8. Epub 2009/11/20. doi: 10.1002/cncr.24755 ; PubMed Central PMCID: PMC3188986.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cncr.24755</ArticleId>
+            <ArticleId IdType="pmc">PMC3188986</ArticleId>
+            <ArticleId IdType="pubmed">19924789</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chaudhuri AA, Chabon JJ, Lovejoy AF, Newman AM, Stehr H, Azad TD, et al.. Early Detection of Molecular Residual Disease in Localized Lung Cancer by Circulating Tumor DNA Profiling. Cancer Discov. 2017;7(12):1394–403. Epub 2017/09/14. doi: 10.1158/2159-8290.CD-17-0716 ; PubMed Central PMCID: PMC5895851.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/2159-8290.CD-17-0716</ArticleId>
+            <ArticleId IdType="pmc">PMC5895851</ArticleId>
+            <ArticleId IdType="pubmed">28899864</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chin RI, Chen K, Usmani A, Chua C, Harris PK, Binkley MS, et al.. Detection of Solid Tumor Molecular Residual Disease (MRD) Using Circulating Tumor DNA (ctDNA). Mol Diagn Ther. 2019;23(3):311–31. Epub 2019/04/04. doi: 10.1007/s40291-019-00390-5 ; PubMed Central PMCID: PMC6561896.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s40291-019-00390-5</ArticleId>
+            <ArticleId IdType="pmc">PMC6561896</ArticleId>
+            <ArticleId IdType="pubmed">30941670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Corcoran RB, Chabner BA. Application of Cell-free DNA Analysis to Cancer Treatment. N Engl J Med. 2018;379(18):1754–65. Epub 2018/11/01. doi: 10.1056/NEJMra1706174 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMra1706174</ArticleId>
+            <ArticleId IdType="pubmed">30380390</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wan JCM, Massie C, Garcia-Corbacho J, Mouliere F, Brenton JD, Caldas C, et al.. Liquid biopsies come of age: towards implementation of circulating tumour DNA. Nat Rev Cancer. 2017;17(4):223–38. Epub 2017/02/25. doi: 10.1038/nrc.2017.7 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrc.2017.7</ArticleId>
+            <ArticleId IdType="pubmed">28233803</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cristiano S, Leal A, Phallen J, Fiksel J, Adleff V, Bruhm DC, et al.. Genome-wide cell-free DNA fragmentation in patients with cancer. Nature. 2019;570(7761):385−+. doi: 10.1038/s41586-019-1272-6 WOS:000472145700068. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-019-1272-6</ArticleId>
+            <ArticleId IdType="pmc">PMC6774252</ArticleId>
+            <ArticleId IdType="pubmed">31142840</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang P, Chan CW, Chan KC, Cheng SH, Wong J, Wong VW, et al.. Lengthening and shortening of plasma DNA in hepatocellular carcinoma patients. Proc Natl Acad Sci U S A. 2015;112(11):E1317–25. Epub 2015/02/04. doi: 10.1073/pnas.1500076112 ; PubMed Central PMCID: PMC4372002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1500076112</ArticleId>
+            <ArticleId IdType="pmc">PMC4372002</ArticleId>
+            <ArticleId IdType="pubmed">25646427</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mouliere F, Chandrananda D, Piskorz AM, Moore EK, Morris J, Ahlborn LB, et al.. Enhanced detection of circulating tumor DNA by fragment size analysis. Sci Transl Med. 2018;10(466). Epub 2018/11/09. doi: 10.1126/scitranslmed.aat4921; PubMed Central PMCID: PMC6483061.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/scitranslmed.aat4921</ArticleId>
+            <ArticleId IdType="pmc">PMC6483061</ArticleId>
+            <ArticleId IdType="pubmed">30404863</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mouliere F, Mair R, Chandrananda D, Marass F, Smith CG, Su J, et al.. Detection of cell-free DNA fragmentation and copy number alterations in cerebrospinal fluid from glioma patients. EMBO Mol Med. 2018;10(12). Epub 2018/11/08. doi: 10.15252/emmm.201809323; PubMed Central PMCID: PMC6284385.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.15252/emmm.201809323</ArticleId>
+            <ArticleId IdType="pmc">PMC6284385</ArticleId>
+            <ArticleId IdType="pubmed">30401727</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Underhill HR, Kitzman JO, Hellwig S, Welker NC, Daza R, Baker DN, et al.. Fragment Length of Circulating Tumor DNA. PLoS Genet. 2016;12(7):e1006162. Epub 2016/07/20. doi: 10.1371/journal.pgen.1006162; PubMed Central PMCID: PMC4948782.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1006162</ArticleId>
+            <ArticleId IdType="pmc">PMC4948782</ArticleId>
+            <ArticleId IdType="pubmed">27428049</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hirbe AC, Dahiya S, Miller CA, Li T, Fulton RS, Zhang X, et al.. Whole Exome Sequencing Reveals the Order of Genetic Changes during Malignant Transformation and Metastasis in a Single Patient with NF1-plexiform Neurofibroma. Clin Cancer Res. 2015;21(18):4201–11. Epub 2015/05/01. doi: 10.1158/1078-0432.CCR-14-3049 ; PubMed Central PMCID: PMC4573781.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1078-0432.CCR-14-3049</ArticleId>
+            <ArticleId IdType="pmc">PMC4573781</ArticleId>
+            <ArticleId IdType="pubmed">25925892</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pemov A, Hansen NF, Sindiri S, Patidar R, Higham CS, Dombi E, et al.. Low mutation burden and frequent loss of CDKN2A/B and SMARCA2, but not PRC2, define pre-malignant neurofibromatosis type 1-associated atypical neurofibromas. Neuro Oncol. 2019. Epub 2019/02/06. doi: 10.1093/neuonc/noz028; PubMed Central PMCID: PMC6682216.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/neuonc/noz028</ArticleId>
+            <ArticleId IdType="pmc">PMC6682216</ArticleId>
+            <ArticleId IdType="pubmed">30722027</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>National Institutes of Health Consensus Development Conference Statement: neurofibromatosis. Bethesda, Md., USA, July 13–15, 1987. Neurofibromatosis. 1988;1(3):172–8. Epub 1988/01/01. .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3152465</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>von Elm E, Altman DG, Egger M, Pocock SJ, Gotzsche PC, Vandenbroucke JP, et al.. The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies. PLoS Med. 2007;4(10):e296. Epub 2007/10/19. doi: 10.1371/journal.pmed.0040296; PubMed Central PMCID: PMC2020495.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pmed.0040296</ArticleId>
+            <ArticleId IdType="pmc">PMC2020495</ArticleId>
+            <ArticleId IdType="pubmed">17941714</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>illumina. Mechanical DNA Fragmentation with the Q800R2 Sonicator: The Qsonica Q800R2 Sonicator offers an alternative method for mechanical DNA fragmentation for Illumina TruSeq Library Preparation Kits. 2017 [December 2020]. Available from: https://www.illumina.com/content/dam/illumina-marketing/documents/products/technotes/qsonica-instrument-tech-note-770-2016-030.pdf.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pedersen BS, Quinlan AR. Mosdepth: quick coverage calculation for genomes and exomes. Bioinformatics. 2018;34(5):867–8. doi: 10.1093/bioinformatics/btx699 WOS:000426813500020. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btx699</ArticleId>
+            <ArticleId IdType="pmc">PMC6030888</ArticleId>
+            <ArticleId IdType="pubmed">29096012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Adalsteinsson VA, Ha G, Freeman SS, Choudhury AD, Stover DG, Parsons HA, et al.. Scalable whole-exome sequencing of cell-free DNA reveals high concordance with metastatic tumors. Nat Commun. 2017;8(1):1324. Epub 2017/11/08. doi: 10.1038/s41467-017-00965-y; PubMed Central PMCID: PMC5673918.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-017-00965-y</ArticleId>
+            <ArticleId IdType="pmc">PMC5673918</ArticleId>
+            <ArticleId IdType="pubmed">29109393</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramirez F, Ryan DP, Gruning B, Bhardwaj V, Kilpert F, Richter AS, et al.. deepTools2: a next generation web server for deep-sequencing data analysis. Nucleic Acids Res. 2016;44(W1):W160–5. Epub 2016/04/16. doi: 10.1093/nar/gkw257 ; PubMed Central PMCID: PMC4987876.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkw257</ArticleId>
+            <ArticleId IdType="pmc">PMC4987876</ArticleId>
+            <ArticleId IdType="pubmed">27079975</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eisenhauer EA, Therasse P, Bogaerts J, Schwartz LH, Sargent D, Ford R, et al.. New response evaluation criteria in solid tumours: revised RECIST guideline (version 1.1). Eur J Cancer. 2009;45(2):228–47. Epub 2008/12/23. doi: 10.1016/j.ejca.2008.10.026 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejca.2008.10.026</ArticleId>
+            <ArticleId IdType="pubmed">19097774</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pemov A, Li H, Patidar R, Hansen NF, Sindiri S, Hartley SW, et al.. The primacy of NF1 loss as the driver of tumorigenesis in neurofibromatosis type 1-associated plexiform neurofibromas. Oncogene. 2017;36(22):3168–77. Epub 2017/01/10. doi: 10.1038/onc.2016.464 ; PubMed Central PMCID: PMC6689395.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/onc.2016.464</ArticleId>
+            <ArticleId IdType="pmc">PMC6689395</ArticleId>
+            <ArticleId IdType="pubmed">28068329</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Upadhyaya M, Spurlock G, Thomas L, Thomas NS, Richards M, Mautner VF, et al.. Microarray-based copy number analysis of neurofibromatosis type-1 (NF1)-associated malignant peripheral nerve sheath tumors reveals a role for Rho-GTPase pathway genes in NF1 tumorigenesis. Hum Mutat. 2012;33(4):763–76. Epub 2012/02/15. doi: 10.1002/humu.22044 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/humu.22044</ArticleId>
+            <ArticleId IdType="pubmed">22331697</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Banerjee J, Allaway RJ, Taroni JN, Baker A, Zhang X, Moon CI, et al.. Integrative Analysis Identifies Candidate Tumor Microenvironment and Intracellular Signaling Pathways that Define Tumor Heterogeneity in NF1. Genes (Basel). 2020;11(2). Epub 2020/02/27. doi: 10.3390/genes11020226; PubMed Central PMCID: PMC7073563.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/genes11020226</ArticleId>
+            <ArticleId IdType="pmc">PMC7073563</ArticleId>
+            <ArticleId IdType="pubmed">32098059</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brohl AS, Kahen E, Yoder SJ, Teer JK, Reed DR. The genomic landscape of malignant peripheral nerve sheath tumors: diverse drivers of Ras pathway activation. Sci Rep. 2017;7(1):14992. Epub 2017/11/10. doi: 10.1038/s41598-017-15183-1; PubMed Central PMCID: PMC5678116.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-017-15183-1</ArticleId>
+            <ArticleId IdType="pmc">PMC5678116</ArticleId>
+            <ArticleId IdType="pubmed">29118384</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kryukov GV, Wilson FH, Ruth JR, Paulk J, Tsherniak A, Marlow SE, et al.. MTAP deletion confers enhanced dependency on the PRMT5 arginine methyltransferase in cancer cells. Science. 2016;351(6278):1214–8. doi: 10.1126/science.aad5214 WOS:000386158400049. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aad5214</ArticleId>
+            <ArticleId IdType="pmc">PMC4997612</ArticleId>
+            <ArticleId IdType="pubmed">26912360</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee W, Teckie S, Wiesner T, Ran L, Prieto Granada CN, Lin M, et al.. PRC2 is recurrently inactivated through EED or SUZ12 loss in malignant peripheral nerve sheath tumors. Nat Genet. 2014;46 (11):1227–32. doi: 10.1038/ng.3095
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ng.3095</ArticleId>
+            <ArticleId IdType="pmc">PMC4249650</ArticleId>
+            <ArticleId IdType="pubmed">25240281</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dehner C, Moon CI, Zhou Z, Zhang X, Miller C, Xu H, et al.. Chromosome 8 gain is associated with high-grade transformation in MPNST. JCI Insight. 2021;6(6):e146351. doi: 10.1172/jci.insight.146351 PubMed Central PMCID: PMC8026192. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1172/jci.insight.146351</ArticleId>
+            <ArticleId IdType="pmc">PMC8026192</ArticleId>
+            <ArticleId IdType="pubmed">33591953</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Derlin T, Tornquist K, Munster S, Apostolova I, Hagel C, Friedrich RE, et al.. Comparative effectiveness of 18F-FDG PET/CT versus whole-body MRI for detection of malignant peripheral nerve sheath tumors in neurofibromatosis type 1. Clin Nucl Med. 2013;38(1):e19–25. Epub 2012/12/18. doi: 10.1097/RLU.0b013e318266ce84 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/RLU.0b013e318266ce84</ArticleId>
+            <ArticleId IdType="pubmed">23242059</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ferner RE, Gutmann DH. International consensus statement on malignant peripheral nerve sheath tumors in neurofibromatosis. Cancer Res. 2002;62(5):1573–7. Epub 2002/03/16. .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11894862</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reilly KM, Kim A, Blakely J, Ferner RE, Gutmann DH, Legius E, et al.. Neurofibromatosis Type 1-Associated MPNST State of the Science: Outlining a Research Agenda for the Future. J Natl Cancer Inst. 2017;109(8). Epub 2017/11/09. doi: 10.1093/jnci/djx124; PubMed Central PMCID: PMC6057517.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/jnci/djx124</ArticleId>
+            <ArticleId IdType="pmc">PMC6057517</ArticleId>
+            <ArticleId IdType="pubmed">29117388</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Akshintala S, Baldwin A, Liewehr DJ, Goodwin A, Blakeley JO, Gross AM, et al.. Longitudinal evaluation of peripheral nerve sheath tumors in neurofibromatosis type 1: growth analysis of plexiform neurofibromas and distinct nodular lesions. Neuro Oncol. 2020;22(9):1368–78. Epub 2020/03/11. doi: 10.1093/neuonc/noaa053 ; PubMed Central PMCID: PMC7523449.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/neuonc/noaa053</ArticleId>
+            <ArticleId IdType="pmc">PMC7523449</ArticleId>
+            <ArticleId IdType="pubmed">32152628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Canavese F, Krajbich JI. Resection of plexiform neurofibromas in children with neurofibromatosis type 1. J Pediatr Orthop. 2011;31(3):303–11. Epub 2011/03/19. doi: 10.1097/BPO.0b013e31820cad77 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/BPO.0b013e31820cad77</ArticleId>
+            <ArticleId IdType="pubmed">21415691</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mautner VF, Hartmann M, Kluwe L, Friedrich RE, Funsterer C. MRI growth patterns of plexiform neurofibromas in patients with neurofibromatosis type 1. Neuroradiology. 2006;48(3):160–5. Epub 2006/01/25. doi: 10.1007/s00234-005-0033-4 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00234-005-0033-4</ArticleId>
+            <ArticleId IdType="pubmed">16432718</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wasa J, Nishida Y, Tsukushi S, Shido Y, Sugiura H, Nakashima H, et al.. MRI Features in the Differentiation of Malignant Peripheral Nerve Sheath Tumors and Neurofibromas. Am J Roentgenol. 2010;194(6):1568–74. doi: 10.2214/AJR.09.2724 WOS:000277948400021. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2214/AJR.09.2724</ArticleId>
+            <ArticleId IdType="pubmed">20489098</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chabon JJ, Hamilton EG, Kurtz DM, Esfahani MS, Moding EJ, Stehr H, et al.. Integrating genomic features for non-invasive early lung cancer detection. Nature. 2020;580(7802):245–51. Epub 2020/04/10. doi: 10.1038/s41586-020-2140-0 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-020-2140-0</ArticleId>
+            <ArticleId IdType="pmc">PMC8230734</ArticleId>
+            <ArticleId IdType="pubmed">32269342</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cohen JD, Li L, Wang Y, Thoburn C, Afsari B, Danilova L, et al.. Detection and localization of surgically resectable cancers with a multi-analyte blood test. Science. 2018;359(6378):926–30. Epub 2018/01/20. doi: 10.1126/science.aar3247 ; PubMed Central PMCID: PMC6080308.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aar3247</ArticleId>
+            <ArticleId IdType="pmc">PMC6080308</ArticleId>
+            <ArticleId IdType="pubmed">29348365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu MC, Oxnard GR, Klein EA, Swanton C, Seiden MV, Consortium C. Sensitive and specific multi-cancer detection and localization using methylation signatures in cell-free DNA. Ann Oncol. 2020;31(6):745–59. Epub 2021/01/29. doi: 10.1016/j.annonc.2020.02.011 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.annonc.2020.02.011</ArticleId>
+            <ArticleId IdType="pmc">PMC8274402</ArticleId>
+            <ArticleId IdType="pubmed">33506766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shen SY, Singhania R, Fehringer G, Chakravarthy A, Roehrl MHA, Chadwick D, et al.. Sensitive tumour detection and classification using plasma cell-free DNA methylomes. Nature. 2018;563(7732):579−+. doi: 10.1038/s41586-018-0703-0 WOS:000450960000058. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-018-0703-0</ArticleId>
+            <ArticleId IdType="pubmed">30429608</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen X, Chang CW, Spoerke JM, Yoh KE, Kapoor V, Baudo C, et al.. Low-pass Whole-genome Sequencing of Circulating Cell-free DNA Demonstrates Dynamic Changes in Genomic Copy Number in a Squamous Lung Cancer Clinical Cohort. Clin Cancer Res. 2019;25(7):2254–63. Epub 2019/01/09. doi: 10.1158/1078-0432.CCR-18-1593 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1078-0432.CCR-18-1593</ArticleId>
+            <ArticleId IdType="pubmed">30617129</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

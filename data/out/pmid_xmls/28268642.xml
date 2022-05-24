@@ -1,0 +1,132 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Curated">
+      <PMID Version="1">28268642</PMID>
+      <DateCompleted>
+        <Year>2017</Year>
+        <Month>08</Month>
+        <Day>09</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>09</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2694-0604</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>2016</Volume>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference</Title>
+          <ISOAbbreviation>Annu Int Conf IEEE Eng Med Biol Soc</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Hidden-Markov Factor analysis as a spatiotemporal model for electrocorticography.</ArticleTitle>
+        <Pagination>
+          <StartPage>1632</StartPage>
+          <EndPage>1635</EndPage>
+          <MedlinePgn>1632-1635</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1109/EMBC.2016.7591026</ELocationID>
+        <Abstract>
+          <AbstractText>We present a new approach to extracting low-dimensional neural trajectories that summarize the electrocorticographic (ECoG) signals recorded with high-channel-count electrode arrays implanted subdurally. In our approach, Hidden-Markov Factor Analysis (HMFA), a finite set of factor analyzers are used to model the relationship between the high-dimensional ECoG neural space and a low-dimensional latent neural space; the factor analyzers at different time points are in turn linked together with a hidden Markov model. The recorded ECoG signals were band-pass filtered such that our analysis was focused on a sub-band (76-100Hz) of high gamma. HMFA affords the quantization of the ECoG neural space and dimensionality reduction in a common probabilistic space. We applied this method to the ECoG recordings of 2 subjects who responded with button presses to audiovisual stimuli in an experimental task. Using a goodness-of-fit metric that measures how well the ECoG activity of each electrode can be predicted by all the other electrodes, we found that HMFA performed best when compared with Gaussian-Process Factor Analysis (GPFA) and other related spatiotemporal modeling techniques. In contradistinction to HMFA, GPFA and the other techniques integrate temporal smoothing with dimensionality reduction. We believe that this method will provide a powerful tool for relating high-channel-count ECoG signals to the perception and behavior of subjects.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Omigbodun</LastName>
+            <ForeName>Akinyinka</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Doyle</LastName>
+            <ForeName>Werner K</ForeName>
+            <Initials>WK</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Devinsky</LastName>
+            <ForeName>Orrin</ForeName>
+            <Initials>O</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Friedman</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Thesen</LastName>
+            <ForeName>Thomas</ForeName>
+            <Initials>T</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gilja</LastName>
+            <ForeName>Vikash</ForeName>
+            <Initials>V</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Annu Int Conf IEEE Eng Med Biol Soc</MedlineTA>
+        <NlmUniqueID>101763872</NlmUniqueID>
+        <ISSNLinking>2375-7477</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000069280" MajorTopicYN="N">Electrocorticography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004567" MajorTopicYN="N">Electrodes, Implanted</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004569" MajorTopicYN="N">Electroencephalography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005163" MajorTopicYN="Y">Factor Analysis, Statistical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016011" MajorTopicYN="N">Normal Distribution</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2017</Year>
+          <Month>3</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2017</Year>
+          <Month>3</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2017</Year>
+          <Month>8</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">28268642</ArticleId>
+        <ArticleId IdType="doi">10.1109/EMBC.2016.7591026</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

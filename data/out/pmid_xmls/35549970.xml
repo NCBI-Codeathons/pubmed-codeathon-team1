@@ -1,0 +1,1277 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" VersionID="2" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="2">35549970</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>17</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1756-8722</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>15</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>12</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of hematology &amp; oncology</Title>
+          <ISOAbbreviation>J Hematol Oncol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Single-cell sequencing: a promising approach for uncovering the mechanisms of tumor metastasis.</ArticleTitle>
+        <Pagination>
+          <StartPage>59</StartPage>
+          <MedlinePgn>59</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">59</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13045-022-01280-w</ELocationID>
+        <Abstract>
+          <AbstractText>Single-cell sequencing (SCS) is an emerging high-throughput technology that can be used to study the genomics, transcriptomics, and epigenetics at a single cell level. SCS is widely used in the diagnosis and treatment of various diseases, including cancer. Over the years, SCS has gradually become an effective clinical tool for the exploration of tumor metastasis mechanisms and the development of treatment strategies. Currently, SCS can be used not only to analyze metastasis-related malignant biological characteristics, such as tumor heterogeneity, drug resistance, and microenvironment, but also to construct metastasis-related cell maps for predicting and monitoring the dynamics of metastasis. SCS is also used to identify therapeutic targets related to metastasis as it provides insights into the distribution of tumor cell subsets and gene expression differences between primary and metastatic tumors. Additionally, SCS techniques in combination with artificial intelligence (AI) are used in liquid biopsy to identify circulating tumor cells (CTCs), thereby providing a novel strategy for treating tumor metastasis. In this review, we summarize the potential applications of SCS in the field of tumor metastasis and discuss the prospects and limitations of SCS to provide a theoretical basis for finding therapeutic targets and mechanisms of metastasis.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Han</LastName>
+            <ForeName>Yingying</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, Xiangya Hospital, Central South University, Changsha, 410008, Hunan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Dan</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, Xiangya Hospital, Central South University, Changsha, 410008, Hunan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Peng</LastName>
+            <ForeName>Lushan</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, Xiangya Hospital, Central South University, Changsha, 410008, Hunan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huang</LastName>
+            <ForeName>Tao</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, Xiangya Hospital, Central South University, Changsha, 410008, Hunan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>He</LastName>
+            <ForeName>Xiaoyun</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departments of Ultrasound Imaging, Xiangya Hospital, Central South University, Changsha, 410008, Hunan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Junpu</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, Xiangya Hospital, Central South University, Changsha, 410008, Hunan, China. wang-jp2013@csu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, School of Basic Medicine, Central South University, Changsha, 410031, Hunan, China. wang-jp2013@csu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Hunan Province in Neurodegenerative Disorders, Xiangya Hospital, Central South University, Changsha, 410008, Hunan, China. wang-jp2013@csu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Ou</LastName>
+            <ForeName>Chunlin</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0003-2313-4186</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, Xiangya Hospital, Central South University, Changsha, 410008, Hunan, China. ouchunlin@csu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>National Clinical Research Center for Geriatric Disorders, Xiangya Hospital, Central South University, Changsha, China. ouchunlin@csu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>12</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>J Hematol Oncol</MedlineTA>
+        <NlmUniqueID>101468937</NlmUniqueID>
+        <ISSNLinking>1756-8722</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001185" MajorTopicYN="N">Artificial Intelligence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D023281" MajorTopicYN="N">Genomics</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000073890" MajorTopicYN="N">Liquid Biopsy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009362" MajorTopicYN="N">Neoplasm Metastasis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009360" MajorTopicYN="Y">Neoplastic Cells, Circulating</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059010" MajorTopicYN="Y">Single-Cell Analysis</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059016" MajorTopicYN="N">Tumor Microenvironment</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Artificial intelligence</Keyword>
+        <Keyword MajorTopicYN="N">Single-cell sequencing</Keyword>
+        <Keyword MajorTopicYN="N">Targeted therapy</Keyword>
+        <Keyword MajorTopicYN="N">Tumor heterogeneity</Keyword>
+        <Keyword MajorTopicYN="N">Tumor marker</Keyword>
+        <Keyword MajorTopicYN="N">Tumor metastasis</Keyword>
+        <Keyword MajorTopicYN="N">Tumor microenvironment</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>13</Day>
+          <Hour>12</Hour>
+          <Minute>17</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35549970</ArticleId>
+        <ArticleId IdType="pmc">PMC9096771</ArticleId>
+        <ArticleId IdType="doi">10.1186/s13045-022-01280-w</ArticleId>
+        <ArticleId IdType="pii">10.1186/s13045-022-01280-w</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Chaffer CL, Weinberg RA. A perspective on cancer cell metastasis. Science. 2011;331(6024):1559–1564.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21436443</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou H, He X, He Y, Ou C, Cao P. Exosomal circRNAs: emerging players in tumor metastasis. Front Cell Dev Biol. 2021;9:786224.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8692866</ArticleId>
+            <ArticleId IdType="pubmed">34957113</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Siegel RL, Miller KD, Jemal A. Cancer statistics, 2020. CA Cancer J Clin. 2020;70(1):7–30. doi: 10.3322/caac.21590.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3322/caac.21590</ArticleId>
+            <ArticleId IdType="pubmed">31912902</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harper KL, Sosa MS, Entenberg D, Hosseini H, Cheung JF, Nobre R, et al.  Mechanism of early dissemination and metastasis in Her2(+) mammary cancer. Nature. 2016;540(7634):588–592.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5471138</ArticleId>
+            <ArticleId IdType="pubmed">27974798</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hosseini H, Obradovic MMS, Hoffmann M, Harper KL, Sosa MS, Werner-Klein M, et al.  Early dissemination seeds metastasis in breast cancer. Nature. 2016;540(7634):552–558.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5390864</ArticleId>
+            <ArticleId IdType="pubmed">27974799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hu Z, Curtis C. Looking backward in time to define the chronology of metastasis. Nat Commun. 2020;11(1):3213–3217.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7316862</ArticleId>
+            <ArticleId IdType="pubmed">32587245</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tang X, Huang Y, Lei J, Luo H, Zhu X. The single-cell sequencing: new developments and medical applications. Cell Biosci. 2019;9:53–61.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6595701</ArticleId>
+            <ArticleId IdType="pubmed">31391919</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Perone Y, Farrugia AJ, Rodríguez-Meira A, Győrffy B, Ion C, Uggetti A, et al.  SREBP1 drives Keratin-80-dependent cytoskeletal changes and invasive behavior in endocrine-resistant ERα breast cancer. Nat Commun. 2019;10(1):3791–3805.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6700086</ArticleId>
+            <ArticleId IdType="pubmed">31427580</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen YC, Sahoo S, Brien R, Jung S, Humphries B, Lee W, et al.  Single-cell RNA-sequencing of migratory breast cancer cells: discovering genes associated with cancer metastasis. Analyst. 2019;144(24):7296–7309.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8942075</ArticleId>
+            <ArticleId IdType="pubmed">31710321</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bartoschek M, Oskolkov N, Bocci M, Lovrot J, Larsson C, Sommarin M, et al.  Spatially and functionally distinct subclasses of breast cancer-associated fibroblasts revealed by single cell RNA sequencing. Nat Commun. 2018;9(1):5150–5162.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6279758</ArticleId>
+            <ArticleId IdType="pubmed">30514914</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Andrews TS, Kiselev VY, McCarthy D, Hemberg M. Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data. Nat Protoc. 2021;16(1):1–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33288955</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y, Wang D, Peng M, Tang L, Ouyang J, Xiong F, et al.  Single-cell RNA sequencing in cancer research. J Exp Clin Cancer Res. 2021;40(1):81–96.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7919320</ArticleId>
+            <ArticleId IdType="pubmed">33648534</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li L, Xiong F, Wang Y, Zhang S, Gong Z, Li X, et al.  What are the applications of single-cell RNA sequencing in cancer research: a systematic review. J Exp Clin Cancer Res. 2021;40(1):163–174.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8111731</ArticleId>
+            <ArticleId IdType="pubmed">33975628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hwang B, Lee JH, Bang D. Single-cell RNA sequencing technologies and bioinformatics pipelines. Exp Mol Med. 2018;50(8):1–14.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6230555</ArticleId>
+            <ArticleId IdType="pubmed">30416196</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tang F, Barbacioru C, Wang Y, Nordman E, Lee C, Xu N, et al.  mRNA-Seq whole-transcriptome analysis of a single cell. Nat Methods. 2009;6(5):377–382.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19349980</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Islam S, Kjallquist U, Moliner A, Zajac P, Fan JB, Lonnerberg P, et al.  Characterization of the single-cell transcriptional landscape by highly multiplex RNA-seq. Genome Res. 2011;21(7):1160–1167.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3129258</ArticleId>
+            <ArticleId IdType="pubmed">21543516</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramsköld D, Luo S, Wang YC, et al.  Full-length mRNA-Seq from single-cell levels of RNA and individual circulating tumor cells[J] Nat Biotechnol. 2012;30(8):777–782.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3467340</ArticleId>
+            <ArticleId IdType="pubmed">22820318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Picelli S, Bjorklund AK, Faridani OR, Sagasser S, Winberg G, Sandberg R. Smart-seq2 for sensitive full-length transcriptome profiling in single cells. Nat Methods. 2013;10(11):1096–1098.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24056875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Azizi E, Carr AJ, Plitas G, Cornish AE, Konopacki C, Prabhakaran S, et al.  Single-Cell Map of Diverse Immune Phenotypes in the Breast Tumor Microenvironment. Cell. 2018;174(5):1293–1308.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6348010</ArticleId>
+            <ArticleId IdType="pubmed">29961579</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yilmaz S, Singh AK. Single cell genome sequencing. Curr Opin Biotechnol. 2012;23(3):437–443.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3318999</ArticleId>
+            <ArticleId IdType="pubmed">22154471</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhuo W, Xiaohan S, Qihui S. Advances in single-cell whole genome sequencing technology and its application in biomedicine. Yi Chuan. 2021;43(2):108–117.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33724214</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bai X, Li Y, Zeng X, Zhao Q, Zhang Z. Single-cell sequencing technology in tumor research. Clin Chim Acta. 2021;518:101–109.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33766554</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yaari G, Kleinstein SH. Practical guidelines for B-cell receptor repertoire sequencing analysis. Genome Med. 2015;7:121–134.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4654805</ArticleId>
+            <ArticleId IdType="pubmed">26589402</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tian Y, Carpp LN, Miller HER, Zager M, Newell EW, Gottardo R. Single-cell immunology of SARS-CoV-2 infection. Nat Biotechnol. 2022;40(1):30–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34931002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hashimshony T, Senderovich N, Avital G, Klochendler A, de Leeuw Y, Anavy L, et al.  CEL-Seq2: sensitive highly-multiplexed single-cell RNA-Seq. Genome Biol. 2016;17(1):77–83.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4848782</ArticleId>
+            <ArticleId IdType="pubmed">27121950</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zheng GX, Terry JM, Belgrader P, Ryvkin P, Bent ZW, Wilson R, et al.  Massively parallel digital transcriptional profiling of single cells. Nat Commun. 2017;8:14049–14060.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5241818</ArticleId>
+            <ArticleId IdType="pubmed">28091601</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Macosko EZ, Basu A, Satija R, Nemesh J, Shekhar K, Goldman M, et al.  Highly Parallel Genome-wide Expression Profiling of Individual Cells Using Nanoliter Droplets. Cell. 2015;161(5):1202–1214.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4481139</ArticleId>
+            <ArticleId IdType="pubmed">26000488</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gierahn TM, Wadsworth MH, 2nd, Hughes TK, Bryson BD, Butler A, Satija R, et al.  Seq-Well: portable, low-cost RNA sequencing of single cells at high throughput. Nat Methods. 2017;14(4):395–398.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5376227</ArticleId>
+            <ArticleId IdType="pubmed">28192419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Klein AM, Mazutis L, Akartuna I, Tallapragada N, Veres A, Li V, et al.  Droplet barcoding for single-cell transcriptomics applied to embryonic stem cells. Cell. 2015;161(5):1187–1201.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4441768</ArticleId>
+            <ArticleId IdType="pubmed">26000487</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yanai I, Hashimshony T. CEL-Seq2-single-cell RNA sequencing by multiplexed linear amplification. Methods Mol Biol. 2019;1979:45–56.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31028631</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ziegenhain C, Vieth B, Parekh S, Reinius B, Guillaumet-Adkins A, Smets M, et al.  Comparative analysis of single-cell RNA sequencing methods. Mol Cell. 2017;65(4):631–643.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28212749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang X, Li T, Liu F, Chen Y, Yao J, Li Z, et al.  Comparative analysis of droplet-based ultra-high-throughput single-cell RNA-Seq systems. Mol Cell. 2019;73(1):130–142.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30472192</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aicher TP, Carroll S, Raddi G, Gierahn T, Wadsworth MH, 2nd, Hughes TK, et al.  Seq-Well: a sample-efficient, portable picowell platform for massively parallel single-cell RNA sequencing. Methods Mol Biol. 2019;1979:111–132.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7741456</ArticleId>
+            <ArticleId IdType="pubmed">31028635</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zilionis R, Nainys J, Veres A, Savova V, Zemmour D, Klein AM, et al.  Single-cell barcoding and sequencing using droplet microfluidics. Nat Protoc. 2017;12(1):44–73.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27929523</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Choi JR, Yong KW, Choi JY, Cowie AC. Single-cell RNA sequencing and its combination with protein and DNA analyses. Cells. 2020;9(5):1130.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fu J, Akat KM, Sun Z, Zhang W, Schlondorff D, Liu Z, et al.  Single-cell RNA profiling of glomerular cells shows dynamic changes in experimental diabetic kidney disease. J Am Soc Nephrol. 2019;30(4):533–545.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6442341</ArticleId>
+            <ArticleId IdType="pubmed">30846559</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang F, Wei K, Slowikowski K, Fonseka CY, Rao DA, Kelly S, et al.  Defining inflammatory cell states in rheumatoid arthritis joint synovial tissues by integrating single-cell transcriptomics and mass cytometry. Nat Immunol. 2019;20(7):928–942.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6602051</ArticleId>
+            <ArticleId IdType="pubmed">31061532</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Farbehi N, Patrick R, Dorison A, Xaymardan M, Janbandhu V, Wystub-Lis K, et al.  Single-cell expression profiling reveals dynamic flux of cardiac stromal, vascular and immune cells in health and injury. Elife. 2019;8:43882.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Farrell JA, Wang Y, Riesenfeld SJ, Shekhar K, Regev A, Schier AF. Single-cell reconstruction of developmental trajectories during zebrafish embryogenesis. Science. 2018;360(6392):eaar3131.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6247916</ArticleId>
+            <ArticleId IdType="pubmed">29700225</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang J, Xu Y, Chen Z, Liang J, Lin Z, Liang H, et al.  Liver immune profiling reveals pathogenesis and therapeutics for biliary atresia. Cell. 2020;183(7):1867–1883.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33248023</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Su T, Yang Y, Lai S, Jeong J, Jung Y, McConnell M, et al.  Single-cell transcriptomics reveals zone-specific alterations of liver sinusoidal endothelial cells in cirrhosis. Cell Mol Gastroenterol Hepatol. 2021;11(4):1139–1161.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7903131</ArticleId>
+            <ArticleId IdType="pubmed">33340713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Khateb M, Azriel A, Levi BZ. The third intron of IRF8 is a cell-type-specific chromatin priming element during mouse embryonal stem cell differentiation. J Mol Biol. 2019;431(2):210–222.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30502383</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wilk AJ, Rustagi A, Zhao NQ, Roque J, Martinez-Colon GJ, McKechnie JL, et al.  A single-cell atlas of the peripheral immune response in patients with severe COVID-19. Nat Med. 2020;26(7):1070–1076.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7382903</ArticleId>
+            <ArticleId IdType="pubmed">32514174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim N, Kim HK, Lee K, Hong Y, Cho JH, Choi JW, Lee JI, Suh YL, Ku BM, Eum HH, et al.  Single-cell RNA sequencing demonstrates the molecular and cellular reprogramming of metastatic lung adenocarcinoma. Nat Commun. 2020;11(1):2285–2299.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7210975</ArticleId>
+            <ArticleId IdType="pubmed">32385277</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zheng L, Qin S, Si W, Wang A, Xing B, Gao R, Ren X, Wang L, Wu X, Zhang J, et al.  Pan-cancer single-cell landscape of tumor-infiltrating T cells. Science. 2012;374(6574):6474.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fares J, Fares MY, Khachfe HH, Salhab HA, Fares Y. Molecular principles of metastasis: a hallmark of cancer revisited. Signal Transduct Target Ther. 2020;5(1):28–43.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7067809</ArticleId>
+            <ArticleId IdType="pubmed">32296047</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zeeshan R, Mutahir Z. Cancer metastasis - tricks of the trade. Bosn J Basic Med Sci. 2017;17(3):172–182.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5581965</ArticleId>
+            <ArticleId IdType="pubmed">28278128</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hunter KW, Amin R, Deasy S, Ha NH, Wakefield L. Genetic insights into the morass of metastatic heterogeneity. Nat Rev Cancer. 2018;18(4):211–223.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6290469</ArticleId>
+            <ArticleId IdType="pubmed">29422598</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu XX, Yue GG, Dong JR, Lam CW, Wong CK, Qiu MH, et al.  Actein Inhibits tumor growth and metastasis in HER2-positive breast tumor bearing mice via suppressing AKT/MTOR and RAS/RAF/MAPK signaling pathways. Front Oncol. 2020;10:854–868.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7269144</ArticleId>
+            <ArticleId IdType="pubmed">32547952</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jin W. Role of JAK/STAT3 signaling in the regulation of metastasis, the transition of cancer stem cells, and chemoresistance of cancer by epithelial-mesenchymal transition. Cells. 2020;9(1):217–224.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ge X, Liu W, Zhao W, Feng S, Duan A, Ji C, et al.  Exosomal transfer of LCP1 promotes osteosarcoma cell tumorigenesis and metastasis by activating the JAK2/STAT3 signaling pathway. Mol Ther Nucleic Acids. 2020;21:900–915.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7452114</ArticleId>
+            <ArticleId IdType="pubmed">32810692</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhan T, Rindtorff N, Boutros M. Wnt signaling in cancer. Oncogene. 2017;36(11):1461–1473.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5357762</ArticleId>
+            <ArticleId IdType="pubmed">27617575</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhu HH, Zhu XY, Zhou MH, Cheng GY, Lou WH. Effect of WNT5A on epithelial-mesenchymal transition and its correlation with tumor invasion and metastasis in nasopharyngeal carcinoma. Asian Pac J Trop Med. 2014;7(6):488–491.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25066400</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu M, Ting DT, Stott SL, Wittner BS, Ozsolak F, Paul S, et al.  RNA sequencing of pancreatic circulating tumour cells implicates WNT signalling in metastasis. Nature. 2012;487(7408):510–513.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3408856</ArticleId>
+            <ArticleId IdType="pubmed">22763454</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin X, Xiaoqin H, Jiayu C, Li F, Yue L, Ximing X. Long non-coding RNA miR143HG predicts good prognosis and inhibits tumor multiplication and metastasis by suppressing mitogen-activated protein kinase and Wnt signaling pathways in hepatocellular carcinoma. Hepatol Res. 2019;49(8):902–918.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30945380</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meacham CE, Morrison SJ. Tumour heterogeneity and cancer cell plasticity. Nature. 2013;501(7467):328–337.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4521623</ArticleId>
+            <ArticleId IdType="pubmed">24048065</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang F, Zhang H, Wang Z, Yu M, Tian R, Ji W, et al.  P-glycoprotein associates with Anxa2 and promotes invasion in multidrug resistant breast cancer cells. Biochem Pharmacol. 2014;87(2):292–302.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24239898</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tomono T, Yano K, Ogihara T. Snail-induced epithelial-to-mesenchymal transition enhances P-gp-mediated multidrug resistance in HCC827 cells. J Pharm Sci. 2017;106(9):2642–2649.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28322937</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang HC, Zhang F, Wu B, Han JH, Ji W, Zhou Y, et al.  Identification of the Interaction between P-Glycoprotein and Anxa2 inMultidrug-resistant human breast cancer cells. Cancer Biol Med. 2012;9(2):99–104.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3643660</ArticleId>
+            <ArticleId IdType="pubmed">23691462</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ribelles N, Santonja A, Pajares B, Llacer C, Alba E. The seed and soil hypothesis revisited: current state of knowledge of inherited genes on prognosis in breast cancer. Cancer Treat Rev. 2014;40(2):293–299.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24112814</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoshino A, Costa-Silva B, Shen TL, Rodrigues G, Hashimoto A, Tesic Mark M, et al.  Tumour exosome integrins determine organotropic metastasis. Nature. 2015;527(7578):329–335.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4788391</ArticleId>
+            <ArticleId IdType="pubmed">26524530</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ganesh K, Massague J. Targeting metastatic cancer. Nat Med. 2021;27(1):34–44.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7895475</ArticleId>
+            <ArticleId IdType="pubmed">33442008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang HG, Grizzle WE. Exosomes: a novel pathway of local and distant intercellular communication that facilitates the growth and metastasis of neoplastic lesions. Am J Pathol. 2014;184(1):28–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3873490</ArticleId>
+            <ArticleId IdType="pubmed">24269592</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pastushenko I, Blanpain C. EMT transition states during tumor progression and metastasis. Trends Cell Biol. 2019;29(3):212–226.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30594349</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Calon A, Lonardo E, Berenguer-Llergo A, Espinet E, Hernando-Momblona X, Iglesias M, et al.  Stromal gene expression defines poor-prognosis subtypes in colorectal cancer. Nat Genet. 2015;47(4):320–329.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25706628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lamouille S, Xu J, Derynck R. Molecular mechanisms of epithelial-mesenchymal transition. Nat Rev Mol Cell Biol. 2014;15(3):178–196.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4240281</ArticleId>
+            <ArticleId IdType="pubmed">24556840</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin Y, Xu J, Lan H. Tumor-associated macrophages in tumor metastasis: biological roles and clinical therapeutic applications. J Hematol Oncol. 2019;12(1):76–91.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6626377</ArticleId>
+            <ArticleId IdType="pubmed">31300030</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fu LQ, Du WL, Cai MH, Yao JY, Zhao YY, Mou XZ. The roles of tumor-associated macrophages in tumor angiogenesis and metastasis. Cell Immunol. 2020;353:104119.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32446032</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang D, Wang X, Si M, Yang J, Sun S, Wu H, et al.  Exosome-encapsulated miRNAs contribute to CXCL12/CXCR4-induced liver metastasis of colorectal cancer by enhancing M2 polarization of macrophages. Cancer Lett. 2020;474:36–52.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31931030</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li K, Kang H, Wang Y, Hai T, Rong G, Sun H. Letrozole-induced functional changes in carcinoma-associated fibroblasts and their influence on breast cancer cell biology. Med Oncol. 2016;33(7):64–74.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27235140</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jayanthi P, Varun BR, Selvaraj J. Epithelial-mesenchymal transition in oral squamous cell carcinoma: An insight into molecular mechanisms and clinical implications. J Oral Maxillofac Pathol. 2020;24(1):189–192.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7269282</ArticleId>
+            <ArticleId IdType="pubmed">32508481</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Foroni C, Broggini M, Generali D, Damia G. Epithelial-mesenchymal transition and breast cancer: role, molecular mechanisms and clinical impact. Cancer Treat Rev. 2012;38(6):689–697.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22118888</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bakir B, Chiarella AM, Pitarresi JR, Rustgi AK. EMT, MET, plasticity, and tumor metastasis. Trends Cell Biol. 2020;30(10):764–776.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7647095</ArticleId>
+            <ArticleId IdType="pubmed">32800658</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu S, Zhang H, Fouladdel S, Li H, Keller E, Wicha MS, et al.  Cellular, transcriptomic and isoform heterogeneity of breast cancer cell line revealed by full-length single-cell RNA sequencing. Comput Struct Biotechnol J. 2020;18:676–685.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7114460</ArticleId>
+            <ArticleId IdType="pubmed">32257051</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gerlinger M, Rowan AJ, Horswell S, Larkin J, Endesfelder D, Gronroos E, Martinez P, Matthews N, Stewart A, Tarpey P, Varela I. Intratumor heterogeneity and branched evolution revealed by multiregion sequencing. N Engl j Med. 2012;366:883–892.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4878653</ArticleId>
+            <ArticleId IdType="pubmed">22397650</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Leung ML, Davis A, Gao R, Casasent A, Wang Y, Sei E, et al.  Single-cell DNA sequencing reveals a late-dissemination model in metastatic colorectal cancer. Genome Res. 2017;27(8):1287–1299.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5538546</ArticleId>
+            <ArticleId IdType="pubmed">28546418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin W, Noel P, Borazanci EH, Lee J, Amini A, Han IW, et al.  Single-cell transcriptome analysis of tumor and stromal compartments of pancreatic ductal adenocarcinoma primary tumors and metastatic lesions. Genome Med. 2020;12(1):80–93.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7523332</ArticleId>
+            <ArticleId IdType="pubmed">32988401</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu Y, Ye G, Huang L, Zhang C, Sheng Y, Wu B, et al.  Single-cell transcriptome analysis demonstrates inter-patient and intra-tumor heterogeneity in primary and metastatic lung adenocarcinoma. Aging. 2020;12(21):21559–81.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7695431</ArticleId>
+            <ArticleId IdType="pubmed">33170151</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Okamoto T, duVerle D, Yaginuma K, Natsume Y, Yamanaka H, Kusama D, et al.  Comparative analysis of patient-matched PDOs revealed a reduction in OLFM4-associated clusters in metastatic lesions in colorectal cancer. Stem Cell Reports. 2021;16(4):954–967.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8072036</ArticleId>
+            <ArticleId IdType="pubmed">33711267</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Davis RT, Blake K, Ma D, Gabra MBI, Hernandez GA, Phung AT, et al.  Transcriptional diversity and bioenergetic shift in human breast cancer metastasis revealed by single-cell RNA sequencing. Nat Cell Biol. 2020;22(3):310–320.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32144411</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chaika NV, Yu F, Purohit V, Mehla K, Lazenby AJ, DiMaio D, et al.  Differential expression of metabolic genes in tumor and stromal components of primary and metastatic loci in pancreatic adenocarcinoma. PLoS ONE. 2012;7(3):e32996.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3296773</ArticleId>
+            <ArticleId IdType="pubmed">22412968</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou Y, Yang D, Yang Q, Lv X, Huang W, Zhou Z, et al.  Single-cell RNA landscape of intratumoral heterogeneity and immunosuppressive microenvironment in advanced osteosarcoma. Nat Commun. 2020;11(1):6322–6338.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7730477</ArticleId>
+            <ArticleId IdType="pubmed">33303760</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ni X, Zhuo M, Su Z, Duan J, Gao Y, Wang Z, et al.  Reproducible copy numbervariation patterns among single circulating tumor cells of lung cancer patients. Proc Natl Acad Sci U S A. 2013;110(52):21083–21088.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3876226</ArticleId>
+            <ArticleId IdType="pubmed">24324171</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McGranahan N, Swanton C. Clonal heterogeneity and tumor evolution: past, present, and the future. Cell. 2017;168(4):613–628.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28187284</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Suda K, Kim J, Murakami I, Rozeboom L, Shimoji M, Shimizu S, et al.  Innate genetic evolution of lung cancers and spatial heterogeneity: analysis of treatment-naive lesions. J Thorac Oncol. 2018;13(10):1496–1507.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6153034</ArticleId>
+            <ArticleId IdType="pubmed">29933065</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ma KY, Schonnesen AA, Brock A, Van Den Berg C, Eckhardt SG, Liu Z, et al.  Single-cell RNA sequencing of lung adenocarcinoma reveals heterogeneity of immune response-related genes. JCI Insight. 2019;4(4):e12138787.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang AW, McPherson A, Milne K, Kroeger DR, Hamilton PT, Miranda A, et al.  Interfaces of Malignant and Immunologic Clonal Dynamics in Ovarian Cancer. Cell. 2018;173(7):1755–1769.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29754820</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jimenez-Sanchez A, Memon D, Pourpe S, Veeraraghavan H, Li Y, Vargas HA, et al.  Heterogeneous tumor-immune microenvironments among differentially growing metastases in an ovarian cancer patient. Cell. 2017;170(5):927–938.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5589211</ArticleId>
+            <ArticleId IdType="pubmed">28841418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pan XW, Zhang H, Xu D, Chen JX, Chen WJ, Gan SS, et al.  Identification of a novel cancer stem cell subpopulation that promotes progression of human fatal renal cell carcinoma by single-cell RNA-seq analysis. Int J Biol Sci. 2020;16(16):3149–3162.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7645996</ArticleId>
+            <ArticleId IdType="pubmed">33162821</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Puram SV, Tirosh I, Parikh AS, Patel AP, Yizhak K, Gillespie S, et al.  Single-cell transcriptomic analysis of primary and metastatic tumor ecosystems in head and neck cancer. Cell. 2017;171(7):1611–1624.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5878932</ArticleId>
+            <ArticleId IdType="pubmed">29198524</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Karaayvaz M, Cristea S, Gillespie SM, Patel AP, Mylvaganam R, Luo CC, et al.  Unravelling subclonal heterogeneity and aggressive disease states in TNBC through single-cell RNA-seq. Nat Commun. 2018;9(1):3588–3597.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6123496</ArticleId>
+            <ArticleId IdType="pubmed">30181541</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yates LR, Knappskog S, Wedge D, Farmery JHR, Gonzalez S, Martincorena I, et al.  Genomic Evolution of Breast Cancer Metastasis and Relapse. Cancer Cell. 2017;32(2):169–184.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5559645</ArticleId>
+            <ArticleId IdType="pubmed">28810143</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Navin N, Kendall J, Troge J, Andrews P, Rodgers L, McIndoo J, et al.  Tumour evolution inferred by single-cell sequencing. Nature. 2011;472(7341):90–94.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4504184</ArticleId>
+            <ArticleId IdType="pubmed">21399628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saunders NA, Simpson F, Thompson EW, Hill MM, Endo-Munoz L, Leggatt G, et al.  Role of intratumoural heterogeneity in cancer drug resistance: molecular and clinical perspectives. EMBO Mol Med. 2012;4(8):675–684.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3494067</ArticleId>
+            <ArticleId IdType="pubmed">22733553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jordan NV, Bardia A, Wittner BS, Benes C, Ligorio M, Zheng Y, et al.  HER2 expression identifies dynamic functional states within circulating breast cancer cells. Nature. 2016;537(7618):102–106.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5161614</ArticleId>
+            <ArticleId IdType="pubmed">27556950</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poupon R, Chazouilleres O, Balkau B, Poupon RE. Clinical and biochemical expression of the histopathological lesions of primary biliary cirrhosis. UDCA-PBC Group J Hepatol. 1999;30(3):408–412.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10190722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Slotman GJ, Mohit T, Raina S, Swaminathan AP, Ohanian M, Rush BF., Jr The incidence of metastases after multimodal therapy for cancer of the head and neck. Cancer. 1984;54(9):2009–2014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">6478435</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hjortland GO, Meza-Zepeda LA, Beiske K, Ree AH, Tveito S, Hoifodt H. Genome wide single cell analysis of chemotherapy resistant metastatic cells in a case of gastroesophageal adenocarcinoma. BMC Cancer. 2011;11:455–462.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3208621</ArticleId>
+            <ArticleId IdType="pubmed">22014070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eyler CE, Rich JN. Survival of the fittest: cancer stem cells in therapeutic resistance and angiogenesis. J Clin Oncol. 2008;26(17):2839–2845.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2739000</ArticleId>
+            <ArticleId IdType="pubmed">18539962</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nguyen A, Yoshida M, Goodarzi H, Tavazoie SF. Highly variable cancer subpopulations that exhibit enhanced transcriptome variability and metastatic fitness. Nat Commun. 2016;7:11246–11257.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4857405</ArticleId>
+            <ArticleId IdType="pubmed">27138336</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miyamoto DT, Zheng Y, Wittner BS, Lee RJ, Zhu H, Broderick KT, et al.  RNA-Seq of single prostate CTCs implicates noncanonical Wnt signaling in antiandrogen resistance. Science. 2015;349(6254):1351–1356.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4872391</ArticleId>
+            <ArticleId IdType="pubmed">26383955</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gujral TS, Chan M, Peshkin L, Sorger PK, Kirschner MW, MacBeath G. A noncanonical Frizzled2 pathway regulates epithelial-mesenchymal transition and metastasis. Cell. 2014;159(4):844–856.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4243058</ArticleId>
+            <ArticleId IdType="pubmed">25417160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iseri OD, Kars MD, Arpaci F, Atalay C, Pak I, Gunduz U. Drug resistant MCF-7 cells exhibit epithelial-mesenchymal transition gene expression pattern. Biomed Pharmacother. 2011;65(1):40–45.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21177063</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee MC, Lopez-Diaz FJ, Khan SY, Tariq MA, Dayn Y, Vaske CJ, et al.  Single-cell analyses of transcriptional heterogeneity during drug tolerance transition in cancer cells by RNA sequencing. Proc Natl Acad Sci USA. 2014;111(44):4726–4735.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Prieto-Vila M, Usuba W, Takahashi RU, Shimomura I, Sasaki H, Ochiya T, et al.  Single-cell analysis reveals a preexisting drug-resistant subpopulation in the luminal breast cancer subtype. Cancer Res. 2019;79(17):4412–4425.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31289135</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nath B, Bidkar AP, Kumar V, Dalal A, Jolly MK, Ghosh SS, et al.  Deciphering hydrodynamic and drug-resistant behaviors of metastatic EMT breast cancer cells moving in a constricted microcapillary. J Clin Med. 2019;8(8):1194–1208.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ozawa PMM, Alkhilaiwi F, Cavalli IJ, Malheiros D, de Souza Fonseca Ribeiro EM, Cavalli LR. Extracellular vesicles from triple-negative breast cancer cells promote proliferation and drug resistance in non-tumorigenic breast cells. Breast Cancer Res Treat. 2018;172(3):713–723.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6245099</ArticleId>
+            <ArticleId IdType="pubmed">30173296</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schmidt F, Efferth T. Tumor heterogeneity, single-cell sequencing, and drug resistance. Pharmaceuticals. 2016;9(2):33–43.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Grivennikov SI, Greten FR, Karin M. Immunity, inflammation, and cancer. Cell. 2010;140(6):883–899.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2866629</ArticleId>
+            <ArticleId IdType="pubmed">20303878</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tripathi G, Tripathi A, Johnson J, Kashyap MK. Role of RNA splicing in regulation of cancer stem cell. Curr Stem Cell Res Ther. 2021 doi: 10.2174/1574888X16666211207103628.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2174/1574888X16666211207103628</ArticleId>
+            <ArticleId IdType="pubmed">34875992</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Franken A, Honisch E, Reinhardt F, Meier-Stiegen F, Yang L, Jaschinski S, et al.  Detection of ESR1 mutations in single circulating tumor cells on estrogen deprivation therapy but not in primary tumors from metastatic luminal breast cancer patients. J MolDiagn. 2020;22(1):111–121.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Q, Wang W, Zhou Q, Chen C, Yuan W, Liu J, et al.  Roles of circRNAs in the tumour microenvironment. Mol Cancer. 2020;19(1):14–29.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6977266</ArticleId>
+            <ArticleId IdType="pubmed">31973726</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun Z, Yang S, Zhou Q, Wang G, Song J, Li Z, et al.  Emerging role of exosome-derived long non-coding RNAs in tumor microenvironment. Mol Cancer. 2018;17(1):82–90.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5909226</ArticleId>
+            <ArticleId IdType="pubmed">29678180</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Psaila B, Lyden D. The metastatic niche: adapting the foreign soil. Nat Rev Cancer. 2009;9(4):285–293.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3682494</ArticleId>
+            <ArticleId IdType="pubmed">19308068</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arvanitis CD, Ferraro GB, Jain RK. The blood-brain barrier and blood-tumour barrier in brain tumours and metastases. Nat Rev Cancer. 2020;20(1):26–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8246629</ArticleId>
+            <ArticleId IdType="pubmed">31601988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee HO, Hong Y, Etlioglu HE, Cho YB, Pomella V, Van den Bosch B, et al.  Lineage-dependent gene expression programs influence the immune landscape of colorectal cancer. Nat Genet. 2020;52(6):594–603.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32451460</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Robinson DR, Wu YM, Lonigro RJ, Vats P, Cobain E, Everett J, et al.  Integrative clinical genomics of metastatic cancer. Nature. 2017;548(7667):297–303.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5995337</ArticleId>
+            <ArticleId IdType="pubmed">28783718</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li H, Courtois ET, Sengupta D, Tan Y, Chen KH, Goh JJL, et al.  Referencecomponent analysis of single-cell transcriptomes elucidates cellular heterogeneity in human colorectal tumors. Nat Genet. 2017;49(5):708–718.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28319088</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bao X, Shi R, Zhao T, Wang Y, Anastasov N, Rosemann M, et al.  Integrated analysis of single-cell RNA-seq and bulk RNA-seq unravels tumour heterogeneity plus M2-like tumour-associated macrophage infiltration and aggressiveness in TNBC. Cancer Immunol Immunother. 2021;70(1):189–202.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32681241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Winterhoff BJ, Maile M, Mitra AK, Sebe A, Bazzaro M, Geller MA, et al.  Single cell sequencing reveals heterogeneity within ovarian cancer epithelium and cancer associated stromal cells. Gynecol Oncol. 2017;144(3):598–606.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5316302</ArticleId>
+            <ArticleId IdType="pubmed">28111004</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee H, Na KJ, Choi H. Differences in tumor immune microenvironment in metastatic sites of breast cancer. Front Oncol. 2021;11:649004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8013993</ArticleId>
+            <ArticleId IdType="pubmed">33816302</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y, Song J, Zhao Z, Yang M, Chen M, Liu C, et al.  Single-cell transcriptome analysis reveals tumor immune microenvironment heterogenicity and granulocytes enrichment in colorectal cancer liver metastases. Cancer Lett. 2020;470:84–94.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31610266</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kuipers J, Jahn K, Beerenwinkel N. Advances in understanding tumour evolution through single-cell sequencing. Biochim Biophys Acta Rev Cancer. 2017;1867(2):127–138.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5813714</ArticleId>
+            <ArticleId IdType="pubmed">28193548</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gundem G, Van Loo P, Kremeyer B, Alexandrov LB, Tubio JMC, Papaemmanuil E, et al.  The evolutionary history of lethal metastatic prostate cancer. Nature. 2015;520(7547):353–357.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4413032</ArticleId>
+            <ArticleId IdType="pubmed">25830880</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Han K, Wang F-W, Cao C-H, Ling H, Chen J-W, Chen R-X, et al.  CircLONP2 enhances colorectal carcinoma invasion and metastasis through modulating the maturation and exosomal dissemination of microRNA-17. Molecular Cancer. 2020;19(1):60–77.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7079398</ArticleId>
+            <ArticleId IdType="pubmed">32188489</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maynard A, McCoach CE, Rotow JK, Harris L, Haderk F, Kerr DL, et al.  Therapy-induced evolution of human lung cancer revealed by single-cell RNA sequencing. Cell. 2020;182(5):1232–1251.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7484178</ArticleId>
+            <ArticleId IdType="pubmed">32822576</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu K, Zhang W, Wang C, Hu L, Wang R, Wang C, et al.  Integrative analyses of scRNA-seq and scATAC-seq reveal CXCL14 as a key regulator of lymph node metastasis in breast cancer. Hum Mol Genet. 2021;30(5):370–380.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33564857</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lawson DA, Bhakta NR, Kessenbrock K, Prummel KD, Yu Y, Takai K, et al.  Single-cell analysis reveals a stem-cell program in human metastatic breast cancer cells. Nature. 2015;526(7571):131–135.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4648562</ArticleId>
+            <ArticleId IdType="pubmed">26416748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tirosh I, Izar B, Prakadan SM, Wadsworth MH, 2nd, Treacy D, Trombetta JJ, et al.  Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq. Science. 2016;352(6282):189–196.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4944528</ArticleId>
+            <ArticleId IdType="pubmed">27124452</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang C, He H, Hu X, Liu A, Huang D, Xu Y, Chen L, Xu D. Development and validation of a metastasis-associated prognostic signature based on single-cell RNA-seq in clear cell renal cell carcinoma. Aging. 2019;11(22):10183–10202.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6914399</ArticleId>
+            <ArticleId IdType="pubmed">31747386</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aceto N, Bardia A, Miyamoto DT, Donaldson MC, Wittner BS, Spencer JA, et al.  Circulating tumor cell clusters are oligoclonal precursors of breast cancer metastasis. Cell. 2014;158(5):1110–1122.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4149753</ArticleId>
+            <ArticleId IdType="pubmed">25171411</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ting DT, Wittner BS, Ligorio M, Vincent Jordan N, Shah AM, Miyamoto DT, et al.  Single-cell RNA sequencing identifies extracellular matrix gene expression by pancreatic circulating tumor cells. Cell Rep. 2014;8(6):1905–1918.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4230325</ArticleId>
+            <ArticleId IdType="pubmed">25242334</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaham U, Stanton KP, Zhao J, Li H, Raddassi K, Montgomery R, Kluger Y. Removal of batch effects using distributionmatching residual networks. Bioinformatics. 2017;33:2539–2546.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5870543</ArticleId>
+            <ArticleId IdType="pubmed">28419223</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li X, Wang K, Lyu Y, Pan H, Zhang J, Stambolian D, Susztak K, Reilly MP, Hu G, Li M. Deep learning enables accurate clustering with batch effect removal in single-cell RNA-seq analysis. Nat Commun. 2020;11:2338–2351.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7214470</ArticleId>
+            <ArticleId IdType="pubmed">32393754</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Elbashir MK, Ezz M, Mohammed M, Saloum SS. Lightweight convolutional neural network for breast cancer classification using RNA-seq gene expression data. IEEE Access. 2019;7:185338–185348.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ding J, Condon A, Shah SP. Interpretable dimensionality reduction of single cell transcriptome data with deep generative models. Nat Commun. 2018;9:1–13.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5760687</ArticleId>
+            <ArticleId IdType="pubmed">29317637</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barbie DA, Tamayo P, Boehm JS, Kim SY, Moody SE, Dunn IF, Schinzel AC, Sandy P, Meylan E, Scholl C, et al.  Systematic RNA interference reveals that oncogenic KRAS-driven cancers require TBK1. Nature. 2009;462:108–112.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2783335</ArticleId>
+            <ArticleId IdType="pubmed">19847166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lauria A, Peirone S, Giudice MD, Priante F, Rajan P, Caselle M, Oliviero S, Cereda M. Identification of altered biological processes in heterogeneous RNA-sequencing data by discretization of expression profiles. Nucleic Acids Res. 2020;48:1730–1747.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7038995</ArticleId>
+            <ArticleId IdType="pubmed">31889184</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen R, Yang L, Goodison S, Sun Y. Deep-learning approach to identifying cancer subtypes using high-dimensional genomic data. Bioinformatics. 2020;36:1476–1483.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8215925</ArticleId>
+            <ArticleId IdType="pubmed">31603461</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gao F, Wang W, Tan M, Zhu L, Zhang Y, Fessler E, Vermeulen L, Wang X. DeepCC: a novel deep learning-based framework for cancer molecular subtype classification. Oncogenesis. 2019;8(9):44–55.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6697729</ArticleId>
+            <ArticleId IdType="pubmed">31420533</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng Q, Li J, Fan F, Cao H, Dai Z-Y, Wang Z-Y, Feng S-S. Identification and analysis of glioblastoma biomarkers based on single cell sequencing. Front Bioeng Biotechnol. 2020;8:167–173.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7066068</ArticleId>
+            <ArticleId IdType="pubmed">32195242</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang J, Guan M, Wang Q, Zhang J, Zhou T, Sun X. Single-cell transcriptome-based multilayer network biomarker for predicting prognosis and therapeutic response of gliomas. Brief Bioinform. 2020;21:1080–1097.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31329830</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen G, Ning B, Shi T. Single-cell RNA-seq technologies and related computational data analysis. Front Genet. 2019;10:317–346.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6460256</ArticleId>
+            <ArticleId IdType="pubmed">31024627</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Y, He X, Nie H, Zhou J, Cao P, Ou C. Application of artificial intelligence to the diagnosis and therapy of colorectal cancer. Am J Cancer Res. 2020;10(11):3575–3598.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7716173</ArticleId>
+            <ArticleId IdType="pubmed">33294256</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poudineh M, Aldridge PM, Ahmed S, Green BJ, Kermanshah L, Nguyen V, Tu C, Mohamadi RM, Nam RK, Hansen A, et al.  Tracking the dynamics of circulating tumour cell phenotypes using nanoparticle-mediated magnetic ranking. Nat Nanotechnol. 2017;12(3):274–281.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27870841</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poonpanichakul T, Shiao MS, Jiravejchakul N, Matangkasombut P, Sirachainan E, Charoensawan V, et al.  Capturing tumour heterogeneity in pre- and post-chemotherapy colorectal cancer ascites-derived cells using single-cell RNA-sequencing. Biosci Rep. 2021;41(12):BSR20212093.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8655500</ArticleId>
+            <ArticleId IdType="pubmed">34708245</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Joosse SA, Gorges TM, Pantel K. Biology, detection, and clinical implications of circulating tumor cells. EMBO Mol Med. 2015;7(1):1–11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4309663</ArticleId>
+            <ArticleId IdType="pubmed">25398926</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Su Z, Wang Z, Ni X, Duan J, Gao Y, Zhuo M, et al.  Inferring the evolution and progression of small-cell lung cancer by single-cell sequencing of circulating tumor cells. Clin Cancer Res. 2019;25(16):5049–5060.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31113842</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kwan TT, Bardia A, Spring LM, Giobbie-Hurder A, Kalinich M, Dubash T, et al.  A digital RNA signature of circulating tumor cells predicting early therapeutic response in localized and metastatic breast cancer. Cancer Discov. 2018;8(10):1286–1299.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6170694</ArticleId>
+            <ArticleId IdType="pubmed">30104333</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Powell AA, Talasaz AH, Zhang H, Coram MA, Reddy A, Deng G, et al.  Single cell profiling of circulating tumor cells: transcriptional heterogeneity and diversity from breast cancer cell lines. PLoS ONE. 2012;7(5):e33788.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3346739</ArticleId>
+            <ArticleId IdType="pubmed">22586443</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lohr JG, Adalsteinsson VA, Cibulskis K, Choudhury AD, Rosenberg M, Cruz-Gordillo P, et al.  Whole-exome sequencing of circulating tumor cells provides a window into metastatic prostate cancer. NatBiotechnol. 2014;32(5):479–484.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Miyamoto DT, Lee RJ, Kalinich M, LiCausi JA, Zheng Y, Chen T, et al.  An RNA-based digital circulating tumor cell signature is predictive of drug response and early dissemination in prostate cancer. Cancer Discov. 2018;8(3):288–303.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6342192</ArticleId>
+            <ArticleId IdType="pubmed">29301747</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shih A, Menzin A, Whyte J. Single-cell RNA-seq analysis of primary tumor and corresponding metastatic lesion in high-grade serous ovarian cancer. Clin Cancer Res. 2018;24(15):1611–24.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ween MP, Oehler MK, Ricciardelli C. Role of versican, hyaluronan and CD44 in ovarian cancer metastasis. Int J Mol Sci. 2011;12(2):1009–1029.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3083686</ArticleId>
+            <ArticleId IdType="pubmed">21541039</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schulz M, Michels B, Niesel K, Stein S, Farin H, Rodel F, et al.  Cellular and molecular changes of brain metastases-associated myeloid cells during disease progression and therapeutic response. Science. 2020;23(6):101178.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>He X, Kuang G, Wu Y, Ou C. Emerging roles of exosomal miRNAs in diabetes mellitus. Clin Transl Med. 2021;11(6):468–487.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wu J, Zeng D, Zhi S, Ye Z, Qiu W, Huang N, Sun L, Wang C, Wu Z, Bin J, Liao Y, Shi M, Liao W. Single-cell analysis of a tumor-derived exosome signature correlates with prognosis and immunotherapy response. J Transl Med. 2021;19(1):381.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8424990</ArticleId>
+            <ArticleId IdType="pubmed">34496872</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fathi M, Joseph R, Adolacion JRT, Martinez-Paniagua M, An X, Gabrusiewicz K, Mani SA, Varadarajan N. Single-cell cloning of breast cancer cells secreting specific subsets of extracellular vesicles. Cancers (Basel) 2021;13(17):4397.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8430892</ArticleId>
+            <ArticleId IdType="pubmed">34503207</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Y, Liang Y, Xu H, Zhang X, Mao T, Cui J, et al.  Single-cell analysis of pancreatic ductal adenocarcinoma identifies a novel fibroblast subtype associated with poor prognosis but better immunotherapy response. Cell Discov. 2021;7(1):36–52.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8149399</ArticleId>
+            <ArticleId IdType="pubmed">34035226</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang R, Song S, Harada K, Ghazanfari Amlashi F, Badgwell B, Pizzi MP, et al.  Multiplex profiling of peritoneal metastases from gastric adenocarcinoma identified novel targets and molecular subtypes that predict treatment response. Gut. 2020;69(1):18–31.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6943252</ArticleId>
+            <ArticleId IdType="pubmed">31171626</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fairfax BP, Taylor CA, Watson RA, Nassiri I, Danielli S, Fang H, et al.  Peripheral CD8(+) T cell characteristics associated with durable responses to immune checkpoint blockade in patients with metastatic melanoma. Nat Med. 2020;26(2):193–199.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7611047</ArticleId>
+            <ArticleId IdType="pubmed">32042196</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim KT, Lee HW, Lee HO, Song HJ, da Jeong E, Shin S, et al.  Application of single-cell RNA sequencing in optimizing a combinatorial therapeutic strategy in metastatic renal cell carcinoma. Genome Biol. 2016;17:80–96.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4852434</ArticleId>
+            <ArticleId IdType="pubmed">27139883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shapiro E, Biezuner T, Linnarsson S. Single-cell sequencing-based technologies will revolutionize whole-organism science. Nat Rev Genet. 2013;14(9):618–630.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23897237</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ren X, Kang B, Zhang Z. Understanding tumor ecosystems by single-cell sequencing: promises and limitations. Genome Biol. 2018;19(1):211.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6276232</ArticleId>
+            <ArticleId IdType="pubmed">30509292</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rozenblatt-Rosen O, Regev A, Oberdoerffer P, Nawy T, Hupalowska A, Rood JE, et al.  The human tumor atlas network: charting tumor transitions across space and time at single-cell resolution. Cell. 2020;181(2):236–249.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7376497</ArticleId>
+            <ArticleId IdType="pubmed">32302568</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Théry C, Ostrowski M, Segura E. Membrane vesicles as conveyors of immune responses. Nat Rev Immunol. 2009;9(8):581–593.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19498381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

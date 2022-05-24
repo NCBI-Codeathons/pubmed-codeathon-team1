@@ -1,0 +1,390 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35239622</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>26</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>26</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1537-4505</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>43</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Apr</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Otology &amp; neurotology : official publication of the American Otological Society, American Neurotology Society [and] European Academy of Otology and Neurotology</Title>
+          <ISOAbbreviation>Otol Neurotol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>An Artificial Intelligence Computer-vision Algorithm to Triage Otoscopic Images From Australian Aboriginal and Torres Strait Islander Children.</ArticleTitle>
+        <Pagination>
+          <StartPage>481</StartPage>
+          <EndPage>488</EndPage>
+          <MedlinePgn>481-488</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1097/MAO.0000000000003484</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE">To develop an artificial intelligence image classification algorithm to triage otoscopic images from rural and remote Australian Aboriginal and Torres Strait Islander children.</AbstractText>
+          <AbstractText Label="STUDY DESIGN">Retrospective observational study.</AbstractText>
+          <AbstractText Label="SETTING">Tertiary referral center.</AbstractText>
+          <AbstractText Label="PATIENTS">Rural and remote Aboriginal and Torres Strait Islander children who underwent tele-otology ear health screening in the Northern Territory, Australia between 2010 and 2018.</AbstractText>
+          <AbstractText Label="INTERVENTIONS">Otoscopic images were labeled by otolaryngologists to classify the ground truth. Deep and transfer learning methods were used to develop an image classification algorithm.</AbstractText>
+          <AbstractText Label="MAIN OUTCOME MEASURES">Accuracy, sensitivity, specificity, positive predictive value, negative predictive value, area under the curve (AUC) of the resultant algorithm compared with the ground truth.</AbstractText>
+          <AbstractText Label="RESULTS">Six thousand five hundred twenty seven images were used (5927 images for training and 600 for testing). The algorithm achieved an accuracy of 99.3% for acute otitis media, 96.3% for chronic otitis media, 77.8% for otitis media with effusion (OME), and 98.2% to classify wax/obstructed canal. To differentiate between multiple diagnoses, the algorithm achieved 74.4 to 92.8% accuracy and an AUC of 0.963 to 0.997. The most common incorrect classification pattern was OME misclassified as normal tympanic membranes.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">The paucity of access to tertiary otolaryngology care for rural and remote Aboriginal and Torres Strait Islander communities may contribute to an under-identification of ear disease. Computer vision image classification algorithms can accurately classify ear disease from otoscopic images of Indigenous Australian children. In the future, a validated algorithm may integrate with existing telemedicine initiatives to support effective triage and facilitate early treatment and referral.</AbstractText>
+          <CopyrightInformation>Copyright © 2022, Otology &amp; Neurotology, Inc.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Habib</LastName>
+            <ForeName>Al-Rahim</ForeName>
+            <Initials>AR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sydney Medical School, Faculty of Medicine and Health, University of Sydney, Camperdown, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology-Head and Neck Surgery, Princess Alexandra Hospital, Brisbane, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology - Head and Neck Surgery, Westmead Hospital, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Crossland</LastName>
+            <ForeName>Graeme</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology - Head and Neck Surgery, Royal Darwin Hospital, Darwin, Northern Territory, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Patel</LastName>
+            <ForeName>Hemi</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology - Head and Neck Surgery, Royal Darwin Hospital, Darwin, Northern Territory, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wong</LastName>
+            <ForeName>Eugene</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sydney Medical School, Faculty of Medicine and Health, University of Sydney, Camperdown, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology - Head and Neck Surgery, Westmead Hospital, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kong</LastName>
+            <ForeName>Kelvin</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Medicine and Public Health, University of Newcastle, Newcastle, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Linguistics, Faculty of Medicine, Macquarie University, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>School of Population Health, Faculty of Medicine, University of New South Wales, Sydney, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gunasekera</LastName>
+            <ForeName>Hasantha</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sydney Medical School, Faculty of Medicine and Health, University of Sydney, Camperdown, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The Children's Hospital at Westmead, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Richards</LastName>
+            <ForeName>Brent</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Medical Services, Gold Coast University Hospital, Gold Coast, Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Griffith Health, Griffith University Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Caffery</LastName>
+            <ForeName>Liam</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Online Health, University of Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Perry</LastName>
+            <ForeName>Chris</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Online Health, University of Queensland, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sacks</LastName>
+            <ForeName>Raymond</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sydney Medical School, Faculty of Medicine and Health, University of Sydney, Camperdown, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kumar</LastName>
+            <ForeName>Ashnil</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Biomedical Engineering, Faculty of Engineering, University of Sydney, Camperdown, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Singh</LastName>
+            <ForeName>Narinder</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sydney Medical School, Faculty of Medicine and Health, University of Sydney, Camperdown, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology - Head and Neck Surgery, Westmead Hospital, Sydney, New South Wales, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D064888">Observational Study</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Otol Neurotol</MedlineTA>
+        <NlmUniqueID>100961504</NlmUniqueID>
+        <ISSNLinking>1531-7129</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001185" MajorTopicYN="N">Artificial Intelligence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001315" MajorTopicYN="N" Type="Geographic">Australia</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003201" MajorTopicYN="N">Computers</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004427" MajorTopicYN="Y">Ear Diseases</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D044468" MajorTopicYN="N">Native Hawaiian or Other Pacific Islander</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010033" MajorTopicYN="Y">Otitis Media</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010034" MajorTopicYN="Y">Otitis Media with Effusion</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014218" MajorTopicYN="N">Triage</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors disclose no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>3</Day>
+          <Hour>17</Hour>
+          <Minute>13</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35239622</ArticleId>
+        <ArticleId IdType="doi">10.1097/MAO.0000000000003484</ArticleId>
+        <ArticleId IdType="pii">00129492-900000000-95372</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Jervis-Bardy J, Sanchez L, Carney AS. Otitis media in indigenous australian children: review of epidemiology and risk factors. J Laryngol Otol 2014; 128: (suppl): S16–S27.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Australian Institute of Health and Welfare. Indigenous Hearing Health; 2020. Available at: https://www.aihw.gov.au/reports/australias-health/indigenous-hearing-health. Accessed February 1, 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>World Health Organization. Australia's disturbing health disparities set Aboriginals apart. Bull World Health Organ 2008; 86:241–320.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Leach AJ. Otitis media in Australian Aboriginal children: an overview. Int J Pediatr Otorhinolaryngol 1999; 49: (suppl): S173–S178.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gunasekera H, Morris PS, Daniels J, Couzos S, Craig JC. Otitis media in Aboriginal children: the discordance between burden of illness and access to services in rural/remote and urban Australia. J Paediatr Child Health 2009; 45:425–430.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kaplan HS, Trumble BC, Stieglitz J, et al. Voluntary collective isolation as a best response to COVID-19 for indigenous populations? A case study and protocol from the Bolivian Amazon. Lancet 2020; 395:1727–1734.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Australian Medical Association. Report Card on Indigenous Health: A National Strategic Approach to Ending Chronic Otitis Media and its Life Long Impacts in Indigenous Communities; 2017.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Elliott G, Smith AC, Bensink ME, et al. The feasibility of a community-based mobile telehealth screening service for Aboriginal and Torres Strait Islander children in Australia. Telemed e-Health 2010; 16:950–956.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shein G, Hunter K, Gwynne K, et al. The O. P. E. N. Survey: outreach projects in ear, nose and throat (ENT) in New South Wales. Aust J Otolaryngol 2019; 2:14.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Graham AG, Macniven R, Kong K, Gwynne K. Effectiveness of ear, nose and throat outreach programmes for Aboriginal and Torres Strait Islander Australians: a systematic review. BMJ Open 2020; 10:e038273.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Goggin LS, Eikelboom RH, Atlas MD. Clinical decision support systems and computer-aided diagnosis in otology. Otolaryngol Head Neck Surg 2007; 136: (4 suppl): 21–26.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Centre for Eye Research Australia. Artificial intelligence: the future of eye screening | CERA. Available at: https://www.cera.org.au/2019/07/artificial-intelligence-the-future-of-eye-screening/. Accessed May 22, 2021.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Centre for Eye Research Australia. Using AI to help close the eye health care gap | CERA. Available at: https://www.cera.org.au/2019/07/using-ai-to-help-close-the-eye-health-care-gap/. Accessed May 22, 2021.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kasher MS. Otitis Media Analysis-An Automated Feature Extraction and Image Classification System; 2018. Available at: https://www.theseus.fi/handle/10024/144562. Accessed March 5, 2019.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Basaran E, Comert Z, Sengur A, Budak U, Celik Y, Togacar M. Chronic tympanic membrane diagnosis based on deep convolutional neural network. UBMK 2019 - Proceedings, 4th Int Conf Comput Sci Eng., 2019:635–638. doi:10.1109/UBMK.2019.8907070. Accessed September 25, 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Habib A-R, Wong E, Sacks R, Singh N. Artificial intelligence to detect tympanic membrane perforations. J Laryngol Otol 2020; 134:311–315.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Seok J, Song J-J, Koo J-W, et al. The semantic segmentation approach for normal and pathologic tympanic membrane using deep learning. 2019. Available at: https://www.biorxiv.org/content/10.1101/515007v2.full. Accessed March 3, 2019.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Myburgh HC, van Zijl WH, Swanepoel DW, Hellström S, Laurent C. Otitis media diagnosis for developing countries using tympanic membrane image-analysis. EBioMedicine 2016; 5:156–160.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Myburgh HC, Jose S, Swanepoel DW, Laurent C. Towards low cost automated smartphone- and cloud-based otitis media diagnosis. Biomed Signal Process Control 2018; 39:34–52.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>World Medical Association. World Medical Association Declaration of Helsinki: ethical principles for medical research involving human subjects. JAMA 2013; 310:2191–2194.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wu Z, Lin Z, Li L, et al. Deep learning for classification of pediatric otitis media. Laryngoscope 2021; 131:E2344–E2351.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Livingstone D, Chau J. Otoscopic diagnosis using computer vision: an automated machine learning approach. Laryngoscope 2019; 130:1408–1413.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Delacy J, Dune T, MacDonald JJ. The social determinants of otitis media in aboriginal children in Australia: are we addressing the primary causes? A systematic content review. BMC Public Health 2020; 20:1–9.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Australian Human Rights Commission. Close the Gap: Indigenous Health Campaign | Australian Human Rights Commission. Available at: https://humanrights.gov.au/our-work/aboriginal-and-torres-strait-islander-social-justice/projects/close-gap-indigenous-health. Accessed April 29, 2021.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Smith AC, Brown C, Bradford N, Caffery LJ, Perry C, Armfield NR. Monitoring ear health through a telemedicine-supported health screening service in Queensland. J Telemed Telecare 2015; 21:427–430.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bhaskar S, Bradley S, Sakhamuri S, et al. Designing futuristic telemedicine using artificial intelligence and robotics in the COVID-19 era. Front Public Heal 2020; 8:556789.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Singh AK, Kasle DA, Jiang R, et al. A review of telemedicine applications in otorhinolaryngology: considerations during the coronavirus disease of 2019 pandemic. Laryngoscope 2021; 131:744–759.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Smith AC, Perry C, Agnew J, Wootton R. Accuracy of pre-recorded video images for the assessment of rural indigenous children with ear, nose and throat conditions. J Telemed Telecare 2006; 12: (suppl): 76–80.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kokesh J, Ferguson AS, Patricoski C. Preoperative planning for ear surgery using store-and-forward telemedicine. Otolaryngol Head Neck Surg 2010; 143:253–257.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kokesh J, Ferguson AS, Patricoski C, LeMaster B. Traveling an audiologist to provide otolaryngology care using store-and-forward telemedicine. Telemed J E Health 2009; 15:758–763.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cha D, Shin SH, Kim J, et al. Feasibility of asynchronous and automated telemedicine in otolaryngology: prospective cross-sectional study. JMIR Med Inform 2020; 8:e23680.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Viscaino M, Maass JC, Delano PH, Torrente M, Stott C, Auat Cheein F. Computer-aided diagnosis of external and middle ear conditions: a machine learning approach. PLoS One 2020; 15:1–18.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Khan MA, Kwon S, Choo J, et al. Automatic detection of tympanic membrane and middle ear infection from oto-endoscopic images via convolutional neural networks. Neural Networks 2020; 126:384–394.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Alhudhaif A, Cömert Z, Polat K. Otitis media detection using tympanic membrane images with a novel multi-class machine learning algorithm. PeerJ Comput Sci 2021; 7:e405.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Morris PS, Leach AJ, Silberberg P, et al. Otitis media in young Aboriginal children from remote communities in Northern and Central Australia: a cross-sectional survey. BMC Pediatr 2005; 5:1–10.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pichichero ME. Assessing diagnostic accuracy and tympanocentesis skills of South African physicians in management of otitis media. South African Med J 2002; 92:137–138.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kaur H, Pannu HS, Malhi AK. A systematic review on imbalanced data challenges in machine learning. ACM Comput Surv 2019; 52:1–36.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Vanneste P, Page C. Otitis media with effusion in children: pathophysiology, diagnosis, and treatment. A review. J Otol 2019; 14:33–39.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Basaran E, Comert Z, Celik Y. Convolutional neural network approach for automatic tympanic membrane detection and classification. Biomed Signal Process Control 2020; 56:1–14.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cai Y, Yu JG, Chen Y, et al. Investigating the use of a two-stage attention-aware convolutional neural network for the automated diagnosis of otitis media from tympanic membrane images: a prediction model development and validation study. BMJ Open 2021; 11:1–7.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pichichero ME, Poole MD. Comparison of performance by otolaryngologists, pediatricians, and general practioners on an otoendoscopic diagnostic video examination. Int J Pediatr Otorhinolaryngol 2005; 69:361–366.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Crowson MG, Hartnick CJ, Diercks GR, et al. Machine learning for accurate intraoperative pediatric middle ear effusion diagnosis. Pediatrics 2021; 147:e2020034546.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gates GA, Cooper JC. Effect of anesthetic gases on middle ear pressure in the presence of effusion. Ann Otol Rhinol Laryngol Suppl 1980; 89 (3 pt 2):62–64.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Takata GS, Chan LS, Morphew T, Mangione-Smith R, Morton SC, Shekelle P. Evidence assessment of the accuracy of methods of diagnosing middle ear effusion in children with otitis media with effusion. Pediatrics 2003; 112:1379–1387.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

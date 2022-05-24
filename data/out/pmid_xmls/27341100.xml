@@ -1,0 +1,657 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">27341100</PMID>
+      <DateCompleted>
+        <Year>2017</Year>
+        <Month>06</Month>
+        <Day>09</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>02</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">1553-7358</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>12</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>PLoS computational biology</Title>
+          <ISOAbbreviation>PLoS Comput Biol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Prospective Coding by Spiking Neurons.</ArticleTitle>
+        <Pagination>
+          <StartPage>e1005003</StartPage>
+          <MedlinePgn>e1005003</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">e1005003</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pcbi.1005003</ELocationID>
+        <Abstract>
+          <AbstractText>Animals learn to make predictions, such as associating the sound of a bell with upcoming feeding or predicting a movement that a motor command is eliciting. How predictions are realized on the neuronal level and what plasticity rule underlies their learning is not well understood. Here we propose a biologically plausible synaptic plasticity rule to learn predictions on a single neuron level on a timescale of seconds. The learning rule allows a spiking two-compartment neuron to match its current firing rate to its own expected future discounted firing rate. For instance, if an originally neutral event is repeatedly followed by an event that elevates the firing rate of a neuron, the originally neutral event will eventually also elevate the neuron's firing rate. The plasticity rule is a form of spike timing dependent plasticity in which a presynaptic spike followed by a postsynaptic spike leads to potentiation. Even if the plasticity window has a width of 20 milliseconds, associations on the time scale of seconds can be learned. We illustrate prospective coding with three examples: learning to predict a time varying input, learning to predict the next stimulus in a delayed paired-associate task and learning with a recurrent network to reproduce a temporally compressed version of a sequence. We discuss the potential role of the learning mechanism in classical trace conditioning. In the special case that the signal to be predicted encodes reward, the neuron learns to predict the discounted future reward and learning is closely related to the temporal difference learning algorithm TD(λ).</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Brea</LastName>
+            <ForeName>Johanni</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Physiology, University of Bern, Bern, Switzerland.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>School of Computer and Communication Sciences and School of Life Sciences, Brain-Mind Institute, Ecole Polytechnique Fédérale de Lausanne, Lausanne, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gaál</LastName>
+            <ForeName>Alexisz Tamás</ForeName>
+            <Initials>AT</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Physiology, University of Bern, Bern, Switzerland.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Courant Institute of Mathematical Sciences, New York University, New York, New York, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Urbanczik</LastName>
+            <ForeName>Robert</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Physiology, University of Bern, Bern, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Senn</LastName>
+            <ForeName>Walter</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Physiology, University of Bern, Bern, Switzerland.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Cognition, Learning and Memory, University of Bern, Bern, Switzerland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2016</Year>
+          <Month>06</Month>
+          <Day>24</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>PLoS Comput Biol</MedlineTA>
+        <NlmUniqueID>101238922</NlmUniqueID>
+        <ISSNLinking>1553-734X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000200" MajorTopicYN="N">Action Potentials</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003712" MajorTopicYN="N">Dendrites</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008251" MajorTopicYN="N">Macaca</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008959" MajorTopicYN="Y">Models, Neurological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009473" MajorTopicYN="N">Neuronal Plasticity</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2015</Year>
+          <Month>6</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2016</Year>
+          <Month>6</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2016</Year>
+          <Month>6</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2016</Year>
+          <Month>6</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2017</Year>
+          <Month>6</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">27341100</ArticleId>
+        <ArticleId IdType="pmc">PMC4920376</ArticleId>
+        <ArticleId IdType="doi">10.1371/journal.pcbi.1005003</ArticleId>
+        <ArticleId IdType="pii">PCOMPBIOL-D-15-01025</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>
+Rainer G, Rao SC, Miller EK (1999) Prospective Coding for Objects in Primate Prefrontal Cortex. The Journal of Neuroscience
+19: 5493–5505. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6782318</ArticleId>
+            <ArticleId IdType="pubmed">10377358</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Reutimann J, Yakovlev V, Fusi S, Senn W (2004) Climbing Neuronal Activity as an Event-Based Cortical Representation of Time. Journal of Neuroscience
+24: 3295–3303. 10.1523/JNEUROSCI.4098-03.2004
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.4098-03.2004</ArticleId>
+            <ArticleId IdType="pmc">PMC6730018</ArticleId>
+            <ArticleId IdType="pubmed">15056709</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Pavlov IP (1927). Conditioned reflexes: an investigation of the physiological activity of the cerebral cortex. Oxford Univ. Press</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Bangasser DA, Waxler DE, Santollo J, Shors TJ (2006) Trace conditioning and the hippocampus: the importance of contiguity. The Journal of Neuroscience
+26: 8702–6. 10.1523/JNEUROSCI.1742-06.2006
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.1742-06.2006</ArticleId>
+            <ArticleId IdType="pmc">PMC3289537</ArticleId>
+            <ArticleId IdType="pubmed">16928858</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Li N, Chen Tw, Guo ZV, Gerfen CR, Svoboda K (2016) A motor cortex circuit for motor planning and movement. Nature
+519: 51–56. 10.1038/nature14178</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature14178</ArticleId>
+            <ArticleId IdType="pubmed">25731172</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Liu Z, Zhou J, Li Y, Hu F, Lu Y, et al. (2014) Dorsal raphe neurons signal reward through 5-HT and glutamate. Neuron
+81: 1360–74. 10.1016/j.neuron.2014.02.010
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2014.02.010</ArticleId>
+            <ArticleId IdType="pmc">PMC4411946</ArticleId>
+            <ArticleId IdType="pubmed">24656254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Howe MW, Tierney PL, Sandberg SG, Phillips PEM, Graybiel AM (2013) Prolonged dopamine signalling in striatum signals proximity and value of distant rewards. Nature
+500: 575–9. 10.1038/nature12475
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature12475</ArticleId>
+            <ArticleId IdType="pmc">PMC3927840</ArticleId>
+            <ArticleId IdType="pubmed">23913271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+van der Meer MAA, Redish AD (2011) Theta phase precession in rat ventral striatum links place and reward information. The Journal of Neuroscience
+31: 2843–2854. 10.1523/JNEUROSCI.4869-10.2011
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.4869-10.2011</ArticleId>
+            <ArticleId IdType="pmc">PMC3758553</ArticleId>
+            <ArticleId IdType="pubmed">21414906</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Quintana J, Fuster JM (1999) From perception to action: Temporal integrative functions of prefrontal and parietal neurons. Cerebral Cortex
+9: 213–221. 10.1093/cercor/9.3.213
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/cercor/9.3.213</ArticleId>
+            <ArticleId IdType="pubmed">10355901</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Miller EK, Erickson Ca, Desimone R (1996) Neural mechanisms of visual working memory in prefrontal cortex of the macaque. The Journal of Neuroscience
+16: 5154–5167. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6579322</ArticleId>
+            <ArticleId IdType="pubmed">8756444</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Sakai K, Miyashita Y (1991) Neural organization for the long-term memory of paired associates. Nature
+354: 152–155. 10.1038/354152a0
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/354152a0</ArticleId>
+            <ArticleId IdType="pubmed">1944594</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Markram H, Lübke J, Frotscher M, Sakmann B (1997) Regulation of synaptic efficacy by coincidence of postsynaptic APs and EPSPs. Science
+275: 213–5. 10.1126/science.275.5297.213
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.275.5297.213</ArticleId>
+            <ArticleId IdType="pubmed">8985014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bi GQ, Poo M (2001) Synaptic modification by correlated activity: Hebb’s postulate revisited. Annu Rev Neurosci
+24: 139–66. 10.1146/annurev.neuro.24.1.139
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev.neuro.24.1.139</ArticleId>
+            <ArticleId IdType="pubmed">11283308</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Cichon J, Gan W (2015) Branch-specific dendritic Ca2+ spikes cause persistent synaptic plasticity. Nature
+520: 180–5
+10.1038/nature14251
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature14251</ArticleId>
+            <ArticleId IdType="pmc">PMC4476301</ArticleId>
+            <ArticleId IdType="pubmed">25822789</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Yagishita S, Hayashi-Takagi A, Ellis-Davies GC, Urakubo H, Ishii S, et al. (2014) A critical time window for dopamine actions on the structural plasticity of dendritic spines. Science
+345: 1616–1620. 10.1126/science.1255514
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1255514</ArticleId>
+            <ArticleId IdType="pmc">PMC4225776</ArticleId>
+            <ArticleId IdType="pubmed">25258080</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Pfister JP, Toyoizumi T, Barber D, Gerstner W (2006) Optimal spike-timing-dependent plasticity for precise action potential firing in supervised learning. Neural Computation
+18: 1318–1348. 10.1162/neco.2006.18.6.1318
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/neco.2006.18.6.1318</ArticleId>
+            <ArticleId IdType="pubmed">16764506</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Brea J, Senn W, Pfister JP (2013) Matching recall and storage in sequence learning with spiking neural networks. The Journal of Neuroscience
+33: 9565–75. 10.1523/JNEUROSCI.4098-12.2013
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.4098-12.2013</ArticleId>
+            <ArticleId IdType="pmc">PMC6619697</ArticleId>
+            <ArticleId IdType="pubmed">23739954</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Urbanczik R, Senn W (2014) Learning by the Dendritic Prediction of Somatic Spiking. Neuron
+81: 521–528. 10.1016/j.neuron.2013.11.030
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2013.11.030</ArticleId>
+            <ArticleId IdType="pubmed">24507189</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wise S, Boussaoud D, Johnson P, Caminiti R (1997) Premotor and parietal cortex: corticocortical connectivity and combinatorial computations. Annu Rev Neurosci
+20: 25–42. 10.1146/annurev.neuro.20.1.25
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev.neuro.20.1.25</ArticleId>
+            <ArticleId IdType="pubmed">9056706</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Jaakkola T, Jordan MI, Singh S (1994) On the Convergence of Stochastic Iterative Dynamic Programming Algorithms. Neural Computation
+6: 1185–1201. 10.1162/neco.1994.6.6.1185</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/neco.1994.6.6.1185</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Dayan P (1992) The convergence of TD(λ) for general λ. Machine Learning
+8: 341–362. 10.1007/BF00992701</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/BF00992701</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Sutton RS (1988) Learning to Predict by the Methods of Temporal Differences. Machine Learning
+3: 9–44. 10.1023/A:1022633531479</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1023/A:1022633531479</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Urbanczik R, Senn W (2009) Reinforcement learning in populations of spiking neurons. Nature Neuroscience
+12: 250–2
+10.1038/nn.2264
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.2264</ArticleId>
+            <ArticleId IdType="pubmed">19219040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Friedrich J, Urbanczik R, Senn W (2011) Spatio-temporal credit assignment in neuronal population learning. PLoS Computational Biology
+7: e1002092
+10.1371/journal.pcbi.1002092
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1002092</ArticleId>
+            <ArticleId IdType="pmc">PMC3127803</ArticleId>
+            <ArticleId IdType="pubmed">21738460</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Gavornik J, Shuler M, Loewenstein Y, Bear M, Shouval HZ (2009) Learning reward timing in cortex through reward dependent expression of synaptic plasticity. Supporting Material. Proceedings of the National Academy of Sciences
+106: 6826
+10.1073/pnas.0901835106</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0901835106</ArticleId>
+            <ArticleId IdType="pmc">PMC2672535</ArticleId>
+            <ArticleId IdType="pubmed">19346478</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+He K, Huertas M, Hong S, Tie X, Hell J, et al. (2015) Distinct Eligibility Traces for LTP and LTD in Cortical Synapses. Neuron. 10.1016/j.neuron.2015.09.037</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2015.09.037</ArticleId>
+            <ArticleId IdType="pmc">PMC4660261</ArticleId>
+            <ArticleId IdType="pubmed">26593091</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Solomon PR, Vander Schaaf ER, Thompson RF, Weisz DJ (1986) Hippocampus and trace conditioning of the rabbit’s classically conditioned nictitating membrane response. Behavioral Neuroscience
+100: 729–744. 10.1037/0735-7044.100.5.729
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1037/0735-7044.100.5.729</ArticleId>
+            <ArticleId IdType="pubmed">3778636</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Churchland MM, Yu BM, Cunningham JP, Sugrue LP, Cohen MR, et al. (2010) Stimulus onset quenches neural variability: a widespread cortical phenomenon. Nature neuroscience
+13: 369–78. 10.1038/nn.2501
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.2501</ArticleId>
+            <ArticleId IdType="pmc">PMC2828350</ArticleId>
+            <ArticleId IdType="pubmed">20173745</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Churchland MM, Abbott LF (2012) Two layers of neural variability. Nature Neuroscience
+15: 1472–1474. 10.1038/nn.3247
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.3247</ArticleId>
+            <ArticleId IdType="pubmed">23103992</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Laje R, Buonomano DV (2013) Robust timing and motor patterns by taming chaos in recurrent neural networks. Nature Neuroscience
+16: 925–933. 10.1038/nn.3405
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.3405</ArticleId>
+            <ArticleId IdType="pmc">PMC3753043</ArticleId>
+            <ArticleId IdType="pubmed">23708144</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Hennequin G, Vogels T, Gerstner W (2014) Optimal Control of Transient Dynamics in Balanced Networks Supports Generation of Complex Movements. Neuron
+82: 1394–1406. 10.1016/j.neuron.2014.04.045
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2014.04.045</ArticleId>
+            <ArticleId IdType="pmc">PMC6364799</ArticleId>
+            <ArticleId IdType="pubmed">24945778</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ludvig EEA, Sutton RRS, Verbeek E, Kehoe EJ (2009) A computational model of hippocampal function in trace conditioning. In: Advances in Neural Information Processing Systems 21, Curran Associates, Inc. pp. 993–1000.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Xu S, Jiang W, Poo MM, Dan Y (2012) Activity recall in a visual cortical ensemble. Nature Neuroscience
+15: 449–455. 10.1038/nn.3036
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.3036</ArticleId>
+            <ArticleId IdType="pmc">PMC3288189</ArticleId>
+            <ArticleId IdType="pubmed">22267160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Davidson TJ, Kloosterman F, Wilson Ma (2009) Hippocampal Replay of Extended Experience. Neuron
+63: 497–507. 10.1016/j.neuron.2009.07.027
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2009.07.027</ArticleId>
+            <ArticleId IdType="pmc">PMC4364032</ArticleId>
+            <ArticleId IdType="pubmed">19709631</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Ziegler L, Zenke F, Kastner DB, Gerstner W (2015) Synaptic Consolidation: From Synapses to Behavioral Modeling. Journal of Neuroscience
+35: 1319–1334. 10.1523/JNEUROSCI.3989-14.2015
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.3989-14.2015</ArticleId>
+            <ArticleId IdType="pmc">PMC6605543</ArticleId>
+            <ArticleId IdType="pubmed">25609644</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Clopath C, Ziegler L, Vasilaki E, Büsing L, Gerstner W (2008) Tag-Trigger-Consolidation: A Model of Early and Late Long-Term-Potentiation and Depression. PLoS Computational Biology
+4: e1000248
+10.1371/journal.pcbi.1000248
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1000248</ArticleId>
+            <ArticleId IdType="pmc">PMC2596310</ArticleId>
+            <ArticleId IdType="pubmed">19112486</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Pfister JP, Gerstner W (2006) Triplets of spikes in a model of spike timing-dependent plasticity. The Journal of Neuroscience
+26: 9673–82. 10.1523/JNEUROSCI.1425-06.2006
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.1425-06.2006</ArticleId>
+            <ArticleId IdType="pmc">PMC6674434</ArticleId>
+            <ArticleId IdType="pubmed">16988038</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zhang JC, Lau PM, Bi GQ (2009) Gain in sensitivity and loss in temporal contrast of STDP by dopaminergic modulation at hippocampal synapses. Proceedings of the National Academy of Sciences of the United States of America
+106: 13028–13033. 10.1073/pnas.0900546106
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0900546106</ArticleId>
+            <ArticleId IdType="pmc">PMC2713390</ArticleId>
+            <ArticleId IdType="pubmed">19620735</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kolodziejski C, Porr B, Wörgötter F (2009) On the asymptotic equivalence between differential Hebbian and temporal difference learning. Neural Computation
+21: 1173–1202. 10.1162/neco.2008.04-08-750
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/neco.2008.04-08-750</ArticleId>
+            <ArticleId IdType="pubmed">19018698</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Potjans W, Morrison A, Diesmann M (2009) A Spiking Neural Network Model of an Actor-Critic Agent. Neural Computation
+21: 301–339. 10.1162/neco.2008.08-07-593
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/neco.2008.08-07-593</ArticleId>
+            <ArticleId IdType="pubmed">19196231</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Frémaux N, Sprekeler H, Gerstner W (2013) Reinforcement learning using a continuous time actor-critic framework with spiking neurons. PLoS computational biology
+9: e1003024
+10.1371/journal.pcbi.1003024
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1003024</ArticleId>
+            <ArticleId IdType="pmc">PMC3623741</ArticleId>
+            <ArticleId IdType="pubmed">23592970</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Maass W, Natschläger T, Markram H (2002) Real-time computing without stable states: a new framework for neural computation based on perturbations. Neural Computation
+14: 2531–60. 10.1162/089976602760407955
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/089976602760407955</ArticleId>
+            <ArticleId IdType="pubmed">12433288</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Jaeger H, Haas H (2004) Harnessing nonlinearity: predicting chaotic systems and saving energy in wireless communication. Science
+304: 78–80. 10.1126/science.1091277
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1091277</ArticleId>
+            <ArticleId IdType="pubmed">15064413</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Drew PJ, Abbott LF (2006) Extending the effects of spike-timing-dependent plasticity to behavioral timescales. Proceedings of the National Academy of Sciences of the United States of America
+103: 8876–81. 10.1073/pnas.0600676103
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0600676103</ArticleId>
+            <ArticleId IdType="pmc">PMC1470971</ArticleId>
+            <ArticleId IdType="pubmed">16731625</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Huertas MA, Shuler XMGH, Shouval HZ (2015) A Simple Network Architecture Accounts for Diverse Reward Time Responses in Primary Visual Cortex
+35: 12659–12672.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4571602</ArticleId>
+            <ArticleId IdType="pubmed">26377457</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Latimer KW, Yates JL, Meister MLR, Huk AC, Pillow JW (2015) Single-trial spike trains in parietal cortex reveal discrete steps during decision-making. Science
+349: 184–187. 10.1126/science.aaa4056
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aaa4056</ArticleId>
+            <ArticleId IdType="pmc">PMC4799998</ArticleId>
+            <ArticleId IdType="pubmed">26160947</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Palmer SE, Marre O, Berry MJ, Bialek W (2015) Predictive information in a sensory population. PNAS
+112:6908–13. 10.1073/pnas.1506855112
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1506855112</ArticleId>
+            <ArticleId IdType="pmc">PMC4460449</ArticleId>
+            <ArticleId IdType="pubmed">26038544</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kushner HJ, Yin GG (2003) Stochastic Approximation and Recursive Algorithms and Applications, volume 35
+Springer Science &amp; Business Media.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

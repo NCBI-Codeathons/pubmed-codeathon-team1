@@ -1,0 +1,350 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35161879</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>16</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>19</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1424-8220</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>22</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Feb</Month>
+              <Day>02</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Sensors (Basel, Switzerland)</Title>
+          <ISOAbbreviation>Sensors (Basel)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Beyond the Edge: Markerless Pose Estimation of Speech Articulators from Ultrasound and Camera Images Using DeepLabCut.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">1133</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/s22031133</ELocationID>
+        <Abstract>
+          <AbstractText>Automatic feature extraction from images of speech articulators is currently achieved by detecting edges. Here, we investigate the use of pose estimation deep neural nets with transfer learning to perform markerless estimation of speech articulator keypoints using only a few hundred hand-labelled images as training input. Midsagittal ultrasound images of the tongue, jaw, and hyoid and camera images of the lips were hand-labelled with keypoints, trained using DeepLabCut and evaluated on unseen speakers and systems. Tongue surface contours interpolated from estimated and hand-labelled keypoints produced an average mean sum of distances (MSD) of 0.93, s.d. 0.46 mm, compared with 0.96, s.d. 0.39 mm, for two human labellers, and 2.3, s.d. 1.5 mm, for the best performing edge detection algorithm. A pilot set of simultaneous electromagnetic articulography (EMA) and ultrasound recordings demonstrated partial correlation among three physical sensor positions and the corresponding estimated keypoints and requires further investigation. The accuracy of the estimating lip aperture from a camera video was high, with a mean MSD of 0.70, s.d. 0.56 mm compared with 0.57, s.d. 0.48 mm for two human labellers. DeepLabCut was found to be a fast, accurate and fully automatic method of providing unique kinematic data for tongue, hyoid, jaw, and lips.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wrench</LastName>
+            <ForeName>Alan</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical Audiology, Speech and Language Research Centre, Queen Margaret University, Musselburgh EH21 6UU, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Articulate Instruments Ltd., Musselburgh EH21 6UU, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Balch-Tomes</LastName>
+            <ForeName>Jonathan</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Articulate Instruments Ltd., Musselburgh EH21 6UU, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>02</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Sensors (Basel)</MedlineTA>
+        <NlmUniqueID>101204366</NlmUniqueID>
+        <ISSNLinking>1424-8220</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001696" MajorTopicYN="N">Biomechanical Phenomena</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003725" MajorTopicYN="Y">Dental Articulators</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007568" MajorTopicYN="N">Jaw</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008046" MajorTopicYN="N">Lip</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013060" MajorTopicYN="Y">Speech</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014059" MajorTopicYN="N">Tongue</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">keypoints</Keyword>
+        <Keyword MajorTopicYN="N">landmarks</Keyword>
+        <Keyword MajorTopicYN="N">lip reading</Keyword>
+        <Keyword MajorTopicYN="N">multimodal speech</Keyword>
+        <Keyword MajorTopicYN="N">pose estimation</Keyword>
+        <Keyword MajorTopicYN="N">speech kinematics</Keyword>
+        <Keyword MajorTopicYN="N">ultrasound tongue imaging</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>15</Day>
+          <Hour>1</Hour>
+          <Minute>12</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35161879</ArticleId>
+        <ArticleId IdType="pmc">PMC8838804</ArticleId>
+        <ArticleId IdType="doi">10.3390/s22031133</ArticleId>
+        <ArticleId IdType="pii">s22031133</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Fuchs S., Perrier P. On the complex nature of speech kinematics. ZAS Pap. Linguist. 2005;42:137–165. doi: 10.21248/zaspil.42.2005.276.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.21248/zaspil.42.2005.276</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kass M., Witkin A., Terzopoulos D. Snakes: Active contour models. Int. J. Comput. Vis. 1988;1:321–331. doi: 10.1007/BF00133570.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/BF00133570</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li M., Kambhamettu C., Stone M. Automatic contour tracking in ultrasound images. Clin. Linguist. Phon. 2005;19:545–554. doi: 10.1080/02699200500113616.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/02699200500113616</ArticleId>
+            <ArticleId IdType="pubmed">16206482</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Csapó T.G., Lulich S.M. Error analysis of extracted tongue contours from 2D ultrasound images; Proceedings of the Sixteenth Annual Conference of the International Speech Communication Association; Dresden, Germany. 6–10 September 2015.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Laporte C., Ménard L. Multi-hypothesis tracking of the tongue surface in ultrasound video recordings of normal and impaired speech. Med. Image Anal. 2018;44:98–114. doi: 10.1016/j.media.2017.12.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.media.2017.12.003</ArticleId>
+            <ArticleId IdType="pubmed">29232649</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fasel I., Berry J. Deep belief networks for real-time extraction of tongue contours from ultrasound during speech; Proceedings of the 2010 20th International Conference on Pattern Recognition; Istanbul, Turkey. 23–26 August 2010; pp. 1493–1496.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fabre D., Hueber T., Bocquelet F., Badin P. Tongue tracking in ultrasound images using eigentongue decomposition and artificial neural networks; Proceedings of the 16th Annual Conference of the International Speech Communication Association (Interspeech 2015); Dresden, Germany. 6–10 September 2015.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xu K., Gábor Csapó T., Roussel P., Denby B. A comparative study on the contour tracking algorithms in ultrasound tongue images with automatic re-initialization. J. Acoust. Soc. Am. 2016;139:EL154–EL160. doi: 10.1121/1.4951024.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1121/1.4951024</ArticleId>
+            <ArticleId IdType="pubmed">27250201</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mozaffari M.H., Yamane N., Lee W. Deep Learning for Automatic Tracking of Tongue Surface in Real-time Ultrasound Videos, Landmarks instead of Contours; Proceedings of the 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM); Seoul, Korea. 16–19 December 2020; pp. 2785–2792.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Aslan E., Akgul Y.S. Tongue Contour Tracking in Ultrasound Images with Spatiotemporal LSTM Networks; Proceedings of the German Conference on Pattern Recognition; Dortmund, Germany. 10–13 September 2019; pp. 513–521.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhu J., Styler W., Calloway I. A CNN-based tool for automatic tongue contour tracking in ultrasound images. arXiv. 2019. 1907.10210</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen W., Tiede M., Whalen D.H. DeepEdge: Automatic Ultrasound Tongue Contouring Combining a Deep Neural Network and an Edge Detection Algorithm. 2020.  [(accessed on 5 February 2021)].  Available online:  https://issp2020.yale.edu/S05/chen_05_16_161_poster.pdf.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ronneberger O., Fischer P., Brox T. U-net: Convolutional networks for biomedical image segmentation; Proceedings of the International Conference on Medical Image Computing and Computer-Assisted Intervention; Munich, Germany. 5–9 October 2015; pp. 234–241.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tang L., Bressmann T., Hamarneh G. Tongue contour tracking in dynamic ultrasound via higher-order MRFs and efficient fusion moves. Med. Image Anal. 2012;16:1503–1520. doi: 10.1016/j.media.2012.07.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.media.2012.07.001</ArticleId>
+            <ArticleId IdType="pubmed">22906820</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jaumard-Hakoun A., Xu K., Roussel-Ragot P., Dreyfus G., Denby B. Tongue contour extraction from ultrasound images based on deep neural network. arXiv. 2016. 1605.05912</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chiou G.I., Hwang J. Lipreading from color video. IEEE Trans. Image Process. 1997;6:1192–1195. doi: 10.1109/83.605417.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/83.605417</ArticleId>
+            <ArticleId IdType="pubmed">18283008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luettin J., Thacker N.A., Beet S.W. Speechreading using shape and intensity information; Proceedings of the Fourth International Conference on Spoken Language Processing, ICSLP’96; Philadelphia, PA, USA. 3–6 October 1996; pp. 58–61.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kaucic R., Dalton B., Blake A. Real-time lip tracking for audio-visual speech recognition applications; Proceedings of the European Conference on Computer Vision; Cambridge, UK. 15–18 April 1996; pp. 376–387.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lallouache M.T.  Ph.D. Thesis. INPG; Grenoble, France: 1991. Un Poste“ Visage-Parole” Couleur: Acquisition et Traitement Automatique des Contours des Lèvres.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>King H., Ferragne E. Labiodentals /r/ here to stay: Deep learning shows us why. Anglophonia Fr. J. Engl. Linguist. 2020;30 doi: 10.4000/anglophonia.3424.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4000/anglophonia.3424</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mathis M.W., Mathis A. Deep learning tools for the measurement of animal behavior in neuroscience. Curr. Opin. Neurobiol. 2020;60:1–11. doi: 10.1016/j.conb.2019.10.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.conb.2019.10.008</ArticleId>
+            <ArticleId IdType="pubmed">31791006</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mathis A., Mamidanna P., Cury K.M., Abe T., Murthy V.N., Mathis M.W., Bethge M. DeepLabCut: Markerless pose estimation of user-defined body parts with deep learning. Nat. Neurosci. 2018;21:1281–1289. doi: 10.1038/s41593-018-0209-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41593-018-0209-y</ArticleId>
+            <ArticleId IdType="pubmed">30127430</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Graving J.M., Chae D., Naik H., Li L., Koger B., Costelloe B.R., Couzin I.D. DeepPoseKit, a software toolkit for fast and robust animal pose estimation using deep learning. eLife. 2019;8:e47994. doi: 10.7554/eLife.47994.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.47994</ArticleId>
+            <ArticleId IdType="pmc">PMC6897514</ArticleId>
+            <ArticleId IdType="pubmed">31570119</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pereira T.D., Tabris N., Li J., Ravindranath S., Papadoyannis E.S., Wang Z.Y., Turner D.M., McKenzie-Smith G., Kocher S.D., Falkner A.L. SLEAP: Multi-animal pose tracking. bioRxiv. 2020 doi: 10.1101/2020.08.31.276246.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/2020.08.31.276246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mathis A., Biasi T., Schneider S., Yuksekgonul M., Rogers B., Bethge M., Mathis M.W. Pretraining boosts out-of-domain robustness for pose estimation; Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision; Virtual Conference. 5–9 January 2021; pp. 1859–1868.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Johnston B., de Chazal P. A review of image-based automatic facial landmark identification techniques. EURASIP J. Image Video Process. 2018;2018:1–23. doi: 10.1186/s13640-018-0324-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13640-018-0324-4</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Andriluka M., Pishchulin L., Gehler P., Schiele B. 2D Human Pose Estimation: New Benchmark and State of the Art Analysis; Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR); Columbus, OH, USA. 24–27 June 2014; pp. 3686–3693.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sandler M., Howard A., Zhu M., Zhmoginov A., Chen L. MobileNetV2: Inverted residuals and linear bottlenecks; Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition; Salt Lake City, UT, USA. 18–22 June 2018; pp. 4510–4520.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>He K., Zhang X., Ren S., Sun J. Deep residual learning for image recognition; Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition; Las Vegas, NV, USA. 26 June–1 July 2016; pp. 770–778.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tan M., Le Q. Efficientnet: Rethinking model scaling for convolutional neural networks; Proceedings of the International Conference on Machine Learning PMLR; Long Beach, CA, USA. 9–15 June 2019; pp. 6105–6114.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Insafutdinov E., Pishchulin L., Andres B., Andriluka M., Schiele B.  Computer Vision—ECCV 2016. Springer International Publishing; Cham, Switzerland: 2016. DeeperCut: A Deeper, Stronger, and Faster Multi-person Pose Estimation Model; pp. 34–50.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ribeiro M.S., Sanger J., Zhang J., Eshky A., Wrench A., Richmond K., Renals S. TaL: A synchronised multi-speaker corpus of ultrasound tongue imaging, audio, and lip videos; Proceedings of the 2021 IEEE Spoken Language Technology Workshop (SLT); Shenzhen, China. 19–22 January 2021; pp. 1109–1116.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Eshky A., Ribeiro M.S., Cleland J., Richmond K., Roxburgh Z., Scobbie J., Wrench A. UltraSuite: A repository of ultrasound and acoustic data from child speech therapy sessions. arXiv. 2019. 1907.00835</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Strycharczuk P., Ćavar M., Coretta S. Distance vs time. Acoustic and articulatory consequences of reduced vowel duration in Polish. J. Acoust. Soc. Am. 2021;150:592–607. doi: 10.1121/10.0005585.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1121/10.0005585</ArticleId>
+            <ArticleId IdType="pubmed">34340503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fabre D., Hueber T., Girin L., Alameda-Pineda X., Badin P. Automatic animation of an articulatory tongue model from ultrasound images of the vocal tract. Speech Commun. 2017;93:63–75. doi: 10.1016/j.specom.2017.08.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.specom.2017.08.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nath T., Mathis A., Chen A.C., Patel A., Bethge M., Mathis M.W. Using DeepLabCut for 3D markerless pose estimation across species and behaviors. Nat. Protoc. 2019;14:2152–2176. doi: 10.1038/s41596-019-0176-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41596-019-0176-0</ArticleId>
+            <ArticleId IdType="pubmed">31227823</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>GetContours V3.5.  [(accessed on 21 July 2021)].  Available online:  https://github.com/mktiede/GetContours.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Scobbie J.M., Lawson E., Cowen S., Cleland J., Wrench A.A. A Common Co-Ordinate System for Mid-Sagittal Articulatory Measurement. QMU CASL Working Papers WP-20. 2011.  [(accessed on 28 November 2021)].  Available online:  https://eresearch.qmu.ac.uk/handle/20.500.12289/3597.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Eslami M., Neuschaefer-Rube C., Serrurier A. Automatic vocal tract landmark localization from midsagittal MRI data. Sci. Rep. 2020;10:1–13. doi: 10.1038/s41598-020-58103-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-020-58103-6</ArticleId>
+            <ArticleId IdType="pmc">PMC6992757</ArticleId>
+            <ArticleId IdType="pubmed">32001739</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lim Y., Toutios A., Bliesener Y., Tian Y., Lingala S.G., Vaz C., Sorensen T., Oh M., Harper S., Chen W. A multispeaker dataset of raw and reconstructed speech production real-time MRI video and 3D volumetric images. arXiv. 2021. 2102.07896</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41597-021-00976-x</ArticleId>
+            <ArticleId IdType="pmc">PMC8292336</ArticleId>
+            <ArticleId IdType="pubmed">34285240</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

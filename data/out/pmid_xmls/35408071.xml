@@ -1,0 +1,386 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35408071</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>13</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1424-8220</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>22</Volume>
+            <Issue>7</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Mar</Month>
+              <Day>23</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Sensors (Basel, Switzerland)</Title>
+          <ISOAbbreviation>Sensors (Basel)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>An Automated, Clip-Type, Small Internet of Things Camera-Based Tomato Flower and Fruit Monitoring and Harvest Prediction System.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">2456</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/s22072456</ELocationID>
+        <Abstract>
+          <AbstractText>Automated crop monitoring using image analysis is commonly used in horticulture. Image-processing technologies have been used in several studies to monitor growth, determine harvest time, and estimate yield. However, accurate monitoring of flowers and fruits in addition to tracking their movements is difficult because of their location on an individual plant among a cluster of plants. In this study, an automated clip-type Internet of Things (IoT) camera-based growth monitoring and harvest date prediction system was proposed and designed for tomato cultivation. Multiple clip-type IoT cameras were installed on trusses inside a greenhouse, and the growth of tomato flowers and fruits was monitored using deep learning-based blooming flower and immature fruit detection. In addition, the harvest date was calculated using these data and temperatures inside the greenhouse. Our system was tested over three months. Harvest dates measured using our system were comparable with the data manually recorded. These results suggest that the system could accurately detect anthesis, number of immature fruits, and predict the harvest date within an error range of ±2.03 days in tomato plants. This system can be used to support crop growth management in greenhouses.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Unseok</ForeName>
+            <Initials>U</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Center for Agricultural Robotics, National Agriculture Food Research Organization (NARO), Tsukuba 305-0856, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Islam</LastName>
+            <ForeName>Md Parvez</ForeName>
+            <Initials>MP</Initials>
+            <Identifier Source="ORCID">0000-0001-5931-853X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Research Center for Agricultural Robotics, National Agriculture Food Research Organization (NARO), Tsukuba 305-0856, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kochi</LastName>
+            <ForeName>Nobuo</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Center for Agricultural Robotics, National Agriculture Food Research Organization (NARO), Tsukuba 305-0856, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tokuda</LastName>
+            <ForeName>Kenichi</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Center for Agricultural Robotics, National Agriculture Food Research Organization (NARO), Tsukuba 305-0856, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nakano</LastName>
+            <ForeName>Yuka</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Center for Agricultural Robotics, National Agriculture Food Research Organization (NARO), Tsukuba 305-0856, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Naito</LastName>
+            <ForeName>Hiroki</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Center for Agricultural Robotics, National Agriculture Food Research Organization (NARO), Tsukuba 305-0856, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kawasaki</LastName>
+            <ForeName>Yasushi</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Center for Agricultural Robotics, National Agriculture Food Research Organization (NARO), Tsukuba 305-0856, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ota</LastName>
+            <ForeName>Tomohiko</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Center for Agricultural Robotics, National Agriculture Food Research Organization (NARO), Tsukuba 305-0856, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sugiyama</LastName>
+            <ForeName>Tomomi</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Vegetable and Floriculture Science, National Agriculture Food Research Organization (NARO), Tsukuba 305-8519, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ahn</LastName>
+            <ForeName>Dong-Hyuk</ForeName>
+            <Initials>DH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Vegetable and Floriculture Science, National Agriculture Food Research Organization (NARO), Tsukuba 305-8519, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>23</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Sensors (Basel)</MedlineTA>
+        <NlmUniqueID>101204366</NlmUniqueID>
+        <ISSNLinking>1424-8220</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D035264" MajorTopicYN="N">Flowers</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005638" MajorTopicYN="N">Fruit</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000080487" MajorTopicYN="Y">Internet of Things</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018551" MajorTopicYN="Y">Lycopersicon esculentum</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013525" MajorTopicYN="N">Surgical Instruments</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">artificial intelligence camera</Keyword>
+        <Keyword MajorTopicYN="N">deep learning</Keyword>
+        <Keyword MajorTopicYN="N">flowers and fruits detection</Keyword>
+        <Keyword MajorTopicYN="N">harvest date estimation</Keyword>
+        <Keyword MajorTopicYN="N">horticulture</Keyword>
+        <Keyword MajorTopicYN="N">internet of things</Keyword>
+        <Keyword MajorTopicYN="N">tomato cultivation</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>9</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>12</Day>
+          <Hour>1</Hour>
+          <Minute>9</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35408071</ArticleId>
+        <ArticleId IdType="pmc">PMC9002604</ArticleId>
+        <ArticleId IdType="doi">10.3390/s22072456</ArticleId>
+        <ArticleId IdType="pii">s22072456</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Das S.P., Moharana D.P., Aslam T., Nayak N.J., Mandal A.R. Correlation studies of different growth, quality and yield attributing parameters of tomato (Solanum lycopersicum L.) Int. J. Agric. Environ. Biores. 2017;2:217–223.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kapach K., Barnea E., Mairon R., Edan Y., Ben-Shahr O. Computer vision for fruit harvesting robots—State of the art and challenges ahead. Int. J. Comput. Vis. Robot. 2012;3:4–34. doi: 10.1504/IJCVR.2012.046419.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1504/IJCVR.2012.046419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stajnko D., Lakota M., Hočevar M. Estimation of number and diameter of apple fruits in an orchard during the growing season by thermal imaging. Comput. Electron. Agric. 2004;42:31–42. doi: 10.1016/S0168-1699(03)00086-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0168-1699(03)00086-3</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Q., Nuske S., Bergerman M., Singh S. Automated crop yield estimation for apple orchards; Proceedings of the International Symposium on Experimental Robotics; Québec City, QC, Canada. 18–21 June 2012.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Häni N., Roy P., Isler V. A comparative study of fruit detection and counting methods for yield mapping in apple orchards. J. Field Robot. 2020;37:263–282. doi: 10.1002/rob.21902.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/rob.21902</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sengupta S., Lee W.S. Identification and determination of the number of immature green citrus fruit in a canopy under different ambient light conditions. Biosyst. Eng. 2014;117:51–61. doi: 10.1016/j.biosystemseng.2013.07.007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.biosystemseng.2013.07.007</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Malik Z., Ziauddin S.R.A., Safi A. Detection and counting of on-tree citrus fruit for crop yield estimation. Int. J. Adv. Comput. Sci. Appl. 2016;7:519–523. doi: 10.14569/IJACSA.2016.070569.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.14569/IJACSA.2016.070569</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nisar H., Yang H.Z., Ho Y.K. Predicting Yield of Fruit and Flowers using Digital Image Analysis. Indian J. Sci. Technol. 2015;8:32. doi: 10.17485/ijst/2015/v8i32/93730.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.17485/ijst/2015/v8i32/93730</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gutiérrez S., Wendel A., Underwood J. Ground based hyperspectral imaging for extensive mango yield estimation. Comput. Electron. Agric. 2019;157:126–135. doi: 10.1016/j.compag.2018.12.041.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.compag.2018.12.041</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Song Y., Glasbey C.A., Horgan G.W., Polder G., Dieleman J.A., van der Heijden G.W.A.M. Automatic fruit recognition and counting from multiple images. Biosyst. Eng. 2014;118:203–215. doi: 10.1016/j.biosystemseng.2013.12.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.biosystemseng.2013.12.008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen Y., Lee W.S., Gan H., Peres N., Fraisse C., Zhang Y., He Y. Strawberry Yield Prediction Based on a Deep Neural Network Using High-Resolution Aerial Orthoimages. Remote Sens. 2019;11:1584.  doi: 10.3390/rs11131584.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/rs11131584</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao Y., Gong L., Zhou B., Huang Y., Liu C. Detecting tomatoes in greenhouse scenes by combining AdaBoost classifier and colour analysis. Biosyst. Eng. 2016;148:127–137. doi: 10.1016/j.biosystemseng.2016.05.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.biosystemseng.2016.05.001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu G., Mao S., Kim J.H. A mature-tomato detection algorithm using machine learning and color analysis. Sensors. 2019;19:2023.  doi: 10.3390/s19092023.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s19092023</ArticleId>
+            <ArticleId IdType="pmc">PMC6539546</ArticleId>
+            <ArticleId IdType="pubmed">31052169</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sa I., Ge Z., Dayoub F., Upcroft B., Perez T., Mccool C. DeepFruits: A fruit detection system using deep neural networks. Sensors. 2016;16:1222.  doi: 10.3390/s16081222.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s16081222</ArticleId>
+            <ArticleId IdType="pmc">PMC5017387</ArticleId>
+            <ArticleId IdType="pubmed">27527168</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rahnemoonfar M., Sheppard C. Deep count: Fruit counting based on deep simulated learning. Sensors. 2017;17:905.  doi: 10.3390/s17040905.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s17040905</ArticleId>
+            <ArticleId IdType="pmc">PMC5426829</ArticleId>
+            <ArticleId IdType="pubmed">28425947</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dias P.A., Tabb A., Medeiros H. Multi-species fruit flower detection using a refined semantic segmentation network. IEEE Robot. Autom. Lett. 2018;3:3003–3010. doi: 10.1109/LRA.2018.2849498.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/LRA.2018.2849498</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dias P.A., Tabb A., Medeiros H. Apple flower detection using deep convolutional networks. Comput. Ind. 2018;99:17–28. doi: 10.1016/j.compind.2018.03.010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.compind.2018.03.010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun J., He X., Ge X., Wu X., Shen J., Song Y. Detection of key organs in tomato based on deep migration learning in a complex background. Agriculture. 2018;8:196.  doi: 10.3390/agriculture8120196.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/agriculture8120196</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ren S., He K., Girshick R., Sun J. Faster R-CNN: Towards real-time object detection with region proposal networks. IEEE Trans. Pattern Anal. Mach. Intell. 2017;39:1137–1149. doi: 10.1109/TPAMI.2016.2577031.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TPAMI.2016.2577031</ArticleId>
+            <ArticleId IdType="pubmed">27295650</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eizentals P.  Ph.D. Thesis. Kochi University of Technology Academic Resource Repository; Kochi, Japan: 2016.  [(accessed on 12 March 2022)]. Picking System for Automatic Harvesting of Sweet Pepper: Sensing and Mechanism. Available online:  http://hdl.handle.net/10173/1417.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yuan T., Zhang S., Sheng X., Wang D., Gong Y., Li W. An autonomous pollination robot for hormone treatment of tomato flower in greenhouse; Proceedings of the 3rd International Conference on Systems and Informatics (ICSAI); Shanghai, China. 19–21 November 2016; pp. 108–113.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Seo D., Cho B.-H., Kim K.-C. Development of Monitoring Robot System for Tomato Fruits in Hydroponic Greenhouses. Agronomy. 2021;11:2211.  doi: 10.3390/agronomy11112211.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/agronomy11112211</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ploeg D.V., Heuvelink E. Influence of sub-optimal temperature on tomato growth and yield: A review. J. Hortic. Sci. Biotechnol. 2005;80:652–659. doi: 10.1080/14620316.2005.11511994.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/14620316.2005.11511994</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Adams S.R., Cockshull K.E., Cave C.R.J. Effect of Temperature on the Growth and Development of Tomato Fruits. Ann. Bot. 2001;88:869–877. doi: 10.1006/anbo.2001.1524.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/anbo.2001.1524</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>M5Camera.  [(accessed on 19 March 2022)].  Available online:  https://docs.m5stack.com/en/unit/m5camera.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Redmon J., Divvala S., Girshick R., Farhadi A. You Only Look Once: Unified, Real-Time Object Detection; Proceedings of the 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR); Vegas, NV, USA. 27–30 June 2016.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Redmon J., Farhadi A. YOLOv3: An incremental improvement. arXiv. 20181804.02767v1</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Taylor S.J., Letham B. Forecasting at Scale. Am. Stat. 2018;72:37–45. doi: 10.1080/00031305.2017.1380080.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/00031305.2017.1380080</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wolf S., Rudich J., Marani A., Rekah Y. Predicting harvesting date of processing tomatoes by a simulation model. J. Am. Soc. Hort. Sci. 1986;111:11–16.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Iwasaki Y., Yamane A., Itoh M., Goto C., Matsumoto H., Takaichi M. Demonstration of Year-Round Production of Tomato Fruits with High Soluble-Solids Content by Low Node-Order Pinching and High-Density Planting. Bull. NARO Crop Sci. 2019;3:41–51. (In Japanese)</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yasuba K., Suzuki K., Sasaki H., Higashide T., Takaichi M. Fruit Yield and Environmental Condition under Integrative Environment Control for High Yielding Production at Long-time Culture of Tomato. Bull. Natl. Inst. Veg. Tea Sci. 2011;10:85–93. (In Japanese)</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tian Y., Yang G., Wang Z., Wang H., Li E., Liang Z. Apple detection during different growth stages in orchards using the improved YOLO-V3 model. Comput. Electron. Agric. 2019;157:417–426. doi: 10.1016/j.compag.2019.01.012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.compag.2019.01.012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hyperparameter Tuning of Prophet Package.  [(accessed on 14 March 2022)].  Available online:  http://facebook.github.io/prophet/docs/diagnostics.html#hyperparameter-tuning.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,500 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35410288</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>22</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1474-760X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>23</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Apr</Month>
+              <Day>11</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Genome biology</Title>
+          <ISOAbbreviation>Genome Biol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Expansion of the prime editing modality with Cas9 from Francisella novicida.</ArticleTitle>
+        <Pagination>
+          <StartPage>92</StartPage>
+          <MedlinePgn>92</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">92</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13059-022-02644-8</ELocationID>
+        <Abstract>
+          <AbstractText>Prime editing can induce a desired base substitution, insertion, or deletion in a target gene using reverse transcriptase after nick formation by CRISPR nickase. In this study, we develop a technology that can be used to insert or replace external bases in the target DNA sequence by linking reverse transcriptase to the Francisella novicida Cas9, which is a CRISPR-Cas9 ortholog. Using FnCas9(H969A) nickase, the targeting limitation of existing Streptococcus pyogenes Cas9 nickase [SpCas9(H840A)]-based prime editing is dramatically extended, and accurate prime editing is induced specifically for the target genes in human cell lines.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Oh</LastName>
+            <ForeName>Yeounsun</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Primate Research Center (NPRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Wi-Jae</ForeName>
+            <Initials>WJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Primate Research Center (NPRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Bioscience and Biotechnology, Konkuk University, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Hur</LastName>
+            <ForeName>Junho K</ForeName>
+            <Initials>JK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Genetics, College of Medicine, Hanyang University, Seoul, 04763, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Graduate School of Biomedical Science and Engineering, Hanyang University, Seoul, 04763, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Life Science, Chung-Ang University, Seoul, 06974, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Song</LastName>
+            <ForeName>Woo Jeung</ForeName>
+            <Initials>WJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medicine, Major in Medical Genetics, Graduate School, Hanyang University, Seoul, 04763, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Youngjeon</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Primate Research Center (NPRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Hanseop</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Primate Research Center (NPRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>School of Life Sciences and Biotechnology, BK21 Plus KNU Creative BioResearch Group, Kyungpook National University, Daegu, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gwon</LastName>
+            <ForeName>Lee Wha</ForeName>
+            <Initials>LW</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Primate Research Center (NPRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomolecular Science, KRIBB School of Bioscience, Korea University of Science and Technology, Gajeong-dong, Yuseong-gu, Daejeon, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Young-Hyun</ForeName>
+            <Initials>YH</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Primate Research Center (NPRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Park</LastName>
+            <ForeName>Young-Ho</ForeName>
+            <Initials>YH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Futuristic Animal Resource &amp; Research Center (FARRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Chan Hyoung</ForeName>
+            <Initials>CH</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Primate Research Center (NPRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Biological Sciences, Chungnam National University, Daejeon, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lim</LastName>
+            <ForeName>Kyung-Seob</ForeName>
+            <Initials>KS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Futuristic Animal Resource &amp; Research Center (FARRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Song</LastName>
+            <ForeName>Bong-Seok</ForeName>
+            <Initials>BS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Futuristic Animal Resource &amp; Research Center (FARRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Huh</LastName>
+            <ForeName>Jae-Won</ForeName>
+            <Initials>JW</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Primate Research Center (NPRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Functional Genomics, KRIBB School of Bioscience, Korea University of Science and Technology (UST), Daejeon, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Sun-Uk</ForeName>
+            <Initials>SU</Initials>
+            <AffiliationInfo>
+              <Affiliation>Futuristic Animal Resource &amp; Research Center (FARRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju, Korea.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Functional Genomics, KRIBB School of Bioscience, Korea University of Science and Technology (UST), Daejeon, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jun</LastName>
+            <ForeName>Bong-Hyun</ForeName>
+            <Initials>BH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Bioscience and Biotechnology, Konkuk University, Seoul, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jung</LastName>
+            <ForeName>Cheulhee</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biotechnology, College of Life Sciences and Biotechnology, Korea University, Seoul, Republic of Korea. damo363@korea.ac.kr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Seung Hwan</ForeName>
+            <Initials>SH</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Primate Research Center (NPRC), Korea Research Institute of Bioscience and Biotechnology (KRIBB), Cheongju, Korea. lsh080390@cau.ac.kr.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Life Science, Chung-Ang University, Seoul, 06974, Republic of Korea. lsh080390@cau.ac.kr.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomolecular Science, KRIBB School of Bioscience, Korea University of Science and Technology, Gajeong-dong, Yuseong-gu, Daejeon, Republic of Korea. lsh080390@cau.ac.kr.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>04</Month>
+          <Day>11</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Genome Biol</MedlineTA>
+        <NlmUniqueID>100960660</NlmUniqueID>
+        <ISSNLinking>1474-7596</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>EC 2.7.7.49</RegistryNumber>
+          <NameOfSubstance UI="D012194">RNA-Directed DNA Polymerase</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.1.21.1</RegistryNumber>
+          <NameOfSubstance UI="D003850">Deoxyribonuclease I</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <SupplMeshList>
+        <SupplMeshName Type="Organism" UI="C000653253">Francisella tularensis subsp. novicida</SupplMeshName>
+      </SupplMeshList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D064113" MajorTopicYN="Y">CRISPR-Cas Systems</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003850" MajorTopicYN="N">Deoxyribonuclease I</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005603" MajorTopicYN="N">Francisella</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000072669" MajorTopicYN="Y">Gene Editing</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012194" MajorTopicYN="N">RNA-Directed DNA Polymerase</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">CRISPR-Cas9</Keyword>
+        <Keyword MajorTopicYN="Y">Francisella novicida</Keyword>
+        <Keyword MajorTopicYN="Y">Ortholog</Keyword>
+        <Keyword MajorTopicYN="Y">Prime editing</Keyword>
+        <Keyword MajorTopicYN="Y">Target expansion</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>12</Day>
+          <Hour>5</Hour>
+          <Minute>13</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35410288</ArticleId>
+        <ArticleId IdType="pmc">PMC8996390</ArticleId>
+        <ArticleId IdType="doi">10.1186/s13059-022-02644-8</ArticleId>
+        <ArticleId IdType="pii">10.1186/s13059-022-02644-8</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Anzalone AV, Koblan LW, Liu DR. Genome editing with CRISPR-Cas nucleases, base editors, transposases and prime editors. Nat Biotechnol. 2020;38:824–844. doi: 10.1038/s41587-020-0561-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41587-020-0561-9</ArticleId>
+            <ArticleId IdType="pubmed">32572269</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anzalone AV, Randolph PB, Davis JR, Sousa AA, Koblan LW, Levy JM, Chen PJ, Wilson C, Newby GA, Raguram A, Liu DR. Search-and-replace genome editing without double-strand breaks or donor DNA. Nature. 2019;576:149–157. doi: 10.1038/s41586-019-1711-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-019-1711-4</ArticleId>
+            <ArticleId IdType="pmc">PMC6907074</ArticleId>
+            <ArticleId IdType="pubmed">31634902</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marzec M, Braszewska-Zalewska A, Hensel G. Prime editing: a new way for genome editing. Trends Cell Biol. 2020;30:257–259. doi: 10.1016/j.tcb.2020.01.004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tcb.2020.01.004</ArticleId>
+            <ArticleId IdType="pubmed">32001098</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chemello F, Chai AC, Li H, Rodriguez-Caycedo C, Sanchez-Ortiz E, Atmanli A, Mireault AA, Liu N, Bassel-Duby R, Olson EN. Precise correction of Duchenne muscular dystrophy exon deletion mutations by base and prime editing. Sci Adv. 2021;7(18):eabg4910. doi: 10.1126/sciadv.abg4910.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/sciadv.abg4910</ArticleId>
+            <ArticleId IdType="pmc">PMC8087404</ArticleId>
+            <ArticleId IdType="pubmed">33931459</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gao P, Lyu Q, Ghanam AR, Lazzarotto CR, Newby GA, Zhang W, Choi M, Slivano OJ, Holden K, Walker JA, 2nd, et al.  Prime editing in mice reveals the essentiality of a single base in driving tissue-specific gene expression. Genome Biol. 2021;22:83. doi: 10.1186/s13059-021-02304-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13059-021-02304-3</ArticleId>
+            <ArticleId IdType="pmc">PMC7962346</ArticleId>
+            <ArticleId IdType="pubmed">33722289</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin Q, Zong Y, Xue C, Wang S, Jin S, Zhu Z, Wang Y, Anzalone AV, Raguram A, Doman JL, et al.  Prime genome editing in rice and wheat. Nat Biotechnol. 2020;38:582–585. doi: 10.1038/s41587-020-0455-x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41587-020-0455-x</ArticleId>
+            <ArticleId IdType="pubmed">32393904</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu P, Liang SQ, Zheng C, Mintzer E, Zhao YG, Ponnienselvan K, Mir A, Sontheimer EJ, Gao G, Flotte TR, et al.  Improved prime editors enable pathogenic allele correction and cancer modelling in adult mice. Nat Commun. 2021;12:2121. doi: 10.1038/s41467-021-22295-w.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-021-22295-w</ArticleId>
+            <ArticleId IdType="pmc">PMC8035190</ArticleId>
+            <ArticleId IdType="pubmed">33837189</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Petri K, Zhang W, Ma J, Schmidts A, Lee H, Horng JE, et al. CRISPR prime editing with ribonucleoprotein complexes in zebrafish and primary human cells. Nat Biotechnol. 2022;40:189–93.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8553808</ArticleId>
+            <ArticleId IdType="pubmed">33927418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bosch JA, Birchak G, Perrimon N. Precise genome engineering in Drosophila using prime editing. Proc Natl Acad Sci U S A. 2020;118(1):e2021996118.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7817132</ArticleId>
+            <ArticleId IdType="pubmed">33443210</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu R, Li J, Liu X, Shan T, Qin R, Wei P. Development of plant prime-editing systems for precise genome editing. Plant Commun. 2020;1:100043. doi: 10.1016/j.xplc.2020.100043.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.xplc.2020.100043</ArticleId>
+            <ArticleId IdType="pmc">PMC7747961</ArticleId>
+            <ArticleId IdType="pubmed">33367239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim Y, Hong SA, Yu J, Eom J, Jang K, Yoon S, Hong DH, Seo D, Lee SN, Woo JS, et al.  Adenine base editing and prime editing of chemically derived hepatic progenitors rescue genetic liver disease. Cell Stem Cell. 2021;28(9):1614–1624. doi: 10.1016/j.stem.2021.04.010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.stem.2021.04.010</ArticleId>
+            <ArticleId IdType="pubmed">33951479</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gaudelli NM, Komor AC, Rees HA, Packer MS, Badran AH, Bryson DI, Liu DR. Programmable base editing of A*T to G*C in genomic DNA without DNA cleavage. Nature. 2017;551:464–471. doi: 10.1038/nature24644.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature24644</ArticleId>
+            <ArticleId IdType="pmc">PMC5726555</ArticleId>
+            <ArticleId IdType="pubmed">29160308</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Komor AC, Kim YB, Packer MS, Zuris JA, Liu DR. Programmable editing of a target base in genomic DNA without double-stranded DNA cleavage. Nature. 2016;533:420–424. doi: 10.1038/nature17946.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature17946</ArticleId>
+            <ArticleId IdType="pmc">PMC4873371</ArticleId>
+            <ArticleId IdType="pubmed">27096365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nishimasu H, Shi X, Ishiguro S, Gao L, Hirano S, Okazaki S, Noda T, Abudayyeh OO, Gootenberg JS, Mori H, et al.  Engineered CRISPR-Cas9 nuclease with expanded targeting space. Science. 2018;361:1259–1262. doi: 10.1126/science.aas9129.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aas9129</ArticleId>
+            <ArticleId IdType="pmc">PMC6368452</ArticleId>
+            <ArticleId IdType="pubmed">30166441</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Walton RT, Christie KA, Whittaker MN, Kleinstiver BP. Unconstrained genome targeting with near-PAMless engineered CRISPR-Cas9 variants. Science. 2020;368:290–296. doi: 10.1126/science.aba8853.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aba8853</ArticleId>
+            <ArticleId IdType="pmc">PMC7297043</ArticleId>
+            <ArticleId IdType="pubmed">32217751</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim DY, Moon SB, Ko JH, Kim YS, Kim D. Unbiased investigation of specificities of prime editing systems in human cells. Nucleic Acids Res. 2020;48:10576–10589. doi: 10.1093/nar/gkaa764.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkaa764</ArticleId>
+            <ArticleId IdType="pmc">PMC7544197</ArticleId>
+            <ArticleId IdType="pubmed">32941652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jinek M, Chylinski K, Fonfara I, Hauer M, Doudna JA, Charpentier E. A programmable dual-RNA–guided DNA endonuclease in adaptive bacterial immunity. Science. 2012;337:816–821. doi: 10.1126/science.1225829.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1225829</ArticleId>
+            <ArticleId IdType="pmc">PMC6286148</ArticleId>
+            <ArticleId IdType="pubmed">22745249</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Acharya S, Mishra A, Paul D, Ansari AH, Azhar M, Kumar M, Rauthan R, Sharma N, Aich M, Sinha D, et al.  Francisella novicida Cas9 interrogates genomic DNA with very high specificity and can be used for mammalian genome editing. Proc Natl Acad Sci U S A. 2019;116:20959–20968. doi: 10.1073/pnas.1818461116.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1818461116</ArticleId>
+            <ArticleId IdType="pmc">PMC6800334</ArticleId>
+            <ArticleId IdType="pubmed">31570623</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen F, Ding X, Feng Y, Seebeck T, Jiang Y, Davis GD. Targeted activation of diverse CRISPR-Cas systems for mammalian genome editing via proximal CRISPR targeting. Nat Commun. 2017;8:14958. doi: 10.1038/ncomms14958.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms14958</ArticleId>
+            <ArticleId IdType="pmc">PMC5385574</ArticleId>
+            <ArticleId IdType="pubmed">28387220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fonfara I, Le Rhun A, Chylinski K, Makarova KS, Lecrivain AL, Bzdrenga J, Koonin EV, Charpentier E. Phylogeny of Cas9 determines functional exchangeability of dual-RNA and Cas9 among orthologous type II CRISPR-Cas systems. Nucleic Acids Res. 2014;42:2577–2590. doi: 10.1093/nar/gkt1074.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkt1074</ArticleId>
+            <ArticleId IdType="pmc">PMC3936727</ArticleId>
+            <ArticleId IdType="pubmed">24270795</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hirano H, Gootenberg JS, Horii T, Abudayyeh OO, Kimura M, Hsu PD, Nakane T, Ishitani R, Hatada I, Zhang F, et al.  Structure and engineering of Francisella novicida Cas9. Cell. 2016;164:950–961. doi: 10.1016/j.cell.2016.01.039.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2016.01.039</ArticleId>
+            <ArticleId IdType="pmc">PMC4899972</ArticleId>
+            <ArticleId IdType="pubmed">26875867</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu Y, Yang G, Huang S, Li X, Wang X, Li G, Chi T, Chen Y, Huang X, Wang X. Enhancing prime editing by Csy4-mediated processing of pegRNA. Cell Res. 2021;31:1134–1136. doi: 10.1038/s41422-021-00520-x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41422-021-00520-x</ArticleId>
+            <ArticleId IdType="pmc">PMC8486859</ArticleId>
+            <ArticleId IdType="pubmed">34103663</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kang SH, Lee WJ, An JH, Lee JH, Kim YH, Kim H, Oh Y, Park YH, Jin YB, Jun BH, et al.  Prediction-based highly sensitive CRISPR off-target validation using target-specific DNA enrichment. Nat Commun. 2020;11:3596. doi: 10.1038/s41467-020-17418-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-020-17418-8</ArticleId>
+            <ArticleId IdType="pmc">PMC7368065</ArticleId>
+            <ArticleId IdType="pubmed">32681048</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oh Y, Lee WJ, Hur JK, Song WJ, Lee Y, Kim H, Gwon LW, Kim YH, Park YH, Kim CH, et al.   Targeted deep sequencing about FnCas9 prime editing project. NCBI Bioproject PRJNA736246. 2021. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee SH, Oh Y. Prime-editing-ClinVar-coverage-data: Github; 2022. https://github.com/yeounsunoh/Prime-editing-ClinVar-coverage-data</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee SH, Oh Y. Prime-editing-ClinVar-coverage-data: Zenodo; 2022. 10.5281/zenodo.6214723.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

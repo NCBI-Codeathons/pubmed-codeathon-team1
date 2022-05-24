@@ -1,0 +1,664 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">35148221</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>04</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1744-5116</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>60</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Pharmaceutical biology</Title>
+          <ISOAbbreviation>Pharm Biol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Integrated chemical profiling, network pharmacology and pharmacological evaluation to explore the potential mechanism of Xinbao pill against myocardial ischaemia-reperfusion injury.</ArticleTitle>
+        <Pagination>
+          <StartPage>255</StartPage>
+          <EndPage>273</EndPage>
+          <MedlinePgn>255-273</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1080/13880209.2022.2025859</ELocationID>
+        <Abstract>
+          <AbstractText Label="CONTEXT" NlmCategory="BACKGROUND">Xinbao pill (XBW), a traditional Chinese herbal formula, is widely used in clinical treatment for cardiovascular diseases; however, the therapeutic effect of XBW on myocardial ischaemia-reperfusion injury (MI/RI) is unclear.</AbstractText>
+          <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">This study evaluates the cardioprotective effect and molecular mechanism of XBW against MI/RI.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">A phytochemistry-based network pharmacology analysis was used to uncover the mechanism of XBW against MI/RI. Ultra performance liquid chromatography coupled with quadrupole time-of-flight mass spectrometry method was used to identify chemicals. MI/RI-related targets of XBW were predicted using TargetNet database, OMIC database, etc. Sprague-Dawley (SD) rats under anterior descending artery ligation model were divided into Sham, MI/RI and XBW (180 mg/kg, intragastric administration). After 30 min ischaemia and 24 h reperfusion, heart tissues were collected for measurement of myocardial infarct size. After oxygen glucose deprivation for 6 h, H9c2 cells were treated with XBW (60, 240 and 720 μg/mL) and diazoxide (100 μM) for 18 h of reperfusion.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Thirty-seven chemicals were identified in XBW; 50 MI/RI-related targets of XBW were predicted using indicated databases. XBW significantly reduced infarct size and creatine kinase MB (CK-MB) level after MI/RI; XBW protected H9c2 cells against OGD/R injury. Gene ontology (GO) and KEGG pathway enrichment analyses by String database showed that the cardioprotective effect of XBW was associated with autophagy and apoptosis signalling pathways. Experimental investigation also verified that XBW suppressed apoptosis, autophagy and endoplasmic reticulum (ER) stress.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">XBW showed therapeutic effects against MI/RI mainly via attenuating apoptosis though suppressing excessive autophagy and ER stress.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Ying</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Pharmaceutical Sciences, Joint Laboratory for Translational Cancer Research of Chinese Medicine of the Ministry of Education of the People's Republic of China, International Institute for Translational Chinese Medicine, Guangzhou University of Chinese Medicine, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Guangdong-Hong Kong-Macau Joint Lab on Chinese Medicine and Immune Disease Research, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Ting</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research and Development Department, Guangdong Xinbao Pharm-tech Co., Ltd, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Jiaming</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Pharmaceutical Sciences, Joint Laboratory for Translational Cancer Research of Chinese Medicine of the Ministry of Education of the People's Republic of China, International Institute for Translational Chinese Medicine, Guangzhou University of Chinese Medicine, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>School of Pharmacy, Guangdong Pharmaceutical University, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Sixuan</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Pharmaceutical Sciences, Joint Laboratory for Translational Cancer Research of Chinese Medicine of the Ministry of Education of the People's Republic of China, International Institute for Translational Chinese Medicine, Guangzhou University of Chinese Medicine, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cai</LastName>
+            <ForeName>Rongqing</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research and Development Department, Guangdong Xinbao Pharm-tech Co., Ltd, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Liqiong</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research and Development Department, Guangdong Xinbao Pharm-tech Co., Ltd, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Jiexiong</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research and Development Department, Guangdong Xinbao Pharm-tech Co., Ltd, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lin</LastName>
+            <ForeName>Qiongying</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research and Development Department, Guangdong Xinbao Pharm-tech Co., Ltd, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Qi</LastName>
+            <ForeName>Xiaoxiao</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Pharmaceutical Sciences, Joint Laboratory for Translational Cancer Research of Chinese Medicine of the Ministry of Education of the People's Republic of China, International Institute for Translational Chinese Medicine, Guangzhou University of Chinese Medicine, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Zhongqiu</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Pharmaceutical Sciences, Joint Laboratory for Translational Cancer Research of Chinese Medicine of the Ministry of Education of the People's Republic of China, International Institute for Translational Chinese Medicine, Guangzhou University of Chinese Medicine, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Guangdong-Hong Kong-Macau Joint Lab on Chinese Medicine and Immune Disease Research, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cheng</LastName>
+            <ForeName>Yuanyuan</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Pharmaceutical Sciences, Joint Laboratory for Translational Cancer Research of Chinese Medicine of the Ministry of Education of the People's Republic of China, International Institute for Translational Chinese Medicine, Guangzhou University of Chinese Medicine, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Guangdong-Hong Kong-Macau Joint Lab on Chinese Medicine and Immune Disease Research, Guangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Pharm Biol</MedlineTA>
+        <NlmUniqueID>9812552</NlmUniqueID>
+        <ISSNLinking>1388-0209</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D002316">Cardiotonic Agents</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D004365">Drugs, Chinese Herbal</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017209" MajorTopicYN="N">Apoptosis</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001343" MajorTopicYN="N">Autophagy</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002316" MajorTopicYN="N">Cardiotonic Agents</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004305" MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004365" MajorTopicYN="N">Drugs, Chinese Herbal</DescriptorName>
+          <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059865" MajorTopicYN="N">Endoplasmic Reticulum Stress</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009203" MajorTopicYN="N">Myocardial Infarction</DescriptorName>
+          <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015428" MajorTopicYN="N">Myocardial Reperfusion Injury</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D032383" MajorTopicYN="N">Myocytes, Cardiac</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000091484" MajorTopicYN="N">Network Pharmacology</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">ER stress</Keyword>
+        <Keyword MajorTopicYN="N">UHPLC-QTOF-MS</Keyword>
+        <Keyword MajorTopicYN="N">autophagy</Keyword>
+        <Keyword MajorTopicYN="N">chemical profile</Keyword>
+      </KeywordList>
+      <CoiStatement>All authors have no conflict of interest to disclose.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>11</Day>
+          <Hour>17</Hour>
+          <Minute>10</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35148221</ArticleId>
+        <ArticleId IdType="pmc">PMC8845110</ArticleId>
+        <ArticleId IdType="doi">10.1080/13880209.2022.2025859</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Boermans PAMM, Go HS, Wessels AMA, Uges DRA.. 
+2006. Quantification by HPLC–MS/MS of atropine in human serum and clinical presentation of six mild-to-moderate intoxicated atropine-adulterated-cocaine users. Ther Drug Monit. 28(3):295–298.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16778709</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen DX, Lin S, Xu W, Huang MQ, Chu JF, Xiao F, Lin JM, Peng J.. 
+2015. Qualitative and quantitative analysis of the major constituents in Shexiang Tongxin Dropping Pill by HPLC-Q-TOF-MS/MS and UPLC-QqQ-MS/MS. Molecules. 20(10):18597–18619.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6331871</ArticleId>
+            <ArticleId IdType="pubmed">26473821</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen MY, Shao L, Zhang W, Wang CZ, Zhou HH, Huang WH, Yuan CS.. 
+2018. Metabolic analysis of Panax notoginseng saponins with gut microbiota-mediated biotransformation by HPLC-DAD-Q-TOF-MS/MS. J Pharm Biomed Anal. 150:199–207.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29245089</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen YJ, Zhao ZZ, Chen HB, Yi T, Qin MJ, Liang ZT.. 
+2015. Chemical differentiation and quality evaluation of commercial Asian and American ginsengs based on a UHPLC-QTOF/MS/MS metabolomics approach. Phytochem Anal. 26(2):145–160.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25448530</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Choudhary GS, Al-Harbi S, Almasan A.. 
+2015. Caspase-3 activation is a critical determinant of genotoxic stress-induced apoptosis. Methods Mol Biol. 1219:1–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25308257</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cirlini M, Demuth TM, Biancardi A, Rychlik M, Dall'Asta C, Bruni R.. 
+2018. Are tropane alkaloids present in organic foods? Detection of scopolamine and atropine in organic buckwheat (Fagopyron esculentum L.) products by UHPLC–MS/MS. Food Chem. 239:141–147.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28873551</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Du ZX, Li JH, Zhang X, Pei J, Huang LF.. 
+2018. An integrated LC–MS-based strategy for the quality assessment and discrimination of three Panax species. Molecules. 23(11):2988.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6278395</ArticleId>
+            <ArticleId IdType="pubmed">30445785</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gong XH, Liu H, Wang SJ, Liang SW, Wang GG.. 
+2019. Exosomes derived from SDF1-overexpressing mesenchymal stem cells inhibit ischemic myocardial cell apoptosis and promote cardiac endothelial microvascular regeneration in mice with myocardial infarction. J Cell Physiol. 234(8):13878–13893.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30720220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hao M, Zhu S, Hu L, Zhu H, Wu X, Li Q.. 
+2017. Myocardial ischemic postconditioning promotes autophagy against ischemia reperfusion injury via the activation of the nNOS/AMPK/mTOR pathway. Int J Mol Sci. 18(3):614.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5372630</ArticleId>
+            <ArticleId IdType="pubmed">28287478</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hao P, Jiang F, Cheng J, Ma L, Zhang Y, Zhao Y.. 
+2017. Traditional Chinese medicine for cardiovascular disease: evidence and potential mechanisms. J Am Coll Cardiol. 69(24):2952–2966.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28619197</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hausenloy DJ, Yellon DM.. 
+2013. Myocardial ischemia–reperfusion injury: a neglected therapeutic target. J Clin Invest. 123(1):92–100.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3533275</ArticleId>
+            <ArticleId IdType="pubmed">23281415</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>He PK, Gu MH, Xu YL, Liu XY, Hong MK, Jia YH.. 
+2020. Effect of Xinbao pills on myocardial hypertrophy in chronic heart failure rats by regulating the PI3K/Akt/GSK3β pathway. Chin J Integrat Tradit West Med. 2020:1–7.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Huang DC, O'Reilly LA, Strasser A, Cory S.. 
+1997. The anti-apoptosis function of Bcl-2 can be genetically separated from its inhibitory effect on cell cycle entry. EMBO J. 16(15):4628–4638.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1170089</ArticleId>
+            <ArticleId IdType="pubmed">9303307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang ZQ, Wu SJ, Kong FQ, Cai XL, Ye BZ, Shan PR, Huang WJ.. 
+2017. MicroRNA-21 protects against cardiac hypoxia/reoxygenation injury by inhibiting excessive autophagy in H9c2 cells via the Akt/mTOR pathway. J Cell Mol Med. 21(3):467–474.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5323864</ArticleId>
+            <ArticleId IdType="pubmed">27680680</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jennings RB.
+2013. Historical perspective on the pathology of myocardial ischemia/reperfusion injury. Circ Res. 113(4):428–438.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23908330</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim JH.
+2018. Pharmacological and medical applications of Panax ginseng and ginsenosides: a review for use in cardiovascular diseases. J Ginseng Res. 42(3):264–269.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6026386</ArticleId>
+            <ArticleId IdType="pubmed">29983607</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kroemer G, Levine B.. 
+2008. Autophagic cell death: the story of a misnomer. Nat Rev Mol Cell Biol. 9(12):1004–1010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2727358</ArticleId>
+            <ArticleId IdType="pubmed">18971948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li J, Zhao Y, Zhou N, Li L, Li K.. 
+2019. Dexmedetomidine attenuates myocardial ischemia–reperfusion injury in diabetes mellitus by inhibiting endoplasmic reticulum stress. J Diabetes Res. 2019:7869318.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6914963</ArticleId>
+            <ArticleId IdType="pubmed">31886285</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li ZJ, Yu XX, Wang DM, Gu JY, Liu YT, Ding BH, Wu XX.. 
+2018. Study on mechanism of Xinbao pills in treatment of chronic heart failure based on network pharmacology. Tradit Chin Drug Res Clin Pharmacol. 29:768–774.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liu XM, Jiang YC, Yu XF, Fu WW, Zhang H, Sui DY.. 
+2014. Ginsenoside-Rb3 protects the myocardium from ischemia–reperfusion injury via the inhibition of apoptosis in rats. Exp Ther Med. 8(6):1751–1756.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4218709</ArticleId>
+            <ArticleId IdType="pubmed">25371727</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu XX, Jian XX, Cai XF, Chao RB, Chen QH, Chen DL, Wang XL, Wang FP.. 
+2012. Cardioactive C(1)(9)-diterpenoid alkaloids from the lateral roots of Aconitum carmichaeli "Fu Zi". Chem Pharm Bull. 60(1):144–149.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22223386</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luo P, Hou SZ, Dong GT, Chen TB, Liu L, Zhou H.. 
+2013. Effectiveness of Panax ginseng on acute myocardial ischemia reperfusion injury was abolished by flutamide via endogenous testosterone-mediated Akt pathway. Evid Based Complement Alternat Med. 2013:817826.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3824556</ArticleId>
+            <ArticleId IdType="pubmed">24282438</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ma XC, Liu HY, Foyil SR, Godar RJ, Weinheimer CJ, Diwan A.. 
+2012. Autophagy is impaired in cardiac ischemia–reperfusion injury. Autophagy. 8(9):1394–1396.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3442889</ArticleId>
+            <ArticleId IdType="pubmed">22889942</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nishida K, Kyoi S, Yamaguchi O, Sadoshima J, Otsu K.. 
+2009. The role of autophagy in the heart. Cell Death Differ. 16(1):31–38.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19008922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qin L, Fan SX, Jia RB, Liu YX.. 
+2018. Ginsenoside Rg1 protects cardiomyocytes from hypoxia-induced injury through the PI3K/AKT/mTOR pathway. Pharmazie. 73(6):349–355.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29880088</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shen YM, Zhai PL, Xi PX, Chen C, Mou FJ, Li FX, Zhang JY.. 
+2019. Identification of new trace related impurities in adenosine products using ultra-high-performance liquid chromatography/electrospray ionization quadrupole time-of-flight tandem mass spectrometry. Rapid Commun Mass Spectrom. 33(22):1739–1750.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31146299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shi B, Ma M, Zheng Y, Pan Y, Lin X.. 
+2019. mTOR and Beclin1: two key autophagy-related molecules and their roles in myocardial ischemia/reperfusion injury. J Cell Physiol. 234(8):12562–12568.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30618070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Takayama H, Yokota M, Aimi N, Sakai S, Lu ST, Chen IS.. 
+1990. Two new diterpene alkaloids, 10-hydroxyneoline and 14-O-acetyl-10-hydroxyneoline, from Aconitum fukutomei. J Nat Prod. 53(4):936–939.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tannous P, Zhu H, Nemchenko A, Berry JM, Johnstone JL, Shelton JM, Miller FJ, Rothermel BA, Hill JA.. 
+2008. Intracellular protein aggregation is a proximal trigger of cardiomyocyte autophagy. Circulation. 117(24):3070–3078.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2601596</ArticleId>
+            <ArticleId IdType="pubmed">18541737</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thind GS, Agrawal PR, Hirsh B, Saravolatz L, Chen-Scarabelli C, Narula J, Scarabelli TM.. 
+2015. Mechanisms of myocardial ischemia–reperfusion injury and the cytoprotective role of minocycline: scope and limitations. Future Cardiol. 11(1):61–76.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25606703</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tong Q, Zhu PC, Zhuang Z, Deng LH, Wang ZH, Zeng H, Zheng GQ, Wang Y.. 
+2019. Notoginsenoside R1 for organs ischemia/reperfusion injury: a preclinical systematic review. Front Pharmacol. 10:1204.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6811647</ArticleId>
+            <ArticleId IdType="pubmed">31680976</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang G, Huang H, Zheng H, He Y, Zhang Y, Xu Z, Zhang L, Xi JK.. 
+2016. Zn2+ and mPTP mediate endoplasmic reticulum stress inhibition-induced cardioprotection against myocardial ischemia/reperfusion injury. Biol Trace Elem Res. 174(1):189–197.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27106542</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang J, Hu X, Jiang H.. 
+2016. ER stress-induced apoptosis: a novel therapeutic target in myocardial ischemia and reperfusion injury. Int J Cardiol. 214:233–234.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27077539</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang L, Ding J, Liu X, Tang M, Cao R, Wang F.. 
+2014. Identification of aminoalcohol-diterpenoid alkaloids in Aconiti lateralis Radix Praeparata and study of their cardiac effects. Acta Pharmacol Sin. 49:1699–1704.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25920200</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wei WL, An YL, Zhang YZ, Li ZW, Zhou Y, Min L, Zhang JQ, Qu H, Da J, Wu WY, et al. . 
+2020. Quantitative analysis of fourteen bufadienolides in Venenum bufonis crude drug and its Chinese patent medicines by ultra-high performance liquid chromatography coupled with tandem mass spectrometry. J Ethnopharmacol. 251:112490.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31884035</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu H, Liu X, Gao ZY, Dai ZF, Lin M, Tian F, Zhao X, Sun Y, Pu XP.. 
+2019. Anti-myocardial infarction effects of Radix Aconiti lateralis preparata extracts and their influence on small molecules in the heart using matrix-assisted laser desorption/ionization-mass spectrometry imaging. Int J Mol Sci. 20(19):4837.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6801437</ArticleId>
+            <ArticleId IdType="pubmed">31569464</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu H, Ye M, Yang J, Ding J.. 
+2016. Modulating endoplasmic reticulum stress to alleviate myocardial ischemia and reperfusion injury from basic research to clinical practice: a long way to go. Int J Cardiol. 223:630–631.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27565840</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu J, Hong B, Wang J, Wang X, Niu SJ, Zhao CJ.. 
+2012. The comparative research on constituents of Radix Aconiti and its processing by HPLC quadrupole TOF-MS. Biomed Chromatogr. 26(11):1301–1307.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22311596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu LX, Xu YY, Yang ZJ, Feng Q.. 
+2018. Hydroxytyrosol and olive leaf extract exert cardioprotective effects by inhibiting GRP78 and CHOP expression. J Biomed Res. 32(5):371–379.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6163112</ArticleId>
+            <ArticleId IdType="pubmed">29760296</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu SY, Chang GL, Gao L, Jiang D, Wang LY, Li GX, Luo XX, Qin S, Guo XL, Zhang DY.. 
+2018. Trimetazidine protects against myocardial ischemia/reperfusion injury by inhibiting excessive autophagy. J Mol Med. 96(8):791–806.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29955901</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu XF, Xu SY, Zhang Y, Zhang H, Liu MN, Liu H, Gao Y, Xue X, Xiong H, Lin RC, et al. . 
+2017. Chemical comparison of two drying methods of mountain cultivated Ginseng by UPLC-QTOF-MS/MS and multivariate statistical analysis. Molecules. 22(5):717.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6154546</ArticleId>
+            <ArticleId IdType="pubmed">28468295</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yao F, Li X, Sun J, Cao XX, Liu MM, Li YH, Liu YJ.. 
+2021. Thermal transformation of polar into less-polar ginsenosides through demalonylation and deglycosylation in extracts from ginseng pulp. Sci Rep. 11(1):1513.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7810680</ArticleId>
+            <ArticleId IdType="pubmed">33452317</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yellon DM, Hausenloy DJ.. 
+2007. Myocardial reperfusion injury. N Engl J Med. 357(11):1121–1135.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17855673</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu HY, Wang SJ, Teng JL, Ji XM, Wu ZC, Ma QC, Fu XJ.. 
+2012. Effects of Radix Aconiti lateralis preparata and Rhizoma zingiberis on energy metabolism and expression of the genes related to metabolism in rats. Chin J Integr Med. 18(1):23–29.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22231706</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu LM, Li BY, Zhang M, Jin ZX, Duan WX, Zhao GL, Yang Y, Liu ZH, Chen WS, Wang SW, et al. . 
+2016. Melatonin reduces PERK-eIF2alpha-ATF4-mediated endoplasmic reticulum stress during myocardial ischemia–reperfusion injury: role of RISK and SAFE pathways interaction. Apoptosis. 21(7):809–824.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27170343</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu YL, Sun GB, Luo Y, Wang M, Chen RC, Zhang JY, Ai QD, Xing N, Sun XB.. 
+2016. Cardioprotective effects of notoginsenoside R1 against ischemia/reperfusion injuries by regulating oxidative stress- and endoplasmic reticulum stress-related signaling pathways. Sci Rep. 6:21730.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4757886</ArticleId>
+            <ArticleId IdType="pubmed">26888485</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zeng X, Li J, Li Z.. 
+2015. Ginsenoside Rd mitigates myocardial ischemia–reperfusion injury via Nrf2/HO-1 signaling pathway. Int J Clin Exp Med. 8(8):14497–14504.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4613125</ArticleId>
+            <ArticleId IdType="pubmed">26550440</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang L-P, Jiang Y-C, Yu X-F, Xu H-L, Li M, Zhao X-Z, Sui D-Y.. 
+2016. Ginsenoside Rg3 improves cardiac function after myocardial ischemia/reperfusion via attenuating apoptosis and inflammation. Evid Based Complement Alternat Med. 2016:6967853.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5220470</ArticleId>
+            <ArticleId IdType="pubmed">28105061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Z, Jiang MY, Wei XY, Shi JF, Geng Z, Yang SS, Fu CM, Guo L.. 
+2019. Rapid discovery of chemical constituents and absorbed components in rat serum after oral administration of Fuzi-Lizhong pill based on high-throughput HPLC-Q-TOF/MS analysis. Chin Med. 14:6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6397459</ArticleId>
+            <ArticleId IdType="pubmed">30867675</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang ZL, Fan Y, Liu ML.. 
+2012. Ginsenoside Rg1 inhibits autophagy in H9c2 cardiomyocytes exposed to hypoxia/reoxygenation. Mol Cell Biochem. 365(1–2):243–250.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22350816</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao SM, Guo QH, Zhang ZL, Wu D, Zhou H, Hao FK, Zhang YX.. 
+2010. Effect of Tinglishengmaifang on the contents of TNF-α and IL-6 in serum and myocardial collagen of rats with chronic heart failure. Lishizhen Med Mater Med Res. 21:153–154.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zheng Q, Bao XY, Zhu PC, Tong Q, Zheng GQ, Wang Y.. 
+2017. Ginsenoside Rb1 for myocardial ischemia/reperfusion injury: preclinical evidence and possible mechanisms. Oxid Med Cell Longev. 2017:1–14.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5753014</ArticleId>
+            <ArticleId IdType="pubmed">29430282</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou G, Tang L, Zhou X, Wang T, Kou Z, Wang Z.. 
+2015. A review on phytochemistry and pharmacological activities of the processed lateral root of Aconitum carmichaelii Debeaux. J Ethnopharmacol. 160:173–193.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25479152</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhu HX, Tannous P, Johnstone JL, Kong YL, Shelton JM, Richardson JA, Le V, Levine B, Rothermel BA, Hill JA.. 
+2007. Cardiac autophagy is a maladaptive response to hemodynamic stress. J Clin Invest. 117(7):1782–1793.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1890995</ArticleId>
+            <ArticleId IdType="pubmed">17607355</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhu LP, Wei TT, Gao J, Chang XY, He H, Luo F, Zhou R, Ma CH, Liu Y, Yan TH.. 
+2015. The cardioprotective effect of salidroside against myocardial ischemia reperfusion injury in rats by inhibiting apoptosis and inflammation. Apoptosis. 20(11):1433–1443.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26385354</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

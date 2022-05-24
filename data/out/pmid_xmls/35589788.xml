@@ -1,0 +1,523 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35589788</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>23</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2041-1723</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>13</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>19</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nature communications</Title>
+          <ISOAbbreviation>Nat Commun</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Templated folding of the RTX domain of the bacterial toxin adenylate cyclase revealed by single molecule force spectroscopy.</ArticleTitle>
+        <Pagination>
+          <StartPage>2784</StartPage>
+          <MedlinePgn>2784</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">2784</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41467-022-30448-8</ELocationID>
+        <Abstract>
+          <AbstractText>The RTX (repeats-in-toxin) domain of the bacterial toxin adenylate cyclase (CyaA) contains five RTX blocks (RTX-i to RTX-v) and its folding is essential for CyaA's functions. It was shown that the C-terminal capping structure of RTX-v is critical for the whole RTX to fold. However, it is unknown how the folding signal transmits within the RTX domain. Here we use optical tweezers to investigate the interplay between the folding of RTX-iv and RTX-v. Our results show that RTX-iv alone is disordered, but folds into a Ca<sup>2+</sup>-loaded-β-roll structure in the presence of a folded RTX-v. Folding trajectories of RTX-iv-v reveal that the folding of RTX-iv is strictly conditional upon the folding of RTX-v, suggesting that the folding of RTX-iv is templated by RTX-v. This templating effect allows RTX-iv to fold rapidly, and provides significant mutual stabilization. Our study reveals a possible mechanism for transmitting the folding signal within the RTX domain.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Han</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Chemistry, University of British Columbia, Vancouver, BC, V6T 1Z1, Canada.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>State Key Laboratory of Precision Measuring Technology and Instruments, School of Precision Instrument and Optoelectronics Engineering, Tianjin University, 300072, Tianjin, P. R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Guojun</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Chemistry, University of British Columbia, Vancouver, BC, V6T 1Z1, Canada.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Hongbin</ForeName>
+            <Initials>H</Initials>
+            <Identifier Source="ORCID">0000-0001-7813-1332</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Chemistry, University of British Columbia, Vancouver, BC, V6T 1Z1, Canada. Hongbin@chem.ubc.ca.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>19</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Nat Commun</MedlineTA>
+        <NlmUniqueID>101528555</NlmUniqueID>
+        <ISSNLinking>2041-1723</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D037361">Adenylate Cyclase Toxin</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001427">Bacterial Toxins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D037361" MajorTopicYN="N">Adenylate Cyclase Toxin</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001427" MajorTopicYN="Y">Bacterial Toxins</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001886" MajorTopicYN="Y">Bordetella pertussis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017510" MajorTopicYN="N">Protein Folding</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013057" MajorTopicYN="N">Spectrum Analysis</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>4</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>19</Day>
+          <Hour>23</Hour>
+          <Minute>21</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35589788</ArticleId>
+        <ArticleId IdType="pmc">PMC9120197</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41467-022-30448-8</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41467-022-30448-8</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Fernández-Puentes C, Carrasco L. Viral infection permeabilizes mammalian cells to protein toxins. Cell. 1980;20:769–775. doi: 10.1016/0092-8674(80)90323-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0092-8674(80)90323-2</ArticleId>
+            <ArticleId IdType="pubmed">6251972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Montecucco C, Papini E, Schiavo G. Bacterial protein toxins penetrate cells via a four-step mechanism. FEBS Lett. 1994;346:92–98. doi: 10.1016/0014-5793(94)00449-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0014-5793(94)00449-8</ArticleId>
+            <ArticleId IdType="pubmed">8206166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Falnes PO, Sandvig K. Penetration of protein toxins into cells. Curr. Opin. Cell. Biol. 2000;12:407–413. doi: 10.1016/S0955-0674(00)00109-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0955-0674(00)00109-5</ArticleId>
+            <ArticleId IdType="pubmed">10873820</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Parker MW, Feil SC. Pore-forming protein toxins: from structure to function. Prog. Biophys. Mol. Biol. 2005;88:91–142. doi: 10.1016/j.pbiomolbio.2004.01.009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.pbiomolbio.2004.01.009</ArticleId>
+            <ArticleId IdType="pubmed">15561302</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O'Brien DP, et al.  Post-translational acylation controls the folding and functions of the CyaA RTX toxin. FASEB J. 2019;33:10065–10076. doi: 10.1096/fj.201802442RR.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1096/fj.201802442RR</ArticleId>
+            <ArticleId IdType="pubmed">31226003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Coote JG. Structural and functional relationships among the RTX toxin determinants of gram-negative bacteria. FEMS Microbiol. Rev. 1992;8:137–161. doi: 10.1111/j.1574-6968.1992.tb04961.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1574-6968.1992.tb04961.x</ArticleId>
+            <ArticleId IdType="pubmed">1558765</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Linhartová I, et al.  RTX proteins: a highly diverse family secreted by a common mechanism. FEMS Microbiol. Rev. 2010;34:1076–1112. doi: 10.1111/j.1574-6976.2010.00231.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1574-6976.2010.00231.x</ArticleId>
+            <ArticleId IdType="pmc">PMC3034196</ArticleId>
+            <ArticleId IdType="pubmed">20528947</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bowen DJ, et al.  Genetic and biochemical characterization of PrtA, an RTX-like metalloprotease from Photorhabdus. Microbiology. 2003;149:1581–1591. doi: 10.1099/mic.0.26171-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/mic.0.26171-0</ArticleId>
+            <ArticleId IdType="pubmed">12777498</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ali MS, et al.  Cold-adapted RTX lipase from antarctic Pseudomonas sp. strain AMS8: isolation, molecular modeling and heterologous expression. Protein J. 2013;32:317–325. doi: 10.1007/s10930-013-9488-z.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10930-013-9488-z</ArticleId>
+            <ArticleId IdType="pubmed">23645400</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bulutoglu, B. &amp; Banta, S. Block V RTX domain of adenylate cyclase from Bordetella pertussis: a conformationally dynamic scaffold for protein engineering applications. Toxins9, 289 (2017).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bumba L, et al.  Calcium-driven folding of RTX domain β-rolls ratchets translocation of RTX proteins through type I secretion ducts. Mol. Cell. 2016;62:47–62. doi: 10.1016/j.molcel.2016.03.018.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2016.03.018</ArticleId>
+            <ArticleId IdType="pubmed">27058787</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sotomayor Pérez AC, et al.  Characterization of the regions involved in the calcium-induced folding of the intrinsically disordered RTX motifs from the Bordetella pertussis adenylate cyclase toxin. J. Mol. Biol. 2010;397:534–549. doi: 10.1016/j.jmb.2010.01.031.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jmb.2010.01.031</ArticleId>
+            <ArticleId IdType="pubmed">20096704</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bauche C, et al.  Structural and functional characterization of an essential RTX subdomain of Bordetella pertussis adenylate cyclase toxin. J. Biol. Chem. 2006;281:16914–16926. doi: 10.1074/jbc.M601594200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M601594200</ArticleId>
+            <ArticleId IdType="pubmed">16627468</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chenal A, et al.  Calcium-induced folding and stabilization of the intrinsically disordered RTX domain of the CyaA toxin. Biophys. J. 2010;99:3744–3753. doi: 10.1016/j.bpj.2010.10.016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bpj.2010.10.016</ArticleId>
+            <ArticleId IdType="pmc">PMC2998614</ArticleId>
+            <ArticleId IdType="pubmed">21112299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Forestier C, Welch RA. Identification of RTX toxin target cell specificity domains by use of hybrid genes. Infect. Immun. 1991;59:4212–4220. doi: 10.1128/iai.59.11.4212-4220.1991.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/iai.59.11.4212-4220.1991</ArticleId>
+            <ArticleId IdType="pmc">PMC259018</ArticleId>
+            <ArticleId IdType="pubmed">1937778</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vojtova J, Kamanova J, Sebo P. Bordetella adenylate cyclase toxin: a swift saboteur of host defense. Curr. Opin. Microbiol. 2006;9:69–75. doi: 10.1016/j.mib.2005.12.011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.mib.2005.12.011</ArticleId>
+            <ArticleId IdType="pubmed">16406775</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Confer DL, Eaton JW. Phagocyte impotence caused by an invasive bacterial adenylate cyclase. Science. 1982;217:948–950. doi: 10.1126/science.6287574.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.6287574</ArticleId>
+            <ArticleId IdType="pubmed">6287574</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ahmad JN, Sebo P. Bacterial RTX toxins and host immunity. Curr. Opin. Infect. Dis. 2021;34:187–196. doi: 10.1097/QCO.0000000000000726.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/QCO.0000000000000726</ArticleId>
+            <ArticleId IdType="pubmed">33899753</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ladant D, Ullmann A. Bordatella pertussis adenylate cyclase: a toxin with multiple talents. Trends Microbiol. 1999;7:172–176. doi: 10.1016/S0966-842X(99)01468-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0966-842X(99)01468-7</ArticleId>
+            <ArticleId IdType="pubmed">10217833</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guermonprez P, et al.  The adenylate cyclase toxin of Bordetella pertussis binds to target cells via the alpha(M)beta(2) integrin (CD11b/CD18) J. Exp. Med. 2001;193:1035–1044. doi: 10.1084/jem.193.9.1035.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1084/jem.193.9.1035</ArticleId>
+            <ArticleId IdType="pmc">PMC2193436</ArticleId>
+            <ArticleId IdType="pubmed">11342588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bumba L, Masin J, Fiser R, Sebo P. Bordetella adenylate cyclase toxin mobilizes its beta2 integrin receptor into lipid rafts to accomplish translocation across target cell membrane in two steps. PLoS Pathog. 2010;6:e1000901. doi: 10.1371/journal.ppat.1000901.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1000901</ArticleId>
+            <ArticleId IdType="pmc">PMC2869314</ArticleId>
+            <ArticleId IdType="pubmed">20485565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hanski E, Farfel Z. Bordetella pertussis invasive adenylate cyclase. Partial resolution and properties of its cellular penetration. J. Biol. Chem. 1985;260:5526–5532. doi: 10.1016/S0021-9258(18)89054-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0021-9258(18)89054-8</ArticleId>
+            <ArticleId IdType="pubmed">2859287</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Masin J, Osicka R, Bumba L, Sebo P. Bordetella adenylate cyclase toxin: a unique combination of a pore-forming moiety with a cell-invading adenylate cyclase enzyme. Pathog. Dis. 2015;73:ftv075. doi: 10.1093/femspd/ftv075.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/femspd/ftv075</ArticleId>
+            <ArticleId IdType="pmc">PMC4626595</ArticleId>
+            <ArticleId IdType="pubmed">26391732</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shur O, Banta S. Rearranging and concatenating a native RTX domain to understand sequence modularity. Protein Eng. Des. Sel. 2013;26:171–180. doi: 10.1093/protein/gzs092.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/protein/gzs092</ArticleId>
+            <ArticleId IdType="pubmed">23173179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang H, Gao X, Li H. Single molecule force spectroscopy reveals the mechanical design governing the efficient translocation of the bacterial toxin protein RTX. J. Am. Chem. Soc. 2019;141:20498–20506. doi: 10.1021/jacs.9b11281.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/jacs.9b11281</ArticleId>
+            <ArticleId IdType="pubmed">31786929</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Motlova L, Klimova N, Fiser R, Sebo P, Bumba L. Continuous assembly of β-Roll structures is implicated in the type I-dependent secretion of large repeat-in-toxins (RTX) proteins. J. Mol. Biol. 2020;432:5696–5710. doi: 10.1016/j.jmb.2020.08.020.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jmb.2020.08.020</ArticleId>
+            <ArticleId IdType="pubmed">32860773</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goldsmith JA, DiVenere AM, Maynard JA, McLellan JS. Structural basis for antibody binding to adenylate cyclase toxin reveals RTX linkers as neutralization-sensitive epitopes. PLoS Pathog. 2021;17:e1009920. doi: 10.1371/journal.ppat.1009920.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1009920</ArticleId>
+            <ArticleId IdType="pmc">PMC8486122</ArticleId>
+            <ArticleId IdType="pubmed">34547035</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Espinosa-Vinals CA, et al.  Almost half of the RTX domain is dispensable for complement receptor 3 binding and cell-invasive activity of the Bordetella adenylate cyclase toxin. J. Biol. Chem. 2021;297:100833. doi: 10.1016/j.jbc.2021.100833.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jbc.2021.100833</ArticleId>
+            <ArticleId IdType="pmc">PMC8214218</ArticleId>
+            <ArticleId IdType="pubmed">34051233</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cecconi C, Shank EA, Dahlquist FW, Marqusee S, Bustamante C. Protein-DNA chimeras for single molecule mechanical folding studies with the optical tweezers. Eur. Biophys. J. 2008;37:729–738. doi: 10.1007/s00249-007-0247-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00249-007-0247-y</ArticleId>
+            <ArticleId IdType="pmc">PMC2862981</ArticleId>
+            <ArticleId IdType="pubmed">18183383</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lei H, et al.  Single-molecule force spectroscopy trajectories of a single protein and its polyproteins are equivalent: a direct experimental validation based on a small protein NuG2. Angew. Chem. Int. Ed. 2017;56:6117–6121. doi: 10.1002/anie.201610648.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/anie.201610648</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stigler J, Ziegler F, Gieseke A, Gebhardt JC, Rief M. The complex folding network of single calmodulin molecules. Science. 2011;334:512–516. doi: 10.1126/science.1207598.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1207598</ArticleId>
+            <ArticleId IdType="pubmed">22034433</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang X, Halvorsen K, Zhang CZ, Wong WP, Springer TA. Mechanoenzymatic cleavage of the ultralarge vascular protein von Willebrand factor. Science. 2009;324:1330–1334. doi: 10.1126/science.1170905.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1170905</ArticleId>
+            <ArticleId IdType="pmc">PMC2753189</ArticleId>
+            <ArticleId IdType="pubmed">19498171</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Woodside MT, Block SM. Reconstructing folding energy landscapes by single-molecule force spectroscopy. Annu. Rev. Biophys. 2014;43:19–39. doi: 10.1146/annurev-biophys-051013-022754.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-biophys-051013-022754</ArticleId>
+            <ArticleId IdType="pmc">PMC4609573</ArticleId>
+            <ArticleId IdType="pubmed">24895850</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>He C, et al.  Direct observation of the reversible two-state unfolding and refolding of an α/β protein by single-molecule atomic force microscopy. Angew. Chem. Int. Ed. 2015;54:9921–9925. doi: 10.1002/anie.201502938.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/anie.201502938</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marko JFA, S. ED. Stretching DNA. Macromolecules. 1995;28:8759–8770. doi: 10.1021/ma00130a008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/ma00130a008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Viguera AR, Serrano L. Loop length, intramolecular diffusion and protein folding. Nat. Struct. Biol. 1997;4:939–946. doi: 10.1038/nsb1197-939.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nsb1197-939</ArticleId>
+            <ArticleId IdType="pubmed">9360611</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nagi AD, Anderson KS, Regan L. Using loop length variants to dissect the folding pathway of a four-helix-bundle protein. J. Mol. Biol. 1999;286:257–265. doi: 10.1006/jmbi.1998.2474.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/jmbi.1998.2474</ArticleId>
+            <ArticleId IdType="pubmed">9931264</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li H, Wang HC, Cao Y, Sharma D, Wang M. Configurational entropy modulates the mechanical stability of protein GB1. J. Mol. Biol. 2008;379:871–880. doi: 10.1016/j.jmb.2008.04.018.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jmb.2008.04.018</ArticleId>
+            <ArticleId IdType="pubmed">18472109</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chan HS, Dill KA. Intrachain loops in polymers. J. Chem. Physi. 1998;90:492–509. doi: 10.1063/1.456500.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1063/1.456500</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carrion-Vazquez M, et al.  Mechanical and chemical unfolding of a single protein: a comparison. Proc. Natl Acad. Sci. USA. 1999;96:3694–3699. doi: 10.1073/pnas.96.7.3694.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.96.7.3694</ArticleId>
+            <ArticleId IdType="pmc">PMC22356</ArticleId>
+            <ArticleId IdType="pubmed">10097099</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oberhauser AF, Marszalek PE, Erickson HP, Fernandez JM. The molecular elasticity of the extracellular matrix protein tenascin. Nature. 1998;393:181–185. doi: 10.1038/30270.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/30270</ArticleId>
+            <ArticleId IdType="pubmed">9603523</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bell GI. Models for the specific adhesion of cells to cells. Science. 1978;200:618–627. doi: 10.1126/science.347575.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.347575</ArticleId>
+            <ArticleId IdType="pubmed">347575</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Evans E. Probing the relation between force–lifetime–and chemistry in single molecular bonds. Annu. Rev. Biophys. Biomol. Struct. 2001;30:105–128. doi: 10.1146/annurev.biophys.30.1.105.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev.biophys.30.1.105</ArticleId>
+            <ArticleId IdType="pubmed">11340054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li H, Oberhauser AF, Fowler SB, Clarke J, Fernandez JM. Atomic force microscopy reveals the mechanical design of a modular protein. Proc. Natl Acad. Sci. USA. 2000;97:6527–6531. doi: 10.1073/pnas.120048697.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.120048697</ArticleId>
+            <ArticleId IdType="pmc">PMC18646</ArticleId>
+            <ArticleId IdType="pubmed">10823913</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rief M, Gautel M, Oesterhelt F, Fernandez JM, Gaub HE. Reversible unfolding of individual titin immunoglobulin domains by AFM. Science. 1997;276:1109–1112. doi: 10.1126/science.276.5315.1109.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.276.5315.1109</ArticleId>
+            <ArticleId IdType="pubmed">9148804</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cao Y, Li H. Polyprotein of GB1 is an ideal artificial elastomeric protein. Nat. Mater. 2007;6:109–114. doi: 10.1038/nmat1825.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmat1825</ArticleId>
+            <ArticleId IdType="pubmed">17237787</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith SB, Cui Y, Bustamante C. Optical-trap force transducer that operates by direct measurement of light momentum. Methods Enzymol. 2003;361:134–162. doi: 10.1016/S0076-6879(03)61009-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0076-6879(03)61009-8</ArticleId>
+            <ArticleId IdType="pubmed">12624910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bosco A, Camunas-Soler J, Ritort F. Elastic properties and secondary structure formation of single-stranded DNA at monovalent and divalent salt conditions. Nucleic Acids Res. 2014;42:2064–2074. doi: 10.1093/nar/gkt1089.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkt1089</ArticleId>
+            <ArticleId IdType="pmc">PMC3919573</ArticleId>
+            <ArticleId IdType="pubmed">24225314</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gupta R, Toptygin D, Kaiser CM. The SecA motor generates mechanical force during protein translocation. Nat. Commun. 2020;11:3802. doi: 10.1038/s41467-020-17561-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-020-17561-2</ArticleId>
+            <ArticleId IdType="pmc">PMC7393111</ArticleId>
+            <ArticleId IdType="pubmed">32732903</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oberbarnscheidt L, Janissen R, Oesterhelt F. Direct and model free calculation of force-dependent dissociation rates from force spectroscopic data. Biophys. J. 2009;97:L19–L21. doi: 10.1016/j.bpj.2009.08.015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bpj.2009.08.015</ArticleId>
+            <ArticleId IdType="pmc">PMC2770607</ArticleId>
+            <ArticleId IdType="pubmed">19883578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

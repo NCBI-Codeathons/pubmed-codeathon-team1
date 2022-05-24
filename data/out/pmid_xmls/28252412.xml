@@ -1,0 +1,116 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">28252412</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>03</Month>
+        <Day>04</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>03</Month>
+        <Day>04</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2162-2388</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>29</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>IEEE transactions on neural networks and learning systems</Title>
+          <ISOAbbreviation>IEEE Trans Neural Netw Learn Syst</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Probabilistic Distance for Mixtures of Independent Component Analyzers.</ArticleTitle>
+        <Pagination>
+          <StartPage>1161</StartPage>
+          <EndPage>1173</EndPage>
+          <MedlinePgn>1161-1173</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1109/TNNLS.2017.2663843</ELocationID>
+        <Abstract>
+          <AbstractText>Independent component analysis (ICA) is a blind source separation technique where data are modeled as linear combinations of several independent non-Gaussian sources. The independence and linear restrictions are relaxed using several ICA mixture models (ICAMMs) obtaining a two-layer artificial neural network structure. This allows for dependence between sources of different classes, and thus, a myriad of multidimensional probability density functions can be accurate modeled. This paper proposes a new probabilistic distance (PDI) between the parameters learned for two ICAMMs. The PDI is computed explicitly, unlike the popular Kullback-Leibler divergence (KLD) and other similar metrics, removing the need for numerical integration. Furthermore, the PDI is symmetric and bounded within 0 and 1, which enables its use as a posterior probability in fusion approaches. In this paper, the PDI is employed for change detection by measuring the distance between two ICAMMs learned in consecutive time windows. The changes might be associated with relevant states from a process under analysis that are explicitly reflected in the learned ICAMM parameters. The proposed distance was tested in two challenging applications using simulated and real data: 1) detecting flaws in materials using ultrasounds and 2) detecting changes in electroencephalography signals from humans performing neuropsychological tests. The results demonstrate that the PDI outperforms the KLD in change-detection capabilities.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Safont</LastName>
+            <ForeName>Gonzalo</ForeName>
+            <Initials>G</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Salazar</LastName>
+            <ForeName>Addisson</ForeName>
+            <Initials>A</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vergara</LastName>
+            <ForeName>Luis</ForeName>
+            <Initials>L</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gomez</LastName>
+            <ForeName>Enriqueta</ForeName>
+            <Initials>E</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Villanueva</LastName>
+            <ForeName>Vicente</ForeName>
+            <Initials>V</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2017</Year>
+          <Month>02</Month>
+          <Day>24</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>IEEE Trans Neural Netw Learn Syst</MedlineTA>
+        <NlmUniqueID>101616214</NlmUniqueID>
+        <ISSNLinking>2162-237X</ISSNLinking>
+      </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2017</Year>
+          <Month>3</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2017</Year>
+          <Month>3</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2017</Year>
+          <Month>3</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">28252412</ArticleId>
+        <ArticleId IdType="doi">10.1109/TNNLS.2017.2663843</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

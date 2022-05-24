@@ -1,0 +1,1714 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35482009</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>02</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1540-7748</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>154</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Sep</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of general physiology</Title>
+          <ISOAbbreviation>J Gen Physiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Biological noise is a key determinant of the reproducibility and adaptability of cardiac pacemaking and EC coupling.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">e202012613</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1085/jgp.202012613</ELocationID>
+        <Abstract>
+          <AbstractText>Each heartbeat begins with the generation of an action potential in pacemaking cells in the sinoatrial node. This signal triggers contraction of cardiac muscle through a process termed excitation-contraction (EC) coupling. EC coupling is initiated in dyadic structures of cardiac myocytes, where ryanodine receptors in the junctional sarcoplasmic reticulum come into close apposition with clusters of CaV1.2 channels in invaginations of the sarcolemma. Cooperative activation of CaV1.2 channels within these clusters causes a local increase in intracellular Ca2+ that activates the juxtaposed ryanodine receptors. A salient feature of healthy cardiac function is the reliable and precise beat-to-beat pacemaking and amplitude of Ca2+ transients during EC coupling. In this review, we discuss recent discoveries suggesting that the exquisite reproducibility of this system emerges, paradoxically, from high variability at subcellular, cellular, and network levels. This variability is attributable to stochastic fluctuations in ion channel trafficking, clustering, and gating, as well as dyadic structure, which increase intracellular Ca2+ variance during EC coupling. Although the effects of these large, local fluctuations in function and organization are sometimes negligible at the macroscopic level owing to spatial-temporal summation within and across cells in the tissue, recent work suggests that the "noisiness" of these intracellular Ca2+ events may either enhance or counterintuitively reduce variability in a context-dependent manner. Indeed, these noisy events may represent distinct regulatory features in the tuning of cardiac contractility. Collectively, these observations support the importance of incorporating experimentally determined values of Ca2+ variance in all EC coupling models. The high reproducibility of cardiac contraction is a paradoxical outcome of high Ca2+ signaling variability at subcellular, cellular, and network levels caused by stochastic fluctuations in multiple processes in time and space. This underlying stochasticity, which counterintuitively manifests as reliable, consistent Ca2+ transients during EC coupling, also allows for rapid changes in cardiac rhythmicity and contractility in health and disease.</AbstractText>
+          <CopyrightInformation>© 2022 Guarina et al.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Guarina</LastName>
+            <ForeName>Laura</ForeName>
+            <Initials>L</Initials>
+            <Identifier Source="ORCID">0000-0003-2073-9964</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Physiology and Membrane Biology, University of California Davis School of Medicine, Davis, CA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moghbel</LastName>
+            <ForeName>Ariana Neelufar</ForeName>
+            <Initials>AN</Initials>
+            <Identifier Source="ORCID">0000-0002-1136-5174</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Physiology and Membrane Biology, University of California Davis School of Medicine, Davis, CA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pourhosseinzadeh</LastName>
+            <ForeName>Mohammad S</ForeName>
+            <Initials>MS</Initials>
+            <Identifier Source="ORCID">0000-0001-9729-0056</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Physiology and Membrane Biology, University of California Davis School of Medicine, Davis, CA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cudmore</LastName>
+            <ForeName>Robert H</ForeName>
+            <Initials>RH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Physiology and Membrane Biology, University of California Davis School of Medicine, Davis, CA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sato</LastName>
+            <ForeName>Daisuke</ForeName>
+            <Initials>D</Initials>
+            <Identifier Source="ORCID">0000-0001-9341-0970</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Pharmacology, University of California Davis School of Medicine, Davis, CA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Clancy</LastName>
+            <ForeName>Colleen E</ForeName>
+            <Initials>CE</Initials>
+            <Identifier Source="ORCID">0000-0001-6849-4885</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Physiology and Membrane Biology, University of California Davis School of Medicine, Davis, CA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Santana</LastName>
+            <ForeName>Luis Fernando</ForeName>
+            <Initials>LF</Initials>
+            <Identifier Source="ORCID">0000-0002-4297-8029</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Physiology and Membrane Biology, University of California Davis School of Medicine, Davis, CA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 HL149349</GrantID>
+            <Acronym>HL</Acronym>
+            <Agency>NHLBI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>5R01HL085686</GrantID>
+            <Acronym>NH</Acronym>
+            <Agency>NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>04</Month>
+          <Day>28</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>J Gen Physiol</MedlineTA>
+        <NlmUniqueID>2985110R</NlmUniqueID>
+        <ISSNLinking>0022-1295</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D019837">Ryanodine Receptor Calcium Release Channel</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>SY7Q814VUP</RegistryNumber>
+          <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D002118" MajorTopicYN="Y">Calcium</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D056966" MajorTopicYN="N">Excitation Contraction Coupling</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D032383" MajorTopicYN="N">Myocytes, Cardiac</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019837" MajorTopicYN="Y">Ryanodine Receptor Calcium Release Channel</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>7</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>28</Day>
+          <Hour>11</Hour>
+          <Minute>2</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35482009</ArticleId>
+        <ArticleId IdType="pmc">PMC9059386</ArticleId>
+        <ArticleId IdType="doi">10.1085/jgp.202012613</ArticleId>
+        <ArticleId IdType="pii">213185</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Adachi-Akahane, S., Cleemann L., and Morad M.. 1996. Cross-signaling between L-type Ca2+ channels and ryanodine receptors in rat ventricular myocytes. J. Gen. Physiol.
+108:435–454. 10.1085/jgp.108.5.435</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1085/jgp.108.5.435</ArticleId>
+            <ArticleId IdType="pmc">PMC2229354</ArticleId>
+            <ArticleId IdType="pubmed">8923268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aghasafari, P., Yang P.C., Kernik D.C., Sakamoto K., Kanda Y., Kurokawa J., Vorobyov I., and Clancy C.E.. 2021. A deep learning algorithm to translate and classify cardiac electrophysiology. Elife. 10:e68335. 10.7554/eLife.68335</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.68335</ArticleId>
+            <ArticleId IdType="pmc">PMC8282335</ArticleId>
+            <ArticleId IdType="pubmed">34212860</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Angelini, M., Pezhouman A., Savalli N., Chang M.G., Steccanella F., Scranton K., Calmettes G., Ottolia M., Pantazis A., Karagueuzian H.S., et al. . 2021. Suppression of ventricular arrhythmias by targeting late L-type Ca2+ current. J. Gen. Physiol.
+153:e202012584. 10.1085/jgp.202012584</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1085/jgp.202012584</ArticleId>
+            <ArticleId IdType="pmc">PMC8552156</ArticleId>
+            <ArticleId IdType="pubmed">34698805</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anumonwo, J.M., Delmar M., Vinet A., Michaels D.C., and Jalife J.. 1991. Phase resetting and entrainment of pacemaker activity in single sinus nodal cells. Circ. Res.
+68:1138–1153. 10.1161/01.res.68.4.1138</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.res.68.4.1138</ArticleId>
+            <ArticleId IdType="pubmed">2009613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anumonwo, J.M., Wang H.Z., Trabka-Janik E., Dunham B., Veenstra R.D., Delmar M., and Jalife J.. 1992. Gap junctional channels in adult mammalian sinus nodal cells. Immunolocalization and electrophysiology. Circ. Res.
+71:229–239. 10.1161/01.res.71.2.229</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.res.71.2.229</ArticleId>
+            <ArticleId IdType="pubmed">1378358</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Asghari, P., Scriven D.R., Ng M., Panwar P., Chou K.C., van Petegem F., and Moore E.D.. 2020. Cardiac ryanodine receptor distribution is dynamic and changed by auxiliary proteins and post-translational modification. Elife. 9:e51602. 10.7554/eLife.51602</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.51602</ArticleId>
+            <ArticleId IdType="pmc">PMC6994221</ArticleId>
+            <ArticleId IdType="pubmed">31916935</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baddeley, D., Jayasinghe I.D., Lam L., Rossberger S., Cannell M.B., and Soeller C.. 2009. Optical single-channel resolution imaging of the ryanodine receptor distribution in rat cardiac myocytes. Proc. Natl. Acad. Sci. USA. 106:22275–22280. 10.1073/pnas.0908971106</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0908971106</ArticleId>
+            <ArticleId IdType="pmc">PMC2799702</ArticleId>
+            <ArticleId IdType="pubmed">20018773</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baruscotti, M., Bucchi A., and Difrancesco D.. 2005. Physiology and pharmacology of the cardiac pacemaker (“funny”) current. Pharmacol. Ther.
+107:59–79. 10.1016/j.pharmthera.2005.01.005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.pharmthera.2005.01.005</ArticleId>
+            <ArticleId IdType="pubmed">15963351</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beard, N.A., Laver D.R., and Dulhunty A.F.. 2004. Calsequestrin and the calcium release channel of skeletal and cardiac muscle. Prog. Biophys. Mol. Biol.
+85:33–69. 10.1016/j.pbiomolbio.2003.07.001</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.pbiomolbio.2003.07.001</ArticleId>
+            <ArticleId IdType="pubmed">15050380</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beavers, D.L., Wang W., Ather S., Voigt N., Garbino A., Dixit S.S., Landstrom A.P., Li N., Wang Q., Olivotto I., et al. . 2013. Mutation E169K in junctophilin-2 causes atrial fibrillation due to impaired RyR2 stabilization. J. Am. Coll. Cardiol.
+62:2010–2019. 10.1016/j.jacc.2013.06.052</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jacc.2013.06.052</ArticleId>
+            <ArticleId IdType="pmc">PMC3830688</ArticleId>
+            <ArticleId IdType="pubmed">23973696</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beuckelmann, D.J., Nabauer M., and Erdmann E.. 1993. Alterations of K+ currents in isolated human ventricular myocytes from patients with terminal heart failure. Circ. Res.
+73:379–385. 10.1161/01.res.73.2.379</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.res.73.2.379</ArticleId>
+            <ArticleId IdType="pubmed">8330380</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bleeker, W.K., Mackaay A.J., Masson-Pevet M., Bouman L.N., and Becker A.E.. 1980. Functional and morphological organization of the rabbit sinus node. Circ. Res.
+46:11–22. 10.1161/01.res.46.1.11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.res.46.1.11</ArticleId>
+            <ArticleId IdType="pubmed">7349910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Block, B.A., Imagawa T., Campbell K.P., and Franzini-Armstrong C.. 1988. Structural evidence for direct interaction between the molecular components of the transverse tubule/sarcoplasmic reticulum junction in skeletal muscle. J. Cell. Biol.
+107:2587–2600. 10.1083/jcb.107.6.2587</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1083/jcb.107.6.2587</ArticleId>
+            <ArticleId IdType="pmc">PMC2115675</ArticleId>
+            <ArticleId IdType="pubmed">2849609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bogdanov, K.Y., Vinogradova T.M., and Lakatta E.G.. 2001a. Sinoatrial nodal cell ryanodine receptor and Na+–Ca2+ exchanger: Molecular partners in pacemaker regulation. Circ. Res.
+88:1254–1258. 10.1161/hh1201.092095</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/hh1201.092095</ArticleId>
+            <ArticleId IdType="pubmed">11420301</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bogdanov, K.Y., Vinogradova T.M., and Lakatta E.G.. 2001b. Sinoatrial nodal cell ryanodine receptor and Na+–Ca2+ exchanger: Molecular partners in pacemaker regulation. Circ. Res.
+88:1254–1258. 10.1161/hh1201.092095</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/hh1201.092095</ArticleId>
+            <ArticleId IdType="pubmed">11420301</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boyett, M.R., and Dobrzynski H.. 2007. The sinoatrial node is still setting the pace 100 years after its discovery. Circ. Res.
+100:1543–1545. 10.1161/CIRCRESAHA.107.101101</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/CIRCRESAHA.107.101101</ArticleId>
+            <ArticleId IdType="pubmed">17556667</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boyett, M.R., Honjo H., and Kodama I.. 2000. The sinoatrial node, a heterogeneous pacemaker structure. Cardiovasc. Res.
+47:658–687. 10.1016/s0008-6363(00)00135-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0008-6363(00)00135-8</ArticleId>
+            <ArticleId IdType="pubmed">10974216</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boyett, M.R., Inada S., Yoo S., Li J., Liu J., Tellez J., Greener I.D., Honjo H., Billeter R., Lei M., et al. . 2006. Connexins in the sinoatrial and atrioventricular nodes. Adv. Cardiol.
+42:175–197. 10.1159/000092569</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1159/000092569</ArticleId>
+            <ArticleId IdType="pubmed">16646591</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brennan, J.A., Chen Q., Gams A., Dyavanapalli J., Mendelowitz D., Peng W., and Efimov I.R.. 2020. Evidence of superior and inferior sinoatrial nodes in the mammalian heart. JACC Clin. Electrophysiol.
+6:1827–1840. 10.1016/j.jacep.2020.09.012</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jacep.2020.09.012</ArticleId>
+            <ArticleId IdType="pmc">PMC7770336</ArticleId>
+            <ArticleId IdType="pubmed">33357580</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bridge, J.H., Ershler P.R., and Cannell M.B.. 1999. Properties of Ca2+ sparks evoked by action potentials in mouse ventricular myocytes. J. Physiol.
+518(Pt 2):469–478. 10.1111/j.1469-7793.1999.0469p.x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1469-7793.1999.0469p.x</ArticleId>
+            <ArticleId IdType="pmc">PMC2269442</ArticleId>
+            <ArticleId IdType="pubmed">10381593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Britton, O.J., Bueno-Orovio A., Van Ammel K., Lu H.R., Towart R., Gallacher D.J., and Rodriguez B.. 2013. Experimentally calibrated population of models predicts and explains intersubject variability in cardiac cellular electrophysiology. Proc. Natl. Acad. Sci. USA. 110:E2098–E2105. 10.1073/pnas.1304382110</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1304382110</ArticleId>
+            <ArticleId IdType="pmc">PMC3677477</ArticleId>
+            <ArticleId IdType="pubmed">23690584</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brown, H., and Difrancesco D.. 1980. Voltage-clamp investigations of membrane currents underlying pace-maker activity in rabbit sino-atrial node. J. Physiol.
+308:331–351. 10.1113/jphysiol.1980.sp013474</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.1980.sp013474</ArticleId>
+            <ArticleId IdType="pmc">PMC1274551</ArticleId>
+            <ArticleId IdType="pubmed">7230019</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bychkov, R., Juhaszova M., Tsutsui K., Coletta C., Stern M.D., Maltsev V.A., and Lakatta E.G.. 2020. Synchronized cardiac impulses emerge from heterogeneous local calcium signals within and among cells of pacemaker tissue. JACC Clin. Electrophysiol.
+6:907–931. 10.1016/j.jacep.2020.06.022</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jacep.2020.06.022</ArticleId>
+            <ArticleId IdType="pubmed">32819526</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cannell, M.B., Cheng H., and Lederer W.J.. 1994. Spatial non-uniformities in [Ca2+]i during excitation-contraction coupling in cardiac myocytes. Biophys. J.
+67:1942–1956. 10.1016/s0006-3495(94)80677-0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0006-3495(94)80677-0</ArticleId>
+            <ArticleId IdType="pmc">PMC1225569</ArticleId>
+            <ArticleId IdType="pubmed">7858131</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cannell, M.B., Cheng H., Lederer W., and Lederer W.J.. 1995. The control of calcium release in heart muscle. Science. 268:1045–1049. 10.1126/science.7754384</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.7754384</ArticleId>
+            <ArticleId IdType="pubmed">7754384</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cannell, M.B., and Soeller C.. 1997. Numerical analysis of ryanodine receptor activation by L-type channel activity in the cardiac muscle diad. Biophys. J.
+73:112–122. 10.1016/S0006-3495(97)78052-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0006-3495(97)78052-4</ArticleId>
+            <ArticleId IdType="pmc">PMC1180913</ArticleId>
+            <ArticleId IdType="pubmed">9199776</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carlson, C.R., Aronsen J.M., Bergan-Dahl A., Moutty M.C., Lunde M., Lunde P.K., Jarstadmarken H., Wanichawan P., Pereira L., Kolstad T.R.S., et al. . 2022. AKAP18δ anchors and regulates CaMKII activity at phospholamban-SERCA2 and RYR. Circ. Res.
+130:27–44. 10.1161/CIRCRESAHA.120.317976</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/CIRCRESAHA.120.317976</ArticleId>
+            <ArticleId IdType="pubmed">34814703</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cazade, M., Bidaud I., Lory P., and Chemin J.. 2017. Activity-dependent regulation of T-type calcium channels by submembrane calcium ions. Elife. 6:e22331. 10.7554/eLife.22331</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.22331</ArticleId>
+            <ArticleId IdType="pmc">PMC5308894</ArticleId>
+            <ArticleId IdType="pubmed">28109159</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng, H., Lederer M.R., Lederer W.J., and Cannell M.B.. 1996. Calcium sparks and [Ca2+]i waves in cardiac myocytes. Am. J. Physiol.
+270:C148–C159. 10.1152/ajpcell.1996.270.1.c148</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpcell.1996.270.1.c148</ArticleId>
+            <ArticleId IdType="pubmed">8772440</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng, H., Lederer W.J., and Cannell M.B.. 1993. Calcium sparks: Elementary events underlying excitation-contraction coupling in heart muscle. Science. 262:740–744. 10.1126/science.8235594</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.8235594</ArticleId>
+            <ArticleId IdType="pubmed">8235594</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng, H., Song L.S., Shirokova N., Gonzalez A., Lakatta E.G., Rios E., and Stern M.D.. 1999. Amplitude distribution of calcium sparks in confocal images: Theory and studies with an automatic detection method. Biophys. J.
+76:606–617. 10.1016/S0006-3495(99)77229-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0006-3495(99)77229-2</ArticleId>
+            <ArticleId IdType="pmc">PMC1300067</ArticleId>
+            <ArticleId IdType="pubmed">9929467</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cho, H.S., Takano M., and Noma A.. 2003. The electrophysiological properties of spontaneously beating pacemaker cells isolated from mouse sinoatrial node. J. Physiol.
+550:169–180. 10.1113/jphysiol.2003.040501</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2003.040501</ArticleId>
+            <ArticleId IdType="pmc">PMC2343002</ArticleId>
+            <ArticleId IdType="pubmed">12879867</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chou, C.C., Zhou S., Hayashi H., Nihei M., Liu Y.B., Wen M.S., Yeh S.J., Fishbein M.C., Weiss J.N., Lin S.F., et al. . 2007. Remodelling of action potential and intracellular calcium cycling dynamics during subacute myocardial infarction promotes ventricular arrhythmias in Langendorff-perfused rabbit hearts. J. Physiol.
+580:895–906. 10.1113/jphysiol.2006.120659</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2006.120659</ArticleId>
+            <ArticleId IdType="pmc">PMC2075460</ArticleId>
+            <ArticleId IdType="pubmed">17272354</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Choudhury, M., Boyett M.R., and Morris G.M.. 2015. Biology of the sinus node and its disease. Arrhythm. Electrophysiol. Rev.
+4:28–34. 10.15420/aer.2015.4.1.28</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.15420/aer.2015.4.1.28</ArticleId>
+            <ArticleId IdType="pmc">PMC4711507</ArticleId>
+            <ArticleId IdType="pubmed">26835096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Christel, C.J., Cardona N., Mesirca P., Herrmann S., Hofmann F., Striessnig J., Ludwig A., Mangoni M.E., and Lee A.. 2012. Distinct localization and modulation of Cav1.2 and Cav1.3 L-type Ca2+ channels in mouse sinoatrial node. J. Physiol.
+590:6327–6342. 10.1113/jphysiol.2012.239954</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2012.239954</ArticleId>
+            <ArticleId IdType="pmc">PMC3533195</ArticleId>
+            <ArticleId IdType="pubmed">23045342</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clancy, C.E., and Santana L.F.. 2020. Evolving discovery of the origin of the heartbeat: A new perspective on sinus rhythm. JACC Clin. Electrophysiol.
+6:932–934. 10.1016/j.jacep.2020.07.002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jacep.2020.07.002</ArticleId>
+            <ArticleId IdType="pubmed">32819527</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cooper, J.R., and Wordeman L.. 2009. The diffusive interaction of microtubule binding proteins. Curr. Opin. Cell. Biol.
+21:68–73. 10.1016/j.ceb.2009.01.005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ceb.2009.01.005</ArticleId>
+            <ArticleId IdType="pmc">PMC2670775</ArticleId>
+            <ArticleId IdType="pubmed">19185482</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Craske, M.L., Fivaz M., Batada N.N., and Meyer T.. 2005. Spines and neurite branches function as geometric attractors that enhance protein kinase C action. J. Cell. Biol.
+170:1147–1158. 10.1083/jcb.200503118</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1083/jcb.200503118</ArticleId>
+            <ArticleId IdType="pmc">PMC2171530</ArticleId>
+            <ArticleId IdType="pubmed">16186260</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>De La Mata, A., Tajada S., O’Dwyer S., Matsumoto C., Dixon R.E., Hariharan N., Moreno C.M., and Santana L.F.. 2019. BIN1 induces the formation of T-tubules and adult-like Ca2+ release units in developing cardiomyocytes. Stem. Cells. 37:54–64. 10.1002/stem.2927</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/stem.2927</ArticleId>
+            <ArticleId IdType="pmc">PMC6312737</ArticleId>
+            <ArticleId IdType="pubmed">30353632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Del Villar, S.G., Voelker T.L., Westhoff M., Reddy G.R., Spooner H.C., Navedo M.F., Dickson E.J., and Dixon R.E.. 2021. β-Adrenergic control of sarcolemmal CaV1.2 abundance by small GTPase Rab proteins. Proc. Natl. Acad. Sci. USA. 118:e2017937118. 10.1073/pnas.2017937118</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.2017937118</ArticleId>
+            <ArticleId IdType="pmc">PMC7896340</ArticleId>
+            <ArticleId IdType="pubmed">33558236</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dibb, K.M., Louch W.E., and Trafford A.W.. 2021. Cardiac transverse tubules in physiology and heart failure. Annu. Rev. Physiol.
+84:229–255. 10.1146/annurev-physiol-061121-040148</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-physiol-061121-040148</ArticleId>
+            <ArticleId IdType="pubmed">34780259</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>DiFrancesco, D.
+1991. The contribution of the “pacemaker” current (If) to generation of spontaneous activity in rabbit sino-atrial node myocytes. J. Physiol.
+434:23–40. 10.1113/jphysiol.1991.sp018457</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.1991.sp018457</ArticleId>
+            <ArticleId IdType="pmc">PMC1181405</ArticleId>
+            <ArticleId IdType="pubmed">2023118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>DiFrancesco, D., and Tortora P.. 1991. Direct activation of cardiac pacemaker channels by intracellular cyclic AMP. Nature. 351:145–147. 10.1038/351145a0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/351145a0</ArticleId>
+            <ArticleId IdType="pubmed">1709448</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dixon, R.E.
+2021. Nanoscale organization, regulation, and dynamic reorganization of cardiac calcium channels. Front. Physiol.
+12:810408. 10.3389/fphys.2021.810408</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fphys.2021.810408</ArticleId>
+            <ArticleId IdType="pmc">PMC8769284</ArticleId>
+            <ArticleId IdType="pubmed">35069264</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dixon, R.E., Moreno C.M., Yuan C., Opitz-Araya X., Binder M.D., Navedo M.F., and Santana L.F.. 2015. Graded Ca2+/calmodulin-dependent coupling of voltage-gated CaV1.2 channels. Elife. 4:e05608. 10.7554/elife.05608</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/elife.05608</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dixon, R.E., Navedo M.F., Binder M.D., and Santana L.F.. 2021. Mechanisms and physiological implications of cooperative gating of ion channels clusters. Physiol. Rev.
+102:1159–1210. 10.1152/physrev.00022.2021</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/physrev.00022.2021</ArticleId>
+            <ArticleId IdType="pmc">PMC8934683</ArticleId>
+            <ArticleId IdType="pubmed">34927454</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dixon, R.E., Yuan C., Cheng E.P., Navedo M.F., and Santana L.F.. 2012. Ca2+ signaling amplification by oligomerization of L-type Cav1.2 channels. Proc. Natl. Acad. Sci. USA. 109:1749–1754. 10.1073/pnas.1116731109</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1116731109</ArticleId>
+            <ArticleId IdType="pmc">PMC3277143</ArticleId>
+            <ArticleId IdType="pubmed">22307641</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Drum, B.M., Yuan C., de la Mata A., Grainger N., and Santana L.F.. 2020. Junctional sarcoplasmic reticulum motility in adult mouse ventricular myocytes. Am. J. Physiol. Cell Physiol.
+318:C598–C604. 10.1152/ajpcell.00573.2019</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpcell.00573.2019</ArticleId>
+            <ArticleId IdType="pmc">PMC7099518</ArticleId>
+            <ArticleId IdType="pubmed">31967858</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Drum, B.M., Yuan C., Li L., Liu Q., Wordeman L., and Santana L.F.. 2016. Oxidative stress decreases microtubule growth and stability in ventricular myocytes. J. Mol. Cell. Cardiol.
+93:32–43. 10.1016/j.yjmcc.2016.02.012</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.yjmcc.2016.02.012</ArticleId>
+            <ArticleId IdType="pmc">PMC4902331</ArticleId>
+            <ArticleId IdType="pubmed">26902968</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eisner, D.A., Caldwell J.L., Kistamas K., and Trafford A.W.. 2017. Calcium and excitation-contraction coupling in the heart. Circ. Res.
+121:181–195. 10.1161/CIRCRESAHA.117.310230</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/CIRCRESAHA.117.310230</ArticleId>
+            <ArticleId IdType="pmc">PMC5497788</ArticleId>
+            <ArticleId IdType="pubmed">28684623</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eisner, D.A., Caldwell J.L., Trafford A.W., and Hutchings D.C.. 2020. The control of diastolic calcium in the heart: Basic mechanisms and functional implications. Circ. Res.
+126:395–412. 10.1161/CIRCRESAHA.119.315891</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/CIRCRESAHA.119.315891</ArticleId>
+            <ArticleId IdType="pmc">PMC7004450</ArticleId>
+            <ArticleId IdType="pubmed">31999537</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fabiato, A.
+1983. Calcium-induced release of calcium from the cardiac sarcoplasmic reticulum. Am. J. Physiol.
+245:C1–C14. 10.1016/0022-2828(92)90114-f</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0022-2828(92)90114-f</ArticleId>
+            <ArticleId IdType="pubmed">6346892</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feng, W., Liu C., Spinozzi S., Wang L., Evans S.M., and Chen J.. 2020. Identifying the cardiac dyad proteome in vivo by a BioID2 knock-in strategy. Circulation. 141:940–942. 10.1161/CIRCULATIONAHA.119.043434</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/CIRCULATIONAHA.119.043434</ArticleId>
+            <ArticleId IdType="pmc">PMC7100982</ArticleId>
+            <ArticleId IdType="pubmed">32176542</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fenske, S., Hennis K., Rotzer R.D., Brox V.F., Becirovic E., Scharr A., Gruner C., Ziegler T., Mehlfeld V., Brennan J., et al. . 2020. cAMP-dependent regulation of HCN4 controls the tonic entrainment process in sinoatrial node pacemaker cells. Nat. Commun.
+11:5555. 10.1038/s41467-020-19304-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-020-19304-9</ArticleId>
+            <ArticleId IdType="pmc">PMC7641277</ArticleId>
+            <ArticleId IdType="pubmed">33144559</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Galice, S., Xie Y., Yang Y., Sato D., and Bers D.M.. 2018. Size matters: Ryanodine receptor cluster size affects arrhythmogenic sarcoplasmic reticulum calcium release. J. Am. Heart. Assoc.
+7:e008724. 10.1161/JAHA.118.008724</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/JAHA.118.008724</ArticleId>
+            <ArticleId IdType="pmc">PMC6064922</ArticleId>
+            <ArticleId IdType="pubmed">29929992</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garavaglia, L., Gulich D., Defeo M.M., Thomas Mailland J., and Irurzun I.M.. 2021. The effect of age on the heart rate variability of healthy subjects. PLoS One. 16:e0255894. 10.1371/journal.pone.0255894</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0255894</ArticleId>
+            <ArticleId IdType="pmc">PMC8500436</ArticleId>
+            <ArticleId IdType="pubmed">34624048</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garbino, A., and Wehrens X.H.. 2010. Emerging role of junctophilin-2 as a regulator of calcium handling in the heart. Acta Pharmacol. Sin.
+31:1019–1021. 10.1038/aps.2010.116</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/aps.2010.116</ArticleId>
+            <ArticleId IdType="pmc">PMC3659429</ArticleId>
+            <ArticleId IdType="pubmed">20694023</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gathercole, D.V., Colling D.J., Skepper J.N., Takagishi Y., Levi A.J., and Severs N.J.. 2000. Immunogold-labeled L-type calcium channels are clustered in the surface plasma membrane overlying junctional sarcoplasmic reticulum in Guinea-pig myocytes-implications for excitation-contraction coupling in cardiac muscle. J. Mol. Cell. Cardiol.
+32:1981–1994. 10.1006/jmcc.2000.1230</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/jmcc.2000.1230</ArticleId>
+            <ArticleId IdType="pubmed">11040103</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gemmell, P., Burrage K., Rodriguez B., and Quinn T.A.. 2014. Population of computational rabbit-specific ventricular action potential models for investigating sources of variability in cellular repolarisation. PLoS One. 9:e90112. 10.1371/journal.pone.0090112</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0090112</ArticleId>
+            <ArticleId IdType="pmc">PMC3938586</ArticleId>
+            <ArticleId IdType="pubmed">24587229</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ghosh, D., Nieves-Cintron M., Tajada S., Brust-Mascher I., Horne M.C., Hell J.W., Dixon R.E., Santana L.F., and Navedo M.F.. 2018. Dynamic L-type CaV1.2 channel trafficking facilitates CaV1.2 clustering and cooperative gating. Biochim. Biophys. Acta Mol. Cell Res.
+1865:1341–1355. 10.1016/j.bbamcr.2018.06.013</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbamcr.2018.06.013</ArticleId>
+            <ArticleId IdType="pmc">PMC6407617</ArticleId>
+            <ArticleId IdType="pubmed">29959960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Glover, L., Quinn S., Ryan M., Pette D., and Ohlendieck K.. 2002. Supramolecular calsequestrin complex. Eur. J. Biochem.
+269:4607–4616. 10.1046/j.1432-1033.2002.03160.x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1046/j.1432-1033.2002.03160.x</ArticleId>
+            <ArticleId IdType="pubmed">12230573</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goaillard, J.M., and Marder E.. 2021. Ion Channel degeneracy, variability, and covariation in neuron and circuit resilience. Annu. Rev. Neurosci.
+44:335–357. 10.1146/annurev-neuro092920-121538</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-neuro092920-121538</ArticleId>
+            <ArticleId IdType="pubmed">33770451</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goaillard, J.M., Taylor A.L., Schulz D.J., and Marder E.. 2009. Functional consequences of animal-to-animal variation in circuit parameters. Nat. Neurosci.
+12:1424–1430. 10.1038/nn.2404</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.2404</ArticleId>
+            <ArticleId IdType="pmc">PMC2826985</ArticleId>
+            <ArticleId IdType="pubmed">19838180</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goldberger, J.J., Ahmed M.W., Parker M.A., and Kadish A.H.. 1994. Dissociation of heart rate variability from parasympathetic tone. Am. J. Physiol.
+266:H2152–H2157. 10.1152/ajpheart.1994.266.5.H2152</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.1994.266.5.H2152</ArticleId>
+            <ArticleId IdType="pubmed">8203614</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gomez, A.M., Valdivia H.H., Cheng H., Lederer M.R., Santana L.F., Cannell M.B., McCune S.A., Altschuld R.A., and Lederer W.J.. 1997. Defective excitation-contraction coupling in experimental cardiac hypertrophy and heart failure. Science. 276:800–806. 10.1126/science.276.5313.800</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.276.5313.800</ArticleId>
+            <ArticleId IdType="pubmed">9115206</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grainger, N., Guarina L., Cudmore R.H., and Santana L.F.. 2021. The organization of the sinoatrial node microvasculature varies regionally to match local myocyte excitability. Function. 2:zqab031. 10.1093/function/zqab031</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/function/zqab031</ArticleId>
+            <ArticleId IdType="pmc">PMC8259512</ArticleId>
+            <ArticleId IdType="pubmed">34250490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grangier, A., Branchu J., Volatron J., Piffoux M., Gazeau F., Wilhelm C., and Silva A.K.A.. 2021. Technological advances towards extracellular vesicles mass production. Adv. Drug. Deliv. Rev.
+176:113843. 10.1016/j.addr.2021.113843</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.addr.2021.113843</ArticleId>
+            <ArticleId IdType="pubmed">34147532</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gross, P., Johnson J., Romero C.M., Eaton D.M., Poulet C., Sanchez-Alonso J., Lucarelli C., Ross J., Gibb A.A., Garbincius J.F., et al. . 2021. Interaction of the joining region in junctophilin-2 with the L-type Ca2+ channel is pivotal for cardiac dyad assembly and intracellular Ca2+ dynamics. Circ. Res.
+128:92–114. 10.1161/circresaha.119.315715</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/circresaha.119.315715</ArticleId>
+            <ArticleId IdType="pmc">PMC7790862</ArticleId>
+            <ArticleId IdType="pubmed">33092464</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guevara, M.R., and Lewis T.J.. 1995. A minimal single-channel model for the regularity of beating in the sinoatrial node. Chaos. 5:174–183. 10.1063/1.166065</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1063/1.166065</ArticleId>
+            <ArticleId IdType="pubmed">12780171</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gutierrez, G.J., and Marder E.. 2013. Rectifying electrical synapses can affect the influence of synaptic modulation on output pattern robustness. J. Neurosci.
+33:13238–13248. 10.1523/JNEUROSCI.0937-13.2013</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.0937-13.2013</ArticleId>
+            <ArticleId IdType="pmc">PMC3735893</ArticleId>
+            <ArticleId IdType="pubmed">23926276</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Haron-Khun, S., Weisbrod D., Bueno H., Yadin D., Behar J., Peretz A., Binah O., Hochhauser E., Eldar M., Yaniv Y., et al. . 2017. SK4 K+ channels are therapeutic targets for the treatment of cardiac arrhythmias. EMBO Mol. Med.
+9:415–429. 10.15252/emmm.201606937</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.15252/emmm.201606937</ArticleId>
+            <ArticleId IdType="pmc">PMC5376763</ArticleId>
+            <ArticleId IdType="pubmed">28219898</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>He, Z.
+2020. The control mechanisms of heart rate dynamics in a new heart rate nonlinear time series model. Sci. Rep.
+10:4814. 10.1038/s41598-020-61562-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-020-61562-6</ArticleId>
+            <ArticleId IdType="pmc">PMC7075874</ArticleId>
+            <ArticleId IdType="pubmed">32179768</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Helenius, J., Brouhard G., Kalaidzidis Y., Diez S., and Howard J.. 2006. The depolymerizing kinesin MCAK uses lattice diffusion to rapidly target microtubule ends. Nature. 441:115–119. 10.1038/nature04736</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature04736</ArticleId>
+            <ArticleId IdType="pubmed">16672973</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hennessey, J.A., Wei E.Q., and Pitt G.S.. 2013. Fibroblast growth factor homologous factors modulate cardiac calcium channels. Circ. Res.
+113:381–388. 10.1161/CIRCRESAHA.113.301215</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/CIRCRESAHA.113.301215</ArticleId>
+            <ArticleId IdType="pmc">PMC3813963</ArticleId>
+            <ArticleId IdType="pubmed">23804213</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hennis, K., Biel M., Wahl-Schott C., and Fenske S.. 2021. Beyond pacemaking: HCN channels in sinoatrial node function. Prog. Biophys. Mol. Biol.
+166:51–60. 10.1016/j.pbiomolbio.2021.03.004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.pbiomolbio.2021.03.004</ArticleId>
+            <ArticleId IdType="pubmed">33753086</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hiess, F., Detampel P., Nolla-Colomer C., Vallmitjana A., Ganguly A., Amrein M., Ter Keurs H.E.D.J., Benitez R., Hove-Madsen L., and Chen S.R.W.. 2018. Dynamic and irregular distribution of RyR2 clusters in the periphery of live ventricular myocytes. Biophys. J.
+114:343–354. 10.1016/j.bpj.2017.11.026</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bpj.2017.11.026</ArticleId>
+            <ArticleId IdType="pmc">PMC5984973</ArticleId>
+            <ArticleId IdType="pubmed">29401432</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hille, B.
+2001. Ion Channels of Excitable Membranes. Sinauer Associates, Inc., Sunderland, MA.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hinterseer, M., Beckmann B.M., Thomsen M.B., Pfeufer A., Ulbrich M., Sinner M.F., Perz S., Wichmann H.E., Lengyel C., Schimpf R., et al. . 2010. Usefulness of short-term variability of QT intervals as a predictor for electrical remodeling and proarrhythmia in patients with nonischemic heart failure. Am J Cardiol.
+106:216–220. 10.1016/j.amjcard.2010.02.033</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.amjcard.2010.02.033</ArticleId>
+            <ArticleId IdType="pubmed">20599006</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hondeghem, L.M., Carlsson L., and Duker G.. 2001. Instability and triangulation of the action potential predict serious proarrhythmia, but action potential duration prolongation is antiarrhythmic. Circulation. 103:2004–2013. 10.1161/01.cir.103.15.2004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.cir.103.15.2004</ArticleId>
+            <ArticleId IdType="pubmed">11306531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hong, T.T., Smyth J.W., Gao D., Chu K.Y., Vogan J.M., Fong T.S., Jensen B.C., Colecraft H.M., and Shaw R.M.. 2010. BIN1 localizes the L-type calcium channel to cardiac T-tubules. PLoS Biol.
+8:e1000312. 10.1371/journal.pbio.1000312</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pbio.1000312</ArticleId>
+            <ArticleId IdType="pmc">PMC2821894</ArticleId>
+            <ArticleId IdType="pubmed">20169111</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Howard, J., and Hyman A.A.. 2009. Growth, fluctuation and switching at microtubule plus ends. Nat. Rev. Mol. Cell. Biol.
+10:569–574. 10.1038/nrm2713</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrm2713</ArticleId>
+            <ArticleId IdType="pubmed">19513082</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang, J., Xu L., Thomas M., Whitaker K., Hove-Madsen L., and Tibbits G.F.. 2006. L-type Ca2+ channel function and expression in neonatal rabbit ventricular myocytes. Am. J. Physiol. Heart Circ. Physiol.
+290:H2267–H2276. 10.1152/ajpheart.01093.2005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.01093.2005</ArticleId>
+            <ArticleId IdType="pubmed">16339821</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huser, J., Blatter L.A., and Lipsius S.L.. 2000. Intracellular Ca2+ release contributes to automaticity in cat atrial pacemaker cells. J. Physiol.
+524 Pt 2:415–422. 10.1111/j.1469-7793.2000.00415.x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1469-7793.2000.00415.x</ArticleId>
+            <ArticleId IdType="pmc">PMC2269880</ArticleId>
+            <ArticleId IdType="pubmed">10766922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Inoue, M., and Bridge J.H.. 2003. Ca2+ sparks in rabbit ventricular myocytes evoked by action potentials: Involvement of clusters of L-type Ca2+ channels. Circ. Res.
+92:532–538. 10.1161/01.RES.0000064175.70693.EC</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.RES.0000064175.70693.EC</ArticleId>
+            <ArticleId IdType="pubmed">12609971</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Irurzun, I.M., Garavaglia L., Defeo M.M., and Thomas Mailland J.. 2021. RR interval time series from healthy subjects (version 1.0.0). PhysioNet.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ito, D.W., Hannigan K.I., Ghosh D., Xu B., Del Villar S.G., Xiang Y.K., Dickson E.J., Navedo M.F., and Dixon R.E.. 2019. beta-adrenergic-mediated dynamic augmentation of sarcolemmal CaV 1.2 clustering and co-operativity in ventricular myocytes. J. Physiol.
+597:2139–2162. 10.1113/jp277283</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jp277283</ArticleId>
+            <ArticleId IdType="pmc">PMC6462464</ArticleId>
+            <ArticleId IdType="pubmed">30714156</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Izu, L.T., Wier W.G., and Balke C.W.. 1998. Theoretical analysis of the Ca2+ spark amplitude distribution. Biophys. J.
+75:1144–1162. 10.1016/s0006-3495(98)74034-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0006-3495(98)74034-2</ArticleId>
+            <ArticleId IdType="pmc">PMC1299790</ArticleId>
+            <ArticleId IdType="pubmed">9726917</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jalife, J.
+1984. Mutual entrainment and electrical coupling as mechanisms for synchronous firing of rabbit sino-atrial pace-maker cells. J. Physiol.
+356:221–243. 10.1113/jphysiol.1984.sp015461</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.1984.sp015461</ArticleId>
+            <ArticleId IdType="pmc">PMC1193160</ArticleId>
+            <ArticleId IdType="pubmed">6097670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>James, T.N., Sherf L., Fine G., and Morales A.R.. 1966. Comparative ultrastructure of the sinus node in man and dog. Circulation. 34:139–163. 10.1161/01.cir.34.1.139</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.cir.34.1.139</ArticleId>
+            <ArticleId IdType="pubmed">5942665</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang, M., Zhang M., Howren M., Wang Y., Tan A., Balijepalli R.C., Huizar J.F., and Tseng G.N.. 2016. JPH-2 interacts with Cai-handling proteins and ion channels in dyads: Contribution to premature ventricular contraction-induced cardiomyopathy. Heart Rhythm. 13:743–752. 10.1016/j.hrthm.2015.10.037</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.hrthm.2015.10.037</ArticleId>
+            <ArticleId IdType="pmc">PMC4762763</ArticleId>
+            <ArticleId IdType="pubmed">26538326</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Johnson, D.M., Heijman J., Pollard C.E., Valentin J.P., Crijns H.J.G.M., Abi-Gerges N., and Volders P.G.A.. 2010. I(Ks) restricts excessive beat-to-beat variability of repolarization during beta-adrenergic receptor stimulation. J. Mol. Cell. Cardiol.
+48:122–130. 10.1016/j.yjmcc.2009.08.033</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.yjmcc.2009.08.033</ArticleId>
+            <ArticleId IdType="pubmed">19744496</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jones, P.P., MacQuaide N., and Louch W.E.. 2018. Dyadic plasticity in cardiomyocytes. Front. Physiol.
+9:1773. 10.3389/fphys.2018.01773</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fphys.2018.01773</ArticleId>
+            <ArticleId IdType="pmc">PMC6298195</ArticleId>
+            <ArticleId IdType="pubmed">30618792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ju, Y.K., and Allen D.G.. 1998. Intracellular calcium and Na+–Ca2+ exchange current in isolated toad pacemaker cells. J. Physiol.
+508:153–166. 10.1111/j.1469-7793.1998.153br.x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1469-7793.1998.153br.x</ArticleId>
+            <ArticleId IdType="pmc">PMC2230862</ArticleId>
+            <ArticleId IdType="pubmed">9490832</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kernik, D.C., Morotti S., Wu H., Garg P., Duff H.J., Kurokawa J., Jalife J., Wu J.C., Grandi E., and Clancy C.E.. 2019. A computational model of induced pluripotent stem-cell derived cardiomyocytes incorporating experimental variability from multiple data sources. J. Physiol.
+597:4533–4564. 10.1113/JP277724</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/JP277724</ArticleId>
+            <ArticleId IdType="pmc">PMC6767694</ArticleId>
+            <ArticleId IdType="pubmed">31278749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim, M.S., Maltsev A.V., Monfredi O., Maltseva L.A., Wirth A., Florio M.C., Tsutsui K., Riordon D.R., Parsons S.P., Tagirova S., et al. . 2018. Heterogeneity of calcium clock functions in dormant, dysrhythmically and rhythmically firing single pacemaker cells isolated from SA node. Cell Calcium. 74:168–179. 10.1016/j.ceca.2018.07.002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ceca.2018.07.002</ArticleId>
+            <ArticleId IdType="pmc">PMC6402562</ArticleId>
+            <ArticleId IdType="pubmed">30092494</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kirby, M.S., Sagara Y., Gaa S., Inesi G., Lederer W.J., and Rogers T.B.. 1992. Thapsigargin inhibits contraction and Ca2+ transient in cardiac cells by specific inhibition of the sarcoplasmic reticulum Ca2+ pump. J. Biol. Chem.
+267:12545–12551.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1320000</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kobayashi, M., and Musha T.. 1982. 1/f fluctuation of heartbeat period. IEEE Trans. Biomed. Eng.
+29:456–457. 10.1109/tbme.1982.324972</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/tbme.1982.324972</ArticleId>
+            <ArticleId IdType="pubmed">7106796</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kodama, I., Nikmaram M.R., Boyett M.R., Suzuki R., Honjo H., and Owen J.M.. 1997. Regional differences in the role of the Ca2+ and Na+ currents in pacemaker activity in the sinoatrial node. Am. J. Physiol.
+272:H2793–H2806. 10.1152/ajpheart.1997.272.6.H2793</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.1997.272.6.H2793</ArticleId>
+            <ArticleId IdType="pubmed">9227559</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kolstad, T.R., van den Brink J., MacQuaide N., Lunde P.K., Frisk M., Aronsen J.M., Norden E.S., Cataliotti A., Sjaastad I., Sejersted O.M., et al. . 2018. Ryanodine receptor dispersion disrupts Ca2+ release in failing cardiac myocytes. Elife. 7:e39427. 10.7554/eLife.39427</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.39427</ArticleId>
+            <ArticleId IdType="pmc">PMC6245731</ArticleId>
+            <ArticleId IdType="pubmed">30375974</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Korhonen, T., Hanninen S.L., and Tavi P.. 2009. Model of excitation-contraction coupling of rat neonatal ventricular myocytes. Biophys. J.
+96:1189–1209. 10.1016/j.bpj.2008.10.026</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bpj.2008.10.026</ArticleId>
+            <ArticleId IdType="pmc">PMC2716686</ArticleId>
+            <ArticleId IdType="pubmed">19186154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krogh-Madsen, T., Kold Taylor L., Skriver A.D., Schaffer P., and Guevara M.R.. 2017. Regularity of beating of small clusters of embryonic chick ventricular heart-cells: Experiment vs. stochastic single-channel population model. Chaos. 27:093929. 10.1063/1.5001200</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1063/1.5001200</ArticleId>
+            <ArticleId IdType="pubmed">28964156</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lachaud, Q., Aziz M.H.N., Burton F.L., Macquaide N., Myles R.C., Simitev R.D., and Smith G.L.. 2022. Electrophysiological heterogeneity in large populations of rabbit ventricular cardiomyocytes. Cardiovasc. Res.
+cvab375. 10.1093/cvr/cvab375</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/cvr/cvab375</ArticleId>
+            <ArticleId IdType="pubmed">35020837</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lakatta, E.G., Maltsev V.A., and Vinogradova T.M.. 2010. A coupled SYSTEM of intracellular Ca2+ clocks and surface membrane voltage clocks controls the timekeeping mechanism of the heart’s pacemaker. Circ. Res.
+106:659–673. 10.1161/CIRCRESAHA.109.206078</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/CIRCRESAHA.109.206078</ArticleId>
+            <ArticleId IdType="pmc">PMC2837285</ArticleId>
+            <ArticleId IdType="pubmed">20203315</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lang, D., Sato D., Jiang Y., Ginsburg K.S., Ripplinger C.M., and Bers D.M.. 2017. Calcium-dependent arrhythmogenic foci created by weakly coupled myocytes in the failing heart. Circ. Res.
+121:1379–1391. 10.1161/CIRCRESAHA.117.312050</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/CIRCRESAHA.117.312050</ArticleId>
+            <ArticleId IdType="pmc">PMC5722688</ArticleId>
+            <ArticleId IdType="pubmed">28970285</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lawson, B.A.J., Drovandi C.C., Cusimano N., Burrage P., Rodriguez B., and Burrage K.. 2018. Unlocking data sets by calibrating populations of models to data density: A study in atrial electrophysiology. Sci. Adv.
+4:e1701676. 10.1126/sciadv.1701676</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/sciadv.1701676</ArticleId>
+            <ArticleId IdType="pmc">PMC5770172</ArticleId>
+            <ArticleId IdType="pubmed">29349296</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lehnart, S.E., and Wehrens X.H.T.. 2022. The role of junctophilin proteins in cellular function. Physiol. Rev.
+102:1211–1261. 10.1152/physrev.00024.2021</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/physrev.00024.2021</ArticleId>
+            <ArticleId IdType="pmc">PMC8934682</ArticleId>
+            <ArticleId IdType="pubmed">35001666</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li, L., Chu G., Kranias E.G., and Bers D.M.. 1998. Cardiac myocyte calcium transport in phospholamban knockout mouse: Relaxation and endogenous CaMKII effects. Am. J. Physiol.
+274:H1335–H1347. 10.1152/ajpheart.1998.274.4.H1335</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.1998.274.4.H1335</ArticleId>
+            <ArticleId IdType="pubmed">9575939</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>López-López, J.R., Shacklock P., Shacklock P.S., Balke C., Balke C.W., Wier W., and Wier W.G.. 1995. Local calcium transients triggered by single L-type calcium channel currents in cardiac cells. Science. 268:1042–1045. 10.1126/science.7754383</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.7754383</ArticleId>
+            <ArticleId IdType="pubmed">7754383</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Louch, W.E., Hake J., Mork H.K., Hougen K., Skrbic B., Ursu D., Tonnessen T., Sjaastad I., and Sejersted O.M.. 2013. Slow Ca2+ sparks de-synchronize Ca2+ release in failing cardiomyocytes: Evidence for altered configuration of Ca2+ release units?
+J. Mol. Cell. Cardiol.
+58:41–52. 10.1016/j.yjmcc.2013.01.014</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.yjmcc.2013.01.014</ArticleId>
+            <ArticleId IdType="pubmed">23376034</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Madhvani, R.V., Angelini M., Xie Y., Pantazis A., Suriany S., Borgstrom N.P., Garfinkel A., Qu Z., Weiss J.N., and Olcese R.. 2015. Targeting the late component of the cardiac L-type Ca2+ current to suppress early afterdepolarizations. J. Gen. Physiol.
+145:395–404. 10.1085/jgp.201411288</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1085/jgp.201411288</ArticleId>
+            <ArticleId IdType="pmc">PMC4411259</ArticleId>
+            <ArticleId IdType="pubmed">25918358</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Madhvani, R.V., Xie Y., Pantazis A., Garfinkel A., Qu Z., Weiss J.N., and Olcese R.. 2011. Shaping a new Ca2+ conductance to suppress early afterdepolarizations in cardiac myocytes. J. Physiol.
+589:6081–6092. 10.1113/jphysiol.2011.219600</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2011.219600</ArticleId>
+            <ArticleId IdType="pmc">PMC3286687</ArticleId>
+            <ArticleId IdType="pubmed">22025660</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mangoni, M.E., Couette B., Bourinet E., Platzer J., Reimer D., Striessnig J., and Nargeot J.. 2003. Functional role of L-type Cav1.3 Ca2+ channels in cardiac pacemaker activity. Proc. Natl. Acad. Sci. USA. 100:5543–5548. 10.1073/pnas.0935295100</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0935295100</ArticleId>
+            <ArticleId IdType="pmc">PMC154381</ArticleId>
+            <ArticleId IdType="pubmed">12700358</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mangoni, M.E., Traboulsie A., Leoni A.L., Couette B., Marger L., Le Quang K., Kupfer E., Cohen-Solal A., Vilar J., Shin H.S., et al. . 2006. Bradycardia and slowing of the atrioventricular conduction in mice lacking CaV3.1/alpha1G T-type calcium channels. Circ. Res.
+98:1422–1430. 10.1161/01.RES.0000225862.14314.49</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.RES.0000225862.14314.49</ArticleId>
+            <ArticleId IdType="pubmed">16690884</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Masaki, H., Sato Y., Luo W., Kranias E.G., and Yatani A.. 1997. Phospholamban deficiency alters inactivation kinetics of L-type Ca2+ channels in mouse ventricular myocytes. Am. J. Physiol.
+272:H606–H612. 10.1152/ajpheart.1997.272.2.H606</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.1997.272.2.H606</ArticleId>
+            <ArticleId IdType="pubmed">9124415</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Medvedev, R.Y., Sanchez-Alonso J.L., Mansfield C.A., Judina A., Francis A.J., Pagiatakis C., Trayanova N., Glukhov A.V., Miragoli M., Faggian G., and Gorelik J.. 2021. Local hyperactivation of L-type Ca2+ channels increases spontaneous Ca2+ release activity and cellular hypertrophy in right ventricular myocytes from heart failure rats. Sci. Rep.
+11:4840. 10.1038/s41598-021-84275-w</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-021-84275-w</ArticleId>
+            <ArticleId IdType="pmc">PMC7921450</ArticleId>
+            <ArticleId IdType="pubmed">33649357</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Monfredi, O., Tsutsui K., Ziman B., Stern M.D., Lakatta E.G., and Maltsev V.A.. 2018. Electrophysiological heterogeneity of pacemaker cells in the rabbit intercaval region, including the SA node: Insights from recording multiple ion currents in each cell. Am. J. Physiol. Heart Circ. Physiol.
+314:H403–H414. 10.1152/ajpheart.00253.2016</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.00253.2016</ArticleId>
+            <ArticleId IdType="pmc">PMC5899256</ArticleId>
+            <ArticleId IdType="pubmed">28916636</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Murphy, R.M., Dutka T.L., Horvath D., Bell J.R., Delbridge L.M., and Lamb G.D.. 2013. Ca2+-dependent proteolysis of junctophilin-1 and junctophilin-2 in skeletal and cardiac muscle. J. Physiol.
+591:719–729. 10.1113/jphysiol.2012.243279</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2012.243279</ArticleId>
+            <ArticleId IdType="pmc">PMC3577539</ArticleId>
+            <ArticleId IdType="pubmed">23148318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Myles, R.C., Bernus O., Burton F.L., Cobbe S.M., and Smith G.L.. 2010. Effect of activation sequence on transmural patterns of repolarization and action potential duration in rabbit ventricular myocardium. Am. J. Physiol. Heart Circ. Physiol.
+299:H1812–H1822. 10.1152/ajpheart.00518.2010</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.00518.2010</ArticleId>
+            <ArticleId IdType="pmc">PMC3006295</ArticleId>
+            <ArticleId IdType="pubmed">20889843</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Myles, R.C., Burton F.L., Cobbe S.M., and Smith G.L.. 2008. The link between repolarisation alternans and ventricular arrhythmia: Does the cellular phenomenon extend to the clinical problem?
+J. Mol. Cell. Cardiol.
+45:1–10. 10.1016/j.yjmcc.2008.03.024</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.yjmcc.2008.03.024</ArticleId>
+            <ArticleId IdType="pubmed">18501925</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Navedo, M.F., Amberg G.C., Votaw V.S., and Santana L.F.. 2005. Constitutively active L-type Ca2+ channels. Proc. Natl. Acad. Sci. USA. 102:11112–11117. 10.1073/pnas.0500360102</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0500360102</ArticleId>
+            <ArticleId IdType="pmc">PMC1180225</ArticleId>
+            <ArticleId IdType="pubmed">16040810</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Navedo, M.F., Cheng E.P., Yuan C., Votaw S., Molkentin J.D., Scott J.D., and Santana L.F.. 2010. Increased coupled gating of L-type Ca2+ channels during hypertension and Timothy syndrome. Circ. Res.
+106:748–756. 10.1161/CIRCRESAHA.109.213363</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/CIRCRESAHA.109.213363</ArticleId>
+            <ArticleId IdType="pmc">PMC2834417</ArticleId>
+            <ArticleId IdType="pubmed">20110531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Novotova, M., Zahradnikova A. Jr., Nichtova Z., Kovac R., Kralova E., Stankovicova T., Zahradnikova A., and Zahradnik I.. 2020. Structural variability of dyads relates to calcium release in rat ventricular myocytes. Sci. Rep.
+10:8076. 10.1038/s41598-020-64840-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-020-64840-5</ArticleId>
+            <ArticleId IdType="pmc">PMC7229197</ArticleId>
+            <ArticleId IdType="pubmed">32415205</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nuss, H.B., Kaab S., Kass D.A., Tomaselli G.F., and Marban E.. 1999. Cellular basis of ventricular arrhythmias and abnormal automaticity in heart failure. Am. J. Physiol.
+277:H80–H91. 10.1152/ajpheart.1999.277.1.H80</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.1999.277.1.H80</ArticleId>
+            <ArticleId IdType="pubmed">10409185</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Dwyer, S.C., Palacio S., Matsumoto C., Guarina L., Klug N.R., Tajada S., Rosati B., McKinnon D., Trimmer J.S., and Santana L.F.. 2020. Kv2.1 channels play opposing roles in regulating membrane potential, Ca2+ channel function, and myogenic tone in arterial smooth muscle. Proc. Natl. Acad. Sci. USA. 117:3858–3866. 10.1073/pnas.1917879117</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1917879117</ArticleId>
+            <ArticleId IdType="pmc">PMC7035623</ArticleId>
+            <ArticleId IdType="pubmed">32015129</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Leary, T., Williams A.H., Caplan J.S., and Marder E.. 2013. Correlations in ion channel expression emerge from homeostatic tuning rules. Proc. Natl. Acad. Sci. USA. 110:E2645–E2654. 10.1073/pnas.1309966110</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1309966110</ArticleId>
+            <ArticleId IdType="pmc">PMC3710808</ArticleId>
+            <ArticleId IdType="pubmed">23798391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Leary, T., Williams A.H., Franci A., and Marder E.. 2014. Cell types, network homeostasis, and pathological compensation from a biologically plausible ion channel expression model. Neuron. 82:809–821. 10.1016/j.neuron.2014.04.002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2014.04.002</ArticleId>
+            <ArticleId IdType="pmc">PMC4109293</ArticleId>
+            <ArticleId IdType="pubmed">24853940</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oren, R.V., and Clancy C.E.. 2010. Determinants of heterogeneity, excitation and conduction in the sinoatrial node: A model study. PLoS Comput. Biol.
+6:e1001041. 10.1371/journal.pcbi.1001041</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1001041</ArticleId>
+            <ArticleId IdType="pmc">PMC3009599</ArticleId>
+            <ArticleId IdType="pubmed">21203483</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prinz, A.A., Bucher D., and Marder E.. 2004. Similar network activity from disparate circuit parameters. Nat. Neurosci.
+7:1345–1352. 10.1038/nn1352</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn1352</ArticleId>
+            <ArticleId IdType="pubmed">15558066</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pritchard, H.A.T., Griffin C.S., Yamasaki E., Thakore P., Lane C., Greenstein A.S., and Earley S.. 2019. Nanoscale coupling of junctophilin-2 and ryanodine receptors regulates vascular smooth muscle cell contractility. Proc. Natl. Acad. Sci. USA. 116:21874–21881. 10.1073/pnas.1911304116</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1911304116</ArticleId>
+            <ArticleId IdType="pmc">PMC6815135</ArticleId>
+            <ArticleId IdType="pubmed">31591206</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qin, D., Zhang Z.H., Caref E.B., Boutjdir M., Jain P., and el-Sherif N.. 1996. Cellular and ionic basis of arrhythmias in postinfarction remodeled ventricular myocardium. Circ. Res.
+79:461–473. 10.1161/01.res.79.3.461</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.res.79.3.461</ArticleId>
+            <ArticleId IdType="pubmed">8781480</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rees, C.M., Yang J.H., Santolini M., Lusis A.J., Weiss J.N., and Karma A.. 2018. The Ca2+ transient as a feedback sensor controlling cardiomyocyte ionic conductances in mouse populations. Elife. 7:e36717. 10.7554/eLife.36717</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.36717</ArticleId>
+            <ArticleId IdType="pmc">PMC6205808</ArticleId>
+            <ArticleId IdType="pubmed">30251624</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reynolds, J.O., Quick A.P., Wang Q., Beavers D.L., Philippen L.E., Showell J., Barreto-Torres G., Thuerauf D.J., Doroudgar S., Glembotski C.C., and Wehrens X. H. T.. 2016. Junctophilin-2 gene therapy rescues heart failure by normalizing RyR2-mediated Ca2+ release. Int. J. Cardiol.
+225:371–380. 10.1016/j.ijcard.2016.10.021</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ijcard.2016.10.021</ArticleId>
+            <ArticleId IdType="pmc">PMC5101129</ArticleId>
+            <ArticleId IdType="pubmed">27760414</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ripplinger, C.M., Lou Q., Li W., Hadley J., and Efimov I.R.. 2009. Panoramic imaging reveals basic mechanisms of induction and termination of ventricular tachycardia in rabbit heart with chronic infarction: Implications for low-voltage cardioversion. Heart Rhythm. 6:87–97. 10.1016/j.hrthm.2008.09.019</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.hrthm.2008.09.019</ArticleId>
+            <ArticleId IdType="pmc">PMC2650268</ArticleId>
+            <ArticleId IdType="pubmed">18996057</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rosati, B., Yan Q., Lee M.S., Liou S.R., Ingalls B., Foell J., Kamp T.J., and McKinnon D.. 2011. Robust L-type calcium current expression following heterozygous knockout of the Cav1.2 gene in adult mouse heart. J Physiol.
+589:3275–3288. 10.1113/jphysiol.2011.210237</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2011.210237</ArticleId>
+            <ArticleId IdType="pmc">PMC3145939</ArticleId>
+            <ArticleId IdType="pubmed">21521762</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rossi, D., Barone V., Giacomello E., Cusimano V., and Sorrentino V.. 2008. The sarcoplasmic reticulum: An organized patchwork of specialized domains. Traffic. 9:1044–1049. 10.1111/j.1600-0854.2008.00717.x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1600-0854.2008.00717.x</ArticleId>
+            <ArticleId IdType="pubmed">18266914</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rossow, C.F., Minami E., Chase E.G., Murry C.E., and Santana L.F.. 2004. NFATc3-induced reductions in voltage-gated K+ currents after myocardial infarction. Circ. Res.
+94:1340–1350. 10.1161/01.RES.0000128406.08418.34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.RES.0000128406.08418.34</ArticleId>
+            <ArticleId IdType="pubmed">15087419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sakmann, B., and Neher E.. 2009. Single-Channel Recording. Springer, New York, NY. xxii, 700 pp.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sato, D., Bers D.M., and Shiferaw Y.. 2013. Formation of spatially discordant alternans due to fluctuations and diffusion of calcium. PLoS One. 8:e85365. 10.1371/journal.pone.0085365</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0085365</ArticleId>
+            <ArticleId IdType="pmc">PMC3877395</ArticleId>
+            <ArticleId IdType="pubmed">24392005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sato, D., Hernandez-Hernandez G., Matsumoto C., Tajada S., Moreno C.M., Dixon R.E., O’Dwyer S., Navedo M.F., Trimmer J.S., Clancy C.E., et al. . 2019. A stochastic model of ion channel cluster formation in the plasma membrane. J. Gen. Physiol.
+151:1116–1134. 10.1085/jgp.201912327</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1085/jgp.201912327</ArticleId>
+            <ArticleId IdType="pmc">PMC6719406</ArticleId>
+            <ArticleId IdType="pubmed">31371391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sato, D., Shiferaw Y., Garfinkel A., Weiss J.N., Qu Z., and Karma A.. 2006. Spatially discordant alternans in cardiac tissue: Role of calcium cycling. Circ. Res.
+99:520–527. 10.1161/01.RES.0000240542.03986.e7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.RES.0000240542.03986.e7</ArticleId>
+            <ArticleId IdType="pubmed">16902177</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sato, D., Uchinoumi H., and Bers D.M.. 2021. Increasing SERCA function promotes initiation of calcium sparks and breakup of calcium waves. J. Physiol.
+599:3267–3278. 10.1113/JP281579</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/JP281579</ArticleId>
+            <ArticleId IdType="pmc">PMC8249358</ArticleId>
+            <ArticleId IdType="pubmed">33963531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sato, D., Xie L.H., Nguyen T.P., Weiss J.N., and Qu Z.. 2010. Irregularly appearing early afterdepolarizations in cardiac myocytes: Random fluctuations or dynamical chaos?
+Biophys. J.
+99:765–773. 10.1016/j.bpj.2010.05.019</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bpj.2010.05.019</ArticleId>
+            <ArticleId IdType="pmc">PMC2913181</ArticleId>
+            <ArticleId IdType="pubmed">20682253</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sato, D., Xie L.H., Sovari A.A., Tran D.X., Morita N., Xie F., Karagueuzian H., Garfinkel A., Weiss J.N., and Qu Z.. 2009. Synchronization of chaotic early afterdepolarizations in the genesis of cardiac arrhythmias. Proc. Natl. Acad. Sci. USA. 106:2983–2988. 10.1073/pnas.0809148106</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0809148106</ArticleId>
+            <ArticleId IdType="pmc">PMC2651322</ArticleId>
+            <ArticleId IdType="pubmed">19218447</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sham, J.S., Cleemann L., and Morad M.. 1995. Functional coupling of Ca2+ channels and ryanodine receptors in cardiac myocytes. Proc. Natl. Acad. Sci. USA. 92:121–125. 10.1073/pnas.92.1.121</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.92.1.121</ArticleId>
+            <ArticleId IdType="pmc">PMC42829</ArticleId>
+            <ArticleId IdType="pubmed">7816800</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shen, X., van den Brink J., Hou Y., Colli D., Le C., Kolstad T.R., MacQuaide N., Carlson C.R., Kekenes-Huskey P.M., Edwards A.G., et al. . 2019. 3D dSTORM imaging reveals novel detail of ryanodine receptor localization in rat cardiac myocytes. J. Physiol.
+597:399–418. 10.1113/JP277360</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/JP277360</ArticleId>
+            <ArticleId IdType="pmc">PMC6332759</ArticleId>
+            <ArticleId IdType="pubmed">30412283</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shiferaw, Y., Sato D., and Karma A.. 2005. Coupled dynamics of voltage and calcium in paced cardiac cells. Phys. Rev. E. Stat. Nonlin. Soft. Matter. Phys.
+71:021903. 10.1103/PhysRevE.71.021903</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1103/PhysRevE.71.021903</ArticleId>
+            <ArticleId IdType="pmc">PMC4278950</ArticleId>
+            <ArticleId IdType="pubmed">15783348</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sitsapesan, R., and Williams A.J.. 1994. Regulation of the gating of the sheep cardiac sarcoplasmic reticulum Ca2+-release channel by luminal Ca2+. J. Membr. Biol.
+137:215–226. 10.1007/BF00232590</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/BF00232590</ArticleId>
+            <ArticleId IdType="pubmed">8182731</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith, F.D., Esseltine J.L., Nygren P.J., Veesler D., Byrne D.P., Vonderach M., Strashnov I., Eyers C.E., Eyers P.A., Langeberg L.K., and Scott J.D.. 2017. Local protein kinase A action proceeds through intact holoenzymes. Science. 356:1288–1293. 10.1126/science.aaj1669</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aaj1669</ArticleId>
+            <ArticleId IdType="pmc">PMC5693252</ArticleId>
+            <ArticleId IdType="pubmed">28642438</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith, G.L., and Eisner D.A.. 2019. Calcium buffering in the heart in health and disease. Circulation. 139:2358–2371. 10.1161/circulationaha.118.039329</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/circulationaha.118.039329</ArticleId>
+            <ArticleId IdType="pmc">PMC6520234</ArticleId>
+            <ArticleId IdType="pubmed">31082292</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sobie, E.A., and Ramay H.R.. 2009. Excitation-contraction coupling gain in ventricular myocytes: Insights from a parsimonious model. J. Physiol.
+587:1293–1299. 10.1113/jphysiol.2008.163915</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2008.163915</ArticleId>
+            <ArticleId IdType="pmc">PMC2674998</ArticleId>
+            <ArticleId IdType="pubmed">19153162</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Soeller, C., and Cannell M.B.. 1997. Numerical simulation of local calcium movements during L-type calcium channel gating in the cardiac diad. Biophys. J.
+73:97–111. 10.1016/s0006-3495(97)78051-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0006-3495(97)78051-2</ArticleId>
+            <ArticleId IdType="pmc">PMC1180912</ArticleId>
+            <ArticleId IdType="pubmed">9199775</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Soeller, C., Crossman D., Gilbert R., and Cannell M.B.. 2007. Analysis of ryanodine receptor clusters in rat and human cardiac myocytes. Proc. Natl. Acad. Sci. USA. 104:14958–14963. 10.1073/pnas.0703016104</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0703016104</ArticleId>
+            <ArticleId IdType="pmc">PMC1986595</ArticleId>
+            <ArticleId IdType="pubmed">17848521</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Song, L.S., Sobie E.A., McCulle S., Lederer W.J., Balke C.W., and Cheng H.. 2006. Orphaned ryanodine receptors in the failing heart. Proc. Natl. Acad. Sci. USA. 103:4305–4310. 10.1073/pnas.0509324103</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0509324103</ArticleId>
+            <ArticleId IdType="pmc">PMC1449688</ArticleId>
+            <ArticleId IdType="pubmed">16537526</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sonkusare, S.K., Dalsgaard T., Bonev A.D., Hill-Eubanks D.C., Kotlikoff M.I., Scott J.D., Santana L.F., and Nelson M.T.. 2014. AKAP150-dependent cooperative TRPV4 channel gating is central to endothelium-dependent vasodilation and is disrupted in hypertension. Sci. Signal.
+7:ra66. 10.1126/scisignal.2005052</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/scisignal.2005052</ArticleId>
+            <ArticleId IdType="pmc">PMC4403000</ArticleId>
+            <ArticleId IdType="pubmed">25005230</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stern, M.D., Pizarro G., and Rios E.. 1997. Local control model of excitation-contraction coupling in skeletal muscle. J. Gen. Physiol.
+110:415–440. 10.1085/jgp.110.4.415</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1085/jgp.110.4.415</ArticleId>
+            <ArticleId IdType="pmc">PMC2229377</ArticleId>
+            <ArticleId IdType="pubmed">9379173</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stern, M.D., Rios E., and Maltsev V.A.. 2013. Life and death of a cardiac calcium spark. J. Gen. Physiol.
+142:257–274. 10.1085/jgp.201311034</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1085/jgp.201311034</ArticleId>
+            <ArticleId IdType="pmc">PMC3753601</ArticleId>
+            <ArticleId IdType="pubmed">23980195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tajada, S., Moreno C.M., O’Dwyer S., Woods S., Sato D., Navedo M.F., and Santana L.F.. 2017. Distance constraints on activation of TRPV4 channels by AKAP150-bound PKCα in arterial myocytes. J. Gen. Physiol.
+149:639–659. 10.1085/jgp.201611709</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1085/jgp.201611709</ArticleId>
+            <ArticleId IdType="pmc">PMC5460949</ArticleId>
+            <ArticleId IdType="pubmed">28507079</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tang, L.S., Goeritz M.L., Caplan J.S., Taylor A.L., Fisek M., and Marder E.. 2010. Precise temperature compensation of phase in a rhythmic motor pattern. PLoS Biol.
+8:e1000469. 10.1371/journal.pbio.1000469</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pbio.1000469</ArticleId>
+            <ArticleId IdType="pmc">PMC2930868</ArticleId>
+            <ArticleId IdType="pubmed">20824168</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tian, Q., Schroder L., Schwarz Y., Flockerzi A., Kaestner L., Zeug A., Bruns D., and Lipp P.. 2019. Large scale, unbiased analysis of elementary calcium signaling events in cardiac myocytes. J. Mol. Cell. Cardiol.
+135:79–89. 10.1016/j.yjmcc.2019.08.004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.yjmcc.2019.08.004</ArticleId>
+            <ArticleId IdType="pubmed">31419438</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trafford, A.W., Diaz M.E., and Eisner D.A.. 2001. Coordinated control of cell Ca2+ loading and triggered release from the sarcoplasmic reticulum underlies the rapid inotropic response to increased L-type Ca2+ current. Circ. Res.
+88:195–201. 10.1161/01.res.88.2.195</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.res.88.2.195</ArticleId>
+            <ArticleId IdType="pubmed">11157672</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trafford, A.W., Diaz M.E., Negretti N., and Eisner D.A.. 1997. Enhanced Ca2+ current and decreased Ca2+ efflux restore sarcoplasmic reticulum Ca2+ content after depletion. Circ. Res.
+81:477–484. 10.1161/01.res.81.4.477</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.res.81.4.477</ArticleId>
+            <ArticleId IdType="pubmed">9314828</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tran, D.X., Sato D., Yochelis A., Weiss J.N., Garfinkel A., and Qu Z.. 2009. Bifurcation and chaos in a model of cardiac early afterdepolarizations. Phys. Rev. Lett.
+102:258103. 10.1103/physrevlett.102.258103</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1103/physrevlett.102.258103</ArticleId>
+            <ArticleId IdType="pmc">PMC2726623</ArticleId>
+            <ArticleId IdType="pubmed">19659123</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tsutsui, K., Monfredi O.J., Sirenko-Tagirova S.G., Maltseva L.A., Bychkov R., Kim M.S., Ziman B.D., Tarasov K.V., Tarasova Y.S., Zhang J., et al. . 2018. A coupled-clock system drives the automaticity of human sinoatrial nodal pacemaker cells. Sci. Signal.
+11:eaap7608. 10.1126/scisignal.aap7608</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/scisignal.aap7608</ArticleId>
+            <ArticleId IdType="pmc">PMC6138244</ArticleId>
+            <ArticleId IdType="pubmed">29895616</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>van Oort, R.J., Garbino A., Wang W., Dixit S.S., Landstrom A.P., Gaur N., De Almeida A.C., Skapura D.G., Rudy Y., Burns A.R., et al. . 2011. Disrupted junctional membrane complexes and hyperactive ryanodine receptors after acute junctophilin knockdown in mice. Circulation. 123:979–988. 10.1161/CIRCULATIONAHA.110.006437</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/CIRCULATIONAHA.110.006437</ArticleId>
+            <ArticleId IdType="pmc">PMC3056402</ArticleId>
+            <ArticleId IdType="pubmed">21339484</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vega, A.L., Yuan C., Votaw S., and Santana L.F.. 2011. Dynamic changes in sarcoplasmic reticulum structure in ventricular myocytes. J. Biomed. Biotechnol.
+2011:382586. 10.1155/2011/382586</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2011/382586</ArticleId>
+            <ArticleId IdType="pmc">PMC3206393</ArticleId>
+            <ArticleId IdType="pubmed">22131804</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vierra, N.C., Kirmiz M., van der List D., Santana L.F., and Trimmer J.S.. 2019. Kv2.1 mediates spatial and functional coupling of L-type calcium channels and ryanodine receptors in mammalian neurons. Elife. 8:e49953. 10.7554/eLife.49953</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.49953</ArticleId>
+            <ArticleId IdType="pmc">PMC6839919</ArticleId>
+            <ArticleId IdType="pubmed">31663850</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wagner, E., Lauterbach M.A., Kohl T., Westphal V., Williams G.S., Steinbrecher J.H., Streich J.H., Korff B., Tuan H.T., Hagen B., et al. . 2012. Stimulated emission depletion live-cell super-resolution imaging shows proliferative remodeling of T-tubule membrane structures after myocardial infarction. Circ. Res.
+111:402–414. 10.1161/circresaha.112.274530</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/circresaha.112.274530</ArticleId>
+            <ArticleId IdType="pmc">PMC4219578</ArticleId>
+            <ArticleId IdType="pubmed">22723297</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang, J., Ciampa G., Zheng D., Shi Q., Chen B., Abel E.D., Peng T., Hall D.D., and Song L.S.. 2021. Calpain-2 specifically cleaves Junctophilin-2 at the same site as Calpain-1 but with less efficacy. Biochem. J.
+478:3539–3553. 10.1042/BCJ20210629</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/BCJ20210629</ArticleId>
+            <ArticleId IdType="pmc">PMC8589432</ArticleId>
+            <ArticleId IdType="pubmed">34524407</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang, S.Q., Song L.S., Lakatta E.G., and Cheng H.. 2001. Ca2+ signalling between single L-type Ca2+ channels and ryanodine receptors in heart cells. Nature. 410:592–596. 10.1038/35069083</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/35069083</ArticleId>
+            <ArticleId IdType="pubmed">11279498</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wei, S., Guo A., Chen B., Kutschke W., Xie Y.P., Zimmerman K., Weiss R.M., Anderson M.E., Cheng H., and Song L.S.. 2010. T-tubule remodeling during transition from hypertrophy to heart failure. Circ. Res.
+107:520–531. 10.1161/circresaha.109.212324</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/circresaha.109.212324</ArticleId>
+            <ArticleId IdType="pmc">PMC2927862</ArticleId>
+            <ArticleId IdType="pubmed">20576937</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Weisbrod, D., Khun S.H., Bueno H., Peretz A., and Attali B.. 2016. Mechanisms underlying the cardiac pacemaker: The role of SK4 calcium-activated potassium channels. Acta. Pharmacol. Sin.
+37:82–97. 10.1038/aps.2015.135</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/aps.2015.135</ArticleId>
+            <ArticleId IdType="pmc">PMC4722971</ArticleId>
+            <ArticleId IdType="pubmed">26725737</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xie, Y., Izu L.T., Bers D.M., and Sato D.. 2014. Arrhythmogenic transient dynamics in cardiac myocytes. Biophys. J.
+106:1391–1397. 10.1016/j.bpj.2013.12.050</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bpj.2013.12.050</ArticleId>
+            <ArticleId IdType="pmc">PMC3984988</ArticleId>
+            <ArticleId IdType="pubmed">24655514</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xie, Y., Yang Y., Galice S., Bers D.M., and Sato D.. 2019. Size matters: Ryanodine receptor cluster size heterogeneity potentiates calcium waves. Biophys. J.
+116:530–539. 10.1016/j.bpj.2018.12.017</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bpj.2018.12.017</ArticleId>
+            <ArticleId IdType="pmc">PMC6369574</ArticleId>
+            <ArticleId IdType="pubmed">30686487</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yamamoto, M., Honjo H., Niwa R., and Kodama I.. 1998. Low-frequency extracellular potentials recorded from the sinoatrial node. Cardiovasc. Res.
+39:360–372. 10.1016/s0008-6363(98)00091-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0008-6363(98)00091-1</ArticleId>
+            <ArticleId IdType="pubmed">9798521</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang, H.Q., Perez-Hernandez M., Sanchez-Alonso J., Shevchuk A., Gorelik J., Rothenberg E., Delmar M., and Coetzee W.A.. 2020. Ankyrin-G mediates targeting of both Na+ and KATP channels to the rat cardiac intercalated disc. Elife. 9:e52373. 10.7554/elife.52373</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/elife.52373</ArticleId>
+            <ArticleId IdType="pmc">PMC7299345</ArticleId>
+            <ArticleId IdType="pubmed">31934859</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yaniv, Y., Lyashkov A.E., Sirenko S., Okamoto Y., Guiriba T.R., Ziman B.D., Morrell C.H., and Lakatta E.G.. 2014. Stochasticity intrinsic to coupled-clock mechanisms underlies beat-to-beat variability of spontaneous action potential firing in sinoatrial node pacemaker cells. J. Mol. Cell. Cardiol.
+77:1–10. 10.1016/j.yjmcc.2014.09.008</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.yjmcc.2014.09.008</ArticleId>
+            <ArticleId IdType="pmc">PMC4312254</ArticleId>
+            <ArticleId IdType="pubmed">25257916</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zaman, M.F., Nenadic A., Radojicic A., Rosado A., and Beh C.T.. 2020. Sticking with it: ER-PM membrane contact sites as a coordinating nexus for regulating lipids and proteins at the cell cortex. Front. Cell. Dev. Biol.
+8:675. 10.3389/fcell.2020.00675</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fcell.2020.00675</ArticleId>
+            <ArticleId IdType="pmc">PMC7387695</ArticleId>
+            <ArticleId IdType="pubmed">32793605</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang, H.B., Li R.C., Xu M., Xu S.M., Lai Y.S., Wu H.D., Xie X.J., Gao W., Ye H., Zhang Y.Y., et al. . 2013. Ultrastructural uncoupling between T-tubules and sarcoplasmic reticulum in human heart failure. Cardiovasc. Res.
+98:269–276. 10.1093/cvr/cvt030</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/cvr/cvt030</ArticleId>
+            <ArticleId IdType="pubmed">23405000</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang, L., Kelley J., Schmeisser G., Kobayashi Y.M., and Jones L.R.. 1997. Complex formation between junctin, triadin, calsequestrin, and the ryanodine receptor. Proteins of the cardiac junctional sarcoplasmic reticulum membrane. J. Biol. Chem.
+272:23389–23397. 10.1074/jbc.272.37.23389</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.272.37.23389</ArticleId>
+            <ArticleId IdType="pubmed">9287354</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang, Y., Post W.S., Blasco-Colmenares E., Dalal D., Tomaselli G.F., and Guallar E.. 2011. Electrocardiographic QT interval and mortality: A meta-analysis. Epidemiology. 22:660–670. 10.1097/EDE.0b013e318225768b</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/EDE.0b013e318225768b</ArticleId>
+            <ArticleId IdType="pmc">PMC3150395</ArticleId>
+            <ArticleId IdType="pubmed">21709561</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

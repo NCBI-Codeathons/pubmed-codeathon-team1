@@ -1,0 +1,233 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">35092861</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>07</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>07</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1879-0038</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>819</Volume>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Apr</Month>
+              <Day>20</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Gene</Title>
+          <ISOAbbreviation>Gene</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Identification of the most damaging nsSNPs in the human CFL1 gene and their functional and structural impacts on cofilin-1 protein.</ArticleTitle>
+        <Pagination>
+          <StartPage>146206</StartPage>
+          <MedlinePgn>146206</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.gene.2022.146206</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0378-1119(22)00025-7</ELocationID>
+        <Abstract>
+          <AbstractText>The cofilin-1 protein, encoded by CFL1, is an actin-binding protein that regulates F-actin depolymerization and nucleation activity through phosphorylation and dephosphorylation. CFL1 has been implicated in the development of neurodegenerative diseases (Alzheimer's disease and Huntington's disease), neuronal migration disorders (lissencephaly, epilepsy, and schizophrenia), and neural tube closure defects. Mutations in CFL1 have been associated with impaired neural crest cell migration and neural tube closure defects. In our study, various computational approaches were utilized to explore single-nucleotide polymorphisms (SNPs) in CFL1. The Variation Viewer and gnomAD databases were used to retrieve CFL1 SNPs, including 46 nonsynonymous SNPs (nsSNPs). The functional and structural annotation of SNPs was performed using 12 sequence-based web applications, which identified 20 nsSNPs as being the most likely to be deleterious or disease-causing. The conservation of cofilin-1 protein structures was illustrated using the ConSurf and PROSITE web servers, which projected the 12 most deleterious nsSNPs onto conserved domains, with the potential to disrupt the protein's functionality. These 12 nsSNPs were selected for protein structure construction, and the DynaMut/DUET servers predicted that the protein variants V7G, L84P, and L99A were the most likely to be damaging to the cofilin-1 protein structure or function. The evaluation of molecular docking studies demonstrated that the L99A and L84P cofilin-1 variants reduce the binding affinity for actin compared with the native cofilin-1 structure, and molecular dynamic simulation studies confirmed that these variants might destabilize the protein structure. The consequences of putative mutations on protein-protein interactions and post-translational modification sites in the cofilin-1 protein structure were analyzed. This study represents the first complete approach to understanding the effects of nsSNPs within the actin-depolymerizing factor/cofilin family, which suggested that SNPs resulting in L84P (rs199716082) and L99A (rs267603119) variants represent significant CFL1 mutations associated with disease development.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 The Authors. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Halder</LastName>
+            <ForeName>Sajal Kumar</ForeName>
+            <Initials>SK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Biology, Jahangirnagar University, Savar, Dhaka 1342, Bangladesh.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rafi</LastName>
+            <ForeName>Md Oliullah</ForeName>
+            <Initials>MO</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Genetic Engineering and Biotechnology, Jashore University of Science and Technology, Jashore 7408, Bangladesh.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shahriar</LastName>
+            <ForeName>Esha Binte</ForeName>
+            <Initials>EB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Biology, Jahangirnagar University, Savar, Dhaka 1342, Bangladesh.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Albogami</LastName>
+            <ForeName>Sarah</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biotechnology, College of Science, Taif University, P.O. Box 11099, Taif 21944, Saudi Arabia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>El-Shehawi</LastName>
+            <ForeName>Ahmed M</ForeName>
+            <Initials>AM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biotechnology, College of Science, Taif University, P.O. Box 11099, Taif 21944, Saudi Arabia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Daullah</LastName>
+            <ForeName>S M Muktasid Ud</ForeName>
+            <Initials>SMMU</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Microbiology, Jahangirnagar University, Savar, Dhaka 1342, Bangladesh.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Himel</LastName>
+            <ForeName>Mahbubul Kabir</ForeName>
+            <Initials>MK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Botany, Jahangirnagar University, Savar, Dhaka 1342, Bangladesh.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Emran</LastName>
+            <ForeName>Talha Bin</ForeName>
+            <Initials>TB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pharmacy, BGC Trust University Bangladesh, Chittagong 4381, Bangladesh. Electronic address: talhabmb@bgctub.ac.bd.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>01</Month>
+          <Day>29</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>Gene</MedlineTA>
+        <NlmUniqueID>7706761</NlmUniqueID>
+        <ISSNLinking>0378-1119</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C495810">CFL1 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D051338">Cofilin 1</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D050505">Mutant Proteins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051338" MajorTopicYN="N">Cofilin 1</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D062105" MajorTopicYN="N">Molecular Docking Simulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D056004" MajorTopicYN="N">Molecular Dynamics Simulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D050505" MajorTopicYN="N">Mutant Proteins</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020641" MajorTopicYN="Y">Polymorphism, Single Nucleotide</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000072417" MajorTopicYN="N">Protein Domains</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Actin-depolymerizing factor/Cofilin family</Keyword>
+        <Keyword MajorTopicYN="N">CFL1</Keyword>
+        <Keyword MajorTopicYN="N">Molecular dynamic simulation</Keyword>
+        <Keyword MajorTopicYN="N">Neural tube closure defects</Keyword>
+        <Keyword MajorTopicYN="N">Nonsynonymous SNPs (nsSNPs)</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>9</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>4</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>30</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>29</Day>
+          <Hour>20</Hour>
+          <Minute>5</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35092861</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.gene.2022.146206</ArticleId>
+        <ArticleId IdType="pii">S0378-1119(22)00025-7</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

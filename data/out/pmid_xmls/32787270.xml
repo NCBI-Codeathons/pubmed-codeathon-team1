@@ -1,0 +1,142 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">32787270</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>08</Month>
+        <Day>02</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>08</Month>
+        <Day>02</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1543-8392</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>17</Volume>
+            <Issue>10</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>Oct</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Molecular pharmaceutics</Title>
+          <ISOAbbreviation>Mol Pharm</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>"Flexible-Acceptor" General Solubility Equation for beyond Rule of 5 Drugs.</ArticleTitle>
+        <Pagination>
+          <StartPage>3930</StartPage>
+          <EndPage>3940</EndPage>
+          <MedlinePgn>3930-3940</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.molpharmaceut.0c00689</ELocationID>
+        <Abstract>
+          <AbstractText>This study describes a novel nonlinear variant of the well-known Yalkowsky general solubility equation (GSE). The modified equation can be trained with small molecules, mostly from the Lipinski Rule of 5 (Ro5) chemical space, to predict the intrinsic aqueous solubility, <i>S</i><sub>0</sub>, of large molecules (MW &gt; 800 Da) from beyond the rule of 5 (bRo5) space, to an accuracy almost equal to that of a recently described random forest regression (RFR) machine learning analysis. The new approach replaces the GSE constant factors in the intercept (0.5), the octanol-water log <i>P</i> (-1.0), and melting point, mp (-0.01) terms with simple exponential functions incorporating the sum descriptor, Φ+<i>B</i> (Kier Φ molecular flexibility and Abraham H-bond acceptor potential). The constants in the modified three-variable (log <i>P</i>, mp, Φ+<i>B</i>) equation were determined by partial least-squares (PLS) refinement using a small-molecule log <i>S</i><sub>0</sub> training set (<i>n</i> = 6541) of mostly druglike molecules. In this "flexible-acceptor" GSE(Φ,<i>B</i>) model, the coefficient of log P (normally fixed at -1.0) varies smoothly from -1.1 for rigid nonionizable molecules (Φ+<i>B</i> = 0) to -0.39 for typically flexible (Φ ∼ 20, <i>B</i> ∼ 6) large molecules. The intercept (traditionally fixed at +0.5) varies smoothly from +1.9 for completely inflexible small molecules to -2.2 for typically flexible large molecules. The mp coefficient (-0.007) remains practically constant, near the traditional value (-0.01) for most molecules, which suggests that the small-to-large molecule continuum is mainly solvation responsive, apparently with only minor changes in the crystal lattice contributions. For a test set of 32 large molecules (e.g., cyclosporine A, gramicidin A, leuprolide, nafarelin, oxytocin, vancomycin, and mostly natural-product-derived therapeutics used in infectious/viral diseases, in immunosuppression, and in oncology) the modified equation predicted the intrinsic solubility with a root-mean-square error of 1.10 log unit, compared to 3.0 by the traditional GSE, and 1.07 by RFR.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Avdeef</LastName>
+            <ForeName>Alex</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0002-3139-5442</Identifier>
+            <AffiliationInfo>
+              <Affiliation>in-ADME Research, 1732 First Avenue, no. 102, New York 10128, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kansy</LastName>
+            <ForeName>Manfred</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Retired, Freiburg im Breisgau 79111, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>09</Month>
+          <Day>04</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Mol Pharm</MedlineTA>
+        <NlmUniqueID>101197791</NlmUniqueID>
+        <ISSNLinking>1543-8384</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D004364">Pharmaceutical Preparations</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D002626" MajorTopicYN="N">Chemistry, Pharmaceutical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008956" MajorTopicYN="Y">Models, Chemical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004364" MajorTopicYN="N">Pharmaceutical Preparations</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012995" MajorTopicYN="N">Solubility</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Abraham H-bond basicity</Keyword>
+        <Keyword MajorTopicYN="Y">GSE(Φ,B)</Keyword>
+        <Keyword MajorTopicYN="Y">Kier Φ flexibility</Keyword>
+        <Keyword MajorTopicYN="Y">aqueous intrinsic solubility</Keyword>
+        <Keyword MajorTopicYN="Y">beyond Ro5 (bRo5)</Keyword>
+        <Keyword MajorTopicYN="Y">flexible-acceptor general solubility equation</Keyword>
+        <Keyword MajorTopicYN="Y">general solubility equation (GSE)</Keyword>
+        <Keyword MajorTopicYN="Y">intramolecular hydrogen bonding (IMHB)</Keyword>
+        <Keyword MajorTopicYN="Y">partial least-squares (PLS)</Keyword>
+        <Keyword MajorTopicYN="Y">rule of 5 (Ro5)</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>8</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>8</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32787270</ArticleId>
+        <ArticleId IdType="doi">10.1021/acs.molpharmaceut.0c00689</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

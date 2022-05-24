@@ -1,0 +1,132 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+      <PMID Version="1">35221115</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1532-818X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>43</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Season>May-Jun</Season>
+            </PubDate>
+          </JournalIssue>
+          <Title>American journal of otolaryngology</Title>
+          <ISOAbbreviation>Am J Otolaryngol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Supervised machine learning models for classifying common causes of dizziness.</ArticleTitle>
+        <Pagination>
+          <StartPage>103402</StartPage>
+          <MedlinePgn>103402</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.amjoto.2022.103402</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0196-0709(22)00029-1</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The objective of this study was to use a supervised machine learning (ML) platform and a national dataset to identify factors important in classifying common types of dizziness.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Using established clinical criteria and responses to the balance and dizziness supplement from the 2016 National health Interview Survey (n = 33,028), case definitions for vestibular migraine (VM), benign paroxysmal positional vertigo (BPPV) Ménière's disease (MD), persistent postural-perceptual dizziness (PPPD), superior canal dehiscence (SCD), and bilateral vestibular hypofunction (BVH) were generated. One hundred thirty-six variables consisting of sociodemographic characteristics and medical comorbidities were used to develop decision tree models to predict these common types of dizziness.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The one-year prevalence of dizziness in the U.S. was 16.8% (5562 respondents). VM was highly prevalent, representing 4.0% of the overall respondents (n = 1327). ML decision tree models were able to correctly classify all 6 dizziness subtypes with high accuracy (sensitivity range, 70-92%; specificity range, 89-99%) using responses to questions about functional limitations due to dizziness, such as falls due to dizziness and modification of social activities due to dizziness.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In a large population-based dataset, supervised ML models accurately predicted dizziness subtypes according to responses to questions that do not pertain to dizziness symptoms alone.</AbstractText>
+          <CopyrightInformation>Copyright © 2022. Published by Elsevier Inc.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Formeister</LastName>
+            <ForeName>Eric J</ForeName>
+            <Initials>EJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology - Head and Neck Surgery, Johns Hopkins University School of Medicine, Baltimore, MD, USA. Electronic address: eformei1@jh.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Baum</LastName>
+            <ForeName>Rachel T</ForeName>
+            <Initials>RT</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of North Carolina School of Public Health, Chapel Hill, NC, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sharon</LastName>
+            <ForeName>Jeffrey D</ForeName>
+            <Initials>JD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology - Head and Neck Surgery, University of California - San Francisco School of Medicine, 2380 Sutter Street, San Francisco, CA 94115, USA. Electronic address: jeffrey.sharon@ucsf.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Am J Otolaryngol</MedlineTA>
+        <NlmUniqueID>8000029</NlmUniqueID>
+        <ISSNLinking>0196-0709</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Artificial intelligence</Keyword>
+        <Keyword MajorTopicYN="N">Decision trees</Keyword>
+        <Keyword MajorTopicYN="N">Dizziness</Keyword>
+        <Keyword MajorTopicYN="N">Epidemiology</Keyword>
+        <Keyword MajorTopicYN="N">Machine learning</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>28</Day>
+          <Hour>5</Hour>
+          <Minute>29</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35221115</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.amjoto.2022.103402</ArticleId>
+        <ArticleId IdType="pii">S0196-0709(22)00029-1</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,930 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">34125252</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1437-160X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>42</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Rheumatology international</Title>
+          <ISOAbbreviation>Rheumatol Int</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Machine learning reveals the most important psychological and social variables predicting the differential diagnosis of rheumatic and musculoskeletal diseases.</ArticleTitle>
+        <Pagination>
+          <StartPage>1053</StartPage>
+          <EndPage>1062</EndPage>
+          <MedlinePgn>1053-1062</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00296-021-04916-1</ELocationID>
+        <Abstract>
+          <AbstractText>There is an ongoing debate about the importance and the extent to which psychological and psychopathological factors, adverse childhood experiences, and socio-demographic characteristics are associated with the development of certain types of rheumatic disease. With the aim of contributing to knowledge on the subject, the present study uses machine learning modeling to determine the importance of 20 psychological and social variables in predicting two classes of rheumatic disease: inflammatory rheumatic and musculoskeletal diseases (RMD) (rheumatoid arthritis = RA, spondyloarthritis = SA, and Sjögren's syndrome = SS) versus non-inflammatory RMD, namely fibromyalgia = FM). A total of 165 French women with FM, RA, SA, and SS completed an inventory of personality traits, a psychopathology diagnosis questionnaire, and a fatigue/pain questionnaire. They also answered questions about adverse childhood experiences and socio-demographic characteristics. Random forest and logistic regression machine learning algorithms were used for data analysis. The main findings suggest that mistreatment during childhood ((MDA = 10.22), the agreeableness personality trait (MDA = 3.39), and somatic disorder (MDA = 3.25) are the main psychological and social predictors of the type of rheumatic disease diagnosed. The first two predictors (OR = 18.92 and OR = 6.11) are also more strongly associated with FM than with RA-SA-SS. Overall, adverse childhood experiences seem relatively more important than personality traits, psychopathological or demographic variables. The results of this study suggest that traumatic childhood experiences may lead to psychopathological disorders in adulthood, which in turn might underlie, at least in part, the development of FM. Since there are no imaging or biological markers of FM, the present findings contribute to the scientific literature offering information to help patients with FM understand their pathology. They may also provide physicians with more diagnostic information.</AbstractText>
+          <CopyrightInformation>© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Vera Cruz</LastName>
+            <ForeName>Germano</ForeName>
+            <Initials>G</Initials>
+            <Identifier Source="ORCID">0000-0002-8297-6933</Identifier>
+            <AffiliationInfo>
+              <Affiliation>QualiPsy, EE 1901, University of Tours, 37000, Tours, France. germano.veracruz@gmail.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Centre Val de Loire Resource Center for Professionals Working With Sex Offenders, Tours University Hospital, 37000, Tours, France. germano.veracruz@gmail.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>MSHS-Poitiers, 5 rue Théodore Lefebvre, 86073, Poitiers, France. germano.veracruz@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bucourt</LastName>
+            <ForeName>Emilie</ForeName>
+            <Initials>E</Initials>
+            <Identifier Source="ORCID">0000-0002-0667-1775</Identifier>
+            <AffiliationInfo>
+              <Affiliation>QualiPsy, EE 1901, University of Tours, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Réveillère</LastName>
+            <ForeName>Christian</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0002-8005-023X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>QualiPsy, EE 1901, University of Tours, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Martaillé</LastName>
+            <ForeName>Virginie</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Regional Hospital of Orléans, Rheumatology department, 45000, Orléans, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Joncker-Vannier</LastName>
+            <ForeName>Isabelle</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Tours, Pain consultation, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goupille</LastName>
+            <ForeName>Philippe</ForeName>
+            <Initials>P</Initials>
+            <Identifier Source="ORCID">0000-0002-8605-1567</Identifier>
+            <AffiliationInfo>
+              <Affiliation>University of Tours, Rheumatology department, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>CIC 1415, University Hospital of Tours, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mulleman</LastName>
+            <ForeName>Denis</ForeName>
+            <Initials>D</Initials>
+            <Identifier Source="ORCID">0000-0003-4089-7513</Identifier>
+            <AffiliationInfo>
+              <Affiliation>University of Tours, Rheumatology department, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>CIC 1415, University Hospital of Tours, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Courtois</LastName>
+            <ForeName>Robert</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">0000-0002-3557-5264</Identifier>
+            <AffiliationInfo>
+              <Affiliation>QualiPsy, EE 1901, University of Tours, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Centre Val de Loire Resource Center for Professionals Working With Sex Offenders, Tours University Hospital, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>06</Month>
+          <Day>14</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Rheumatol Int</MedlineTA>
+        <NlmUniqueID>8206885</NlmUniqueID>
+        <ISSNLinking>0172-8172</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003937" MajorTopicYN="N">Diagnosis, Differential</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005356" MajorTopicYN="Y">Fibromyalgia</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000069550" MajorTopicYN="N">Machine Learning</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012216" MajorTopicYN="Y">Rheumatic Diseases</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025241" MajorTopicYN="Y">Spondylarthritis</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Machine learning</Keyword>
+        <Keyword MajorTopicYN="N">Psychological/social predictors</Keyword>
+        <Keyword MajorTopicYN="N">Rheumatism diagnosis</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>6</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>5</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>14</Day>
+          <Hour>12</Hour>
+          <Minute>34</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34125252</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00296-021-04916-1</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00296-021-04916-1</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>World Health Organization (2021). Chronic rheumatic conditions. Geneva: WHO. Available from: https://www.who.int/chp/topics/rheumatic/en/ . Accessed 10 Feb 2021</Citation>
+        </Reference>
+        <Reference>
+          <Citation>American College of Rheumatology (2021). Diseases and conditions. Washington DC: ACR. Available from: https://www.rheumatology.org/I-Am-A/Patient-Caregiver/Diseases-Conditions . Accessed 11 Feb 2021</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hauser W, Fitzcharles M (2018) Facts and myths pertaining to fibromyalgia. Dialogues Clin Neurosci 20(1):53–62. https://doi.org/10.31887/DCNS.2018.20.1/whauser</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.31887/DCNS.2018.20.1/whauser</ArticleId>
+            <ArticleId IdType="pubmed">29946212</ArticleId>
+            <ArticleId IdType="pmc">6016048</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Inanici FF, Yunus MB (2004) History of fibromyalgia: past to present. Curr Pain Headache Rep 8:369–378. https://doi.org/10.1007/s11916-996-0010-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11916-996-0010-6</ArticleId>
+            <ArticleId IdType="pubmed">15361321</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wolfe F, Smythe HA, Yunus MB, Bennett RM et al (1990) The American College of Rheumatology 1990 criteria for the classification of fibromyalgia. Arthritis Rheumatol 33(2):160–172. https://doi.org/10.1002/art.1780330203</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/art.1780330203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bannwarth B, Blotman F, Roué-Le Lay K et al (2009) Fibromyalgia syndrome in the general population of France: a prevalence study. Joint Bone Spine 76:184–187. https://doi.org/10.1016/j.jbspin.2008.06.002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jbspin.2008.06.002</ArticleId>
+            <ArticleId IdType="pubmed">18819831</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Spitzer C, Wegert S, Wollenhaupt J, Wingenfeld K et al (2013) Gender-specific association between childhood trauma and rheumatoid arthritis: a case-control study. J Psychosom Res 74(4):296–300. https://doi.org/10.1016/j.jpsychores.2012.10.007</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jpsychores.2012.10.007</ArticleId>
+            <ArticleId IdType="pubmed">23497830</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Walker EA, Keegan D, Gardner G, Sullivan M et al (1997) Psychosocial factors in fibromyalgia compared with rheumatoid arthritis: II. Sexual, physical, and emotional abuse and neglect. Psychosom Med 59(6):572–577. https://doi.org/10.1097/00006842-199711000-00003</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/00006842-199711000-00003</ArticleId>
+            <ArticleId IdType="pubmed">9407574</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Varinen A, Kosunen E, Mattila K, Koskela T et al (2017) The relationship between childhood adversities and fibromyalgia in the general population. J Psychosom Res 99:137–142. https://doi.org/10.1016/j.jpsychores.2017.06.011</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jpsychores.2017.06.011</ArticleId>
+            <ArticleId IdType="pubmed">28712419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ottenhoff JSE, Kortlever JTP, Boersma EZ, Laverty DC et al (2019) Adverse childhood experiences are not associated with patient-reported outcome measures in patients with musculoskeletal illness. Clin Orthop Relat Res 477(1):219–228. https://doi.org/10.1097/CORR.0000000000000519</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/CORR.0000000000000519</ArticleId>
+            <ArticleId IdType="pubmed">30586342</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gonzalez B, Baptista TM, Branco JC et al (2015) Fibromyalgia characterization in a psychosocial approach. Psychol Health Med 20:363–368. https://doi.org/10.1080/13548506.2014.931590</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/13548506.2014.931590</ArticleId>
+            <ArticleId IdType="pubmed">24964249</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Johannsonn V (1993) Does a fibromyalgia personality exist? J Musculoskelet Pain 1:245–252. https://doi.org/10.1300/J094v01n03_26</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1300/J094v01n03_26</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seto A, Han X, Price LL, Harvey WF et al (2019) The role of personality in patients with fibromyalgia. J Clin Rheumatol 38(1):149–157. https://doi.org/10.1007/s10067-018-4316-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10067-018-4316-7</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vural M, Berkol TD, Erdogdu Z et al (2014) Evaluation of personality profile in patients with fibromyalgia syndrome and healthy controls. Mod Rheumatol 24:823–828. https://doi.org/10.3109/14397595.2013.868069</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/14397595.2013.868069</ArticleId>
+            <ArticleId IdType="pubmed">24372295</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bucourt E, Martaillé V, Mullemanb D, Goupille P et al (2017) Comparison of the Big Five personality traits in fibromyalgia and other rheumatic diseases. Joint Bone Spine 84:203–207. https://doi.org/10.1016/j.jbspin.2016.03.006</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jbspin.2016.03.006</ArticleId>
+            <ArticleId IdType="pubmed">27269650</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gencay-Can A, Can S (2012) Temperament and character profile of patients with fibromyalgia. Rheumatol Int 32:3957. https://doi.org/10.1007/s00296-011-2324-x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00296-011-2324-x</ArticleId>
+            <ArticleId IdType="pubmed">22200811</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garcia-Fontanals A, García-Blanco S, Portell M et al (2014) Cloninger’s psychobiological model of personality and psychological distress in fibromyalgia. Int J Rheum Dis 19(9):852–863. https://doi.org/10.1111/1756-185X.12473</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/1756-185X.12473</ArticleId>
+            <ArticleId IdType="pubmed">25483854</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cronan TA, Serber ER, Walen H, Jaffe M (2002) The influence of age on fibromyalgia symptoms. J Aging Health. https://doi.org/10.1177/08964302014003004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/08964302014003004</ArticleId>
+            <ArticleId IdType="pubmed">12146512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lu K, Wang H-K, Yen C-C, Huang CY et al (2014) Association between autoimmune rheumatic diseases and the risk of dementia. Biomed Res Int 2014:861812. https://doi.org/10.1155/2014/861812</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2014/861812</ArticleId>
+            <ArticleId IdType="pubmed">24877143</ArticleId>
+            <ArticleId IdType="pmc">4022061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>López-Castillo CA, Calderón-Rojas R, Amaya-Amayab J, DeSanVicente-Célis Z et al (2014) Impact of educational level on rheumatoid arthritis: a systematic review. Revista Colombiana de Reumatología 21(4):201–212. https://doi.org/10.1016/j.rcreu.2014.09.002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.rcreu.2014.09.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eun Y, Jeon KH, Han K, Kim D et al (2020) Menopausal factors and risk of seropositive rheumatoid arthritis in postmenopausal women: a nationwide cohort study of 136 million women. Sci Rep 10(1):20793. https://doi.org/10.1038/s41598-020-77841-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-020-77841-1</ArticleId>
+            <ArticleId IdType="pubmed">33247198</ArticleId>
+            <ArticleId IdType="pmc">7695821</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nichols JA, Chan HWH, Baker MAB (2019) Machine learning: applications of artificial intelligence to imaging and diagnosis. Biophys Rev 11(1):111–118. https://doi.org/10.1007/s12551-018-0449-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s12551-018-0449-9</ArticleId>
+            <ArticleId IdType="pubmed">30182201</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Perrot S, Bouhassira D, Fermanian J (2010) Development and validation of the fibromyalgia rapid screening tool (FiRST). Pain 150(2):250–256. https://doi.org/10.1016/j.pain.2010.03.034</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.pain.2010.03.034</ArticleId>
+            <ArticleId IdType="pubmed">20488620</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arnett FC, Edworthy SM, Bloch DA et al (1998) The American Rheumatism Association 1987 revised criteria for the classification of rheumatoid arthritis. Arthritis Rheumatol 31(3):315–324. https://doi.org/10.1002/art.1780310302</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/art.1780310302</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rudwaleit M, Landewe R, van der Heijde D et al (2009) The development of Assessment of SpondyloArthritis International Society Classification criteria for axial SpondyloArthritis (part I): classification of paper patients by expert opinion including uncertainty appraisal. Ann Rheum Dis 68(6):770–776. https://doi.org/10.1136/ard.2009.108217</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/ard.2009.108217</ArticleId>
+            <ArticleId IdType="pubmed">19297345</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vitali C, Bombardieri S, Jonsson R et al (2002) Classification criteria for Sjogren’s syndrome: a revised version of the European criteria proposed by the American-European Consensus Group. Ann Rheum Dis 61(6):554–558. https://doi.org/10.1136/ard.61.6.554</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/ard.61.6.554</ArticleId>
+            <ArticleId IdType="pubmed">12006334</ArticleId>
+            <ArticleId IdType="pmc">1754137</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Plaisant O, Courtois R, Réveillère C et al (2010) Validation par analyse factorielle du Big Five Inventory franc¸ ais (BFI-Fr). Analyse convergente avec le NEO-PI-R. Ann Med Psychol 168:97–106. https://doi.org/10.1016/j.amp.2009.09.003</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.amp.2009.09.003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pariente PD, Challita H, Mesbah M, Guelfi JD (1992) The GHQ-28 questionnaire in French: a validation survey in a panel of 158 general psychiatric patients. Eur Psychiatry 7(1):15–20. https://doi.org/10.1017/S0924933800002455</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1017/S0924933800002455</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krupp LB, LaRocca NG, Muir-Nash J, Steinberg AD (1989) The fatigue severity scale. Arch Neurol 46:1121–1123. https://doi.org/10.1001/archneur.1989.00520460115022</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/archneur.1989.00520460115022</ArticleId>
+            <ArticleId IdType="pubmed">2803071</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ferreri M, Vacher J, Tawil S, Alby JM (1987) Facteurs événementiels et dépression : le questionnaire EVE, une nouvelle approche de méthodologie prédictive. Psychologie médicale 19(13):2441–2448</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Breiman L (2001) Random forests. Mach Learn 45:5–32. https://doi.org/10.1023/A:1010933404324</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1023/A:1010933404324</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaleycheva N, Cullen A, Evans R, Harris T, Nicholson T, Chalder T (2021) The role of lifetime stressors in adult fibromyalgia: systematic review and meta-analysis of case-control studies. Psychol Med 51(2):177–193. https://doi.org/10.1017/S0033291720004547</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1017/S0033291720004547</ArticleId>
+            <ArticleId IdType="pubmed">33602373</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arnold LM (2010) The pathophysiology, diagnosis and treatment of fibromyalgia. Psychiatr Clin 33(2):375–408. https://doi.org/10.1016/j.psc.2010.01.001</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.psc.2010.01.001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith BW, Papp ZZ, Tooley EM, Montague EQ, Robinson AE, Cosper CJ (2010) Traumatic events, perceived stress and health in women with fibromyalgia and healthy controls. Stress Health 26(1):83–93. https://doi.org/10.1002/smi.126</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/smi.126</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tuscic SJ, Flander GB, Matešković D (2013) The consequences of childhood abuse. Paediatr Today 9(1):24–35. https://doi.org/10.5457/p2005-114.58</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.5457/p2005-114.58</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Novo R, Gonzalez B, Peres R, Aguiar P (2017) A meta-analysis of studies with the Minnesota multiphasic personality inventory in fibromyalgia patients. Personality Individ Differ 116:96–108. https://doi.org/10.1016/j.paid.2017.04.026</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.paid.2017.04.026</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Torres X, Bailles E, Valdes M, Gutierrez F, Peri J-M, Arias A, Gomez E, Collado A (2013) Personality does not distinguish people with fibromyalgia but identifies subgroups of patients. Gen Hosp Psychiatry 35(6):640–648. https://doi.org/10.1016/j.genhosppsych.2013.07.014</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.genhosppsych.2013.07.014</ArticleId>
+            <ArticleId IdType="pubmed">24035635</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">34125252</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1437-160X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>42</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Rheumatology international</Title>
+          <ISOAbbreviation>Rheumatol Int</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Machine learning reveals the most important psychological and social variables predicting the differential diagnosis of rheumatic and musculoskeletal diseases.</ArticleTitle>
+        <Pagination>
+          <StartPage>1053</StartPage>
+          <EndPage>1062</EndPage>
+          <MedlinePgn>1053-1062</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00296-021-04916-1</ELocationID>
+        <Abstract>
+          <AbstractText>There is an ongoing debate about the importance and the extent to which psychological and psychopathological factors, adverse childhood experiences, and socio-demographic characteristics are associated with the development of certain types of rheumatic disease. With the aim of contributing to knowledge on the subject, the present study uses machine learning modeling to determine the importance of 20 psychological and social variables in predicting two classes of rheumatic disease: inflammatory rheumatic and musculoskeletal diseases (RMD) (rheumatoid arthritis = RA, spondyloarthritis = SA, and Sjögren's syndrome = SS) versus non-inflammatory RMD, namely fibromyalgia = FM). A total of 165 French women with FM, RA, SA, and SS completed an inventory of personality traits, a psychopathology diagnosis questionnaire, and a fatigue/pain questionnaire. They also answered questions about adverse childhood experiences and socio-demographic characteristics. Random forest and logistic regression machine learning algorithms were used for data analysis. The main findings suggest that mistreatment during childhood ((MDA = 10.22), the agreeableness personality trait (MDA = 3.39), and somatic disorder (MDA = 3.25) are the main psychological and social predictors of the type of rheumatic disease diagnosed. The first two predictors (OR = 18.92 and OR = 6.11) are also more strongly associated with FM than with RA-SA-SS. Overall, adverse childhood experiences seem relatively more important than personality traits, psychopathological or demographic variables. The results of this study suggest that traumatic childhood experiences may lead to psychopathological disorders in adulthood, which in turn might underlie, at least in part, the development of FM. Since there are no imaging or biological markers of FM, the present findings contribute to the scientific literature offering information to help patients with FM understand their pathology. They may also provide physicians with more diagnostic information.</AbstractText>
+          <CopyrightInformation>© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Vera Cruz</LastName>
+            <ForeName>Germano</ForeName>
+            <Initials>G</Initials>
+            <Identifier Source="ORCID">0000-0002-8297-6933</Identifier>
+            <AffiliationInfo>
+              <Affiliation>QualiPsy, EE 1901, University of Tours, 37000, Tours, France. germano.veracruz@gmail.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Centre Val de Loire Resource Center for Professionals Working With Sex Offenders, Tours University Hospital, 37000, Tours, France. germano.veracruz@gmail.com.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>MSHS-Poitiers, 5 rue Théodore Lefebvre, 86073, Poitiers, France. germano.veracruz@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bucourt</LastName>
+            <ForeName>Emilie</ForeName>
+            <Initials>E</Initials>
+            <Identifier Source="ORCID">0000-0002-0667-1775</Identifier>
+            <AffiliationInfo>
+              <Affiliation>QualiPsy, EE 1901, University of Tours, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Réveillère</LastName>
+            <ForeName>Christian</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0002-8005-023X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>QualiPsy, EE 1901, University of Tours, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Martaillé</LastName>
+            <ForeName>Virginie</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Regional Hospital of Orléans, Rheumatology department, 45000, Orléans, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Joncker-Vannier</LastName>
+            <ForeName>Isabelle</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Tours, Pain consultation, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goupille</LastName>
+            <ForeName>Philippe</ForeName>
+            <Initials>P</Initials>
+            <Identifier Source="ORCID">0000-0002-8605-1567</Identifier>
+            <AffiliationInfo>
+              <Affiliation>University of Tours, Rheumatology department, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>CIC 1415, University Hospital of Tours, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mulleman</LastName>
+            <ForeName>Denis</ForeName>
+            <Initials>D</Initials>
+            <Identifier Source="ORCID">0000-0003-4089-7513</Identifier>
+            <AffiliationInfo>
+              <Affiliation>University of Tours, Rheumatology department, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>CIC 1415, University Hospital of Tours, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Courtois</LastName>
+            <ForeName>Robert</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">0000-0002-3557-5264</Identifier>
+            <AffiliationInfo>
+              <Affiliation>QualiPsy, EE 1901, University of Tours, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Centre Val de Loire Resource Center for Professionals Working With Sex Offenders, Tours University Hospital, 37000, Tours, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>06</Month>
+          <Day>14</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Rheumatol Int</MedlineTA>
+        <NlmUniqueID>8206885</NlmUniqueID>
+        <ISSNLinking>0172-8172</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003937" MajorTopicYN="N">Diagnosis, Differential</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005356" MajorTopicYN="Y">Fibromyalgia</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000069550" MajorTopicYN="N">Machine Learning</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012216" MajorTopicYN="Y">Rheumatic Diseases</DescriptorName>
+          <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025241" MajorTopicYN="Y">Spondylarthritis</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Machine learning</Keyword>
+        <Keyword MajorTopicYN="N">Psychological/social predictors</Keyword>
+        <Keyword MajorTopicYN="N">Rheumatism diagnosis</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>6</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>5</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>14</Day>
+          <Hour>12</Hour>
+          <Minute>34</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34125252</ArticleId>
+        <ArticleId IdType="doi">10.1007/s00296-021-04916-1</ArticleId>
+        <ArticleId IdType="pii">10.1007/s00296-021-04916-1</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>World Health Organization (2021). Chronic rheumatic conditions. Geneva: WHO. Available from: https://www.who.int/chp/topics/rheumatic/en/ . Accessed 10 Feb 2021</Citation>
+        </Reference>
+        <Reference>
+          <Citation>American College of Rheumatology (2021). Diseases and conditions. Washington DC: ACR. Available from: https://www.rheumatology.org/I-Am-A/Patient-Caregiver/Diseases-Conditions . Accessed 11 Feb 2021</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hauser W, Fitzcharles M (2018) Facts and myths pertaining to fibromyalgia. Dialogues Clin Neurosci 20(1):53–62. https://doi.org/10.31887/DCNS.2018.20.1/whauser</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.31887/DCNS.2018.20.1/whauser</ArticleId>
+            <ArticleId IdType="pubmed">29946212</ArticleId>
+            <ArticleId IdType="pmc">6016048</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Inanici FF, Yunus MB (2004) History of fibromyalgia: past to present. Curr Pain Headache Rep 8:369–378. https://doi.org/10.1007/s11916-996-0010-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11916-996-0010-6</ArticleId>
+            <ArticleId IdType="pubmed">15361321</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wolfe F, Smythe HA, Yunus MB, Bennett RM et al (1990) The American College of Rheumatology 1990 criteria for the classification of fibromyalgia. Arthritis Rheumatol 33(2):160–172. https://doi.org/10.1002/art.1780330203</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/art.1780330203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bannwarth B, Blotman F, Roué-Le Lay K et al (2009) Fibromyalgia syndrome in the general population of France: a prevalence study. Joint Bone Spine 76:184–187. https://doi.org/10.1016/j.jbspin.2008.06.002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jbspin.2008.06.002</ArticleId>
+            <ArticleId IdType="pubmed">18819831</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Spitzer C, Wegert S, Wollenhaupt J, Wingenfeld K et al (2013) Gender-specific association between childhood trauma and rheumatoid arthritis: a case-control study. J Psychosom Res 74(4):296–300. https://doi.org/10.1016/j.jpsychores.2012.10.007</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jpsychores.2012.10.007</ArticleId>
+            <ArticleId IdType="pubmed">23497830</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Walker EA, Keegan D, Gardner G, Sullivan M et al (1997) Psychosocial factors in fibromyalgia compared with rheumatoid arthritis: II. Sexual, physical, and emotional abuse and neglect. Psychosom Med 59(6):572–577. https://doi.org/10.1097/00006842-199711000-00003</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/00006842-199711000-00003</ArticleId>
+            <ArticleId IdType="pubmed">9407574</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Varinen A, Kosunen E, Mattila K, Koskela T et al (2017) The relationship between childhood adversities and fibromyalgia in the general population. J Psychosom Res 99:137–142. https://doi.org/10.1016/j.jpsychores.2017.06.011</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jpsychores.2017.06.011</ArticleId>
+            <ArticleId IdType="pubmed">28712419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ottenhoff JSE, Kortlever JTP, Boersma EZ, Laverty DC et al (2019) Adverse childhood experiences are not associated with patient-reported outcome measures in patients with musculoskeletal illness. Clin Orthop Relat Res 477(1):219–228. https://doi.org/10.1097/CORR.0000000000000519</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/CORR.0000000000000519</ArticleId>
+            <ArticleId IdType="pubmed">30586342</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gonzalez B, Baptista TM, Branco JC et al (2015) Fibromyalgia characterization in a psychosocial approach. Psychol Health Med 20:363–368. https://doi.org/10.1080/13548506.2014.931590</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/13548506.2014.931590</ArticleId>
+            <ArticleId IdType="pubmed">24964249</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Johannsonn V (1993) Does a fibromyalgia personality exist? J Musculoskelet Pain 1:245–252. https://doi.org/10.1300/J094v01n03_26</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1300/J094v01n03_26</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seto A, Han X, Price LL, Harvey WF et al (2019) The role of personality in patients with fibromyalgia. J Clin Rheumatol 38(1):149–157. https://doi.org/10.1007/s10067-018-4316-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10067-018-4316-7</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vural M, Berkol TD, Erdogdu Z et al (2014) Evaluation of personality profile in patients with fibromyalgia syndrome and healthy controls. Mod Rheumatol 24:823–828. https://doi.org/10.3109/14397595.2013.868069</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/14397595.2013.868069</ArticleId>
+            <ArticleId IdType="pubmed">24372295</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bucourt E, Martaillé V, Mullemanb D, Goupille P et al (2017) Comparison of the Big Five personality traits in fibromyalgia and other rheumatic diseases. Joint Bone Spine 84:203–207. https://doi.org/10.1016/j.jbspin.2016.03.006</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jbspin.2016.03.006</ArticleId>
+            <ArticleId IdType="pubmed">27269650</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gencay-Can A, Can S (2012) Temperament and character profile of patients with fibromyalgia. Rheumatol Int 32:3957. https://doi.org/10.1007/s00296-011-2324-x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00296-011-2324-x</ArticleId>
+            <ArticleId IdType="pubmed">22200811</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garcia-Fontanals A, García-Blanco S, Portell M et al (2014) Cloninger’s psychobiological model of personality and psychological distress in fibromyalgia. Int J Rheum Dis 19(9):852–863. https://doi.org/10.1111/1756-185X.12473</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/1756-185X.12473</ArticleId>
+            <ArticleId IdType="pubmed">25483854</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cronan TA, Serber ER, Walen H, Jaffe M (2002) The influence of age on fibromyalgia symptoms. J Aging Health. https://doi.org/10.1177/08964302014003004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/08964302014003004</ArticleId>
+            <ArticleId IdType="pubmed">12146512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lu K, Wang H-K, Yen C-C, Huang CY et al (2014) Association between autoimmune rheumatic diseases and the risk of dementia. Biomed Res Int 2014:861812. https://doi.org/10.1155/2014/861812</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2014/861812</ArticleId>
+            <ArticleId IdType="pubmed">24877143</ArticleId>
+            <ArticleId IdType="pmc">4022061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>López-Castillo CA, Calderón-Rojas R, Amaya-Amayab J, DeSanVicente-Célis Z et al (2014) Impact of educational level on rheumatoid arthritis: a systematic review. Revista Colombiana de Reumatología 21(4):201–212. https://doi.org/10.1016/j.rcreu.2014.09.002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.rcreu.2014.09.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eun Y, Jeon KH, Han K, Kim D et al (2020) Menopausal factors and risk of seropositive rheumatoid arthritis in postmenopausal women: a nationwide cohort study of 136 million women. Sci Rep 10(1):20793. https://doi.org/10.1038/s41598-020-77841-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-020-77841-1</ArticleId>
+            <ArticleId IdType="pubmed">33247198</ArticleId>
+            <ArticleId IdType="pmc">7695821</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nichols JA, Chan HWH, Baker MAB (2019) Machine learning: applications of artificial intelligence to imaging and diagnosis. Biophys Rev 11(1):111–118. https://doi.org/10.1007/s12551-018-0449-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s12551-018-0449-9</ArticleId>
+            <ArticleId IdType="pubmed">30182201</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Perrot S, Bouhassira D, Fermanian J (2010) Development and validation of the fibromyalgia rapid screening tool (FiRST). Pain 150(2):250–256. https://doi.org/10.1016/j.pain.2010.03.034</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.pain.2010.03.034</ArticleId>
+            <ArticleId IdType="pubmed">20488620</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arnett FC, Edworthy SM, Bloch DA et al (1998) The American Rheumatism Association 1987 revised criteria for the classification of rheumatoid arthritis. Arthritis Rheumatol 31(3):315–324. https://doi.org/10.1002/art.1780310302</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/art.1780310302</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rudwaleit M, Landewe R, van der Heijde D et al (2009) The development of Assessment of SpondyloArthritis International Society Classification criteria for axial SpondyloArthritis (part I): classification of paper patients by expert opinion including uncertainty appraisal. Ann Rheum Dis 68(6):770–776. https://doi.org/10.1136/ard.2009.108217</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/ard.2009.108217</ArticleId>
+            <ArticleId IdType="pubmed">19297345</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vitali C, Bombardieri S, Jonsson R et al (2002) Classification criteria for Sjogren’s syndrome: a revised version of the European criteria proposed by the American-European Consensus Group. Ann Rheum Dis 61(6):554–558. https://doi.org/10.1136/ard.61.6.554</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/ard.61.6.554</ArticleId>
+            <ArticleId IdType="pubmed">12006334</ArticleId>
+            <ArticleId IdType="pmc">1754137</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Plaisant O, Courtois R, Réveillère C et al (2010) Validation par analyse factorielle du Big Five Inventory franc¸ ais (BFI-Fr). Analyse convergente avec le NEO-PI-R. Ann Med Psychol 168:97–106. https://doi.org/10.1016/j.amp.2009.09.003</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.amp.2009.09.003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pariente PD, Challita H, Mesbah M, Guelfi JD (1992) The GHQ-28 questionnaire in French: a validation survey in a panel of 158 general psychiatric patients. Eur Psychiatry 7(1):15–20. https://doi.org/10.1017/S0924933800002455</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1017/S0924933800002455</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krupp LB, LaRocca NG, Muir-Nash J, Steinberg AD (1989) The fatigue severity scale. Arch Neurol 46:1121–1123. https://doi.org/10.1001/archneur.1989.00520460115022</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/archneur.1989.00520460115022</ArticleId>
+            <ArticleId IdType="pubmed">2803071</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ferreri M, Vacher J, Tawil S, Alby JM (1987) Facteurs événementiels et dépression : le questionnaire EVE, une nouvelle approche de méthodologie prédictive. Psychologie médicale 19(13):2441–2448</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Breiman L (2001) Random forests. Mach Learn 45:5–32. https://doi.org/10.1023/A:1010933404324</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1023/A:1010933404324</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaleycheva N, Cullen A, Evans R, Harris T, Nicholson T, Chalder T (2021) The role of lifetime stressors in adult fibromyalgia: systematic review and meta-analysis of case-control studies. Psychol Med 51(2):177–193. https://doi.org/10.1017/S0033291720004547</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1017/S0033291720004547</ArticleId>
+            <ArticleId IdType="pubmed">33602373</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arnold LM (2010) The pathophysiology, diagnosis and treatment of fibromyalgia. Psychiatr Clin 33(2):375–408. https://doi.org/10.1016/j.psc.2010.01.001</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.psc.2010.01.001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith BW, Papp ZZ, Tooley EM, Montague EQ, Robinson AE, Cosper CJ (2010) Traumatic events, perceived stress and health in women with fibromyalgia and healthy controls. Stress Health 26(1):83–93. https://doi.org/10.1002/smi.126</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/smi.126</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tuscic SJ, Flander GB, Matešković D (2013) The consequences of childhood abuse. Paediatr Today 9(1):24–35. https://doi.org/10.5457/p2005-114.58</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.5457/p2005-114.58</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Novo R, Gonzalez B, Peres R, Aguiar P (2017) A meta-analysis of studies with the Minnesota multiphasic personality inventory in fibromyalgia patients. Personality Individ Differ 116:96–108. https://doi.org/10.1016/j.paid.2017.04.026</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.paid.2017.04.026</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Torres X, Bailles E, Valdes M, Gutierrez F, Peri J-M, Arias A, Gomez E, Collado A (2013) Personality does not distinguish people with fibromyalgia but identifies subgroups of patients. Gen Hosp Psychiatry 35(6):640–648. https://doi.org/10.1016/j.genhosppsych.2013.07.014</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.genhosppsych.2013.07.014</ArticleId>
+            <ArticleId IdType="pubmed">24035635</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

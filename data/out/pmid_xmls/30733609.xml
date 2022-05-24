@@ -1,0 +1,2976 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">30733609</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>11</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>03</Month>
+        <Day>09</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1759-507X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>15</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nature reviews. Nephrology</Title>
+          <ISOAbbreviation>Nat Rev Nephrol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Cellular signalling by primary cilia in development, organ function and disease.</ArticleTitle>
+        <Pagination>
+          <StartPage>199</StartPage>
+          <EndPage>219</EndPage>
+          <MedlinePgn>199-219</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41581-019-0116-9</ELocationID>
+        <Abstract>
+          <AbstractText>Primary cilia project in a single copy from the surface of most vertebrate cell types; they detect and transmit extracellular cues to regulate diverse cellular processes during development and to maintain tissue homeostasis. The sensory capacity of primary cilia relies on the coordinated trafficking and temporal localization of specific receptors and associated signal transduction modules in the cilium. The canonical Hedgehog (HH) pathway, for example, is a bona fide ciliary signalling system that regulates cell fate and self-renewal in development and tissue homeostasis. Specific receptors and associated signal transduction proteins can also localize to primary cilia in a cell type-dependent manner; available evidence suggests that the ciliary constellation of these proteins can temporally change to allow the cell to adapt to specific developmental and homeostatic cues. Consistent with important roles for primary cilia in signalling, mutations that lead to their dysfunction underlie a pleiotropic group of diseases and syndromic disorders termed ciliopathies, which affect many different tissues and organs of the body. In this Review, we highlight central mechanisms by which primary cilia coordinate HH, G protein-coupled receptor, WNT, receptor tyrosine kinase and transforming growth factor-β (TGFβ)/bone morphogenetic protein (BMP) signalling and illustrate how defects in the balanced output of ciliary signalling events are coupled to developmental disorders and disease progression.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Anvarian</LastName>
+            <ForeName>Zeinab</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biology, Section of Cell Biology and Physiology, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mykytyn</LastName>
+            <ForeName>Kirk</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biological Chemistry and Pharmacology, The Ohio State University, Columbus, OH, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mukhopadhyay</LastName>
+            <ForeName>Saikat</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0003-4790-3090</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell Biology, UT Southwestern Medical Center, Dallas, TX, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pedersen</LastName>
+            <ForeName>Lotte Bang</ForeName>
+            <Initials>LB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biology, Section of Cell Biology and Physiology, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Christensen</LastName>
+            <ForeName>Søren Tvorup</ForeName>
+            <Initials>ST</Initials>
+            <Identifier Source="ORCID">0000-0001-5004-304X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biology, Section of Cell Biology and Physiology, University of Copenhagen, Copenhagen, Denmark. stchristensen@bio.ku.dk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 GM113023</GrantID>
+            <Acronym>GM</Acronym>
+            <Agency>NIGMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R21 MH107021</GrantID>
+            <Acronym>MH</Acronym>
+            <Agency>NIMH NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Nat Rev Nephrol</MedlineTA>
+        <NlmUniqueID>101500081</NlmUniqueID>
+        <ISSNLinking>1759-5061</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D053823">Hedgehog Proteins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D002454" MajorTopicYN="N">Cell Differentiation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002465" MajorTopicYN="N">Cell Movement</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002923" MajorTopicYN="N">Cilia</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002925" MajorTopicYN="N">Ciliary Motility Disorders</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D053823" MajorTopicYN="N">Hedgehog Proteins</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006706" MajorTopicYN="N">Homeostasis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D038081" MajorTopicYN="Y">Organogenesis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>2</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>11</Month>
+          <Day>30</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>2</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30733609</ArticleId>
+        <ArticleId IdType="mid">NIHMS1011175</ArticleId>
+        <ArticleId IdType="pmc">PMC6426138</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41581-019-0116-9</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41581-019-0116-9</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Satir P &amp; Christensen ST
+Overview of structure and function of mammalian cilia. Annu Rev Physiol
+69, 377–400 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17009929</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ciliopathies: A reference for clinicians. (eds. Kenny TD &amp; Beales PL) 1–282 (Oxford University Press, Oxford, Oxford; 2014).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Heydeck W, Fievet L, Davis EE &amp; Katsanis N
+The complexity of the cilium: spatiotemporal diversity of an ancient organelle. Current Opinion in Cell Biology
+55, 139–149 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6269220</ArticleId>
+            <ArticleId IdType="pubmed">30138887</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sorokin S
+Centrioles and the formation of rudimentary cilia by fibroblasts and smooth muscle cells. J Cell Biol
+15, 363–377 (1962).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2106144</ArticleId>
+            <ArticleId IdType="pubmed">13978319</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sorokin SP
+Reconstructions of centriole formation and ciliogenesis in mammalian lungs. J Cell Sci
+3, 207–230 (1968).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">5661997</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meunier A &amp; Azimzadeh J
+Multiciliated Cells in Animals. Cold Spring Harbor perspectives in biology
+8 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5131768</ArticleId>
+            <ArticleId IdType="pubmed">27580630</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Avasthi P &amp; Marshall WF
+Stages of ciliogenesis and regulation of ciliary length. Differentiation; research in biological diversity
+83, S30–42 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3269565</ArticleId>
+            <ArticleId IdType="pubmed">22178116</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Broekhuis JR, Leong WY &amp; Jansen G
+Regulation of cilium length and intraflagellar transport. International review of cell and molecular biology
+303, 101–138 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23445809</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tucker RW, Pardee AB &amp; Fujiwara K
+Centriole ciliation is related to quiescence and DNA synthesis in 3T3 cells. Cell
+17, 527–535 (1979).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">476831</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rieder CL, Jensen CG &amp; Jensen LC
+The resorption of primary cilia during mitosis in a vertebrate (PtK1) cell line. Journal of ultrastructure research
+68, 173–185 (1979).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">480410</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tucker RW, Scher CD &amp; Stiles CD
+Centriole deciliation associated with the early response of 3T3 cells to growth factors but not to SV40. Cell
+18, 1065–1072 (1979).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">229969</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pugacheva EN, Jablonski SA, Hartman TR, Henske EP &amp; Golemis EA
+HEF1-dependent Aurora A activation induces disassembly of the primary cilium. Cell
+129, 1351–1363 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2504417</ArticleId>
+            <ArticleId IdType="pubmed">17604723</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Spalluto C, Wilson DI &amp; Hearn T
+Evidence for reciliation of RPE1 cells in late G1 phase, and ciliary localisation of cyclin B1. FEBS open bio
+3, 334–340 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3821022</ArticleId>
+            <ArticleId IdType="pubmed">24251092</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ford MJ
+et al.
+A Cell/Cilia Cycle Biosensor for Single-Cell Kinetics Reveals Persistence of Cilia after G1/S Transition Is a General Property in Cells and Mice. Developmental Cell
+47, 509–523.e505 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6251972</ArticleId>
+            <ArticleId IdType="pubmed">30458140</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Das RM &amp; Storey KG
+Apical abscission alters cell polarity and dismantles the primary cilium during neurogenesis. Science
+343, 200–204 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4066580</ArticleId>
+            <ArticleId IdType="pubmed">24408437</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McDermott KM, Liu BY, Tlsty TD &amp; Pazour GJ
+Primary cilia regulate branching morphogenesis during mammary gland development. Current biology : CB
+20, 731–737 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2916967</ArticleId>
+            <ArticleId IdType="pubmed">20381354</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blitzer AL
+et al.
+Primary cilia dynamics instruct tissue patterning and repair of corneal endothelium. Proceedings of the National Academy of Sciences of the United States of America
+108, 2819–2824 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3041123</ArticleId>
+            <ArticleId IdType="pubmed">21285373</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bangs FK, Schrode N, Hadjantonakis AK &amp; Anderson KV
+Lineage specificity of primary cilia in the mouse embryo. Nature cell biology
+17, 113–122 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4406239</ArticleId>
+            <ArticleId IdType="pubmed">25599390</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>May-Simera HL
+et al.
+Primary Cilium-Mediated Retinal Pigment Epithelium Maturation Is Disrupted in Ciliopathy Patient Cells. Cell Rep
+22, 189–205 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6166245</ArticleId>
+            <ArticleId IdType="pubmed">29298421</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iomini C, Tejada K, Mo W, Vaananen H &amp; Piperno G
+Primary cilia of human endothelial cells disassemble under laminar shear stress. The Journal of cell biology
+164, 811–817 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2172280</ArticleId>
+            <ArticleId IdType="pubmed">15024030</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garcia-Gonzalo FR &amp; Reiter JF
+Open Sesame: How Transition Fibers and the Transition Zone Control Ciliary Composition. Cold Spring Harbor perspectives in biology (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5287074</ArticleId>
+            <ArticleId IdType="pubmed">27770015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sung CH &amp; Leroux MR
+The roles of evolutionarily conserved functional modules in cilia-related trafficking. Nature cell biology
+15, 1387–1397 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4016715</ArticleId>
+            <ArticleId IdType="pubmed">24296415</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morthorst SK, Christensen ST &amp; Pedersen LB
+Regulation of ciliary membrane protein trafficking and signalling by kinesin motor proteins. The FEBS journal (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29894023</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lechtreck KF
+IFT-Cargo Interactions and Protein Transport in Cilia. Trends in biochemical sciences
+40, 765–778 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4661101</ArticleId>
+            <ArticleId IdType="pubmed">26498262</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taschner M &amp; Lorentzen E
+The Intraflagellar Transport Machinery. Cold Spring Harb Perspect Biol
+8 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5046692</ArticleId>
+            <ArticleId IdType="pubmed">27352625</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wood CR, Huang K, Diener DR &amp; Rosenbaum JL
+The cilium secretes bioactive ectosomes. Curr Biol
+23, 906–911 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3850760</ArticleId>
+            <ArticleId IdType="pubmed">23623554</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cao M
+et al.
+Uni-directional ciliary membrane protein trafficking by a cytoplasmic retrograde IFT motor and ciliary ectosome shedding. eLife
+4, e05242 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4362204</ArticleId>
+            <ArticleId IdType="pubmed">25688564</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nager AR
+et al.
+An Actin Network Dispatches Ciliary GPCRs into Extracellular Vesicles to Modulate Signaling. Cell
+168, 252–263
+e214 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5235987</ArticleId>
+            <ArticleId IdType="pubmed">28017328</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reiter JF &amp; Leroux MR
+Genes and molecular pathways underpinning ciliopathies. Nature reviews. Molecular cell biology
+18, 533–547 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5851292</ArticleId>
+            <ArticleId IdType="pubmed">28698599</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pedersen LB &amp; Rosenbaum JL
+Intraflagellar transport (IFT) role in ciliary assembly, resorption and signalling. Curr. Top. Dev. Biol. 85, 23–61 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19147001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prevo B, Scholey JM &amp; Peterman EJG
+Intraflagellar transport: mechanisms of motor action, cooperation, and cargo delivery. The FEBS journal
+284, 2905–2931 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5603355</ArticleId>
+            <ArticleId IdType="pubmed">28342295</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kozminski KG, Johnson KA, Forscher P &amp; Rosenbaum JL
+A motility in the eukaryotic flagellum unrelated to flagellar beating. Proc Natl Acad Sci USA
+90, 5519–5523 (1993).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC46752</ArticleId>
+            <ArticleId IdType="pubmed">8516294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Walther Z, Vashishtha M &amp; Hall JL
+The Chlamydomonas FLA10 gene encodes a novel kinesin-homologous protein. The Journal of cell biology
+126, 175–188 (1994).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2120091</ArticleId>
+            <ArticleId IdType="pubmed">8027176</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kozminski KG, Beech PL &amp; Rosenbaum JL
+The Chlamydomonas kinesin-like protein FLA10 is involved in motility associated with the flagellar membrane. The Journal of cell biology
+131, 1517–1527 (1995).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2120669</ArticleId>
+            <ArticleId IdType="pubmed">8522608</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vashishtha M, Walther Z &amp; Hall JL
+The kinesin-homologous protein encoded by the Chlamydomonas FLA10 gene is associated with basal bodies and centrioles. Journal of cell science
+109 ( Pt 3), 541–549 (1996).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8907700</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pazour GJ, Wilkerson CG &amp; Witman GB
+A dynein light chain is essential for retrograde particle movement in intraflagellar transport (IFT). The Journal of cell biology
+141, 979–992 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2132779</ArticleId>
+            <ArticleId IdType="pubmed">9585416</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pazour GJ, Dickert BL &amp; Witman GB
+The DHC1b (DHC2) isoform of cytoplasmic dynein is required for flagellar assembly. The Journal of cell biology
+144, 473–481 (1999).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2132917</ArticleId>
+            <ArticleId IdType="pubmed">9971742</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Porter ME, Bower R, Knott JA, Byrd P &amp; Dentler W
+Cytoplasmic dynein heavy chain 1b is required for flagellar assembly in Chlamydomonas. Molecular biology of the cell
+10, 693–712 (1999).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC25196</ArticleId>
+            <ArticleId IdType="pubmed">10069812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Verhey KJ, Dishinger J &amp; Kee HL
+Kinesin motors and primary cilia. Biochemical Society transactions
+39, 1120–1125 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3538878</ArticleId>
+            <ArticleId IdType="pubmed">21936775</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ou G, Blacque OE, Snow JJ, Leroux MR &amp; Scholey JM
+Functional coordination of intraflagellar transport motors. Nature
+436, 583–587 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16049494</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Snow JJ
+et al.
+Two anterograde intraflagellar transport motors cooperate to build sensory cilia on C. elegans neurons. Nature cell biology
+6, 1109–1113 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15489852</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao C, Omori Y, Brodowska K, Kovach P &amp; Malicki J
+Kinesin-2 family in vertebrate ciliogenesis. Proceedings of the National Academy of Sciences of the United States of America
+109, 2388–2393 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3289367</ArticleId>
+            <ArticleId IdType="pubmed">22308397</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prevo B, Mangeol P, Oswald F, Scholey JM &amp; Peterman EJ
+Functional differentiation of cooperating kinesin-2 motors orchestrates cargo import and transport in C. elegans cilia. Nature cell biology
+17, 1536–1545 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26523365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cole DG
+et al.
+Chlamydomonas kinesin-II-dependent intraflagellar transport (IFT): IFT particles contain proteins required for ciliary assembly in Caenorhabditis elegans sensory neurons. The Journal of cell biology
+141, 993–1008 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2132775</ArticleId>
+            <ArticleId IdType="pubmed">9585417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Piperno G &amp; Mead K
+Transport of a novel complex in the cytoplasmic matrix of Chlamydomonas flagella. Proc Natl Acad Sci USA
+94, 4457–4462 (1997).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC20744</ArticleId>
+            <ArticleId IdType="pubmed">9114011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rosenbaum JL &amp; Witman GB
+Intraflagellar transport. Nature reviews. Molecular cell biology
+3, 813–825 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12415299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taschner M, Kotsis F, Braeuer P, Kuehn EW &amp; Lorentzen E
+Crystal structures of IFT70/52 and IFT52/46 provide insight into intraflagellar transport B core complex assembly. The Journal of cell biology
+207, 269–282 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4210449</ArticleId>
+            <ArticleId IdType="pubmed">25349261</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bhogaraju S, Engel BD &amp; Lorentzen E
+Intraflagellar transport complex structure and cargo interactions. Cilia
+2, 10 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3751104</ArticleId>
+            <ArticleId IdType="pubmed">23945166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Toropova K, Mladenov M &amp; Roberts AJ
+Intraflagellar transport dynein is autoinhibited by trapping of its mechanical and track-binding elements. Nature structural &amp; molecular biology
+24, 461–468 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5420313</ArticleId>
+            <ArticleId IdType="pubmed">28394326</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Funabashi T, Katoh Y, Okazaki M, Sugawa M &amp; Nakayama K
+Interaction of heterotrimeric kinesin-II with IFT-B-connecting tetramer is crucial for ciliogenesis. The Journal of cell biology
+217, 2867–2876 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6080941</ArticleId>
+            <ArticleId IdType="pubmed">29903877</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mohamed MAA, Stepp WL &amp; Okten Z
+Reconstitution reveals motor activation for intraflagellar transport. Nature
+557, 387–391 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5967604</ArticleId>
+            <ArticleId IdType="pubmed">29743676</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liang Y, Zhu X, Wu Q &amp; Pan J
+Ciliary Length Sensing Regulates IFT Entry via Changes in FLA8/KIF3B Phosphorylation to Control Ciliary Assembly. Current biology : CB
+28, 2429–2435
+e2423 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30057303</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Perkins LA, Hedgecock EM, Thomson JN &amp; Culotti JG
+Mutant sensory cilia in the nematode Caenorhabditis elegans. Developmental biology
+117, 456–487 (1986).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2428682</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pedersen LB
+et al.
+Chlamydomonas IFT172 is encoded by FLA11, interacts with CrEB1, and regulates IFT at the flagellar tip. Current biology : CB
+15, 262–266 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15694311</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qin H
+et al.
+Intraflagellar transport is required for the vectorial movement of TRPV channels in the ciliary membrane. Current biology : CB
+15, 1695–1699 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16169494</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mukhopadhyay S
+et al.
+TULP3 bridges the IFT-A complex and membrane phosphoinositides to promote trafficking of G protein-coupled receptors into primary cilia. Genes Dev
+24, 2180–2193 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2947770</ArticleId>
+            <ArticleId IdType="pubmed">20889716</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Behal RH
+et al.
+Subunit interactions and organization of the Chlamydomonas reinhardtii intraflagellar transport complex A proteins. The Journal of biological chemistry
+287, 11689–11703 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3320918</ArticleId>
+            <ArticleId IdType="pubmed">22170070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liem KF Jr.
+et al.
+The IFT-A complex regulates Shh signaling through cilia structure and membrane protein trafficking. The Journal of cell biology
+197, 789–800 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3373400</ArticleId>
+            <ArticleId IdType="pubmed">22689656</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Keady BT
+et al.
+IFT25 links the signal-dependent movement of Hedgehog components to intraflagellar transport. Dev Cell
+22, 940–951 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3366633</ArticleId>
+            <ArticleId IdType="pubmed">22595669</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eguether T
+et al.
+IFT27 links the BBSome to IFT for maintenance of the ciliary signaling compartment. Dev Cell
+31, 279–290 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4254547</ArticleId>
+            <ArticleId IdType="pubmed">25446516</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bhogaraju S
+et al.
+Molecular basis of tubulin transport within the cilium by IFT74 and IFT81. Science
+341, 1009–1012 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4359902</ArticleId>
+            <ArticleId IdType="pubmed">23990561</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eguether T, Cordelieres FP &amp; Pazour GJ
+Intraflagellar transport is deeply integrated in hedgehog signaling. Molecular biology of the cell
+29, 1178–1189 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5935068</ArticleId>
+            <ArticleId IdType="pubmed">29540531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mourão A, Christensen ST &amp; Lorentzen E
+The intraflagellar transport machinery in ciliary signaling. Current opinion in structural biology
+41, 98–108 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27393972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Badgandi HB, Hwang SH, Shimada IS, Loriot E &amp; Mukhopadhyay S
+Tubby family proteins are adapters for ciliary trafficking of integral membrane proteins. J Cell Biol
+216, 743–760 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5350516</ArticleId>
+            <ArticleId IdType="pubmed">28154160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Takahara M
+et al.
+Ciliopathy-associated mutations of IFT122 impair ciliary protein trafficking but not ciliogenesis. Human Molecular Genetics
+27, 516–528 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29220510</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hirano T, Katoh Y &amp; Nakayama K
+Intraflagellar transport-A complex mediates ciliary entry and retrograde trafficking of ciliary G protein-coupled receptors. Molecular biology of the cell
+28, 429–439 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5341726</ArticleId>
+            <ArticleId IdType="pubmed">27932497</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fu W, Wang L, Kim S, Li J &amp; Dynlacht BD
+Role for the IFT-A Complex in Selective Transport to the Primary Cilium. Cell reports
+17, 1505–1517 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5123888</ArticleId>
+            <ArticleId IdType="pubmed">27806291</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Caparrós-Martín JA
+et al.
+Specific variants in WDR35 cause a distinctive form of Ellis-van Creveld syndrome by disrupting the recruitment of the EvC complex and SMO into the cilium. Human molecular genetics
+24, 4126–4137 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4560068</ArticleId>
+            <ArticleId IdType="pubmed">25908617</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boubakri M
+et al.
+Loss of ift122, a Retrograde Intraflagellar Transport (IFT) Complex Component, Leads to Slow, Progressive Photoreceptor Degeneration Due to Inefficient Opsin Transport. The Journal of biological chemistry
+291, 24465–24474 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5114401</ArticleId>
+            <ArticleId IdType="pubmed">27681595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nachury MV
+et al.
+A core complex of BBS proteins cooperates with the GTPase Rab8 to promote ciliary membrane biogenesis. Cell
+129, 1201–1213 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17574030</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ou G, Blacque OE, Snow JJ, Leroux MR &amp; Scholey JM
+Functional coordination of intraflagellar transport motors. Nature
+436, 583–587 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16049494</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lechtreck KF
+et al.
+The Chlamydomonas reinhardtii BBSome is an IFT cargo required for export of specific signaling proteins from flagella. J Cell Biol
+187, 1117–1132 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2806276</ArticleId>
+            <ArticleId IdType="pubmed">20038682</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berbari NF, Lewis JS, Bishop GA, Askwith CC &amp; Mykytyn K
+Bardet-Biedl syndrome proteins are required for the localization of G protein-coupled receptors to primary cilia. Proc Natl Acad Sci U S A
+105, 4242–4246 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2393805</ArticleId>
+            <ArticleId IdType="pubmed">18334641</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Loktev AV &amp; Jackson PK
+Neuropeptide Y family receptors traffic via the Bardet-Biedl syndrome pathway to signal in neuronal primary cilia. Cell Rep
+5, 1316–1329 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24316073</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jin H
+et al.
+The conserved Bardet-Biedl syndrome proteins assemble a coat that traffics membrane proteins to cilia. Cell
+141, 1208–1219 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2898735</ArticleId>
+            <ArticleId IdType="pubmed">20603001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lechtreck KF
+et al.
+Cycling of the signaling protein phospholipase D through cilia requires the BBSome only for the export phase. J Cell Biol
+201, 249–261 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3628507</ArticleId>
+            <ArticleId IdType="pubmed">23589493</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nachury MV
+The molecular machines that traffic signaling receptors into and out of cilia. Current Opinion in Cell Biology
+51, 124–131 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5949257</ArticleId>
+            <ArticleId IdType="pubmed">29579578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wingfield Jenna L., Lechtreck K-F, Lorentzen E
+Trafficking of ciliary membrane proteins by the intraflagellar transport/BBSome machinery. Essays In Biochemistry (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6737936</ArticleId>
+            <ArticleId IdType="pubmed">30287585</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pazour GJ
+et al.
+Chlamydomonas IFT88 and its mouse homologue, polycystic kidney disease gene tg737, are required for assembly of cilia and flagella. The Journal of cell biology
+151, 709–718 (2000).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2185580</ArticleId>
+            <ArticleId IdType="pubmed">11062270</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moyer J
+et al.
+Candidate gene associated with a mutation causing recessive polycystic kidney disease in mice. Science
+264, 1329–1333 (1994).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8191288</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barr MM &amp; Sternberg PW
+A polycystic kidney-disease gene homologue required for male mating behaviour in C. elegans. Nature
+401, 386–389 (1999).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10517638</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoder BK, Hou X &amp; Guay-Woodford LM
+The polycystic kidney disease proteins, polycystin-1, polycystin-2, polaris, and cystin, are co-localized in renal cilia. J Am Soc Nephrol
+13, 2508–2516 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12239239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pazour GJ, San Agustin JT, Follit JA, Rosenbaum JL &amp; Witman GB
+Polycystin-2 localizes to kidney cilia and the ciliary level is elevated in orpk mice with polycystic kidney disease. Curr Biol
+12, R378–380 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12062067</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nauli SM
+et al.
+Polycystins 1 and 2 mediate mechanosensation in the primary cilium of kidney cells. Nat Genet
+33, 129–137 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12514735</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ma M, Gallagher AR &amp; Somlo S
+Ciliary Mechanisms of Cyst Formation in Polycystic Kidney Disease. Cold Spring Harb Perspect Biol
+9 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5666631</ArticleId>
+            <ArticleId IdType="pubmed">28320755</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Norris DP
+Cilia, calcium and the basis of left-right asymmetry. BMC biology
+10, 102 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3527145</ArticleId>
+            <ArticleId IdType="pubmed">23256866</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qian F
+et al.
+PKD1 interacts with PKD2 through a probable coiled-coil domain. Nat Genet
+16, 179–183 (1997).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9171830</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nauli SM
+et al.
+Polycystins 1 and 2 mediate mechanosensation in the primary cilium of kidney cells. Nat. Genet. 33, 129–137 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12514735</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Delling M
+et al.
+Primary cilia are not calcium-responsive mechanosensors. Nature
+531, 656–660 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4851444</ArticleId>
+            <ArticleId IdType="pubmed">27007841</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Norris DP &amp; Jackson PK
+Cell biology: Calcium contradictions in cilia. Nature
+531, 582–583 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27007852</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shen PS
+et al.
+The Structure of the Polycystic Kidney Disease Channel PKD2 in Lipid Nanodiscs. Cell
+167, 763–773
+e711 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6055481</ArticleId>
+            <ArticleId IdType="pubmed">27768895</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grieben M
+et al.
+Structure of the polycystic kidney disease TRP channel Polycystin-2 (PC2). Nature structural &amp; molecular biology
+24, 114–122 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27991905</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu X
+et al.
+Polycystin-2 is an essential ion channel subunit in the primary cilium of the renal collecting duct epithelium. Elife
+7 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5812715</ArticleId>
+            <ArticleId IdType="pubmed">29443690</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Su Q
+et al.
+Structure of the human PKD1-PKD2 complex. Science
+361 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30093605</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Briscoe J &amp; Thérond PP
+The mechanisms of Hedgehog signalling and its roles in development and disease. Nature Reviews Molecular Cell Biology
+14, 416 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23719536</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huangfu D
+et al.
+Hedgehog signalling in the mouse requires intraflagellar transport proteins. Nature
+426, 83–87 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14603322</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goetz SC &amp; Anderson KV
+The primary cilium: a signalling centre during vertebrate development. Nature reviews. Genetics
+11, 331–344 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3121168</ArticleId>
+            <ArticleId IdType="pubmed">20395968</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yue S
+et al.
+Requirement of Smurf-mediated endocytosis of Patched1 in sonic hedgehog signal reception. Elife
+3 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4080449</ArticleId>
+            <ArticleId IdType="pubmed">24925320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schou KB
+et al.
+KIF13B establishes a CAV1-enriched microdomain at the ciliary transition zone to promote Sonic hedgehog signalling. Nat Commun
+8, 14177 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5290278</ArticleId>
+            <ArticleId IdType="pubmed">28134340</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scheidel N, Kennedy J &amp; Blacque OE
+Endosome maturation factors Rabenosyn-5/VPS45 and caveolin-1 regulate ciliary membrane and polycystin-2 homeostasis. Embo j (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5920237</ArticleId>
+            <ArticleId IdType="pubmed">29572244</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Corbit KC
+et al.
+Vertebrate Smoothened functions at the primary cilium. Nature
+437, 1018–1021 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16136078</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rohatgi R, Milenkovic L &amp; Scott MP
+Patched1 regulates hedgehog signaling at the primary cilium. Science
+317, 372–376 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17641202</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Niewiadomski P
+et al.
+Gli protein activity is controlled by multisite phosphorylation in vertebrate Hedgehog signaling. Cell Rep
+6, 168–181 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3915062</ArticleId>
+            <ArticleId IdType="pubmed">24373970</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mukhopadhyay S &amp; Rohatgi R
+G-protein-coupled receptors, Hedgehog signaling and primary cilia. Seminars in cell &amp; developmental biology
+33, 63–72 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4130902</ArticleId>
+            <ArticleId IdType="pubmed">24845016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bitgood MJ &amp; McMahon AP
+Hedgehog and Bmp genes are coexpressed at many diverse sites of cell-cell interaction in the mouse embryo. Dev Biol
+172, 126–138 (1995).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7589793</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carballo GB, Honorato JR, de Lopes GPF &amp; Spohr T.C.L.d.S.E.
+A highlight on Sonic hedgehog pathway. Cell communication and signaling : CCS
+16, 11–11 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5861627</ArticleId>
+            <ArticleId IdType="pubmed">29558958</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bijlsma MF &amp; Roelink H
+Non-cell-autonomous signaling by Shh in tumors: challenges and opportunities for therapeutic targets. Expert Opinion on Therapeutic Targets
+14, 693–702 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20515293</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yuan X
+et al.
+Ciliary IFT80 balances canonical versus non-canonical hedgehog signalling for osteoblast differentiation. Nature communications
+7, 11024–11024 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4802171</ArticleId>
+            <ArticleId IdType="pubmed">26996322</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bijlsma MF, Damhofer H &amp; Roelink H
+Hedgehog-stimulated chemotaxis is mediated by smoothened located outside the primary cilium. Science signaling
+5, ra60–ra60 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4557959</ArticleId>
+            <ArticleId IdType="pubmed">22912493</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ho Wei L, Arastoo M, Georgiou I, Manning DR &amp; Riobo-Del Galdo NA
+Activation of the Gi protein-RHOA axis by non-canonical Hedgehog signaling is independent of primary cilia. PloS one
+13, e0203170–e0203170 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6110505</ArticleId>
+            <ArticleId IdType="pubmed">30148884</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gong X
+et al.
+Structural basis for the recognition of Sonic Hedgehog by human Patched1. Science
+361 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29954986</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qi X, Schmiege P, Coutavas E, Wang J &amp; Li X
+Structures of human Patched and its complex with native palmitoylated sonic hedgehog. Nature
+560, 128–132 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6341490</ArticleId>
+            <ArticleId IdType="pubmed">29995851</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang P
+et al.
+Structural Basis of Smoothened Activation in Hedgehog Signaling. Cell
+174, 312–324
+e316 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6046275</ArticleId>
+            <ArticleId IdType="pubmed">29804838</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nachtergaele S
+et al.
+Oxysterols are allosteric activators of the oncoprotein Smoothened. Nat Chem Biol
+8, 211–220 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3262054</ArticleId>
+            <ArticleId IdType="pubmed">22231273</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dorn KV, Hughes CE &amp; Rohatgi R
+A Smoothened-Evc2 complex transduces the Hedgehog signal at primary cilia. Dev Cell
+23, 823–835 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3586260</ArticleId>
+            <ArticleId IdType="pubmed">22981989</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Singh J, Wen X &amp; Scales SJ
+The Orphan G Protein-Coupled Receptor Gpr175 (TPRA40) Enhances Hedgehog Signaling by Modulating cAMP Levels. J Biol Chem (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4705964</ArticleId>
+            <ArticleId IdType="pubmed">26451044</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Haycraft CJ
+et al.
+Gli2 and Gli3 localize to cilia and require the intraflagellar transport protein polaris for processing and function. PLoS Genet
+1, e53 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1270009</ArticleId>
+            <ArticleId IdType="pubmed">16254602</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang J &amp; Struhl G
+Regulation of the Hedgehog and Wingless signalling pathways by the F-box/WD40-repeat protein Slimb. Nature
+391, 493–496 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9461217</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tempe D, Casas M, Karaz S, Blanchet-Tournier MF &amp; Concordet JP
+Multisite protein kinase A and glycogen synthase kinase 3beta phosphorylation leads to Gli3 ubiquitination by SCFbetaTrCP. Mol Cell Biol
+26, 4316–4326 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1489100</ArticleId>
+            <ArticleId IdType="pubmed">16705181</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pan Y &amp; Wang B
+A novel protein-processing domain in Gli2 and Gli3 differentially blocks complete protein degradation by the proteasome. J Biol Chem
+282, 10846–10852 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17283082</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang B, Fallon JF &amp; Beachy PA
+Hedgehog-regulated processing of Gli3 produces an anterior/posterior repressor gradient in the developing vertebrate limb. Cell
+100, 423–434 (2000).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10693759</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mukhopadhyay S
+et al.
+The ciliary G-protein-coupled receptor Gpr161 negatively regulates the Sonic hedgehog pathway via cAMP signaling. Cell
+152, 210–223 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23332756</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Humke EW, Dorn KV, Milenkovic L, Scott MP &amp; Rohatgi R
+The output of Hedgehog signaling is controlled by the dynamic association between Suppressor of Fused and the Gli proteins. Genes Dev
+24, 670–682 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2849124</ArticleId>
+            <ArticleId IdType="pubmed">20360384</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jia J
+et al.
+Suppressor of Fused inhibits mammalian Hedgehog signaling in the absence of cilia. Dev Biol
+330, 452–460 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2687323</ArticleId>
+            <ArticleId IdType="pubmed">19371734</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tuson M, He M &amp; Anderson KV
+Protein kinase A acts at the basal body of the primary cilium to prevent Gli2 activation and ventralization of the mouse neural tube. Development
+138, 4921–4930 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3201661</ArticleId>
+            <ArticleId IdType="pubmed">22007132</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Svard J
+et al.
+Genetic elimination of Suppressor of fused reveals an essential repressor function in the mammalian Hedgehog signaling pathway. Dev Cell
+10, 187–197 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16459298</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goodrich LV, Milenkovic L, Higgins KM &amp; Scott MP
+Altered neural cell fates and medulloblastoma in mouse patched mutants. Science
+277, 1109–1113 (1997).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9262482</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Norman RX
+et al.
+Tubby-like protein 3 (TULP3) regulates patterning in the mouse embryo through inhibition of Hedgehog signaling. Hum Mol Genet
+18, 1740–1754 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2671991</ArticleId>
+            <ArticleId IdType="pubmed">19286674</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Patterson VL
+et al.
+Mouse hitchhiker mutants have spina bifida, dorso-ventral patterning defects and polydactyly: identification of Tulp3 as a novel negative regulator of the Sonic hedgehog pathway. Hum Mol Genet
+18, 1719–1739 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2671985</ArticleId>
+            <ArticleId IdType="pubmed">19223390</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qin J, Lin Y, Norman RX, Ko HW &amp; Eggenschwiler JT
+Intraflagellar transport protein 122 antagonizes Sonic Hedgehog signaling and controls ciliary localization of pathway components. Proceedings of the National Academy of Sciences of the United States of America
+108, 1456–1461 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3029728</ArticleId>
+            <ArticleId IdType="pubmed">21209331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ocbina PJR, Eggenschwiler JT, Moskowitz I &amp; Anderson KV
+Complex interactions between genes controlling trafficking in primary cilia. Nature genetics
+43, 547–553 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3132150</ArticleId>
+            <ArticleId IdType="pubmed">21552265</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hwang SH &amp; Mukhopadhyay S
+G-protein-coupled receptors and localized signaling in the primary cilium during ventral neural tube patterning. Birth Defects Res A Clin Mol Teratol
+103, 12–19 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24917297</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pusapati GV
+et al.
+G protein-coupled receptors control the sensitivity of cells to the morphogen Sonic Hedgehog. Sci Signal
+11 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5828112</ArticleId>
+            <ArticleId IdType="pubmed">29438014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hwang SH
+et al.
+The G protein-coupled receptor Gpr161 regulates forelimb formation, limb patterning and skeletal morphogenesis in a primary cilium-dependent manner. Development
+145 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5825871</ArticleId>
+            <ArticleId IdType="pubmed">29222391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shimada IS
+et al.
+Basal Suppression of the Sonic Hedgehog Pathway by the G-Protein-Coupled Receptor Gpr161 Restricts Medulloblastoma Pathogenesis. Cell Rep
+22, 1169–1184 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5813698</ArticleId>
+            <ArticleId IdType="pubmed">29386106</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>He M
+et al.
+The kinesin-4 protein Kif7 regulates mammalian Hedgehog signalling by organizing the cilium tip compartment. Nat Cell Biol
+16, 663–672 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4085576</ArticleId>
+            <ArticleId IdType="pubmed">24952464</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liem KF Jr., He M, Ocbina PJ &amp; Anderson KV
+Mouse Kif7/Costal2 is a cilia-associated protein that regulates Sonic hedgehog signaling. Proc Natl Acad Sci U S A
+106, 13377–13382 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2726420</ArticleId>
+            <ArticleId IdType="pubmed">19666503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pal K
+et al.
+Smoothened determines beta-arrestin-mediated removal of the G protein-coupled receptor Gpr161 from the primary cilium. J Cell Biol
+212, 861–875 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4810300</ArticleId>
+            <ArticleId IdType="pubmed">27002170</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garcia-Gonzalo FR
+et al.
+Phosphoinositides Regulate Ciliary Protein Trafficking to Modulate Hedgehog Signaling. Dev Cell
+34, 400–409 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4557815</ArticleId>
+            <ArticleId IdType="pubmed">26305592</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chavez M
+et al.
+Modulation of Ciliary Phosphoinositide Content Regulates Trafficking and Sonic Hedgehog Signaling Output. Dev Cell
+34, 338–350 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26190144</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wong W &amp; Scott JD
+AKAP signalling complexes: focal points in space and time. Nat Rev Mol Cell Biol
+5, 959–970 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15573134</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bachmann VA
+et al.
+Gpr161 anchoring of PKA consolidates GPCR and cAMP signaling. Proc Natl Acad Sci U S A
+113, 7786–7791 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4948347</ArticleId>
+            <ArticleId IdType="pubmed">27357676</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mick DU
+et al.
+Proteomics of Primary Cilia by Proximity Labeling. Dev Cell
+35, 497–512 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4662609</ArticleId>
+            <ArticleId IdType="pubmed">26585297</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Choi YH
+et al.
+Polycystin-2 and phosphodiesterase 4C are components of a ciliary A-kinase anchoring protein complex that is disrupted in cystic kidney diseases. Proc Natl Acad Sci U S A
+108, 10679–10684 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3127890</ArticleId>
+            <ArticleId IdType="pubmed">21670265</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bishop GA, Berbari NF, Lewis J &amp; Mykytyn K
+Type III adenylyl cyclase localizes to primary cilia throughout the adult mouse brain. J Comp Neurol
+505, 562–571 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17924533</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vuolo L, Herrera A, Torroba B, Menendez A &amp; Pons S
+Ciliary adenylyl cyclases control the Hedgehog pathway. J Cell Sci
+128, 2928–2937 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26092933</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fredriksson R, Lagerstrom MC, Lundin LG &amp; Schioth HB
+The G-protein-coupled receptors in the human genome form five main families. Phylogenetic analysis, paralogon groups, and fingerprints. Mol Pharmacol
+63, 1256–1272 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12761335</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pandy-Szekeres G
+et al.
+GPCRdb in 2018: adding GPCR structure models and ligands. Nucleic Acids Res
+46, D440–D446 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5753179</ArticleId>
+            <ArticleId IdType="pubmed">29155946</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hauser AS, Attwood MM, Rask-Andersen M, Schioth HB &amp; Gloriam DE
+Trends in GPCR drug discovery: new agents, targets and indications. Nat Rev Drug Discov
+16, 829–842 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6882681</ArticleId>
+            <ArticleId IdType="pubmed">29075003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hilger D, Masureel M &amp; Kobilka BK
+Structure and dynamics of GPCR signaling complexes. Nat Struct Mol Biol
+25, 4–12 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6535338</ArticleId>
+            <ArticleId IdType="pubmed">29323277</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eichel K &amp; von Zastrow M
+Subcellular Organization of GPCR Signaling. Trends Pharmacol Sci
+39, 200–208 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5830169</ArticleId>
+            <ArticleId IdType="pubmed">29478570</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mykytyn K &amp; Askwith C
+G-Protein-Coupled Receptor Signaling in Cilia. Cold Spring Harb Perspect Biol
+9 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5585845</ArticleId>
+            <ArticleId IdType="pubmed">28159877</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schou KB, Pedersen LB &amp; Christensen ST
+Ins and outs of GPCR signaling in primary cilia. EMBO Rep
+16, 1099–1113 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4576980</ArticleId>
+            <ArticleId IdType="pubmed">26297609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tabibian JH, Masyuk AI, Masyuk TV, O’Hara SP &amp; LaRusso NF
+Physiology of cholangiocytes. Compr Physiol
+3, 541–565 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3831353</ArticleId>
+            <ArticleId IdType="pubmed">23720296</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Masyuk AI
+et al.
+Cholangiocyte primary cilia are chemosensory organelles that detect biliary nucleotides via P2Y12 purinergic receptors. Am J Physiol Gastrointest Liver Physiol
+295, G725–734 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2575915</ArticleId>
+            <ArticleId IdType="pubmed">18687752</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Masyuk TV, Masyuk AI &amp; LaRusso NF
+TGR5 in the Cholangiociliopathies. Dig Dis
+33, 420–425 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4523139</ArticleId>
+            <ArticleId IdType="pubmed">26045278</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Keitel V
+et al.
+The membrane-bound bile acid receptor TGR5 is localized in the epithelium of human gallbladders. Hepatology
+50, 861–870 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19582812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Masyuk AI
+et al.
+Ciliary subcellular localization of TGR5 determines the cholangiocyte functional response to bile acid signaling. Am J Physiol Gastrointest Liver Physiol
+304, G1013–1024 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3680685</ArticleId>
+            <ArticleId IdType="pubmed">23578785</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cramer MT &amp; Guay-Woodford LM
+Cystic kidney disease: a primer. Adv Chronic Kidney Dis
+22, 297–305 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26088074</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jin X
+et al.
+Cilioplasm is a cellular compartment for calcium signaling in response to mechanical and chemical stimuli. Cell Mol Life Sci
+71, 2165–2178 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3981964</ArticleId>
+            <ArticleId IdType="pubmed">24104765</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Upadhyay VS
+et al.
+Roles of dopamine receptor on chemosensory and mechanosensory primary cilia in renal epithelial cells. Front Physiol
+5, 72 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3935400</ArticleId>
+            <ArticleId IdType="pubmed">24616705</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Raychowdhury MK
+et al.
+Vasopressin receptor-mediated functional signaling pathway in primary cilia of renal epithelial cells. Am J Physiol Renal Physiol
+296, F87–97 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18945824</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Torres VE
+et al.
+Tolvaptan in Later-Stage Autosomal Dominant Polycystic Kidney Disease. N Engl J Med
+377, 1930–1942 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29105594</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang CY, Tsai HL, Syu JS, Chen TY &amp; Su MT
+Primary Cilium-Regulated EG-VEGF Signaling Facilitates Trophoblast Invasion. J Cell Physiol
+232, 1467–1477 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27736039</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guemez-Gamboa A, Coufal NG &amp; Gleeson JG
+Primary cilia in the developing and mature brain. Neuron
+82, 511–521 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4104280</ArticleId>
+            <ArticleId IdType="pubmed">24811376</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bishop GA, Berbari NF, Lewis JS &amp; Mykytyn K
+Type III Adenylyl Cyclase Localizes to Primary Cilia throughout the Adult Mouse Brain. J Comp Neurol
+505, 562–571 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17924533</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Green JA
+et al.
+Recruitment of beta-Arrestin into Neuronal Cilia Modulates Somatostatin Receptor Subtype 3 Ciliary Localization. Mol Cell Biol
+36, 223–235 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4702597</ArticleId>
+            <ArticleId IdType="pubmed">26503786</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Domire JS
+et al.
+Dopamine receptor 1 localizes to neuronal cilia in a dynamic process that requires the Bardet-Biedl syndrome proteins. Cell Mol Life Sci
+68, 2951–2960 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3368249</ArticleId>
+            <ArticleId IdType="pubmed">21152952</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun X
+et al.
+Tubby is required for trafficking G protein-coupled receptors to neuronal cilia. Cilia
+1, 21 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3599646</ArticleId>
+            <ArticleId IdType="pubmed">23351594</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marin O
+Interneuron dysfunction in psychiatric disorders. Nat Rev Neurosci
+13, 107–120 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22251963</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo J
+et al.
+Primary Cilia Signaling Shapes the Development of Interneuronal Connectivity. Dev Cell
+42, 286–300
+e284 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5571900</ArticleId>
+            <ArticleId IdType="pubmed">28787594</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ye F, Nager AR &amp; Nachury MV
+BBSome trains remove activated GPCRs from cilia by enabling passage through the transition zone. J Cell Biol
+217, 1847–1868 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5940304</ArticleId>
+            <ArticleId IdType="pubmed">29483145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berbari NF
+et al.
+Hippocampal and cortical primary cilia are required for aversive memory in mice. PLoS One
+9, e106576 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4153651</ArticleId>
+            <ArticleId IdType="pubmed">25184295</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Einstein EB
+et al.
+Somatostatin signaling in neuronal cilia is critical for object recognition memory. J Neurosci
+30, 4306–4314 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3842454</ArticleId>
+            <ArticleId IdType="pubmed">20335466</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu X
+et al.
+beta-Arrestin-biased signaling mediates memory reconsolidation. Proc Natl Acad Sci U S A
+112, 4483–4488 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4394255</ArticleId>
+            <ArticleId IdType="pubmed">25831532</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Z, Phan T &amp; Storm DR
+The type 3 adenylyl cyclase is required for novel object learning and extinction of contextual memory: role of cAMP signaling in primary cilia. J Neurosci
+31, 5557–5561 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3091825</ArticleId>
+            <ArticleId IdType="pubmed">21490195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berbari NF
+et al.
+Leptin resistance is a secondary consequence of the obesity in ciliopathy mutant mice. Proc Natl Acad Sci U S A
+110, 7796–7801 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3651481</ArticleId>
+            <ArticleId IdType="pubmed">23599282</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Davenport JR
+et al.
+Disruption of intraflagellar transport in adult mice leads to obesity and slow-onset cystic kidney disease. Curr Biol
+17, 1586–1594 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2084209</ArticleId>
+            <ArticleId IdType="pubmed">17825558</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Farooqi IS
+et al.
+Clinical spectrum of obesity and mutations in the melanocortin 4 receptor gene. N Engl J Med
+348, 1085–1095 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12646665</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Siljee JE
+et al.
+Subcellular localization of MC4R with ADCY3 at neuronal primary cilia underlies a common pathway for genetic predisposition to obesity. Nat Genet
+50, 180–185 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5805646</ArticleId>
+            <ArticleId IdType="pubmed">29311635</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Loh K, Herzog H &amp; Shi YC
+Regulation of energy homeostasis by the NPY system. Trends Endocrinol Metab
+26, 125–135 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25662369</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marion S, Oakley RH, Kim KM, Caron MG &amp; Barak LS
+A beta-arrestin binding determinant common to the second intracellular loops of rhodopsin family G protein-coupled receptors. J Biol Chem
+281, 2932–2938 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16319069</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clevers H
+Wnt/β-Catenin Signaling in Development and Disease. Cell
+127, 469–480 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17081971</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Niehrs C
+The complex world of WNT receptor signalling. Nature Reviews Molecular Cell Biology
+13, 767 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23151663</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>MacDonald BT &amp; He X
+Frizzled and LRP5/6 Receptors for Wnt/β-Catenin Signaling. Cold Spring Harbor Perspectives in Biology
+4 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3504444</ArticleId>
+            <ArticleId IdType="pubmed">23209147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sineva GS &amp; Pospelov VA
+Chapter Two - β-Catenin in Pluripotency: Adhering to Self-Renewal or Wnting to Differentiate?, in International Review of Cell and Molecular Biology, Vol. 312 (ed. Jeon KW) 53–78 (Academic Press, 2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25262238</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim W, Kim M &amp; Jho E.-h.
+Wnt/β-catenin signalling: from plasma membrane to nucleus. Biochemical Journal
+450, 9–21 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23343194</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Green J, Nusse R &amp; van Amerongen R
+The Role of Ryk and Ror Receptor Tyrosine Kinases in Wnt Signal Transduction. Cold Spring Harbor Perspectives in Biology
+6 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3941236</ArticleId>
+            <ArticleId IdType="pubmed">24370848</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Y &amp; Mlodzik M
+Wnt-Frizzled/Planar Cell Polarity Signaling: Cellular Orientation by Facing the Wind (Wnt). Annual Review of Cell and Developmental Biology
+31, 623–646 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4673888</ArticleId>
+            <ArticleId IdType="pubmed">26566118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berger H, Wodarz A &amp; Borchers A
+PTK7 Faces the Wnt in Development and Disease. Frontiers in Cell and Developmental Biology
+5 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5380734</ArticleId>
+            <ArticleId IdType="pubmed">28424771</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nishita M
+et al.
+Ror2/Frizzled Complex Mediates Wnt5a-Induced AP-1 Activation by Regulating Dishevelled Polymerization. Molecular and Cellular Biology
+30, 3610–3619 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2897551</ArticleId>
+            <ArticleId IdType="pubmed">20457807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Witte F
+et al.
+Negative regulation of Wnt signaling mediated by CK1-phosphorylated Dishevelled via Ror2. The FASEB Journal
+24, 2417–2426 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20215527</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Corbit KC
+et al.
+Kif3a constrains beta-catenin-dependent Wnt signalling through dual ciliary and non-ciliary mechanisms. Nat Cell Biol
+10, 70–76 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18084282</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang B
+et al.
+GSK3β-Dzip1-Rab8 Cascade Regulates Ciliogenesis after Mitosis. PLOS Biology
+13, e1002129 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4393111</ArticleId>
+            <ArticleId IdType="pubmed">25860027</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen Y
+et al.
+Sonic Hedgehog Dependent Phosphorylation by CK1α and GRK2 Is Required for Ciliary Accumulation and Activation of Smoothened. PLOS Biology
+9, e1001083 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3114773</ArticleId>
+            <ArticleId IdType="pubmed">21695114</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Veland IR
+et al.
+Inversin/Nephrocystin-2 Is Required for Fibroblast Polarity and Directional Cell Migration. PloS one
+8, e60193 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3620528</ArticleId>
+            <ArticleId IdType="pubmed">23593172</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marion V
+et al.
+Transient ciliogenesis involving Bardet-Biedl syndrome proteins is a fundamental characteristic of adipogenic differentiation. Proceedings of the National Academy of Sciences
+106, 1820–1825 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2635307</ArticleId>
+            <ArticleId IdType="pubmed">19190184</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Simons M
+et al.
+Inversin, the gene product mutated in nephronophthisis type II, functions as a molecular switch between Wnt signaling pathways. Nat Genet
+37, 537–543 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3733333</ArticleId>
+            <ArticleId IdType="pubmed">15852005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lienkamp S
+et al.
+Inversin relays Frizzled-8 signals to promote proximal pronephros development. Proceedings of the National Academy of Sciences
+107, 20388–20393 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2996658</ArticleId>
+            <ArticleId IdType="pubmed">21059920</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ocbina PJR, Tuson M &amp; Anderson KV
+Primary cilia are not required for normal canonical Wnt signaling in the mouse embryo. PloS one
+4, e6839–e6839 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2729396</ArticleId>
+            <ArticleId IdType="pubmed">19718259</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim M
+et al.
+KIF3A binds to β-arrestin for suppressing Wnt/β-catenin signalling independently of primary cilia in lung cancer. Scientific reports
+6, 32770–32770 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5011747</ArticleId>
+            <ArticleId IdType="pubmed">27596264</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vuong LT, Mukhopadhyay B &amp; Choi K-W
+Kinesin-II recruits Armadillo and Dishevelled for Wingless signaling in Drosophila. Development
+141, 3222–3232 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25063455</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang P &amp; Schier AF
+Dampened Hedgehog signaling but normal Wnt signaling in zebrafish without cilia. Development (Cambridge, England)
+136, 3089–3098 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2730366</ArticleId>
+            <ArticleId IdType="pubmed">19700616</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oh EC &amp; Katsanis N
+Context-Dependent Regulation of Wnt Signaling through the Primary Cilium. Journal of the American Society of Nephrology
+24, 10–18 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23123400</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancaster MA
+et al.
+Impaired Wnt–β-catenin signaling disrupts adult renal homeostasis and leads to cystic kidney ciliopathy. Nature Medicine
+15, 1046 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2895985</ArticleId>
+            <ArticleId IdType="pubmed">19718039</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancaster MA, Schroth J &amp; Gleeson JG
+Subcellular spatial regulation of canonical Wnt signalling at the primary cilium. Nature Cell Biology
+13, 700 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3107376</ArticleId>
+            <ArticleId IdType="pubmed">21602792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancaster MA
+et al.
+Defective Wnt-dependent cerebellar midline fusion in a mouse model of Joubert syndrome. Nature Medicine
+17, 726 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3110639</ArticleId>
+            <ArticleId IdType="pubmed">21623382</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Abdelhamed ZA
+et al.
+The Meckel-Gruber syndrome protein TMEM67 controls basal body positioning and epithelial branching morphogenesis in mice via the non-canonical Wnt pathway. Disease Models &amp;amp; Mechanisms
+8, 527
+(2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4457033</ArticleId>
+            <ArticleId IdType="pubmed">26035863</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bergmann C
+et al.
+Loss of Nephrocystin-3 Function Can Cause Embryonic Lethality, Meckel-Gruber-like Syndrome, Situs Inversus, and Renal-Hepatic-Pancreatic Dysplasia. The American Journal of Human Genetics
+82, 959–970 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2427297</ArticleId>
+            <ArticleId IdType="pubmed">18371931</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burcklé C
+et al.
+Control of the Wnt pathways by nephrocystin-4 is required for morphogenesis of the zebrafish pronephros. Human Molecular Genetics
+20, 2611–2627 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21498478</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gerhardt C
+et al.
+The transition zone protein Rpgrip1l regulates proteasomal activity at the primary cilium. The Journal of Cell Biology
+210, 1027 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4494006</ArticleId>
+            <ArticleId IdType="pubmed">26150391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Patnaik SR
+et al.
+RPGR protein complex regulates proteasome activity and mediates store-operated calcium entry. Oncotarget
+9, 23183–23197 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5955404</ArticleId>
+            <ArticleId IdType="pubmed">29796181</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Borgal L
+et al.
+The Ciliary Protein Nephrocystin-4 Translocates the Canonical Wnt Regulator Jade-1 to the Nucleus to Negatively Regulate β-Catenin Signaling. The Journal of Biological Chemistry
+287, 25370–25380 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3408186</ArticleId>
+            <ArticleId IdType="pubmed">22654112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chitalia VC
+et al.
+Jade-1 inhibits Wnt signaling by ubiquitinating β-catenin and mediates Wnt pathway inhibition by pVHL. Nature cell biology
+10, 1208–1216 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2830866</ArticleId>
+            <ArticleId IdType="pubmed">18806787</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mahuzier A
+et al.
+Dishevelled stabilization by the ciliopathy protein Rpgrip1l is essential for planar cell polarity. The Journal of Cell Biology
+198, 927–940 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3432770</ArticleId>
+            <ArticleId IdType="pubmed">22927466</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gerdes JM
+et al.
+Disruption of the basal body compromises proteasomal function and perturbs intracellular Wnt response. Nat Genet
+39, 1350–1360 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17906624</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gerhardt C, Leu T, Lier JM &amp; Rüther U
+The cilia-regulated proteasome and its role in the development of ciliopathies and cancer. Cilia
+5, 14 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4901515</ArticleId>
+            <ArticleId IdType="pubmed">27293550</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu YP
+et al.
+Ciliopathy proteins regulate paracrine signaling by modulating proteasomal degradation of mediators. The Journal of clinical investigation
+124, 2059–2070 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4001542</ArticleId>
+            <ArticleId IdType="pubmed">24691443</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hua K &amp; Ferland RJ
+Primary cilia proteins: ciliary and extraciliary sites and functions. Cellular and Molecular Life Sciences
+75, 1521–1540 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5899021</ArticleId>
+            <ArticleId IdType="pubmed">29305615</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lemmon MA &amp; Schlessinger J
+Cell signaling by receptor-tyrosine kinases. Cell
+141, 1117–1134 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2914105</ArticleId>
+            <ArticleId IdType="pubmed">20602996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crudden C
+et al.
+Chapter One - Blurring Boundaries: Receptor Tyrosine Kinases as functional G Protein-Coupled Receptors, in International Review of Cell and Molecular Biology, Vol. 339 (ed. Shukla AK) 1–40 (Academic Press, 2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29776602</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Christensen ST, Clement CA, Satir P &amp; Pedersen LB
+Primary cilia and coordination of receptor tyrosine kinase (RTK) signalling. The Journal of pathology
+226, 172–184 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4294548</ArticleId>
+            <ArticleId IdType="pubmed">21956154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Christensen ST, Morthorst SK, Mogensen JB &amp; Pedersen LB
+Primary Cilia and Coordination of Receptor Tyrosine Kinase (RTK) and Transforming Growth Factor beta (TGF-beta) Signaling. Cold Spring Harb Perspect Biol
+9 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5453389</ArticleId>
+            <ArticleId IdType="pubmed">27638178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ma R
+et al.
+PKD2 Functions as an Epidermal Growth Factor-Activated Plasma Membrane Channel. Molecular and Cellular Biology
+25, 8285–8298 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1234340</ArticleId>
+            <ArticleId IdType="pubmed">16135816</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Danilov AI
+et al.
+Ultrastructural and antigenic properties of neural stem cells and their progeny in adult rat subventricular zone. Glia
+57, 136–152 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18709646</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martin L
+et al.
+Constitutively-active FGFR3 disrupts primary cilium length and IFT20 trafficking in various chondrocyte models of achondroplasia. Human Molecular Genetics
+27, 1–13 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29040558</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Leitch CC &amp; Zaghloul NA
+BBS4 Is Necessary for Ciliary Localization of TrkB Receptor and Activation by BDNF. PloS one
+9, e98687 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4035337</ArticleId>
+            <ArticleId IdType="pubmed">24867303</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Teilmann SC &amp; Christensen ST
+Localization of the angiopoietin receptors Tie-1 and Tie-2 on the primary cilia in the female reproductive organs. Cell Biology International
+29, 340–346 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15893943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kunova Bosakova M
+et al.
+Regulation of ciliary function by fibroblast growth factor signaling identifies FGFR3-related disorders achondroplasia and thanatophoric dysplasia as ciliopathies. Human Molecular Genetics
+27, 1093–1105 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5886260</ArticleId>
+            <ArticleId IdType="pubmed">29360984</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhu D, Shi S, Wang H &amp; Liao K
+Growth arrest induces primary-cilium formation and sensitizes IGF-1-receptor signaling during differentiation induction of 3T3-L1 preadipocytes. Journal of Cell Science
+122, 2760–2768 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19596798</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dalbay MT, Thorpe SD, Connelly JT, Chapple JP &amp; Knight MM
+Adipogenic Differentiation of hMSCs is Mediated by Recruitment of IGF‐1r Onto the Primary Cilium Associated With Cilia Elongation. Stem Cells (Dayton, Ohio)
+33, 1952–1961 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4737234</ArticleId>
+            <ArticleId IdType="pubmed">25693948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yeh C
+et al.
+IGF-1 activates a cilium-localized non-canonical Gβγ signaling pathway that regulates cell cycle progression. Developmental cell
+26, 358–368 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3790638</ArticleId>
+            <ArticleId IdType="pubmed">23954591</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gabriel E
+et al.
+CPAP promotes timely cilium disassembly to maintain neural progenitor pool. The EMBO Journal
+35, 803–819 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4972140</ArticleId>
+            <ArticleId IdType="pubmed">26929011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang H
+et al.
+Hsp90α forms a stable complex at the cilium neck for the interaction of signalling molecules in IGF-1 receptor signalling. Journal of Cell Science
+128, 100–108 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25359884</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gerdes JM
+et al.
+Ciliary dysfunction impairs beta-cell insulin secretion and promotes development of type 2 diabetes in rodents. Nature Communications
+5, 5308 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25374274</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Volta F &amp; Gerdes JM
+The role of primary cilia in obesity and diabetes. Annals of the New York Academy of Sciences
+1391, 71–84 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27706820</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Song DK, Choi JH &amp; Kim M-S
+Primary Cilia as a Signaling Platform for Control of Energy Metabolism. Diabetes &amp; Metabolism Journal
+42, 117–127 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5911514</ArticleId>
+            <ArticleId IdType="pubmed">29676541</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Leibiger B
+et al.
+Selective Insulin Signaling through A and B Insulin Receptors Regulates Transcription of Insulin and Glucokinase Genes in Pancreatic β Cells . Molecular cell
+7, 559–570 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11463381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heldin C-H, Lennartsson J &amp; Westermark B
+Involvement of platelet-derived growth factor ligands and receptors in tumorigenesis. Journal of Internal Medicine
+283, 16–44 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28940884</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schneider L
+et al.
+PDGFRαα Signaling Is Regulated through the Primary Cilium in Fibroblasts. Current Biology
+15, 1861–1866 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16243034</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vestergaard ML, Awan A, Warzecha CB, Christensen ST &amp; Andersen CY
+Immunofluorescence Microscopy and mRNA Analysis of Human Embryonic Stem Cells (hESCs) Including Primary Cilia Associated Signaling Pathways, in Human Embryonic Stem Cell Protocols. (ed. Turksen K) 123–140 (Springer; 
+New York, New York, NY; 2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25304206</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Noda K, Kitami M, Kitami K, Kaku M &amp; Komatsu Y
+Canonical and noncanonical intraflagellar transport regulates craniofacial skeletal development. Proceedings of the National Academy of Sciences of the United States of America
+113, E2589–E2597 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4868419</ArticleId>
+            <ArticleId IdType="pubmed">27118846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gerhardt C, Lier JM, Kuschel S &amp; Rüther U
+The Ciliary Protein Ftm Is Required for Ventricular Wall and Septal Development. PloS one
+8, e57545 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3585374</ArticleId>
+            <ArticleId IdType="pubmed">23469020</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kopinke D, Roberson EC &amp; Reiter JF
+Ciliary Hedgehog signaling restricts injury-induced adipogenesis. Cell
+170, 340–351.e312 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5617351</ArticleId>
+            <ArticleId IdType="pubmed">28709001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Falcón-Urrutia P, Carrasco CM, Lois P, Palma V &amp; Roth AD
+Shh Signaling through the Primary Cilium Modulates Rat Oligodendrocyte Differentiation. PloS one
+10, e0133567 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4517900</ArticleId>
+            <ArticleId IdType="pubmed">26218245</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nielsen BS
+et al.
+PDGFRβ and oncogenic mutant PDGFRα D842V promote disassembly of primary cilia through a PLCγ- and AURKA-dependent mechanism. Journal of Cell Science
+128, 3543–3549 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26290382</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schneider L
+et al.
+Directional Cell Migration and Chemotaxis in Wound Healing Response to PDGF-AA are Coordinated by the Primary Cilium in Fibroblasts. Cellular Physiology and Biochemistry
+25, 279–292 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2924811</ArticleId>
+            <ArticleId IdType="pubmed">20110689</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schneider L
+et al.
+The Na(+)/H(+) exchanger NHE1 is required for directional migration stimulated via PDGFR-α in the primary cilium. The Journal of Cell Biology
+185, 163–176 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2700519</ArticleId>
+            <ArticleId IdType="pubmed">19349585</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clement DL
+et al.
+PDGFRα signaling in the primary cilium regulates NHE1-dependent fibroblast migration via coordinated differential activity of MEK1/2–ERK1/2–p90(RSK) and AKT signaling pathways. Journal of Cell Science
+126, 953–965 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4481637</ArticleId>
+            <ArticleId IdType="pubmed">23264740</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Umberger NL &amp; Caspary T
+Ciliary transport regulates PDGF-AA/αα signaling via elevated mammalian target of rapamycin signaling and diminished PP2A activity. Molecular biology of the cell
+26, 350–358 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4294681</ArticleId>
+            <ArticleId IdType="pubmed">25392303</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Suizu F
+et al.
+Phosphorylation‐dependent Akt–Inversin interaction at the basal body of primary cilia. The EMBO Journal
+35, 1346–1363 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4883026</ArticleId>
+            <ArticleId IdType="pubmed">27220846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Driscoll M, Ruiz-Perez VL, Woods CG, Jeggo PA &amp; Goodship JA
+A splicing mutation affecting expression of ataxia–telangiectasia and Rad3–related protein (ATR) results in Seckel syndrome. Nature Genetics
+33, 497 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12640452</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stiff T, Casar Tena T, O’Driscoll M, Jeggo PA &amp; Philipp M
+ATR promotes cilia signalling: links to developmental impacts. Human Molecular Genetics
+25, 1574–1587 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4805311</ArticleId>
+            <ArticleId IdType="pubmed">26908596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vierkotten J, Dildrop R, Peters T, Wang B &amp; Rüther U
+Ftm is a novel basal body protein of cilia involved in Shh signalling. Development
+134, 2569–2577 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17553904</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koefoed K, Veland IR, Pedersen LB, Larsen LA &amp; Christensen ST
+Cilia and coordination of signaling networks during heart development. Organogenesis
+10, 108–125 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4049888</ArticleId>
+            <ArticleId IdType="pubmed">24345806</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mohapatra B
+et al.
+Protein tyrosine kinase regulation by ubiquitination: Critical roles of Cbl-family ubiquitin ligases. Biochimica et biophysica acta
+1833, 122–139 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3628764</ArticleId>
+            <ArticleId IdType="pubmed">23085373</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liyasova MS, Ma K &amp; Lipkowitz S
+Molecular Pathways: Cbl Proteins in Tumorigenesis and Antitumor Immunity—Opportunities for Cancer Treatment. Clinical cancer research : an official journal of the American Association for Cancer Research
+21, 1789–1794 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4401614</ArticleId>
+            <ArticleId IdType="pubmed">25477533</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schmid FM
+et al.
+IFT20 modulates ciliary PDGFRalpha signaling by regulating the stability of Cbl E3 ubiquitin ligases. J Cell Biol
+217, 151–161 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5748969</ArticleId>
+            <ArticleId IdType="pubmed">29237719</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Szucs Z
+et al.
+Molecular subtypes of gastrointestinal stromal tumors and their prognostic and therapeutic implications. Future Oncology
+13, 93–107 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27600498</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mohapatra B
+et al.
+An essential role of CBL and CBL-B ubiquitin ligases in mammary stem cell maintenance. Development (Cambridge, England)
+144, 1072–1086 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5358102</ArticleId>
+            <ArticleId IdType="pubmed">28100467</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bielas SL
+et al.
+Mutations in the inositol polyphosphate-5-phosphatase E gene link phosphatidyl inositol signaling to the ciliopathies. Nature genetics
+41, 1032–1036 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2746682</ArticleId>
+            <ArticleId IdType="pubmed">19668216</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kisseleva MV, Cao L &amp; Majerus PW
+Phosphoinositide-specific Inositol Polyphosphate 5-Phosphatase IV Inhibits Akt/Protein Kinase B Phosphorylation and Leads to Apoptotic Cell Death. Journal of Biological Chemistry
+277, 6266–6272 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11706019</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jacoby M
+et al.
+INPP5E mutations cause primary cilium signaling defects, ciliary instability and ciliopathies in human and mouse. Nature Genetics
+41, 1027 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19668215</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nickel J, ten Dijke P &amp; Mueller TD
+TGF-β family co-receptor function and signaling. Acta Biochimica et Biophysica Sinica
+50, 12–36 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29293886</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heldin C-H &amp; Moustakas A
+Signaling Receptors for TGF-β Family Members. Cold Spring Harbor Perspectives in Biology
+8, a022053 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4968163</ArticleId>
+            <ArticleId IdType="pubmed">27481709</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luo K
+Signaling Cross Talk between TGF-β/Smad and Other Signaling Pathways. Cold Spring Harbor Perspectives in Biology
+9 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5204325</ArticleId>
+            <ArticleId IdType="pubmed">27836834</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bakkebø M
+et al.
+SARA is dispensable for functional TGF-β signaling. FEBS Letters
+586, 3367–3372 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22819827</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clement CA
+et al.
+TGF-beta signaling is associated with endocytosis at the pocket region of the primary cilium. Cell reports
+3, 1806–1814 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23746451</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xie Y-F
+et al.
+Pulsed electromagnetic fields stimulate osteogenic differentiation and maturation of osteoblasts by upregulating the expression of BMPRII localized at the base of primary cilium. Bone
+93, 22–32 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27622883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Labour M-N, Riffault M, Christensen ST &amp; Hoey DA
+TGFβ1 – induced recruitment of human bone mesenchymal stem cells is mediated by the primary cilium in a SMAD3-dependent manner. Scientific Reports
+6, 35542 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5066273</ArticleId>
+            <ArticleId IdType="pubmed">27748449</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang J
+et al.
+Topography of calcium phosphate ceramics regulates primary cilia length and TGF receptor recruitment associated with osteogenesis. Acta Biomaterialia
+57, 487–497 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5489417</ArticleId>
+            <ArticleId IdType="pubmed">28456657</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gencer S
+et al.
+TGF-β receptor I/II trafficking and signaling at primary cilia are inhibited by ceramide to attenuate cell migration and tumor metastasis. Science signaling
+10, eaam7464 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5818989</ArticleId>
+            <ArticleId IdType="pubmed">29066540</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koefoed K
+et al.
+The E3 ubiquitin ligase SMURF1 regulates cell-fate specification and outflow tract septation during mammalian heart development. Scientific Reports
+8, 9542 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6015040</ArticleId>
+            <ArticleId IdType="pubmed">29934521</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yao G
+et al.
+Disruption of polycystin-L causes hippocampal and thalamocortical hyperexcitability. Hum Mol Genet
+25, 448–458 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4731019</ArticleId>
+            <ArticleId IdType="pubmed">26612203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arrighi N
+et al.
+The primary cilium is necessary for the differentiation and the maintenance of human adipose progenitors into myofibroblasts. Scientific Reports
+7, 15248 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5681559</ArticleId>
+            <ArticleId IdType="pubmed">29127365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goetz Jacky G.
+et al.
+Endothelial Cilia Mediate Low Flow Sensing during Zebrafish Vascular Development. Cell reports
+6, 799–808 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24561257</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iomini C, Tejada K, Mo W, Vaananen H &amp; Piperno G
+Primary cilia of human endothelial cells disassemble under laminar shear stress. The Journal of Cell Biology
+164, 811–817 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2172280</ArticleId>
+            <ArticleId IdType="pubmed">15024030</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kallakuri S
+et al.
+Endothelial Cilia Are Essential for Developmental Vascular Integrity in Zebrafish. Journal of the American Society of Nephrology : JASN
+26, 864–875 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4378100</ArticleId>
+            <ArticleId IdType="pubmed">25214579</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hierck BP
+et al.
+Primary cilia sensitize endothelial cells for fluid shear stress. Developmental dynamics : an official publication of the American Association of Anatomists
+237, 725–735 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18297727</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Egorova AD
+et al.
+Lack of primary cilia primes shear-induced Endothelial-to-Mesenchymal Transition. Circulation research
+108, 1093–1101 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3094764</ArticleId>
+            <ArticleId IdType="pubmed">21393577</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vion A-C
+et al.
+Primary cilia sensitize endothelial cells to BMP and prevent excessive vascular regression. The Journal of Cell Biology (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5940299</ArticleId>
+            <ArticleId IdType="pubmed">29500191</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kawasaki M
+et al.
+TGF-β Suppresses Ift88 Expression in Chondrocytic ATDC5 Cells. Journal of Cellular Physiology
+230, 2788–2795 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25828538</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ehnert S
+et al.
+TGF-β1 impairs mechanosensation of human osteoblasts via HDAC6-mediated shortening and distortion of primary cilia. Journal of Molecular Medicine
+95, 653–663 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28271209</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Han SJ
+et al.
+Deficiency of primary cilia in kidney epithelial cells induces epithelial to mesenchymal transition. Biochemical and Biophysical Research Communications
+496, 450–454 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29337054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Westlake CJ
+et al.
+Primary cilia membrane assembly is initiated by Rab11 and transport protein particle II (TRAPPII) complex-dependent trafficking of Rabin8 to the centrosome. Proc Natl Acad Sci U S A
+108, 2759–2764 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3041065</ArticleId>
+            <ArticleId IdType="pubmed">21273506</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mitchell H, Choudhury A, Pagano RE &amp; Leof EB
+Ligand-dependent and -independent Transforming Growth Factor-β Receptor Recycling Regulated by Clathrin-mediated Endocytosis and Rab11. Molecular biology of the cell
+15, 4166–4178 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC515349</ArticleId>
+            <ArticleId IdType="pubmed">15229286</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Monnich M
+et al.
+CEP128 Localizes to the Subdistal Appendages of the Mother Centriole and Regulates TGF-beta/BMP Signaling at the Primary Cilium. Cell reports
+22, 2584–2592 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29514088</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miyazawa K &amp; Miyazono K
+Regulation of TGF-β Family Signaling by Inhibitory Smads. Cold Spring Harbor Perspectives in Biology
+9 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5334261</ArticleId>
+            <ArticleId IdType="pubmed">27920040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rosengren T, Larsen LJ, Pedersen LB, Christensen ST &amp; Møller LB
+TSC1 and TSC2 regulate cilia length and canonical Hedgehog signaling via different mechanisms. Cellular and Molecular Life Sciences
+75, 2663–2680 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6003990</ArticleId>
+            <ArticleId IdType="pubmed">29396625</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pedersen LB, Mogensen JB &amp; Christensen ST
+Endocytic Control of Cellular Signaling at the Primary Cilium. Trends in biochemical sciences
+41, 784–797 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27364476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wheway G, Nazlamova L &amp; Hancock JT
+Signaling through the Primary Cilium. Frontiers in Cell and Developmental Biology
+6 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5809511</ArticleId>
+            <ArticleId IdType="pubmed">29473038</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seeger-Nukpezah T &amp; Golemis EA
+The extracellular matrix and ciliary signaling. Current opinion in cell biology
+24, 652–661 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3479303</ArticleId>
+            <ArticleId IdType="pubmed">22819513</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wood CR &amp; Rosenbaum JL
+Ciliary ectosomes: transmissions from the cell’s antenna. Trends Cell Biol
+25, 276–285 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4409478</ArticleId>
+            <ArticleId IdType="pubmed">25618328</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee KH
+et al.
+Identification of a novel Wnt5a-CK1varepsilon-Dvl2-Plk1-mediated primary cilia disassembly pathway. Embo j
+31, 3104–3117 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3400010</ArticleId>
+            <ArticleId IdType="pubmed">22609948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Keitel V, Ullmer C &amp; Haussinger D
+The membrane-bound bile acid receptor TGR5 (Gpbar-1) is localized in the primary cilium of cholangiocytes. Biol Chem
+391, 785–789 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20623999</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Abdul-Majeed S &amp; Nauli SM
+Dopamine receptor type 5 in the primary cilia has dual chemo- and mechano-sensory roles. Hypertension
+58, 325–331 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3150550</ArticleId>
+            <ArticleId IdType="pubmed">21709211</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Singh J, Wen X &amp; Scales SJ
+The Orphan G Protein-coupled Receptor Gpr175 (Tpra40) Enhances Hedgehog Signaling by Modulating cAMP Levels. The Journal of Biological Chemistry
+290, 29663–29675 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4705964</ArticleId>
+            <ArticleId IdType="pubmed">26451044</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koemeter-Cox AI
+et al.
+Primary cilia enhance kisspeptin receptor signaling on gonadotropin-releasing hormone neurons. Proc Natl Acad Sci U S A
+111, 10335–10340 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4104922</ArticleId>
+            <ArticleId IdType="pubmed">24982149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berbari NF, Johnson AD, Lewis JS, Askwith CC &amp; Mykytyn K
+Identification of ciliary localization sequences within the third intracellular loop of G protein-coupled receptors. Mol Biol Cell
+19, 1540–1547 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2291422</ArticleId>
+            <ArticleId IdType="pubmed">18256283</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang Y, Li YR, Tian H, Ma M &amp; Matsunami H
+Muscarinic acetylcholine receptor M3 modulates odorant receptor activity via inhibition of beta-arrestin-2 recruitment. Nat Commun
+6, 6448 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4372811</ArticleId>
+            <ArticleId IdType="pubmed">25800153</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zheng L
+et al.
+Ciliary parathyroid hormone signaling activates transforming growth factor-beta to maintain intervertebral disc homeostasis during aging. Bone Res
+6, 21 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6050246</ArticleId>
+            <ArticleId IdType="pubmed">30038820</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Omori Y
+et al.
+Identification of G Protein-Coupled Receptors (GPCRs) in Primary Cilia and Their Possible Involvement in Body Weight Control. PLoS One
+10, e0128422 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4459993</ArticleId>
+            <ArticleId IdType="pubmed">26053317</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jin D
+et al.
+Prostaglandin signalling regulates ciliogenesis by modulating intraflagellar transport. Nat Cell Biol
+16, 841–851 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4154319</ArticleId>
+            <ArticleId IdType="pubmed">25173977</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brailov I
+et al.
+Localization of 5-HT(6) receptors at the plasma membrane of neuronal cilia in the rat brain. Brain Res
+872, 271–275 (2000).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10924708</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Handel M
+et al.
+Selective targeting of somatostatin receptor 3 to neuronal cilia. Neuroscience
+89, 909–926 (1999).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10199624</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Szumska J
+et al.
+Trace Amine-Associated Receptor 1 Localization at the Apical Plasma Membrane Domain of Fisher Rat Thyroid Epithelial Cells Is Confined to Cilia. Eur Thyroid J
+4, 30–41 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4640295</ArticleId>
+            <ArticleId IdType="pubmed">26601071</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

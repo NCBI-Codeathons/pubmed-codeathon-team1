@@ -1,0 +1,1125 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">34913508</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>16</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1460-2075</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>41</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Dec</Month>
+              <Day>17</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>The EMBO journal</Title>
+          <ISOAbbreviation>EMBO J</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>NKG2D discriminates diverse ligands through selectively mechano-regulated ligand conformational changes.</ArticleTitle>
+        <Pagination>
+          <StartPage>e107739</StartPage>
+          <MedlinePgn>e107739</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">e107739</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.15252/embj.2021107739</ELocationID>
+        <Abstract>
+          <AbstractText>Stimulatory immune receptor NKG2D binds diverse ligands to elicit differential anti-tumor and anti-virus immune responses. Two conflicting degeneracy recognition models based on static crystal structures and in-solution binding affinities have been considered for almost two decades. Whether and how NKG2D recognizes and discriminates diverse ligands still remain unclear. Using live-cell-based single-molecule biomechanical assay, we characterized the in situ binding kinetics of NKG2D interacting with different ligands in the absence or presence of mechanical force. We found that mechanical force application selectively prolonged NKG2D interaction lifetimes with the ligands MICA and MICB, but not with ULBPs, and that force-strengthened binding is much more pronounced for MICA than for other ligands. We also integrated steered molecular dynamics simulations and mutagenesis to reveal force-induced rotational conformational changes of MICA, involving formation of additional hydrogen bonds on its binding interface with NKG2D, impeding MICA dissociation under force. We further provided a kinetic triggering model to reveal that force-dependent affinity determines NKG2D ligand discrimination and its downstream NK cell activation. Together, our results demonstrate that NKG2D has a discrimination power to recognize different ligands, which depends on selective mechanical force-induced ligand conformational changes.</AbstractText>
+          <CopyrightInformation>© 2021 The Authors Published under the terms of the CC BY NC ND 4.0 license.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Fan</LastName>
+            <ForeName>Juan</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell Biology and Department of Cardiology of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shi</LastName>
+            <ForeName>Jiawei</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory for Biomedical Engineering of the Ministry of Education, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Yong</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">0000-0001-6664-435X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of RNA Biology, CAS Center for Excellence in Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>University of Chinese Academy of Sciences, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Junwei</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory for Biomedical Engineering of the Ministry of Education, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatobiliary and Pancreatic Surgery, The Center for Integrated Oncology and Precision Medicine, Affiliated Hangzhou First People's Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>An</LastName>
+            <ForeName>Chenyi</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell Biology and Department of Cardiology of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhu</LastName>
+            <ForeName>Huaying</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell Biology and Department of Cardiology of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Peng</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell Biology and Department of Cardiology of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Wei</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell Biology and Department of Cardiology of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Qin</LastName>
+            <ForeName>Rui</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell Biology and Department of Cardiology of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yao</LastName>
+            <ForeName>Danmei</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell Biology and Department of Cardiology of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shou</LastName>
+            <ForeName>Xin</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Translational Medicine, School of Medicine, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Yibing</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Translational Medicine, School of Medicine, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tong</LastName>
+            <ForeName>Zhou</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Oncology, First Affiliated Hospital, School of Medicine, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wen</LastName>
+            <ForeName>Xue</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, The First Affiliated Hospital, School of Medicine, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Jianpo</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Stem Cell and Regenerative Medicine, Department of Basic Medical Sciences, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Jin</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Stem Cell and Regenerative Medicine, Department of Basic Medical Sciences, The First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Zhejiang Laboratory for Systems and Precision Medicine, Zhejiang University Medical Center, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute of Hematology, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fang</LastName>
+            <ForeName>Weijia</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Oncology, First Affiliated Hospital, School of Medicine, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lou</LastName>
+            <ForeName>Jizhong</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of RNA Biology, CAS Center for Excellence in Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>University of Chinese Academy of Sciences, Beijing, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yin</LastName>
+            <ForeName>Weiwei</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory for Biomedical Engineering of the Ministry of Education, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Zhejiang Provincial Key Laboratory of Cardio-Cerebral Vascular Detection Technology and Medicinal Effectiveness Appraisal, College of Biomedical Engineering and Instrument of Science, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Wei</ForeName>
+            <Initials>W</Initials>
+            <Identifier Source="ORCID">0000-0001-5366-7253</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell Biology and Department of Cardiology of the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory for Biomedical Engineering of the Ministry of Education, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Hepatobiliary and Pancreatic Surgery, The Center for Integrated Oncology and Precision Medicine, Affiliated Hangzhou First People's Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Zhejiang Laboratory for Systems and Precision Medicine, Zhejiang University Medical Center, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The MOE Frontier Science Center for Brain Science &amp; Brain-machine Integration, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>16</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>EMBO J</MedlineTA>
+        <NlmUniqueID>8208664</NlmUniqueID>
+        <ISSNLinking>0261-4189</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D015395">Histocompatibility Antigens Class I</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C527085">KLRK1 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D008024">Ligands</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D055655">NK Cell Lectin-Like Receptor Subfamily K</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015395" MajorTopicYN="N">Histocompatibility Antigens Class I</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020014" MajorTopicYN="N">K562 Cells</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008024" MajorTopicYN="N">Ligands</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055595" MajorTopicYN="N">Mechanical Phenomena</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D056004" MajorTopicYN="N">Molecular Dynamics Simulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055655" MajorTopicYN="N">NK Cell Lectin-Like Receptor Subfamily K</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000072760" MajorTopicYN="N">Single Molecule Imaging</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">NKG2D</Keyword>
+        <Keyword MajorTopicYN="Y">conformational changes</Keyword>
+        <Keyword MajorTopicYN="Y">ligand discrimination</Keyword>
+        <Keyword MajorTopicYN="Y">mechanical regulation</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>1</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>16</Day>
+          <Hour>8</Hour>
+          <Minute>54</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34913508</ArticleId>
+        <ArticleId IdType="pmc">PMC8762575</ArticleId>
+        <ArticleId IdType="doi">10.15252/embj.2021107739</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>
+An C, Hu W, Gao J, Ju B‐F, Obeidy P, Zhao YC, Tu X, Fang W, Ju LA, Chen W (2020) Ultra‐stable biomembrane force probe for accurately determining slow dissociation kinetics of PD‐1 blockade antibodies on single living cells. Nano Lett
+20: 5133–5140
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32530632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Anton van der Merwe P, Davis SJ, Shaw AS, Dustin ML (2000) Cytoskeletal polarization and redistribution of cell‐surface molecules during T cell antigen recognition. Semin Immunol
+12: 5–21
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10723794</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Armeanu S, Bitzer M, Lauer UM, Venturelli S, Pathil A, Krusch M, Kaiser S, Jobst J, Smirnow I, Wagner A
+et al (2005) Natural killer cell‐mediated lysis of hepatoma cells via specific induction of NKG2D ligands by the histone deacetylase inhibitor sodium valproate. Cancer Res
+65: 6321–6329
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16024634</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Balint S, Lopes FB, Davis DM (2018) A nanoscale reorganization of the IL‐15 receptor is triggered by NKG2D in a ligand‐dependent manner. Sci Signal
+11: eaal3606
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6917509</ArticleId>
+            <ArticleId IdType="pubmed">29636390</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Basu R, Whitlock BM, Husson J, Le Floc’h A, Jin W, Oyler‐Yaniv A, Dotiwala F, Giannone G, Hivroz C, Biais N
+et al (2016) Cytotoxic T cells use mechanical force to potentiate target cell killing. Cell
+165: 100–110
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4808403</ArticleId>
+            <ArticleId IdType="pubmed">26924577</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bauer S, Groh V, Wu J, Steinle A, Phillips JH, Lanier LL, Spies T (1999) Activation of NK cells and T cells by NKG2D, a receptor for stress‐inducible MICA. Science
+285: 727–729
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10426993</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Billadeau DD, Upshaw JL, Schoon RA, Dick CJ, Leibson PJ (2003) NKG2D‐DAP10 triggers human NK cell‐mediated killing via a Syk‐independent regulatory pathway. Nat Immunol
+4: 557–564
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12740575</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Brown AC, Dobbie IM, Alakoskela JM, Davis I, Davis DM (2012) Super‐resolution imaging of remodeled synaptic actin reveals different synergies between NK cell receptors and integrins. Blood
+120: 3729–3740
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4238744</ArticleId>
+            <ArticleId IdType="pubmed">22966166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Brown ACN, Oddos S, Dobbie IM, Alakoskela J‐M, Parton RM, Eissmann P, Neil MAA, Dunsby C, French PMW, Davis I
+et al (2011) Remodelling of cortical actin where lytic granules dock at natural killer cell immune synapses revealed by super‐resolution microscopy. PLoS Biol
+9: e1001152
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3172219</ArticleId>
+            <ArticleId IdType="pubmed">21931537</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Call ME, Wucherpfennig KW, Chou JJ (2010) The structural basis for intramembrane assembly of an activating immunoreceptor complex. Nat Immunol
+11: 1023–1029
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3215083</ArticleId>
+            <ArticleId IdType="pubmed">20890284</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Chen W, Zarnitsyna VI, Sarangapani KK, Huang J, Zhu C (2008) Measuring receptor‐ligand binding kinetics on cell surfaces: from adhesion frequency to thermal fluctuation methods. Cell Mol Bioeng
+1: 276–288
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2771931</ArticleId>
+            <ArticleId IdType="pubmed">19890486</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Chesla SE, Selvaraj P, Zhu C (1998) Measuring two‐dimensional receptor‐ligand binding kinetics by micropipette. Biophys J
+75: 1553–1572
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1299830</ArticleId>
+            <ArticleId IdType="pubmed">9726957</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Cosman D, Mullberg J, Sutherland CL, Chin W, Armitage R, Fanslow W, Kubin M, Chalupny NJ (2001) ULBPs, novel MHC class I‐related molecules, bind to CMV glycoprotein UL16 and stimulate NK cytotoxicity through the NKG2D receptor. Immunity
+14: 123–133
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11239445</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Deguine J, Breart B, Lemaitre F, Di Santo JP, Bousso P (2010) Intravital imaging reveals distinct dynamics for natural killer and CD8(+) T cells during tumor regression. Immunity
+33: 632–644
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20951068</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Dhar P, Wu JD (2018) NKG2D and its ligands in cancer. Curr Opin Immunol
+51: 55–61
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6145810</ArticleId>
+            <ArticleId IdType="pubmed">29525346</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Dunn C, Chalupny NJ, Sutherland CL, Dosch S, Sivakumar PV, Johnson DC, Cosman D (2003) Human cytomegalovirus glycoprotein UL16 causes intracellular sequestration of NKG2D ligands, protecting against natural killer cell cytotoxicity. J Exp Med
+197: 1427–1439
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2193902</ArticleId>
+            <ArticleId IdType="pubmed">12782710</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Dushek O, Das R, Coombs D (2009) A role for rebinding in rapid and reliable T cell responses to antigen. Plos Comput Biol
+5: e1000578
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2775163</ArticleId>
+            <ArticleId IdType="pubmed">19956745</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Dustin ML (2004) Stop and go traffic to tune T cell responses. Immunity
+21: 305–314
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15357942</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Eagle RA, Jafferji I, Barrow AD (2009) Beyond stressed self: evidence for NKG2D ligand expression on healthy cells. Curr Immunol Rev
+5: 22–34
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2713595</ArticleId>
+            <ArticleId IdType="pubmed">19626129</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Einspahr KJ, Abraham RT, Binstadt BA, Uehara Y, Leibson PJ (1991) Tyrosine phosphorylation provides an early and requisite signal for the activation of natural killer cell cytotoxic function. Proc Natl Acad Sci USA
+88: 6279–6283
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC52066</ArticleId>
+            <ArticleId IdType="pubmed">2068107</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Eleme K, Taner SB, Onfelt B, Collinson LM, McCann FE, Chalupny NJ, Cosman D, Hopkins C, Magee AI, Davis DM (2004) Cell surface organization of stress‐inducible proteins ULBP and MICA that stimulate human NK cells and T cells via NKG2D. J Exp Med
+199: 1005–1010
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2211882</ArticleId>
+            <ArticleId IdType="pubmed">15051759</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Endt J, McCann FE, Almeida CR, Urlaub D, Leung R, Pende D, Davis DM, Watzl C (2007) Inhibitory receptor signals suppress ligation‐induced recruitment of NKG2D to GM1‐rich membrane domains at the human NK cell immune synapse. J Immunol
+178: 5606–5611
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17442943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Evans E, Ritchie K, Merkel R (1995) Sensitive force technique to probe molecular adhesion and structural linkages at biological interfaces. Biophys J
+68: 2580–2587
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1282168</ArticleId>
+            <ArticleId IdType="pubmed">7647261</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Fang L, Gong J, Wang Y, Liu R, Li Z, Wang Z, Zhang Y, Zhang C, Song C, Yang A
+et al (2014) MICA/B expression is inhibited by unfolded protein response and associated with poor prognosis in human hepatocellular carcinoma. J Exp Clin Cancer Res
+33: 76
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4174668</ArticleId>
+            <ArticleId IdType="pubmed">25228093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Fujisaki H, Kakuda H, Shimasaki N, Imai C, Ma J, Lockey T, Eldridge P, Leung WH, Campana D (2009) Expansion of highly cytotoxic human natural killer cells for cancer cell therapy. Cancer Res
+69: 4010–4017
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2716664</ArticleId>
+            <ArticleId IdType="pubmed">19383914</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Gao B, Jeong WI, Tian Z (2008) Liver: An organ with predominant innate immunity. Hepatology
+47: 729–736
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18167066</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Gee MH, Han A, Lofgren SM, Beausang JF, Mendoza JL, Birnbaum ME, Bethune MT, Fischer S, Yang X, Gomez‐Eerland R
+et al (2018) Antigen identification for orphan T cell receptors expressed on tumor‐infiltrating lymphocytes. Cell
+172: 549–563.e16
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5786495</ArticleId>
+            <ArticleId IdType="pubmed">29275860</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Groh V, Bahram S, Bauer S, Herman A, Beauchamp M, Spies T (1996) Cell stress‐regulated human major histocompatibility complex class I gene expressed in gastrointestinal epithelium. Proc Natl Acad Sci USA
+93: 12445–12450
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC38011</ArticleId>
+            <ArticleId IdType="pubmed">8901601</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Hu W, Zhang Y, Sun X, Zhang T, Xu L, Xie H, Li Z, Liu W, Lou Ji, Chen W (2019) FcγRIIB‐I232T polymorphic change allosterically suppresses ligand binding. eLife
+8
+10.7554/elife.46689
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/elife.46689</ArticleId>
+            <ArticleId IdType="pmc">PMC6711707</ArticleId>
+            <ArticleId IdType="pubmed">31343409</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Huang J, Zarnitsyna VI, Liu B, Edwards LJ, Jiang N, Evavold BD, Zhu C (2010) The kinetics of two‐dimensional TCR and pMHC interactions determine T‐cell responsiveness. Nature
+464: 932–936
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2925443</ArticleId>
+            <ArticleId IdType="pubmed">20357766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Humphrey W, Dalke A, Schulten K (1996) VMD: visual molecular dynamics. J Mol Graph
+14: 33–38
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8744570</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Jong AY, Wu CH, Li J, Sun J, Fabbri M, Wayne AS, Seeger RC (2017) Large‐scale isolation and cytotoxicity of extracellular vesicles derived from activated human natural killer cells. J Extracell Vesicles
+6: 1294368
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5345580</ArticleId>
+            <ArticleId IdType="pubmed">28326171</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Ju L, Zhu C (2017) Benchmarks of biomembrane force probe spring constant models. Biophys J
+113: 2842–2845
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5771216</ArticleId>
+            <ArticleId IdType="pubmed">29262376</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kamimura H, Yamagiwa S, Tsuchiya A, Takamura M, Matsuda Y, Ohkoshi S, Inoue M, Wakai T, Shirai Y, Nomoto M
+et al (2012) Reduced NKG2D ligand expression in hepatocellular carcinoma correlates with early recurrence. J Hepatol
+56: 381–388
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21756848</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kraetzel K, Stoelcker B, Eissner G, Multhoff G, Pfeifer M, Holler E, Schulz C (2008) NKG2D‐dependent effector function of bronchial epithelium‐activated alloreactive T‐cells. Eur Respir J
+32: 563–570
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18417514</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lanier LL (2015) NKG2D receptor and its ligands in host defense. Cancer Immunol Res
+3: 575–582
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4457299</ArticleId>
+            <ArticleId IdType="pubmed">26041808</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Le Saux G, Bar‐Hanin N, Edri A, Hadad U, Porgador A, Schvartzman M (2019) Nanoscale mechanosensing of natural killer cells is revealed by antigen‐functionalized nanowires. Adv Mater
+31: e1805954
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30488552</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lever M, Maini PK, van der Merwe PA, Dushek O (2014) Phenotypic models of T cell activation. Nat Rev Immunol
+14: 619–629
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25145757</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Li K, Mandai M, Hamanishi J, Matsumura N, Suzuki A, Yagi H, Yamaguchi K, Baba T, Fujii S, Konishi I (2009) Clinical significance of the NKG2D ligands, MICA/B and ULBP2 in ovarian cancer: high expression of ULBP2 is an indicator of poor prognosis. Cancer Immunol Immunother
+58: 641–652
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18791713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Li P, Morris DL, Willcox BE, Steinle A, Spies T, Strong RK (2001) Complex structure of the activating immunoreceptor NKG2D and its MHC class I‐like ligand MICA. Nat Immunol
+2: 443–451
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11323699</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Liu B, Chen W, Evavold BD, Zhu C (2014) Accumulation of dynamic catch bonds between TCR and agonist peptide‐MHC triggers T cell signaling. Cell
+157: 357–368
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4123688</ArticleId>
+            <ArticleId IdType="pubmed">24725404</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Liu Y, Zhang T, Zhang H, Li J, Zhou N, Fiskesund R, Chen J, Lv J, Ma J, Zhang H
+et al (2021) Cell softness prevents cytolytic T‐cell killing of tumor‐repopulating cells. Cancer Res
+81: 476–488
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33168645</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Margulies DH (2003) Molecular interactions: stiff or floppy (or somewhere in between?). Immunity
+19: 772–774
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14670294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+McFarland BJ, Kortemme T, Yu SF, Baker D, Strong RK (2003) Symmetry recognizing asymmetry: analysis of the interactions between the C‐type lectin‐like immunoreceptor NKG2D and MHC class I‐like ligands. Structure
+11: 411–422
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12679019</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+McFarland BJ, Strong RK (2003) Thermodynamic analysis of degenerate recognition by the NKG2D immunoreceptor: not induced fit but rigid adaptation. Immunity
+19: 803–812
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14670298</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+McGilvray RW, Eagle RA, Rolland P, Jafferji I, Trowsdale J, Durrant LG (2010) ULBP2 and RAET1E NKG2D ligands are independent predictors of poor prognosis in ovarian cancer patients. Int J Cancer
+127: 1412–1420
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20054857</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mitra A, Satelli A, Yan J, Xia XQ, Gagea M, Hunter CA, Mishra L, Li SL (2014) IL‐30 (IL27p28) attenuates liver fibrosis through inducing NKG2D‐Rae1 interaction between NKT and activated hepatic stellate cells in mice. Hepatology
+60: 2027–2039
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4245364</ArticleId>
+            <ArticleId IdType="pubmed">25351459</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Molinero LL, Fuertes MB, Rabinovich GA, Fainboim L, Zwirner NW (2002) Activation‐induced expression of MICA on T lymphocytes involves engagement of CD3 and CD28. J Leukoc Biol
+71: 791–797
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11994503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Molinero LL, Fuertes MB, Girart MV, Fainboim L, Rabinovich GA, Costas MA, Zwirner NW (2004) NF‐kappa B regulates expression of the MHC class I‐related chain A gene in activated T lymphocytes. J Immunol
+173: 5583–5590
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15494508</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Muller S, Zocher G, Steinle A, Stehle T (2010) Structure of the HCMV UL16‐MICB complex elucidates select binding of a viral immunoevasin to diverse NKG2D ligands. PLoS Pathog
+6: e1000723
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2797645</ArticleId>
+            <ArticleId IdType="pubmed">20090832</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Ogasawara K, Benjamin J, Takaki R, Phillips JH, Lanier LL (2005) Function of NKG2D in natural killer cell‐mediated rejection of mouse bone marrow grafts. Nat Immunol
+6: 938–945
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1351289</ArticleId>
+            <ArticleId IdType="pubmed">16086018</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Oppenheim DE, Roberts SJ, Clarke SL, Filler R, Lewis JM, Tigelaar RE, Girardi M, Hayday AC (2005) Sustained localized expression of ligand for the activating NKG2D receptor impairs natural cytotoxicity in vivo and reduces tumor immunosurveillance. Nat Immunol
+6: 928–937
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16116470</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Pettersen EF, Goddard TD, Huang CC, Couch GS, Greenblatt DM, Meng EC, Ferrin TE (2004) UCSF Chimera–a visualization system for exploratory research and analysis. J Comput Chem
+25: 1605–1612
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15264254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Phillips JC, Braun R, Wang W, Gumbart J, Tajkhorshid E, Villa E, Chipot C, Skeel RD, Kale L, Schulten K (2005) Scalable molecular dynamics with NAMD. J Comput Chem
+26: 1781–1802
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2486339</ArticleId>
+            <ArticleId IdType="pubmed">16222654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Poggi A, Prevosto C, Massaro AM, Negrini S, Urbani S, Pierri I, Saccardi R, Gobbi M, Zocchi MR (2005) Interaction between human NK cells and bone marrow stromal cells induces NK cell triggering: role of NKp30 and NKG2D receptors. J Immunol
+175: 6352–6360
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16272287</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Radaev S, Kattah M, Zou Z, Colonna M, Sun PD (2002) Making sense of the diverse ligand recognition by NKG2D. J Immunol
+169: 6279–6285
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12444134</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Radaev S, Rostro B, Brooks AG, Colonna M, Sun PD (2001) Conformational plasticity revealed by the cocrystal structure of NKG2D and its class I MHC‐like ligand ULBP3. Immunity
+15: 1039–1049
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11754823</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Radaeva S, Sun R, Jaruga B, Nguyen VT, Tian Z, Gao B (2006) Natural killer cells ameliorate liver fibrosis by killing activated stellate cells in NKG2D‐dependent and tumor necrosis factor‐related apoptosis‐inducing ligand‐dependent manners. Gastroenterology
+130: 435–452
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16472598</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Ramachandran P, Dobie R, Wilson‐Kanamori JR, Dora EF, Henderson BEP, Luu NT, Portman JR, Matchett KP, Brice M, Marwick JA
+et al (2019) Resolving the fibrotic niche of human liver cirrhosis at single‐cell level. Nature
+575: 512–518
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6876711</ArticleId>
+            <ArticleId IdType="pubmed">31597160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Raulet DH, Gasser S, Gowen BG, Deng W, Jung H (2013) Regulation of ligands for the NKG2D activating receptor. Annu Rev Immunol
+31: 413–441
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4244079</ArticleId>
+            <ArticleId IdType="pubmed">23298206</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Robinson J, Waller MJ, Fail SC, McWilliam H, Lopez R, Parham P, Marsh SG (2009) The IMGT/HLA database. Nucleic Acids Res
+37: D1013–1017
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2686596</ArticleId>
+            <ArticleId IdType="pubmed">18838392</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Roy S, Barnes PF, Garg A, Wu S, Cosman D, Vankayalapati R (2008) NK cells lyse T regulatory cells that expand in response to an intracellular pathogen. J Immunol
+180: 1729–1736
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18209070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Serrano‐Pertierra E, Cernuda‐Morollon E, Brdicka T, Hooejsi V, Lopez‐Larrea C (2014) L‐plastin is involved in NKG2D recruitment into lipid rafts and NKG2D‐mediated NK cell migration. J Leukoc Biol
+96: 437–445
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5395936</ArticleId>
+            <ArticleId IdType="pubmed">24803550</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Somanchi SS, Senyukov VV, Denman CJ, Lee DA (2011) Expansion, purification, and functional assessment of human peripheral blood NK cells. J Vis Exp
+48: 2540
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3180743</ArticleId>
+            <ArticleId IdType="pubmed">21339714</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Steinle A, Li P, Morris DL, Groh V, Lanier LL, Strong RK, Spies T (2001) Interactions of human NKG2D with its ligands MICA, MICB, and homologs of the mouse RAE‐1 protein family. Immunogenetics
+53: 279–287
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11491531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Strong RK (2002) Asymmetric ligand recognition by the activating natural killer cell receptor NKG2D, a symmetric homodimer. Mol Immunol
+38: 1029–1037
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11955595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Sutherland CL, Chalupny NJ, Schooley K, VandenBos T, Kubin M, Cosman D (2002) UL16‐binding proteins, novel MHC class I‐related proteins, bind to NKG2D and activate multiple signaling pathways in primary NK cells. J Immunol
+168: 671–679
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11777960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Tello‐Lafoz M, Srpan K, Sanchez EE, Hu J, Remsik J, Romin Y, Calò A, Hoen D, Bhanot U, Morris L
+et al (2021) Cytotoxic lymphocytes target characteristic biophysical vulnerabilities in cancer. Immunity
+54: 1037–1054.e7
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8119359</ArticleId>
+            <ArticleId IdType="pubmed">33756102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Tian M, Li Y, Liu W, Jin L, Jiang X, Wang X, Ding Z, Peng Y, Zhou J, Fan J
+et al (2015) The nanomechanical signature of liver cancer tissues and its molecular origin. Nanoscale
+7: 12998–13010
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26168746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Vogel V, Sheetz M (2006) Local force and geometry sensing regulate cell functions. Nat Rev Mol Cell Biol
+7: 265–275
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16607289</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wang G, Hu W, Chen H, Shou X, Ye T, Xu Y (2019) Cocktail strategy based on NK cell‐derived exosomes and their biomimetic nanoparticles for dual tumor therapy. Cancers
+11: 1560
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6827005</ArticleId>
+            <ArticleId IdType="pubmed">31615145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wang Z, Guan D, Wang S, Chai LYA, Xu S, Lam KP (2020) Glycolysis and oxidative phosphorylation play critical roles in natural killer cell receptor‐mediated natural killer cell functions. Front Immunol
+11: 202
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7045049</ArticleId>
+            <ArticleId IdType="pubmed">32153568</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wu J, Song Y, Bakker AB, Bauer S, Spies T, Lanier LL, Phillips JH (1999) An activating immunoreceptor complex formed by NKG2D and DAP10. Science
+285: 730–732
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10426994</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wu P, Zhang T, Liu B, Fei P, Cui L, Qin R, Zhu H, Yao D, Martinez RJ, Hu W
+et al (2019) Mechano‐regulation of peptide‐MHC class I conformations determines TCR antigen recognition. Mol Cell
+73: 1015–1027.e7
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6408234</ArticleId>
+            <ArticleId IdType="pubmed">30711376</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Xu B, Pizarro JC, Holmes MA, McBeth C, Groh V, Spies T, Strong RK (2011) Crystal structure of a gammadelta T‐cell receptor specific for the human MHC class I homolog MICA. Proc Natl Acad Sci USA
+108: 2414–2419
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3038733</ArticleId>
+            <ArticleId IdType="pubmed">21262824</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zhang Q, He Y, Luo N, Patel SJ, Han Y, Gao R, Modak M, Carotta S, Haslinger C, Kind D
+et al (2019) Landscape and dynamics of single immune cells in hepatocellular carcinoma. Cell
+179: 829–845.e20
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31675496</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zhang T, Hu W, Chen W (2021) Plasma Membrane integrates biophysical and biochemical regulation to trigger immune receptor functions. Front Immunol
+12: 613185
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7933204</ArticleId>
+            <ArticleId IdType="pubmed">33679752</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zhu C, Chen W, Lou J, Rittase W, Li K (2019) Mechanosensing through immunoreceptors. Nat Immunol
+20: 1269–1278
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7592628</ArticleId>
+            <ArticleId IdType="pubmed">31534240</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

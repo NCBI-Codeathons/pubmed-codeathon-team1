@@ -1,0 +1,198 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35417753</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>19</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1095-9572</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>255</Volume>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jul</Month>
+              <Day>15</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>NeuroImage</Title>
+          <ISOAbbreviation>Neuroimage</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Disentangling the variability of the superficial white matter organization using regional-tractogram-based population stratification.</ArticleTitle>
+        <Pagination>
+          <StartPage>119197</StartPage>
+          <MedlinePgn>119197</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuroimage.2022.119197</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S1053-8119(22)00321-4</ELocationID>
+        <Abstract>
+          <AbstractText>Each variation of the cortical folding pattern implies a particular rearrangement of the geometry of the fibers of the underlying white matter. While this rearrangement only impacts the ends of the long pathways, it may affect most of the trajectory of the short bundles. Therefore, mapping the short fibers of the human brain using diffusion-based tractography requires a dedicated strategy to overcome the variability of the folding patterns. In this paper, we propose a fiber-based stratification strategy splitting the population into homogeneous groups for disentangling the superficial white matter bundle organization. This strategy introduces a new refined fiber distance which includes angular considerations for inferring fine-grained atlases of the short bundles surrounding a specific sulcus and a subtractogram distance that quantifies the similitude between fiber sets of two different subjects. The stratification splits the population into groups with similar regional fiber organization using manifold learning. We first successfully test the hypothesis that the main source of variability of the regional fiber organization is the variability of the regional folding pattern. Then, in each group, we proceed with the automatic identification of the most stable bundles, at a higher granularity level than what can be achieved with the non-stratified whole population, enabling the disentanglement of the very variable configuration of the short fibers. Finally, the method searches for bundle correspondence across groups to build a population level atlas. As a proof of concept, the atlas refinement achieved by this strategy is illustrated for the fibers that surround the central sulcus and the superior temporal sulcus using the HCP dataset.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 The Author(s). Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Guevara</LastName>
+            <ForeName>Miguel</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Université Paris-Saclay, CEA, CNRS, BAOBAB, Neurospin, Gif-sur-Yvette, France; INSERM, U955, Translational NeuroPsychiatry Team, Crteil, France. Electronic address: mguevara.bme@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sun</LastName>
+            <ForeName>Zhong-Yi</ForeName>
+            <Initials>ZY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Université Paris-Saclay, CEA, CNRS, BAOBAB, Neurospin, Gif-sur-Yvette, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Guevara</LastName>
+            <ForeName>Pamela</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Engineering, Universidad de Concepción, Concepción, Chile.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rivière</LastName>
+            <ForeName>Denis</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Université Paris-Saclay, CEA, CNRS, BAOBAB, Neurospin, Gif-sur-Yvette, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Grigis</LastName>
+            <ForeName>Antoine</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Université Paris-Saclay, CEA, CNRS, BAOBAB, Neurospin, Gif-sur-Yvette, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Poupon</LastName>
+            <ForeName>Cyril</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Université Paris-Saclay, CEA, CNRS, BAOBAB, Neurospin, Gif-sur-Yvette, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mangin</LastName>
+            <ForeName>Jean-François</ForeName>
+            <Initials>JF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Université Paris-Saclay, CEA, CNRS, BAOBAB, Neurospin, Gif-sur-Yvette, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>04</Month>
+          <Day>11</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Neuroimage</MedlineTA>
+        <NlmUniqueID>9215515</NlmUniqueID>
+        <ISSNLinking>1053-8119</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D056324" MajorTopicYN="N">Diffusion Tensor Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007091" MajorTopicYN="N">Image Processing, Computer-Assisted</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007858" MajorTopicYN="N">Learning</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009413" MajorTopicYN="N">Nerve Fibers, Myelinated</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066127" MajorTopicYN="Y">White Matter</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cortical variability</Keyword>
+        <Keyword MajorTopicYN="N">Diffusion-weighted imaging</Keyword>
+        <Keyword MajorTopicYN="N">Short association fibers</Keyword>
+        <Keyword MajorTopicYN="N">Superficial white matter</Keyword>
+        <Keyword MajorTopicYN="N">Tractography</Keyword>
+        <Keyword MajorTopicYN="N">U-fibers</Keyword>
+        <Keyword MajorTopicYN="N">White matter bundle</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>7</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>13</Day>
+          <Hour>20</Hour>
+          <Minute>6</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35417753</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.neuroimage.2022.119197</ArticleId>
+        <ArticleId IdType="pii">S1053-8119(22)00321-4</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

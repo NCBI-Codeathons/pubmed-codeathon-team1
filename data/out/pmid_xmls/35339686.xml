@@ -1,0 +1,199 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35339686</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>10</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1095-9572</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>254</Volume>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jul</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>NeuroImage</Title>
+          <ISOAbbreviation>Neuroimage</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Soma and Neurite Density MRI (SANDI) of the in-vivo mouse brain and comparison with the Allen Brain Atlas.</ArticleTitle>
+        <Pagination>
+          <StartPage>119135</StartPage>
+          <MedlinePgn>119135</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuroimage.2022.119135</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S1053-8119(22)00263-4</ELocationID>
+        <Abstract>
+          <AbstractText>Diffusion MRI (dMRI) provides unique insights into the neural tissue milieu by probing interactions between diffusing molecules and tissue microstructure. Most dMRI techniques focus on white matter (WM) tissues, nevertheless, interest in gray matter characterizations is growing. The Soma and Neurite Density MRI (SANDI) methodology harnesses a model incorporating water diffusion in spherical objects (assumed to be associated with cell bodies) and in impermeable "sticks" (assumed to represent neurites), which potentially enables the characterization of cellular and neurite densities. Recognising the importance of rodents in animal models of development, aging, plasticity, and disease, we here employ SANDI for in-vivo preclinical imaging and provide a first validation of the methodology by comparing SANDI metrics with cellular density reflected by the Allen mouse brain atlas. SANDI was implemented on a 9.4T scanner equipped with a cryogenic coil, and in-vivo experiments were carried out on N = 6 mice. Pixelwise, ROI-based, and atlas comparisons were performed, magnitude vs. real-valued analyses were compared, and shorter acquisitions with reduced the number of b-value shells were investigated. Our findings reveal good reproducibility of the SANDI parameters, including the sphere and stick fractions, as well as sphere size (CoV &lt; 7%, 12% and 3%, respectively). Additionally, we find a very good rank correlation between SANDI-driven sphere fraction and Allen mouse brain atlas contrast that represents cellular density. We conclude that SANDI is a viable preclinical MRI technique that can greatly contribute to research on brain tissue microstructure.</AbstractText>
+          <CopyrightInformation>Copyright © 2022. Published by Elsevier Inc.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ianuş</LastName>
+            <ForeName>Andrada</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Champalimaud Research, Champalimaud Foundation, Av. Brasilia, Lisbon 1400-038, Portugal. Electronic address: Andrada.Ianus@neuro.fchampalimaud.org.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Carvalho</LastName>
+            <ForeName>Joana</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Champalimaud Research, Champalimaud Foundation, Av. Brasilia, Lisbon 1400-038, Portugal.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fernandes</LastName>
+            <ForeName>Francisca F</ForeName>
+            <Initials>FF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Champalimaud Research, Champalimaud Foundation, Av. Brasilia, Lisbon 1400-038, Portugal.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cruz</LastName>
+            <ForeName>Renata</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Champalimaud Research, Champalimaud Foundation, Av. Brasilia, Lisbon 1400-038, Portugal.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chavarrias</LastName>
+            <ForeName>Cristina</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Champalimaud Research, Champalimaud Foundation, Av. Brasilia, Lisbon 1400-038, Portugal.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Palombo</LastName>
+            <ForeName>Marco</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Medical Image Computing, Department of Computer Science, University College London, UK; Cardiff University Brain Research Imaging Centre, School of Psychology, Cardiff University, UK; School of Computer Science and Informatics, Cardiff University, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shemesh</LastName>
+            <ForeName>Noam</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Champalimaud Research, Champalimaud Foundation, Av. Brasilia, Lisbon 1400-038, Portugal. Electronic address: Noam.Shemesh@neuro.fchampalimaud.org.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>23</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Neuroimage</MedlineTA>
+        <NlmUniqueID>9215515</NlmUniqueID>
+        <ISSNLinking>1053-8119</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066146" MajorTopicYN="N">Cell Body</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D038524" MajorTopicYN="N">Diffusion Magnetic Resonance Imaging</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016501" MajorTopicYN="Y">Neurites</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066127" MajorTopicYN="Y">White Matter</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>27</Day>
+          <Hour>20</Hour>
+          <Minute>21</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35339686</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.neuroimage.2022.119135</ArticleId>
+        <ArticleId IdType="pii">S1053-8119(22)00263-4</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,828 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35124852</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>03</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>03</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1099-1557</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>31</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Pharmacoepidemiology and drug safety</Title>
+          <ISOAbbreviation>Pharmacoepidemiol Drug Saf</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Drug interactions in hospital prescriptions in Denmark: Prevalence and associations with adverse outcomes.</ArticleTitle>
+        <Pagination>
+          <StartPage>632</StartPage>
+          <EndPage>642</EndPage>
+          <MedlinePgn>632-642</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/pds.5415</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">While the beneficial effects of medications are numerous, drug-drug interactions may lead to adverse drug reactions that are preventable causes of morbidity and mortality. Our goal was to quantify the prevalence of potential drug-drug interactions in drug prescriptions at Danish hospitals, estimate the risk of adverse outcomes associated with discouraged drug combinations, and highlight the patient types (defined by the primary diagnosis of the admission) that appear to be more affected.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">This cross-sectional (descriptive part) and cohort study (adverse outcomes part) used hospital electronic health records from two Danish regions (~2.5 million people) from January 2008 through June 2016. We included all inpatients receiving two or more medications during their admission and considered concomitant prescriptions of potentially interacting drugs as per the Danish Drug Interaction Database. We measured the prevalence of potential drug-drug interactions in general and discouraged drug pairs in particular during admissions and associations with adverse outcomes: post-discharge all-cause mortality rate, readmission rate and length-of-stay.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Among 2 886 227 hospital admissions (945 475 patients; median age 62 years [IQR: 41-74]; 54% female; median number of drugs 7 [IQR: 4-11]), patients in 1 836 170 admissions were exposed to at least one potential drug-drug interaction (659 525 patients; median age 65 years [IQR: 49-77]; 54% female; median number of drugs 9 [IQR: 6-13]) and in 27 605 admissions to a discouraged drug pair (18 192 patients; median age 68 years [IQR: 58-77]; female 46%; median number of drugs 16 [IQR: 11-22]). Meropenem-valproic acid (HR: 1.5, 95% CI: 1.1-1.9), domperidone-fluconazole (HR: 2.5, 95% CI: 2.1-3.1), imipramine-terbinafine (HR: 3.8, 95% CI: 1.2-12), agomelatine-ciprofloxacin (HR: 2.6, 95% CI: 1.3-5.5), clarithromycin-quetiapine (HR: 1.7, 95% CI: 1.1-2.7) and piroxicam-warfarin (HR: 3.4, 95% CI: 1-11.4) were associated with elevated mortality. Confidence interval bounds of pairs associated with readmission were close to 1; length-of-stay results were inconclusive.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Well-described potential drug-drug interactions are still missed and alerts at point of prescription may reduce the risk of harming patients; prescribing clinicians should be alert when using strong inhibitor/inducer drugs (i.e. clarithromycin, valproic acid, terbinafine) and prevalent anticoagulants (i.e. warfarin and non-steroidal anti-inflammatory drugs - NSAIDs) due to their great potential for dangerous interactions. The most prominent CYP isoenzyme involved in mortality and readmission rates was 3A4.</AbstractText>
+          <CopyrightInformation>© 2022 The Authors. Pharmacoepidemiology and Drug Safety published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Leal Rodríguez</LastName>
+            <ForeName>Cristina</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0002-3133-0630</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kaas-Hansen</LastName>
+            <ForeName>Benjamin Skov</ForeName>
+            <Initials>BS</Initials>
+            <Identifier Source="ORCID">0000-0003-1023-0371</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Clinical Pharmacology Unit, Zealand University Hospital, Roskilde, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Eriksson</LastName>
+            <ForeName>Robert</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">0000-0002-4946-6456</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pulmonary and Infectious Diseases, Nordsjaellands Hospital, Hillerød, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Biel</LastName>
+            <ForeName>Jorge Hernansanz</ForeName>
+            <Initials>JH</Initials>
+            <Identifier Source="ORCID">0000-0002-3125-2951</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Belling</LastName>
+            <ForeName>Kirstine G</ForeName>
+            <Initials>KG</Initials>
+            <Identifier Source="ORCID">0000-0001-5664-1948</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Andersen</LastName>
+            <ForeName>Stig Ejdrup</ForeName>
+            <Initials>SE</Initials>
+            <Identifier Source="ORCID">0000-0002-1914-4720</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Clinical Pharmacology Unit, Zealand University Hospital, Roskilde, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brunak</LastName>
+            <ForeName>Søren</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0003-0316-5866</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>22</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Pharmacoepidemiol Drug Saf</MedlineTA>
+        <NlmUniqueID>9208369</NlmUniqueID>
+        <ISSNLinking>1053-8569</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>5Q7ZVV76EI</RegistryNumber>
+          <NameOfSubstance UI="D014859">Warfarin</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>614OI1Z5WI</RegistryNumber>
+          <NameOfSubstance UI="D014635">Valproic Acid</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>G7RIW8S0XP</RegistryNumber>
+          <NameOfSubstance UI="D000077291">Terbinafine</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>H1250JIK0A</RegistryNumber>
+          <NameOfSubstance UI="D017291">Clarithromycin</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000359" MajorTopicYN="N">Aftercare</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000894" MajorTopicYN="N">Anti-Inflammatory Agents, Non-Steroidal</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017291" MajorTopicYN="Y">Clarithromycin</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003718" MajorTopicYN="N" Type="Geographic">Denmark</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004347" MajorTopicYN="N">Drug Interactions</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011307" MajorTopicYN="N">Drug Prescriptions</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006761" MajorTopicYN="N">Hospitals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010351" MajorTopicYN="N">Patient Discharge</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015995" MajorTopicYN="N">Prevalence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000077291" MajorTopicYN="N">Terbinafine</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014635" MajorTopicYN="N">Valproic Acid</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014859" MajorTopicYN="Y">Warfarin</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">adverse outcomes</Keyword>
+        <Keyword MajorTopicYN="N">drug safety</Keyword>
+        <Keyword MajorTopicYN="N">drug-drug interactions</Keyword>
+        <Keyword MajorTopicYN="N">electronic health records</Keyword>
+        <Keyword MajorTopicYN="N">pharmacoepidemiology</Keyword>
+        <Keyword MajorTopicYN="N">propensity score</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>8</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>6</Day>
+          <Hour>20</Hour>
+          <Minute>40</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35124852</ArticleId>
+        <ArticleId IdType="doi">10.1002/pds.5415</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>REFERENCES</Title>
+        <Reference>
+          <Citation>Baxter K, Preston CL. Stockley's Drug Interactions. Vol 495. Pharmaceutical Press; 2010.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Guthrie B, Makubate B, Hernandez-Santiago V, Dreischulte T. The rising tide of polypharmacy and drug-drug interactions: population database analysis 1995-2010. BMC Med. 2015;13(1):74-74.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Doucet J, Chassagne P, Trivalle C, et al. Drug-drug interactions related to hospital admissions in older adults: a prospective study of 1000 patients. J. Am. Geriatr. Soc. 1996;44(8):944-948.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Egger SS, Drewe J, Schlienger RG. Potential drug-drug interactions in the medication of medical patients at hospital discharge. Eur. J. Clin. Pharmacol. 2003;58(11):773-778.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hansten PD, Horn JR. Hansten and Horn's drug interactions analysis and management: a clinical perspective and analysis of current developments. Appl. Therap. Incorp. 2004.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jankel CA, Speedie SM. Detecting drug interactions: a review of the literature. DICP. 1990;24(10):982-989.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>McInnes GT, Brodie MJ. Drug interactions that matter. Drugs. 1988;36(1):83-110.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Einarson TR. Drug-related hospital admissions. Ann Pharmacother; 1993;27(7-9):832-40.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bjerrum L, Søgaard J, Hallas J, Kragstrup J. Polypharmacy in general practice: differences between practitioners. Br. J. Gen. Pract. 1999;49(440):195-198.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Reis AMM, Cassiani SHDB. Prevalence of potential drug interactions in patients in an intensive care unit of a university hospital in Brazil. Clinics. 2011;66(1):9-15.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Moura CS, Acurcio FA, Belo NO. Drug-drug interactions associated with length of stay and cost of hospitalization. J. Pharm. Pharm. Sci. 2009;12(3):266-272.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shad MU, Marsh C, Preskorn SH. The economic consequences of a drug-drug interaction. J. Clin. Psychopharmacol. 2001;21(1):119-120.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bucşa C, Farcaş A, Cazacu I, et al. How many potential drug-drug interactions cause adverse drug reactions in hospitalized patients? Eur. J. Intern. Med. 2013;24(1):27-33.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kuperman GJ, Bobb A, Payne TH, et al. Medication-related clinical decision support in computerized provider order entry systems: a review. J. Am. Med. Inform. Assoc. 2007;14(1):29-40.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>FOLK1A: Population at the first day of the quartemarital status. Statistics Denmark. Accessed March 24, 2021. www.statbank.dk/FOLK1A.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rodríguez CL, Mazzoni G, Haue AD, et al. Polypharmacy and drug dosage modifications: a longitudinal analysis of 3.5 million electronic health records. Forthcoming 2022.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schmidt M, Schmidt SAJ, Sandegaard JL, Ehrenstein V, Pedersen L, Sørensen HT. The Danish National Patient Registry: a review of content, data quality, and research potential. Clin. Epidemiol. 2015;7:449-490.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schmidt M, Schmidt SAJ, Adelborg K, et al. The Danish Health Care System and Epidemiological Research: from Health Care Contacts to Database Records. Vol 11. Dove Press; 2019:563-591.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jensen TB, Jimenez-Solem E, Cortes R, et al. Content and validation of the electronic patient medication module (EPM)-the administrative in-hospital drug use database in the Capital Region of Denmark. Scand. J. Public Health. 2020;48(1):43-48.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Oslo N. ATC Classification Index with DDDs. WHO Collaborating Centre for Drug Statistics Methodology; 2017.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Aagaard L, Kristensen M. The national drug interactions database. Ugeskr. Laeger. 2005;167(35):3283-3286.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Austin PC. Using the standardized difference to compare the prevalence of a binary variable between two groups in observational research. Commun. Stat. Simul. Comput. 2009;38(6):1228-1234.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rothman KJ, Greenland S, Lash TL. Modern epidemiology. Lippincott Williams &amp; Wilkins; 2008.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sloane D, Morgan SP. An introduction to categorical data analysis. Annu. Rev. Sociol. 1996;22(1):351-375.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Walker AM, Patrick AR, Lauer MS, et al. A tool for assessing the feasibility of comparative effectiveness research. Comp Eff Res. 2013;2013(3):11-20.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Stürmer T, Joshi M, Glynn RJ, Avorn J, Rothman KJ, Schneeweiss S. A review of the application of propensity score methods yielded increasing use, advantages in specific settings, but not substantially different estimates compared with conventional multivariable methods. J. Clin. Epidemiol. 2006;59(5):e431-e437.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schneeweiss S, Rassen JA, Glynn RJ, Avorn J, Mogun H, Brookhart MA. High-dimensional propensity score adjustment in studies of treatment effects using health care claims data. Epidemiology. 2009;20(4):512.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Raghunathan K, Layton JB, Ohnuma T, Shaw AD. Observational research using propensity scores. Adv. Chronic Kidney Dis. 2016;23(6):367-372.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Suchard MA, Simpson SE, Zorych I, Ryan P, Madigan D. Massive parallelization of serial inference algorithms for a complex generalized linear model. ACM Trans. Model. Computer Simul. 2013;23(1):1-17.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Moore BJ, White S, Washington R, Coenen N, Elixhauser A. Identifying increased risk of readmission and in-hospital mortality using hospital administrative data. Med Care. 2017;55(7):698-705.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Köster J, Rahmann S. Snakemake-a scalable bioinformatics workflow engine. Bioinformatics. 2012;28(19):2520-2522.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Percha B, Altman RB. Informatics confronts drug-drug interactions. Trends Pharmacol. Sci. 2013;34(3):178-184.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hernán MA, Robins JM. Causal Inference: What if. Chapman &amp; Hall/CRC; 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hines LE, Murphy JE. Potentially harmful drug-drug interactions in the elderly: a review. Am. J. Geriatr. Pharmacother. 2011;9(6):364-377.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chiatti C, Bustacchini S, Furneri G, et al. The economic burden of inappropriate drug prescribing, lack of adherence and compliance, adverse drug events in older people. Drug Saf. 2012;35(1):73-87.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gnjidic D, Johnell K. Clinical implications from drug-drug and drug-disease interactions in older people. Clin. Exp. Pharmacol. Physiol. 2013;40(5):320-325.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>de Andrade G, Santos TN, da Cruz M, Macieira G, Cardoso Sodré Alves BM, et al. Prevalence of clinically manifested drug interactions in hospitalized patients: a systematic review and meta-analysis. PLoS One. 2020;15(7):e0235353.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Muñoz-Torrero JFS, Barquilla P, Velasco R, et al. Adverse drug reactions in internal medicine units and associated risk factors. Eur. J. Clin. Pharmacol. 2010;66(12):1257-1264.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cruciol-Souza JM, Thomson JC. Prevalence of potential drug-drug interactions and its associated factors in a Brazilian teaching hospital. J. Pharm. Pharm. Sci. 2006;9(3):427-433.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Koenig Á, Adrieno G. Potential drug interactions prevalence in intensive care units. Rev Bras Ter Intens. 2008;20(4):349-354.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Straubhaar B, Krähenbühl S, Schlienger RG. The prevalence of potential drug-drug interactions in patients with heart failure at hospital discharge. Drug Saf. 2006;29(1):79-90.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Becker ML, Kallewaard M, Caspers PW, Visser LE, Leufkens HG, Stricker BH. Hospitalisations and emergency department visits due to drug-drug interactions: a literature review. Pharmacoepidemiol. Drug Saf. 2007;16(6):641-651.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rosholm J-U, Bjerrum L, Hallas J, Worm J, Gram LF. Polypharmacy and the risk of drug-drug interactions among Danish elderly. A prescription database study. Dan. Med. Bull. 1998;45(2):210-213.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Brattig Correia R, de Araújo Kohler LP, Mattos MM, Rocha LM. City-wide electronic health records reveal gender and age biases in administration of known drug-drug interactions. NPJ Digital Med. 2019;2(1):74.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Glintborg B, Andersen SE, Dalhoff K. Drug-drug interactions among recently hospitalised patients-frequent but mostly clinically insignificant. Eur. J. Clin. Pharmacol. 2005;61(9):675-681.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gibbs MA, Thummel KE, Shen DD, Kunze KL. Inhibition of cytochrome P-450 3A (CYP3A) in human intestinal and liver microsomes: comparison of K i values and impact of CYP3A5 expression. Drug Metab. Dispos. 1999;27(2):180-187.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC, Vandenbroucke JP. The strengthening the reporting of observational studies in epidemiology (STROBE) statement: guidelines for reporting observational studies. Ann. Intern. Med. 2007;147(8):573-577.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35124852</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>03</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>03</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1099-1557</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>31</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Pharmacoepidemiology and drug safety</Title>
+          <ISOAbbreviation>Pharmacoepidemiol Drug Saf</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Drug interactions in hospital prescriptions in Denmark: Prevalence and associations with adverse outcomes.</ArticleTitle>
+        <Pagination>
+          <StartPage>632</StartPage>
+          <EndPage>642</EndPage>
+          <MedlinePgn>632-642</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/pds.5415</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">While the beneficial effects of medications are numerous, drug-drug interactions may lead to adverse drug reactions that are preventable causes of morbidity and mortality. Our goal was to quantify the prevalence of potential drug-drug interactions in drug prescriptions at Danish hospitals, estimate the risk of adverse outcomes associated with discouraged drug combinations, and highlight the patient types (defined by the primary diagnosis of the admission) that appear to be more affected.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">This cross-sectional (descriptive part) and cohort study (adverse outcomes part) used hospital electronic health records from two Danish regions (~2.5 million people) from January 2008 through June 2016. We included all inpatients receiving two or more medications during their admission and considered concomitant prescriptions of potentially interacting drugs as per the Danish Drug Interaction Database. We measured the prevalence of potential drug-drug interactions in general and discouraged drug pairs in particular during admissions and associations with adverse outcomes: post-discharge all-cause mortality rate, readmission rate and length-of-stay.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Among 2 886 227 hospital admissions (945 475 patients; median age 62 years [IQR: 41-74]; 54% female; median number of drugs 7 [IQR: 4-11]), patients in 1 836 170 admissions were exposed to at least one potential drug-drug interaction (659 525 patients; median age 65 years [IQR: 49-77]; 54% female; median number of drugs 9 [IQR: 6-13]) and in 27 605 admissions to a discouraged drug pair (18 192 patients; median age 68 years [IQR: 58-77]; female 46%; median number of drugs 16 [IQR: 11-22]). Meropenem-valproic acid (HR: 1.5, 95% CI: 1.1-1.9), domperidone-fluconazole (HR: 2.5, 95% CI: 2.1-3.1), imipramine-terbinafine (HR: 3.8, 95% CI: 1.2-12), agomelatine-ciprofloxacin (HR: 2.6, 95% CI: 1.3-5.5), clarithromycin-quetiapine (HR: 1.7, 95% CI: 1.1-2.7) and piroxicam-warfarin (HR: 3.4, 95% CI: 1-11.4) were associated with elevated mortality. Confidence interval bounds of pairs associated with readmission were close to 1; length-of-stay results were inconclusive.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Well-described potential drug-drug interactions are still missed and alerts at point of prescription may reduce the risk of harming patients; prescribing clinicians should be alert when using strong inhibitor/inducer drugs (i.e. clarithromycin, valproic acid, terbinafine) and prevalent anticoagulants (i.e. warfarin and non-steroidal anti-inflammatory drugs - NSAIDs) due to their great potential for dangerous interactions. The most prominent CYP isoenzyme involved in mortality and readmission rates was 3A4.</AbstractText>
+          <CopyrightInformation>© 2022 The Authors. Pharmacoepidemiology and Drug Safety published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Leal Rodríguez</LastName>
+            <ForeName>Cristina</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0002-3133-0630</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kaas-Hansen</LastName>
+            <ForeName>Benjamin Skov</ForeName>
+            <Initials>BS</Initials>
+            <Identifier Source="ORCID">0000-0003-1023-0371</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Clinical Pharmacology Unit, Zealand University Hospital, Roskilde, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Eriksson</LastName>
+            <ForeName>Robert</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">0000-0002-4946-6456</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pulmonary and Infectious Diseases, Nordsjaellands Hospital, Hillerød, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Biel</LastName>
+            <ForeName>Jorge Hernansanz</ForeName>
+            <Initials>JH</Initials>
+            <Identifier Source="ORCID">0000-0002-3125-2951</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Belling</LastName>
+            <ForeName>Kirstine G</ForeName>
+            <Initials>KG</Initials>
+            <Identifier Source="ORCID">0000-0001-5664-1948</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Andersen</LastName>
+            <ForeName>Stig Ejdrup</ForeName>
+            <Initials>SE</Initials>
+            <Identifier Source="ORCID">0000-0002-1914-4720</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Clinical Pharmacology Unit, Zealand University Hospital, Roskilde, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brunak</LastName>
+            <ForeName>Søren</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0003-0316-5866</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Novo Nordisk Foundation Center for Protein Research, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>22</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Pharmacoepidemiol Drug Saf</MedlineTA>
+        <NlmUniqueID>9208369</NlmUniqueID>
+        <ISSNLinking>1053-8569</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>5Q7ZVV76EI</RegistryNumber>
+          <NameOfSubstance UI="D014859">Warfarin</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>614OI1Z5WI</RegistryNumber>
+          <NameOfSubstance UI="D014635">Valproic Acid</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>G7RIW8S0XP</RegistryNumber>
+          <NameOfSubstance UI="D000077291">Terbinafine</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>H1250JIK0A</RegistryNumber>
+          <NameOfSubstance UI="D017291">Clarithromycin</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000359" MajorTopicYN="N">Aftercare</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000894" MajorTopicYN="N">Anti-Inflammatory Agents, Non-Steroidal</DescriptorName>
+          <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017291" MajorTopicYN="Y">Clarithromycin</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003718" MajorTopicYN="N" Type="Geographic">Denmark</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004347" MajorTopicYN="N">Drug Interactions</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011307" MajorTopicYN="N">Drug Prescriptions</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006761" MajorTopicYN="N">Hospitals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010351" MajorTopicYN="N">Patient Discharge</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015995" MajorTopicYN="N">Prevalence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000077291" MajorTopicYN="N">Terbinafine</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014635" MajorTopicYN="N">Valproic Acid</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014859" MajorTopicYN="Y">Warfarin</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">adverse outcomes</Keyword>
+        <Keyword MajorTopicYN="N">drug safety</Keyword>
+        <Keyword MajorTopicYN="N">drug-drug interactions</Keyword>
+        <Keyword MajorTopicYN="N">electronic health records</Keyword>
+        <Keyword MajorTopicYN="N">pharmacoepidemiology</Keyword>
+        <Keyword MajorTopicYN="N">propensity score</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>8</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>6</Day>
+          <Hour>20</Hour>
+          <Minute>40</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35124852</ArticleId>
+        <ArticleId IdType="doi">10.1002/pds.5415</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>REFERENCES</Title>
+        <Reference>
+          <Citation>Baxter K, Preston CL. Stockley's Drug Interactions. Vol 495. Pharmaceutical Press; 2010.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Guthrie B, Makubate B, Hernandez-Santiago V, Dreischulte T. The rising tide of polypharmacy and drug-drug interactions: population database analysis 1995-2010. BMC Med. 2015;13(1):74-74.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Doucet J, Chassagne P, Trivalle C, et al. Drug-drug interactions related to hospital admissions in older adults: a prospective study of 1000 patients. J. Am. Geriatr. Soc. 1996;44(8):944-948.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Egger SS, Drewe J, Schlienger RG. Potential drug-drug interactions in the medication of medical patients at hospital discharge. Eur. J. Clin. Pharmacol. 2003;58(11):773-778.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hansten PD, Horn JR. Hansten and Horn's drug interactions analysis and management: a clinical perspective and analysis of current developments. Appl. Therap. Incorp. 2004.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jankel CA, Speedie SM. Detecting drug interactions: a review of the literature. DICP. 1990;24(10):982-989.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>McInnes GT, Brodie MJ. Drug interactions that matter. Drugs. 1988;36(1):83-110.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Einarson TR. Drug-related hospital admissions. Ann Pharmacother; 1993;27(7-9):832-40.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bjerrum L, Søgaard J, Hallas J, Kragstrup J. Polypharmacy in general practice: differences between practitioners. Br. J. Gen. Pract. 1999;49(440):195-198.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Reis AMM, Cassiani SHDB. Prevalence of potential drug interactions in patients in an intensive care unit of a university hospital in Brazil. Clinics. 2011;66(1):9-15.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Moura CS, Acurcio FA, Belo NO. Drug-drug interactions associated with length of stay and cost of hospitalization. J. Pharm. Pharm. Sci. 2009;12(3):266-272.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shad MU, Marsh C, Preskorn SH. The economic consequences of a drug-drug interaction. J. Clin. Psychopharmacol. 2001;21(1):119-120.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bucşa C, Farcaş A, Cazacu I, et al. How many potential drug-drug interactions cause adverse drug reactions in hospitalized patients? Eur. J. Intern. Med. 2013;24(1):27-33.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kuperman GJ, Bobb A, Payne TH, et al. Medication-related clinical decision support in computerized provider order entry systems: a review. J. Am. Med. Inform. Assoc. 2007;14(1):29-40.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>FOLK1A: Population at the first day of the quartemarital status. Statistics Denmark. Accessed March 24, 2021. www.statbank.dk/FOLK1A.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rodríguez CL, Mazzoni G, Haue AD, et al. Polypharmacy and drug dosage modifications: a longitudinal analysis of 3.5 million electronic health records. Forthcoming 2022.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schmidt M, Schmidt SAJ, Sandegaard JL, Ehrenstein V, Pedersen L, Sørensen HT. The Danish National Patient Registry: a review of content, data quality, and research potential. Clin. Epidemiol. 2015;7:449-490.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schmidt M, Schmidt SAJ, Adelborg K, et al. The Danish Health Care System and Epidemiological Research: from Health Care Contacts to Database Records. Vol 11. Dove Press; 2019:563-591.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jensen TB, Jimenez-Solem E, Cortes R, et al. Content and validation of the electronic patient medication module (EPM)-the administrative in-hospital drug use database in the Capital Region of Denmark. Scand. J. Public Health. 2020;48(1):43-48.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Oslo N. ATC Classification Index with DDDs. WHO Collaborating Centre for Drug Statistics Methodology; 2017.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Aagaard L, Kristensen M. The national drug interactions database. Ugeskr. Laeger. 2005;167(35):3283-3286.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Austin PC. Using the standardized difference to compare the prevalence of a binary variable between two groups in observational research. Commun. Stat. Simul. Comput. 2009;38(6):1228-1234.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rothman KJ, Greenland S, Lash TL. Modern epidemiology. Lippincott Williams &amp; Wilkins; 2008.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sloane D, Morgan SP. An introduction to categorical data analysis. Annu. Rev. Sociol. 1996;22(1):351-375.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Walker AM, Patrick AR, Lauer MS, et al. A tool for assessing the feasibility of comparative effectiveness research. Comp Eff Res. 2013;2013(3):11-20.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Stürmer T, Joshi M, Glynn RJ, Avorn J, Rothman KJ, Schneeweiss S. A review of the application of propensity score methods yielded increasing use, advantages in specific settings, but not substantially different estimates compared with conventional multivariable methods. J. Clin. Epidemiol. 2006;59(5):e431-e437.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schneeweiss S, Rassen JA, Glynn RJ, Avorn J, Mogun H, Brookhart MA. High-dimensional propensity score adjustment in studies of treatment effects using health care claims data. Epidemiology. 2009;20(4):512.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Raghunathan K, Layton JB, Ohnuma T, Shaw AD. Observational research using propensity scores. Adv. Chronic Kidney Dis. 2016;23(6):367-372.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Suchard MA, Simpson SE, Zorych I, Ryan P, Madigan D. Massive parallelization of serial inference algorithms for a complex generalized linear model. ACM Trans. Model. Computer Simul. 2013;23(1):1-17.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Moore BJ, White S, Washington R, Coenen N, Elixhauser A. Identifying increased risk of readmission and in-hospital mortality using hospital administrative data. Med Care. 2017;55(7):698-705.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Köster J, Rahmann S. Snakemake-a scalable bioinformatics workflow engine. Bioinformatics. 2012;28(19):2520-2522.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Percha B, Altman RB. Informatics confronts drug-drug interactions. Trends Pharmacol. Sci. 2013;34(3):178-184.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hernán MA, Robins JM. Causal Inference: What if. Chapman &amp; Hall/CRC; 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hines LE, Murphy JE. Potentially harmful drug-drug interactions in the elderly: a review. Am. J. Geriatr. Pharmacother. 2011;9(6):364-377.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chiatti C, Bustacchini S, Furneri G, et al. The economic burden of inappropriate drug prescribing, lack of adherence and compliance, adverse drug events in older people. Drug Saf. 2012;35(1):73-87.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gnjidic D, Johnell K. Clinical implications from drug-drug and drug-disease interactions in older people. Clin. Exp. Pharmacol. Physiol. 2013;40(5):320-325.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>de Andrade G, Santos TN, da Cruz M, Macieira G, Cardoso Sodré Alves BM, et al. Prevalence of clinically manifested drug interactions in hospitalized patients: a systematic review and meta-analysis. PLoS One. 2020;15(7):e0235353.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Muñoz-Torrero JFS, Barquilla P, Velasco R, et al. Adverse drug reactions in internal medicine units and associated risk factors. Eur. J. Clin. Pharmacol. 2010;66(12):1257-1264.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cruciol-Souza JM, Thomson JC. Prevalence of potential drug-drug interactions and its associated factors in a Brazilian teaching hospital. J. Pharm. Pharm. Sci. 2006;9(3):427-433.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Koenig Á, Adrieno G. Potential drug interactions prevalence in intensive care units. Rev Bras Ter Intens. 2008;20(4):349-354.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Straubhaar B, Krähenbühl S, Schlienger RG. The prevalence of potential drug-drug interactions in patients with heart failure at hospital discharge. Drug Saf. 2006;29(1):79-90.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Becker ML, Kallewaard M, Caspers PW, Visser LE, Leufkens HG, Stricker BH. Hospitalisations and emergency department visits due to drug-drug interactions: a literature review. Pharmacoepidemiol. Drug Saf. 2007;16(6):641-651.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rosholm J-U, Bjerrum L, Hallas J, Worm J, Gram LF. Polypharmacy and the risk of drug-drug interactions among Danish elderly. A prescription database study. Dan. Med. Bull. 1998;45(2):210-213.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Brattig Correia R, de Araújo Kohler LP, Mattos MM, Rocha LM. City-wide electronic health records reveal gender and age biases in administration of known drug-drug interactions. NPJ Digital Med. 2019;2(1):74.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Glintborg B, Andersen SE, Dalhoff K. Drug-drug interactions among recently hospitalised patients-frequent but mostly clinically insignificant. Eur. J. Clin. Pharmacol. 2005;61(9):675-681.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gibbs MA, Thummel KE, Shen DD, Kunze KL. Inhibition of cytochrome P-450 3A (CYP3A) in human intestinal and liver microsomes: comparison of K i values and impact of CYP3A5 expression. Drug Metab. Dispos. 1999;27(2):180-187.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Von Elm E, Altman DG, Egger M, Pocock SJ, Gøtzsche PC, Vandenbroucke JP. The strengthening the reporting of observational studies in epidemiology (STROBE) statement: guidelines for reporting observational studies. Ann. Intern. Med. 2007;147(8):573-577.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,283 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35225373</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>06</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1522-2594</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>88</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Magnetic resonance in medicine</Title>
+          <ISOAbbreviation>Magn Reson Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Improved multi-echo gradient echo myelin water fraction mapping using complex-valued neural network analysis.</ArticleTitle>
+        <Pagination>
+          <StartPage>492</StartPage>
+          <EndPage>500</EndPage>
+          <MedlinePgn>492-500</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/mrm.29192</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE">Previously, an artificial neural network method was introduced to estimate quantitative myelin water fraction (MWF) using multi-echo gradient-echo data. However, the fiber orientation of white matter with respect to B<sub>0</sub> could bias the quantification of MWF. Here, we developed an advanced workflow for MWF estimation that could improve the quantification of MWF.</AbstractText>
+          <AbstractText Label="METHODS">To adopt fiber orientation effects, a complex-valued neural network with complex-valued operation was used. In addition, to compensate for the bias from different scan parameters, a signal model incorporating the T<sub>1</sub> value was devised for training data generation. At the testing stage, a voxel-spread function approach was utilized for spatial B<sub>0</sub> artifact correction. Finally, dropout-based variational inference was implemented for uncertainty estimates on the network model to provide a confidence interpretation of the output.</AbstractText>
+          <AbstractText Label="RESULTS">According to simulation and in vivo analysis, the proposed method suggests improved quality of MWF estimation by correcting the bias and artifacts. The proposed complex-valued neural network approach can alleviate the dependency of fiber orientation effects compared to previous artificial neural network method. Uncertainty estimates provides information different from fitting error that can be used as a confidence level of the resulting MWF values.</AbstractText>
+          <AbstractText Label="CONCLUSION">An improved MWF mapping using complex-valued neural network analysis has been proposed.</AbstractText>
+          <CopyrightInformation>© 2022 International Society for Magnetic Resonance in Medicine.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Jung</LastName>
+            <ForeName>Soozy</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0001-8110-5549</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Electrical and Electronic Engineering, Yonsei University, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yun</LastName>
+            <ForeName>JiSu</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0001-9666-7018</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Electrical and Electronic Engineering, Yonsei University, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Deog Young</ForeName>
+            <Initials>DY</Initials>
+            <Identifier Source="ORCID">0000-0002-6717-7770</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department and Research Institute of Rehabilitation Medicine, Yonsei University College of Medicine, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Dong-Hyun</ForeName>
+            <Initials>DH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Electrical and Electronic Engineering, Yonsei University, Seoul, Republic of Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>28</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Magn Reson Med</MedlineTA>
+        <NlmUniqueID>8505245</NlmUniqueID>
+        <ISSNLinking>0740-3194</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>059QF0KO0R</RegistryNumber>
+          <NameOfSubstance UI="D014867">Water</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009186" MajorTopicYN="Y">Myelin Sheath</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016571" MajorTopicYN="N">Neural Networks, Computer</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014867" MajorTopicYN="N">Water</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066127" MajorTopicYN="Y">White Matter</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">artificial neural network</Keyword>
+        <Keyword MajorTopicYN="Y">multi-echo gradient echo</Keyword>
+        <Keyword MajorTopicYN="Y">myelin water fraction</Keyword>
+        <Keyword MajorTopicYN="Y">uncertainty</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>9</Month>
+          <Day>3</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>28</Day>
+          <Hour>9</Hour>
+          <Minute>17</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35225373</ArticleId>
+        <ArticleId IdType="doi">10.1002/mrm.29192</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>REFERENCES</Title>
+        <Reference>
+          <Citation>Mackay A, Whittall K, Adler J, Li D, Paty D, Graeb D. In vivo visualization of myelin water in brain by magnetic resonance. Magn Reson Med. 1994;31:673-677.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>MacKay AL, Laule C. Magnetic resonance of myelin water: an in vivo marker for myelin. Brain Plast. 2016;2:71-91.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Du YP, Chu R, Hwang D, et al. Fast multislice mapping of the myelin water fraction using multicompartment analysis of T decay at 3T: a preliminary postmortem study. Magn Reson Med. 2007;58:865-870.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hwang D, Kim D-H, Du YP. In vivo multi-slice mapping of myelin water content using T2* decay. Neuroimage. 2010;52:198-204.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nam Y, Lee J, Hwang D, Kim D-H. Improved estimation of myelin water fraction using complex model fitting. Neuroimage. 2015;116:214-221.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jung S, Lee H, Ryu K, et al. Artificial neural network for multi-echo gradient echo-based myelin water fraction estimation. Magn Reson Med. 2021;85:380-389.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee J, Lee D, Choi JY, Shin D, Shin HG, Lee J. Artificial neural network for myelin water imaging. Magn Reson Med. 2020;83:1875-1883.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liu H, Xiang Q-S, Tam R, et al. Myelin water imaging data analysis in less than one minute. Neuroimage. 2020;210:116551.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee J, Nam Y, Choi JY, Kim EY, Oh SH, Kim DH. Mechanisms of T2* anisotropy and gradient echo myelin water imaging. NMR Biomed. 2017;30:e3513.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Deoni SCL, Rutt BK, Arun T, Pierpaoli C, Jones DK. Gleaning multicomponent T1 and T2 information from steady-state imaging data. Magn Reson Med. 2008;60:1372-1387.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Oh S-H, Bilello M, Schindler M, Markowitz CE, Detre JA, Lee J. Direct visualization of short transverse relaxation time component (ViSTa). Neuroimage. 2013;83:485-492.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Does MD, Gore JC. Compartmental study of T1 and T2 in rat brain and trigeminal nerve in vivo. Magn Reson Med. 2002;47:274-283.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yablonskiy DA, Sukstanskii AL, Luo J, Wang X. Voxel spread function method for correction of magnetic field inhomogeneity effects in quantitative gradient-echo-based MRI. Magn Reson Med. 2013;70:1283-1292.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee H, Nam Y, Lee H-J, Hsu J-J, Henry RG, Kim D-H. Improved three-dimensional multi-echo gradient echo based myelin water fraction mapping with phase related artifact correction. Neuroimage. 2018;169:1-10.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Glang F, Deshmane A, Prokudin S, et al. DeepCEST 3T: robust MRI parameter determination and uncertainty quantification with neural networks-application to CEST imaging of the human brain at 3T. Magn Reson Med. 2020;84:450-466.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Roy AG, Conjeti S, Navab N, Wachinger C, Alzheimer's Disease Neuroimaging Initiative. Bayesian QuickNAT: model uncertainty in deep whole-brain segmentation for structure-wise quality control. Neuroimage. 2019;195:11-22.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tanno R, Worrall DE, Kaden E, et al. Uncertainty modelling in deep learning for safer neuroimage enhancement: demonstration in diffusion MRI. Neuroimage. 2020;225:117366.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gal Y, Ghahramani Z. Dropout as a Bayesian approximation: representing model uncertainty in deep learning. In Proceedings of the 33rd International Conference on International Conference on Machine Learning, New York, NY. 2016;48:1050-1059. https://proceedings.mlr.press/v48/gal16.html</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shin H-G, Oh S-H, Fukunaga M, et al. Advances in gradient echo myelin water imaging at 3T and 7T. Neuroimage. 2019;188:835-844.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wharton S, Bowtell R. Fiber orientation-dependent white matter contrast in gradient echo MRI. Proc Natl Acad Sci U S A. 2012;109:18559-18564.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee J, Shmueli K, Kang B-T, et al. The contribution of myelin to magnetic susceptibility-weighted contrasts in high-field MRI of the brain. Neuroimage. 2012;59:3967-3975.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Li W, Wu B, Avram AV, Liu C. Magnetic susceptibility anisotropy of human brain in vivo and its molecular underpinnings. Neuroimage. 2012;59:2088-2097.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sati P, van Gelderen P, Silva AC, et al. Micro-compartment specific T2⁎ relaxation in the brain. Neuroimage. 2013;77:268-278.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kendall A, Gal Y. What uncertainties do we need in Bayesian deep learning for computer vision? In Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA. 2017:5580-5590.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Robinson S, Grabner G, Witoszynskyj S, Trattnig S. Combining phase images from multi-channel RF coils using 3D phase offset maps derived from a dual-echo scan. Magn Reson Med. 2011;65:1638-1648.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Trabelsi C, Bilaniuk O, Zhang Y, et al. Deep Complex Networks 2018. arXiv:1705.09792v4.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cole E, Cheng J, Pauly J, Vasanawala S. Analysis of deep complex-valued convolutional neural networks for MRI reconstruction. Magn Reson Med. 2021;86:1093-1109.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bradley W Jr. MR appearance of hemorrhage in the brain. Radiology. 1993;189:15-26.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Labadie C, Lee JH, Rooney WD, et al. Myelin water mapping by spatially regularized longitudinal relaxographic imaging at high magnetic fields. Magn Reson Med. 2014;71:375-387.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dhital B, Labadie C, Stallmach F, Möller HE, Turner R. Temperature dependence of water diffusion pools in brain white matter. Neuroimage. 2016;127:135-143.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dortch RD, Harkins KD, Juttukonda MR, Gore JC, Does MD. Characterizing inter-compartmental water exchange in myelinated tissue using relaxation exchange spectroscopy. Magn Reson Med. 2013;70:1450-1459.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kalantari S, Laule C, Bjarnason TA, Vavasour IM, MacKay AL. Insight into in vivo magnetization exchange in human white matter regions. Magn Reson Med. 2011;66:1142-1151.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chan K-S, Marques JP. Multi-compartment relaxometry and diffusion informed myelin water imaging - promises and challenges of new gradient echo myelin water imaging methods. Neuroimage. 2020;221:117159.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Birkl C, Birkl-Toeglhofer AM, Endmayr V, et al. The influence of brain iron on myelin water imaging. Neuroimage. 2019;199:545-552.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yao B, Bagnato F, Matsuura E, et al. Chronic multiple sclerosis lesions: characterization with high-field-strength MR imaging. Radiology. 2012;262:206-215.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

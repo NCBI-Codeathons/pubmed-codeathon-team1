@@ -1,0 +1,228 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35550235</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>17</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1873-1716</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>203</Volume>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Preventive veterinary medicine</Title>
+          <ISOAbbreviation>Prev Vet Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A comparison of logistic regression and classification tree to assess brucellosis associated risk factors in dairy cattle.</ArticleTitle>
+        <Pagination>
+          <StartPage>105664</StartPage>
+          <MedlinePgn>105664</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.prevetmed.2022.105664</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0167-5877(22)00097-6</ELocationID>
+        <Abstract>
+          <AbstractText>Machine learning approaches have been increasingly utilized in the field of medicine. Brucellosis is one of the most common contagious zoonotic diseases with significant impacts on livestock health, reproduction, production, and public health worldwide. Therefore, our objective was to determine the seroprevalence and compare the logistic regression and Classification and Regression Tree (CART) data-mining analysis to assess risk factors associated with Brucella infection in the densest cattle populated Egyptian governorates. A cross-sectional study was conducted on 400 animals (383 cows, 17 bulls) distributed over four Governorates in Egypt's Nile Delta in 2019. The randomly selected animals from studied geographical areas were serologically tested for Brucella using iELISA, and the animals' information was obtained from the farm records or animal owners. Eight supposed risk factors (geographic location, gender, herd size, age, history of abortion, shared equipment, and disinfection post-calving) were evaluated using multiple stepwise logistic regression and CART machine-learning techniques. A total of 84 (21.0%; 95% CI 17.1-25.3) serum samples were serologically positive for Brucella. The highest seroprevalence of Brucella infection was reported among animals raised in herd size &gt; 100 animals (65.5%), with no disinfection post-calving (61.7%), with a history of abortion (59.6%), and with shared equipment without thorough cleaning and disinfection (57.1%). The multiple stepwise logistic regression modeling identified herd size, history of abortion, and disinfection post-calving as important risk factors. However, CART modeling identified herd size, disinfection post-calving, history of abortion, and shared equipment as the most potential risk factors for Brucella infection. Comparing the two models, CART model showed a higher area under the receiver operating characteristic curve (AUROC = 0.98; 95% CI 0.95 - 1.00) than the binary logistic regression (AUROC = 0.89; 95% CI 0.73 - 0.92). Our findings strongly imply that Brucella infection is most likely to spread among animals raised in large herds (&gt;100 animals) with a history of abortions and bad hygienic measures post-calving. The CART data-mining modeling provides an accurate technique to identify risk factors of Brucella infection in cattle.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Elsevier B.V. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Megahed</LastName>
+            <ForeName>Ameer</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Animal Medicine (Internal Medicine), Faculty of Veterinary Medicine, Benha University, Moshtohor-Toukh, Kalyobiya 13736, Egypt; Department of Large Animal Clinical Sciences, College of Veterinary Medicine, University of Florida, FL 32610, USA. Electronic address: ameermegahed@ufl.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kandeel</LastName>
+            <ForeName>Sahar</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Animal Medicine (Infectious Diseases), Faculty of Veterinary Medicine, Benha University, Moshtohor-Toukh, Kalyobiya 13736, Egypt.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alshaya</LastName>
+            <ForeName>Dalal S</ForeName>
+            <Initials>DS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biology, College of Science, Princess Nourah Bint Abdulrahman University, P.O. Box 102275, Riyadh 11675, Saudi Arabia. Electronic address: dsalshaya@pnu.edu.sa.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Attia</LastName>
+            <ForeName>Kotb A</ForeName>
+            <Initials>KA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center of Excellence in Biotechnology Research, King Saud University, P.O. Box 2455, Riyadh 11451, Saudi Arabia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>AlKahtani</LastName>
+            <ForeName>Muneera D F</ForeName>
+            <Initials>MDF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biology, College of Science, Princess Nourah Bint Abdulrahman University, P.O. Box 102275, Riyadh 11675, Saudi Arabia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Albohairy</LastName>
+            <ForeName>Fatima M</ForeName>
+            <Initials>FM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Extramural Research Department , Health Sciences Research Center, Princess Nourah bint Abdulrahman University, P.O. Box 84428, Riyadh 11671, Saudi Arabia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Selim</LastName>
+            <ForeName>Abdelfattah</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Animal Medicine (Infectious Diseases), Faculty of Veterinary Medicine, Benha University, Moshtohor-Toukh, Kalyobiya 13736, Egypt. Electronic address: Abdelfattah.selim@fvtm.bu.edu.eg.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>09</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>Prev Vet Med</MedlineTA>
+        <NlmUniqueID>8217463</NlmUniqueID>
+        <ISSNLinking>0167-5877</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000907">Antibodies, Bacterial</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000822" MajorTopicYN="N">Animal Husbandry</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000907" MajorTopicYN="N">Antibodies, Bacterial</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002002" MajorTopicYN="Y">Brucella</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002006" MajorTopicYN="Y">Brucellosis</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+          <QualifierName UI="Q000662" MajorTopicYN="N">veterinary</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002007" MajorTopicYN="Y">Brucellosis, Bovine</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002417" MajorTopicYN="N">Cattle</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002418" MajorTopicYN="Y">Cattle Diseases</DescriptorName>
+          <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016015" MajorTopicYN="N">Logistic Models</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011247" MajorTopicYN="N">Pregnancy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016036" MajorTopicYN="N">Seroepidemiologic Studies</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Brucellosis</Keyword>
+        <Keyword MajorTopicYN="N">Dairy cattle</Keyword>
+        <Keyword MajorTopicYN="N">Decision tree</Keyword>
+        <Keyword MajorTopicYN="N">Risk factors</Keyword>
+        <Keyword MajorTopicYN="N">Seroprevalence</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>13</Day>
+          <Hour>12</Hour>
+          <Minute>30</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35550235</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.prevetmed.2022.105664</ArticleId>
+        <ArticleId IdType="pii">S0167-5877(22)00097-6</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

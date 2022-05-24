@@ -1,0 +1,346 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">32580311</PMID>
+      <DateCompleted>
+        <Year>2020</Year>
+        <Month>07</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>07</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1424-8220</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>20</Volume>
+            <Issue>12</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>Jun</Month>
+              <Day>22</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Sensors (Basel, Switzerland)</Title>
+          <ISOAbbreviation>Sensors (Basel)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Use of Sensors and Analyzers Data for Load Forecasting: A Two Stage Approach.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">3524</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/s20123524</ELocationID>
+        <Abstract>
+          <AbstractText>The increase in sensors in buildings and home automation bring potential information to improve buildings' energy management. One promissory field is load forecasting, where the inclusion of other sensors' data in addition to load consumption may improve the forecasting results. However, an adequate selection of sensor parameters to use as input to the load forecasting should be done. In this paper, a methodology is proposed that includes a two-stage approach to improve the use of sensor data for a specific building. As an innovation, in the first stage, the relevant sensor data is selected for each specific building, while in the second stage, the load forecast is updated according to the actual forecast error. When a certain error is reached, the forecasting algorithm (Artificial Neural Network or K-Nearest Neighbors) is trained with the most recent data instead of training the algorithm every time. Data collection is provided by a prototype of agent-based sensors developed by the authors in order to support the proposed methodology. In this case study, data over a period of six months with five-minute time intervals regarding eight types of sensors are used. These data have been adapted from an office building to illustrate the advantages of the proposed methodology.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ramos</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>GECAD-Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development, Rua DR. Antonio Bernardino de Almeida, 431, 4200-072 Porto, Portugal.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Polytechnic of Porto, Rua DR. Antonio Bernardino de Almeida, 431, 4200-072 Porto, Portugal.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Teixeira</LastName>
+            <ForeName>Brigida</ForeName>
+            <Initials>B</Initials>
+            <Identifier Source="ORCID">0000-0002-0848-5319</Identifier>
+            <AffiliationInfo>
+              <Affiliation>GECAD-Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development, Rua DR. Antonio Bernardino de Almeida, 431, 4200-072 Porto, Portugal.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Polytechnic of Porto, Rua DR. Antonio Bernardino de Almeida, 431, 4200-072 Porto, Portugal.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Faria</LastName>
+            <ForeName>Pedro</ForeName>
+            <Initials>P</Initials>
+            <Identifier Source="ORCID">0000-0002-5982-8342</Identifier>
+            <AffiliationInfo>
+              <Affiliation>GECAD-Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development, Rua DR. Antonio Bernardino de Almeida, 431, 4200-072 Porto, Portugal.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Polytechnic of Porto, Rua DR. Antonio Bernardino de Almeida, 431, 4200-072 Porto, Portugal.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gomes</LastName>
+            <ForeName>Luis</ForeName>
+            <Initials>L</Initials>
+            <Identifier Source="ORCID">0000-0002-8597-3383</Identifier>
+            <AffiliationInfo>
+              <Affiliation>GECAD-Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development, Rua DR. Antonio Bernardino de Almeida, 431, 4200-072 Porto, Portugal.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Polytechnic of Porto, Rua DR. Antonio Bernardino de Almeida, 431, 4200-072 Porto, Portugal.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Abrishambaf</LastName>
+            <ForeName>Omid</ForeName>
+            <Initials>O</Initials>
+            <Identifier Source="ORCID">0000-0002-4249-8367</Identifier>
+            <AffiliationInfo>
+              <Affiliation>GECAD-Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development, Rua DR. Antonio Bernardino de Almeida, 431, 4200-072 Porto, Portugal.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Polytechnic of Porto, Rua DR. Antonio Bernardino de Almeida, 431, 4200-072 Porto, Portugal.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vale</LastName>
+            <ForeName>Zita</ForeName>
+            <Initials>Z</Initials>
+            <Identifier Source="ORCID">0000-0002-4560-9544</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Polytechnic of Porto, Rua DR. Antonio Bernardino de Almeida, 431, 4200-072 Porto, Portugal.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>06</Month>
+          <Day>22</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Sensors (Basel)</MedlineTA>
+        <NlmUniqueID>101204366</NlmUniqueID>
+        <ISSNLinking>1424-8220</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">SCADA</Keyword>
+        <Keyword MajorTopicYN="N">building energy management</Keyword>
+        <Keyword MajorTopicYN="N">demand response</Keyword>
+        <Keyword MajorTopicYN="N">load shifting</Keyword>
+        <Keyword MajorTopicYN="N">user comfort</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>4</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2020</Year>
+          <Month>6</Month>
+          <Day>8</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>6</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>6</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>6</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2020</Year>
+          <Month>6</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32580311</ArticleId>
+        <ArticleId IdType="pmc">PMC7349265</ArticleId>
+        <ArticleId IdType="doi">10.3390/s20123524</ArticleId>
+        <ArticleId IdType="pii">s20123524</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Gottwalt S., Gärttner J., Schmeck H., Weinhardt C. Modeling and valuation of residential demand flexibility for renewable energy integration. IEEE Trans. Smart Grid. 2017;8:2565–2574. doi: 10.1109/TSG.2016.2529424.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TSG.2016.2529424</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Irfan M., Zhao Z.-Y., Ahmad M., Mukeshimana M. Solar Energy Development in Pakistan: Barriers and Policy Recommendations. Sustainability. 2019;11:1206.  doi: 10.3390/su11041206.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/su11041206</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Faria P., Vale Z. A Demand Response Approach to Scheduling Constrained Load Shifting. Energies. 2019;12:1752.  doi: 10.3390/en12091752.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/en12091752</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pop C., Cioara T., Antal M., Anghel I., Salomie I., Bertoncini M. Blockchain Based Decentralized Management of Demand Response Programs in Smart Energy Grids. Sensors. 2018;18:162.  doi: 10.3390/s18010162.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s18010162</ArticleId>
+            <ArticleId IdType="pmc">PMC5796446</ArticleId>
+            <ArticleId IdType="pubmed">29315250</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Faria P., Vale Z. Demand response in electrical energy supply: An optimal real time pricing approach. Energy. 2011;36:5374–5384. doi: 10.1016/j.energy.2011.06.049.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.energy.2011.06.049</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cao Y., Du J., Soleymanzadeh E. Model predictive control of commercial buildings in demand response programs in the presence of thermal storage. J. Clean. Prod. 2019;218:315–327. doi: 10.1016/j.jclepro.2019.01.266.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jclepro.2019.01.266</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Khorram M., Abrishambaf O., Faria P., Vale Z. Office building participation in demand response programs supported by intelligent lighting management. Energy Inform. 2018;1:9. doi: 10.1186/s42162-018-0008-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s42162-018-0008-4</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Abrishambaf O., Faria P., Vale Z. Application of an optimization-based curtailment service provider in real-time simulation. Energy Inform. 2018;1:1–17. doi: 10.1186/s42162-018-0006-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s42162-018-0006-6</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marzband M., Ghazimirsaeid S.S., Uppal H., Fernando T. A real-time evaluation of energy management systems for smart hybrid home Microgrids. Electr. Power Syst. Res. 2017;143:624–633. doi: 10.1016/j.epsr.2016.10.054.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.epsr.2016.10.054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y., Yang R., Zhang K., Jiang H., Zhang J.J. Consumption Behavior Analytics-Aided Energy Forecasting and Dispatch. IEEE Intell. Syst. 2017;32:59–63. doi: 10.1109/MIS.2017.3121551.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/MIS.2017.3121551</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kuo P.-H., Huang C.-J. A High Precision Artificial Neural Networks Model for Short-Term Energy Load Forecasting. Energies. 2018;11:213.  doi: 10.3390/en11010213.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/en11010213</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fallah S., Deo R., Shojafar M., Conti M., Shamshirband S. Computational Intelligence Approaches for Energy Load Forecasting in Smart Energy Management Grids: State of the Art, Future Challenges, and Research Directions. Energies. 2018;11:596.  doi: 10.3390/en11030596.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/en11030596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Singh S., Yassine A. Big Data Mining of Energy Time Series for Behavioral Analytics and Energy Consumption Forecasting. Energies. 2018;11:452.  doi: 10.3390/en11020452.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/en11020452</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jozi A., Ramos D., Gomes L., Faria P., Pinto T., Vale Z.  Demonstration of an Energy Consumption Forecasting System for Energy Management in Buildings. In: Moura Oliveira P., Novais P., Reis L., editors. Progress in Artificial Intelligence, Proceedings of EPIA Conference on Artificial Intelligence, Vila Real, Portugal, 3–6 September 2019. Springer; Cham, Switzerland: 2019. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen G.H., Shah D. Explaining the success of nearest neighbor methods in prediction. Found. Trends Mach. Learn. 2018;10:337–588. doi: 10.1561/2200000064.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1561/2200000064</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Singh S., Hussain S., Bazaz M. Short term load forecasting using artificial neural network; Proceedings of the 2017 Fourth International Conference on Image Information Processing (ICIIP); Shimla, India. 21–23 December 2017; pp. 1–5.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Barrash S., Shen Y., Giannakis G.B. Scalable and Adaptive KNN for Regression Over Graphs; Proceedings of the 2019 IEEE 8th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP); Le gosier, France. 15–18 December 2019; pp. 241–245.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liu S., Zhou F. On stock prediction based on KNN-ANN algorithm; Proceedings of the 2010 IEEE Fifth International Conference on Bio-Inspired Computing: Theories and Applications (BIC-TA); Changsha, China. 23–26 September 2010; pp. 310–312.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xie J., Liu B., Lyu X., Hong T., Basterfield D. Combining load forecasts from independent experts; Proceedings of the 2015 North American Power Symposium (NAPS); Charlotte, NC, USA. 4–6 October 2015; pp. 1–5.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Imdad U., Ahmad W., Asif M., Ishtiaq A. Classification of students results using KNN and ANN; Proceedings of the 2017 13th International Conference on Emerging Technologies (ICET); Islamabad, Pakistan. 27–28 December 2017; pp. 1–6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>González-Vidal A., Jiménez F., Gómez-Skarmeta A.F. A methodology for energy multivariate time series forecasting in smart buildings based on feature selection. Energy Build. 2019;196:71–82. doi: 10.1016/j.enbuild.2019.05.021.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.enbuild.2019.05.021</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ahmad T., Zhang H., Yan B. A review on renewable energy and electricity requirement forecasting models for smart grid and buildings. Sustain. Cities Soc. 2020;55:102052. doi: 10.1016/j.scs.2020.102052.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.scs.2020.102052</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ahmad T., Huanxin C., Zhang D., Zhang H. Smart energy forecasting strategy with four machine learning models for climate-sensitive and non-climate sensitive conditions. Energy. 2020;198:117283. doi: 10.1016/j.energy.2020.117283.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.energy.2020.117283</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bourdeau M., Zhai X.Q., Nefzaoui E., Guo X., Chatellier P. Modeling and forecasting building energy consumption: A review of data-driven techniques. Sustain. Cities Soc. 2019;48:101533. doi: 10.1016/j.scs.2019.101533.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.scs.2019.101533</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moreno M., Úbeda B., Skarmeta A., Zamora M. How can We Tackle Energy Efficiency in IoT BasedSmart Buildings? Sensors. 2014;14:9582–9614. doi: 10.3390/s140609582.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s140609582</ArticleId>
+            <ArticleId IdType="pmc">PMC4118407</ArticleId>
+            <ArticleId IdType="pubmed">24887040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marinakis V., Doukas H. An Advanced IoT-based System for Intelligent Energy Management in Buildings. Sensors. 2018;18:610.  doi: 10.3390/s18020610.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s18020610</ArticleId>
+            <ArticleId IdType="pmc">PMC5856031</ArticleId>
+            <ArticleId IdType="pubmed">29462957</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ha S., Tae S., Kim R. Energy Demand Forecast Models for Commercil Buildings in South Korea. Energies. 2019;12:2313.  doi: 10.3390/en12122313.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/en12122313</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gomes L., Sousa F., Vale Z. An Intelligent Smart Plug with Shared Knowledge Capabilities. Sensors. 2018;18:3961.  doi: 10.3390/s18113961.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s18113961</ArticleId>
+            <ArticleId IdType="pmc">PMC6263523</ArticleId>
+            <ArticleId IdType="pubmed">30445730</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Keras.  [(accessed on 5 May 2020)]; Available online:  https://www.tensorflow.org/guide/keras.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>K-Neighbors.  [(accessed on 5 May 2020)]; Available online:  https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,285 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35153534</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">1359-4311</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>209</Volume>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Applied thermal engineering</Title>
+          <ISOAbbreviation>Appl Therm Eng</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A numerical evaluation of a novel recovery fresh air heat pump concept for a generic electric bus.</ArticleTitle>
+        <Pagination>
+          <StartPage>118181</StartPage>
+          <MedlinePgn>118181</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.applthermaleng.2022.118181</ELocationID>
+        <Abstract>
+          <AbstractText>Since the outbreak of the worldwide COVID-19 pandemic, public transportation networks have faced unprecedented challenges and have looked for practical solutions to address the rising safety concerns. It is deemed that in confined spaces, operating heating units (and cooling) in non-re-circulation mode (<i>i. e.,</i> all-fresh air mode) could reduce the airborne transmission of this infectious disease, by reducing the density of the pathogen and exposure time. However, this will expectedly increase the energy demand and reduce the driving range of electric buses. To tackle both the airborne transmission and energy efficiency issues, in this paper a novel recovery heat pump concept, operating in all-fresh air mode, was proposed. The novelty of this concept lies in its potential to be applied to already manufactured/in-service heat pump units as it does not require any additional components or need for redesigning the heating systems. In this concept, the cabin exhaust air is directed to pass through the evaporator of the heat pump system to recover part of the waste heat from the cabin and to improve the efficiency of the system. In this paper, a 0D/1D coupled model of a generic single-deck cabin and a heat pump system was developed in the Simulink environment of MATLAB (R2020b) software. The model was run in two different modes, namely the all-fresh air (as a baseline and a recovery heat pump concepts), and the air re-circulation mode (as a conventional heat pump concept with a 50% re-circulation ratio). The performance of these concepts was investigated to evaluate how an all-fresh air policy could affect the performance of the system, as well as the energy-saving potential of the proposed recovery concept. The performance of the system was studied under different ambient temperatures of -5 °C, 0 °C, and 5 °C, and for low and moderate occupancy levels. Results show that implementing the all-fresh air policy in the recovery and baseline concepts significantly improved the ventilation rate per person by at least 102% and at most 125%, compared to the air-re-circulating heat pump. Moreover, adopting the recovery concept reduced the power demand by at least 8% and at most 11%, compared to the baseline all-fresh air heat pump, for the selected fan and blower flow rates. The presented results in this paper along with the applicability of this concept to in-service mobile heat pumps could make it a feasible, practical, and quick trade-off solution to help the bus operators to protect people and improve the energy efficiency of their service.</AbstractText>
+          <CopyrightInformation>Crown Copyright © 2022 Published by Elsevier Ltd. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Afrasiabian</LastName>
+            <ForeName>Ehsan</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Mechanical &amp; Aerospace Engineering, Queen's University Belfast, Belfast BT9 5AH, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Douglas</LastName>
+            <ForeName>Roy</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Mechanical &amp; Aerospace Engineering, Queen's University Belfast, Belfast BT9 5AH, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Geron</LastName>
+            <ForeName>Marco</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Mechanical &amp; Aerospace Engineering, Queen's University Belfast, Belfast BT9 5AH, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cunningham</LastName>
+            <ForeName>Gareth</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Bamford Bus Company Ltd T/A Wrightbus, Ballymena BT42 1SA, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>07</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Appl Therm Eng</MedlineTA>
+        <NlmUniqueID>101635090</NlmUniqueID>
+        <ISSNLinking>1359-4311</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">COVID-19</Keyword>
+        <Keyword MajorTopicYN="N">Contagious diseases</Keyword>
+        <Keyword MajorTopicYN="N">Electric bus</Keyword>
+        <Keyword MajorTopicYN="N">Heat pump</Keyword>
+        <Keyword MajorTopicYN="N">Waste heat recovery</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>9</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>3</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>14</Day>
+          <Hour>5</Hour>
+          <Minute>28</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35153534</ArticleId>
+        <ArticleId IdType="pmc">PMC8820066</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.applthermaleng.2022.118181</ArticleId>
+        <ArticleId IdType="pii">S1359-4311(22)00144-2</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Ruizhi Z., Xu Y., Wang W., Ning G., Bi Y. Spatial transmission of COVID-19 via public and private transportation in China. Travel Med. Infect. Dis. 2020</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7118651</ArticleId>
+            <ArticleId IdType="pubmed">32184132</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>W. H. Organization., Responding to community spread of COVID-19: interim guidance, 7 March 2020 (No. WHO/COVID-19/Community_Transmission/2020.1), World Health Organization, 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>M. Gameiro da Silva, An analysis of the transmission modes of COVID-19 in light of the concepts of Indoor Air Quality, REHVA Journal.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Miller S.L., Nazaroff W.W., Jimenez J.L., Boerstra A., Buonanno G., Dancer S.J., Kurnitski J., Marr L.C., Morawska L., Noakes C. Transmission of SARS-CoV-2 by inhalation of respiratory aerosol in the Skagit Valley Chorale superspreading event. Indoor Air. 2021;31(2):314–323.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7537089</ArticleId>
+            <ArticleId IdType="pubmed">32979298</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lewis D. Mounting evidence suggests coronavirus is airborne—but health advice has not caught up. Nature. 2020;583(7817):510–513.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32647382</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shen Y., Li C., Dong H., Wang Z., Martinez L., Sun Z., Handel A., Chen Z., Chen E., Ebell M., Wang F. Community outbreak investigation of SARS-CoV-2 transmission among bus riders in Eastern China. JAMA Intern Med. 2020;180(12):1665–1671.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7489377</ArticleId>
+            <ArticleId IdType="pubmed">32870239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Melikov A.K. COVID-19: Reduction of airborne transmission needs paradigm shift in ventilation. Build. Environ. 2020;186:107336. doi: 10.1016/j.buildenv.2020.107336.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.buildenv.2020.107336</ArticleId>
+            <ArticleId IdType="pmc">PMC7536125</ArticleId>
+            <ArticleId IdType="pubmed">33041457</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun C., Zhai Z. The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission. Sustain. Cities Soc. 2020;62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7357531</ArticleId>
+            <ArticleId IdType="pubmed">32834937</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morawska L., Tang J., Bahnfleth W., Bluyssen P., Boerstra A., Buonanno G., Cao J., Dancer S., Floto A., Franchimon F., Haworth C. How can airborne transmission of COVID-19 indoors be minimised? Environ. Int. 2020;142(105832):1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7250761</ArticleId>
+            <ArticleId IdType="pubmed">32521345</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>U.K. Department for Transport (DfT), “Guidance Coronavirus (COVID-19): safer transport guidance for operators,” [Online]. Available: https://www.gov.uk/government/publications/coronavirus-covid-19-safer-transport-guidance-for-operators/coronavirus-covid-19-safer-transport-guidance-for-operators. [Accessed 15 July 2021].</Citation>
+        </Reference>
+        <Reference>
+          <Citation>VaACA. Federation of European Heating, COVID-19 Guidance, REHVA, updated 3 April 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>American Society for Heating Refrigeration and Air‐Conditioning Engineers, ASHRAE position document on infectious aerosols, 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>(EASA). european union aviation safety agency. Coronavirus ‘SARS-CoV-2’ Infections – Operational Recommendations. Safety Information Bulletin: SIB No.: 2020-02R3, 02 April 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>(CDC). The US Centers for Disease Control and Prevention. Ventilation in Buildings; Considerations to Improve Ventilation [Online]. Available: https://www.cdc.gov/coronavirus/2019-ncov/community/ventilation.html. [Accessed 15 July 2021].</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Qi Z. Advances on air conditioning and heat pump system in electric vehicles – a review. Renew. Sustain. Energy Rev. 2014;38:754–764.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>D. Leighton, Combined fluid loop thermal management for electric drive vehicle range improvement, National Renewable Energy Lab.(NREL), Golden, CO (United States), pp. Vol. 8, no. NREL/CP-5400-63430, 2015.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Meyer N., Whittal I., Christenson M., Loiselle-Lapointe A. The impact of the driving cycle and climate on electrical consumption and range of fully electric passengers vehicles. Proc. EVS. 2012;26:11.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang G., Zou H., Qin F., Xue Q., Tian C. Investigation on an improved heat pump AC system with the view of return air utilization and anti-fogging for electric vehicles. Appl. Therm. Eng. 2017;115:726–735.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pan L., Liu C., Zhang Z., Wang T., Shi J., Chen J. Energy-saving effect of utilizing recirculated air in electric vehicle air conditioning system. Int. J. Refrig. 2019;102:122–129.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>David R., Bouscayrol A., Boulon L., Vaudrey A.  2020 IEEE 91st Vehicular Technology Conference (VTC2020-Spring) 2020. Simulation of an electric vehicle to study the impact of cabin heating on the driving range.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mao Y., Wang J.i., Li J. Experimental and numerical study of air flow and temperature variations in an electric vehicle cabin during cooling and heating. Appl. Therm. Eng. 2018;137:356–367.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mezrhab A., Bouzidi M. Computation of thermal comfort inside a passenger car compartment. Appl. Therm. Eng. 2006;26(14-15):1697–1704.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yu B., Yang J., Wang D., Shi J., Chen J. Energy consumption and increased EV range evaluation through heat pump scenarios and low GWP refrigerants in the new test procedure WLTP. Int. J. Refrig. 2019;100:284–294.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee H.-S., Lee M.-Y. Steady state and start-up performance characteristics of air source heat pump for cabin heating in an electric passenger vehicle. Int. J. Refrig. 2016;69:232–242.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Han X., Zou H., Wu J., Tian C., Tang M., Huang G. Investigation on the heating performance of the heat pump with waste heat recovery for the electric bus. Renewable Energy. 2020;152:835–848.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Danca P., Bode F., Nastase I., Meslem A. On the possibility of CFD modeling of the indoor environment in a vehicle. Energy Procedia. 2017;112:656–663.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Marcos D., Pino F.J., Bordons C., Guerra J.J. The development and validation of a thermal model for the cabin of a vehicle. Appl. Therm. Eng. 2014;66(1-2):646–656.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Torregrosa-Jaime B., Bjurling F., Corberán J.M., Di Sciullo F., Payá J. Transient thermal model of a vehicle's cabin validated under variable ambient conditions. Appl. Therm. Eng. 2015;75:45–53.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schaut S., Sawodny O. Thermal management for the cabin of a battery electric vehicle considering passengers' comfort. IEEE Trans. Control Syst. Technol. 2020;28(4):1476–1492.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>E. Afrasiabian, R. Douglas, R. Best, Real-time modelling of a two-unit baseline air conditioning system for a generic bus subjected to different levels of occupancy, in: 2020 Fifteenth International Conference on Ecological Vehicles and Renewable Energies (EVER) 2020, September, IEEE, pp. 1–6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Afrasiabian E., Douglas R., Best R. Dynamic modelling and performance prediction of a multi-unit baseline air conditioning system for a generic bus under part-load conditions. SAE Int. J. Commer. Veh. 2021;14(2):193–204.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>O’Boyle C., Douglas R., Best R., Geron M. Vehicle Thermal Modelling for Improved Drive Cycle Analysis of a Generic City Bus. 2020:1–5.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tian Z., Gan W., Zhang X., Gu B.o., Yang L. Investigation on an integrated thermal management system with battery cooling and motor waste heat recovery for electric vehicle. Appl. Therm. Eng. 2018;136:16–27.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Denkenberger D., Parisi M., Pearce J.M. Towards low-cost microchannel heat exchangers: vehicle heat recovery ventilator prototype. Int. Conf. Heat Transfer Fluid Mech. Thermodyn. 2014</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bellocchi S., Leo Guizzi G., Manno M., Salvatori M., Zaccagnini A. Reversible heat pump HVAC system with regenerative heat exchanger for electric vehicles: analysis of its impact on driving range. Appl. Therm. Eng. 2018;129:290–305.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Delafield D., DuBois E.F. Fifth paper the measurement of the surface area of man. Arch. Intern. Med. 1915;15:868–881.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>ANSI/ASHRAE Standard 55-2017, Thermal Environmental Conditions for Human Occupancy; 2017.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>E. Afrasiabian, R. Douglas, G. Cunningham and M. Geron, Efficient Heating Strategies Based On Variable Set-Point Temperature of a Bus Cabin with No Air Recirculation, in: Proceedings of the 8th International Conference on Fluid Flow, Heat and Mass Transfer (FFHMT’21), May 21-23, 2021.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

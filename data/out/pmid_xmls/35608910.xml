@@ -1,0 +1,187 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">35608910</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1558-8238</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>24</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>The Journal of clinical investigation</Title>
+          <ISOAbbreviation>J Clin Invest</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Specific in situ inflammatory states associate with progression to renal failure in lupus nephritis.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">e155350</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1172/JCI155350</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In human lupus nephritis (LN), tubulointerstitial inflammation (TII) on biopsy predicts progression to end-stage renal disease (ESRD). However, only about half of patients with moderate/severe TII develop ESRD. We hypothesized that this heterogeneity in outcome reflects different underlying inflammatory states. Therefore, we interrogated renal biopsies from LN longitudinal and cross-sectional cohorts.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Data was acquired using conventional and highly multiplexed confocal microscopy. To accurately segment cells across whole biopsies, and to understand their spatial relationships, we developed computational pipelines by training and implementing several deep learning models and other computer vision techniques.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">High B cell densities were associated with protection from ESRD. In contrast, CD8, γδ and other CD4-CD8- T cells, were associated with both acute renal failure and progression to ESRD. B cells were often organized into large periglomerular neighborhoods with T follicular helper cells while CD4- T cells formed small neighborhoods in the tubulointerstitium whose frequency predicted progression to ESRD.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These data reveal that specific in situ inflammatory states are associated with refractory and progressive renal disease.</AbstractText>
+          <AbstractText Label="FUNDING" NlmCategory="BACKGROUND">These studies were funded by the NIH Autoimmunity Centers of Excellence (AI082724), Department of Defense (LRI180083) and Alliance for Lupus Research, NIH S10-OD025081, S10-RR021039, and P30-CA14599 awards.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Abraham</LastName>
+            <ForeName>Rebecca</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Section of Rheumatology, University of Chicago, Chicago, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Durkee</LastName>
+            <ForeName>Madeleine S</ForeName>
+            <Initials>MS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, University of Chicago, Chicago, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ai</LastName>
+            <ForeName>Junting</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Section of Rheumatology, University of Chicago, Chicago, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Veselits</LastName>
+            <ForeName>Margaret</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Section of Rheumatology, University of Chicago, Chicago, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Casella</LastName>
+            <ForeName>Gabriel</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Section of Rheumatology, University of Chicago, Chicago, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Asano</LastName>
+            <ForeName>Yuta</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Section of Rheumatology, University of Chicago, Chicago, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chang</LastName>
+            <ForeName>Anthony</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, University of Chicago, Chicago, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ko</LastName>
+            <ForeName>Kichul</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Section of Rheumatology, University of Chicago, Chicago, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Oshinsky</LastName>
+            <ForeName>Charles</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Rheumatology, University of Washington, Seattle, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Peninger</LastName>
+            <ForeName>Emily</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Section of Rheumatology, University of Chicago, Chicago, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Giger</LastName>
+            <ForeName>Maryellen L</ForeName>
+            <Initials>ML</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, University of Chicago, Chicago, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Clark</LastName>
+            <ForeName>Marcus R</ForeName>
+            <Initials>MR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Section of Rheumatology, University of Chicago, Chicago, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>24</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Clin Invest</MedlineTA>
+        <NlmUniqueID>7802877</NlmUniqueID>
+        <ISSNLinking>0021-9738</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Adaptive immunity</Keyword>
+        <Keyword MajorTopicYN="N">Autoimmunity</Keyword>
+        <Keyword MajorTopicYN="N">Lupus</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>12</Hour>
+          <Minute>3</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35608910</ArticleId>
+        <ArticleId IdType="doi">10.1172/JCI155350</ArticleId>
+        <ArticleId IdType="pii">155350</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,349 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35208889</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Print">2076-2607</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>10</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Feb</Month>
+              <Day>14</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Microorganisms</Title>
+          <ISOAbbreviation>Microorganisms</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>MALDI-TOF MS Using a Custom-Made Database, Biomarker Assignment, or Mathematical Classifiers Does Not Differentiate <i>Shigella</i> spp. and <i>Escherichia coli</i>.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">435</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/microorganisms10020435</ELocationID>
+        <Abstract>
+          <AbstractText><i>Shigella</i> spp. and <i>E. coli</i> are closely related and cannot be distinguished using matrix-assisted laser desorption-ionization time-of-flight mass spectrometry (MALDI-TOF MS) with commercially available databases. Here, three alternative approaches using MALDI-TOF MS to identify and distinguish <i>Shigella</i> spp., <i>E. coli</i>, and its pathotype EIEC were explored and evaluated using spectra of 456 <i>Shigella</i> spp., 42 <i>E. coli</i>, and 61 EIEC isolates. Identification with a custom-made database resulted in &gt;94% <i>Shigella</i> identified at the genus level and &gt;91% <i>S. sonnei</i> and <i>S. flexneri</i> at the species level, but the distinction of <i>S. dysenteriae</i>, <i>S. boydii</i>, and <i>E. coli</i> was poor. With biomarker assignment, 98% <i>S. sonnei</i> isolates were correctly identified, although specificity was low. Discriminating markers for <i>S. dysenteriae</i>, <i>S. boydii</i>, and <i>E. coli</i> were not assigned at all. Classification models using machine learning correctly identified <i>Shigella</i> in 96% of isolates, but most <i>E. coli</i> isolates were also assigned to <i>Shigella</i>. None of the proposed alternative approaches were suitable for clinical diagnostics for identifying <i>Shigella</i> spp., <i>E. coli</i>, and EIEC, reflecting their relatedness and taxonomical classification. We suggest the use of MALDI-TOF MS for the identification of the <i>Shigella</i> spp./<i>E. coli</i> complex, but other tests should be used for distinction.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>van den Beld</LastName>
+            <ForeName>Maaike J C</ForeName>
+            <Initials>MJC</Initials>
+            <Identifier Source="ORCID">0000-0001-8720-8434</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Antonie van Leeuwenhoeklaan 9, 3721 MA Bilthoven, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Microbiology and Infection Prevention, University Medical Center Groningen, University of Groningen, Hanzeplein 1, 9713 GZ Groningen, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rossen</LastName>
+            <ForeName>John W A</ForeName>
+            <Initials>JWA</Initials>
+            <Identifier Source="ORCID">0000-0002-7167-8623</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Microbiology and Infection Prevention, University Medical Center Groningen, University of Groningen, Hanzeplein 1, 9713 GZ Groningen, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, University of Utah School of Medicine, 30 N 1900 E, Salt Lake City, UT 84132, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Laboratory of Clinical Microbiology and Infectious Diseases, Isala Hospital, Dr. Van Heesweg 2, 8025 AB Zwolle, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Evers</LastName>
+            <ForeName>Noah</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Antonie van Leeuwenhoeklaan 9, 3721 MA Bilthoven, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kooistra-Smid</LastName>
+            <ForeName>Mirjam A M D</ForeName>
+            <Initials>MAMD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Microbiology and Infection Prevention, University Medical Center Groningen, University of Groningen, Hanzeplein 1, 9713 GZ Groningen, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Microbiology, Certe, Van Swietenlaan 2, 9728 NZ Groningen, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Reubsaet</LastName>
+            <ForeName>Frans A G</ForeName>
+            <Initials>FAG</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centre for Infectious Disease Control, National Institute for Public Health and the Environment (RIVM), Antonie van Leeuwenhoeklaan 9, 3721 MA Bilthoven, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>14</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Microorganisms</MedlineTA>
+        <NlmUniqueID>101625893</NlmUniqueID>
+        <ISSNLinking>2076-2607</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">EIEC</Keyword>
+        <Keyword MajorTopicYN="N">Escherichia coli</Keyword>
+        <Keyword MajorTopicYN="N">MALDI-TOF MS</Keyword>
+        <Keyword MajorTopicYN="N">Shigella spp.</Keyword>
+        <Keyword MajorTopicYN="N">biomarker assignment</Keyword>
+        <Keyword MajorTopicYN="N">custom-made database</Keyword>
+        <Keyword MajorTopicYN="N">machine-learning classifiers</Keyword>
+      </KeywordList>
+      <CoiStatement>After the results of this study were concluded, J.W.A.R. is consulting for IDbyDNA, and Polpharma Biologics employs N.E. These companies had no role in the study’s design, in the collection, analyses, or interpretation of data, in the writing of the manuscript, or in the decision to publish the results. The other authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>4</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>6</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>25</Day>
+          <Hour>1</Hour>
+          <Minute>16</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35208889</ArticleId>
+        <ArticleId IdType="pmc">PMC8878589</ArticleId>
+        <ArticleId IdType="doi">10.3390/microorganisms10020435</ArticleId>
+        <ArticleId IdType="pii">microorganisms10020435</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Dupont H.L., Formal S.B., Hornick R.B., Snyder M.J., Libonati J.P., Sheahan D.G., LaBrec E.H., Kalas J.P. Pathogenesis of Escherichia coli Diarrhea. N. Engl. J. Med. 1971;285:1–9. doi: 10.1056/NEJM197107012850101.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJM197107012850101</ArticleId>
+            <ArticleId IdType="pubmed">4996788</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lan R., Alles M.C., Donohoe K., Martinez M.B., Reeves P.R. Molecular Evolutionary Relationships of Enteroinvasive Escherichia coli and Shigella spp. Infect. Immun. 2004;72:5080–5088. doi: 10.1128/IAI.72.9.5080-5088.2004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/IAI.72.9.5080-5088.2004</ArticleId>
+            <ArticleId IdType="pmc">PMC517479</ArticleId>
+            <ArticleId IdType="pubmed">15322001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pettengill E.A., Pettengill J.B., Binet R. Phylogenetic Analyses of Shigella and Enteroinvasive Escherichia coli for the Identification of Molecular Epidemiological Markers: Whole-Genome Comparative Analysis Does Not Support Distinct Genera Designation. Front. Microbiol. 2016;6:1573. doi: 10.3389/fmicb.2015.01573.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fmicb.2015.01573</ArticleId>
+            <ArticleId IdType="pmc">PMC4718091</ArticleId>
+            <ArticleId IdType="pubmed">26834722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaper J.B., Nataro J.P., Mobley H.L.T. Pathogenic Escherichia coli. Nat. Rev. Microbiol. 2004;2:123–140. doi: 10.1038/nrmicro818.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrmicro818</ArticleId>
+            <ArticleId IdType="pubmed">15040260</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brenner D.J., Family I.  Enterobacteriaceae. In: Krieg N.R., editor. Bergey’s Manual of Systematic Bacteriology. 1984. pp. 408–420.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bopp C.A., Brenner F.W., Fields P.I., Wells J.G., Strockbine N.A.  Escherichia, Shigella and Salmonella. In: Murray P.R., editor. Manual of Clinical Microbiology. ASM Press; Washington, DC, USA: 2003. pp. 654–671.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Beld M.J.C.V.D., Reubsaet F.A.G. Differentiation between Shigella, enteroinvasive Escherichia coli (EIEC) and noninvasive Escherichia coli. Eur. J. Clin. Microbiol. 2012;31:899–904. doi: 10.1007/s10096-011-1395-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10096-011-1395-7</ArticleId>
+            <ArticleId IdType="pubmed">21901636</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sahl J.W., Morris C.R., Emberger J., Fraser C., Ochieng J.B., Juma J., Fields B., Breiman R.F., Gilmour M., Nataro J.P., et al.  Defining the Phylogenomics of Shigella Species: A Pathway to Diagnostics. J. Clin. Microbiol. 2015;53:951–960. doi: 10.1128/JCM.03527-14.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.03527-14</ArticleId>
+            <ArticleId IdType="pmc">PMC4390639</ArticleId>
+            <ArticleId IdType="pubmed">25588655</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pavlovic M., Luze A., Konrad R., Berger A., Sing A., Busch U., Huber I. Development of a duplex real-time PCR for differentiation between E. coli and Shigella spp. J. Appl. Microbiol. 2011;110:1245–1251. doi: 10.1111/j.1365-2672.2011.04973.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1365-2672.2011.04973.x</ArticleId>
+            <ArticleId IdType="pubmed">21332893</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim H.-J., Ryu J.-O., Song J.-Y., Kim H.-Y. Multiplex Polymerase Chain Reaction for Identification of Shigellae and Four Shigella Species Using Novel Genetic Markers Screened by Comparative Genomics. Foodborne Pathog. Dis. 2017;14:400–406. doi: 10.1089/fpd.2016.2221.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/fpd.2016.2221</ArticleId>
+            <ArticleId IdType="pubmed">28402677</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dhakal R., Wang Q., Lan R., Howard P., Sintchenko V. Novel multiplex PCR assay for identification and subtyping of enteroinvasive Escherichia coli and differentiation from Shigella based on target genes selected by comparative genomics. J. Med. Microbiol. 2018;67:1257–1264. doi: 10.1099/jmm.0.000784.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/jmm.0.000784</ArticleId>
+            <ArticleId IdType="pubmed">29969087</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martiny D., Busson L., Wybo I., El Haj R.A., Dediste A., Vandenberg O. Comparison of the Microflex LT and Vitek MS Systems for Routine Identification of Bacteria by Matrix-Assisted Laser Desorption Ionization-Time of Flight Mass Spectrometry. J. Clin. Microbiol. 2012;50:1313–1325. doi: 10.1128/JCM.05971-11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.05971-11</ArticleId>
+            <ArticleId IdType="pmc">PMC3318529</ArticleId>
+            <ArticleId IdType="pubmed">22322345</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cameron M., Perry J., Middleton J., Chaffer M., Lewis J., Keefe G. Short communication: Evaluation of MALDI-TOF mass spectrometry and a custom reference spectra expanded database for the identification of bovine-associated coagulase-negative staphylococci. J. Dairy Sci. 2018;101:590–595. doi: 10.3168/jds.2017-13226.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3168/jds.2017-13226</ArticleId>
+            <ArticleId IdType="pubmed">29102131</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seuylemezian A., Aronson H., Tan J., Lin M., Schubert W., Vaishampayan P. Development of a Custom MALDI-TOF MS Database for Species-Level Identification of Bacterial Isolates Collected From Spacecraft and Associated Surfaces. Front. Microbiol. 2018;9:780. doi: 10.3389/fmicb.2018.00780.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fmicb.2018.00780</ArticleId>
+            <ArticleId IdType="pmc">PMC5968301</ArticleId>
+            <ArticleId IdType="pubmed">29867782</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morales M.P.F., Hopprich R., Wise R., Shephard L., Weldhagen G.F. Cost-effective implementation of a custom MALDI-TOF library for the identification of South Australian Nocardia isolates. Pathology. 2018;50:753–757. doi: 10.1016/j.pathol.2018.08.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.pathol.2018.08.006</ArticleId>
+            <ArticleId IdType="pubmed">30482608</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Paauw A., Jonker D., Roeselers G., Heng J.M., Mars-Groenendijk R.H., Trip H., Molhoek E.M., Jansen H.-J., van der Plas J., de Jong A.L., et al.  Rapid and reliable discrimination between Shigella species and Escherichia coli using MALDI-TOF mass spectrometry. Int. J. Med. Microbiol. 2015;305:446–452. doi: 10.1016/j.ijmm.2015.04.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ijmm.2015.04.001</ArticleId>
+            <ArticleId IdType="pubmed">25912807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Josten M., Reif M., Szekat C., Al-Sabti N., Roemer T., Sparbier K., Kostrzewa M., Rohde H., Sahl H.-G., Bierbaum G. Analysis of the Matrix-Assisted Laser Desorption Ionization–Time of Flight Mass Spectrum of Staphylococcus aureus Identifies Mutations That Allow Differentiation of the Main Clonal Lineages. J. Clin. Microbiol. 2013;51:1809–1817. doi: 10.1128/JCM.00518-13.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.00518-13</ArticleId>
+            <ArticleId IdType="pmc">PMC3716067</ArticleId>
+            <ArticleId IdType="pubmed">23554199</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sauget M., Valot B., Bertrand X., Hocquet D. Can MALDI-TOF Mass Spectrometry Reasonably Type Bacteria? Trends Microbiol. 2017;25:447–455. doi: 10.1016/j.tim.2016.12.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tim.2016.12.006</ArticleId>
+            <ArticleId IdType="pubmed">28094091</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Khot P.D., Fisher M.A. Novel Approach for Differentiating Shigella Species and Escherichia coli by Matrix-Assisted Laser Desorption Ionization–Time of Flight Mass Spectrometry. J. Clin. Microbiol. 2013;51:3711–3716. doi: 10.1128/JCM.01526-13.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.01526-13</ArticleId>
+            <ArticleId IdType="pmc">PMC3889755</ArticleId>
+            <ArticleId IdType="pubmed">23985919</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Everley R.A., Mott T.M., Wyatt S.A., Toney D.M., Croley T.R. Liquid chromatography/mass spectrometry characterization of Escherichia coli and Shigella species. J. Am. Soc. Mass Spectrom. 2008;19:1621–1628. doi: 10.1016/j.jasms.2008.07.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jasms.2008.07.003</ArticleId>
+            <ArticleId IdType="pubmed">18692404</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>De Bruyne K., Slabbinck B., Waegeman W., Vauterin P., De Baets B., Vandamme P. Bacterial species identification from MALDI-TOF mass spectra through data analysis and machine learning. Syst. Appl. Microbiol. 2011;34:20–29. doi: 10.1016/j.syapm.2010.11.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.syapm.2010.11.003</ArticleId>
+            <ArticleId IdType="pubmed">21295428</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mather C.A., Werth B.J., Sivagnanam S., SenGupta D.J., Butler-Wu S.M. Rapid Detection of Vancomycin-Intermediate Staphylococcus aureus by Matrix-Assisted Laser Desorption Ionization–Time of Flight Mass Spectrometry. J. Clin. Microbiol. 2016;54:883–890. doi: 10.1128/JCM.02428-15.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.02428-15</ArticleId>
+            <ArticleId IdType="pmc">PMC4809916</ArticleId>
+            <ArticleId IdType="pubmed">26763961</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ho P.-L., Yau C.-Y., Ho L.-Y., Chen J.H.K., Lai E.L.Y., Lo S.W.U., Tse C.W.S., Chow K.-H. Rapid detection ofcfiAmetallo-β-lactamase-producingBacteroides fragilisby the combination of MALDI-TOF MS and CarbaNP. J. Clin. Pathol. 2017;70:868–873. doi: 10.1136/jclinpath-2017-204335.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/jclinpath-2017-204335</ArticleId>
+            <ArticleId IdType="pubmed">28360188</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clermont O., Bonacorsi S., Bingen E. Rapid and Simple Determination of the Escherichia coli Phylogenetic Group. Appl. Environ. Microbiol. 2000;66:4555–4558. doi: 10.1128/AEM.66.10.4555-4558.2000.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AEM.66.10.4555-4558.2000</ArticleId>
+            <ArticleId IdType="pmc">PMC92342</ArticleId>
+            <ArticleId IdType="pubmed">11010916</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beld M.J.C.V.D., de Boer R.F., Reubsaet F.A.G., Rossen J., Zhou K., Kuiling S., Friedrich A.W., Kooistra-Smid M.A.M.D. Evaluation of a Culture-Dependent Algorithm and a Molecular Algorithm for Identification of Shigella spp., Escherichia coli, and Enteroinvasive E. coli. J. Clin. Microbiol. 2018;56:e00510-18. doi: 10.1128/jcm.00510-18.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/jcm.00510-18</ArticleId>
+            <ArticleId IdType="pmc">PMC6156305</ArticleId>
+            <ArticleId IdType="pubmed">30021824</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saleeb P.G., Drake S.K., Murray P.R., Zelazny A.M. Identification of Mycobacteria in Solid-Culture Media by Matrix-Assisted Laser Desorption Ionization-Time of Flight Mass Spectrometry. J. Clin. Microbiol. 2011;49:1790–1794. doi: 10.1128/JCM.02135-10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.02135-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3122647</ArticleId>
+            <ArticleId IdType="pubmed">21411597</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

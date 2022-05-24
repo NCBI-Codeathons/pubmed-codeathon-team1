@@ -1,0 +1,393 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35403008</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>12</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">2666-1667</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>3</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+              <Day>17</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>STAR protocols</Title>
+          <ISOAbbreviation>STAR Protoc</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Assessment of dopaminergic neuron degeneration in a <i>C. elegans</i> model of Parkinson's disease.</ArticleTitle>
+        <Pagination>
+          <StartPage>101264</StartPage>
+          <MedlinePgn>101264</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">101264</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.xpro.2022.101264</ELocationID>
+        <Abstract>
+          <AbstractText>Transgenic <i>Caenorhabditis elegans</i> that expresses the full-length wild-type human α-synuclein in dopaminergic neurons provides a well-established Parkinson's disease (PD) nematode model. Here, we present a detailed protocol to monitor and dissect the molecular underpinnings of age-associated neurodegeneration using this PD nematode model. This protocol includes preparation of nematode growth media and bacterial food sources, as well as procedures for nematode growth, synchronization, and treatment. We then describe procedures to assess dopaminergic neuronal death <i>in vivo</i> using fluorescence imaging. For complete details on the use and execution of this protocol, please refer to SenGupta et al. (2021).</AbstractText>
+          <CopyrightInformation>© 2022 The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Palikaras</LastName>
+            <ForeName>Konstantinos</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Physiology, School of Medicine, National and Kapodistrian University of Athens, 11527 Athens, Greece.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>SenGupta</LastName>
+            <ForeName>Tanima</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Clinical Molecular Biology, University of Oslo, Oslo, Norway.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Clinical Molecular Biology, Akershus University Hospital, Lørenskog, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nilsen</LastName>
+            <ForeName>Hilde</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Clinical Molecular Biology, University of Oslo, Oslo, Norway.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Clinical Molecular Biology, Akershus University Hospital, Lørenskog, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tavernarakis</LastName>
+            <ForeName>Nektarios</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Molecular Biology and Biotechnology, Foundation for Research and Technology-Hellas, Heraklion, 71300 Crete, Greece.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Basic Sciences, Faculty of Medicine, University of Crete, Heraklion, 71300 Crete, Greece.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>31</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>STAR Protoc</MedlineTA>
+        <NlmUniqueID>101769501</NlmUniqueID>
+        <ISSNLinking>2666-1667</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D029742">Caenorhabditis elegans Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>VTD58H1Z2X</RegistryNumber>
+          <NameOfSubstance UI="D004298">Dopamine</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017173" MajorTopicYN="N">Caenorhabditis elegans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D029742" MajorTopicYN="Y">Caenorhabditis elegans Proteins</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004298" MajorTopicYN="N">Dopamine</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059290" MajorTopicYN="N">Dopaminergic Neurons</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010300" MajorTopicYN="Y">Parkinson Disease</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cell Biology</Keyword>
+        <Keyword MajorTopicYN="N">Model Organisms</Keyword>
+        <Keyword MajorTopicYN="N">Molecular Biology</Keyword>
+        <Keyword MajorTopicYN="N">Neuroscience</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>11</Day>
+          <Hour>5</Hour>
+          <Minute>33</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35403008</ArticleId>
+        <ArticleId IdType="pmc">PMC8983426</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.xpro.2022.101264</ArticleId>
+        <ArticleId IdType="pii">S2666-1667(22)00144-7</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Artal-Sanz M., Samara C., Syntichaki P., Tavernarakis N. Lysosomal biogenesis and function is critical for necrotic cell death in Caenorhabditis elegans. J. Cell Biol. 2006;173:231–239.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2063814</ArticleId>
+            <ArticleId IdType="pubmed">16636145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Coolon J.D., Jones K.L., Todd T.C., Carr B.C., Herman M.A. Caenorhabditis elegans genomic response to soil bacteria predicts environment-specific genetic effects on life history traits. PLoS Genet. 2009;5:e1000503.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2684633</ArticleId>
+            <ArticleId IdType="pubmed">19503598</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cooper J.F., Van Raamsdonk J.M. Modeling Parkinson's disease in C. elegans. J. Parkinsons Dis. 2018;8:17–32.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5836411</ArticleId>
+            <ArticleId IdType="pubmed">29480229</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Culetto E., Baylis H.A., Richmond J.E., Jones A.K., Fleming J.T., Squire M.D., Lewis J.A., Sattelle D.B. The Caenorhabditis elegans unc-63 gene encodes a levamisole-sensitive nicotinic acetylcholine receptor alpha subunit. J. Biol. Chem. 2004;279:42476–42483.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15280391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dong L., Cornaglia M., Krishnamani G., Zhang J., Mouchiroud L., Lehnert T., Auwerx J., Gijs M.A.M. Reversible and long-term immobilization in a hydrogel-microbead matrix for high-resolution imaging of Caenorhabditis elegans and other small organisms. PLoS One. 2018;13:e0193989.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5839568</ArticleId>
+            <ArticleId IdType="pubmed">29509812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fleming J.T., Squire M.D., Barnes T.M., Tornoe C., Matsuda K., Ahnn J., Fire A., Sulston J.E., Barnard E.A., Sattelle D.B., et al.  Caenorhabditis elegans levamisole resistance genes lev-1, unc-29, and unc-38 encode functional nicotinic acetylcholine receptor subunits. J. Neurosci. 1997;17:5843–5857.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6573193</ArticleId>
+            <ArticleId IdType="pubmed">9221782</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gracida X., Eckmann C.R. Fertility and germline stem cell maintenance under different diets requires nhr-114/HNF4 in C. elegans. Curr. Biol. 2013;23:607–613.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23499532</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Griffin E.F., Scopel S.E., Stephen C.A., Holzhauer A.C., Vaji M.A., Tuckey R.A., Berkowitz L.A., Caldwell K.A., Caldwell G.A. ApoE-associated modulation of neuroprotection from Abeta-mediated neurodegeneration in transgenic Caenorhabditis elegans. Dis. Model. Mech. 2019;12 dmm037218.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6398492</ArticleId>
+            <ArticleId IdType="pubmed">30683808</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim E., Sun L., Gabel C.V., Fang-Yen C. Long-term imaging of Caenorhabditis elegans using nanoparticle-mediated immobilization. PLoS One. 2013;8:e53419.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3536676</ArticleId>
+            <ArticleId IdType="pubmed">23301069</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim J., Poole D.S., Waggoner L.E., Kempf A., Ramirez D.S., Treschow P.A., Schafer W.R. Genes affecting the activity of nicotinic receptors involved in Caenorhabditis elegans egg-laying behavior. Genetics. 2001;157:1599–1610.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1461590</ArticleId>
+            <ArticleId IdType="pubmed">11290716</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kourtis N., Nikoletopoulou V., Tavernarakis N. Small heat-shock proteins protect from heat-stroke-associated neurodegeneration. Nature. 2012;490:213–218.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22972192</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>MacNeil L.T., Watson E., Arda H.E., Zhu L.J., Walhout A.J. Diet-induced developmental acceleration independent of TOR and insulin in C. elegans. Cell. 2013;153:240–252.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3821073</ArticleId>
+            <ArticleId IdType="pubmed">23540701</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maulik M., Mitra S., Bult-Ito A., Taylor B.E., Vayndorf E.M. Behavioral phenotyping and pathological indicators of Parkinson's disease in C. elegans models. Front. Genet. 2017;8:77.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5468440</ArticleId>
+            <ArticleId IdType="pubmed">28659967</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mondal S., Hegarty E., Martin C., Gokce S.K., Ghorashian N., Ben-Yakar A. Large-scale microfluidics providing high-resolution and high-throughput screening of Caenorhabditis elegans poly-glutamine aggregation model. Nat. Commun. 2016;7:13023.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5062571</ArticleId>
+            <ArticleId IdType="pubmed">27725672</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mondal S., Koushika S.P. Microfluidic devices for imaging trafficking events in vivo using genetic model organisms. Methods Mol. Biol. 2014;1174:375–396.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24947396</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Offenburger S.L., Ho X.Y., Tachie-Menson T., Coakley S., Hilliard M.A., Gartner A. 6-OHDA-induced dopaminergic neurodegeneration in Caenorhabditis elegans is promoted by the engulfment pathway and inhibited by the transthyretin-related protein TTR-33. PLoS Genet. 2018;14:e1007125.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5773127</ArticleId>
+            <ArticleId IdType="pubmed">29346382</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pang S., Curran S.P. Adaptive capacity to bacterial diet modulates aging in C. elegans. Cell Metab. 2014;19:221–231.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3979424</ArticleId>
+            <ArticleId IdType="pubmed">24440036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Podbilewicz B., Gruenbaum Y. Live imaging of Caenorhabditis elegans: preparation of samples. CSH Protoc. 2006;6 pdb.prot4601.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22485988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramachandran P.V., Mutlu A.S., Wang M.C. Label-free biomedical imaging of lipids by stimulated Raman scattering microscopy. Curr. Protoc. Mol. Biol. 2015;109 30.33.31-30.33.17.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4391497</ArticleId>
+            <ArticleId IdType="pubmed">25559108</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rieckher M., Markaki M., Princz A., Schumacher B., Tavernarakis N. Maintenance of proteostasis by P body-mediated regulation of eIF4E availability during aging in Caenorhabditis elegans. Cell Rep. 2018;25:199–211.e6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6180348</ArticleId>
+            <ArticleId IdType="pubmed">30282029</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rieckher M., Tavernarakis N. P-body and stress granule quantification in Caenorhabditis elegans. Bio Protoc. 2017;7:e2108.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5321477</ArticleId>
+            <ArticleId IdType="pubmed">28239624</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sato E., Suzuki T., Hoshi N., Sugino T., Hasegawa H. Sodium azide induces necrotic cell death in rat squamous cell carcinoma SCC131. Med. Mol. Morphol. 2008;41:211–220.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19107611</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>SenGupta T., Palikaras K., Esbensen Y.Q., Konstantinidis G., Galindo F.J.N., Achanta K., Kassahun H., Stavgiannoudaki I., Bohr V.A., Akbari M., et al.  Base excision repair causes age-dependent accumulation of single-stranded DNA breaks that contribute to Parkinson disease pathology. Cell Rep. 2021;36:109668.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8441048</ArticleId>
+            <ArticleId IdType="pubmed">34496255</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Steinkraus K.A., Smith E.D., Davis C., Carr D., Pendergrass W.R., Sutphin G.L., Kennedy B.K., Kaeberlein M. Dietary restriction suppresses proteotoxicity and enhances longevity by an hsf-1-dependent mechanism in Caenorhabditis elegans. Aging Cell. 2008;7:394–404.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2709959</ArticleId>
+            <ArticleId IdType="pubmed">18331616</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stiernagle T.  WormBook; 2006. Maintenance of C. elegans; pp. 1–11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4781397</ArticleId>
+            <ArticleId IdType="pubmed">18050451</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sulston J., Dew M., Brenner S. Dopaminergic neurons in the nematode Caenorhabditis elegans. J. Comp. Neurol. 1975;163:215–226.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">240872</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urrutia A., Garcia-Angulo V.A., Fuentes A., Caneo M., Legue M., Urquiza S., Delgado S.E., Ugalde J., Burdisso P., Calixto A. Bacterially produced metabolites protect C. elegans neurons from degeneration. PLoS Biol. 2020;18:e3000638.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7092960</ArticleId>
+            <ArticleId IdType="pubmed">32208418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vangheel M., Traunspurger W., Spann N. Effects of the antibiotic tetracycline on the reproduction, growth and population growth rate of the nematode Caenorhabditis elegans. Nematology. 2014;16:19–29.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Walston T., Hardin J. An agar mount for observation of Caenorhabditis elegans embryos. Cold Spring Harb Protoc. 2010;2010 pdb prot5540.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4036621</ArticleId>
+            <ArticleId IdType="pubmed">21123427</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang X., Li T., Hu J., Feng Z., Zhong R., Nie W., Yang X., Zou Y. In vivo imaging of a PVD neuron in Caenorhabditis elegans. STAR Protoc. 2021;2:100309.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7868634</ArticleId>
+            <ArticleId IdType="pubmed">33598656</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiao R., Chun L., Ronan E.A., Friedman D.I., Liu J., Xu X.Z. RNAi interrogation of dietary modulation of development, metabolism, behavior, and aging in C. elegans. Cell Rep. 2015;11:1123–1133.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4439342</ArticleId>
+            <ArticleId IdType="pubmed">25959815</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou J.J., Chun L., Liu J.F. A comprehensive understanding of dietary effects on C. elegans physiology. Curr. Med. Sci. 2019;39:679–684.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31612382</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

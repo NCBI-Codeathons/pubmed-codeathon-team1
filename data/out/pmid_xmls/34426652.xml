@@ -1,0 +1,575 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">34426652</PMID>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>10</Month>
+        <Day>02</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1476-5500</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Aug</Month>
+              <Day>23</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Cancer gene therapy</Title>
+          <ISOAbbreviation>Cancer Gene Ther</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Cholenic acid derivative UniPR1331 impairs tumor angiogenesis via blockade of VEGF/VEGFR2 in addition to Eph/ephrin.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41417-021-00379-5</ELocationID>
+        <Abstract>
+          <AbstractText>Angiogenesis, the formation of new blood vessels from preexisting ones, is crucial for tumor growth and metastatization, and is considered a promising therapeutic target. Unfortunately, drugs directed against a specific proangiogenic growth factor or receptor turned out to be of limited benefit for oncology patients, likely due to the high biochemical redundancy of the neovascularization process. In this scenario, multitarget compounds that are able to simultaneously tackle different proangiogenic pathways are eagerly awaited. UniPR1331 is a 3β-hydroxy-Δ<sup>5</sup>-cholenic acid derivative, which is already known to inhibit Eph-ephrin interaction. Here, we employed an analysis pipeline consisting of molecular modeling and simulation, surface plasmon resonance spectrometry, biochemical assays, and endothelial cell models to demonstrate that UniPR1331 directly interacts with the vascular endothelial growth factor receptor 2 (VEGFR2) too. The binding of UniPR1331 to VEGFR2 prevents its interaction with the natural ligand vascular endothelial growth factor and subsequent autophosphorylation, signal transduction, and in vitro proangiogenic activation of endothelial cells. In vivo, UniPR1331 inhibits tumor cell-driven angiogenesis in zebrafish. Taken together, these data shed light on the pleiotropic pharmacological effect of UniPR1331, and point to Δ<sup>5</sup>-cholenic acid as a promising molecular scaffold for the development of multitarget antiangiogenic compounds.</AbstractText>
+          <CopyrightInformation>© 2021. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Rusnati</LastName>
+            <ForeName>Marco</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Experimental Oncology and Immunology, Department of Molecular and Translational Medicine, University of Brescia, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Paiardi</LastName>
+            <ForeName>Giulia</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Experimental Oncology and Immunology, Department of Molecular and Translational Medicine, University of Brescia, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Molecular and Cellular Modeling Group, Heidelberg Institute for Theoretical Studies, Heidelberg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tobia</LastName>
+            <ForeName>Chiara</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Experimental Oncology and Immunology, Department of Molecular and Translational Medicine, University of Brescia, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Urbinati</LastName>
+            <ForeName>Chiara</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Experimental Oncology and Immunology, Department of Molecular and Translational Medicine, University of Brescia, Brescia, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lodola</LastName>
+            <ForeName>Alessio</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0002-8675-1002</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Food and Drug, University of Parma, Parma, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>D'Ursi</LastName>
+            <ForeName>Pasqualina</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute for Biomedical Technologies, National Research Council (ITB-CNR), Segrate, MI, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Corrado</LastName>
+            <ForeName>Miriam</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Food and Drug, University of Parma, Parma, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Castelli</LastName>
+            <ForeName>Riccardo</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Food and Drug, University of Parma, Parma, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wade</LastName>
+            <ForeName>Rebecca C</ForeName>
+            <Initials>RC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Molecular and Cellular Modeling Group, Heidelberg Institute for Theoretical Studies, Heidelberg, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Molecular Biology (ZMBH), DKFZ-ZMBH Alliance, Heidelberg University, Heidelberg, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Interdisciplinary Center for Scientific Computing (IWR), Heidelberg University, Heidelberg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tognolini</LastName>
+            <ForeName>Massimiliano</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Food and Drug, University of Parma, Parma, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chiodelli</LastName>
+            <ForeName>Paola</ForeName>
+            <Initials>P</Initials>
+            <Identifier Source="ORCID">0000-0002-8702-0623</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Experimental Oncology and Immunology, Department of Molecular and Translational Medicine, University of Brescia, Brescia, Italy. paola.chiodelli@unibs.it.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>08</Month>
+          <Day>23</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Cancer Gene Ther</MedlineTA>
+        <NlmUniqueID>9432230</NlmUniqueID>
+        <ISSNLinking>0929-1903</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="ErratumIn">
+          <RefSource>Cancer Gene Ther. 2021 Sep 30;:</RefSource>
+          <PMID Version="1">34593982</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>4</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>13</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34426652</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41417-021-00379-5</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41417-021-00379-5</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Presta M, Dell’Era P, Mitola S, Moroni E, Ronca R, Rusnati M. Fibroblast growth factor/fibroblast growth factor receptor system in angiogenesis. Cytokine Growth Factor Rev. 2005;16:159–78.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15863032</ArticleId>
+            <ArticleId IdType="pmc">15863032</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Claesson-Welsh L, Welsh M. VEGFA and tumour angiogenesis. J Intern Med. 2013;273:114–27.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23216836</ArticleId>
+            <ArticleId IdType="pmc">23216836</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brozzo MS, Bjelic S, Kisko K, Schleier T, Leppanen VM, Alitalo K, et al. Thermodynamic and structural description of allosterically regulated VEGFR-2 dimerization. Blood. 2012;119:1781–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22207738</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pitulescu ME, Adams RH. Regulation of signaling interactions and receptor endocytosis in growing blood vessels. Cell Adhes Migr. 2014;8:366–77.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Martiny-Baron G, Holzer P, Billy E, Schnell C, Brueggen J, Ferretti M, et al. The small molecule specific EphB4 kinase inhibitor NVP-BHG712 inhibits VEGF driven angiogenesis. Angiogenesis. 2010;13:259–67.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20803239</ArticleId>
+            <ArticleId IdType="pmc">20803239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tae N, Lee S, Kim O, Park J, Na S, Lee JH. Syntenin promotes VEGF-induced VEGFR2 endocytosis and angiogenesis by increasing ephrin-B2 function in endothelial cells. Oncotarget. 2017;8:38886–901.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28418925</ArticleId>
+            <ArticleId IdType="pmc">28418925</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boyd AW, Bartlett PF, Lackmann M. Therapeutic targeting of EPH receptors and their ligands. Nat Rev Drug Discov. 2014;13:39–62.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24378802</ArticleId>
+            <ArticleId IdType="pmc">24378802</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramjiawan RR, Griffioen AW, Duda DG. Anti-angiogenesis for cancer revisited: is there a role for combinations with immunotherapy? Angiogenesis. 2017;20:185–204.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28361267</ArticleId>
+            <ArticleId IdType="pmc">28361267</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiao T, Xiao Y, Wang W, Tang YY, Xiao Z, Su M. Targeting EphA2 in cancer. J Hematol Oncol. 2020;13:114.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7433191</ArticleId>
+            <ArticleId IdType="pmc">7433191</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eggert A, Ikegaki N, Kwiatkowski J, Zhao H, Brodeur GM, Himelstein BP. High-level expression of angiogenic factors is associated with advanced tumor stage in human neuroblastomas. Clin Cancer Res. 2000;6:1900–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10815914</ArticleId>
+            <ArticleId IdType="pmc">10815914</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rusnati M, Presta M. Extracellular angiogenic growth factor interactions: an angiogenesis interactome survey. Endothelium. 2006;13:93–111.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16728328</ArticleId>
+            <ArticleId IdType="pmc">16728328</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chiodelli P, Bugatti A, Urbinati C, Rusnati M. Heparin/heparan sulfate proteoglycans glycomic interactome in angiogenesis: biological implications and therapeutical use. Molecules. 2015;20:6342–88.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">6272510</ArticleId>
+            <ArticleId IdType="pmc">6272510</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Russo M, Giavazzi R. Anti-angiogenesis for cancer: current status and prospects. Thrombosis Res. 2018;164:S3–6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Festuccia C, Gravina GL, Giorgio C, Mancini A, Pellegrini C, Colapietro A, et al. UniPR1331, a small molecule targeting Eph/ephrin interaction, prolongs survival in glioblastoma and potentiates the effect of antiangiogenic therapy in mice. Oncotarget. 2018;9:24347–63.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">5966254</ArticleId>
+            <ArticleId IdType="pmc">5966254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fujita Y, Abe R, Shimizu H. Clinical approaches toward tumor angiogenesis: past, present and future. Curr Pharm Des. 2008;14:3820–34.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sestito S, Runfola M, Tonelli M, Chiellini G, Rapposelli S. New multitarget approaches in the war against glioblastoma: a mini-perspective. Front Pharmacol. 2018;9:874.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">6085564</ArticleId>
+            <ArticleId IdType="pmc">6085564</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rusnati M, Urbinati C. Polysulfated/sulfonated compounds for the development of drugs at the crossroad of viral infection and oncogenesis. Curr Pharm Des. 2009;15:2946–57.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pellecchia M. Antagonists of protein-protein interactions made easy? J Med Chem. 2013;56:13–4.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Giorgio C, Incerti M, Pala D, Russo S, Chiodelli P, Rusnati M, et al. Inhibition of Eph/ephrin interaction with the small molecule UniPR500 improves glucose tolerance in healthy and insulin-resistant mice. Pharmacol Res. 2019;141:319–30.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Giorgio C, Incerti M, Corrado M, Rusnati M, Chiodelli P, Russo S, et al. Pharmacological evaluation of new bioavailable small molecules targeting Eph/ephrin interaction. Biochem Pharmacol. 2018;147:21–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29129483</ArticleId>
+            <ArticleId IdType="pmc">29129483</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Giorgio C, Russo S, Incerti M, Bugatti A, Vacondio F, Barocelli E, et al. Biochemical characterization of EphA2 antagonists with improved physico-chemical properties by cell-based assays and surface plasmon resonance analysis. Biochem Pharmacol. 2016;99:18–30.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Castelli R, Tognolini M, Vacondio F, Incerti M, Pala D, Callegari D, et al. Delta(5)-cholenoyl-amino acids as selective and orally available antagonists of the Eph-ephrin system. Eur J Med Chem. 2015;103:312–24.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26363867</ArticleId>
+            <ArticleId IdType="pmc">26363867</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chiodelli P, Urbinati C, Mitola S, Tanghetti E, Rusnati M. Sialic acid associated with alphavbeta3 integrin mediates HIV-1 Tat protein interaction and endothelial cell proangiogenic activation. J Biol Chem. 2012;287:20456–66.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22528484</ArticleId>
+            <ArticleId IdType="pmc">22528484</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bugatti A, Giagulli C, Urbinati C, Caccuri F, Chiodelli P, Oreste P, et al. Molecular interaction studies of HIV-1 matrix protein p17 and heparin: identification of the heparin-binding motif of p17 as a target for the development of multitarget antagonists. J Biol Chem. 2013;288:1150–61.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23166320</ArticleId>
+            <ArticleId IdType="pmc">23166320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tognolini M, Giorgio C, Hassan Mohamed I, Barocelli E, Calani L, Reynaud E, et al. Perturbation of the EphA2-EphrinA1 system in human prostate cancer cells by colonic (poly)phenol catabolites. J Agric Food Chem. 2012;60:8877–84.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22409255</ArticleId>
+            <ArticleId IdType="pmc">22409255</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chiodelli P, Mitola S, Ravelli C, Oreste P, Rusnati M, Presta M. Heparan sulfate proteoglycans mediate the angiogenic activity of the vascular endothelial growth factor receptor-2 agonist gremlin. Arterioscle, Thrombosis, Vasc Biol. 2011;31:e116–27.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Esko JD. Genetic analysis of proteoglycan structure, function and metabolism. Curr Opin Cell Biol. 1991;3:805–16.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1931081</ArticleId>
+            <ArticleId IdType="pmc">1931081</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chiodelli P, Rezzola S, Urbinati C, Federici Signori F, Monti E, Ronca R, et al. Contribution of vascular endothelial growth factor receptor-2 sialylation to the process of angiogenesis. Oncogene. 2017;36:6531–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28783175</ArticleId>
+            <ArticleId IdType="pmc">28783175</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jensen RL. Growth factor-mediated angiogenesis in the malignant progression of glial tumors: a review. Surg Neurol. 1998;49:189–95.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9457270</ArticleId>
+            <ArticleId IdType="pmc">9457270</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Westerfiled M. The zebrafish book. A guide for the laboratory use of zebrafish (Danio rerio). 4th ed. Univ. of Oregon Press, Eugene. 2010.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nicoli S, De Sena G, Presta M. Fibroblast growth factor 2-induced angiogenesis in zebrafish: the zebrafish yolk membrane (ZFYM) angiogenesis assay. J Cell Mol Med. 2009;13:2061–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18657228</ArticleId>
+            <ArticleId IdType="pmc">18657228</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Leppanen VM, Prota AE, Jeltsch M, Anisimov A, Kalkkinen N, Strandin T, et al. Structural determinants of growth factor binding and specificity by VEGF receptor 2. Proc Natl Acad Sci USA. 2010;107:2425–30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20145116</ArticleId>
+            <ArticleId IdType="pmc">20145116</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grunewald FS, Prota AE, Giese A, Ballmer-Hofer K. Structure-function analysis of VEGF receptor activation and the role of coreceptors in angiogenic signaling. Biochim Biophys Acta. 2010;1804:567–80.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19761875</ArticleId>
+            <ArticleId IdType="pmc">19761875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rezzola S, Dal Monte M, Belleri M, Bugatti A, Chiodelli P, Corsini M, et al. Therapeutic potential of anti-angiogenic multitarget N,O-sulfated E. Coli K5 polysaccharide in diabetic retinopathy. Diabetes. 2015;64:2581–92.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25695948</ArticleId>
+            <ArticleId IdType="pmc">25695948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gourlaouen M, Welti JC, Vasudev NS, Reynolds AR. Essential role for endocytosis in the growth factor-stimulated activation of ERK1/2 in endothelial cells. J Biol Chem. 2013;288:7467–80.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23341459</ArticleId>
+            <ArticleId IdType="pmc">23341459</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Santos SC, Miguel C, Domingues I, Calado A, Zhu Z, Wu Y, et al. VEGF and VEGFR-2 (KDR) internalization is required for endothelial recovery during wound healing. Exp Cell Res. 2007;313:1561–74.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17382929</ArticleId>
+            <ArticleId IdType="pmc">17382929</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hamaoka Y, Negishi M, Katoh H. Tyrosine kinase activity of EphA2 promotes its S897 phosphorylation and glioblastoma cell proliferation. Biochem Biophys Res Commun. 2018;499:920–6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tang FY, Chiang EP, Shih CJ. Green tea catechin inhibits ephrin-A1-mediated cell migration and angiogenesis of human umbilical vein endothelial cells. J Nutr Biochem. 2007;18:391–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17049832</ArticleId>
+            <ArticleId IdType="pmc">17049832</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin Y, Zhai E, Liao B, Xu L, Zhang X, Peng S, et al. Autocrine VEGF signaling promotes cell proliferation through a PLC-dependent pathway and modulates apatinib treatment efficacy in gastric cancer. Oncotarget. 2017;8:11990–2002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28061477</ArticleId>
+            <ArticleId IdType="pmc">28061477</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bates DO, Hillman NJ, Williams B, Neal CR, Pocock TM. Regulation of microvascular permeability by vascular endothelial growth factors. J Anat. 2002;200:581–97.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1570751</ArticleId>
+            <ArticleId IdType="pmc">1570751</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gavard J. Endothelial permeability and VE-cadherin: a wacky comradeship. Cell Adhes Migr. 2014;8:158–64.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gavard J, Gutkind JS. VEGF controls endothelial-cell permeability by promoting the beta-arrestin-dependent endocytosis of VE-cadherin. Nat Cell Biol. 2006;8:1223–34.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>De Palma M, Biziato D, Petrova TV. Microenvironmental regulation of tumour angiogenesis. Nat Rev Cancer. 2017;17:457–74.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28706266</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lauder H, Frost EE, Hiley CR, Fan TP. Quantification of the repair process involved in the repair of a cell monolayer using an in vitro model of mechanical injury. Angiogenesis. 1998;2:67–80.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Peverali FA, Mandriota SJ, Ciana P, Marelli R, Quax P, Rifkin DB, et al. Tumor cells secrete an angiogenic factor that stimulates basic fibroblast growth factor and urokinase expression in vascular endothelial cells. J Cell Physiol. 1994;161:1–14.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tobia C, De Sena G, Presta M. Zebrafish embryo, a tool to study tumor angiogenesis. Int J Dev Biol. 2011;55:505–9.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lodola A, Giorgio C, Incerti M, Zanotti I, Tognolini M. Targeting Eph/ephrin system in cancer therapy. Eur J Med Chem. 2017;142:152–62.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang XY, Zhang PY. Combinations in multimodality treatments and clinical outcomes during cancer. Oncol Lett. 2016;12:4301–4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">5228028</ArticleId>
+            <ArticleId IdType="pmc">5228028</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>John A, Qin B, Kalari KR, Wang L, Yu J. Patient-specific multi-omics models and the application in personalized combination therapy. Future Oncol. 2020;16:1737–50.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen JC, Chang YW, Hong CC, Yu YH, Su JL. The role of the VEGF-C/VEGFRs axis in tumor progression and therapy. Int J Mol Sci. 2012;14:88–107.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23344023</ArticleId>
+            <ArticleId IdType="pmc">23344023</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen Y, Zhang H, Zhang Y. Targeting receptor tyrosine kinase EphB4 in cancer therapy. Semin Cancer Biol. 2019;56:37–46.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28993206</ArticleId>
+            <ArticleId IdType="pmc">28993206</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pasquale EB. Eph receptors and ephrins in cancer: bidirectional signalling and beyond. Nat Rev Cancer. 2010;10:165–80.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20179713</ArticleId>
+            <ArticleId IdType="pmc">20179713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Groppa E, Brkic S, Uccelli A, Wirth G, Korpisalo-Pirinen P, Filippova M, et al. EphrinB2/EphB4 signaling regulates non-sprouting angiogenesis by VEGF. EMBO Rep. 2018;19:e45054.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sawamiphak S, Seidel S, Essmann CL, Wilkinson GA, Pitulescu ME, Acker T, et al. Ephrin-B2 regulates VEGFR2 function in developmental and tumour angiogenesis. Nature. 2010;465:487–91.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20445540</ArticleId>
+            <ArticleId IdType="pmc">20445540</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chrencik JE, Brooun A, Recht MI, Kraus ML, Koolpe M, Kolatkar AR, et al. Structure and thermodynamic characterization of the EphB4/ephrin-B2 antagonist peptide complex reveals the determinants for receptor specificity. Structure. 2006;14:321–30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16472751</ArticleId>
+            <ArticleId IdType="pmc">16472751</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Basagiannis D, Zografou S, Galanopoulou K, Christoforidis S. Dynasore impairs VEGFR2 signalling in an endocytosis-independent manner. Sci Rep. 2017;7:45035.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">5361198</ArticleId>
+            <ArticleId IdType="pmc">5361198</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li H, Nelson CE, Evans BC, Duvall CL. Delivery of intracellular-acting biologics in pro-apoptotic therapies. Curr Pharm Des. 2011;17:293–319.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3564970</ArticleId>
+            <ArticleId IdType="pmc">3564970</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang S, Mao Y, Zhang H, Xu Y, An J, Huang Z. The chemical biology of apoptosis: revisited after 17 years. Eur J Med Chem. 2019;177:63–75.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kim MM, Umemura Y, Leung D. Bevacizumab and glioblastoma: past, present, and future directions. Cancer J. 2018;24:180–6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Semeraro F, Morescalchi F, Cancarini A, Russo A, Rezzola S, Costagliola C. Diabetic retinopathy, a vascular and inflammatory disease: therapeutic implications. Diabetes Metab. 2019;45:517–27.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shim JW, Madsen JR. VEGF signaling in neurological disorders. Int J Mol Sci. 2018;19:275.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Carpenter TC, Schroeder W, Stenmark KR, Schmidt EP. Eph-A2 promotes permeability and inflammatory responses to bleomycin-induced lung injury. Am J Respir Cell Mol Biol. 2012;46:40–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3262654</ArticleId>
+            <ArticleId IdType="pmc">3262654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aguilar-Cazares D, Chavez-Dominguez R, Carlos-Reyes A, Lopez-Camarillo C, Hernadez de la Cruz ON, Lopez-Gonzalez JS. Contribution of angiogenesis to inflammation and cancer. Front Oncol. 2019;9:1399.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">6920210</ArticleId>
+            <ArticleId IdType="pmc">6920210</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>di Somma M, Vliora M, Grillo E, Castro B, Dakou E, Schaafsma W, et al. Role of VEGFs in metabolic disorders. Angiogenesis. 2020;23:119–30.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liu H, Devraj K, Moller K, Liebner S, Hecker M, Korff T. EphrinB-mediated reverse signalling controls junctional integrity and pro-inflammatory differentiation of endothelial cells. Thrombosis Haemost. 2014;112:151–63.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen F, Liu Z, Peng W, Gao Z, Ouyang H, Yan T, et al. Activation of EphA4 induced by EphrinA1 exacerbates disruption of the blood-brain barrier following cerebral ischemia-reperfusion via the Rho/ROCK signaling pathway. Exp Ther Med. 2018;16:2651–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">6122430</ArticleId>
+            <ArticleId IdType="pmc">6122430</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gu S, Fu WY, Fu AKY, Tong EPS, Ip FCF, Huang X, et al. Identification of new EphA4 inhibitors by virtual screening of FDA-approved drugs. Sci Rep. 2018;8:7377.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29743517</ArticleId>
+            <ArticleId IdType="pmc">29743517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

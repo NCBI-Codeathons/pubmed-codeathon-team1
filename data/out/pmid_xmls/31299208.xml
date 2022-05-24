@@ -1,0 +1,187 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">31299208</PMID>
+      <DateCompleted>
+        <Year>2020</Year>
+        <Month>01</Month>
+        <Day>13</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>01</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1097-4164</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>75</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>Jul</Month>
+              <Day>11</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Molecular cell</Title>
+          <ISOAbbreviation>Mol Cell</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Single-Cell RNA Sequencing in Cancer: Lessons Learned and Emerging Challenges.</ArticleTitle>
+        <Pagination>
+          <StartPage>7</StartPage>
+          <EndPage>12</EndPage>
+          <MedlinePgn>7-12</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.molcel.2019.05.003</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S1097-2765(19)30356-9</ELocationID>
+        <Abstract>
+          <AbstractText>Bulk genomic analyses and expression profiling of clinical specimens have shaped much of our understanding of cancer in patients. However, human tumors are intricate ecosystems composed of diverse cells, including malignant, immune, and stromal subsets, whose precise characterization is masked by bulk genomic methods. Single-cell genomic techniques have emerged as powerful approaches to dissect human tumors at the resolution of individual cells, providing a compelling approach to deciphering cancer biology. Here, we discuss some of the common themes emerging from initial studies of single-cell RNA sequencing in cancer and then highlight challenges in cancer biology for which emerging single-cell genomics methods may provide a compelling approach.</AbstractText>
+          <CopyrightInformation>Copyright © 2019 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Suvà</LastName>
+            <ForeName>Mario L</ForeName>
+            <Initials>ML</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology and Center for Cancer Research, Massachusetts General Hospital and Harvard Medical School, Boston, MA 02114, USA; Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA. Electronic address: suva.mario@mgh.harvard.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tirosh</LastName>
+            <ForeName>Itay</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Molecular Cell Biology, Weizmann Institute of Science, Rehovot 761001, Israel. Electronic address: itay.tirosh@weizmann.ac.il.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Mol Cell</MedlineTA>
+        <NlmUniqueID>9802571</NlmUniqueID>
+        <ISSNLinking>1097-2765</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D012334">RNA, Neoplasm</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000970" MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002450" MajorTopicYN="N">Cell Communication</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019070" MajorTopicYN="N">Cell Lineage</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015972" MajorTopicYN="Y">Gene Expression Regulation, Neoplastic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059014" MajorTopicYN="N">High-Throughput Nucleotide Sequencing</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009369" MajorTopicYN="N">Neoplasms</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009360" MajorTopicYN="N">Neoplastic Cells, Circulating</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012334" MajorTopicYN="N">RNA, Neoplasm</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059010" MajorTopicYN="N">Single-Cell Analysis</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">single-cell RNA-seq</Keyword>
+        <Keyword MajorTopicYN="Y">single-cell genomics</Keyword>
+        <Keyword MajorTopicYN="Y">tumor heterogeneity</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2019</Year>
+          <Month>1</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2019</Year>
+          <Month>4</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2019</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>7</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>7</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2020</Year>
+          <Month>1</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31299208</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.molcel.2019.05.003</ArticleId>
+        <ArticleId IdType="pii">S1097-2765(19)30356-9</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

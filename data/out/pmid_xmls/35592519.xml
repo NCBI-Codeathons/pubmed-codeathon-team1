@@ -1,0 +1,932 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35592519</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>23</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">2314-6141</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>2022</Volume>
+            <PubDate>
+              <Year>2022</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>BioMed research international</Title>
+          <ISOAbbreviation>Biomed Res Int</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Identification of m6A-Related lncRNA to Predict the Prognosis of Patients with Hepatocellular Carcinoma.</ArticleTitle>
+        <Pagination>
+          <StartPage>4169150</StartPage>
+          <MedlinePgn>4169150</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">4169150</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1155/2022/4169150</ELocationID>
+        <Abstract>
+          <AbstractText>Hepatocellular carcinoma (HCC) is the third leading cause of cancer-related death worldwide. In the past decades, HCC treatment has achieved great progress; however, the overall prognosis remains poor. Therefore, it is the need of the hour to identify new prognostic biomarkers which can advance our understanding related to the underlying molecular mechanism of adverse prognosis and apply them to clinical work in prognosis prediction. In the present study, data of 576 HCC patients and 292 normal control cases from TCGA and ICGC databases were enrolled to our bioinformatic analysis. SNHG1 and SNHG3 were identified as overlapping genes in TCGA and ICGC databases using Pearson correlation analysis and univariate Cox regression analysis. Further, we used the median of the SNHG1 and SNHG3 expression values as the cutoff values to define the HCC patient groups with high or low expression level. The subsequent analysis revealed that abnormal high expression of SNHG1 or SNHG3 affected the immune infiltration patterns and the crosstalk among immune cells. Moreover, high expression of SNHG1 or SNHG3 resulted in drug resistant to AKT inhibitor VII, bexarotene, bicalutamide, dasatinib, erlotinib, and gefitinib. In addition, lower tumor neoantigen burden was observed in high SNHG1 or SNHG3 group. Further, we found significant relation between the aberrant upregulation of SNHG1 and SNHG3 in tumor grade and stage. We established a nomogram to systematically predict the 5- and 8-year overall survival of liver cancer patients with good accuracy. Finally, the in vitro assays suggest that SNHG1 and SNHG3 promote the proliferative, migratory, and invasive abilities of HCC cells.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Hao Yang et al.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Hao</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiation Oncology, Inner Mongolia Cancer Hospital &amp; Affiliated People's Hospital of Inner Mongolia Medical University, Huhhot 010020, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The Laboratory of Radiation Physics and Biology, Inner Mongolia Cancer Hospital &amp; Affiliated People's Hospital of Inner Mongolia Medical University, Huhhot 010020, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Hong</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Oncology, Inner Mongolia People's Hospital, Huhhot, Inner Mongolia, 010017, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Wei</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiation Oncology, Inner Mongolia Cancer Hospital &amp; Affiliated People's Hospital of Inner Mongolia Medical University, Huhhot 010020, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The Laboratory of Radiation Physics and Biology, Inner Mongolia Cancer Hospital &amp; Affiliated People's Hospital of Inner Mongolia Medical University, Huhhot 010020, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Juping</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiation Oncology, Inner Mongolia Cancer Hospital &amp; Affiliated People's Hospital of Inner Mongolia Medical University, Huhhot 010020, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The Laboratory of Radiation Physics and Biology, Inner Mongolia Cancer Hospital &amp; Affiliated People's Hospital of Inner Mongolia Medical University, Huhhot 010020, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sun</LastName>
+            <ForeName>Liping</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiation Oncology, Inner Mongolia Cancer Hospital &amp; Affiliated People's Hospital of Inner Mongolia Medical University, Huhhot 010020, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The Laboratory of Radiation Physics and Biology, Inner Mongolia Cancer Hospital &amp; Affiliated People's Hospital of Inner Mongolia Medical University, Huhhot 010020, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gao</LastName>
+            <ForeName>Juan</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiation Oncology, Inner Mongolia Cancer Hospital &amp; Affiliated People's Hospital of Inner Mongolia Medical University, Huhhot 010020, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The Laboratory of Radiation Physics and Biology, Inner Mongolia Cancer Hospital &amp; Affiliated People's Hospital of Inner Mongolia Medical University, Huhhot 010020, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Haiping</ForeName>
+            <Initials>H</Initials>
+            <Identifier Source="ORCID">0000-0003-1600-8982</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Abdominal Tumor Surgery, Affiliated Hospital of Inner Mongolia Medical University, Huhhot 010020, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Zhenfei</ForeName>
+            <Initials>Z</Initials>
+            <Identifier Source="ORCID">0000-0003-0563-6318</Identifier>
+            <AffiliationInfo>
+              <Affiliation>The Laboratory of Radiation Physics and Biology, Inner Mongolia Cancer Hospital &amp; Affiliated People's Hospital of Inner Mongolia Medical University, Huhhot 010020, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The Laboratory for Tumor Molecular Diagnosis, Inner Mongolia Medical University, Huhhot 010020, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>09</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Biomed Res Int</MedlineTA>
+        <NlmUniqueID>101600173</NlmUniqueID>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D062085">RNA, Long Noncoding</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D006528" MajorTopicYN="Y">Carcinoma, Hepatocellular</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015972" MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008113" MajorTopicYN="Y">Liver Neoplasms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D062085" MajorTopicYN="Y">RNA, Long Noncoding</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>All authors declare that there is no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>20</Day>
+          <Hour>2</Hour>
+          <Minute>25</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35592519</ArticleId>
+        <ArticleId IdType="pmc">PMC9112178</ArticleId>
+        <ArticleId IdType="doi">10.1155/2022/4169150</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Bray F., Ferlay J., Soerjomataram I., Siegel R. L., Torre L. A., Jemal A. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. 
+CA: a Cancer Journal for Clinicians
+. 2018;68(6):394–424. doi: 10.3322/caac.21492.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3322/caac.21492</ArticleId>
+            <ArticleId IdType="pubmed">30207593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang J. D., Hainaut P., Gores G. J., Amadou A., Plymoth A., Roberts L. R. A global view of hepatocellular carcinoma: trends, risk, prevention and management. 
+Nature Reviews. Gastroenterology &amp; Hepatology
+. 2019;16(10):589–604. doi: 10.1038/s41575-019-0186-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41575-019-0186-y</ArticleId>
+            <ArticleId IdType="pmc">PMC6813818</ArticleId>
+            <ArticleId IdType="pubmed">31439937</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schweitzer A., Horn J., Mikolajczyk R. T., Krause G., Ott J. J. Estimations of worldwide prevalence of chronic hepatitis B virus infection: a systematic review of data published between 1965 and 2013. 
+Lancet
+. 2015;386(10003):1546–1555. doi: 10.1016/S0140-6736(15)61412-X.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0140-6736(15)61412-X</ArticleId>
+            <ArticleId IdType="pubmed">26231459</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng P., Cheng Y., Su M. X., et al.  Bicluster and pathway enrichment analysis of HCV-induced cirrhosis and hepatocellular carcinoma. 
+Asian Pacific Journal of Cancer Prevention
+. 2012;13(8):3741–3745. doi: 10.7314/APJCP.2012.13.8.3741.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7314/APJCP.2012.13.8.3741</ArticleId>
+            <ArticleId IdType="pubmed">23098464</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Desrosiers R., Friderici K., Rottman F. Identification of methylated nucleosides in messenger RNA from Novikoff hepatoma cells. 
+Proceedings of the National Academy of Sciences of the United States of America
+. 1974;71(10):3971–3975. doi: 10.1073/pnas.71.10.3971.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.71.10.3971</ArticleId>
+            <ArticleId IdType="pmc">PMC434308</ArticleId>
+            <ArticleId IdType="pubmed">4372599</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wei C. M., Gershowitz A., Moss B. Methylated nucleotides block 5′ terminus of HeLa cell messenger RNA. 
+Cell
+. 1975;4(4):379–386. doi: 10.1016/0092-8674(75)90158-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0092-8674(75)90158-0</ArticleId>
+            <ArticleId IdType="pubmed">164293</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dominissini D., Moshitch-Moshkovitz S., Schwartz S., et al.  Topology of the human and mouse m6A RNA methylomes revealed by m6A-seq. 
+Nature
+. 2012;485(7397):201–206. doi: 10.1038/nature11112.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature11112</ArticleId>
+            <ArticleId IdType="pubmed">22575960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meyer K. D., Saletore Y., Zumbo P., Elemento O., Mason C. E., Jaffrey S. R. Comprehensive analysis of mRNA methylation reveals enrichment in 3′ UTRs and near stop codons. 
+Cell
+. 2012;149(7):1635–1646. doi: 10.1016/j.cell.2012.05.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2012.05.003</ArticleId>
+            <ArticleId IdType="pmc">PMC3383396</ArticleId>
+            <ArticleId IdType="pubmed">22608085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao B. S., Roundtree I. A., He C. Post-transcriptional gene regulation by mRNA modifications. 
+Nature Reviews. Molecular Cell Biology
+. 2017;18(1):31–42. doi: 10.1038/nrm.2016.132.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrm.2016.132</ArticleId>
+            <ArticleId IdType="pmc">PMC5167638</ArticleId>
+            <ArticleId IdType="pubmed">27808276</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ma J. Z., Yang F., Zhou C. C., et al.  METTL14 suppresses the metastatic potential of hepatocellular carcinoma by modulating N6-methyladenosine-dependent primary microRNA processing. 
+Hepatology
+. 2017;65(2):529–543. doi: 10.1002/hep.28885.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hep.28885</ArticleId>
+            <ArticleId IdType="pubmed">27774652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cui Q., Shi H., Ye P., et al.  m6A RNA methylation regulates the self-renewal and tumorigenesis of glioblastoma stem cells. 
+Cell Reports
+. 2017;18(11):2622–2634. doi: 10.1016/j.celrep.2017.02.059.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2017.02.059</ArticleId>
+            <ArticleId IdType="pmc">PMC5479356</ArticleId>
+            <ArticleId IdType="pubmed">28297667</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen M., Wei L., Law C. T., et al.  RNA N6‐methyladenosine methyltransferase‐like 3 promotes liver cancer progression through YTHDF2‐dependent posttranscriptional silencing of SOCS2. 
+Hepatology
+. 2018;67(6):2254–2270. doi: 10.1002/hep.29683.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hep.29683</ArticleId>
+            <ArticleId IdType="pubmed">29171881</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Y., Yang L., Chen T., et al.  A novel lncRNA MCM3AP-AS1 promotes the growth of hepatocellular carcinoma by targeting miR-194-5p/FOXA1 axis. 
+Molecular Cancer
+. 2019;18(1):p. 28. doi: 10.1186/s12943-019-0957-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12943-019-0957-7</ArticleId>
+            <ArticleId IdType="pmc">PMC6381672</ArticleId>
+            <ArticleId IdType="pubmed">30782188</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen Y., Peng C., Chen J., et al.  WTAP facilitates progression of hepatocellular carcinoma via m6A-HuR-dependent epigenetic silencing of ETS1. 
+Molecular Cancer
+. 2019;18(1):p. 127. doi: 10.1186/s12943-019-1053-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12943-019-1053-8</ArticleId>
+            <ArticleId IdType="pmc">PMC6704583</ArticleId>
+            <ArticleId IdType="pubmed">31438961</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhong L., Liao D., Zhang M., et al.  YTHDF2 suppresses cell proliferation and growth via destabilizing the EGFR mRNA in hepatocellular carcinoma. 
+Cancer Letters
+. 2019;442:252–261. doi: 10.1016/j.canlet.2018.11.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.canlet.2018.11.006</ArticleId>
+            <ArticleId IdType="pubmed">30423408</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang C., Huang S., Zhuang H., et al.  YTHDF2 promotes the liver cancer stem cell phenotype and cancer metastasis by regulating OCT4 expression via m6A RNA methylation. 
+Oncogene
+. 2020;39(23):4507–4518. doi: 10.1038/s41388-020-1303-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41388-020-1303-7</ArticleId>
+            <ArticleId IdType="pubmed">32366907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li J., Zhu L., Shi Y., Liu J., Lin L., Chen X. m6A demethylase FTO promotes hepatocellular carcinoma tumorigenesis via mediating PKM2 demethylation. 
+American Journal of Translational Research
+. 2019;11(9):6084–6092.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6789218</ArticleId>
+            <ArticleId IdType="pubmed">31632576</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou S., Bai Z. L., Xia D., et al.  FTO regulates the chemo-radiotherapy resistance of cervical squamous cell carcinoma (CSCC) by targeting β-catenin through mRNA demethylation. 
+Molecular Carcinogenesis
+. 2018;57(5):590–597. doi: 10.1002/mc.22782.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/mc.22782</ArticleId>
+            <ArticleId IdType="pubmed">29315835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fukumoto T., Zhu H., Nacarelli T., et al.  N&lt;sup&gt;6&lt;/sup&gt;-methylation of adenosine of &lt;i&gt;FZD10&lt;/i&gt; mRNA contributes to PARP inhibitor resistance. 
+Cancer Research
+. 2019;79(11):2812–2820. doi: 10.1158/0008-5472.CAN-18-3592.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-18-3592</ArticleId>
+            <ArticleId IdType="pmc">PMC6548690</ArticleId>
+            <ArticleId IdType="pubmed">30967398</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou T., Li S., Xiang D., et al.  m6A RNA methylation-mediated HNF3γ reduction renders hepatocellular carcinoma dedifferentiation and sorafenib resistance. 
+Signal Transduction and Targeted Therapy
+. 2020;5(1):p. 296. doi: 10.1038/s41392-020-00299-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41392-020-00299-0</ArticleId>
+            <ArticleId IdType="pmc">PMC7762754</ArticleId>
+            <ArticleId IdType="pubmed">33361765</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Klec C., Gutschner T., Panzitt K., Pichler M. Involvement of long non-coding RNA HULC (highly up-regulated in liver cancer) in pathogenesis and implications for therapeutic intervention. 
+Expert Opinion on Therapeutic Targets
+. 2019;23(3):177–186. doi: 10.1080/14728222.2019.1570499.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/14728222.2019.1570499</ArticleId>
+            <ArticleId IdType="pubmed">30678498</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li Y., Guo D., Zhao Y., et al.  Long non-coding RNA SNHG5 promotes human hepatocellular carcinoma progression by regulating miR-26a-5p/GSK3β signal pathway. 
+Cell Death &amp; Disease
+. 2018;9(9):p. 888. doi: 10.1038/s41419-018-0882-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41419-018-0882-5</ArticleId>
+            <ArticleId IdType="pmc">PMC6117363</ArticleId>
+            <ArticleId IdType="pubmed">30166525</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zheng Z. Q., Li Z. X., Zhou G. Q., et al.  Long noncoding RNA FAM225A promotes nasopharyngeal carcinoma tumorigenesis and metastasis by acting as ceRNA to sponge miR-590-3p/miR-1275 and upregulate ITGB3. 
+Cancer Research
+. 2019;79(18):4612–4626. doi: 10.1158/0008-5472.CAN-19-0799.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-19-0799</ArticleId>
+            <ArticleId IdType="pubmed">31331909</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yan G., Su Y., Ma Z., Yu L., Chen N. Long noncoding RNA LINC00202 promotes tumor progression by sponging miR-3619-5p in retinoblastoma. 
+Cell Structure and Function
+. 2019;44(1):51–60. doi: 10.1247/csf.18033.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1247/csf.18033</ArticleId>
+            <ArticleId IdType="pubmed">30905893</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pei X., Wang X., Li H. lncRNA SNHG1 regulates the differentiation of Treg cells and affects the immune escape of breast cancer _via_ regulating miR-448/IDO. 
+International Journal of Biological Macromolecules
+. 2018;118(Part A):24–30. doi: 10.1016/j.ijbiomac.2018.06.033.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ijbiomac.2018.06.033</ArticleId>
+            <ArticleId IdType="pubmed">29886172</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pan W., Li W., Zhao J., et al.  lncRNA-PDPK2P promotes hepatocellular carcinoma progression through the PDK1/AKT/caspase 3 pathway. 
+Molecular Oncology
+. 2019;13(10):2246–2258. doi: 10.1002/1878-0261.12553.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/1878-0261.12553</ArticleId>
+            <ArticleId IdType="pmc">PMC6763783</ArticleId>
+            <ArticleId IdType="pubmed">31368655</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chao Y., Zhou D. lncRNA-D16366 is a potential biomarker for diagnosis and prognosis of hepatocellular carcinoma. 
+Medical Science Monitor
+. 2019;25:6581–6586. doi: 10.12659/MSM.915100.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.12659/MSM.915100</ArticleId>
+            <ArticleId IdType="pmc">PMC6738002</ArticleId>
+            <ArticleId IdType="pubmed">31475695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Z., Wang S., Yang F., Meng Z., Liu Y. lncRNA ROR1‑AS1 high expression and its prognostic significance in liver cancer. 
+Oncology Reports
+. 2020;43(1):55–74. doi: 10.3892/or.2019.7398.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3892/or.2019.7398</ArticleId>
+            <ArticleId IdType="pmc">PMC6908930</ArticleId>
+            <ArticleId IdType="pubmed">31746401</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao Y., Sun H., Zheng J., Shao C. Analysis of RNA m6A methylation regulators and tumour immune cell infiltration characterization in prostate cancer. 
+Artif Cells Nanomed Biotechnol
+. 2021;49(1):407–435. doi: 10.1080/21691401.2021.1912759.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/21691401.2021.1912759</ArticleId>
+            <ArticleId IdType="pubmed">33905280</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ritchie M. E., Phipson B., Wu D. I., et al.  Limma powers differential expression analyses for RNA-sequencing and microarray studies. 
+Nucleic Acids Research
+. 2015;43(7, article e47) doi: 10.1093/nar/gkv007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkv007</ArticleId>
+            <ArticleId IdType="pmc">PMC4402510</ArticleId>
+            <ArticleId IdType="pubmed">25605792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Newman A. M., Liu C. L., Green M. R., et al.  Robust enumeration of cell subsets from tissue expression profiles. 
+Nature Methods
+. 2015;12(5):453–457. doi: 10.1038/nmeth.3337.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.3337</ArticleId>
+            <ArticleId IdType="pmc">PMC4739640</ArticleId>
+            <ArticleId IdType="pubmed">25822800</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Geeleher P., Cox N., Huang R. S. pRRophetic: an R package for prediction of clinical chemotherapeutic response from tumor gene expression levels. 
+PLoS One
+. 2014;9(9, article e107468) doi: 10.1371/journal.pone.0107468.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0107468</ArticleId>
+            <ArticleId IdType="pmc">PMC4167990</ArticleId>
+            <ArticleId IdType="pubmed">25229481</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Subramanian A., Tamayo P., Mootha V. K., et al.  Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. 
+Proceedings of the National Academy of Sciences of the United States of America
+. 2005;102(43):15545–15550. doi: 10.1073/pnas.0506580102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0506580102</ArticleId>
+            <ArticleId IdType="pmc">PMC1239896</ArticleId>
+            <ArticleId IdType="pubmed">16199517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Livak K. J., Schmittgen T. D. Analysis of relative gene expression data using real-time quantitative PCR and the 2−ΔΔ _C_T method. 
+Methods
+. 2001;25(4):402–408. doi: 10.1006/meth.2001.1262.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/meth.2001.1262</ArticleId>
+            <ArticleId IdType="pubmed">11846609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chang Z., Fu Y., Jia Y., et al.  Circ-SFMBT2 drives the malignant phenotypes of esophageal cancer by the miR-107-dependent regulation of SLC1A5. 
+Cancer Cell International
+. 2021;21(1):p. 495. doi: 10.1186/s12935-021-02156-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12935-021-02156-8</ArticleId>
+            <ArticleId IdType="pmc">PMC8447765</ArticleId>
+            <ArticleId IdType="pubmed">34530825</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo R. M., Zhao C. B., Li P., Zhang L., Zang S. H., Yang B. Overexpression of CLEC18B associates with the proliferation, migration, and prognosis of glioblastoma. 
+ASN Neuro
+. 2018;10 doi: 10.1177/1759091418781949.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1759091418781949</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang M., Xin W. Matrine inhibiting pancreatic cells epithelial-mesenchymal transition and invasion through ROS/NF-κB/MMPs pathway. 
+Life Sciences
+. 2018;192:55–61. doi: 10.1016/j.lfs.2017.11.024.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.lfs.2017.11.024</ArticleId>
+            <ArticleId IdType="pubmed">29155301</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang G., Gurtu V., Kain S. R., Yan G. Early detection of apoptosis using a fluorescent conjugate of annexin V. 
+BioTechniques
+. 1997;23(3):525–531. doi: 10.2144/97233pf01.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2144/97233pf01</ArticleId>
+            <ArticleId IdType="pubmed">9298227</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Long J., Bai Y., Yang X., et al.  Construction and comprehensive analysis of a ceRNA network to reveal potential prognostic biomarkers for hepatocellular carcinoma. 
+Cancer Cell International
+. 2019;19(1):p. 90. doi: 10.1186/s12935-019-0817-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12935-019-0817-y</ArticleId>
+            <ArticleId IdType="pmc">PMC6458652</ArticleId>
+            <ArticleId IdType="pubmed">31007608</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li H., Wu Y., Wang R., et al.  lncSNHG3 promotes hepatocellular carcinoma epithelial mesenchymal transition progression through the miR-152-3p/JAK1 pathway. 
+Genes Genomics
+. 2022;44(1):133–144. doi: 10.1007/s13258-021-01185-x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13258-021-01185-x</ArticleId>
+            <ArticleId IdType="pubmed">34778942</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lei M., Du X., Li X., Wang F., Gu L., Guo F. LINC00665 regulates hepatocellular carcinoma by modulating mRNA via the m6A enzyme. 
+Life Sciences
+. 2022;17(1):71–80. doi: 10.1515/biol-2022-0003. Published 2022 Feb 11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1515/biol-2022-0003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li Y., Qi D., Zhu B., Ye X. Analysis of m6A RNA methylation-related genes in liver hepatocellular carcinoma and their correlation with survival. 
+International Journal of Molecular Sciences
+. 2021;22(3):p. 1474. doi: 10.3390/ijms22031474.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/ijms22031474</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang H., Meng Q., Ma B. Characterization of the prognostic m6A-related lncRNA signature in gastric cancer. 
+Frontiers in Oncology
+. 2021;11, article 630260 doi: 10.3389/fonc.2021.630260.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fonc.2021.630260</ArticleId>
+            <ArticleId IdType="pmc">PMC8076577</ArticleId>
+            <ArticleId IdType="pubmed">33928026</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen S., Li X., Guo L., et al.  Characterization of the m6A-related lncRNA signature in predicting prognosis and immune response in patients with colon cancer. Journal of B.U.ON. : Official journal of the Balkan union of. 
+Oncology
+. 2021;26(5):1931–1941.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wu J., Pang R., Li M., Chen B., Huang J., Zhu Y. m6A-induced lncRNA MEG3 suppresses the proliferation, migration and invasion of hepatocellular carcinoma cell through miR-544b/BTG2 signaling. 
+Oncotargets and Therapy
+. 2021;Volume 14:3745–3755. doi: 10.2147/OTT.S289198.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2147/OTT.S289198</ArticleId>
+            <ArticleId IdType="pmc">PMC8214571</ArticleId>
+            <ArticleId IdType="pubmed">34163177</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu Z. L., Zhu Z. M. Comprehensive analysis of N6-methyladenosine -related long non-coding RNAs and immune cell infiltration in hepatocellular carcinoma. 
+Bioengineered
+. 2021;12(1):1708–1724. doi: 10.1080/21655979.2021.1923381.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/21655979.2021.1923381</ArticleId>
+            <ArticleId IdType="pmc">PMC8806206</ArticleId>
+            <ArticleId IdType="pubmed">33955330</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zuo X., Chen Z., Gao W., et al.  M6A-mediated upregulation of LINC00958 increases lipogenesis and acts as a nanotherapeutic target in hepatocellular carcinoma. 
+Journal of Hematology &amp; Oncology
+. 2020;13(1):p. 5. doi: 10.1186/s13045-019-0839-x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13045-019-0839-x</ArticleId>
+            <ArticleId IdType="pmc">PMC6951025</ArticleId>
+            <ArticleId IdType="pubmed">31915027</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu Z. L., Zhu Z. M. Comprehensive analysis of N6-methyladenosine-related long non-coding RNAs and immune cell infiltration in hepatocellular carcinoma. 
+Bioengineered
+. 2021;12(1):1708–1724. doi: 10.1080/21655979.2021.1923381.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/21655979.2021.1923381</ArticleId>
+            <ArticleId IdType="pmc">PMC8806206</ArticleId>
+            <ArticleId IdType="pubmed">33955330</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhu X. L., Li Q., Shen J., Shan L., Zuo E. D., Cheng X. Use of 6 m6A-relevant lncRNA genes as prognostic markers of primary liver hepatocellular carcinoma based on TCGA database. 
+Translational Cancer Research
+. 2021;10(12):5337–5351. doi: 10.21037/tcr-21-2440.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.21037/tcr-21-2440</ArticleId>
+            <ArticleId IdType="pmc">PMC8797289</ArticleId>
+            <ArticleId IdType="pubmed">35116381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li L., Xie R., Lu G. Identification of m6A methyltransferase-related lncRNA signature for predicting immunotherapy and prognosis in patients with hepatocellular carcinoma. 
+Bioscience Reports
+. 2021;41(6):p. BSR20210760. doi: 10.1042/BSR20210760.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/BSR20210760</ArticleId>
+            <ArticleId IdType="pmc">PMC8188173</ArticleId>
+            <ArticleId IdType="pubmed">34027555</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo Z., Zhang J., Fan L., et al.  Long noncoding RNA (lncRNA) small nucleolar RNA host gene 16 (SNHG16) predicts poor prognosis and sorafenib resistance in hepatocellular carcinoma. 
+Medical Science Monitor
+. 2019;25:2079–2086. doi: 10.12659/MSM.915541.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.12659/MSM.915541</ArticleId>
+            <ArticleId IdType="pmc">PMC6437716</ArticleId>
+            <ArticleId IdType="pubmed">30893293</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li W., Dong X., He C., et al.  lncRNA SNHG1 contributes to sorafenib resistance by activating the Akt pathway and is positively regulated by miR-21 in hepatocellular carcinoma cells. 
+Journal of Experimental &amp; Clinical Cancer Research
+. 2019;38(1):p. 183. doi: 10.1186/s13046-019-1177-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13046-019-1177-0</ArticleId>
+            <ArticleId IdType="pmc">PMC6499991</ArticleId>
+            <ArticleId IdType="pubmed">31053148</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu X. F., Thin K. Z., Ming X. L., et al.  Small nucleolar RNA host gene 18 acts as a tumor suppressor and a diagnostic indicator in hepatocellular carcinoma. 
+Technology in Cancer Research &amp; Treatment
+. 2018;17 doi: 10.1177/1533033818794494.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1533033818794494</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu F., Zha G., Wu Y., Cai W., Ao J. Overexpressing lncRNA &lt;em&gt;SNHG16&lt;/em&gt; inhibited HCC proliferation and chemoresistance by functionally sponging hsa-miR-93. 
+Oncotargets and Therapy
+. 2018;Volume 11:8855–8863. doi: 10.2147/OTT.S182005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2147/OTT.S182005</ArticleId>
+            <ArticleId IdType="pmc">PMC6290873</ArticleId>
+            <ArticleId IdType="pubmed">30573973</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang P. F., Wang F., Wu J., et al.  lncRNA SNHG3 induces EMT and sorafenib resistance by modulating the miR-128/CD151 pathway in hepatocellular carcinoma. 
+Journal of Cellular Physiology
+. 2019;234(3):2788–2794. doi: 10.1002/jcp.27095.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jcp.27095</ArticleId>
+            <ArticleId IdType="pubmed">30132868</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu J., Lu C., Xiao M., Jiang F., Qu L., Ni R. Long non-coding RNA SNHG20 predicts a poor prognosis for HCC and promotes cell invasion by regulating the epithelial-to-mesenchymal transition. 
+Biomedicine &amp; Pharmacotherapy
+. 2017;89:857–863. doi: 10.1016/j.biopha.2017.01.011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.biopha.2017.01.011</ArticleId>
+            <ArticleId IdType="pubmed">28282787</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang H., Zhou D., Ying M., et al.  Expression of long non-coding RNA (lncRNA) small nucleolar RNA host gene 1 (SNHG1) exacerbates hepatocellular carcinoma through suppressing miR-195. 
+Medical Science Monitor
+. 2016;22:4820–4829. doi: 10.12659/MSM.898574.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.12659/MSM.898574</ArticleId>
+            <ArticleId IdType="pmc">PMC5167104</ArticleId>
+            <ArticleId IdType="pubmed">27932778</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang D., Cao C., Liu L., Wu D. Up-regulation of lncRNA SNHG20 predicts poor prognosis in hepatocellular carcinoma. 
+Journal of Cancer
+. 2016;7(5):608–617. doi: 10.7150/jca.13822.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7150/jca.13822</ArticleId>
+            <ArticleId IdType="pmc">PMC4820738</ArticleId>
+            <ArticleId IdType="pubmed">27053960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang T., Cao C., Wu D., Liu L. SNHG3 correlates with malignant status and poor prognosis in hepatocellular carcinoma. 
+Tumour Biology
+. 2016;37(2):2379–2385. doi: 10.1007/s13277-015-4052-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13277-015-4052-4</ArticleId>
+            <ArticleId IdType="pubmed">26373735</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang M., Wang W., Li T., et al.  Long noncoding RNA SNHG1 predicts a poor prognosis and promotes hepatocellular carcinoma tumorigenesis. 
+Biomedicine &amp; Pharmacotherapy
+. 2016;80:73–79. doi: 10.1016/j.biopha.2016.02.036.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.biopha.2016.02.036</ArticleId>
+            <ArticleId IdType="pubmed">27133041</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu T., Zuo J. J., Li F., Xu Y. C., Zheng A. Y., Tao Z. Z. lncRNA SNHG1 promotes cell proliferation in laryngeal cancer via Notch1 signaling pathway. 
+European Review for Medical and Pharmacological Sciences
+. 2019;23(15):6562–6569. doi: 10.26355/eurrev_201908_18542.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.26355/eurrev_201908_18542</ArticleId>
+            <ArticleId IdType="pubmed">31378897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xie Y., Rong L., He M., et al.  lncRNA SNHG3 promotes gastric cancer cell proliferation and metastasis by regulating the miR-139-5p/MYB axis. 
+Aging (Albany NY)
+. 2021;13(23):25138–25152. doi: 10.18632/aging.203732.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/aging.203732</ArticleId>
+            <ArticleId IdType="pmc">PMC8714158</ArticleId>
+            <ArticleId IdType="pubmed">34898477</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhu H., Zhu C., Feng X., Luo Y. Long noncoding RNA SNHG3 promotes malignant phenotypes in cervical cancer cells via association with YAP1. 
+Human Cell
+. 2022;35(1):320–332. doi: 10.1007/s13577-021-00644-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13577-021-00644-7</ArticleId>
+            <ArticleId IdType="pubmed">34816392</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang C., Qu Y., Xiao H., et al.  lncRNA SNHG3 promotes clear cell renal cell carcinoma proliferation and migration by upregulating TOP2A. 
+Experimental Cell Research
+. 2019;384(1, article 111595) doi: 10.1016/j.yexcr.2019.111595.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.yexcr.2019.111595</ArticleId>
+            <ArticleId IdType="pubmed">31505165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang L., Li G., Wang X., Zhang Y., Huang X., Wu H. lncRNA SNHG3 acts as oncogene in ovarian cancer through miR-139-5p and Notch1. 
+Oncology Letters
+. 2021;21(2):p. 122. doi: 10.3892/ol.2020.12383.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3892/ol.2020.12383</ArticleId>
+            <ArticleId IdType="pmc">PMC7798025</ArticleId>
+            <ArticleId IdType="pubmed">33552243</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu J., Liu L., Jin H., Li Q., Wang S., Peng B. LncSNHG3/miR-139-5p/BMI1 axis regulates proliferation, migration, and invasion in hepatocellular carcinoma. 
+OncoTargets and therapy
+. 2019;12:p. 6623.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pei M. L., Zhao Z. X., Shuang T. Dysregulation of lnc-SNHG1 and miR-216b-5p correlate with chemoresistance and indicate poor prognosis of serous epithelial ovarian cancer. 
+Journal of Ovarian Research
+. 2020;13(1):p. 144. doi: 10.1186/s13048-020-00750-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13048-020-00750-4</ArticleId>
+            <ArticleId IdType="pmc">PMC7731520</ArticleId>
+            <ArticleId IdType="pubmed">33302997</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dai G., Yang Y., Liu S., Liu H. Hypoxic breast cancer cell-derived exosomal SNHG1 promotes breast cancer growth and angiogenesis via regulating miR-216b-5p/JAK2 axis. 
+Cancer Management and Research
+. 2022;Volume 14(123-133):123–133. doi: 10.2147/CMAR.S327621. Published 2022 Jan 7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2147/CMAR.S327621</ArticleId>
+            <ArticleId IdType="pmc">PMC8751978</ArticleId>
+            <ArticleId IdType="pubmed">35027847</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ge P., Cao L., Zheng M., Yao Y., Wang W., Chen X. lncRNA SNHG1 contributes to the cisplatin resistance and progression of NSCLC via miR-330-5p/DCLK1 axis. 
+Experimental and Molecular Pathology
+. 2021;120, article 104633 doi: 10.1016/j.yexmp.2021.104633.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.yexmp.2021.104633</ArticleId>
+            <ArticleId IdType="pubmed">33753110</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun B., Han Y., Cai H., Huang H., Xuan Y. Long non-coding RNA SNHG3, induced by IL-6/STAT3 transactivation, promotes stem cell-like properties of gastric cancer cells by regulating the miR-3619-5p/ARL2 axis. 
+Cellular Oncology (Dordrecht)
+. 2021;44(1):179–192. doi: 10.1007/s13402-020-00560-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13402-020-00560-2</ArticleId>
+            <ArticleId IdType="pubmed">32930970</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang B., Wu Q., Li B., Wang D., Wang L., Zhou Y. L. m6A regulator-mediated methylation modification patterns and tumor microenvironment infiltration characterization in gastric cancer. 
+Molecular Cancer
+. 2020;19(1):p. 53. doi: 10.1186/s12943-020-01170-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12943-020-01170-0</ArticleId>
+            <ArticleId IdType="pmc">PMC7066851</ArticleId>
+            <ArticleId IdType="pubmed">32164750</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiong X., Feng Y., Li L., et al.  Long non-coding RNA SNHG1 promotes breast cancer progression by regulation of LMO4. 
+Oncology Reports
+. 2020;43(5):1503–1515. doi: 10.3892/or.2020.7530.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3892/or.2020.7530</ArticleId>
+            <ArticleId IdType="pmc">PMC7107776</ArticleId>
+            <ArticleId IdType="pubmed">32323846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wan X., Huang W., Yang S., et al.  Identification of androgen-responsive lncRNAs as diagnostic and prognostic markers for prostate cancer. 
+Oncotarget
+. 2016;7(37):60503–60518. doi: 10.18632/oncotarget.11391.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/oncotarget.11391</ArticleId>
+            <ArticleId IdType="pmc">PMC5312399</ArticleId>
+            <ArticleId IdType="pubmed">27556357</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fu Y., Yin Y., Peng S., et al.  Small nucleolar RNA host gene 1 promotes development and progression of colorectal cancer through negative regulation of miR-137. 
+Molecular Carcinogenesis
+. 2019;58(11):2104–2117. doi: 10.1002/mc.23101.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/mc.23101</ArticleId>
+            <ArticleId IdType="pmc">PMC6852404</ArticleId>
+            <ArticleId IdType="pubmed">31469189</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhan T., Gao X., Wang G., et al.  Construction of Novel lncRNA–miRNA–mRNA Network Associated With Recurrence and Identification of Immune-Related Potential Regulatory Axis in Hepatocellular Carcinoma. 
+Frontiers in Oncology
+. 2021;11, article 626663 doi: 10.3389/fonc.2021.626663.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fonc.2021.626663</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang Y., Le L. Overexpression of lncRNA SNGH3 predicts unfavorable prognosis and clinical outcomes in human cancers: evidence from a meta-analysis. 
+BioMed Research International
+. 2020;2020 doi: 10.1155/2020/7974034.7974034</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2020/7974034</ArticleId>
+            <ArticleId IdType="pmc">PMC7335396</ArticleId>
+            <ArticleId IdType="pubmed">32802874</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

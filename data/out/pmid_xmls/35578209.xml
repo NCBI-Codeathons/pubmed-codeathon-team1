@@ -1,0 +1,1004 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" VersionID="2" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="2">35578209</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>18</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1471-2377</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>22</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>16</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>BMC neurology</Title>
+          <ISOAbbreviation>BMC Neurol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Abnormal brain functional and structural connectivity between the left supplementary motor area and inferior frontal gyrus in moyamoya disease.</ArticleTitle>
+        <Pagination>
+          <StartPage>179</StartPage>
+          <MedlinePgn>179</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">179</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12883-022-02705-2</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Disruption of brain functional connectivity has been detected after stroke, but whether it also occurs in moyamoya disease (MMD) is unknown. Impaired functional connectivity is always correlated with abnormal white matter fibers. Herein, we used multimodal imaging techniques to explore the changes in brain functional and structural connectivity in MMD patients.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">We collected structural images, resting-state functional magnetic resonance imaging (rs-fMRI) and diffusion tensor imaging for each subject. Cognitive functions of MMD patients were evaluated using the Mini-Mental State Examination (MMSE), Montreal Cognitive Assessment (MoCA), and Trail Making Test parts A and B (TMT-A/-B). We calculated the functional connectivity for every paired region using 90 regions of interest from the Anatomical Automatic Labeling Atlas and then determined the differences between MMD patients and HCs. We extracted the functional connectivity of paired brain regions with significant differences between the two groups. Correlation analyses were then performed between the functional connectivity and variable cognitive functions. To explore whether the impaired functional connectivity and cognitive performances were attributed to the destruction of white matter fibers, we further analyzed fiber integrity using tractography between paired regions that were correlated with cognition.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">There was lower functional connectivity in MMD patients as compared to HCs between the bilateral inferior frontal gyrus, between the bilateral supramarginal gyrus, between the left supplementary motor area (SMA) and the left orbital part of the inferior frontal gyrus (IFGorb), and between the left SMA and the left middle temporal gyrus (P &lt; 0.01, FDR corrected). The decreased functional connectivity between the left SMA and the left IFGorb was significantly correlated with the MMSE (r = 0.52, P = 0.024), MoCA (r = 0.60, P = 0.006), and TMT-B (r = -0.54, P = 0.048) in MMD patients. White matter fibers were also injured between the SMA and IFGorb in the left hemisphere and were positively correlated with reduced functional connectivity.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Brain functional and structural connectivity between the supplementary motor area and inferior frontal gyrus in the left hemisphere are damaged in MMD. These findings could be useful in the evaluation of disease progression and prognosis of MMD.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Junwen</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, the Second Affiliated Hospital, Zhejiang University School of Medicine, Jiefang Road 88th, Hangzhou, 310009, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Li</LastName>
+            <ForeName>Yin</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, the Second Affiliated Hospital, Zhejiang University School of Medicine, Jiefang Road 88th, Hangzhou, 310009, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Zhaoqing</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Biomedical Engineering of Education Ministry, College of Biomedical Engineering and Instrument Science, Zhejiang University, 268 Kaixuan Road, South Central Building, Room 708, Hangzhou, 310027, Zhejiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Jingyin</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, the Second Affiliated Hospital, Zhejiang University School of Medicine, Jiefang Road 88th, Hangzhou, 310009, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cao</LastName>
+            <ForeName>Yang</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, the Second Affiliated Hospital, Zhejiang University School of Medicine, Jiefang Road 88th, Hangzhou, 310009, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Duo</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zheng</LastName>
+            <ForeName>Leilei</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Psychiatry, the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bai</LastName>
+            <ForeName>Ruiliang</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Biomedical Engineering of Education Ministry, College of Biomedical Engineering and Instrument Science, Zhejiang University, 268 Kaixuan Road, South Central Building, Room 708, Hangzhou, 310027, Zhejiang, China. ruiliangbai@zju.edu.cn.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Physical Medicine and Rehabilitation of the Affiliated Sir Run Run Shaw Hospital and Interdisciplinary Institute of Neuroscience and Technology, Zhejiang University School of Medicine, Hangzhou, China. ruiliangbai@zju.edu.cn.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>MOE Frontier Science Center for Brain Science and Brain-machine Integration, School of Brain Science and Brain Medicine, Zhejiang University, Hangzhou, China. ruiliangbai@zju.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Lin</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, the Second Affiliated Hospital, Zhejiang University School of Medicine, Jiefang Road 88th, Hangzhou, 310009, China. dr_wang@zju.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>16</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>BMC Neurol</MedlineTA>
+        <NlmUniqueID>100968555</NlmUniqueID>
+        <ISSNLinking>1471-2377</ISSNLinking>
+      </MedlineJournalInfo>
+      <SupplMeshList>
+        <SupplMeshName Type="Disease" UI="C536991">Moyamoya disease 1</SupplMeshName>
+      </SupplMeshList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001931" MajorTopicYN="N">Brain Mapping</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D056324" MajorTopicYN="N">Diffusion Tensor Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009044" MajorTopicYN="Y">Motor Cortex</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009072" MajorTopicYN="Y">Moyamoya Disease</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017397" MajorTopicYN="N">Prefrontal Cortex</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cognitive function</Keyword>
+        <Keyword MajorTopicYN="N">Functional connectivity</Keyword>
+        <Keyword MajorTopicYN="N">Moyamoya disease</Keyword>
+        <Keyword MajorTopicYN="N">White matter integrity</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>7</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>4</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>16</Day>
+          <Hour>23</Hour>
+          <Minute>46</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35578209</ArticleId>
+        <ArticleId IdType="pmc">PMC9108139</ArticleId>
+        <ArticleId IdType="doi">10.1186/s12883-022-02705-2</ArticleId>
+        <ArticleId IdType="pii">10.1186/s12883-022-02705-2</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Zhang H, Zheng L, Feng L. Epidemiology, diagnosis and treatment of moyamoya disease. Exp Ther Med. 2019;17(3):1977–1984.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6395994</ArticleId>
+            <ArticleId IdType="pubmed">30867689</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kazumata K, Tokairin K, Ito M, Uchino H, Sugiyama T, Kawabori M, et al.  Combined structural and diffusion tensor imaging detection of ischemic injury in moyamoya disease: relation to disease advancement and cerebral hypoperfusion. J Neurosurg. 2020;134(3):1155–1164.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32244209</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shao Y, Chen Z, Ming S, Ye Q, Shu Z, Gong C, et al.  Predicting the development of normal-appearing white matter with radiomics in the aging brain: a longitudinal clinical study. Front Aging Neurosci. 2018;10:393. doi: 10.3389/fnagi.2018.00393.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnagi.2018.00393</ArticleId>
+            <ArticleId IdType="pmc">PMC6279861</ArticleId>
+            <ArticleId IdType="pubmed">30546304</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reber J, Hwang K, Bowren M, Bruss J, Mukherjee P, Tranel D, et al.  Cognitive impairment after focal brain lesions is better predicted by damage to structural than functional network hubs. Proc Natl Acad Sci U S A. 2021;118(19):e2018784118. doi: 10.1073/pnas.2018784118.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.2018784118</ArticleId>
+            <ArticleId IdType="pmc">PMC8126860</ArticleId>
+            <ArticleId IdType="pubmed">33941692</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Puig J, Blasco G, Alberich-Bayarri A, Schlaug G, Deco G, Biarnes C, et al.  Resting-state functional connectivity magnetic resonance imaging and outcome after acute stroke. Stroke. 2018;49(10):2353–2360. doi: 10.1161/STROKEAHA.118.021319.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/STROKEAHA.118.021319</ArticleId>
+            <ArticleId IdType="pmc">PMC6645916</ArticleId>
+            <ArticleId IdType="pubmed">30355087</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hickok G.  Small S. Neurobiology of Language: Academic Press; 2015. pp. 399–406.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kazumata K, Tha KK, Uchino H, Ito M, Nakayama N, Abumiya T. Mapping altered brain connectivity and its clinical associations in adult moyamoya disease: a resting-state functional MRI study. PLoS ONE. 2017;12(8):e0182759. doi: 10.1371/journal.pone.0182759.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0182759</ArticleId>
+            <ArticleId IdType="pmc">PMC5544229</ArticleId>
+            <ArticleId IdType="pubmed">28783763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tae WS, Ham BJ, Pyun SB, Kang SH, Kim BJ. Current clinical applications of diffusion-tensor imaging in neurological disorders. J Clin Neurol. 2018;14(2):129–140. doi: 10.3988/jcn.2018.14.2.129.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3988/jcn.2018.14.2.129</ArticleId>
+            <ArticleId IdType="pmc">PMC5897194</ArticleId>
+            <ArticleId IdType="pubmed">29504292</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beaulieu C. The basis of anisotropic water diffusion in the nervous system - a technical review. NMR Biomed. 2002;15(7–8):435–455. doi: 10.1002/nbm.782.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/nbm.782</ArticleId>
+            <ArticleId IdType="pubmed">12489094</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Winston GP. The physical and biological basis of quantitative parameters derived from diffusion MRI. Quant Imaging Med Surg. 2012;2(4):254–265.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3533595</ArticleId>
+            <ArticleId IdType="pubmed">23289085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Min ZG, Shan HR, Xu L, Yuan DH, Sheng XX, Xie WC, et al.  Diffusion tensor imaging revealed different pathological processes of white matter hyperintensities. BMC Neurol. 2021;21(1):128. doi: 10.1186/s12883-021-02140-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12883-021-02140-9</ArticleId>
+            <ArticleId IdType="pmc">PMC7977583</ArticleId>
+            <ArticleId IdType="pubmed">33740898</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Salat DH, Tuch DS, Greve DN, van der Kouwe AJ, Hevelone ND, Zaleta AK, et al.  Age-related alterations in white matter microstructure measured by diffusion tensor imaging. Neurobiol Aging. 2005;26(8):1215–1227. doi: 10.1016/j.neurobiolaging.2004.09.017.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neurobiolaging.2004.09.017</ArticleId>
+            <ArticleId IdType="pubmed">15917106</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanchez-Cubillo I, Perianez JA, Adrover-Roig D, Rodriguez-Sanchez JM, Rios-Lago M, Tirapu J, et al.  Construct validity of the trail making test: role of task-switching, working memory, inhibition/interference control, and visuomotor abilities. J Int Neuropsychol Soc. 2009;15(3):438–450. doi: 10.1017/S1355617709090626.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1017/S1355617709090626</ArticleId>
+            <ArticleId IdType="pubmed">19402930</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Whitfield-Gabrieli S, Nieto-Castanon A. Conn: a functional connectivity toolbox for correlated and anticorrelated brain networks. Brain Connect. 2012;2(3):125–141. doi: 10.1089/brain.2012.0073.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/brain.2012.0073</ArticleId>
+            <ArticleId IdType="pubmed">22642651</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nieto-Castanon A.  Handbook of fcMRI methods in CONN. Boston, MA: Hilbert Press; 2020. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yeh FC, Panesar S, Fernandes D, Meola A, Yoshino M, Fernandez-Miranda JC, et al.  Population-averaged atlas of the macroscale human structural connectome and its network topology. Neuroimage. 2018;178:57–68. doi: 10.1016/j.neuroimage.2018.05.027.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuroimage.2018.05.027</ArticleId>
+            <ArticleId IdType="pmc">PMC6921501</ArticleId>
+            <ArticleId IdType="pubmed">29758339</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yeh FC, Tseng WY. Sparse solution of fiber orientation distribution function by diffusion decomposition. PLoS ONE. 2013;8(10):e75747. doi: 10.1371/journal.pone.0075747.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0075747</ArticleId>
+            <ArticleId IdType="pmc">PMC3795723</ArticleId>
+            <ArticleId IdType="pubmed">24146772</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lei Y, Song B, Chen L, Su J, Zhang X, Ni W, et al.  Reconfigured functional network dynamics in adult moyamoya disease: a resting-state fMRI study. Brain Imaging Behav. 2020;14(3):715–727. doi: 10.1007/s11682-018-0009-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11682-018-0009-8</ArticleId>
+            <ArticleId IdType="pubmed">30511114</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lei Y, Chen X, Su JB, Zhang X, Yang H, Gao XJ, et al.  Recognition of cognitive impairment in adult moyamoya disease: a classifier based on high-order resting-state functional connectivity network. Front Neural Circuits. 2020;14:603208. doi: 10.3389/fncir.2020.603208.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncir.2020.603208</ArticleId>
+            <ArticleId IdType="pmc">PMC7779761</ArticleId>
+            <ArticleId IdType="pubmed">33408614</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang J, Duan Y, Liu S, Liang P, Ren Z, Gao Y, et al.  Altered brain structure and functional connectivity of primary visual cortex in optic neuritis. Front Hum Neurosci. 2018;12:473. doi: 10.3389/fnhum.2018.00473.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnhum.2018.00473</ArticleId>
+            <ArticleId IdType="pmc">PMC6306625</ArticleId>
+            <ArticleId IdType="pubmed">30618673</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Herold F, Torpel A, Schega L, Muller NG. Functional and/or structural brain changes in response to resistance exercises and resistance training lead to cognitive improvements - a systematic review. Eur Rev Aging Phys Act. 2019;16:10. doi: 10.1186/s11556-019-0217-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s11556-019-0217-2</ArticleId>
+            <ArticleId IdType="pmc">PMC6617693</ArticleId>
+            <ArticleId IdType="pubmed">31333805</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Galiano A, Mengual E, de GarciaEulate R, Galdeano I, Vidorreta M, Recio M, et al.  Coupling of cerebral blood flow and functional connectivity is decreased in healthy aging. Brain Imaging Behav. 2020;14(2):436–450. doi: 10.1007/s11682-019-00157-w.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11682-019-00157-w</ArticleId>
+            <ArticleId IdType="pubmed">31250268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grefkes C, Fink GR. Connectivity-based approaches in stroke and recovery of function. Lancet Neurol. 2014;13(2):206–216. doi: 10.1016/S1474-4422(13)70264-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1474-4422(13)70264-3</ArticleId>
+            <ArticleId IdType="pubmed">24457190</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hausman HK, O'Shea A, Kraft JN, Boutzoukas EM, Evangelista ND, Van Etten EJ, et al.  The role of resting-state network functional connectivity in cognitive aging. Front Aging Neurosci. 2020;12:177. doi: 10.3389/fnagi.2020.00177.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnagi.2020.00177</ArticleId>
+            <ArticleId IdType="pmc">PMC7304333</ArticleId>
+            <ArticleId IdType="pubmed">32595490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bozkurt B, Yagmurlu K, Middlebrooks EH, Karadag A, Ovalioglu TC, Jagadeesan B, et al.  Microsurgical and tractographic anatomy of the supplementary motor area complex in humans. World Neurosurg. 2016;95:99–107. doi: 10.1016/j.wneu.2016.07.072.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.wneu.2016.07.072</ArticleId>
+            <ArticleId IdType="pubmed">27476690</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Canas A, Juncadella M, Lau R, Gabarros A, Hernandez M. Working memory deficits after lesions involving the supplementary motor area. Front Psychol. 2018;9:765. doi: 10.3389/fpsyg.2018.00765.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fpsyg.2018.00765</ArticleId>
+            <ArticleId IdType="pmc">PMC5974158</ArticleId>
+            <ArticleId IdType="pubmed">29875717</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nakajima R, Okita H, Kinoshita M, Miyashita K, Nakada M, Yahata T, et al.  Direct evidence for the causal role of the left supplementary motor area in working memory: a preliminary study. Clin Neurol Neurosurg. 2014;126:201–204. doi: 10.1016/j.clineuro.2014.09.009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.clineuro.2014.09.009</ArticleId>
+            <ArticleId IdType="pubmed">25306857</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sjoberg RL, Stalnacke M, Andersson M, Eriksson J. The supplementary motor area syndrome and cognitive control. Neuropsychologia. 2019;129:141–145. doi: 10.1016/j.neuropsychologia.2019.03.013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuropsychologia.2019.03.013</ArticleId>
+            <ArticleId IdType="pubmed">30930302</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>de la Pena MJ, Gil-Robles S, de Vega VM, Aracil C, Acevedo A, Rodriguez MR. A practical approach to imaging of the supplementary motor area and its subcortical connections. Curr Neurol Neurosci Rep. 2020;20(11):50. doi: 10.1007/s11910-020-01070-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11910-020-01070-2</ArticleId>
+            <ArticleId IdType="pubmed">32930895</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>La Corte E, Eldahaby D, Greco E, Aquino D, Bertolini G, Levi V, et al.  The frontal aslant tract: a systematic review for neurosurgical applications. Front Neurol. 2021;12:641586. doi: 10.3389/fneur.2021.641586.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fneur.2021.641586</ArticleId>
+            <ArticleId IdType="pmc">PMC7959833</ArticleId>
+            <ArticleId IdType="pubmed">33732210</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoogenboom WS, Marder TJ, Flores VL, Huisman S, Eaton HP, Schneiderman JS, et al.  Cerebral white matter integrity and resting-state functional connectivity in middle-aged patients with type 2 diabetes. Diabetes. 2014;63(2):728–738. doi: 10.2337/db13-1219.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2337/db13-1219</ArticleId>
+            <ArticleId IdType="pmc">PMC3900542</ArticleId>
+            <ArticleId IdType="pubmed">24203723</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Della Nave R, Ginestroni A, Diciotti S, Salvatore E, Soricelli A, Mascalchi M. Axial diffusivity is increased in the degenerating superior cerebellar peduncles of Friedreich's ataxia. Neuroradiology. 2011;53(5):367–372. doi: 10.1007/s00234-010-0807-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00234-010-0807-1</ArticleId>
+            <ArticleId IdType="pubmed">21128070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Winklewski PJ, Sabisz A, Naumczyk P, Jodzio K, Szurowska E, Szarmach A. Understanding the physiopathology behind axial and radial diffusivity changes-what do we know? Front Neurol. 2018;9:92. doi: 10.3389/fneur.2018.00092.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fneur.2018.00092</ArticleId>
+            <ArticleId IdType="pmc">PMC5835085</ArticleId>
+            <ArticleId IdType="pubmed">29535676</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Basser PJ, Pierpaoli C. Microstructural and physiological features of tissues elucidated by quantitative-diffusion-tensor MRI. J Magn Reson B. 1996;111(3):209–219. doi: 10.1006/jmrb.1996.0086.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/jmrb.1996.0086</ArticleId>
+            <ArticleId IdType="pubmed">8661285</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jia X, Wang Z, Huang F, Su C, Du W, Jiang H, et al.  A comparison of the Mini-Mental State Examination (MMSE) with the Montreal Cognitive Assessment (MoCA) for mild cognitive impairment screening in Chinese middle-aged and older population: a cross-sectional study. BMC Psychiatry. 2021;21(1):485. doi: 10.1186/s12888-021-03495-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12888-021-03495-6</ArticleId>
+            <ArticleId IdType="pmc">PMC8489046</ArticleId>
+            <ArticleId IdType="pubmed">34607584</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kokkinakis I, Vaucher P, Cardoso I, Favrat B. Assessment of cognitive screening tests as predictors of driving cessation: a prospective cohort study of a median 4-year follow-up. PLoS ONE. 2021;16(8):e0256527. doi: 10.1371/journal.pone.0256527.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0256527</ArticleId>
+            <ArticleId IdType="pmc">PMC8378690</ArticleId>
+            <ArticleId IdType="pubmed">34415967</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vaucher P, Herzig D, Cardoso I, Herzog MH, Mangin P, Favrat B. The trail making test as a screening instrument for driving performance in older drivers; a translational research. BMC Geriatr. 2014;14:123. doi: 10.1186/1471-2318-14-123.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2318-14-123</ArticleId>
+            <ArticleId IdType="pmc">PMC4256796</ArticleId>
+            <ArticleId IdType="pubmed">25420615</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hara S, Hori M, Hagiwara A, Tsurushima Y, Tanaka Y, Maehara T, et al.  Myelin and axonal damage in normal-appearing white matter in patients with moyamoya disease. AJNR Am J Neuroradiol. 2020;41(9):1618–1624.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7583130</ArticleId>
+            <ArticleId IdType="pubmed">32855183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" VersionID="2" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="2">35578209</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>18</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1471-2377</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>22</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>16</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>BMC neurology</Title>
+          <ISOAbbreviation>BMC Neurol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Abnormal brain functional and structural connectivity between the left supplementary motor area and inferior frontal gyrus in moyamoya disease.</ArticleTitle>
+        <Pagination>
+          <StartPage>179</StartPage>
+          <MedlinePgn>179</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">179</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12883-022-02705-2</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Disruption of brain functional connectivity has been detected after stroke, but whether it also occurs in moyamoya disease (MMD) is unknown. Impaired functional connectivity is always correlated with abnormal white matter fibers. Herein, we used multimodal imaging techniques to explore the changes in brain functional and structural connectivity in MMD patients.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">We collected structural images, resting-state functional magnetic resonance imaging (rs-fMRI) and diffusion tensor imaging for each subject. Cognitive functions of MMD patients were evaluated using the Mini-Mental State Examination (MMSE), Montreal Cognitive Assessment (MoCA), and Trail Making Test parts A and B (TMT-A/-B). We calculated the functional connectivity for every paired region using 90 regions of interest from the Anatomical Automatic Labeling Atlas and then determined the differences between MMD patients and HCs. We extracted the functional connectivity of paired brain regions with significant differences between the two groups. Correlation analyses were then performed between the functional connectivity and variable cognitive functions. To explore whether the impaired functional connectivity and cognitive performances were attributed to the destruction of white matter fibers, we further analyzed fiber integrity using tractography between paired regions that were correlated with cognition.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">There was lower functional connectivity in MMD patients as compared to HCs between the bilateral inferior frontal gyrus, between the bilateral supramarginal gyrus, between the left supplementary motor area (SMA) and the left orbital part of the inferior frontal gyrus (IFGorb), and between the left SMA and the left middle temporal gyrus (P &lt; 0.01, FDR corrected). The decreased functional connectivity between the left SMA and the left IFGorb was significantly correlated with the MMSE (r = 0.52, P = 0.024), MoCA (r = 0.60, P = 0.006), and TMT-B (r = -0.54, P = 0.048) in MMD patients. White matter fibers were also injured between the SMA and IFGorb in the left hemisphere and were positively correlated with reduced functional connectivity.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Brain functional and structural connectivity between the supplementary motor area and inferior frontal gyrus in the left hemisphere are damaged in MMD. These findings could be useful in the evaluation of disease progression and prognosis of MMD.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Junwen</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, the Second Affiliated Hospital, Zhejiang University School of Medicine, Jiefang Road 88th, Hangzhou, 310009, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Li</LastName>
+            <ForeName>Yin</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, the Second Affiliated Hospital, Zhejiang University School of Medicine, Jiefang Road 88th, Hangzhou, 310009, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Zhaoqing</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Biomedical Engineering of Education Ministry, College of Biomedical Engineering and Instrument Science, Zhejiang University, 268 Kaixuan Road, South Central Building, Room 708, Hangzhou, 310027, Zhejiang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Jingyin</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, the Second Affiliated Hospital, Zhejiang University School of Medicine, Jiefang Road 88th, Hangzhou, 310009, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cao</LastName>
+            <ForeName>Yang</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, the Second Affiliated Hospital, Zhejiang University School of Medicine, Jiefang Road 88th, Hangzhou, 310009, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Duo</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiology, the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zheng</LastName>
+            <ForeName>Leilei</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Psychiatry, the Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bai</LastName>
+            <ForeName>Ruiliang</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Key Laboratory of Biomedical Engineering of Education Ministry, College of Biomedical Engineering and Instrument Science, Zhejiang University, 268 Kaixuan Road, South Central Building, Room 708, Hangzhou, 310027, Zhejiang, China. ruiliangbai@zju.edu.cn.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Physical Medicine and Rehabilitation of the Affiliated Sir Run Run Shaw Hospital and Interdisciplinary Institute of Neuroscience and Technology, Zhejiang University School of Medicine, Hangzhou, China. ruiliangbai@zju.edu.cn.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>MOE Frontier Science Center for Brain Science and Brain-machine Integration, School of Brain Science and Brain Medicine, Zhejiang University, Hangzhou, China. ruiliangbai@zju.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Lin</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, the Second Affiliated Hospital, Zhejiang University School of Medicine, Jiefang Road 88th, Hangzhou, 310009, China. dr_wang@zju.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>16</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>BMC Neurol</MedlineTA>
+        <NlmUniqueID>100968555</NlmUniqueID>
+        <ISSNLinking>1471-2377</ISSNLinking>
+      </MedlineJournalInfo>
+      <SupplMeshList>
+        <SupplMeshName Type="Disease" UI="C536991">Moyamoya disease 1</SupplMeshName>
+      </SupplMeshList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001931" MajorTopicYN="N">Brain Mapping</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D056324" MajorTopicYN="N">Diffusion Tensor Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009044" MajorTopicYN="Y">Motor Cortex</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009072" MajorTopicYN="Y">Moyamoya Disease</DescriptorName>
+          <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017397" MajorTopicYN="N">Prefrontal Cortex</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cognitive function</Keyword>
+        <Keyword MajorTopicYN="N">Functional connectivity</Keyword>
+        <Keyword MajorTopicYN="N">Moyamoya disease</Keyword>
+        <Keyword MajorTopicYN="N">White matter integrity</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>7</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>4</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>16</Day>
+          <Hour>23</Hour>
+          <Minute>46</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35578209</ArticleId>
+        <ArticleId IdType="pmc">PMC9108139</ArticleId>
+        <ArticleId IdType="doi">10.1186/s12883-022-02705-2</ArticleId>
+        <ArticleId IdType="pii">10.1186/s12883-022-02705-2</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Zhang H, Zheng L, Feng L. Epidemiology, diagnosis and treatment of moyamoya disease. Exp Ther Med. 2019;17(3):1977–1984.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6395994</ArticleId>
+            <ArticleId IdType="pubmed">30867689</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kazumata K, Tokairin K, Ito M, Uchino H, Sugiyama T, Kawabori M, et al.  Combined structural and diffusion tensor imaging detection of ischemic injury in moyamoya disease: relation to disease advancement and cerebral hypoperfusion. J Neurosurg. 2020;134(3):1155–1164.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32244209</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shao Y, Chen Z, Ming S, Ye Q, Shu Z, Gong C, et al.  Predicting the development of normal-appearing white matter with radiomics in the aging brain: a longitudinal clinical study. Front Aging Neurosci. 2018;10:393. doi: 10.3389/fnagi.2018.00393.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnagi.2018.00393</ArticleId>
+            <ArticleId IdType="pmc">PMC6279861</ArticleId>
+            <ArticleId IdType="pubmed">30546304</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reber J, Hwang K, Bowren M, Bruss J, Mukherjee P, Tranel D, et al.  Cognitive impairment after focal brain lesions is better predicted by damage to structural than functional network hubs. Proc Natl Acad Sci U S A. 2021;118(19):e2018784118. doi: 10.1073/pnas.2018784118.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.2018784118</ArticleId>
+            <ArticleId IdType="pmc">PMC8126860</ArticleId>
+            <ArticleId IdType="pubmed">33941692</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Puig J, Blasco G, Alberich-Bayarri A, Schlaug G, Deco G, Biarnes C, et al.  Resting-state functional connectivity magnetic resonance imaging and outcome after acute stroke. Stroke. 2018;49(10):2353–2360. doi: 10.1161/STROKEAHA.118.021319.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/STROKEAHA.118.021319</ArticleId>
+            <ArticleId IdType="pmc">PMC6645916</ArticleId>
+            <ArticleId IdType="pubmed">30355087</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hickok G.  Small S. Neurobiology of Language: Academic Press; 2015. pp. 399–406.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kazumata K, Tha KK, Uchino H, Ito M, Nakayama N, Abumiya T. Mapping altered brain connectivity and its clinical associations in adult moyamoya disease: a resting-state functional MRI study. PLoS ONE. 2017;12(8):e0182759. doi: 10.1371/journal.pone.0182759.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0182759</ArticleId>
+            <ArticleId IdType="pmc">PMC5544229</ArticleId>
+            <ArticleId IdType="pubmed">28783763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tae WS, Ham BJ, Pyun SB, Kang SH, Kim BJ. Current clinical applications of diffusion-tensor imaging in neurological disorders. J Clin Neurol. 2018;14(2):129–140. doi: 10.3988/jcn.2018.14.2.129.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3988/jcn.2018.14.2.129</ArticleId>
+            <ArticleId IdType="pmc">PMC5897194</ArticleId>
+            <ArticleId IdType="pubmed">29504292</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beaulieu C. The basis of anisotropic water diffusion in the nervous system - a technical review. NMR Biomed. 2002;15(7–8):435–455. doi: 10.1002/nbm.782.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/nbm.782</ArticleId>
+            <ArticleId IdType="pubmed">12489094</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Winston GP. The physical and biological basis of quantitative parameters derived from diffusion MRI. Quant Imaging Med Surg. 2012;2(4):254–265.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3533595</ArticleId>
+            <ArticleId IdType="pubmed">23289085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Min ZG, Shan HR, Xu L, Yuan DH, Sheng XX, Xie WC, et al.  Diffusion tensor imaging revealed different pathological processes of white matter hyperintensities. BMC Neurol. 2021;21(1):128. doi: 10.1186/s12883-021-02140-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12883-021-02140-9</ArticleId>
+            <ArticleId IdType="pmc">PMC7977583</ArticleId>
+            <ArticleId IdType="pubmed">33740898</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Salat DH, Tuch DS, Greve DN, van der Kouwe AJ, Hevelone ND, Zaleta AK, et al.  Age-related alterations in white matter microstructure measured by diffusion tensor imaging. Neurobiol Aging. 2005;26(8):1215–1227. doi: 10.1016/j.neurobiolaging.2004.09.017.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neurobiolaging.2004.09.017</ArticleId>
+            <ArticleId IdType="pubmed">15917106</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanchez-Cubillo I, Perianez JA, Adrover-Roig D, Rodriguez-Sanchez JM, Rios-Lago M, Tirapu J, et al.  Construct validity of the trail making test: role of task-switching, working memory, inhibition/interference control, and visuomotor abilities. J Int Neuropsychol Soc. 2009;15(3):438–450. doi: 10.1017/S1355617709090626.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1017/S1355617709090626</ArticleId>
+            <ArticleId IdType="pubmed">19402930</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Whitfield-Gabrieli S, Nieto-Castanon A. Conn: a functional connectivity toolbox for correlated and anticorrelated brain networks. Brain Connect. 2012;2(3):125–141. doi: 10.1089/brain.2012.0073.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/brain.2012.0073</ArticleId>
+            <ArticleId IdType="pubmed">22642651</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nieto-Castanon A.  Handbook of fcMRI methods in CONN. Boston, MA: Hilbert Press; 2020. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yeh FC, Panesar S, Fernandes D, Meola A, Yoshino M, Fernandez-Miranda JC, et al.  Population-averaged atlas of the macroscale human structural connectome and its network topology. Neuroimage. 2018;178:57–68. doi: 10.1016/j.neuroimage.2018.05.027.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuroimage.2018.05.027</ArticleId>
+            <ArticleId IdType="pmc">PMC6921501</ArticleId>
+            <ArticleId IdType="pubmed">29758339</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yeh FC, Tseng WY. Sparse solution of fiber orientation distribution function by diffusion decomposition. PLoS ONE. 2013;8(10):e75747. doi: 10.1371/journal.pone.0075747.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0075747</ArticleId>
+            <ArticleId IdType="pmc">PMC3795723</ArticleId>
+            <ArticleId IdType="pubmed">24146772</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lei Y, Song B, Chen L, Su J, Zhang X, Ni W, et al.  Reconfigured functional network dynamics in adult moyamoya disease: a resting-state fMRI study. Brain Imaging Behav. 2020;14(3):715–727. doi: 10.1007/s11682-018-0009-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11682-018-0009-8</ArticleId>
+            <ArticleId IdType="pubmed">30511114</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lei Y, Chen X, Su JB, Zhang X, Yang H, Gao XJ, et al.  Recognition of cognitive impairment in adult moyamoya disease: a classifier based on high-order resting-state functional connectivity network. Front Neural Circuits. 2020;14:603208. doi: 10.3389/fncir.2020.603208.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncir.2020.603208</ArticleId>
+            <ArticleId IdType="pmc">PMC7779761</ArticleId>
+            <ArticleId IdType="pubmed">33408614</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang J, Duan Y, Liu S, Liang P, Ren Z, Gao Y, et al.  Altered brain structure and functional connectivity of primary visual cortex in optic neuritis. Front Hum Neurosci. 2018;12:473. doi: 10.3389/fnhum.2018.00473.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnhum.2018.00473</ArticleId>
+            <ArticleId IdType="pmc">PMC6306625</ArticleId>
+            <ArticleId IdType="pubmed">30618673</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Herold F, Torpel A, Schega L, Muller NG. Functional and/or structural brain changes in response to resistance exercises and resistance training lead to cognitive improvements - a systematic review. Eur Rev Aging Phys Act. 2019;16:10. doi: 10.1186/s11556-019-0217-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s11556-019-0217-2</ArticleId>
+            <ArticleId IdType="pmc">PMC6617693</ArticleId>
+            <ArticleId IdType="pubmed">31333805</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Galiano A, Mengual E, de GarciaEulate R, Galdeano I, Vidorreta M, Recio M, et al.  Coupling of cerebral blood flow and functional connectivity is decreased in healthy aging. Brain Imaging Behav. 2020;14(2):436–450. doi: 10.1007/s11682-019-00157-w.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11682-019-00157-w</ArticleId>
+            <ArticleId IdType="pubmed">31250268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grefkes C, Fink GR. Connectivity-based approaches in stroke and recovery of function. Lancet Neurol. 2014;13(2):206–216. doi: 10.1016/S1474-4422(13)70264-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1474-4422(13)70264-3</ArticleId>
+            <ArticleId IdType="pubmed">24457190</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hausman HK, O'Shea A, Kraft JN, Boutzoukas EM, Evangelista ND, Van Etten EJ, et al.  The role of resting-state network functional connectivity in cognitive aging. Front Aging Neurosci. 2020;12:177. doi: 10.3389/fnagi.2020.00177.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnagi.2020.00177</ArticleId>
+            <ArticleId IdType="pmc">PMC7304333</ArticleId>
+            <ArticleId IdType="pubmed">32595490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bozkurt B, Yagmurlu K, Middlebrooks EH, Karadag A, Ovalioglu TC, Jagadeesan B, et al.  Microsurgical and tractographic anatomy of the supplementary motor area complex in humans. World Neurosurg. 2016;95:99–107. doi: 10.1016/j.wneu.2016.07.072.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.wneu.2016.07.072</ArticleId>
+            <ArticleId IdType="pubmed">27476690</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Canas A, Juncadella M, Lau R, Gabarros A, Hernandez M. Working memory deficits after lesions involving the supplementary motor area. Front Psychol. 2018;9:765. doi: 10.3389/fpsyg.2018.00765.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fpsyg.2018.00765</ArticleId>
+            <ArticleId IdType="pmc">PMC5974158</ArticleId>
+            <ArticleId IdType="pubmed">29875717</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nakajima R, Okita H, Kinoshita M, Miyashita K, Nakada M, Yahata T, et al.  Direct evidence for the causal role of the left supplementary motor area in working memory: a preliminary study. Clin Neurol Neurosurg. 2014;126:201–204. doi: 10.1016/j.clineuro.2014.09.009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.clineuro.2014.09.009</ArticleId>
+            <ArticleId IdType="pubmed">25306857</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sjoberg RL, Stalnacke M, Andersson M, Eriksson J. The supplementary motor area syndrome and cognitive control. Neuropsychologia. 2019;129:141–145. doi: 10.1016/j.neuropsychologia.2019.03.013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuropsychologia.2019.03.013</ArticleId>
+            <ArticleId IdType="pubmed">30930302</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>de la Pena MJ, Gil-Robles S, de Vega VM, Aracil C, Acevedo A, Rodriguez MR. A practical approach to imaging of the supplementary motor area and its subcortical connections. Curr Neurol Neurosci Rep. 2020;20(11):50. doi: 10.1007/s11910-020-01070-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11910-020-01070-2</ArticleId>
+            <ArticleId IdType="pubmed">32930895</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>La Corte E, Eldahaby D, Greco E, Aquino D, Bertolini G, Levi V, et al.  The frontal aslant tract: a systematic review for neurosurgical applications. Front Neurol. 2021;12:641586. doi: 10.3389/fneur.2021.641586.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fneur.2021.641586</ArticleId>
+            <ArticleId IdType="pmc">PMC7959833</ArticleId>
+            <ArticleId IdType="pubmed">33732210</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoogenboom WS, Marder TJ, Flores VL, Huisman S, Eaton HP, Schneiderman JS, et al.  Cerebral white matter integrity and resting-state functional connectivity in middle-aged patients with type 2 diabetes. Diabetes. 2014;63(2):728–738. doi: 10.2337/db13-1219.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2337/db13-1219</ArticleId>
+            <ArticleId IdType="pmc">PMC3900542</ArticleId>
+            <ArticleId IdType="pubmed">24203723</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Della Nave R, Ginestroni A, Diciotti S, Salvatore E, Soricelli A, Mascalchi M. Axial diffusivity is increased in the degenerating superior cerebellar peduncles of Friedreich's ataxia. Neuroradiology. 2011;53(5):367–372. doi: 10.1007/s00234-010-0807-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00234-010-0807-1</ArticleId>
+            <ArticleId IdType="pubmed">21128070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Winklewski PJ, Sabisz A, Naumczyk P, Jodzio K, Szurowska E, Szarmach A. Understanding the physiopathology behind axial and radial diffusivity changes-what do we know? Front Neurol. 2018;9:92. doi: 10.3389/fneur.2018.00092.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fneur.2018.00092</ArticleId>
+            <ArticleId IdType="pmc">PMC5835085</ArticleId>
+            <ArticleId IdType="pubmed">29535676</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Basser PJ, Pierpaoli C. Microstructural and physiological features of tissues elucidated by quantitative-diffusion-tensor MRI. J Magn Reson B. 1996;111(3):209–219. doi: 10.1006/jmrb.1996.0086.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/jmrb.1996.0086</ArticleId>
+            <ArticleId IdType="pubmed">8661285</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jia X, Wang Z, Huang F, Su C, Du W, Jiang H, et al.  A comparison of the Mini-Mental State Examination (MMSE) with the Montreal Cognitive Assessment (MoCA) for mild cognitive impairment screening in Chinese middle-aged and older population: a cross-sectional study. BMC Psychiatry. 2021;21(1):485. doi: 10.1186/s12888-021-03495-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12888-021-03495-6</ArticleId>
+            <ArticleId IdType="pmc">PMC8489046</ArticleId>
+            <ArticleId IdType="pubmed">34607584</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kokkinakis I, Vaucher P, Cardoso I, Favrat B. Assessment of cognitive screening tests as predictors of driving cessation: a prospective cohort study of a median 4-year follow-up. PLoS ONE. 2021;16(8):e0256527. doi: 10.1371/journal.pone.0256527.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0256527</ArticleId>
+            <ArticleId IdType="pmc">PMC8378690</ArticleId>
+            <ArticleId IdType="pubmed">34415967</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vaucher P, Herzig D, Cardoso I, Herzog MH, Mangin P, Favrat B. The trail making test as a screening instrument for driving performance in older drivers; a translational research. BMC Geriatr. 2014;14:123. doi: 10.1186/1471-2318-14-123.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2318-14-123</ArticleId>
+            <ArticleId IdType="pmc">PMC4256796</ArticleId>
+            <ArticleId IdType="pubmed">25420615</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hara S, Hori M, Hagiwara A, Tsurushima Y, Tanaka Y, Maehara T, et al.  Myelin and axonal damage in normal-appearing white matter in patients with moyamoya disease. AJNR Am J Neuroradiol. 2020;41(9):1618–1624.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7583130</ArticleId>
+            <ArticleId IdType="pubmed">32855183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

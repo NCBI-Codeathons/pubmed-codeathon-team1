@@ -1,0 +1,765 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">26247860</PMID>
+      <DateCompleted>
+        <Year>2015</Year>
+        <Month>10</Month>
+        <Day>26</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>12</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1097-4199</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>87</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2015</Year>
+              <Month>Aug</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Neuron</Title>
+          <ISOAbbreviation>Neuron</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Using Grid Cells for Navigation.</ArticleTitle>
+        <Pagination>
+          <StartPage>507</StartPage>
+          <EndPage>520</EndPage>
+          <MedlinePgn>507-20</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuron.2015.07.006</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0896-6273(15)00628-5</ELocationID>
+        <Abstract>
+          <AbstractText>Mammals are able to navigate to hidden goal locations by direct routes that may traverse previously unvisited terrain. Empirical evidence suggests that this "vector navigation" relies on an internal representation of space provided by the hippocampal formation. The periodic spatial firing patterns of grid cells in the hippocampal formation offer a compact combinatorial code for location within large-scale space. Here, we consider the computational problem of how to determine the vector between start and goal locations encoded by the firing of grid cells when this vector may be much longer than the largest grid scale. First, we present an algorithmic solution to the problem, inspired by the Fourier shift theorem. Second, we describe several potential neural network implementations of this solution that combine efficiency of search and biological plausibility. Finally, we discuss the empirical predictions of these implementations and their relationship to the anatomy and electrophysiology of the hippocampal formation.</AbstractText>
+          <CopyrightInformation>Copyright © 2015 The Authors. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bush</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>UCL Institute of Cognitive Neuroscience, 17 Queen Square, London, WC1N 3AR, UK; UCL Institute of Neurology, Queen Square, London, WC1N 3BG, UK. Electronic address: drdanielbush@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Barry</LastName>
+            <ForeName>Caswell</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>UCL Department of Cell and Developmental Biology, Gower Street, London, WC1E 6BT, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Manson</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>UCL Department of Cell and Developmental Biology, Gower Street, London, WC1E 6BT, UK; UCL Centre for Mathematics and Physics in the Life Sciences and Experimental Biology, Gower Street, London, WC1E 6BT, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Burgess</LastName>
+            <ForeName>Neil</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>UCL Institute of Cognitive Neuroscience, 17 Queen Square, London, WC1N 3AR, UK; UCL Institute of Neurology, Queen Square, London, WC1N 3BG, UK. Electronic address: n.burgess@ucl.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>091593</GrantID>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>095811</GrantID>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>101208</GrantID>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Neuron</MedlineTA>
+        <NlmUniqueID>8809320</NlmUniqueID>
+        <ISSNLinking>0896-6273</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006624" MajorTopicYN="N">Hippocampus</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016571" MajorTopicYN="Y">Neural Networks, Computer</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009949" MajorTopicYN="N">Orientation</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2015</Year>
+          <Month>2</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2015</Year>
+          <Month>6</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2015</Year>
+          <Month>7</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>8</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>8</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2015</Year>
+          <Month>10</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26247860</ArticleId>
+        <ArticleId IdType="pmc">PMC4534384</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.neuron.2015.07.006</ArticleId>
+        <ArticleId IdType="pii">S0896-6273(15)00628-5</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Abrahams S., Pickering A., Polkey C.E., Morris R.G. Spatial memory deficits in patients with unilateral damage to the right hippocampal formation. Neuropsychologia. 1997;35:11–24.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8981373</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barry C., Hayman R., Burgess N., Jeffery K.J. Experience-dependent rescaling of entorhinal grids. Nat. Neurosci. 2007;10:682–684.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17486102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barry C., Ginzberg L.L., O’Keefe J., Burgess N. Grid cell firing patterns signal environmental novelty by expansion. Proc. Natl. Acad. Sci. USA. 2012;109:17687–17692.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3491492</ArticleId>
+            <ArticleId IdType="pubmed">23045662</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bendig A.W. Latent learning in a water maze. J. Exp. Psychol. 1952;43:134–137.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14927813</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blum K.I., Abbott L.F. A model of spatial map formation in the hippocampus of the rat. Neural Comput. 1996;8:85–93.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8564805</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boccara C.N., Sargolini F., Thoresen V.H., Solstad T., Witter M.P., Moser E.I., Moser M.B. Grid cells in pre- and parasubiculum. Nat. Neurosci. 2010;13:987–994.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20657591</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brown M.A., Sharp P.E. Simulation of spatial learning in the Morris water maze by a neural network model of the hippocampal formation and nucleus accumbens. Hippocampus. 1995;5:171–188.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7550613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burak Y., Fiete I.R. Accurate path integration in continuous attractor network models of grid cells. PLoS Comput. Biol. 2009;5:e1000291.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2632741</ArticleId>
+            <ArticleId IdType="pubmed">19229307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burgess N. Grid cells and theta as oscillatory interference: theory and predictions. Hippocampus. 2008;18:1157–1174.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3196519</ArticleId>
+            <ArticleId IdType="pubmed">19021256</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burgess C.P., Burgess N. Controlling phase noise in oscillatory interference models of grid cell firing. J. Neurosci. 2014;34:6224–6232.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4004810</ArticleId>
+            <ArticleId IdType="pubmed">24790193</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burgess N., O’Keefe J. Neuronal computations underlying the firing of place cells and their role in navigation. Hippocampus. 1996;6:749–762.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9034860</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burgess N., Recce M., O’Keefe J. A model of hippocampal function. Neural Netw. 1994;7:1065–1081.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Burgess N., Maguire E.A., O’Keefe J. The human hippocampus and spatial and episodic memory. Neuron. 2002;35:625–641.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12194864</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burgess N., Barry C., O’Keefe J. An oscillatory interference model of grid cell firing. Hippocampus. 2007;17:801–812.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2678278</ArticleId>
+            <ArticleId IdType="pubmed">17598147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bush D., Barry C., Burgess N. What do grid cells contribute to place cell firing? Trends Neurosci. 2014;37:136–145.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3945817</ArticleId>
+            <ArticleId IdType="pubmed">24485517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Byrne P., Becker S., Burgess N. Remembering the past and imagining the future: a neural model of spatial memory and imagery. Psychol. Rev. 2007;114:340–375.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2678675</ArticleId>
+            <ArticleId IdType="pubmed">17500630</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carpenter F., Manson D., Jeffery K., Burgess N., Barry C. Grid cells form a global representation of connected environments. Curr. Biol. 2015;25:1176–1182.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4425461</ArticleId>
+            <ArticleId IdType="pubmed">25913404</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen Q., Verguts T. Beyond the mental number line: A neural network model of number-space interactions. Cognit. Psychol. 2010;60:218–240.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20138261</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Climer J.R., Newman E.L., Hasselmo M.E. Phase coding by grid cells in unconstrained environments: two-dimensional phase precession. Eur. J. Neurosci. 2013;38:2526–2541.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3912569</ArticleId>
+            <ArticleId IdType="pubmed">23718553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cohen N.J., Eichenbaum H.  MIT Press; 1993. Memory, Amnesia, and the Hippocampal System.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Conklin J., Eliasmith C. A controlled attractor network model of path integration in the rat. J. Comput. Neurosci. 2005;18:183–203.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15714269</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Davidson T.J., Kloosterman F., Wilson M.A. Hippocampal replay of extended experience. Neuron. 2009;63:497–507.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4364032</ArticleId>
+            <ArticleId IdType="pubmed">19709631</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dayan P. Navigating through temporal difference. NIPS. 1991;3:464–470.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dehaene S.  Oxford University Press; 1997. The Number Sense: How the Mind Creates Mathematics.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Derdikman D., Whitlock J.R., Tsao A., Fyhn M., Hafting T., Moser M.-B., Moser E.I. Fragmentation of grid cell maps in a multicompartment environment. Nat. Neurosci. 2009;12:1325–1332.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19749749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Doeller C.F., Burgess N. Distinct error-correcting and incidental learning of location relative to landmarks and boundaries. Proc. Natl. Acad. Sci. USA. 2008;105:5909–5914.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2311326</ArticleId>
+            <ArticleId IdType="pubmed">18413609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Erdem U.M., Hasselmo M. A goal-directed spatial navigation model using forward trajectory planning based on grid cells. Eur. J. Neurosci. 2012;35:916–931.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3564559</ArticleId>
+            <ArticleId IdType="pubmed">22393918</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Erdem U.M., Hasselmo M.E. A biologically inspired hierarchical goal directed navigation model. J. Physiol. Paris. 2014;108:28–37.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3949664</ArticleId>
+            <ArticleId IdType="pubmed">23891644</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fenton A.A., Muller R.U. Place cell discharge is extremely variable during individual passes of the rat through the firing field. Proc. Natl. Acad. Sci. USA. 1998;95:3182–3187.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC19716</ArticleId>
+            <ArticleId IdType="pubmed">9501237</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fenton A.A., Kao H.Y., Neymotin S.A., Olypher A., Vayntrub Y., Lytton W.W., Ludvig N. Unmasking the CA1 ensemble place code by exposures to small and large environments: more place cells and multiple, irregularly arranged, and expanded place fields in the larger space. J. Neurosci. 2008;28:11250–11262.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2695947</ArticleId>
+            <ArticleId IdType="pubmed">18971467</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fiete I.R., Burak Y., Brookings T. What grid cells convey about rat location. J. Neurosci. 2008;28:6858–6871.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6670990</ArticleId>
+            <ArticleId IdType="pubmed">18596161</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Foster D.J., Wilson M.A. Reverse replay of behavioural sequences in hippocampal place cells during the awake state. Nature. 2006;440:680–683.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16474382</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Foster D.J., Morris R.G.M., Dayan P. A model of hippocampally dependent navigation, using the temporal difference learning rule. Hippocampus. 2000;10:1–16.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10706212</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fuhs M.C., Touretzky D.S. A spin glass model of path integration in rat medial entorhinal cortex. J. Neurosci. 2006;26:4266–4276.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6674007</ArticleId>
+            <ArticleId IdType="pubmed">16624947</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gallistel C.R.  MIT Press; 1990. The Organisation of Learning.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gorchetchnikov A., Grossberg S. Space, time and learning in the hippocampus: how fine spatial and temporal scales are expanded into population codes for behavioral control. Neural Netw. 2007;20:182–193.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17222533</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guanella A., Kiper D., Verschure P. A model of grid cells based on a twisted torus topology. Int. J. Neural Syst. 2007;17:231–240.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17696288</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hafting T., Fyhn M., Molden S., Moser M.B., Moser E.I. Microstructure of a spatial map in the entorhinal cortex. Nature. 2005;436:801–806.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15965463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hafting T., Fyhn M., Bonnevie T., Moser M.B., Moser E.I. Hippocampus-independent phase precession in entorhinal grid cells. Nature. 2008;453:1248–1252.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18480753</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hartley T., Maguire E.A., Spiers H.J., Burgess N. The well-worn route and the path less traveled: distinct neural bases of route following and wayfinding in humans. Neuron. 2003;37:877–888.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12628177</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hasselmo M.E. Grid cell mechanisms and function: contributions of entorhinal persistent spiking and phase resetting. Hippocampus. 2008;18:1213–1229.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2614862</ArticleId>
+            <ArticleId IdType="pubmed">19021258</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hayward A., McGregor A., Good M.A., Pearce J.M. Absence of overshadowing and blocking between landmarks and the geometric cues provided by the shape of a test arena. Q. J. Exp. Psychol. B. 2003;56:114–126.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12623542</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Howard L.R., Javadi A.H., Yu Y., Mill R.D., Morrison L.C., Knight R., Loftus M.M., Staskute L., Spiers H.J. The hippocampus and entorhinal cortex encode the path and Euclidean distances to goals during navigation. Curr. Biol. 2014;24:1331–1340.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4062938</ArticleId>
+            <ArticleId IdType="pubmed">24909328</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huhn, Z., Somogyvari, Z., Kiss, T., and Erdi, P. (2009). Extraction of distance information from the activity of entorhinal grid cells: a model study. In Proceedings of the International Joint Conference on Neural Networks, pp. 1298–1303.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Huxter J., Burgess N., O’Keefe J. Independent rate and temporal coding in hippocampal pyramidal cells. Nature. 2003;425:828–832.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2677642</ArticleId>
+            <ArticleId IdType="pubmed">14574410</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iaria G., Petrides M., Dagher A., Pike B., Bohbot V.D. Cognitive strategies dependent on the hippocampus and caudate nucleus in human navigation: variability and change with practice. J. Neurosci. 2003;23:5945–5952.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6741255</ArticleId>
+            <ArticleId IdType="pubmed">12843299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jeewajee A., Barry C., Douchamps V., Manson D., Lever C., Burgess N. Theta phase precession of grid and place cell firing in open environments. Philos. Trans. R. Soc. Lond. B Biol. Sci. 2014;369:20120532.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3866450</ArticleId>
+            <ArticleId IdType="pubmed">24366140</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jensen O., Lisman J.E. Position reconstruction from an ensemble of hippocampal place cells: contribution of theta phase coding. J. Neurophysiol. 2000;83:2602–2609.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10805660</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Keith J.R., McVety K.M. Latent place learning in a novel environment and the influences of prior training in rats. Psychobiology. 1988;16:146–151.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kjelstrup K.B., Solstad T., Brun V.H., Hafting T., Leutgeb S., Witter M.P., Moser E.I., Moser M.-B. Finite scale of spatial representation in the hippocampus. Science. 2008;321:140–143.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18599792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kolb B., Whishaw I.Q.  WH Freeman; 1996. Fundamentals of Human Neuropsychology.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kosslyn S.M., Ball T.M., Reiser B.J. Visual images preserve metric spatial information: evidence from studies of image scanning. J. Exp. Psychol. Hum. Percept. Perform. 1978;4:47–60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">627850</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krupic J., Burgess N., O’Keefe J. Neural representations of location composed of spatially periodic bands. Science. 2012;337:853–857.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4576732</ArticleId>
+            <ArticleId IdType="pubmed">22904012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krupic J., Bauza M., Burton S., Barry C., O’Keefe J. Grid cell symmetry is shaped by environmental geometry. Nature. 2015;518:232–235.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4576734</ArticleId>
+            <ArticleId IdType="pubmed">25673417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kubie J.L., Fenton A.A. Linear look-ahead in conjunctive cells: an entorhinal mechanism for vector-based navigation. Front. Neural Circuits. 2012;6:20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3337481</ArticleId>
+            <ArticleId IdType="pubmed">22557948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>London M., Häusser M. Dendritic computation. Annu. Rev. Neurosci. 2005;28:503–532.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16033324</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maguire E.A., Burgess N., Donnett J.G., Frackowiak R.S., Frith C.D., O’Keefe J. Knowing where and getting there: a human navigation network. Science. 1998;280:921–924.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9572740</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marr D., Poggio T. From understanding computation to understanding neural circuitry. Neurosci. Res. Program Bull. 1977;15:470–488.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Masson C., Girard B.  Decoding the grid cells for metric navigation using the residue numeral system. In: Wang R., Gu F., editors. Advances in Cognitive Neurodynamics. Springer; 2011. pp. 459–464.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mathis A., Herz A.V., Stemmler M. Optimal population codes for space: grid cells outperform place cells. Neural Comput. 2012;24:2280–2317.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22594833</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mathis A., Herz A.V.M., Stemmler M.B. Multiscale codes in the nervous system: the problem of noise correlations and the ambiguity of periodic scales. Phys. Rev. E Stat. Nonlin. Soft Matter Phys. 2013;88:022713.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24032870</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McNaughton B.L., Battaglia F.P., Jensen O., Moser E.I., Moser M.B. Path integration and the neural basis of the ‘cognitive map’. Nat. Rev. Neurosci. 2006;7:663–678.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16858394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mel B.W. Synaptic integration in an excitable dendritic tree. J. Neurophysiol. 1993;70:1086–1101.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8229160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mhatre H., Gorchetchnikov A., Grossberg S. Grid cell hexagonal patterns formed by fast self-organized learning within entorhinal cortex. Hippocampus. 2012;22:320–334.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21136517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miller J.F., Neufang M., Solway A., Brandt A., Trippel M., Mader I., Hefft S., Merkow M., Polyn S.M., Jacobs J. Neural activity in human hippocampal formation reveals the spatial context of retrieved memories. Science. 2013;342:1111–1114.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4669102</ArticleId>
+            <ArticleId IdType="pubmed">24288336</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morris R.G., Garrud P., Rawlins J.N., O’Keefe J. Place navigation impaired in rats with hippocampal lesions. Nature. 1982;297:681–683.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7088155</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muller R.U., Kubie J.L. The effects of changes in the environment on the spatial firing of hippocampal complex-spike cells. J. Neurosci. 1987;7:1951–1968.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6568940</ArticleId>
+            <ArticleId IdType="pubmed">3612226</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Keefe J., Burgess N. Dual phase and rate coding in hippocampal place cells: theoretical significance and relationship to entorhinal grid cells. Hippocampus. 2005;15:853–866.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2677681</ArticleId>
+            <ArticleId IdType="pubmed">16145693</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Keefe J., Conway D.H. Hippocampal place units in the freely moving rat: why they fire where they fire. Exp. Brain Res. 1978;31:573–590.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">658182</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Keefe J., Dostrovsky J. The hippocampus as a spatial map. Preliminary evidence from unit activity in the freely-moving rat. Brain Res. 1971;34:171–175.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">5124915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Keefe J., Nadel L.  Oxford University Press; 1978. The Hippocampus as a Cognitive Map.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ólafsdóttir H.F., Barry C., Saleem A.B., Hassabis D., Spiers H.J. Hippocampal place cells construct reward related sequences through unexplored space. eLife. 2015 Published online June 26, 2015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4479790</ArticleId>
+            <ArticleId IdType="pubmed">26112828</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Orchard J., Yang H., Ji X. Does the entorhinal cortex use the Fourier transform? Front. Comput. Neurosci. 2013;7:179.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3858727</ArticleId>
+            <ArticleId IdType="pubmed">24376415</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Packard M.G., McGaugh J.L. Inactivation of hippocampus or caudate nucleus with lidocaine differentially affects expression of place and response learning. Neurobiol. Learn. Mem. 1996;65:65–72.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8673408</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Parron C., Save E. Evidence for entorhinal and parietal cortices involvement in path integration in the rat. Exp. Brain Res. 2004;159:349–359.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15526193</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pfeiffer B.E., Foster D.J. Hippocampal place-cell sequences depict future paths to remembered goals. Nature. 2013;497:74–79.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3990408</ArticleId>
+            <ArticleId IdType="pubmed">23594744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reifenstein E.T., Kempter R., Schreiber S., Stemmler M.B., Herz A.V. Grid cells in rat entorhinal cortex encode physical space with independent firing fields and phase precession at the single-trial level. Proc. Natl. Acad. Sci. USA. 2012;109:6301–6306.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3341055</ArticleId>
+            <ArticleId IdType="pubmed">22474395</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rolls E.T., Stringer S.M., Elliot T. Entorhinal cortex grid cells can map to hippocampal place cells by competitive learning. Network. 2006;17:447–465.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17162463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sargolini F., Fyhn M., Hafting T., McNaughton B.L., Witter M.P., Moser M.B., Moser E.I. Conjunctive representation of position, direction, and velocity in entorhinal cortex. Science. 2006;312:758–762.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16675704</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scoville W.B., Milner B. Loss of recent memory after bilateral hippocampal lesions. J. Neurol. Neurosurg. Psychiatry. 1957;20:11–21.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC497229</ArticleId>
+            <ArticleId IdType="pubmed">13406589</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sharp P.E., Blair H.T., Brown M. Neural network modeling of the hippocampal formation spatial signals and their possible role in navigation: a modular approach. Hippocampus. 1996;6:720–734.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9034858</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sherrill K.R., Erdem U.M., Ross R.S., Brown T.I., Hasselmo M.E., Stern C.E. Hippocampus and retrosplenial cortex combine path integration signals for successful navigation. J. Neurosci. 2013;33:19304–19313.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3850045</ArticleId>
+            <ArticleId IdType="pubmed">24305826</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Solstad T., Moser E.I., Einevoll G.T. From grid cells to place cells: a mathematical model. Hippocampus. 2006;16:1026–1031.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17094145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Squire L.R., Zola-Morgan S. The medial temporal lobe memory system. Science. 1991;253:1380–1386.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1896849</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sreenivasan S., Fiete I. Grid cells generate an analog error-correcting code for singularly precise neural computation. Nat. Neurosci. 2011;14:1330–1337.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21909090</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Steele R.J., Morris R.G. Delay-dependent impairment of a matching-to-place task with chronic and intrahippocampal infusion of the NMDA-antagonist D-AP5. Hippocampus. 1999;9:118–136.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10226773</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Steffenach H.A., Witter M., Moser M.-B., Moser E.I. Spatial memory in the rat requires the dorsolateral band of the entorhinal cortex. Neuron. 2005;45:301–313.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15664181</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stensola H., Stensola T., Solstad T., Frøland K., Moser M.B., Moser E.I. The entorhinal grid map is discretized. Nature. 2012;492:72–78.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23222610</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stensola T., Stensola H., Moser M.-B., Moser E.I. Shearing-induced asymmetry in entorhinal grid cells. Nature. 2015;518:207–212.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25673414</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun H., Yao T.-R. A neural-like network approach to residue-to-decimal conversion. Neural Netw. 1994;6:3883–3887.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sutton R.S., Barto A.G.  MIT Press; 1998. Reinforcement Learning: An Introduction.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Taube J.S., Muller R.U., Ranck J.B., Jr. Head-direction cells recorded from the postsubiculum in freely moving rats. I. Description and quantitative analysis. J. Neurosci. 1990;10:420–435.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6570151</ArticleId>
+            <ArticleId IdType="pubmed">2303851</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thompson L.T., Best P.J. Place cells and silent cells in the hippocampus of freely-behaving rats. J. Neurosci. 1989;9:2382–2390.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6569761</ArticleId>
+            <ArticleId IdType="pubmed">2746333</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tolman E.C. Cognitive maps in rats and men. Psychol. Rev. 1948;55:189–208.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18870876</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Touretzky D.S., Redish A.D. Theory of rodent navigation based on interacting representations of space. Hippocampus. 1996;6:247–270.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8841825</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Van Cauter T., Camon J., Alvernhe A., Elduayen C., Sargolini F., Save E. Distinct roles of medial and lateral entorhinal cortex in spatial cognition. Cereb. Cortex. 2013;23:451–459.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22357665</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wei, X.X., Prentice, J., and Balasubramanian, V. (2013). The sense of place: grid cells in the brain and the transcendental number e. arXiv, arXiv:1304.0031, http://arxiv.org/abs/1304.0031.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Welday A.C., Shlifer I.G., Bloom M.L., Zhang K., Blair H.T. Cosine directional tuning of theta cell burst frequencies: evidence for spatial coding by oscillatory interference. J. Neurosci. 2011;31:16157–16176.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3758572</ArticleId>
+            <ArticleId IdType="pubmed">22072668</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,1475 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">33075762</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>07</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>07</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1741-2552</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>18</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Jan</Month>
+              <Day>25</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of neural engineering</Title>
+          <ISOAbbreviation>J Neural Eng</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The temporal pattern of intracortical microstimulation pulses elicits distinct temporal and spatial recruitment of cortical neuropil and neurons.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1088/1741-2552/abc29c</ELocationID>
+        <Abstract>
+          <AbstractText><i>Objective.</i>The temporal spacing or distribution of stimulation pulses in therapeutic neurostimulation waveforms-referred to here as the Temporal Pattern (TP)-has emerged as an important parameter for tuning the response to deep-brain stimulation and intracortical microstimulation (ICMS). While it has long been assumed that modulating the TP of ICMS may be effective by altering the rate coding of the neural response, it is unclear how it alters the neural response at the network level. The present study is designed to elucidate the neural response to TP at the network level.<i>Approach</i>. We use<i>in vivo</i>two-photon imaging of mice expressing the calcium sensor<i>Thy1</i>-GCaMP or the glutamate sensor<i>hSyn</i>-iGluSnFr to examine the layer II/III neural response to ICMS with different TPs. We study the neuronal calcium and glutamate response to TPs with the same average frequency (10 Hz) and same total charge injection, but varying degrees of bursting. We also investigate one control pattern with an average frequency of 100 Hz and 10X the charge injection.<i>Main Results</i>. Stimulation trains with the same average frequency and same total charge injection but distinct TPs recruit distinct sets of neurons. More than half (60% of 309 cells) of neurons prefer one TP over the other. Despite their distinct spatial recruitment patterns, cells exhibit similar ability to follow 30 s trains of both TPs without failing, and they exhibit similar levels of glutamate release during stimulation. Both neuronal calcium and glutamate release entrain to the bursting TP pattern, with a ∼21-fold increase in relative power at the frequency of bursting. Bursting also results in a statistically significant elevation in the correlation between somatic calcium activity and neuropil activity, which we explore as a metric for inhibitory-excitatory tone. Interestingly, soma-neuropil correlation during the bursting pattern is a statistically significant predictor of cell preference for TP, which exposes a key link between TP and inhibitory-excitatory tone. Finally, using mesoscale imaging, we show that both TPs result in distal inhibition during stimulation, which reveals complex spatial and temporal interactions between TP and inhibitory-excitatory tone in ICMS.<i>Significance</i>. Our results may ultimately suggest that TP is a valuable parameter space to modulate inhibitory-excitatory tone and to recruit distinct network activity in ICMS. This presents a broader mechanism of action than rate coding, as previously thought. By implicating these additional mechanisms, TP may have broader utility in the clinic and should be pursued to expand the efficacy of ICMS therapies.</AbstractText>
+          <CopyrightInformation>© 2021 IOP Publishing Ltd.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Eles</LastName>
+            <ForeName>James R</ForeName>
+            <Initials>JR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Equal contribution.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Stieger</LastName>
+            <ForeName>Kevin C</ForeName>
+            <Initials>KC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Equal contribution.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for the Neural Basis of Cognition, University of Pittsburgh, Carnegie Mellon University, Pittsburgh, PA, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kozai</LastName>
+            <ForeName>Takashi D Y</ForeName>
+            <Initials>TDY</Initials>
+            <Identifier Source="ORCID">0000-0002-2507-3295</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Bioengineering, University of Pittsburgh, Pittsburgh, PA, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for the Neural Basis of Cognition, University of Pittsburgh, Carnegie Mellon University, Pittsburgh, PA, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Neuroscience, University of Pittsburgh, Pittsburgh, PA, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>McGowan Institute for Regenerative Medicine, University of Pittsburgh, Pittsburgh, PA, United States of America.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>NeuroTech Center, University of Pittsburgh Brain Institute, Pittsburgh, PA, United States of America.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 NS094396</GrantID>
+            <Acronym>NS</Acronym>
+            <Agency>NINDS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 NS105691</GrantID>
+            <Acronym>NS</Acronym>
+            <Agency>NINDS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 NS115707</GrantID>
+            <Acronym>NS</Acronym>
+            <Agency>NINDS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R21 NS108098</GrantID>
+            <Acronym>NS</Acronym>
+            <Agency>NINDS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>01</Month>
+          <Day>25</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>J Neural Eng</MedlineTA>
+        <NlmUniqueID>101217933</NlmUniqueID>
+        <ISSNLinking>1741-2552</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>3KX376GY7L</RegistryNumber>
+          <NameOfSubstance UI="D018698">Glutamic Acid</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004558" MajorTopicYN="N">Electric Stimulation</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018698" MajorTopicYN="N">Glutamic Acid</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008839" MajorTopicYN="N">Microelectrodes</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009474" MajorTopicYN="Y">Neurons</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019581" MajorTopicYN="Y">Neuropil</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">biomimetic</Keyword>
+        <Keyword MajorTopicYN="Y">brain stimulation</Keyword>
+        <Keyword MajorTopicYN="Y">brain-computer interface</Keyword>
+        <Keyword MajorTopicYN="Y">calcium imaging</Keyword>
+        <Keyword MajorTopicYN="Y">duty cycle</Keyword>
+        <Keyword MajorTopicYN="Y">iGluSnFr</Keyword>
+        <Keyword MajorTopicYN="Y">neuromodulation</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>2</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>10</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>10</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>10</Month>
+          <Day>19</Day>
+          <Hour>20</Hour>
+          <Minute>17</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">33075762</ArticleId>
+        <ArticleId IdType="mid">NIHMS1700287</ArticleId>
+        <ArticleId IdType="pmc">PMC8167825</ArticleId>
+        <ArticleId IdType="doi">10.1088/1741-2552/abc29c</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Clark KL, Armstrong KM and Moore T
+2011. 
+Probing neural circuitry and function with electrical microstimulation
+Proc. R. Soc. B
+278
+1121–30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3049083</ArticleId>
+            <ArticleId IdType="pubmed">21247952</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Byrd DL, Marks WJ Jr. and Starr PA
+2000. 
+Deep brain stimulation for advanced Parkinson’s disease
+Aorn J
+72
+387–90, 393–408 quiz 409–14, 416–8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11004960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mayberg HS, Lozano AM, Voon V, McNeely HE, Seminowicz D, Hamani C, Schwalb JM and Kennedy SH
+2005. 
+Deep brain stimulation for treatment-resistant depression
+Neuron
+45
+651–60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15748841</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Flesher SN, Collinger JL, Foldes ST, Weiss JM, Downey JE, Tyler-Kabara EC, Bensmaia SJ, Schwartz AB, Boninger ML and Gaunt R A
+2016. 
+Intracortical microstimulation of human somatosensory cortex
+Set. Trans. Med
+8
+361ra141</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27738096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Doherty JE, Lebedev MA, Li Z and Nicolelis MA
+2012. 
+Virtual active touch using randomly patterned intracortical micro stimulation
+IEEE Trans. Neural Syst. Rehabil. Eng
+20
+85–93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3590844</ArticleId>
+            <ArticleId IdType="pubmed">22207642</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tabot GA, Dammann JF, Berg JA, Tenore FV, Boback JL, Vogelstein RJ and Bensmaia SJ
+2013. 
+Restoring the sense of touch with a prosthetic hand through a brain interface
+Proc. Natl Acad. Sci. USA
+110
+18279–84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3831459</ArticleId>
+            <ArticleId IdType="pubmed">24127595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wilson BS, Finley CC, Lawson DT, Wolford RD, Eddington DK and Rabinowitz WM
+1991. 
+Better speech recognition with cochlear implants
+Nature
+352
+236–8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1857418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berg JA
+et al.
+2013. 
+Behavioral demonstration of a somatosensory neuroprosthesis
+IEEE Trans. Neural Syst. Rehabil. Eng
+21
+500–7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23475375</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Romo R, Hernandez A, Zainos A, Brody CD and Lemus L
+2000. 
+Sensing without touching: psychophysical performance based on cortical microstimulation
+Neuron
+26
+273–8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10798410</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Romo R, Hernandez A, Zainos A and Salinas E
+1998. 
+Somatosensory discrimination based on cortical microstimulation
+Nature
+392
+387–90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9537321</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Armenta Salas M. 
+et al.
+
+Proprioceptive and cutaneous sensations in humans elicited by intracortical microstimulation. 
+
+eLife. 2018:7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5896877</ArticleId>
+            <ArticleId IdType="pubmed">29633714</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cicmil N and Krug K
+2015. 
+Playing the electric light orchestra—how electrical stimulation of visual cortex elucidates the neural basis of perception
+Phil. Trans. R. Soc. B
+370</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4528818</ArticleId>
+            <ArticleId IdType="pubmed">26240421</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schmidt EM, Bak MJ, Hambrecht FT, Kufta CV, O’Rourke DK and Vallabhanath P
+1996. 
+Feasibility of a visual prosthesis for the blind based on intracortical microstimulation of the visual cortex
+Brain
+119
+507–22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8800945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tehovnik EJ and Slocum WM
+2003. 
+Microstimulation of macaque V1 disrupts target selection: effects of stimulation polarity
+Exp. Brain Res
+148
+233–7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12520412</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tehovnik EJ, Slocum WM and Schiller PH
+2003. 
+Saccadic eye movements evoked by microstimulation of striate cortex
+Eur. J. Neurosci
+17
+870–8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12603277</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim S, Callier T, Tabot GA, Gaunt RA, Tenore FV and Bensmaia SJ
+2015. 
+Behavioral assessment of sensitivity to intracortical microstimulation of primate somatosensory cortex
+Proc. Natl Acad. Sci
+112
+15202–7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4679002</ArticleId>
+            <ArticleId IdType="pubmed">26504211</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Callier T, Brantly NW, Caravelli A and Bensmaia SJ
+2020. 
+The frequency of cortical microstimulation shapes artificial touch
+Proc. Natl Acad. Sci
+117
+1191–200</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6969512</ArticleId>
+            <ArticleId IdType="pubmed">31879342</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fridman GY, Blair HT, Blaisdell AP and Judy JW
+2010. 
+Perceived intensity of somatosensory cortical electrical stimulation
+Exp. Brain Res
+203
+499–515</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2875471</ArticleId>
+            <ArticleId IdType="pubmed">20440610</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Birznieks I and Vickery RM
+2017. 
+Spike timing matters in novel neuronal code involved in vibrotactile frequency perception
+Curr. Biol. CB
+27
+1485–1490.e2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28479322</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saal HP, Wang X and Bensmaia SJ
+2016. 
+Importance of spike timing in touch: an analogy with hearing?
+Curr. Opin. Neurobiol
+40
+142–9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5315566</ArticleId>
+            <ArticleId IdType="pubmed">27504741</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kimmel DL and Moore T
+2007. 
+Temporal patterning of saccadic eye movement signals
+J. Neurosci
+27
+7619–30</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6672894</ArticleId>
+            <ArticleId IdType="pubmed">17634356</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grill WM
+2018. 
+Temporal pattern of electrical stimulation is a new dimension of therapeutic innovation
+Curr. Opin. Biomed. Eng
+8
+1–6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6426311</ArticleId>
+            <ArticleId IdType="pubmed">30906909</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hess CW, Vaillancourt DE and Okun MS
+2013. 
+The temporal pattern of stimulation may be important to the mechanism of deep brain stimulation
+Exp. Neurol
+247
+296–302</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3742615</ArticleId>
+            <ArticleId IdType="pubmed">23399890</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hernández A, Zainos A and Romo R
+2000. 
+Neuronal correlates of sensory discrimination in the somatosensory cortex
+Proc. Natl Acad. Sci
+97
+6191.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC18580</ArticleId>
+            <ArticleId IdType="pubmed">10811922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Butovas S, Hormuzdi SG, Monyer H and Schwarz C
+2006. 
+Effects of electrically coupled inhibitory networks on local neuronal responses to intracortical microstimulation
+J. Neurophysiol
+96
+1227–36</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16837655</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Butovas S and Schwarz C
+2003. 
+Spatiotemporal effects of microstimulation in rat neocortex: a parametric study using multielectrode recordings
+J. Neurophysiol
+90
+3024–39</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12878710</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gomez JA. 
+et al.
+
+Ventral tegmental area astrocytes orchestrate avoidance and approach behavior. 
+
+
+Nat. Commun. 2019;10:1455.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6440962</ArticleId>
+            <ArticleId IdType="pubmed">30926783</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang J, Zhang S, Yu C, Zheng X and Xu K
+2018. 
+Intrinsic optical imaging study on cortical responses to electrical stimulation in ventral posterior medial nucleus of thalamus
+Brain Res
+1684
+40–49</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29408501</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Margalit SN and Slovin H
+2018. 
+Spatio-temporal characteristics of population responses evoked by microstimulation in the barrel cortex
+Sci. Rep
+8
+13913.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6141467</ArticleId>
+            <ArticleId IdType="pubmed">30224723</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Osanai M, Tanaka S, Takeno Y, Takimoto S and Yagi T
+2010. 
+Spatiotemporal properties of the action potential propagation in the mouse visual cortical slice analyzed by calcium imaging
+PloS One
+5
+e13738.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2966408</ArticleId>
+            <ArticleId IdType="pubmed">21060776</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tanaka Y, Nomoto T, Shiki T, Sakata Y, Shimada Y, Hayashida Y and Yagi T
+2019. 
+Focal activation of neuronal circuits induced by microstimulation in the visual cortex
+J. Neural. Eng
+16
+036007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30818288</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Michelson NJ, Eles JR, Vazquez AL, Ludwig KA and Kozai TDY
+2019. 
+Calcium activation of cortical neurons by continuous electrical stimulation: frequency dependence, temporal fidelity, and activation density
+J. Neurosci. Res
+97
+620–38</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6469875</ArticleId>
+            <ArticleId IdType="pubmed">30585651</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eles JR and Kozai TDY
+2020. 
+In vivo imaging of calcium and glutamate responses to intracortical microstimulation reveals distinct temporal responses of the neuropil and somatic compartments in layer II/III neurons
+Biomaterials
+234
+119767.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7487166</ArticleId>
+            <ArticleId IdType="pubmed">31954232</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Michelson NJ and Kozai TDY
+2018. 
+Isoflurane and ketamine differentially influence spontaneous and evoked laminar electrophysiology in mouse V1. J. Neurophysiol </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6295540</ArticleId>
+            <ArticleId IdType="pubmed">30067128</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Michelson NJ, Eles JR, Vazquez AL, Ludwig KA and Kozai TDY
+2018. 
+Calcium activation of cortical neurons by continuous electrical stimulation: frequency dependence, temporal fidelity, and activation density
+J. Neurosci. Res </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6469875</ArticleId>
+            <ArticleId IdType="pubmed">30585651</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stieger KC, Eles JR, Ludwig KA and Kozai TDY
+In vivo microstimulation with cathodic and anodic asymmetric waveforms modulates spatiotemporal calcium dynamics in cortical neuropil and pyramidal neurons of male mice. J. Neurosci. Res
+n/a</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8095318</ArticleId>
+            <ArticleId IdType="pubmed">32592267</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanzeni A, Akitake B, Goldbach HC, Leedy CE, Brunel N and Histed MH
+2020. 
+Inhibition stabilization is a widespread property of cortical networks
+eLife
+9
+e54875.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7324160</ArticleId>
+            <ArticleId IdType="pubmed">32598278</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Merrill DR, Bikson M and Jefferys JG
+2005. 
+Electrical stimulation of excitable tissue: design of efficacious and safe protocols
+J. Neurosci. Methods
+141
+171–98</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15661300</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen Q
+et al.
+2012. 
+Imaging neural activity using Thy1-GCaMP transgenic mice
+Neuron
+76
+297–308</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4059513</ArticleId>
+            <ArticleId IdType="pubmed">23083733</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marvin JS
+et al.
+2013. 
+An optimized fluorescent probe for visualizing glutamate neurotransmission
+Nat. Methods
+10
+162–70</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4469972</ArticleId>
+            <ArticleId IdType="pubmed">23314171</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eles JR, Vazquez AL, Kozai TDY and Cui XT
+2018. 
+In vivo imaging of neuronal calcium during electrode implantation: spatial and temporal mapping of damage and recovery
+Biomaterials
+174
+79–94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5987772</ArticleId>
+            <ArticleId IdType="pubmed">29783119</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eick S, Wallys J, Hofmann B, Van Ooyen A, Schnakenberg U, Ingebrandt S and Offenhäusser A
+2009. 
+Iridium oxide microelectrode arrays for in vitro stimulation of individual rat neurons from dissociated cultures
+Front. Neuroeng
+2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2783441</ArticleId>
+            <ArticleId IdType="pubmed">19949459</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kozai TDY, Jaquins-Gerstl AS, Vazquez AL, Michael AC and Cui XT
+2016. 
+Dexamethasone retrodialysis attenuates microglial response to implanted probes in vivo
+Biomaterials
+87
+157–69</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4866508</ArticleId>
+            <ArticleId IdType="pubmed">26923363</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eles JR, Vazquez AL, Kozai TDY and Cui XT
+2019. 
+Meningeal inflammatory response and fibrous tissue remodeling around intracortical implants: an in vivo two-photon imaging study
+Biomaterials
+195
+111–23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6350934</ArticleId>
+            <ArticleId IdType="pubmed">30634095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eles JR, Vazquez AL, Snyder NR, Lagenaur CF, Murphy MC, Kozai TDY and Cui XT
+2017. 
+Neuroadhesive L1 coating attenuates acute microglial attachment to neural electrodes as revealed by live two-photon microscopy
+Biomaterials
+113
+279–92</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5563378</ArticleId>
+            <ArticleId IdType="pubmed">27837661</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kozai TDY, Eles JR, Vazquez AL and Cui XT
+2016. 
+Two-photon imaging of chronically implanted neural electrodes: sealing methods and new insights
+J. Neurosci. Methods
+258
+46–55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4771525</ArticleId>
+            <ArticleId IdType="pubmed">26526459</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wellman SM and Kozai TDY
+2018. 
+In vivo spatiotemporal dynamics of NG2 glia activity caused by neural electrode implantation
+Biomaterials
+164
+121–33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5951685</ArticleId>
+            <ArticleId IdType="pubmed">29501892</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Michelson NJ, Vazquez AL, Eles JR, Salatino JW, Purcell EK, Williams JJ, Cui XT and Kozai TDY
+2018. 
+Multi-scale, multi-modal analysis uncovers complex relationship at the brain tissue-implant neural interface: new emphasis on the biological interface
+J. Neural. Eng
+15</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5967409</ArticleId>
+            <ArticleId IdType="pubmed">29182149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kozai TDY, Vazquez AL, Weaver CL, Kim S-G and Cui XT
+2012. 
+In vivo two-photon microscopy reveals immediate microglial reaction to implantation of microelectrode through extension of processes
+J. Neural. Eng
+9
+066001–066001</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3511663</ArticleId>
+            <ArticleId IdType="pubmed">23075490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kozai TDY, Li X, Bodily LM, Caparosa EM, Zenonos GA, Carlisle DL, Friedlander RM and Cui XT
+2014. 
+Effects of caspase-1 knockout on chronic neural recording quality and longevity: insight into cellular and molecular mechanisms of the reactive tissue response
+Biomaterials
+35
+9620–34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4174599</ArticleId>
+            <ArticleId IdType="pubmed">25176060</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kozai TDY, Marzullo TC, Hooi F, Langhals NB, Majewska AK, Brown EB and Kipke DR
+2010. 
+Reduction of neurovascular damage resulting from microelectrode insertion into the cerebral cortex using in vivo two-photon mapping
+J. Neural. Eng
+7
+046011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3164482</ArticleId>
+            <ArticleId IdType="pubmed">20644246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Histed MH, Bonin V and Reid RC
+2009. 
+Direct activation of sparse, distributed populations of cortical neurons by electrical microstimulation
+Neuron
+63
+508–22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2874753</ArticleId>
+            <ArticleId IdType="pubmed">19709632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tehovnik EJ and Slocum WM
+2013. 
+Two-photon imaging and the activation of cortical neurons
+Neuroscience
+245
+12–25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23603308</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Akerboom J
+et al.
+2012. 
+Optimization of a GCaMP calcium indicator for neural activity imaging
+J. Neurosci
+32
+13819–40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3482105</ArticleId>
+            <ArticleId IdType="pubmed">23035093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou S and Yu Y
+2018. 
+Synaptic E-I balance underlies efficient neural coding Front. Neurosci
+12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5801300</ArticleId>
+            <ArticleId IdType="pubmed">29456491</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jouhanneau J-S, Kremkow J and Poulet JFA
+2018. 
+Single synaptic inputs drive high-precision action potentials in parvalbumin expressing GABA-ergic cortical neurons in vivo
+Nat. Commun
+9
+1540.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5906477</ArticleId>
+            <ArticleId IdType="pubmed">29670095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Petersen CC and Crochet S
+2013. 
+Synaptic computation and sensory processing in neocortical layer 2/3
+Neuron
+78
+28–48</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23583106</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li C-YT, Poo -M-M and Dan Y
+2009. 
+Burst spiking of a single cortical neuron modifies global brain state
+Science
+324
+643–6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2913066</ArticleId>
+            <ArticleId IdType="pubmed">19407203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dana H, Chen TW, Hu A, Shields BC, Guo C, Looger LL, Kim DS and Svoboda K
+2014. 
+Thy1-GCaMP6 transgenic mice for neuronal population imaging in vivo
+PloS One
+9
+e108697.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4177405</ArticleId>
+            <ArticleId IdType="pubmed">25250714</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Armbruster M, Hanson E and Dulla CG
+2016. 
+Glutamate clearance is locally modulated by presynaptic neuronal activity in the cerebral cortex
+J. Neurosci
+36
+10404–15</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5050332</ArticleId>
+            <ArticleId IdType="pubmed">27707974</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McGirr A, LeDue J, Chan AW, Xie Y and Murphy TH
+2017. 
+Cortical functional hyperconnectivity in a mouse model of depression and selective network effects of ketamine
+Brain
+140
+2210–25</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28899017</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kwan AC and Dan Y
+2012. 
+Dissection of cortical microcircuits by single-neuron stimulation in vivo
+Curr. Biol
+22
+1459–67</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3467311</ArticleId>
+            <ArticleId IdType="pubmed">22748320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chan HK, Yang D-P, Zhou C and Nowotny T
+2016. 
+Burst firing enhances neural output correlation
+Front. Comput. Neurosci
+10
+42–42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4860405</ArticleId>
+            <ArticleId IdType="pubmed">27242499</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kerr JND and Denk W
+2008. 
+Imaging in vivo: watching the brain in action
+Nat. Rev. Neurosci
+9
+195.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18270513</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kerr JND, Greenberg D and Helmchen F
+2005. 
+Imaging input and output of neocortical networks in vivo
+Proc. Natl Acad. Sci. USA
+102
+14063.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1201343</ArticleId>
+            <ArticleId IdType="pubmed">16157876</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee S, Meyer JF, Park J and Smirnakis SM
+2017. 
+Visually driven neuropil activity and information encoding in mouse primary visual cortex
+Front. Neural Circuits
+11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5519560</ArticleId>
+            <ArticleId IdType="pubmed">28785207</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brocker DT, Swan BD, So RQ, Turner DA, Gross RE and Grill WM
+2017. 
+Optimized temporal pattern of brain stimulation designed by computational evolution
+Sci. Trans. Med
+9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5516784</ArticleId>
+            <ArticleId IdType="pubmed">28053151</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cabral J, Hugues E, Sporns O and Deco G
+2011. 
+Role of local network oscillations in resting-state functional connectivity
+NeuroImage
+57
+130–9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21511044</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sloper J
+1973. 
+An electron microscopic study of the neurons of the primate motor and somatic sensory cortices
+J. Neurocytol
+2
+351–9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">4206299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hendry SH, Schwark H, Jones E and Yan J
+1987. 
+Numbers and proportions of GABA-immunoreactive neurons in different areas of monkey cerebral cortex
+J. Neurosci
+7
+1503–19</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6568832</ArticleId>
+            <ArticleId IdType="pubmed">3033170</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gabbott P and Somogyi P
+1986. 
+Quantitative distribution of GABA-immunoreactive neurons in the visual cortex (area 17) of the cat
+Exp. Brain Res
+61
+323–31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3005016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anastassiou CA, Perin R, Buzsaki G, Markram H and Koch C
+2015. 
+Cell type- and activity-dependent extracellular correlates of intracellular spiking
+J. Neurophysiol
+114
+608–23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4509390</ArticleId>
+            <ArticleId IdType="pubmed">25995352</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Markram H, Toledo-Rodriguez M, Wang Y, Gupta A, Silberberg G and Wu C
+2004. 
+Interneurons of the neocortical inhibitory system
+Nat. Rev. Neurosci
+5
+793–807</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15378039</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Makino H, Ren C, Liu H, Kim AN, Kondapaneni N, Liu X, Kuzum D and Komiyama T
+2017. 
+Transformation of cortex-wide emergent properties during motor learning
+Neuron
+94
+880–890.e8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5502752</ArticleId>
+            <ArticleId IdType="pubmed">28521138</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lodato S, Rouaux C, Quast KB, Jantrachotechatchawan C, Studer M, Hensch TK and Arlotta P
+2011. 
+Excitatory projection neuron subtypes control the distribution of local inhibitory interneurons in the cerebral cortex
+Neuron
+69
+763–79</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3061282</ArticleId>
+            <ArticleId IdType="pubmed">21338885</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bitzenhofer SH, Ahlbeck J, Wolff A, Wiegert JS, Gee CE, Oertner TG and Hanganu-Opatz IL
+2017. 
+Layer-specific optogenetic activation of pyramidal neurons causes beta-gamma entrainment of neonatal networks
+Nat. Commun
+8
+14563.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5321724</ArticleId>
+            <ArticleId IdType="pubmed">28216627</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hodge RD
+et al.
+2019. 
+Conserved cell types with divergent features in human versus mouse cortex
+Nature
+573
+61–68</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6919571</ArticleId>
+            <ArticleId IdType="pubmed">31435019</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seeman SC. 
+et al.
+
+Sparse recurrent excitatory connectivity in the microcircuit of the adult mouse and human cortex. 
+
+
+eLife. 2018;7:e37349.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6158007</ArticleId>
+            <ArticleId IdType="pubmed">30256194</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tasic B
+et al.
+2018. 
+Shared and distinct transcriptomic cell types across neocortical areas
+Nature
+563
+72–78</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6456269</ArticleId>
+            <ArticleId IdType="pubmed">30382198</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ozeki H, Finn IM, Schaffer ES, Miller KD and Ferster D
+2009. 
+Inhibitory stabilization of the cortical network underlies visual surround suppression
+Neuron
+62
+578–92</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2691725</ArticleId>
+            <ArticleId IdType="pubmed">19477158</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Amari S-I
+1977. 
+Dynamics of pattern formation in lateral-inhibition type neural fields
+Biol. Cybern
+27
+77—87</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">911931</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harvey MA, Saal HP, Dammann JF 3rd and Bensmaia SJ
+2013. 
+Multiplexing stimulus information through rate and temporal codes in primate somatosensory cortex
+PloS Biol
+11
+e1001558.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3646728</ArticleId>
+            <ArticleId IdType="pubmed">23667327</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tiesinga P and Sejnowski TJ
+2009. 
+Cortical enlightenment: are attentional gamma oscillations driven by ING or PING?
+Neuron
+63
+727–32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2778762</ArticleId>
+            <ArticleId IdType="pubmed">19778503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tamas G, Lorincz A, Simon A and Szabadics J
+2003. 
+Identified sources and targets of slow inhibition in the neocortex
+Science
+299
+1902–5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12649485</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thomson AM and Destexhe A
+1999. 
+Dual intracellular recordings and computational models of slow inhibitory postsynaptic potentials in rat neocortical and hippocampal slices
+Neuroscience
+92
+1193–215</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10426478</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yi G and Grill WM
+2018. 
+Frequency-dependent antidromic activation in thalamocortical relay neurons: effects of synaptic inputs
+J. Neural. Eng
+15
+056001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6125172</ArticleId>
+            <ArticleId IdType="pubmed">29893711</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tremblay R, Lee S and Rudy B
+2016. 
+GABAergic interneurons in the neocortex: from cellular properties to circuits
+Neuron
+91
+260–92</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4980915</ArticleId>
+            <ArticleId IdType="pubmed">27477017</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McIntyre CC, Grill WM, Sherman DL and Thakor NV
+2004. 
+Cellular effects of deep brain stimulation: model-based analysis of activation and inhibition
+J. Neurophysiol
+91
+1457–69</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14668299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Parsons MP, Vanni MP, Woodard CL, Kang R, Murphy TH and Raymond LA
+2016. 
+Real-time imaging of glutamate clearance reveals normal striatal uptake in Huntington disease mouse models Nat
+Commun
+7
+11251</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4829692</ArticleId>
+            <ArticleId IdType="pubmed">27052848</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aberra AS, Peterchev AV and Grill WM
+2018. 
+Biophysically realistic neuron models for simulation of cortical stimulation
+J. Neural. Eng
+15
+066023.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6239949</ArticleId>
+            <ArticleId IdType="pubmed">30127100</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Overstreet C, Klein J and Tillery SH
+2013. 
+Computational modeling of direct neuronal recruitment during intracortical microstimulation in somatosensory cortex
+J. Neural. Eng
+10
+066016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24280531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kozai TDY, Alba NA, Zhang H, Kotov NA, Gaunt RA and Cui XT
+2014. 
+Nanostructured coatings for improved charge delivery to neurons
+Nanotechnology and Neuroscience: Nano-electronic, Photonic and Mechanical Neuronal Interfacing, ed De Vittorio M, Martiradonna L and Assad J (Berlin: Springer; ) pp 71–134</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Radivojevic M, Jackel D, Altermatt M, Muller J, Viswam V, Hierlemann A and Bakkum DJ
+2016. 
+Electrical identification and selective microstimulation of neuronal compartments based on features of extracellular action potentials
+Sci. Rep
+6
+31332.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4980679</ArticleId>
+            <ArticleId IdType="pubmed">27510732</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Octeau JC, Gangwani MR, Allam SL, Tran D, Huang S, Hoang-Trong TM, Golshani P, Rumbell TH, Kozloski JR and Khakh BS
+2019. 
+Transient, consequential increases in extracellular potassium ions accompany channelrhodopsin2 excitation
+Cell Rep
+27
+2249–2261.e7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6582980</ArticleId>
+            <ArticleId IdType="pubmed">31116972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo Z, Feng Z, Wang Y and Wei X
+2018. 
+Simulation study of intermittent axonal block and desynchronization effect induced by high-frequency stimulation of electrical pulses
+Front. Neurosci
+12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6262085</ArticleId>
+            <ArticleId IdType="pubmed">30524231</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Y, Gupta A, Toledo-Rodriguez M, Wu CZ and Markram H
+2002. 
+Anatomical, physiological, molecular and circuit properties of nest basket cells in the developing somatosensory cortex
+Cereb. Cortex
+12
+395–410</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11884355</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Serwanski DR, Miralles CP, Christie SB, Mehta AK, Li X and De Blas AL
+2006. 
+Synaptic and nonsynaptic localization of GABAA receptors containing the alpha5 subunit in the rat brain
+J. Comp. Neurol
+499
+458–70</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2749292</ArticleId>
+            <ArticleId IdType="pubmed">16998906</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lorenzo LE, Russier M, Barbe A, Fritschy JM and Bras H
+2007. 
+Differential organization of gamma-aminobutyric acid type A and glycine receptors in the somatic and dendritic compartments of rat abducens motoneurons
+J. Comp. Neurol
+504
+112–26</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17626281</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen TW
+et al.
+2013. 
+Ultrasensitive fluorescent proteins for imaging neuronal activity
+Nature
+499
+295–300</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3777791</ArticleId>
+            <ArticleId IdType="pubmed">23868258</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wikswo JP Jr , Lin S-F and Abbas RA
+1995. 
+Virtual electrodes in cardiac tissue: a common mechanism for anodal and cathodal stimulation
+Biophys. J
+69
+2195–210</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1236459</ArticleId>
+            <ArticleId IdType="pubmed">8599628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee S, Kruglikov I, Huang ZJ, Fishell G and Rudy B
+2013. 
+A disinhibitory circuit mediates motor integration in the somatosensory cortex
+Nat. Neurosci
+16
+1662–70</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4100076</ArticleId>
+            <ArticleId IdType="pubmed">24097044</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krawchuk MB, Ruff CF, Yang X, Ross SE and Vazquez AL
+2019. 
+Optogenetic assessment of VIP, PV, SOM and NOS inhibitory neuron activity and cerebral blood flow regulation in mouse somato-sensory cortex
+J. Cereb. Blood Flow Metab
+0
+0271678 × 19870105</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7307010</ArticleId>
+            <ArticleId IdType="pubmed">31418628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Delhaye BP, Saal HP and Bensmaia SJ
+2016. 
+Key considerations in designing a somatosensory neuroprosthesis
+J. Physiol
+110
+402–8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27815182</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lieber JD and Bensmaia SJ
+2019. 
+High-dimensional representation of texture in somatosensory cortex of primates
+Proc. Natl Acad. Sci. USA
+116
+3268–77</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6386651</ArticleId>
+            <ArticleId IdType="pubmed">30718436</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McIntyre CC and Grill WM
+2002. 
+Extracellular stimulation of central neurons: influence of stimulus waveform and frequency on neuronal output
+J. Neurophysiol
+88
+1592–604</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12364490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ranck JB Jr. 1975. 
+Which elements are excited in electrical stimulation of mammalian central nervous system: a review
+Brain Res
+98
+417–40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1102064</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McGee MJ and Grill WM
+2016. 
+Temporal pattern of stimulation modulates reflex bladder activation by pudendal nerve stimulation
+Neurourol. Urodyn
+35
+882–7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5695878</ArticleId>
+            <ArticleId IdType="pubmed">26147580</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Leszczynski M and Schroeder CE
+2019. 
+The role of neuronal oscillations in visual active sensing
+Front. Integr. Neurosci
+13.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6664014</ArticleId>
+            <ArticleId IdType="pubmed">31396059</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Adhikari BM, Sathian K, Epstein CM, Lamichhane B and Dhamala M
+2014. 
+Oscillatory activity in neocortical networks during tactile discrimination near the limit of spatial acuity
+NeuroImage
+91
+300–10</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4307021</ArticleId>
+            <ArticleId IdType="pubmed">24434679</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

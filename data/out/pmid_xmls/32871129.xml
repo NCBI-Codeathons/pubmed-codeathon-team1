@@ -1,0 +1,184 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">32871129</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>06</Month>
+        <Day>21</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>06</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1095-8541</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>507</Volume>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>Dec</Month>
+              <Day>21</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of theoretical biology</Title>
+          <ISOAbbreviation>J Theor Biol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Delay-driven oscillations via Axin2 feedback in the Wnt/β-catenin signalling pathway.</ArticleTitle>
+        <Pagination>
+          <StartPage>110458</StartPage>
+          <MedlinePgn>110458</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jtbi.2020.110458</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0022-5193(20)30313-1</ELocationID>
+        <Abstract>
+          <AbstractText>The Wnt signalling pathway plays an important role in development, disease, and normal tissue function. Mathematical models for Wnt signalling have predominantly focused on quantitatively predicting changes in steady-state β-catenin concentrations (the main downstream protein regulated by canonical Wnt signalling). One of the genes targeted for expression by Wnt/β-catenin signalling is the negative Wnt regulator Axin2. Recently, a number of authors have indicated a potential theoretical role of Axin2 feedback to induce oscillatory behaviour in the pathway and this has been observed in a number of detailed mathematical models. Due to the complexity of these models, the investigations to date have been limited to numerical experiments and parameter sensitivity analyses. In this manuscript, we study the fundamental structure of the dynamical system underlying the Wnt signalling mechanism with Axin2 feedback to gain some insight into why and when oscillations occur in models with this structure. We semi-rigorously analyse three simple models and, for these models, gain deep understanding of the characteristic set of conditions that are necessary and sufficient for oscillations to be induced. We discuss the possible biological consequences of these findings for Wnt signalling pathway oscillations. They include; to promote oscillations (1) Keeping all other parameters constant, the Wnt signal strength should neither be too high or too low but within a single finite window of values, (2) Wnt receptor complexes should fully deactivate Axin rather than temporarily deconstruct it from other scaffold proteins, (3) In the absence of stochastic effects or more complicated mechanisms, a critical delay in Axin2 feedback in the system is necessary, (4) Deactivation of Axin by the Wnt receptor complex needs to be critically efficient relative to β-catenin removal by Axin, and (5) conditions necessary are less strict if Axin2 feedback occurs after a fixed time rather than a Poisson-distributed time with the same average.</AbstractText>
+          <CopyrightInformation>Copyright © 2020 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Cavallo</LastName>
+            <ForeName>James C</ForeName>
+            <Initials>JC</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Mathematics, Monash University, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Scholpp</LastName>
+            <ForeName>Steffen</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Living Systems Institute, University of Exeter, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Flegg</LastName>
+            <ForeName>Mark B</ForeName>
+            <Initials>MB</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Mathematics, Monash University, Australia. Electronic address: mark.flegg@monash.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>MR/S007970/1</GrantID>
+            <Acronym>MRC_</Acronym>
+            <Agency>Medical Research Council</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>BB/S016295/1</GrantID>
+            <Acronym>BB_</Acronym>
+            <Agency>Biotechnology and Biological Sciences Research Council</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>BB/R013764/1</GrantID>
+            <Acronym>BB_</Acronym>
+            <Agency>Biotechnology and Biological Sciences Research Council</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>08</Month>
+          <Day>29</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Theor Biol</MedlineTA>
+        <NlmUniqueID>0376342</NlmUniqueID>
+        <ISSNLinking>0022-5193</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D060466">Axin Protein</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D051176">beta Catenin</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D060466" MajorTopicYN="N">Axin Protein</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005246" MajorTopicYN="N">Feedback</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D060449" MajorTopicYN="Y">Wnt Signaling Pathway</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051176" MajorTopicYN="Y">beta Catenin</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Applied dynamical system</Keyword>
+        <Keyword MajorTopicYN="Y">Delayed-feedback</Keyword>
+        <Keyword MajorTopicYN="Y">Systems biology</Keyword>
+        <Keyword MajorTopicYN="Y">Wnt-signalling</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>4</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2020</Year>
+          <Month>8</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>8</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32871129</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.jtbi.2020.110458</ArticleId>
+        <ArticleId IdType="pii">S0022-5193(20)30313-1</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

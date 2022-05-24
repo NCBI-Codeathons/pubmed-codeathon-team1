@@ -1,0 +1,483 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">34342808</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>11</Month>
+        <Day>23</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1559-0089</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>19</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Oct</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Neuroinformatics</Title>
+          <ISOAbbreviation>Neuroinformatics</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparing Automated Morphology Quantification Software on Dendrites of Uninjured and Injured Drosophila Neurons.</ArticleTitle>
+        <Pagination>
+          <StartPage>703</StartPage>
+          <EndPage>717</EndPage>
+          <MedlinePgn>703-717</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s12021-021-09532-9</ELocationID>
+        <Abstract>
+          <AbstractText>Dendrites shape inputs and integration of depolarization that controls neuronal activity in the nervous system. Neuron pathologies can damage dendrite architecture and cause abnormalities in morphologies after injury. Dendrite regeneration can be quantified by various parameters, including total dendrite length and number of dendrite branches using manual or automated image analysis approaches. However, manual quantification is tedious and time consuming and automated approaches are often trained using wildtype neurons, making them poorly suited for analysis of genetically manipulated or injured dendrite arbors. In this study, we tested how well automated image analysis software performed on class IV Drosophila neurons, which have several hundred individual dendrite branches. We applied each software to automatically quantify features of uninjured neurons and neurons that regenerated new dendrites after injury. Regenerated arbors exhibit defects across multiple features of dendrite morphology, which makes them challenging for automated pipelines to analyze. We compared the performances of three automated pipelines against manual quantification using Simple Neurite Tracer in ImageJ: one that is commercially available (Imaris) and two developed by independent research groups (DeTerm and Tireless Tracing Genie). Out of the three software tested, we determined that Imaris is the most efficient at reconstructing dendrite architecture, but does not accurately measure total dendrite length even after intensive manual editing. Imaris outperforms both DeTerm and Tireless Tracing Genie for counting dendrite branches, and is better able to recreate previous conclusions from this same dataset. This thorough comparison of strengths and weaknesses of each software demonstrates their utility for analyzing regenerated neuron phenotypes in future studies.</AbstractText>
+          <CopyrightInformation>© 2021. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Nguyen</LastName>
+            <ForeName>Carolee</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0001-9181-3303</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Developmental and Cell Biology, University of California, Irvine, Irvine, CA, 92697, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Thompson-Peer</LastName>
+            <ForeName>Katherine L</ForeName>
+            <Initials>KL</Initials>
+            <Identifier Source="ORCID">0000-0002-4200-3870</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Developmental and Cell Biology, University of California, Irvine, Irvine, CA, 92697, USA. ktpeer@uci.edu.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Reeve-Irvine Research Center, University of California, Irvine, Irvine, CA, USA. ktpeer@uci.edu.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for the Neurobiology of Learning and Memory, University of California, Irvine, Irvine, CA, USA. ktpeer@uci.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>P30 CA062203</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>P50 GM076516</GrantID>
+            <Acronym>GM</Acronym>
+            <Agency>NIGMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R00 NS097627</GrantID>
+            <Acronym>NS</Acronym>
+            <Agency>NINDS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>08</Month>
+          <Day>03</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Neuroinformatics</MedlineTA>
+        <NlmUniqueID>101142069</NlmUniqueID>
+        <ISSNLinking>1539-2791</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003712" MajorTopicYN="Y">Dendrites</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004330" MajorTopicYN="Y">Drosophila</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016501" MajorTopicYN="N">Neurites</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012984" MajorTopicYN="N">Software</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Automated analysis</Keyword>
+        <Keyword MajorTopicYN="Y">Dendrite arbor</Keyword>
+        <Keyword MajorTopicYN="Y">Dendrite injury</Keyword>
+        <Keyword MajorTopicYN="Y">Dendrite regeneration</Keyword>
+        <Keyword MajorTopicYN="Y">Dendrites</Keyword>
+        <Keyword MajorTopicYN="Y">Drosophila</Keyword>
+        <Keyword MajorTopicYN="Y">Software comparison</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>3</Day>
+          <Hour>12</Hour>
+          <Minute>26</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34342808</ArticleId>
+        <ArticleId IdType="pmc">PMC8566419</ArticleId>
+        <ArticleId IdType="doi">10.1007/s12021-021-09532-9</ArticleId>
+        <ArticleId IdType="pii">10.1007/s12021-021-09532-9</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Acciai L, Soda P, Iannello G. Automated neuron tracing methods: An updated account. Neuroinformatics. 2016;14(4):353–367. doi: 10.1007/s12021-016-9310-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s12021-016-9310-0</ArticleId>
+            <ArticleId IdType="pubmed">27447185</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Agostinone J, Alarcon-Martinez L, Gamlin C, Yu W-Q, Wong ROL, Di Polo A. Insulin signalling promotes dendrite and synapse regeneration and restores circuit function after axonal injury. Brain. 2018;141(7):1963–1980. doi: 10.1093/brain/awy142.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/brain/awy142</ArticleId>
+            <ArticleId IdType="pmc">PMC6022605</ArticleId>
+            <ArticleId IdType="pubmed">29931057</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ascoli GA, Donohue DE, Halavi M. NeuroMorpho.Org: A central resource for neuronal morphologies. The Journal of Neuroscience. 2007;27(35):9247–9251. doi: 10.1523/JNEUROSCI.2055-07.2007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.2055-07.2007</ArticleId>
+            <ArticleId IdType="pmc">PMC6673130</ArticleId>
+            <ArticleId IdType="pubmed">17728438</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen H, Xiao H, Liu T, Peng H. SmartTracing: Self-learning-based neuron reconstruction. Brain Informatics. 2015;2(3):135–144. doi: 10.1007/s40708-015-0018-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s40708-015-0018-y</ArticleId>
+            <ArticleId IdType="pmc">PMC4883140</ArticleId>
+            <ArticleId IdType="pubmed">27747506</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>DeVault L, Li T, Izabel S, Thompson-Peer KL, Jan LY, Jan Y-N. Dendrite regeneration of adult Drosophila sensory neurons diminishes with aging and is inhibited by epidermal-derived matrix metalloproteinase 2. Genes &amp; Development. 2018;32(5–6):402–414. doi: 10.1101/gad.308270.117.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.308270.117</ArticleId>
+            <ArticleId IdType="pmc">PMC5900713</ArticleId>
+            <ArticleId IdType="pubmed">29563183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dickstein DL, Dickstein DR, Janssen WGM, Hof PR, Glaser JR, Rodriguez A, O’Connor N, Angstman P, Tappan SJ. Automatic dendritic spine quantification from confocal data with Neurolucida 360. Current Protocols in Neuroscience. 2016;77:1.27.1–1.27.21. doi: 10.1002/cpns.16.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cpns.16</ArticleId>
+            <ArticleId IdType="pmc">PMC5113738</ArticleId>
+            <ArticleId IdType="pubmed">27696360</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Donohue DE, Ascoli GA. Automated reconstruction of neuronal morphology: An overview. Brain Research Reviews. 2011;67(1–2):94–102. doi: 10.1016/j.brainresrev.2010.11.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.brainresrev.2010.11.003</ArticleId>
+            <ArticleId IdType="pmc">PMC3086984</ArticleId>
+            <ArticleId IdType="pubmed">21118703</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Egger R, Narayanan RT, Helmstaedter M, de Kock CPJ, Oberlaender M. 3D reconstruction and standardization of the rat vibrissal cortex for precise registration of single neuron morphology. PLoS Computational Biology. 2012;8(12):e1002837. doi: 10.1371/journal.pcbi.1002837.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1002837</ArticleId>
+            <ArticleId IdType="pmc">PMC3527218</ArticleId>
+            <ArticleId IdType="pubmed">23284282</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gao X, Deng P, Xu ZC, Chen J. Moderate traumatic brain injury causes acute dendritic and synaptic degeneration in the hippocampal dentate gyrus. PLoS ONE. 2011;6(9):e24566. doi: 10.1371/journal.pone.0024566.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0024566</ArticleId>
+            <ArticleId IdType="pmc">PMC3172233</ArticleId>
+            <ArticleId IdType="pubmed">21931758</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ghosh S, Larson SD, Hefzi H, Marnoy Z, Cutforth T, Dokka K, Baldwin KK. Sensory maps in the olfactory cortex defined by long-range viral tracing of single neurons. Nature. 2011;472(7342):217–220. doi: 10.1038/nature09945.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature09945</ArticleId>
+            <ArticleId IdType="pubmed">21451523</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grueber WB, Jan LY, Jan Y-N. Tiling of the Drosophila epidermis by multidendritic sensory neurons. Development (Cambridge, England) 2002;129(12):2867–2878. doi: 10.1242/dev.129.12.2867.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.129.12.2867</ArticleId>
+            <ArticleId IdType="pubmed">12050135</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Halavi M, Hamilton KA, Parekh R, Ascoli GA. Digital reconstructions of neuronal morphology: Three decades of research trends. Frontiers in Neuroscience. 2012;6:49. doi: 10.3389/fnins.2012.00049.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnins.2012.00049</ArticleId>
+            <ArticleId IdType="pmc">PMC3332236</ArticleId>
+            <ArticleId IdType="pubmed">22536169</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Han C, Jan LY, Jan Y-N. Enhancer-driven membrane markers for analysis of nonautonomous mechanisms reveal neuron-glia interactions in Drosophila. Proceedings of the National Academy of Sciences of the United States of America. 2011;108(23):9673–9678. doi: 10.1073/pnas.1106386108.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1106386108</ArticleId>
+            <ArticleId IdType="pmc">PMC3111288</ArticleId>
+            <ArticleId IdType="pubmed">21606367</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Henley R, Chandrasekaran V, Giulivi C. Computing neurite outgrowth and arborization in superior cervical ganglion neurons. Brain Research Bulletin. 2019;144:194–199. doi: 10.1016/j.brainresbull.2018.12.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.brainresbull.2018.12.001</ArticleId>
+            <ArticleId IdType="pmc">PMC6994235</ArticleId>
+            <ArticleId IdType="pubmed">30529562</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iyer EPR, Iyer SC, Sullivan L, Wang D, Meduri R, Graybeal LL, Cox DN. Functional genomic analyses of two morphologically distinct classes of Drosophila sensory neurons: Post-mitotic roles of transcription factors in dendritic patterning. PLoS ONE. 2013;8(8):e72434. doi: 10.1371/journal.pone.0072434.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0072434</ArticleId>
+            <ArticleId IdType="pmc">PMC3744488</ArticleId>
+            <ArticleId IdType="pubmed">23977298</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jan Y-N, Jan LY. Branching out: Mechanisms of dendritic arborization. Nature Reviews. Neuroscience. 2010;11(5):316–328. doi: 10.1038/nrn2836.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn2836</ArticleId>
+            <ArticleId IdType="pmc">PMC3079328</ArticleId>
+            <ArticleId IdType="pubmed">20404840</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang, N., Rasmussen, J. P., Clanton, J. A., Rosenberg, M. F., Luedke, K. P., Cronan, M. R., Parker, E. D., Kim, H. J., Vaughan, J. C., Sagasti, A., &amp; Parrish, J. Z. (2019). A conserved morphogenetic mechanism for epidermal ensheathment of nociceptive sensory neurites. eLife, s. 10.7554/eLife.42455.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6450671</ArticleId>
+            <ArticleId IdType="pubmed">30855229</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kanaoka Y, Skibbe H, Hayashi Y, Uemura T, Hattori Y. DeTerm: Software for automatic detection of neuronal dendritic branch terminals via an artificial neural network. Genes to Cells. 2019;24(7):464–472. doi: 10.1111/gtc.12700.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/gtc.12700</ArticleId>
+            <ArticleId IdType="pubmed">31095815</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Klapstein GJ, Fisher RS, Zanjani H, Cepeda C, Jokel ES, Chesselet MF, Levine MS. Electrophysiological and morphological changes in striatal spiny neurons in R6/2 Huntington’s disease transgenic mice. Journal of Neurophysiology. 2001;86(6):2667–2677. doi: 10.1152/jn.2001.86.6.2667.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.2001.86.6.2667</ArticleId>
+            <ArticleId IdType="pubmed">11731527</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Longair MH, Baker DA, Armstrong JD. Simple neurite tracer: Open source software for reconstruction, visualization and analysis of neuronal processes. Bioinformatics. 2011;27(17):2453–2454. doi: 10.1093/bioinformatics/btr390.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btr390</ArticleId>
+            <ArticleId IdType="pubmed">21727141</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meijering E. Neuron tracing in perspective. Cytometry. Part A : the Journal of the International Society for Analytical Cytology. 2010;77(7):693–704. doi: 10.1002/cyto.a.20895.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cyto.a.20895</ArticleId>
+            <ArticleId IdType="pubmed">20583273</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meijering E, Jacob M, Sarria JCF, Steiner P, Hirling H, Unser M. Design and validation of a tool for neurite tracing and analysis in fluorescence microscopy images. Cytometry Part A : the Journal of the International Society for Analytical Cytology. 2004;58(2):167–176. doi: 10.1002/cyto.a.20022.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cyto.a.20022</ArticleId>
+            <ArticleId IdType="pubmed">15057970</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Myatt DR, Hadlington T, Ascoli GA, Nasuto SJ. Neuromantic - from semi-manual to semi-automatic reconstruction of neuron morphology. Frontiers in Neuroinformatics. 2012;6:4. doi: 10.3389/fninf.2012.00004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fninf.2012.00004</ArticleId>
+            <ArticleId IdType="pmc">PMC3305991</ArticleId>
+            <ArticleId IdType="pubmed">22438842</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nye DMR, Albertson RM, Weiner AT, Hertzler JI, Shorey M, Goberdhan DCI, Wilson C, Janes KA, Rolls MM. The receptor tyrosine kinase Ror is required for dendrite regeneration in Drosophila neurons. PLoS Biology. 2020;18(3):e3000657. doi: 10.1371/journal.pbio.3000657.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pbio.3000657</ArticleId>
+            <ArticleId IdType="pmc">PMC7067388</ArticleId>
+            <ArticleId IdType="pubmed">32163406</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O'Neill KM, Akum BF, Dhawan ST, Kwon M, Langhammer CG, Firestein BL. Assessing effects on dendritic arborization using novel Sholl analyses. Frontiers in Cellular Neuroscience. 2015;9:285. doi: 10.3389/fncel.2015.00285.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncel.2015.00285</ArticleId>
+            <ArticleId IdType="pmc">PMC4519774</ArticleId>
+            <ArticleId IdType="pubmed">26283921</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Parekh R, Ascoli GA. Neuronal morphology goes digital: A research hub for cellular and system neuroscience. Neuron. 2013;77(6):1017–1038. doi: 10.1016/j.neuron.2013.03.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2013.03.008</ArticleId>
+            <ArticleId IdType="pmc">PMC3653619</ArticleId>
+            <ArticleId IdType="pubmed">23522039</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peng H, Ruan Z, Long F, Simpson JH, Myers EW. V3D enables real-time 3D visualization and quantitative analysis of large-scale biological image data sets. Nature Biotechnology. 2010;28(4):348–353. doi: 10.1038/nbt.1612.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nbt.1612</ArticleId>
+            <ArticleId IdType="pmc">PMC2857929</ArticleId>
+            <ArticleId IdType="pubmed">20231818</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peng H, Long F, Zhao T, Myers E. Proof-editing is the bottleneck of 3D neuron reconstruction: The problem and solutions. Neuroinformatics. 2011;9(2–3):103–105. doi: 10.1007/s12021-010-9090-x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s12021-010-9090-x</ArticleId>
+            <ArticleId IdType="pubmed">21170608</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rueden CT, Schindelin J, Hiner MC, DeZonia BE, Walter AE, Arena ET, Eliceiri KW. ImageJ2: ImageJ for the next generation of scientific image data. BMC Bioinformatics. 2017;18(1):529–526. doi: 10.1186/s12859-017-1934-z.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12859-017-1934-z</ArticleId>
+            <ArticleId IdType="pmc">PMC5708080</ArticleId>
+            <ArticleId IdType="pubmed">29187165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Satoh D, Suyama R, Kimura K-I, Uemura T. High-resolution in vivo imaging of regenerating dendrites of Drosophila sensory neurons during metamorphosis: Local filopodial degeneration and heterotypic dendrite-dendrite contacts. Genes to Cells. 2012;17(12):939–951. doi: 10.1111/gtc.12008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/gtc.12008</ArticleId>
+            <ArticleId IdType="pmc">PMC3549480</ArticleId>
+            <ArticleId IdType="pubmed">23157286</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schindelin J, Arganda-Carreras I, Frise E, Kaynig V, Longair M, Pietzsch T, Preibisch S, Rueden C, Saalfeld S, Schmid B, Tinevez JY, White DJ, Hartenstein V, Eliceiri K, Tomancak P, Cardona A. Fiji: An open-source platform for biological-image analysis. Nature Methods. 2012;9(7):676–682. doi: 10.1038/nmeth.2019.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.2019</ArticleId>
+            <ArticleId IdType="pmc">PMC3855844</ArticleId>
+            <ArticleId IdType="pubmed">22743772</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sheng, C., Javed, U., Rosenthal, J., Yin, J., Qin, B., &amp; Yuan, Q. (2019). Time-lapse live imaging and quantification of fast dendritic branch dynamics in developing Drosophila neurons. JoVE (Journal of Visualized Experiments), 151. 10.3791/60287.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31609313</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sholl DA. Dendritic organization in the neurons of the visual and motor cortices of the cat. Journal of Anatomy. 1953;87(4):387–406. doi: 10.1111/(ISSN)1469-7580.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/(ISSN)1469-7580</ArticleId>
+            <ArticleId IdType="pmc">PMC1244622</ArticleId>
+            <ArticleId IdType="pubmed">13117757</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smafield T, Pasupuleti V, Sharma K, Huganir RL, Ye B, Zhou J. Automatic dendritic length quantification for high throughput screening of mature neurons. Neuroinformatics. 2015;13(4):443–458. doi: 10.1007/s12021-015-9267-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s12021-015-9267-4</ArticleId>
+            <ArticleId IdType="pmc">PMC4600005</ArticleId>
+            <ArticleId IdType="pubmed">25854493</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sohn J, Okamoto S, Kataoka N, Kaneko T, Nakamura K, Hioki H. Differential inputs to the perisomatic and distal-dendritic compartments of VIP-positive neurons in layer 2/3 of the mouse barrel cortex. Frontiers in Neuroanatomy. 2016;10:124. doi: 10.3389/fnana.2016.00124.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnana.2016.00124</ArticleId>
+            <ArticleId IdType="pmc">PMC5167764</ArticleId>
+            <ArticleId IdType="pubmed">28066195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Soltanian-Zadeh S, Sahingur K, Blau S, Gong Y, Farsiu S. Fast and robust active neuron segmentation in two-photon calcium imaging using spatiotemporal deep learning. Proceedings of the National Academy of Sciences of the United States of America. 2019;116(17):8554–8563. doi: 10.1073/pnas.1812995116.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1812995116</ArticleId>
+            <ArticleId IdType="pmc">PMC6486774</ArticleId>
+            <ArticleId IdType="pubmed">30975747</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Song Y, Ori-McKenney KM, Zheng Y, Han C, Jan LY, Jan Y-N. Regeneration of Drosophila sensory neuron axons and dendrites is regulated by the Akt pathway involving Pten and microRNA bantam. Genes &amp; Development. 2012;26(14):1612–1625. doi: 10.1101/gad.193243.112.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.193243.112</ArticleId>
+            <ArticleId IdType="pmc">PMC3404388</ArticleId>
+            <ArticleId IdType="pubmed">22759636</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stone MC, Albertson RM, Chen L, Rolls MM. Dendrite injury triggers DLK-independent regeneration. Cell Reports. 2014;6(2):247–253. doi: 10.1016/j.celrep.2013.12.022.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2013.12.022</ArticleId>
+            <ArticleId IdType="pmc">PMC3954604</ArticleId>
+            <ArticleId IdType="pubmed">24412365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tapias V, Greenamyre JT, Watkins SC. Automated imaging system for fast quantitation of neurons, cell morphology and neurite morphometry in vivo and in vitro. Neurobiology of Disease. 2013;54:158–168. doi: 10.1016/j.nbd.2012.11.018.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.nbd.2012.11.018</ArticleId>
+            <ArticleId IdType="pmc">PMC3604080</ArticleId>
+            <ArticleId IdType="pubmed">23220621</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thompson-Peer KL, DeVault L, Li T, Jan LY, Jan Y-N. In vivo dendrite regeneration after injury is different from dendrite development. Genes &amp; Development. 2016;30(15):1776–1789. doi: 10.1101/gad.282848.116.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.282848.116</ArticleId>
+            <ArticleId IdType="pmc">PMC5002981</ArticleId>
+            <ArticleId IdType="pubmed">27542831</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

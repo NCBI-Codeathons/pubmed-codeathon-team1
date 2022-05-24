@@ -1,0 +1,399 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">33546410</PMID>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>03</Month>
+        <Day>03</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Print">1996-1944</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>14</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Feb</Month>
+              <Day>03</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Materials (Basel, Switzerland)</Title>
+          <ISOAbbreviation>Materials (Basel)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Sizing and Topology Optimization of Trusses Using Genetic Algorithm.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">715</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/ma14040715</ELocationID>
+        <Abstract>
+          <AbstractText>Genetic algorithms are a robust method for a solution of wide variety optimization problems. It explores a big space of design variables in order to find the best solution. From the point of view of a user, the algorithm requires the encoding of design variables into the form of strings and the procedure of optimization uses them for optimization. Here, for the structural engineer, it is crucial to find the form of objective function including the constraints of the task and also to avoid critical states during the solution of structural responses. This paper presents the use of genetic algorithm for solving truss structures. The use of genetic algorithm approach is shown on three cases of truss structures.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Delyová</LastName>
+            <ForeName>Ingrid</ForeName>
+            <Initials>I</Initials>
+            <Identifier Source="ORCID">0000-0002-8506-5270</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Applied Mechanics and Mechanical Engineering, Faculty of Mechanical Engineering, Technical University of Košice, Letná 9, 042 00 Košice, Slovakia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Frankovský</LastName>
+            <ForeName>Peter</ForeName>
+            <Initials>P</Initials>
+            <Identifier Source="ORCID">0000-0001-9273-6696</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Applied Mechanics and Mechanical Engineering, Faculty of Mechanical Engineering, Technical University of Košice, Letná 9, 042 00 Košice, Slovakia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bocko</LastName>
+            <ForeName>Jozef</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Applied Mechanics and Mechanical Engineering, Faculty of Mechanical Engineering, Technical University of Košice, Letná 9, 042 00 Košice, Slovakia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Trebuňa</LastName>
+            <ForeName>Peter</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Management, Industrial and Digital Engineering, Faculty of Mechanical Engineering, Technical University of Kosice, Letná 9, 042 00 Košice, Slovakia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Živčák</LastName>
+            <ForeName>Jozef</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering and Measurement, Faculty of Mechanical Engineering, Technical University of Kosice, Letná 9, 042 00 Košice, Slovakia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schürger</LastName>
+            <ForeName>Barbara</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Applied Mechanics and Mechanical Engineering, Faculty of Mechanical Engineering, Technical University of Košice, Letná 9, 042 00 Košice, Slovakia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Janigová</LastName>
+            <ForeName>Sára</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Applied Mechanics and Mechanical Engineering, Faculty of Mechanical Engineering, Technical University of Košice, Letná 9, 042 00 Košice, Slovakia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>02</Month>
+          <Day>03</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Materials (Basel)</MedlineTA>
+        <NlmUniqueID>101555929</NlmUniqueID>
+        <ISSNLinking>1996-1944</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">FEM</Keyword>
+        <Keyword MajorTopicYN="N">bar</Keyword>
+        <Keyword MajorTopicYN="N">genetic algorithm</Keyword>
+        <Keyword MajorTopicYN="N">optimization</Keyword>
+        <Keyword MajorTopicYN="N">truss structure</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>12</Month>
+          <Day>7</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>1</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>1</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>2</Month>
+          <Day>6</Day>
+          <Hour>1</Hour>
+          <Minute>3</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>2</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>2</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">33546410</ArticleId>
+        <ArticleId IdType="pmc">PMC7913488</ArticleId>
+        <ArticleId IdType="doi">10.3390/ma14040715</ArticleId>
+        <ArticleId IdType="pii">ma14040715</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Reddy J.N., Krishnamoorthy C.S., Seetharamu K.N.  Finite Element Analysis for Engineering Design. Volume 37 Springer; Berlin/Heidelberg, Germany: 1988. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Olhoff N., Bendsøe M.P., Rasmussen J. On CAD-integrated structural topology and design optimization. Comput. Methods Appl. Mech. Eng. 1991;89:259–279. doi: 10.1016/0045-7825(91)90044-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0045-7825(91)90044-7</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cazacu R., Grama L. Steel Truss Optimization Using Genetic Algorithms and FEA. Procedia Technol. 2014;12:339–346. doi: 10.1016/j.protcy.2013.12.496.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.protcy.2013.12.496</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim N.H., Sankar B.V., Kumar A.V.  Introduction to Finite Element Analysis and Design. John Wiley &amp; Sons; Hoboken, NJ, USA: 2018. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nan B., Bai Y., Wu Y. Multi-Objective Optimization of Spatially Truss Structures Based on Node Movement. Appl. Sci. 2020;10:1964.  doi: 10.3390/app10061964.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/app10061964</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goldberg D.E., Samtani M.P.  Electronic Computation. ASCE; Reston, VA, USA: 1986. Engineering Optimization via Genetic Algorithm; pp. 471–482.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rajeev S., Krishnamoorthy C.S. Genetic Algorithms-Based Methodologies for Design Optimization of Trusses. J. Struct. Eng. 1997;123:350–358. doi: 10.1061/(ASCE)0733-9445(1997)123:3(350).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1061/(ASCE)0733-9445(1997)123:3(350)</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krishnamoorthy C.S., Prasanna Venkatesh P., Sudarshan R. Object-oriented framework for genetic algorithms with application to space truss optimization. J. Comput. Civ. Eng. 2002;16:66–75. doi: 10.1061/(ASCE)0887-3801(2002)16:1(66).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1061/(ASCE)0887-3801(2002)16:1(66)</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sivakumar P., Natarajan K., Rajaraman A., Samuel Knight G.M. Artificial intelligence techniques for optimisation of steel lattice towers; Proceedings of the Structural Engineering Convention; Honolulu, HI, USA. 24–27 January 2001; pp. 435–445.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gero M.B.P., García A.B., del Coz Díaz J.J. Design optimization of 3D steel structures: Genetic algorithms vs. classical techniques. J. Constr. Steel Res. 2006;62:1303–1309. doi: 10.1016/j.jcsr.2006.02.005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jcsr.2006.02.005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sadollah A., Bahreininejad A., Eskandar H., Hamdi M. Mine blast algorithm for optimization of truss structures with discrete variables. Comput. Struct. 2012;102:49–63. doi: 10.1016/j.compstruc.2012.03.013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.compstruc.2012.03.013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu Y., Li Q., Hu Q., Borgart A. Size and Topology Optimization for Trusses with Discrete Design Variables by Improved Firefly Algorithm. Math. Probl. Eng. 2017 doi: 10.1155/2017/1457297.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2017/1457297</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ho-Huu V., Nguyen-Thoi T., Truong-Khac T., Le-Anh L., Vo-Duy T. An improved differential evolution based on roulette wheel selection for shape and size optimization of truss structures with frequency constraints. Neural Comput. Appl. 2016;29:167–185. doi: 10.1007/s00521-016-2426-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00521-016-2426-1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neeraja D., Kamireddy T., Kumar P.S., Reddy V.S. Weight optimization of plane truss using genetic algorithm. IOP Conf. Ser. Mater. Sci. Eng. 2017;263:32015. doi: 10.1088/1757-899X/263/3/032015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/1757-899X/263/3/032015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maláková S., Frankovský P., Harachová D., Neumann V. Design of constructional optimisation determined for mixer truck gearbox. Ad Alta J. Interdiscip. Res. 2019;9:414–417.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang H., Ohmori H. Truss Optimization Using Genetic Algorithm, considering Construction Process. Int. J. Space Struct. 2010;25:205–215. doi: 10.1260/0266-3511.25.4.205.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1260/0266-3511.25.4.205</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ho-Huu V., Nguyen-Thoi T., Vo-Duy T., Nguyen-Trang T. An adaptive elitist differential evolution for optimization of truss structures with discrete design variables. Comput. Struct. 2016;165:59–75. doi: 10.1016/j.compstruc.2015.11.014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.compstruc.2015.11.014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaveh A., Mahdavi V. Colliding bodies optimization: A novel meta-heuristic method. Comput. Struct. 2014;139:18–27. doi: 10.1016/j.compstruc.2014.04.005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.compstruc.2014.04.005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stolpe M. Truss optimization with discrete design variables: A critical review. Struct. Multidiscip. Optim. 2016;53:349–374. doi: 10.1007/s00158-015-1333-x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00158-015-1333-x</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Frankovský P., Delyová I., Sivák P., Kuryło P., Pivarčiová E., Neumann V. Experimental Assessment of Time-Limited Operation and Rectification of a Bridge Crane. Materials. 2020;13:2708.  doi: 10.3390/ma13122708.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/ma13122708</ArticleId>
+            <ArticleId IdType="pmc">PMC7344803</ArticleId>
+            <ArticleId IdType="pubmed">32545917</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tiachacht S., Bouazzouni A., Khatir S., Wahab M.A., Behtani A., Capozucca R. Damage assessment in structures using combination of a modified Cornwell indicator and genetic algorithm. Eng. Struct. 2018;177:421–430. doi: 10.1016/j.engstruct.2018.09.070.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.engstruct.2018.09.070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nobahari M., Ghasemi M., Shabakhty N. A fast and robust method for damage detection of truss structures. Appl. Math. Model. 2019;68:368–382. doi: 10.1016/j.apm.2018.11.025.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.apm.2018.11.025</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garg H. A hybrid GSA-GA algorithm for constrained optimization problems. Inf. Sci. 2019;478:499–523. doi: 10.1016/j.ins.2018.11.041.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ins.2018.11.041</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gonçalves M.S., Lopez R.H., Miguel L.F.F. Search group algorithm: A new metaheuristic method for the optimization of truss structures. Comput. Struct. 2015;153:165–184. doi: 10.1016/j.compstruc.2015.03.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.compstruc.2015.03.003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Khatibinia M., Yazdani H. Accelerated multi-gravitational search algorithm for size optimization of truss structures. Swarm Evol. Comput. 2018;38:109–119. doi: 10.1016/j.swevo.2017.07.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.swevo.2017.07.001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rahami H., Kaveh A., Gholipour Y. Sizing, geometry and topology optimization of trusses via force method and genetic algorithm. Eng. Struct. 2008;30:2360–2369. doi: 10.1016/j.engstruct.2008.01.012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.engstruct.2008.01.012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bocko J., Delyová I., Frankovský P., Neumann V. Lifetime Assessment of the Technological Equipment for a Robotic Workplace. Int. J. Appl. Mech. 2020;12:2050097. doi: 10.1142/S1758825120500970.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1142/S1758825120500970</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang H., Ohmori H. Elasto-plastic analysis based truss optimization using Genetic Algorithm. Eng. Struct. 2013;50:1–12. doi: 10.1016/j.engstruct.2013.01.010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.engstruct.2013.01.010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tejani G.G., Pholdee N., Bureerat S., Prayogo D. Multiobjective adaptive symbiotic organisms search for truss optimization problems. Knowl. Based Syst. 2018;161:398–414. doi: 10.1016/j.knosys.2018.08.005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.knosys.2018.08.005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kelesoglu O. Fuzzy multiobjective optimization of truss-structures using genetic algorithm. Adv. Eng. Softw. 2007;38:717–721. doi: 10.1016/j.advengsoft.2007.03.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.advengsoft.2007.03.003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaveh A., Ghazaan M.I. Hybridized optimization algorithms for design of trusses with multiple natural frequency constraints. Adv. Eng. Softw. 2015;79:137–147. doi: 10.1016/j.advengsoft.2014.10.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.advengsoft.2014.10.001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Degertekin S., Lamberti L., Ugur I. Sizing, layout and topology design optimization of truss structures using the Jaya algorithm. Appl. Soft Comput. 2018;70:903–928. doi: 10.1016/j.asoc.2017.10.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.asoc.2017.10.001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Degertekin S., Lamberti L., Ugur I. Discrete sizing/layout/topology optimization of truss structures with an advanced Jaya algorithm. Appl. Soft Comput. 2019;79:363–390. doi: 10.1016/j.asoc.2019.03.058.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.asoc.2019.03.058</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Assimi H., Jamali A. A hybrid algorithm coupling genetic programming and Nelder–Mead for topology and size optimization of trusses with static and dynamic constraints. Expert Syst. Appl. 2018;95:127–141. doi: 10.1016/j.eswa.2017.11.035.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eswa.2017.11.035</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ohsaki M. Genetic algorithm for topology optimization of trusses. Comput. Struct. 1995;57:219–225. doi: 10.1016/0045-7949(94)00617-C.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0045-7949(94)00617-C</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Achtziger W. Truss topology optimization including bar properties different for tension and compression. Struct. Multidiscip. Optim. 1996;12:63–74. doi: 10.1007/BF01270445.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/BF01270445</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Assimi H., Jamali A., Nariman-Zadeh N. Sizing and topology optimization of truss structures using genetic programming. Swarm Evol. Comput. 2017;37:90–103. doi: 10.1016/j.swevo.2017.05.009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.swevo.2017.05.009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feng C.-W., Liu L., Burns S.A. Using Genetic Algorithms to Solve Construction Time-Cost Trade-Off Problems. J. Comput. Civ. Eng. 1997;11:184–189. doi: 10.1061/(ASCE)0887-3801(1997)11:3(184).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1061/(ASCE)0887-3801(1997)11:3(184)</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Holland J.H.  Adaptation in Natural and Artificial Systems. Volume 1. The University of Michigan Press; Ann Arbor, MN, USA: 1975. p. 975.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Goldberg D.E.  Genetic Algorithms in Search, Optimization and Machine Learning. Addison-Wesley Publishing Company; Boston, MA, USA: 1989. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Assimi H., Jamali A., Nariman-Zadeh N. Multi-objective sizing and topology optimization of truss structures using genetic programming based on a new adaptive mutant operator. Neural Comput. Appl. 2018;31:5729–5749. doi: 10.1007/s00521-018-3401-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00521-018-3401-9</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mitilineos S.A., Symeonidis S.K., Mpatsis I.B., Iliopoulos D., Kliros G.S., Savaidis S.P., Stathopoulos N.A. Conformal Patch Antenna Arrays Design for Onboard Ship Deployment Using Genetic Algorithms. Adv. Power Electron. 2013;2013:1–5. doi: 10.1155/2013/960514.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2013/960514</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

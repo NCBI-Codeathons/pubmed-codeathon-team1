@@ -1,0 +1,288 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35430716</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1861-6429</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>17</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of computer assisted radiology and surgery</Title>
+          <ISOAbbreviation>Int J Comput Assist Radiol Surg</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Tubular shape aware data generation for segmentation in medical imaging.</ArticleTitle>
+        <Pagination>
+          <StartPage>1091</StartPage>
+          <EndPage>1099</EndPage>
+          <MedlinePgn>1091-1099</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11548-022-02621-3</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Chest X-ray is one of the most widespread examinations of the human body. In interventional radiology, its use is frequently associated with the need to visualize various tube-like objects, such as puncture needles, guiding sheaths, wires, and catheters. Detection and precise localization of these tube-like objects in the X-ray images are, therefore, of utmost value, catalyzing the development of accurate target-specific segmentation algorithms. Similar to the other medical imaging tasks, the manual pixel-wise annotation of the tubes is a resource-consuming process.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">In this work, we aim to alleviate the lack of annotated images by using artificial data. Specifically, we present an approach for synthetic generation of the tube-shaped objects, with a generative adversarial network being regularized with a prior-shape constraint. Namely, our model uses Frangi-based regularization to draw synthetic tubes in the predefined fake mask regions and, then, uses the adversarial component to preserve the global realistic appearance of the synthesized image.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Our method eliminates the need for the paired image-mask data and requires only a weakly labeled dataset, with fine-tuning on a small paired sample (10-20 images) proving sufficient to reach the accuracy of the fully supervised models.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">We report the applicability of the approach for the task of segmenting tubes and catheters in the X-ray images, whereas the results should also hold for the other acquisition modalities and image computing applications that contain tubular objects.</AbstractText>
+          <CopyrightInformation>© 2022. CARS.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Sirazitdinov</LastName>
+            <ForeName>Ilyas</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Philips Research, 42 Bol'shoy blvd, Moscow, Russia, 121205.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Skoltech, Bol'shoy blvd 30/1, Moscow, Russia, 121205.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schulz</LastName>
+            <ForeName>Heinrich</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Philips Research, Philips GmbH Innovative Technologies, Röntgenstraße 24, 22335, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Saalbach</LastName>
+            <ForeName>Axel</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Philips Research, Philips GmbH Innovative Technologies, Röntgenstraße 24, 22335, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Renisch</LastName>
+            <ForeName>Steffen</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Philips Research, Philips GmbH Innovative Technologies, Röntgenstraße 24, 22335, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dylov</LastName>
+            <ForeName>Dmitry V</ForeName>
+            <Initials>DV</Initials>
+            <Identifier Source="ORCID">0000-0003-2251-3221</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Skoltech, Bol'shoy blvd 30/1, Moscow, Russia, 121205. d.dylov@skoltech.ru.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>04</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Int J Comput Assist Radiol Surg</MedlineTA>
+        <NlmUniqueID>101499225</NlmUniqueID>
+        <ISSNLinking>1861-6410</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000465" MajorTopicYN="Y">Algorithms</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007091" MajorTopicYN="Y">Image Processing, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011859" MajorTopicYN="N">Radiography</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Generative adversarial network</Keyword>
+        <Keyword MajorTopicYN="N">Neural network</Keyword>
+        <Keyword MajorTopicYN="N">Shape analysis</Keyword>
+        <Keyword MajorTopicYN="N">Weakly supervised segmentation</Keyword>
+        <Keyword MajorTopicYN="N">X-ray imaging</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>9</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>17</Day>
+          <Hour>21</Hour>
+          <Minute>4</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35430716</ArticleId>
+        <ArticleId IdType="doi">10.1007/s11548-022-02621-3</ArticleId>
+        <ArticleId IdType="pii">10.1007/s11548-022-02621-3</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Kholiavchenko M, Sirazitdinov I, Kubrak K, Badrutdinova R, Kuleev R, Yuan Y, Vrtovec T, Ibragimov B (2020) Contour-aware multi-label chest x-ray organ segmentation. Int J Comput Assist Radiol Surg 15(3):425–436</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11548-019-02115-9</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yi X, Adams SJ, Henderson RD, Babyn P (2020) Computer-aided assessment of catheters and tubes on radiographs: How good is artificial intelligence for assessment? Radiology. Artif Intell 2(1):190082</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Frid-Adar M, Amer R, Greenspan H (2019) Endotracheal tube detection and segmentation in chest radiographs using synthetic data. Springer, Berlin</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-3-030-32226-7_87</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Subramanian V, Wang H, Wu JT, Wong KC, Sharma A, Syeda-Mahmood T (2019) Automated detection and type classification of central venous catheters in chest x-rays. Springer, Berlin</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-3-030-32226-7_58</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yi X, Adams S, Babyn P, Elnajmi A (2020) Automatic catheter and tube detection in pediatric x-ray images using a scale-recurrent network and synthetic data. J Digit Imaging 33(1):181–190</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10278-019-00201-7</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nikolenko SI (2019) Synthetic data for deep learning. Springer, Berlin</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gong X, Chen S, Zhang B, Doermann D (2021) Style consistent image generation for nuclei instance segmentation. pp 3994–4003</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Prokopenko D, Stadelmann JV, Schulz H, Renisch S, Dylov DV (2019) Unpaired synthetic image generation in radiology using gans. Workshop on Artificial Intelligence in Radiation Therapy. Springer, pp 94–101</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Costa P, Galdran A, Meyer MI, Niemeijer M, Abràmoff M, Mendonça AM, Campilho A (2017) End-to-end adversarial retinal image synthesis. IEEE Trans Med Imaging 37(3):781–791</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TMI.2017.2759102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao H, Li H, Maurer-Stroh S, Cheng L (2018) Synthesizing retinal and neuronal images with generative adversarial nets. Med Image Anal 49:14–26</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.media.2018.07.001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li Q, Yu Z, Wang Y, Zheng H (2020) Tumorgan: a multi-modal data augmentation framework for brain tumor segmentation. Sensors 20(15):4203</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s20154203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee H, Mansouri M, Tajmir S, Lev MH, Do S (2018) A deep-learning system for fully-automated peripherally inserted central catheter (picc) tip detection. J Digit Imaging 31(4):393–402</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10278-017-0025-z</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gherardini M, Mazomenos E, Menciassi A, Stoyanov D (2020) Catheter segmentation in x-ray fluoroscopy using synthetic data and transfer learning with light u-nets. Comput Methods Programs Biomed 192:105420</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Heimann T, Meinzer H-P (2009) Statistical shape models for 3d medical image segmentation: a review. Med Image Anal 13(4):543–563</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.media.2009.05.004</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Frangi AF, Niessen WJ, Vincken KL, Viergever MA (1998) Multiscale vessel enhancement filtering. Springer, Berlin</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/BFb0056195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sato, Y., Nakajima, S., Atsumi, H., Koller, T., Gerig, G., Yoshida, S., Kikinis, R.: 3d multi-scale line filter for segmentation and visualization of curvilinear structures in medical images. In: CVRMed-MRCAS’97, pp. 213– 222 ( 1997). Springer</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ullah I, Chikontwe P, Choi H, Yoon C-H, Park SH (2021) Synthesize and segment: towards improved catheter segmentation via adversarial augmentation. Appl Sci 11(4):1638</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/app11041638</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhu J-Y, Park T, Isola P, Efros AA (2017) Unpaired image-to-image translation using cycle-consistent adversarial networks. pp 2223–2232</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mao X, Li Q, Xie H, Lau RY, Wang Z, Paul Smolley S (2017) Least squares generative adversarial networks. pp 2794–2802</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang X, Peng Y, Lu L, Lu Z, Bagheri M, Summers RM (2017) Chestx-ray8: Hospital-scale chest x-ray database and benchmarks on weakly-supervised classification and localization of common thorax diseases. pp 2097–2106</Citation>
+        </Reference>
+        <Reference>
+          <Citation>OpenCV, F.: opencv/cvat. https://github.com/opencv/cvat</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ronneberger O, Fischer P, Brox, T.: U-net, (2015). Convolutional networks for biomedical image segmentation. Springer, pp 234–241</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Miyato, T., Kataoka, T., Koyama, M., Yoshida, Y.: Spectral normalization for generative adversarial networks. arXiv preprint arXiv:1802.05957 (2018)</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shit S, Paetzold JC, Sekuboyina A, Ezhov I, Unger A, Zhylka A, Pluim JP, Bauer U, Menze BH (2021) cldice-a novel topology-preserving loss function for tubular structure segmentation. pp 16560–16569</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park T, Liu M-Y, Wang T-C, Zhu J-Y (2019) Semantic image synthesis with spatially-adaptive normalization. pp 2337–2346</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhu P, Abdal R, Qin Y, Wonka, P.: Sean, (2020) Image synthesis with semantic region-adaptive normalization. pp 5104–5113</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zacharov I, Arslanov R, Gunin M, Stefonishin D, Bykov A, Pavlov S, Panarin O, Maliutin A, Rykovanov S, Fedorov M (2019) “zhores” –petaflops supercomputer for data-driven modeling, machine learning and artificial intelligence installed in skolkovo institute of science and technology. Open Engineering 9(1):512–520</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

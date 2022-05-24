@@ -1,0 +1,386 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35538127</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>12</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2045-2322</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>12</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>10</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Scientific reports</Title>
+          <ISOAbbreviation>Sci Rep</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Robust and scalable barcoding for massively parallel long-read sequencing.</ArticleTitle>
+        <Pagination>
+          <StartPage>7619</StartPage>
+          <MedlinePgn>7619</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">7619</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41598-022-11656-0</ELocationID>
+        <Abstract>
+          <AbstractText>Nucleic-acid barcoding is an enabling technique for many applications, but its use remains limited in emerging long-read sequencing technologies with intrinsically low raw accuracy. Here, we apply so-called NS-watermark barcodes, whose error correction capability was previously validated in silico, in a proof of concept where we synthesize 3840 NS-watermark barcodes and use them to asymmetrically tag and simultaneously sequence amplicons from two evolutionarily distant species (namely Bordetella pertussis and Drosophila mojavensis) on the ONT MinION platform. To our knowledge, this is the largest number of distinct, non-random tags ever sequenced in parallel and the first report of microarray-based synthesis as a source for large oligonucleotide pools for barcoding. We recovered the identity of more than 86% of the barcodes, with a crosstalk rate of 0.17% (i.e., one misassignment every 584 reads). This falls in the range of the index hopping rate of established, high-accuracy Illumina sequencing, despite the increased number of tags and the relatively low accuracy of both microarray-based synthesis and long-read sequencing. The robustness of NS-watermark barcodes, together with their scalable design and compatibility with low-cost massive synthesis, makes them promising for present and future sequencing applications requiring massive labeling, such as long-read single-cell RNA-Seq.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ezpeleta</LastName>
+            <ForeName>Joaquín</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centro Internacional Franco Argentino de Ciencias de la Información y de Sistemas, Rosario, Argentina. ezpeleta@cifasis-conicet.gov.ar.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Facultad de Ciencias Exactas, Ingeniería y Agrimensura, Universidad Nacional de Rosario, Rosario, Argentina. ezpeleta@cifasis-conicet.gov.ar.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Garcia Labari</LastName>
+            <ForeName>Ignacio</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centro Internacional Franco Argentino de Ciencias de la Información y de Sistemas, Rosario, Argentina.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Villanova</LastName>
+            <ForeName>Gabriela Vanina</ForeName>
+            <Initials>GV</Initials>
+            <AffiliationInfo>
+              <Affiliation>Consejo Nacional de Investigaciones Científicas y Técnicas, Rosario, Argentina.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Laboratorio Mixto de Biotecnología Acuática, Facultad de Ciencias Bioquímicas y Farmacéuticas, Universidad Nacional de Rosario - Centro Científico Tecnológico y Educativo Acuario del Río Paraná, Rosario, Argentina.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bulacio</LastName>
+            <ForeName>Pilar</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centro Internacional Franco Argentino de Ciencias de la Información y de Sistemas, Rosario, Argentina.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Facultad de Ciencias Exactas, Ingeniería y Agrimensura, Universidad Nacional de Rosario, Rosario, Argentina.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lavista-Llanos</LastName>
+            <ForeName>Sofía</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centro Internacional Franco Argentino de Ciencias de la Información y de Sistemas, Rosario, Argentina.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Posner</LastName>
+            <ForeName>Victoria</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Laboratorio Mixto de Biotecnología Acuática, Facultad de Ciencias Bioquímicas y Farmacéuticas, Universidad Nacional de Rosario - Centro Científico Tecnológico y Educativo Acuario del Río Paraná, Rosario, Argentina.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Krsticevic</LastName>
+            <ForeName>Flavia</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Robert H Smith Faculty of Agriculture, Food and Environment, The Hebrew University of Jerusalem, Jerusalem, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Arranz</LastName>
+            <ForeName>Silvia</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Laboratorio Mixto de Biotecnología Acuática, Facultad de Ciencias Bioquímicas y Farmacéuticas, Universidad Nacional de Rosario - Centro Científico Tecnológico y Educativo Acuario del Río Paraná, Rosario, Argentina.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tapia</LastName>
+            <ForeName>Elizabeth</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Centro Internacional Franco Argentino de Ciencias de la Información y de Sistemas, Rosario, Argentina.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Facultad de Ciencias Exactas, Ingeniería y Agrimensura, Universidad Nacional de Rosario, Rosario, Argentina.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>10</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Sci Rep</MedlineTA>
+        <NlmUniqueID>101563288</NlmUniqueID>
+        <ISSNLinking>2045-2322</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D058893" MajorTopicYN="Y">DNA Barcoding, Taxonomic</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059014" MajorTopicYN="Y">High-Throughput Nucleotide Sequencing</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>J.E., P.B., F.K., and E.T. have filed a provisional patent application WO 2019/077151 A1 related to the method of tagging described in the paper. J.E., I.G., P.B. and E.T. are cofounders of ArgenTAG Corp., which markets related products and services and partly also supported this research. The remaining authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>10</Day>
+          <Hour>23</Hour>
+          <Minute>19</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35538127</ArticleId>
+        <ArticleId IdType="pmc">PMC9090787</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41598-022-11656-0</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41598-022-11656-0</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Buschmann T, Bystrykh LV. Levenshtein error-correcting barcodes for multiplexed DNA sequencing. BMC Bioinform. 2013;14:272. doi: 10.1186/1471-2105-14-272.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2105-14-272</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hamady M, Walker JJ, Harris JK, Gold NJ, Knight R. Error-correcting barcoded primers for pyrosequencing hundreds of samples in multiplex. Nat. Methods. 2008;5:235–237. doi: 10.1038/nmeth.1184.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.1184</ArticleId>
+            <ArticleId IdType="pmc">PMC3439997</ArticleId>
+            <ArticleId IdType="pubmed">18264105</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tapia E, Spetale F, Krsticevic F, Angelone L, Bulacio P. DNA barcoding through quaternary LDPC codes. PLoS ONE. 2015;10:e0140459. doi: 10.1371/journal.pone.0140459.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0140459</ArticleId>
+            <ArticleId IdType="pmc">PMC4619643</ArticleId>
+            <ArticleId IdType="pubmed">26492348</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gallager RG.  Information Theory and Reliable Communication. USA: Wiley; 1968. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hamming RW. Error detecting and error correcting codes. Bell Syst. Tech. J. 1950;29:147–160. doi: 10.1002/j.1538-7305.1950.tb00463.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/j.1538-7305.1950.tb00463.x</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Levenshtein VI. Binary codes capable of correcting deletions, insertions and reversals. Sov. Phys. Dokl. 1966;10:707.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wagner R, Fischer M. The string-to-string correction problem. J. ACM. 1974;21:168–173. doi: 10.1145/321796.321811.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1145/321796.321811</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ezpeleta J, Krsticevic FJ, Bulacio P, Tapia E. Designing robust watermark barcodes for multiplex long-read sequencing. Bioinformatics. 2017;33:807–813.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27259539</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Davey MC, Mackay DJ. Reliable communication over channels with insertions, deletions, and substitutions. IEEE Trans. Inf. Theor. 2006;47:687–698. doi: 10.1109/18.910582.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/18.910582</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Benvenuto CJ. Galois field in cryptography. Univ. Wash. 2012;1:1–11.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>MacKay DJ. Good error-correcting codes based on very sparse matrices. IEEE Trans. Inf. Theory. 1999;45:399–431. doi: 10.1109/18.748992.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/18.748992</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Declercq D, Fossorier M. Decoding algorithms for nonbinary LDPC codes over GF<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mi>q</mml:mi><mml:mo stretchy="false">)</mml:mo></mml:mrow></mml:math> IEEE Trans. Commun. 2007;55:633–643. doi: 10.1109/TCOMM.2007.894088.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TCOMM.2007.894088</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu S-Y, et al.  Discovery of natural nicking endonucleases Nb.BsrDI and Nb.BtsI and engineering of top-strand nicking variants from BsrDI and BtsI. Nucleic Acids Res. 2007;35:4608–4618. doi: 10.1093/nar/gkm481.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkm481</ArticleId>
+            <ArticleId IdType="pmc">PMC1950550</ArticleId>
+            <ArticleId IdType="pubmed">17586812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beliveau BJ, et al.  Versatile design and synthesis platform for visualizing genomes with Oligopaint FISH probes. Proc. Natl. Acad. Sci. 2012;109:21301–21306. doi: 10.1073/pnas.1213818110.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1213818110</ArticleId>
+            <ArticleId IdType="pmc">PMC3535588</ArticleId>
+            <ArticleId IdType="pubmed">23236188</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanchez JA, Pierce KE, Rice JE, Wangh LJ. Linear-After-The-Exponential (LATE)-PCR: An advanced method of asymmetric PCR and its uses in quantitative real-time analysis. Proc. Natl. Acad. Sci. 2004;101:1933–1938. doi: 10.1073/pnas.0305476101.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0305476101</ArticleId>
+            <ArticleId IdType="pmc">PMC357030</ArticleId>
+            <ArticleId IdType="pubmed">14769930</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zuker M. Mfold web server for nucleic acid folding and hybridization prediction. Nucleic Acids Res. 2003;31:3406–3415. doi: 10.1093/nar/gkg595.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkg595</ArticleId>
+            <ArticleId IdType="pmc">PMC169194</ArticleId>
+            <ArticleId IdType="pubmed">12824337</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ayyadevara S, Thaden JJ, Shmookler Reis RJ. Discrimination of primer 3’-nucleotide mismatch by Taq DNA polymerase during polymerase chain reaction. Anal. Biochem. 2000;284:11–18. doi: 10.1006/abio.2000.4635.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/abio.2000.4635</ArticleId>
+            <ArticleId IdType="pubmed">10933850</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meyer M, Stenzel U, Hofreiter M. Parallel tagged sequencing on the 454 platform. Nat. Protoc. 2008;3:267–278. doi: 10.1038/nprot.2007.520.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nprot.2007.520</ArticleId>
+            <ArticleId IdType="pubmed">18274529</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wick RR, Judd LM, Holt KE. Deepbinner: Demultiplexing barcoded oxford nanopore reads with deep convolutional neural networks. PLoS Comput. Biol. 2018;14:1–11. doi: 10.1371/journal.pcbi.1006583.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1006583</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jain M, et al.  Minion analysis and reference consortium: Phase 2 data release and analysis of r90 chemistry. F1000Research. 2017;6:760. doi: 10.12688/f1000research.11354.1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.12688/f1000research.11354.1</ArticleId>
+            <ArticleId IdType="pmc">PMC5538040</ArticleId>
+            <ArticleId IdType="pubmed">28794860</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Illumina. Effects of Index Misassignment on Multiplexing and Downstream Analysis. https://www.illumina.com/content/dam/illumina-marketing/documents/products/whitepapers/index-hopping-white-paper-770-2017-004.pdf (2018). Accessed 10 May (2021).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gupta I, et al.  Single-cell isoform RNA sequencing characterizes isoforms in thousands of cerebellar cells. Nat. Biotechnol. 2018;36:1197–1202. doi: 10.1038/nbt.4259.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nbt.4259</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Volden R, et al.  Improving nanopore read accuracy with the R2C2 method enables the sequencing of highly multiplexed full-length single-cell cDNA. Proc. Natl. Acad. Sci. 2018;115:9726–9731. doi: 10.1073/pnas.1806447115.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1806447115</ArticleId>
+            <ArticleId IdType="pmc">PMC6166824</ArticleId>
+            <ArticleId IdType="pubmed">30201725</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Karst SM, et al.  Enabling high-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing. bioRxiv. 2020 doi: 10.1101/645903.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/645903</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Philpott M, et al.  Nanopore sequencing of single-cell transcriptomes with sccolor-seq. Nat. Biotechnol. 2021 doi: 10.1038/s41587-021-00965-w.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41587-021-00965-w</ArticleId>
+            <ArticleId IdType="pmc">PMC8668430</ArticleId>
+            <ArticleId IdType="pubmed">34211161</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Farrell DJ, Daggard G, Mukkur TK. Nested duplex PCR to detect Bordetella pertussis and Bordetella parapertussis and its application in diagnosis of pertussis in nonmetropolitan Southeast Queensland, Australia. J. Clin. Microbiol. 1999;37:606–610. doi: 10.1128/JCM.37.3.606-610.1999.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.37.3.606-610.1999</ArticleId>
+            <ArticleId IdType="pmc">PMC84487</ArticleId>
+            <ArticleId IdType="pubmed">9986820</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Olcén P, et al.  Amplification of DNA by the polymerase chain reaction for the efficient diagnosis of pertussis. Scand. J. Infect. Dis. 1992;24:339–345. doi: 10.3109/00365549209061340.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/00365549209061340</ArticleId>
+            <ArticleId IdType="pubmed">1509238</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ŝoŝić M, Ŝikić M. Edlib: a C/C++ library for fast, exact sequence alignment using edit distance. Bioinformatics. 2017;33:1394–1395. doi: 10.1093/bioinformatics/btw753.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btw753</ArticleId>
+            <ArticleId IdType="pmc">PMC5408825</ArticleId>
+            <ArticleId IdType="pubmed">28453688</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

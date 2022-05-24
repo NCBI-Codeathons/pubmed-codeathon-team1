@@ -1,0 +1,181 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">35579422</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2050-084X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>11</Volume>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>17</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>eLife</Title>
+          <ISOAbbreviation>Elife</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A tonic nicotinic brake controls spike timing in striatal spiny projection neurons.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">e75829</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.7554/eLife.75829</ELocationID>
+        <Abstract>
+          <AbstractText>Striatal spiny projection neurons (SPNs) transform convergent excitatory corticostriatal inputs into an inhibitory signal that shapes basal ganglia output. This process is fine-tuned by striatal GABAergic interneurons (GINs), which receive overlapping cortical inputs and mediate rapid corticostriatal feedforward inhibition of SPNs. Adding another level of control, cholinergic interneurons (CINs), which are also vigorously activated by corticostriatal excitation, can disynaptically inhibit SPNs by activating α4β2 nicotinic acetylcholine receptors (nAChRs) on various GINs. Measurements of this disynaptic inhibitory pathway, however, indicate that it is too slow to compete with direct GIN-mediated feed-forward inhibition. Moreover, functional nAChRs are also present on populations of GINs that respond only weakly to phasic activation of CINs, such as parvalbumin-positive fast-spiking interneurons (PV-FSIs), making the overall role of nAChRs in shaping striatal synaptic integration unclear. Using acute striatal slices from mice we show that upon synchronous optogenetic activation of corticostriatal projections blockade of α4β2 nAChRs shortened SPN spike latencies and increased postsynaptic depolarizations. The nAChR-dependent inhibition was mediated by downstream GABA release, and data suggest that the GABA source was not limited to GINs that respond strongly to phasic CIN activation. In particular, the observed decrease in spike latency caused by nAChR blockade was associated with a diminished frequency of spontaneous inhibitory postsynaptic currents in SPNs, a parallel hyperpolarization of PV-FSIs, and was occluded by pharmacologically preventing cortical activation of PV-FSIs. Taken together, we describe a role for tonic (as opposed to phasic) activation of nAChRs in striatal function. We conclude that tonic activation of nAChRs by CINs maintains a GABAergic brake on cortically-driven striatal output by 'priming' feedforward inhibition, a process that may shape SPN spike timing, striatal processing and synaptic plasticity.</AbstractText>
+          <CopyrightInformation>© 2022, Matityahu et al.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Matityahu</LastName>
+            <ForeName>Lior</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Neurobiology, The Hebrew University of Jerusalem, Jerusalem, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Malgady</LastName>
+            <ForeName>Jeffrey M</ForeName>
+            <Initials>JM</Initials>
+            <Identifier Source="ORCID">0000-0002-1129-2155</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurobiology and Behavior, Stony Brook University, Stony Brook, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schirelman</LastName>
+            <ForeName>Meital</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Neurobiology, The Hebrew University of Jerusalem, Jerusalem, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Johansson</LastName>
+            <ForeName>Yvonne</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sainsbury Wellcome Centre for Neural Circuits and Behaviour, University College London, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wilking</LastName>
+            <ForeName>Jennifer</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurobiology and Behavior, Stony Brook University, Stony Brook, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Silberberg</LastName>
+            <ForeName>Gilad</ForeName>
+            <Initials>G</Initials>
+            <Identifier Source="ORCID">0000-0001-9964-505X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroscience, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goldberg</LastName>
+            <ForeName>Joshua A</ForeName>
+            <Initials>JA</Initials>
+            <Identifier Source="ORCID">0000-0002-5740-4087</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Neurobiology, The Hebrew University of Jerusalem, Jerusalem, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Plotkin</LastName>
+            <ForeName>Joshua L</ForeName>
+            <Initials>JL</Initials>
+            <Identifier Source="ORCID">0000-0001-6232-7613</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurobiology and Behavior, Stony Brook University, Stony Brook, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 NS104089/NINDS</GrantID>
+            <Acronym>GF</Acronym>
+            <Agency>NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>NS022061/NINDS</GrantID>
+            <Acronym>GF</Acronym>
+            <Agency>NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>17</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Elife</MedlineTA>
+        <NlmUniqueID>101579614</NlmUniqueID>
+        <ISSNLinking>2050-084X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">mouse</Keyword>
+        <Keyword MajorTopicYN="N">neuroscience</Keyword>
+      </KeywordList>
+      <CoiStatement>LM, JM, MS, YJ, JW, GS, JG, JP The authors declare that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>24</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>17</Day>
+          <Hour>8</Hour>
+          <Minute>53</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35579422</ArticleId>
+        <ArticleId IdType="doi">10.7554/eLife.75829</ArticleId>
+        <ArticleId IdType="pii">75829</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

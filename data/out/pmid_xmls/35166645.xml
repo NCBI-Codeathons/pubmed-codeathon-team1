@@ -1,0 +1,745 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35166645</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>15</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2150-5608</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>13</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Virulence</Title>
+          <ISOAbbreviation>Virulence</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>HIV-1 provirus transcription and translation in macrophages differs from pre-integrated cDNA complexes and requires E2F transcriptional programs.</ArticleTitle>
+        <Pagination>
+          <StartPage>386</StartPage>
+          <EndPage>413</EndPage>
+          <MedlinePgn>386-413</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1080/21505594.2022.2031583</ELocationID>
+        <Abstract>
+          <AbstractText>HIV-1 cDNA pre-integration complexes persist for weeks in macrophages and remain transcriptionally active. While previous work has focused on the transcription of HIV-1 genes; our understanding of the cellular milieu that accompanies viral production is incomplete. We have used an <i>in vitro</i> system to model HIV-1 infection of macrophages, and single-cell RNA sequencing (scRNA-seq) to compare the transcriptomes of uninfected cells, cells harboring pre-integration complexes (PIC), and those containing integrated provirus and making late HIV proteins. scRNA-seq can distinguish between provirus and PIC cells because their background transcriptomes vary dramatically. PIC cell transcriptomes are characterized by NFkB and AP-1 promoted transcription, while transcriptomes of cells transcribing from provirus are characterized by E2F family transcription products. We also find that the transcriptomes of PIC cells and Bystander cells (defined as cells not producing any HIV transcript and thus presumably not infected) are indistinguishable except for the presence of HIV-1 transcripts. Furthermore, the presence of pathogen alters the transcriptome of the uninfected Bystander cells, so that they are distinguishable from true control cells (cells not exposed to any pathogen). Therefore, a single cell comparison of transcriptomes from provirus and PIC cells provides a new understanding of the transcriptional changes that accompany HIV-1 integration.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Lim</LastName>
+            <ForeName>Albebson L</ForeName>
+            <Initials>AL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pharmacology and Toxicology, University of Utah, Salt Lake City, Utah, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Marine Science Institute, University of the Philippines Diliman, Quezon City, Philippines.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moos</LastName>
+            <ForeName>Philip</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pharmacology and Toxicology, University of Utah, Salt Lake City, Utah, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pond</LastName>
+            <ForeName>Christopher D</ForeName>
+            <Initials>CD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pharmacology and Toxicology, University of Utah, Salt Lake City, Utah, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Larson</LastName>
+            <ForeName>Erica C</ForeName>
+            <Initials>EC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pharmacology and Toxicology, University of Utah, Salt Lake City, Utah, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Microbiology &amp; Molecular Genetics, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Martins</LastName>
+            <ForeName>Laura J</ForeName>
+            <Initials>LJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, University of Utah, Salt Lake City, Utah, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Szaniawski</LastName>
+            <ForeName>Matthew A</ForeName>
+            <Initials>MA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, University of Utah, Salt Lake City, Utah, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Planelles</LastName>
+            <ForeName>Vicente</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology, University of Utah, Salt Lake City, Utah, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Barrows</LastName>
+            <ForeName>Louis R</ForeName>
+            <Initials>LR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pharmacology and Toxicology, University of Utah, Salt Lake City, Utah, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R21 AI124823</GrantID>
+            <Acronym>AI</Acronym>
+            <Agency>NIAID NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>U01 TW008163</GrantID>
+            <Acronym>TW</Acronym>
+            <Agency>FIC NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Virulence</MedlineTA>
+        <NlmUniqueID>101531386</NlmUniqueID>
+        <ISSNLinking>2150-5594</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018076">DNA, Complementary</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D018076" MajorTopicYN="N">DNA, Complementary</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015658" MajorTopicYN="Y">HIV Infections</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015497" MajorTopicYN="Y">HIV-1</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008264" MajorTopicYN="N">Macrophages</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011533" MajorTopicYN="N">Proviruses</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">HIV-1</Keyword>
+        <Keyword MajorTopicYN="Y">infection</Keyword>
+        <Keyword MajorTopicYN="Y">macrophages</Keyword>
+        <Keyword MajorTopicYN="Y">pre-integrated cDNA complex transcription</Keyword>
+        <Keyword MajorTopicYN="Y">provirus transcription</Keyword>
+        <Keyword MajorTopicYN="Y">single cell RNA sequencing</Keyword>
+      </KeywordList>
+      <CoiStatement>No potential conflict of interest was reported by the author(s).</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>15</Day>
+          <Hour>12</Hour>
+          <Minute>16</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35166645</ArticleId>
+        <ArticleId IdType="pmc">PMC8855869</ArticleId>
+        <ArticleId IdType="doi">10.1080/21505594.2022.2031583</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Finzi D, Hermankova M, Pierson T, et al. Identification of a reservoir for HIV-1 in patients on highly active antiretroviral therapy. Science. 1997;278(5341):1295–1300.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9360927</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chun TW, Carruth L, Finzi D, et al. Quantification of latent tissue reservoirs and total body viral load in HIV-1 infection. Nature. 1997;387(6629):183–188.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9144289</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wong JK, Hezareh M, Günthard HF, et al. Recovery of replication-competent HIV despite prolonged suppression of plasma viremia. Science. 1997. 
+Nov
+14;278(5341):1291–1295. PMID: 9360926.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9360926</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Szaniawski MA, Spivak AM, Bosque A, et al. Sex influences SAMHD1 activity and susceptibility to human immunodeficiency virus-1 in primary human macrophages. J Infect Dis. 2019. 
+Feb
+15;219(5):777–785. PMID: 30299483; PMCID: PMC6376916.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6376916</ArticleId>
+            <ArticleId IdType="pubmed">30299483</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pang S, Koyanagi Y, Miles S, et al. High levels of unintegrated HIV-1 DNA in brain tissue of AIDS dementia patients. Nature. 1990. 
+Jan
+4;343(6253):85–89. PMID: 2296295.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2296295</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou Y, Zhang H, Siliciano JD, et al. Kinetics of human immunodeficiency virus type 1 decay following entry into resting CD4+ T cells. J Virol. 2005Feb;79(4):2199–2210. PMID: 15681422; PMCID: PMC546571.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC546571</ArticleId>
+            <ArticleId IdType="pubmed">15681422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hamid FB, Kim J, Shin CG.. 
+Distribution and fate of HIV-1 unintegrated DNA species: a comprehensive update. AIDS Res Ther. 2017. 
+Feb
+16;14(1):9. PMID: 28209198; PMCID: PMC5314604.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5314604</ArticleId>
+            <ArticleId IdType="pubmed">28209198</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chan CN, Trinité B, Lee CS, et al. HIV-1 latency and virus production from unintegrated genomes following direct infection of resting CD4 T cells. Retrovirology. 2016. 
+Jan
+5;13(1):1. PMID: 26728316; PMCID: PMC4700562.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4700562</ArticleId>
+            <ArticleId IdType="pubmed">26728316</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu Y, Marsh JW. Early transcription from nonintegrated DNA in human immunodeficiency virus infection. J Virol. 2003Oct;77(19):10376–10382. PMID: 12970422; PMCID: PMC228496.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC228496</ArticleId>
+            <ArticleId IdType="pubmed">12970422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kelly J, Beddall MH, Yu D, et al. Human macrophages support persistent transcription from unintegrated HIV-1 DNA. Virology. 2008. 
+Mar
+15;372(2):300–312. Epub 2007 Dec 4. PMID: 18054979; PMCID: PMC2276161.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2276161</ArticleId>
+            <ArticleId IdType="pubmed">18054979</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kruize Z, Kootstra NA. The role of macrophages in HIV-1 persistence and pathogenesis. Front Microbiol. 2019. 
+Dec
+5;10:2828. PMID: 31866988; PMCID: PMC6906147.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6906147</ArticleId>
+            <ArticleId IdType="pubmed">31866988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Englund G, Theodore TS, Freed EO, et al. Integration is required for productive infection of monocyte-derived macrophages by human immunodeficiency virus type 1. J Virol. 1995May;69(5):3216–3219. PMID: 7707554; PMCID: PMC189028.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC189028</ArticleId>
+            <ArticleId IdType="pubmed">7707554</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hwang B, Lee JH, Bang D. Single-cell RNA sequencing technologies and bioinformatics pipelines. Exp Mol Med. 2018. 
+Aug
+7;50(8):96. PMID: 30089861; PMCID: PMC6082860.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6082860</ArticleId>
+            <ArticleId IdType="pubmed">30089861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen G, Ning B, Shi T. Single-cell RNA-seq technologies and related computational data analysis. Front Genet. 2019. 
+Apr
+5;10:317. PMID: 31024627; PMCID: PMC6460256.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6460256</ArticleId>
+            <ArticleId IdType="pubmed">31024627</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>10X Genomics Home Page . Accessed 02/02/2022. https://www.10xgenomics.com/?utm_medium%5B0%5D=search&amp;utm_medium%5B1%5D=search&amp;utm_source%5B0%5D=google&amp;utm_source%5B1%5D=google&amp;utm_campaign=sem-goog-2021-website-page-ra_g-brand-amer&amp;useroffertype=website-page&amp;userresearcharea=ra_g&amp;userregion=amer&amp;userrecipient=customer&amp;usercampaignid=7011P000001PCfa&amp;utm_content=Pure%20Brand&amp;utm_term=10x%20genomics&amp;gclid=Cj0KCQiA3smABhCjARIsAKtrg6L5CIu8nsc24EDzVxlSXMQ1IjYrYk8KP9bBVXEva4QP15dnxLtfwjUaAteHEALw_wcB&amp;gclsrc=aw.ds</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sloan RD, Donahue DA, Kuhl BD, et al. Expression of Nef from unintegrated HIV-1 DNA downregulates cell surface CXCR4 and CCR5 on T-lymphocytes. Retrovirology. 2010. 
+May
+13;7(1):44. PMID: 20465832; PMCID: PMC2881062.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2881062</ArticleId>
+            <ArticleId IdType="pubmed">20465832</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu Y, Marsh JW. Selective transcription and modulation of resting T cell activity by preintegrated HIV DNA. Science. 2001. 
+Aug
+24;293(5534):1503–1506. PMID: 11520990.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11520990</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poon B, Chang MA, Chen IS. Vpr is required for efficient Nef expression from unintegrated human immunodeficiency virus type 1 DNA. J Virol. 2007Oct;81(19):10515–10523. Epub 2007 Jul 25. PMID: 17652391; PMCID: PMC2045493.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2045493</ArticleId>
+            <ArticleId IdType="pubmed">17652391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gelderblom HC, Vatakis DN, Burke SA, et al. Viral complementation allows HIV-1 replication without integration. Retrovirology. 2008. 
+Jul
+9;5(1):60. PMID: 18613957; PMCID: PMC2474848.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2474848</ArticleId>
+            <ArticleId IdType="pubmed">18613957</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Essaghir A, Toffalini F, Knoops L, et al. Transcription factor regulation can be accurately predicted from the presence of target gene signatures in microarray gene expression data. Nucleic Acids Res. 2010Jun;38(11):e120. Epub 2010 Mar 9. PMID: 20215436; PMCID: PMC2887972.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2887972</ArticleId>
+            <ArticleId IdType="pubmed">20215436</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Banks CJ, Joshi A, Michoel T. Functional transcription factor target discovery via compendia of binding and expression profiles. Sci Rep. 2016. 
+Feb
+9;6(1):20649. PMID: 26857150; PMCID: PMC4746627.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4746627</ArticleId>
+            <ArticleId IdType="pubmed">26857150</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>ENCODE Transcription Factor Targets Dataset . Accessed 02/02/2022.
+https://maayanlab.cloud/Harmonizome/dataset/ENCODE+Transcription+Factor+Targets</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gaynor R. Cellular transcription factors involved in the regulation of HIV-1 gene expression. AIDS. 1992. 
+Apr;6(4):347–364.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1616633</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schiralli Lester GM, Henderson AJ. Mechanisms of HIV transcriptional regulation and their contribution to latency. Mol Biol Int. 2012;2012:614120. Epub 2012 Jun 3. PMID: 22701796; PMCID: PMC3371693.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3371693</ArticleId>
+            <ArticleId IdType="pubmed">22701796</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kundu M, Guermah M, Roeder RG, et al. Interaction between cell cycle regulator, E2F-1, and NF-kappaB mediates repression of HIV-1 gene transcription. J Biol Chem. 1997. 
+Nov
+21;272(47):29468–29474. PMID: 9368006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9368006</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mbonye U, Karn J. Transcriptional control of HIV latency: cellular signaling pathways, epigenetics, happenstance and the hope for a cure. Virology. 2014Apr;454-455:328–339Epub 2014 Feb 22. PMID: 24565118; PMCID: PMC4010583.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4010583</ArticleId>
+            <ArticleId IdType="pubmed">24565118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Frolov MV, Dyson NJ. Molecular mechanisms of E2F-dependent activation and pRB-mediated repression. J Cell Sci. 2004. 
+May
+1;117(Pt 11):2173–2181. PMID: 15126619.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15126619</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bracken AP, Ciro M, Cocito A, et al. E2F target genes: unraveling the biology. Trends Biochem Sci. 2004Aug;29(8):409–417. PMID: 15362224.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15362224</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bosque A, Planelles V. Induction of HIV-1 latency and reactivation in primary memory CD4+ T cells. Blood. 2009. 
+Jan
+1;113(1):58–65. Epub 2008 Oct 10. PMID: 18849485; PMCID: PMC2614643.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2614643</ArticleId>
+            <ArticleId IdType="pubmed">18849485</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hotter D, Bosso M, Jønsson KL, et al. IFI16 targets the transcription factor Sp1 to suppress HIV-1 transcription and latency reactivation. Cell Host Microbe. 2019 Jun
+12;25(6):858–872.e13. Epub 2019 Jun 4. PMID: 31175045; PMCID: PMC6681451.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6681451</ArticleId>
+            <ArticleId IdType="pubmed">31175045</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mascolini M
+Merck Offers Unique Perspective on Second-Generation Integrase Inhibitor 10th International Workshop on Clinical Pharmacology of HIV Therapy, Amsterdam, 2009. 
+Apr
+15-17</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ikebe E, Matsuoka S, Tezuka K, et al. Activation of PERK-ATF4-CHOP pathway as a novel therapeutic approach for efficient elimination of HTLV-1-infected cells. Blood Adv. 2020. 
+May
+12;4(9):1845–1858. PMID: 32369565; PMCID: PMC7218438.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7218438</ArticleId>
+            <ArticleId IdType="pubmed">32369565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>NIH AIDS Reagent Program , Reagent Datasheet Detail: monoclonal mouse IgG-AG3.0. Accessed 02/02/2022, (NIH AIDS Res Reagent Prog, Germantown, MD; Cat. # 4121)
+https://www.hivreagentprogram.org/Catalog/HRPMonoclonalAntibodies/ARP-4121.aspx</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sauter D, Hotter D, Van Driessche B, et al. Differential regulation of NF-κB-mediated proviral and antiviral host gene expression by primate lentiviral Nef and Vpu proteins. Cell Rep. 2015. 
+Feb
+3;10(4):586–599. Epub 2015 Jan 22. PMID: 25620704; PMCID: PMC4682570.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4682570</ArticleId>
+            <ArticleId IdType="pubmed">25620704</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Langer S, Hammer C, Hopfensperger K, et al. HIV-1 Vpu is a potent transcriptional suppressor of NF-κB-elicited antiviral immune responses. Elife. 2019. 
+Feb
+5;8:e41930. PMID: 30717826; PMCID: PMC6372280.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6372280</ArticleId>
+            <ArticleId IdType="pubmed">30717826</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chun TW, Stuyver L, Mizell SB, et al. Presence of an inducible HIV-1 latent reservoir during highly active antiretroviral therapy. Proc Natl Acad Sci U S A. 1997. 
+Nov
+25;94(24):13193–13197. PMID: 9371822; PMCID: PMC24285.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC24285</ArticleId>
+            <ArticleId IdType="pubmed">9371822</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brussel A, Sonigo P. Evidence for gene expression by unintegrated human immunodeficiency virus type 1 DNA species. J Virol. 2004Oct;78(20):11263–11271. PMID: 15452245; PMCID: PMC521838.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC521838</ArticleId>
+            <ArticleId IdType="pubmed">15452245</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tedesco S, De Majo F, Kim J, et al. Convenience versus biological significance: are PMA-differentiated THP-1 cells a reliable substitute for blood-derived macrophages when studying in vitro polarization?
+Front Pharmacol. 2018. 
+Feb
+22;9:71. PMID: 29520230; PMCID: PMC5826964.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5826964</ArticleId>
+            <ArticleId IdType="pubmed">29520230</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chanput W, Mes JJ, Wichers HJ. THP-1 cell line: an in vitro cell model for immune modulation approach. Int Immunopharmacol. 2014Nov;23(1):37–45. Epub 2014 Aug 14. PMID: 25130606.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25130606</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gažová I, Lefevre L, Bush SJ, et al. the transcriptional network that controls growth arrest and macrophage differentiation in the human myeloid leukemia cell line THP-1. Front Cell Dev Biol. 2020. 
+Jul
+3;8:498. PMID: 32719792; PMCID: PMC7347797.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7347797</ArticleId>
+            <ArticleId IdType="pubmed">32719792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cassol E, Cassetta L, Alfano M, et al. Macrophage polarization and HIV-1 infection. J Leukoc Biol. 2010Apr;87(4):599–608. Epub 2009 Dec 30. PMID: 20042468.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20042468</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Spano A, Barni S, Sciola L. PMA withdrawal in PMA-treated monocytic THP-1 cells and subsequent retinoic acid stimulation, modulate induction of apoptosis and appearance of dendritic cells. Cell Prolif. 2013Jun;46(3):328–347. PMID: 23692091; PMCID: PMC6496477.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6496477</ArticleId>
+            <ArticleId IdType="pubmed">23692091</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aldo PB, Craveiro V, Guller S, et al. Effect of culture conditions on the phenotype of THP-1 monocyte cell line. Am J Reprod Immunol. 2013Jul;70(1):80–86. Epub 2013 Apr 29. PMID: 23621670; PMCID: PMC3703650.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3703650</ArticleId>
+            <ArticleId IdType="pubmed">23621670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Daigneault M, Preston JA, Marriott HM, et al. The identification of markers of macrophage differentiation in PMA-stimulated THP-1 cells and monocyte-derived macrophages. PLoS One. 2010. 
+Jan
+13;5(1):e8668. PMID: 20084270; PMCID: PMC2800192.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2800192</ArticleId>
+            <ArticleId IdType="pubmed">20084270</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Italiani P, Boraschi D. From monocytes to M1/M2 macrophages: phenotypical vs. Functional differentiation. Front Immunol. 2014. 
+Oct
+17;5:514. PMID: 25368618; PMCID: PMC4201108.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4201108</ArticleId>
+            <ArticleId IdType="pubmed">25368618</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genin M, Clement F, Fattaccioli A, et al. M1 and M2 macrophages derived from THP-1 cells differentially modulate the response of cancer cells to etoposide. BMC Cancer. 2015. 
+Aug
+8;15(1):577.PMID: 26253167; PMCID: PMC4545815.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4545815</ArticleId>
+            <ArticleId IdType="pubmed">26253167</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bosshart H, Heinzelmann M. THP-1 cells as a model for human monocytes. Ann Transl Med. 2016Nov;4(21):438. PMID: 27942529; PMCID: PMC5124613.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5124613</ArticleId>
+            <ArticleId IdType="pubmed">27942529</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maeß MB, Wittig B, Lorkowski S. Highly efficient transfection of human THP-1 macrophages by nucleofection. J Vis Exp. 2014Sep;2;(91(4):e51960. PMID: 25226503; PMCID: PMC4828023.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4828023</ArticleId>
+            <ArticleId IdType="pubmed">25226503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schwartz S, Felber BK, Benko DM, et al. Cloning and functional analysis of multiply spliced mRNA species of human immunodeficiency virus type 1. J Virol. 1990Jun;64(6):2519–2529. PMID: 2335812; PMCID: PMC249427.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC249427</ArticleId>
+            <ArticleId IdType="pubmed">2335812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sheldon M, Ratnasabapathy R, Hernandez N. Characterization of the inducer of short transcripts, a human immunodeficiency virus type 1 transcriptional element that activates the synthesis of short RNAs. Mol Cell Biol. 1993Feb;13(2):1251–1263. PMID: 8423790; PMCID: PMC359010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC359010</ArticleId>
+            <ArticleId IdType="pubmed">8423790</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Svensson V, Natarajan KN, Ly LH, et al. Power analysis of single-cell RNA-sequencing experiments. Nat Methods. 2017Apr;14(4):381–387. Epub 2017 Mar 6. PMID: 28263961; PMCID: PMC5376499.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5376499</ArticleId>
+            <ArticleId IdType="pubmed">28263961</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qiu P. Embracing the dropouts in single-cell RNA-seq analysis. Nat Commun. 2020. 
+Mar
+3;11(1):1169. PMID: 32127540; PMCID: PMC7054558.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7054558</ArticleId>
+            <ArticleId IdType="pubmed">32127540</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Macnair W, Claassen M, Psupertime: supervised pseudotime inference for single cell 2 RNA-seq data with sequential labels. 2019. Accessed 02/02/2022, Mar
+28. https://www.biorxiv.org/content/10.1101/622001v1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/622001v1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qiu X, Mao Q, Tang Y, et al. Reversed graph embedding resolves complex single-cell trajectories. Nat Methods. 2017Oct;14(10):979–982. Epub 2017 Aug 21. PMID: 28825705; PMCID: PMC5764547.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5764547</ArticleId>
+            <ArticleId IdType="pubmed">28825705</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Street K, Risso D, Fletcher RB, et al. Slingshot: cell lineage and pseudotime inference for single-cell transcriptomics. BMC Genomics. 2018. 
+Jun
+19;19(1):477. PMID: 29914354; PMCID: PMC6007078.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6007078</ArticleId>
+            <ArticleId IdType="pubmed">29914354</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Butler A, Hoffman P, Smibert P, et al. Integrating single-cell transcriptomic data across different conditions, technologies, and species. Nat Biotechnol. 2018Jun;36(5):411–420. Epub 2018 Apr 2. PMID: 29608179; PMCID: PMC6700744.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6700744</ArticleId>
+            <ArticleId IdType="pubmed">29608179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scialdone A, Natarajan KN, Saraiva LR, et al. Computational assignment of cell-cycle stage from single-cell transcriptome data. Methods. 2015. 
+Sep
+1;85:54–61. Epub 2015 Jul 2. PMID: 26142758.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26142758</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sergushichev AA. An algorithm for fast preranked gene set enrichment analysis using cumulative statistic calculation. 2016;bioRxiv:060012. 10.1101/060012</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/060012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rubin SM. Deciphering the retinoblastoma protein phosphorylation code. Trends Biochem Sci. 2013Jan;38(1):12–19. Epub 2012 Dec 3. PMID: 23218751; PMCID: PMC3529988.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3529988</ArticleId>
+            <ArticleId IdType="pubmed">23218751</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thierry S, Thierry E, Subra F, et al. Opposite transcriptional regulation of integrated vs unintegrated HIV genomes by the NF-κB pathway. Sci Rep. 2016. 
+May
+11;6(1):25678. PMID: 27167871; PMCID: PMC4863372.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4863372</ArticleId>
+            <ArticleId IdType="pubmed">27167871</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kundu M, Srinivasan A, Pomerantz RJ, et al. Evidence that a cell cycle regulator, E2F1, down-regulates transcriptional activity of the human immunodeficiency virus type 1 promoter. J Virol. 1995Nov;69(11):6940–6946. PMID: 7474112; PMCID: PMC189612.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC189612</ArticleId>
+            <ArticleId IdType="pubmed">7474112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ambrosino C, Palmieri C, Puca A, et al. Physical and functional interaction of HIV-1 Tat with E2F-4, a transcriptional regulator of mammalian cell cycle. J Biol Chem. 2002. 
+Aug
+30;277(35):31448–31458. Epub 2002 Jun 7. PMID: 12055184.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12055184</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bradley T, Ferrari G, Haynes BF, et al. Single-cell analysis of quiescent HIV infection reveals host transcriptional profiles that regulate proviral latency. Cell Rep. 2018. 
+Oct
+2;25(1):107–117.e3. PMID: 30282021; PMCID: PMC6258175.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6258175</ArticleId>
+            <ArticleId IdType="pubmed">30282021</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cohn LB, da Silva IT, Valieris R, et al. Clonal CD4+ T cells in the HIV-1 latent reservoir display a distinct gene profile upon reactivation. Nat Med. 2018May;24(5):604–609. Epub2018 Apr 23. PMID: 29686423; PMCID: PMC5972543.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5972543</ArticleId>
+            <ArticleId IdType="pubmed">29686423</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Golumbeanu M, Cristinelli S, Rato S, et al. Single-cell RNA-seq reveals transcriptional heterogeneity in latent and reactivated HIV-infected CELLS. Cell Rep. 2018. 
+Apr
+24;23(4):942–950. PMID: 29694901.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29694901</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lun ATL, Riesenfeld S, Andrews T, Gomes T, et al. Participants in the 1st human cell atlas Jamboree, Marioni JC. EmptyDrops: distinguishing cells from empty droplets in droplet-based single-cell RNA sequencing data. Genome Biol. 2019. 
+Mar
+22;20(1):63. PMID: 30902100; PMCID: PMC6431044.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6431044</ArticleId>
+            <ArticleId IdType="pubmed">30902100</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McCarthy DJ, Campbell KR, Lun AT, et al. Scater: pre-processing, quality control, normalization and visualization of single-cell RNA-seq data in R. Bioinformatics. 2017. 
+Apr
+15;33(8):1179–1186. PMID: 28088763; PMCID: PMC5408845.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5408845</ArticleId>
+            <ArticleId IdType="pubmed">28088763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dobin A, Davis CA, Schlesinger F, et al. STAR: ultrafast universal RNA-seq aligner. Bioinformatics. 2013. 
+Jan
+1;29(1):15–21. Epub 2012 Oct 25. PMID: 23104886; PMCID: PMC3530905.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3530905</ArticleId>
+            <ArticleId IdType="pubmed">23104886</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>How does Cell Ranger process and filter UMIs?
+https:kb.10xgenomics.com/hc/en-us/articles/115003133812-How-does-cellranger-count-process-and-filter-UMIs-, 10xgenomics. Accessed 02/02/2022.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>loess: Local Polynomial Regression Fitting. Accessed 02/02/2022. https://rdrr.io/r/stats/loess.html</Citation>
+        </Reference>
+        <Reference>
+          <Citation>SnapGene software (from Insightful Science; available at snapgene.com)</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

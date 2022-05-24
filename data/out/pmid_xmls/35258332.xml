@@ -1,0 +1,747 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35258332</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>19</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2150-7511</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>13</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Apr</Month>
+              <Day>26</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>mBio</Title>
+          <ISOAbbreviation>mBio</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A Comprehensive Phenotypic Screening Strategy to Identify Modulators of Cargo Translocation by the Bacterial Type IVB Secretion System.</ArticleTitle>
+        <Pagination>
+          <StartPage>e0024022</StartPage>
+          <MedlinePgn>e0024022</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">e00240-22</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1128/mbio.00240-22</ELocationID>
+        <Abstract>
+          <AbstractText>Bacterial type IV secretion systems (T4SSs) are macromolecular machines that translocate effector proteins across multiple membranes into infected host cells. Loss of function mutations in genes encoding protein components of the T4SS render bacteria avirulent, highlighting the attractiveness of T4SSs as drug targets. Here, we designed an automated high-throughput screening approach for the identification of compounds that interfere with the delivery of a reporter-effector fusion protein from Legionella pneumophila into RAW264.7 mouse macrophages. Using a fluorescence resonance energy transfer (FRET)-based detection assay in a bacteria/macrophage coculture format, we screened a library of over 18,000 compounds and, upon vetting compound candidates in a variety of <i>in vitro</i> and cell-based secondary screens, isolated several hits that efficiently interfered with biological processes that depend on a functional T4SS, such as intracellular bacterial proliferation or lysosomal avoidance, but had no detectable effect on L. pneumophila growth in culture medium, conditions under which the T4SS is dispensable. Notably, the same hit compounds also attenuated, to varying degrees, effector delivery by the closely related T4SS from Coxiella burnetii, notably without impacting growth of this organism within synthetic media. Together, these results support the idea that interference with T4SS function is a possible therapeutic intervention strategy, and the emerging compounds provide tools to interrogate at a molecular level the regulation and dynamics of these virulence-critical translocation machines. <b>IMPORTANCE</b> Multi-drug-resistant pathogens are an emerging threat to human health. Because conventional antibiotics target not only the pathogen but also eradicate the beneficial microbiota, they often cause additional clinical complications. Thus, there is an urgent need for the development of "smarter" therapeutics that selectively target pathogens without affecting beneficial commensals. The bacterial type IV secretion system (T4SS) is essential for the virulence of a variety of pathogens but dispensable for bacterial viability in general and can, thus, be considered a pathogen's Achilles heel. By identifying small molecules that interfere with cargo delivery by the T4SS from two important human pathogens, Legionella pneumophila and Coxiella burnetii, our study represents the first step in our pursuit toward precision medicine by developing pathogen-selective therapeutics capable of treating the infections without causing harm to commensal bacteria.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Cheng</LastName>
+            <ForeName>Eric</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Molecular and Cellular Biology, Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, Maryland, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Dorjsuren</LastName>
+            <ForeName>Dorjbal</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Preclinical Innovation, National Center for Advancing Translational Sciences, National Institutes of Health, Rockville, Maryland, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lehman</LastName>
+            <ForeName>Stephanie</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Molecular and Cellular Biology, Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, Maryland, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Larson</LastName>
+            <ForeName>Charles L</ForeName>
+            <Initials>CL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Laboratory of Bacteriology, Coxiella Pathogenesis Section, National Institute of Allergy and Infectious Diseases, Rocky Mountain Laboratories, Hamilton, Montana, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Titus</LastName>
+            <ForeName>Steven A</ForeName>
+            <Initials>SA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Preclinical Innovation, National Center for Advancing Translational Sciences, National Institutes of Health, Rockville, Maryland, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sun</LastName>
+            <ForeName>Hongmao</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Preclinical Innovation, National Center for Advancing Translational Sciences, National Institutes of Health, Rockville, Maryland, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zakharov</LastName>
+            <ForeName>Alexey</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Preclinical Innovation, National Center for Advancing Translational Sciences, National Institutes of Health, Rockville, Maryland, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rai</LastName>
+            <ForeName>Ganesha</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Preclinical Innovation, National Center for Advancing Translational Sciences, National Institutes of Health, Rockville, Maryland, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Heinzen</LastName>
+            <ForeName>Robert A</ForeName>
+            <Initials>RA</Initials>
+            <Identifier Source="ORCID">0000-0001-6870-4619</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Laboratory of Bacteriology, Coxiella Pathogenesis Section, National Institute of Allergy and Infectious Diseases, Rocky Mountain Laboratories, Hamilton, Montana, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Simeonov</LastName>
+            <ForeName>Anton</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Preclinical Innovation, National Center for Advancing Translational Sciences, National Institutes of Health, Rockville, Maryland, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Machner</LastName>
+            <ForeName>Matthias P</ForeName>
+            <Initials>MP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Molecular and Cellular Biology, Eunice Kennedy Shriver National Institute of Child Health and Human Development, National Institutes of Health, Bethesda, Maryland, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>ZIA TR000306</GrantID>
+            <Acronym>ImNIH</Acronym>
+            <Agency>Intramural NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>ZIA HD008893</GrantID>
+            <Acronym>ImNIH</Acronym>
+            <Agency>Intramural NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>ZIA AI000931</GrantID>
+            <Acronym>ImNIH</Acronym>
+            <Agency>Intramural NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>mBio</MedlineTA>
+        <NlmUniqueID>101519231</NlmUniqueID>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D058947">Bacterial Secretion Systems</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000069319">Type IV Secretion Systems</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D037521">Virulence Factors</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D058947" MajorTopicYN="N">Bacterial Secretion Systems</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016997" MajorTopicYN="Y">Coxiella burnetii</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016952" MajorTopicYN="Y">Legionella pneumophila</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000069319" MajorTopicYN="N">Type IV Secretion Systems</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D037521" MajorTopicYN="N">Virulence Factors</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Dot/Icm secretion system</Keyword>
+        <Keyword MajorTopicYN="Y">beta-lactamase reporter</Keyword>
+        <Keyword MajorTopicYN="Y">effector protein</Keyword>
+        <Keyword MajorTopicYN="Y">high throughput screen</Keyword>
+        <Keyword MajorTopicYN="Y">small molecule library</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>8</Day>
+          <Hour>12</Hour>
+          <Minute>20</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35258332</ArticleId>
+        <ArticleId IdType="pmc">PMC9040768</ArticleId>
+        <ArticleId IdType="doi">10.1128/mbio.00240-22</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Cascales E, Christie PJ. 2003. The versatile bacterial type IV secretion systems. Nat Rev Microbiol
+1:137–149. doi:10.1038/nrmicro753.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrmicro753</ArticleId>
+            <ArticleId IdType="pmc">PMC3873781</ArticleId>
+            <ArticleId IdType="pubmed">15035043</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Christie PJ, Vogel JP. 2000. Bacterial type IV secretion: conjugation systems adapted to deliver effector molecules to host cells. Trends Microbiol
+8:354–360. doi:10.1016/S0966-842X(00)01792-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0966-842X(00)01792-3</ArticleId>
+            <ArticleId IdType="pmc">PMC4847720</ArticleId>
+            <ArticleId IdType="pubmed">10920394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chandran Darbari V, Waksman G. 2015. Structural biology of bacterial type IV secretion systems. Annu Rev Biochem
+84:603–629. doi:10.1146/annurev-biochem-062911-102821.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-biochem-062911-102821</ArticleId>
+            <ArticleId IdType="pubmed">26034891</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Segal G, Feldman M, Zusman T. 2005. The Icm/Dot type-IV secretion systems of Legionella pneumophila and Coxiella burnetii. FEMS Microbiol Rev
+29:65–81. doi:10.1016/j.femsre.2004.07.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.femsre.2004.07.001</ArticleId>
+            <ArticleId IdType="pubmed">15652976</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sexton JA, Vogel JP. 2002. Type IVB secretion by intracellular pathogens. Traffic
+3:178–185. doi:10.1034/j.1600-0854.2002.030303.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1034/j.1600-0854.2002.030303.x</ArticleId>
+            <ArticleId IdType="pubmed">11886588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Voth DE, Broederdorf LJ, Graham JG. 2012. Bacterial type IV secretion systems: versatile virulence machines. Future Microbiol
+7:241–257. doi:10.2217/fmb.11.150.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2217/fmb.11.150</ArticleId>
+            <ArticleId IdType="pmc">PMC3563059</ArticleId>
+            <ArticleId IdType="pubmed">22324993</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gordon JE, Costa TRD, Patel RS, Gonzalez-Rivera C, Sarkar MK, Orlova EV, Waksman G, Christie PJ. 2017. Use of chimeric type IV secretion systems to define contributions of outer membrane subassemblies for contact-dependent translocation. Mol Microbiol
+105:273–293. doi:10.1111/mmi.13700.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/mmi.13700</ArticleId>
+            <ArticleId IdType="pmc">PMC5518639</ArticleId>
+            <ArticleId IdType="pubmed">28452085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Frick-Cheng AE, Pyburn TM, Voss BJ, McDonald WH, Ohi MD, Cover TL. 2016. Molecular and structural analysis of the Helicobacter pylori cag type IV secretion system core complex. mBio
+7:e02001-15–e02015. doi:10.1128/mBio.02001-15.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/mBio.02001-15</ArticleId>
+            <ArticleId IdType="pmc">PMC4725015</ArticleId>
+            <ArticleId IdType="pubmed">26758182</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chung JM, Sheedlo MJ, Campbell AM, Sawhney N, Frick-Cheng AE, Lacy DB, Cover TL, Ohi MD. 2019. Structure of the Helicobacter pylori Cag type IV secretion system. Elife
+8 doi:10.7554/eLife.47644.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.47644</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Low HH, Gubellini F, Rivera-Calzada A, Braun N, Connery S, Dujeancourt A, Lu F, Redzej A, Fronzes R, Orlova EV, Waksman G. 2014. Structure of a type IV secretion system. Nature
+508:550–553. doi:10.1038/nature13081.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature13081</ArticleId>
+            <ArticleId IdType="pmc">PMC3998870</ArticleId>
+            <ArticleId IdType="pubmed">24670658</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chandran V, Fronzes R, Duquerroy S, Cronin N, Navaza J, Waksman G. 2009. Structure of the outer membrane complex of a type IV secretion system. Nature
+462:1011–1015. doi:10.1038/nature08588.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature08588</ArticleId>
+            <ArticleId IdType="pmc">PMC2797999</ArticleId>
+            <ArticleId IdType="pubmed">19946264</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fronzes R, Schäfer E, Wang L, Saibil HR, Orlova EV, Waksman G. 2009. Structure of a type IV secretion system core complex. Science
+323:266–268. doi:10.1126/science.1166101.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1166101</ArticleId>
+            <ArticleId IdType="pmc">PMC6710095</ArticleId>
+            <ArticleId IdType="pubmed">19131631</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rivera-Calzada A, Fronzes R, Savva CG, Chandran V, Lian PW, Laeremans T, Pardon E, Steyaert J, Remaut H, Waksman G, Orlova EV. 2013. Structure of a bacterial type IV secretion core complex at subnanometre resolution. EMBO J
+32:1195–1204. doi:10.1038/emboj.2013.58.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/emboj.2013.58</ArticleId>
+            <ArticleId IdType="pmc">PMC3630358</ArticleId>
+            <ArticleId IdType="pubmed">23511972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ghosal D, Jeong KC, Chang Y-W, Gyore J, Teng L, Gardner A, Vogel JP, Jensen GJ. 2019. Molecular architecture, polar targeting and biogenesis of the Legionella Dot/Icm T4SS. Nat Microbiol
+4:1173–1182. doi:10.1038/s41564-019-0427-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41564-019-0427-4</ArticleId>
+            <ArticleId IdType="pmc">PMC6588468</ArticleId>
+            <ArticleId IdType="pubmed">31011165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ghosal D, Chang YW, Jeong KC, Vogel JP, Jensen GJ. 2017. In situ structure of the Legionella Dot/Icm type IV secretion system by electron cryotomography. EMBO Rep
+18:726–732. doi:10.15252/embr.201643598.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.15252/embr.201643598</ArticleId>
+            <ArticleId IdType="pmc">PMC5412798</ArticleId>
+            <ArticleId IdType="pubmed">28336774</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kubori T, Koike M, Bui XT, Higaki S, Aizawa S-I, Nagai H. 2014. Native structure of a type IV secretion system core complex essential for Legionella pathogenesis. Proc Natl Acad Sci USA
+111:11804–11809. doi:10.1073/pnas.1404506111.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1404506111</ArticleId>
+            <ArticleId IdType="pmc">PMC4136560</ArticleId>
+            <ArticleId IdType="pubmed">25062693</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Durie CL, Sheedlo MJ, Chung JM, Byrne BG, Su M, Knight T, Swanson M, Lacy DB, Ohi MD. 2020. Structural analysis of the Legionella pneumophila Dot/Icm type IV secretion system core complex. Elife
+9. doi:10.7554/eLife.59530.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.59530</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sheedlo MJ, Durie CL, Chung JM, Chang L, Roberts J, Swanson M, Lacy DB, Ohi MD. 2021. Cryo-EM reveals new species-specific proteins and symmetry elements in the Legionella pneumophila Dot/Icm T4SS. Elife
+10. doi:10.7554/eLife.70427.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.70427</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vogel JP, Isberg RR. 1999. Cell biology of Legionella pneumophila. Curr Opin Microbiol
+2:30–34. doi:10.1016/S1369-5274(99)80005-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1369-5274(99)80005-8</ArticleId>
+            <ArticleId IdType="pubmed">10047559</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Horwitz MA, Silverstein SC. 1980. Legionnaires’ disease bacterium (Legionella pneumophila) multiples intracellularly in human monocytes. J Clin Invest
+66:441–450. doi:10.1172/JCI109874.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1172/JCI109874</ArticleId>
+            <ArticleId IdType="pmc">PMC371671</ArticleId>
+            <ArticleId IdType="pubmed">7190579</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Horwitz MA. 1983. The Legionnaires’ disease bacterium (Legionella pneumophila) inhibits phagosome-lysosome fusion in human monocytes. J Exp Med
+158:2108–2126. doi:10.1084/jem.158.6.2108.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1084/jem.158.6.2108</ArticleId>
+            <ArticleId IdType="pmc">PMC2187157</ArticleId>
+            <ArticleId IdType="pubmed">6644240</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Horwitz MA. 1983. Formation of a novel phagosome by the Legionnaires’ disease bacterium (Legionella pneumophila) in human monocytes. J Exp Med
+158:1319–1331. doi:10.1084/jem.158.4.1319.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1084/jem.158.4.1319</ArticleId>
+            <ArticleId IdType="pmc">PMC2187375</ArticleId>
+            <ArticleId IdType="pubmed">6619736</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vogel JP, Andrews HL, Wong SK, Isberg RR. 1998. Conjugative transfer by the virulence system of Legionella pneumophila. Science
+279:873–876. doi:10.1126/science.279.5352.873.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.279.5352.873</ArticleId>
+            <ArticleId IdType="pubmed">9452389</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sadosky AB, Wiater LA, Shuman HA. 1993. Identification of Legionella pneumophila genes required for growth within and killing of human macrophages. Infect Immun
+61:5361–5373. doi:10.1128/iai.61.12.5361-5373.1993.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/iai.61.12.5361-5373.1993</ArticleId>
+            <ArticleId IdType="pmc">PMC281323</ArticleId>
+            <ArticleId IdType="pubmed">8225610</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brand BC, Sadosky AB, Shuman HA. 1994. The Legionella pneumophila icm locus: a set of genes required for intracellular multiplication in human macrophages. Mol Microbiol
+14:797–808. doi:10.1111/j.1365-2958.1994.tb01316.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1365-2958.1994.tb01316.x</ArticleId>
+            <ArticleId IdType="pubmed">7891565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Duncan MC, Linington RG, Auerbuch V. 2012. Chemical inhibitors of the type three secretion system: disarming bacterial pathogens. Antimicrob Agents Chemother
+56:5433–5441. doi:10.1128/AAC.00975-12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AAC.00975-12</ArticleId>
+            <ArticleId IdType="pmc">PMC3486574</ArticleId>
+            <ArticleId IdType="pubmed">22850518</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Christie PJ. 2016. The mosaic type IV secretion systems. EcoSal Plus
+7. doi:10.1128/ecosalplus.ESP-0020-2015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/ecosalplus.ESP-0020-2015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Paschos A, den Hartigh A, Smith MA, Atluri VL, Sivanesan D, Tsolis RM, Baron C. 2011. An in vivo high-throughput screening approach targeting the type IV secretion system component VirB8 identified inhibitors of Brucella abortus 2308 proliferation. Infect Immun
+79:1033–1043. doi:10.1128/IAI.00993-10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/IAI.00993-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3067494</ArticleId>
+            <ArticleId IdType="pubmed">21173315</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith MA, Coinçon M, Paschos A, Jolicoeur B, Lavallée P, Sygusch J, Baron C. 2012. Identification of the binding site of Brucella VirB8 interaction inhibitors. Chem Biol
+19:1041–1048. doi:10.1016/j.chembiol.2012.07.007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.chembiol.2012.07.007</ArticleId>
+            <ArticleId IdType="pubmed">22921071</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ripoll-Rozada J, García-Cazorla Y, Getino M, Machón C, Sanabria-Ríos D, de la Cruz F, Cabezón E, Arechaga I. 2016. Type IV traffic ATPase TrwD as molecular target to inhibit bacterial conjugation. Mol Microbiol
+100:912–921. doi:10.1111/mmi.13359.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/mmi.13359</ArticleId>
+            <ArticleId IdType="pmc">PMC4908816</ArticleId>
+            <ArticleId IdType="pubmed">26915347</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Charpentier X, Gabay JE, Reyes M, Zhu JW, Weiss A, Shuman HA. 2009. Chemical genetics reveals bacterial and host cell functions critical for type IV effector translocation by Legionella pneumophila. PLoS Pathog
+5:e1000501. doi:10.1371/journal.ppat.1000501.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1000501</ArticleId>
+            <ArticleId IdType="pmc">PMC2698123</ArticleId>
+            <ArticleId IdType="pubmed">19578436</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luo ZQ, Isberg RR. 2004. Multiple substrates of the Legionella pneumophila Dot/Icm system identified by interbacterial protein transfer. Proc Natl Acad Sci USA
+101:841–846. doi:10.1073/pnas.0304916101.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0304916101</ArticleId>
+            <ArticleId IdType="pmc">PMC321768</ArticleId>
+            <ArticleId IdType="pubmed">14715899</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nagai H, Cambronne ED, Kagan JC, Amor JC, Kahn RA, Roy CR. 2005. A C-terminal translocation signal required for Dot/Icm-dependent delivery of the Legionella RalF protein to host cells. Proc Natl Acad Sci USA
+102:826–831. doi:10.1073/pnas.0406239101.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0406239101</ArticleId>
+            <ArticleId IdType="pmc">PMC545534</ArticleId>
+            <ArticleId IdType="pubmed">15613486</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen J, de Felipe KS, Clarke M, Lu H, Anderson OR, Segal G, Shuman HA. 2004. Legionella effectors that promote nonlytic release from protozoa. Science
+303:1358–1361. doi:10.1126/science.1094226.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1094226</ArticleId>
+            <ArticleId IdType="pubmed">14988561</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>de Felipe KS, Glover RT, Charpentier X, Anderson OR, Reyes M, Pericone CD, Shuman HA. 2008. Legionella eukaryotic-like type IV substrates interfere with organelle trafficking. PLoS Pathog
+4:e1000117. doi:10.1371/journal.ppat.1000117.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1000117</ArticleId>
+            <ArticleId IdType="pmc">PMC2475511</ArticleId>
+            <ArticleId IdType="pubmed">18670632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhu W, Luo ZQ. 2013. Methods for determining protein translocation by the Legionella pneumophila Dot/Icm type IV secretion system. Methods Mol Biol
+954:323–332. doi:10.1007/978-1-62703-161-5_19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-1-62703-161-5_19</ArticleId>
+            <ArticleId IdType="pubmed">23150405</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schroeder GN. 2017. The toolbox for uncovering the functions of Legionella Dot/Icm type IVb secretion system effectors: current state and future directions. Front Cell Infect Microbiol
+7:528.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5760550</ArticleId>
+            <ArticleId IdType="pubmed">29354599</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Derre I, Isberg RR. 2005. LidA, a translocated substrate of the Legionella pneumophila type IV secretion system, interferes with the early secretory pathway. Infect Immun
+73:4370–4380. doi:10.1128/IAI.73.7.4370-4380.2005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/IAI.73.7.4370-4380.2005</ArticleId>
+            <ArticleId IdType="pmc">PMC1168608</ArticleId>
+            <ArticleId IdType="pubmed">15972532</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berger KH, Merriam JJ, Isberg RR. 1994. Altered intracellular targeting properties associated with mutations in the Legionella pneumophila dotA gene. Mol Microbiol
+14:809–822. doi:10.1111/j.1365-2958.1994.tb01317.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1365-2958.1994.tb01317.x</ArticleId>
+            <ArticleId IdType="pubmed">7891566</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roy CR, Berger KH, Isberg RR. 1998. Legionella pneumophila DotA protein is required for early phagosome trafficking decisions that occur within minutes of bacterial uptake. Mol Microbiol
+28:663–674. doi:10.1046/j.1365-2958.1998.00841.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1046/j.1365-2958.1998.00841.x</ArticleId>
+            <ArticleId IdType="pubmed">9632267</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mayr LM, Fuerst P. 2008. The future of high-throughput screening. J Biomol Screen
+13:443–448. doi:10.1177/1087057108319644.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1087057108319644</ArticleId>
+            <ArticleId IdType="pubmed">18660458</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang JH, Chung TD, Oldenburg KR. 1999. A simple statistical parameter for use in evaluation and validation of high throughput screening assays. J Biomol Screen
+4:67–73. doi:10.1177/108705719900400206.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/108705719900400206</ArticleId>
+            <ArticleId IdType="pubmed">10838414</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Michael S, Auld D, Klumpp C, Jadhav A, Zheng W, Thorne N, Austin CP, Inglese J, Simeonov A. 2008. A robotic platform for quantitative high-throughput screening. Assay Drug Dev Technol
+6:637–657. doi:10.1089/adt.2008.150.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/adt.2008.150</ArticleId>
+            <ArticleId IdType="pmc">PMC2651822</ArticleId>
+            <ArticleId IdType="pubmed">19035846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yasgar A, Shinn P, Jadhav A, Auld D, Michael S, Zheng W, Austin CP, Inglese J, Simeonov A. 2008. Compound management for quantitative high-throughput screening. JALA Charlottesv Va
+13:79–89. doi:10.1016/j.jala.2007.12.004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jala.2007.12.004</ArticleId>
+            <ArticleId IdType="pmc">PMC2390859</ArticleId>
+            <ArticleId IdType="pubmed">18496600</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Inglese J, Auld DS, Jadhav A, Johnson RL, Simeonov A, Yasgar A, Zheng W, Austin CP. 2006. Quantitative high-throughput screening: a titration-based approach that efficiently identifies biological activities in large chemical libraries. Proc Natl Acad Sci USA
+103:11473–11478. doi:10.1073/pnas.0604348103.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0604348103</ArticleId>
+            <ArticleId IdType="pmc">PMC1518803</ArticleId>
+            <ArticleId IdType="pubmed">16864780</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iversen PW, et al. . 2004. HTS assay validation. In
+Sittampalam G.S., et al.. (ed), Assay guidance manual, Bethesda, MD.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>McGovern SL, Caselli E, Grigorieff N, Shoichet BK. 2002. A common mechanism underlying promiscuous inhibitors from virtual and high-throughput screening. J Med Chem
+45:1712–1722. doi:10.1021/jm010533y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/jm010533y</ArticleId>
+            <ArticleId IdType="pubmed">11931626</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vogel JP, Roy C, Isberg RR. 1996. Use of salt to isolate Legionella pneumophila mutants unable to replicate in macrophages. Ann N Y Acad Sci
+797:271–272. doi:10.1111/j.1749-6632.1996.tb52975.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1749-6632.1996.tb52975.x</ArticleId>
+            <ArticleId IdType="pubmed">8993377</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carey KL, Newton HJ, Luhrmann A, Roy CR. 2011. The Coxiella burnetii Dot/Icm system delivers a unique repertoire of type IV effectors into host cells and is required for intracellular replication. PLoS Pathog
+7:e1002056. doi:10.1371/journal.ppat.1002056.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1002056</ArticleId>
+            <ArticleId IdType="pmc">PMC3102713</ArticleId>
+            <ArticleId IdType="pubmed">21637816</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beare PA, Gilk SD, Larson CL, Hill J, Stead CM, Omsland A, Cockrell DC, Howe D, Voth DE, Heinzen RA. 2011. Dot/Icm type IVB secretion system requirements for Coxiella burnetii growth in human macrophages. mBio
+2:e00175-11–e00111. doi:10.1128/mBio.00175-11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/mBio.00175-11</ArticleId>
+            <ArticleId IdType="pmc">PMC3163939</ArticleId>
+            <ArticleId IdType="pubmed">21862628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sexton JA, Miller JL, Yoneda A, Kehl-Fie TE, Vogel JP. 2004. Legionella pneumophila DotU and IcmF are required for stability of the Dot/Icm complex. Infect Immun
+72:5983–5992. doi:10.1128/IAI.72.10.5983-5992.2004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/IAI.72.10.5983-5992.2004</ArticleId>
+            <ArticleId IdType="pmc">PMC517559</ArticleId>
+            <ArticleId IdType="pubmed">15385502</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kwak M-J, Kim JD, Kim H, Kim C, Bowman JW, Kim S, Joo K, Lee J, Jin KS, Kim Y-G, Lee NK, Jung JU, Oh B-H. 2017. Architecture of the type IV coupling protein complex of Legionella pneumophila. Nat Microbiol
+2:17114. doi:10.1038/nmicrobiol.2017.114.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmicrobiol.2017.114</ArticleId>
+            <ArticleId IdType="pmc">PMC6497169</ArticleId>
+            <ArticleId IdType="pubmed">28714967</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vincent CD, Friedman JR, Jeong KC, Buford EC, Miller JL, Vogel JP. 2006. Identification of the core transmembrane complex of the Legionella Dot/Icm type IV secretion system. Mol Microbiol
+62:1278–1291. doi:10.1111/j.1365-2958.2006.05446.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1365-2958.2006.05446.x</ArticleId>
+            <ArticleId IdType="pubmed">17040490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feeley JC, Gibson RJ, Gorman GW, Langford NC, Rasheed JK, Mackel DC, Baine WB. 1979. Charcoal-yeast extract agar: primary isolation medium for Legionella pneumophila. J Clin Microbiol
+10:437–441. doi:10.1128/jcm.10.4.437-441.1979.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/jcm.10.4.437-441.1979</ArticleId>
+            <ArticleId IdType="pmc">PMC273193</ArticleId>
+            <ArticleId IdType="pubmed">393713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berger KH, Isberg RR. 1993. Two distinct defects in intracellular growth complemented by a single genetic locus in Legionella pneumophila. Mol Microbiol
+7:7–19. doi:10.1111/j.1365-2958.1993.tb01092.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1365-2958.1993.tb01092.x</ArticleId>
+            <ArticleId IdType="pubmed">8382332</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen DQ, Huang SS, Lu YJ. 2006. Efficient transformation of Legionella pneumophila by high-voltage electroporation. Microbiol Res
+161:246–251. doi:10.1016/j.micres.2005.09.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.micres.2005.09.001</ArticleId>
+            <ArticleId IdType="pubmed">16765841</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Larson CL, Beare PA, Voth DE, Howe D, Cockrell DC, Bastidas RJ, Valdivia RH, Heinzen RA. 2015. Coxiella burnetii effector proteins that localize to the parasitophorous vacuole membrane promote intracellular replication. Infect Immun
+83:661–670. doi:10.1128/IAI.02763-14.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/IAI.02763-14</ArticleId>
+            <ArticleId IdType="pmc">PMC4294226</ArticleId>
+            <ArticleId IdType="pubmed">25422265</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beare PA, Sandoz KM, Larson CL, Howe D, Kronmiller B, Heinzen RA. 2014. Essential role for the response regulator PmrA in Coxiella burnetii type 4B secretion and colonization of mammalian host cells. J Bacteriol
+196:1925–1940. doi:10.1128/JB.01532-14.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JB.01532-14</ArticleId>
+            <ArticleId IdType="pmc">PMC4010987</ArticleId>
+            <ArticleId IdType="pubmed">24610709</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sandoz KM, Sturdevant DE, Hansen B, Heinzen RA. 2014. Developmental transitions of Coxiella burnetii grown in axenic media. J Microbiol Methods
+96:104–110. doi:10.1016/j.mimet.2013.11.010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.mimet.2013.11.010</ArticleId>
+            <ArticleId IdType="pmc">PMC3896121</ArticleId>
+            <ArticleId IdType="pubmed">24286928</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

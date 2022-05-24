@@ -1,0 +1,957 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">28622524</PMID>
+      <DateCompleted>
+        <Year>2017</Year>
+        <Month>09</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>12</Month>
+        <Day>04</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1097-4164</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>66</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2017</Year>
+              <Month>Jun</Month>
+              <Day>15</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Molecular cell</Title>
+          <ISOAbbreviation>Mol Cell</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>AMPK: Mechanisms of Cellular Energy Sensing and Restoration of Metabolic Balance.</ArticleTitle>
+        <Pagination>
+          <StartPage>789</StartPage>
+          <EndPage>800</EndPage>
+          <MedlinePgn>789-800</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.molcel.2017.05.032</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S1097-2765(17)30396-9</ELocationID>
+        <Abstract>
+          <AbstractText>AMPK is a highly conserved master regulator of metabolism, which restores energy balance during metabolic stress both at the cellular and physiological levels. The identification of numerous AMPK targets has helped explain how AMPK restores energy homeostasis. Recent advancements illustrate novel mechanisms of AMPK regulation, including changes in subcellular localization and phosphorylation by non-canonical upstream kinases. Notably, the therapeutic potential of AMPK is widely recognized and heavily pursued for treatment of metabolic diseases such as diabetes, but also obesity, inflammation, and cancer. Moreover, the recently solved crystal structure of AMPK has shed light both into how nucleotides activate AMPK and, importantly, also into the sites bound by small molecule activators, thus providing a path for improved drugs.</AbstractText>
+          <CopyrightInformation>Copyright © 2017 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Garcia</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>The Salk Institute for Biological Studies, 10010 North Torrey Pines Road, La Jolla, CA 92037, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shaw</LastName>
+            <ForeName>Reuben J</ForeName>
+            <Initials>RJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>The Salk Institute for Biological Studies, 10010 North Torrey Pines Road, La Jolla, CA 92037, USA. Electronic address: shaw@salk.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>P01 CA120964</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>P30 CA014195</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 CA172229</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 DK080425</GrantID>
+            <Acronym>DK</Acronym>
+            <Agency>NIDDK NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Mol Cell</MedlineTA>
+        <NlmUniqueID>9802571</NlmUniqueID>
+        <ISSNLinking>1097-2765</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D020536">Enzyme Activators</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="D058570">TOR Serine-Threonine Kinases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.31</RegistryNumber>
+          <NameOfSubstance UI="D055372">AMP-Activated Protein Kinases</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D055372" MajorTopicYN="N">AMP-Activated Protein Kinases</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001343" MajorTopicYN="N">Autophagy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004734" MajorTopicYN="Y">Energy Metabolism</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004789" MajorTopicYN="N">Enzyme Activation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020536" MajorTopicYN="N">Enzyme Activators</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008659" MajorTopicYN="N">Metabolic Diseases</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+          <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008928" MajorTopicYN="N">Mitochondria</DescriptorName>
+          <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D063306" MajorTopicYN="N">Mitophagy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010766" MajorTopicYN="N">Phosphorylation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059748" MajorTopicYN="N">Proteolysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="Y">Signal Transduction</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013329" MajorTopicYN="N">Structure-Activity Relationship</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D058570" MajorTopicYN="N">TOR Serine-Threonine Kinases</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">AMPK</Keyword>
+        <Keyword MajorTopicYN="N">energy restoration</Keyword>
+        <Keyword MajorTopicYN="N">metabolic adaptation</Keyword>
+        <Keyword MajorTopicYN="N">therapeutic activation</Keyword>
+        <Keyword MajorTopicYN="N">trimeric complex</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2016</Year>
+          <Month>2</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2016</Year>
+          <Month>4</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2017</Year>
+          <Month>5</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2017</Year>
+          <Month>6</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2017</Year>
+          <Month>6</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2017</Year>
+          <Month>9</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">28622524</ArticleId>
+        <ArticleId IdType="mid">NIHMS883242</ArticleId>
+        <ArticleId IdType="pmc">PMC5553560</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.molcel.2017.05.032</ArticleId>
+        <ArticleId IdType="pii">S1097-2765(17)30396-9</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Ahmadian M, Abbott MJ, Tang T, Hudak CSS, Kim Y, Bruss M, Hellerstein MK, Lee HY, Samuel VT, Shulman GI, et al.  Desnutrin/ATGL Is Regulated by AMPK and Is Required for a Brown Adipose Phenotype. Cell Metabolism. 2011;13:739–748.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3148136</ArticleId>
+            <ArticleId IdType="pubmed">21641555</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Asby DJ, Cuda F, Beyaert M, Houghton FD, Cagampang FR, Tavassoli A. AMPK Activation via Modulation of De Novo Purine Biosynthesis with an Inhibitor of ATIC Homodimerization. Chem Biol. 2015;22:838–848.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26144885</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Banko MR, Allen JJ, Schaffer BE, Wilker EW, Tsou P, White JL, Villén J, Wang B, Kim SR, Sakamoto K, et al.  Chemical Genetic Screen for AMPKα2 Substrates Uncovers a Network of Proteins Involved in Mitosis. Molecular Cell. 2011;44:878–892.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3246132</ArticleId>
+            <ArticleId IdType="pubmed">22137581</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Calabrese MF, Rajamohan F, Harris MS, Caspers NL, Magyar R, Withka JM, Wang H, Borzilleri KA, Sahasrabudhe PV, Hoth LR, et al.  Structural Basis for AMPK Activation: Natural and Synthetic Ligands Regulate Kinase Activity from Opposite Poles by Different Molecular Mechanisms. Structure/Folding and Design. 2014;22:1161–1172.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25066137</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cantó C, Gerhart-Hines Z, Feige JN, Lagouge M, Noriega L, Milne JC, Elliott PJ, Puigserver P, Auwerx J. AMPK regulates energy expenditure by modulating NAD+ metabolism and SIRT1 activity. Nature. 2009;458:1056–1060.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3616311</ArticleId>
+            <ArticleId IdType="pubmed">19262508</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cao J, Meng S, Chang E, Beckwith-Fickas K, Xiong L, Cole RN, Radovick S, Wondisford FE, He L. Low Concentrations of Metformin Suppress Glucose Production in Hepatocytes through AMP-activated Protein Kinase (AMPK) J Biol Chem. 2014;289:20435–20446.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4110255</ArticleId>
+            <ArticleId IdType="pubmed">24928508</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen L, Wang J, Zhang YY, Yan SF, Neumann D, Schlattner U, Wang ZX, Wu JW. AMP-activated protein kinase undergoes nucleotide-dependent conformational changes. Nature Structural &amp; Molecular Biology. 2012;19:716–718.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22659875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen L, Xin FJ, Wang J, Hu J, Zhang YY, Wan S, Cao LS, Lu C, Li P, Yan SF, et al.  Conserved regulatory elements in AMPK. Nature. 2013;498:E8–E10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23765502</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cool B, Zinker B, Chiou W, Kifle L, Cao N, Perham M, Dickinson R, Adler A, Gagne G, Iyengar R, et al.  Identification and characterization of a small molecule AMPK activator that treats key components of type 2 diabetes and the metabolic syndrome. Cell Metabolism. 2006;3:403–416.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16753576</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Coughlan KA, Valentine RJ, Sudit BS, Allen K, Dagon Y, Kahn BB, Ruderman NB, Saha AK. PKD1 Inhibits AMPKα2 through Phosphorylation of Serine 491 and Impairs Insulin Signaling in Skeletal Muscle Cells. J Biol Chem. 2016;291:5664–5675.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4786706</ArticleId>
+            <ArticleId IdType="pubmed">26797128</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dagon Y, Hur E, Zheng Bin, Wellenstein K, Cantley LC, Kahn BB. p70S6 Kinase Phosphorylates AMPK on Serine 491 to Mediate Leptin’s Effect on Food Intake. Cell Metabolism. 2012;16:104–112.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3407689</ArticleId>
+            <ArticleId IdType="pubmed">22727014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>DeRan M, Yang J, Shen CH, Peters EC, Fitamant J, Chan P, Hsieh M, Zhu S, Asara JM, Zheng Bin, et al.  Energy Stress Regulates Hippo-YAP Signaling Involving AMPK-Mediated Regulation of Angiomotin-like 1 Protein. CellReports. 2014;9:495–503.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4223634</ArticleId>
+            <ArticleId IdType="pubmed">25373897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Duca FA, Côté CD, Rasmussen BA, Zadeh-Tahmasebi M, Rutter GA, Filippi BM, Lam TKT. Metformin activates a duodenal Ampk-dependent pathway to lower hepatic glucose production in rats. Nature Medicine. 2015;21:506–511.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6104807</ArticleId>
+            <ArticleId IdType="pubmed">25849133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Egan DF, Shackelford DB, Mihaylova MM, Gelino S, Kohnz RA, Mair W, Vasquez DS, Joshi A, Gwinn DM, Taylor R, et al.  Phosphorylation of ULK1 (hATG1) by AMP-Activated Protein Kinase Connects Energy Sensing to Mitophagy. Science. 2011;331:456–461.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3030664</ArticleId>
+            <ArticleId IdType="pubmed">21205641</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Faller WJ, Jackson TJ, Knight JRP, Ridgway RA, Jamieson T, Karim SA, Jones C, Radulescu S, Huels DJ, Myant KB, et al.  mTORC1-mediated translational elongation limits intestinal tumour initiation and growth. Nature. 2015;517:497–500.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4304784</ArticleId>
+            <ArticleId IdType="pubmed">25383520</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ford RJ, Fullerton MD, Pinkosky SL, Day EA, Scott JW, Oakhill JS, Bujak AL, Smith BK, Crane JD, Blümer RM, et al.  Metformin and salicylate synergistically activate liver AMPK, inhibit lipogenesis and improve insulin sensitivity. Biochem J. 2015;468:125–132.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5233440</ArticleId>
+            <ArticleId IdType="pubmed">25742316</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fullerton MD, Ford RJ, McGregor CP, LeBlond ND, Snider SA, Stypa SA, Day EA, Lhoták Š, Schertzer JD, Austin RC, et al.  Salicylate improves macrophage cholesterol homeostasis via activation of Ampk. J Lipid Res. 2015;56:1025–1033.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4409279</ArticleId>
+            <ArticleId IdType="pubmed">25773887</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fullerton MD, Galic S, Marcinko K, Sikkema S, Pulinilkunnil T, Chen ZP, O’;Neill HM, Ford RJ, Palanivel R, O’Brien M, et al.  Single phosphorylation sites in Acc1 and Acc2 regulate lipid homeostasis and the insulin-sensitizing effects of metformin. Nature Medicine. 2013;19:1649–1654.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4965268</ArticleId>
+            <ArticleId IdType="pubmed">24185692</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garcia-Haro L, Garcia-Gimeno MA, Neumann D, Beullens M, Bollen M, Sanz P. The PP1-R6 protein phosphatase holoenzyme is involved in the glucose-induced dephosphorylation and inactivation of AMP-activated protein kinase, a key regulator of insulin secretion, in MIN6 beta cells. Faseb J. 2010;24:5080–5091.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20724523</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gowans GJ, Hawley SA, Ross FA, Hardie DG. AMP Is a True Physiological Regulator of AMP-Activated Protein Kinase by Both Allosteric Activation and Enhancing Net Phosphorylation. Cell Metabolism. 2013;18:556–566.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3791399</ArticleId>
+            <ArticleId IdType="pubmed">24093679</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gómez-Galeno JE, Dang Q, Nguyen TH, Boyer SH, Grote MP, Sun Z, Chen M, Craigo WA, van Poelje PD, MacKenna DA, et al.  A Potent and Selective AMPK Activator That Inhibits de Novo Lipogenesis. ACS Med Chem Lett. 2010;1:478–482.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4007905</ArticleId>
+            <ArticleId IdType="pubmed">24900234</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Göransson O, McBride A, Hawley SA, Ross FA, Shpiro N, Foretz M, Viollet B, Hardie DG, Sakamoto K. Mechanism of Action of A-769662, a Valuable Tool for Activation of AMP-activated Protein Kinase. J Biol Chem. 2007;282:32549–32560.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2156105</ArticleId>
+            <ArticleId IdType="pubmed">17855357</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Greer EL, Oskoui PR, Banko MR, Maniar JM, Gygi MP, Gygi SP, Brunet A. The energy sensor AMP-activated protein kinase directly regulates the mammalian FOXO3 transcription factor. J Biol Chem. 2007;282:30107–30119.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17711846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gwinn DM, Shackelford DB, Egan DF, Mihaylova MM, Mery A, Vasquez DS, Turk BE, Shaw RJ. AMPK Phosphorylation of Raptor Mediates a Metabolic Checkpoint. Molecular Cell. 2008;30:214–226.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2674027</ArticleId>
+            <ArticleId IdType="pubmed">18439900</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hardie DG. AMPK: A Target for Drugs and Natural Products With Effects on Both Diabetes and Cancer. Diabetes. 2013;62:2164–2172.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3712072</ArticleId>
+            <ArticleId IdType="pubmed">23801715</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hardie DG. AMPK-Sensing Energy while Talking to Other Signaling Pathways. Cell Metabolism. 2014;20:939–952.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5693325</ArticleId>
+            <ArticleId IdType="pubmed">25448702</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hardie DG, Schaffer BE, Brunet A. AMPK: An Energy-Sensing Pathway with Multiple Inputs and Outputs. Trends in Cell Biology. 2016;26:190–201.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5881568</ArticleId>
+            <ArticleId IdType="pubmed">26616193</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hawley SA, Boudeau J, Reid JL, Mustard KJ, Udd L, Mäkelä TP, Alessi DR, Hardie DG. Complexes between the LKB1 tumor suppressor, STRADα/β and MO25α/β are upstream kinases in the AMP-activated protein kinase cascade. Journal of Biology. 2003;2:28.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC333410</ArticleId>
+            <ArticleId IdType="pubmed">14511394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hawley SA, Fullerton MD, Ross FA, Schertzer JD, Chevtzoff C, Walker KJ, Peggie MW, Zibrova D, Green KA, Mustard KJ, et al.  The ancient drug salicylate directly activates AMP-activated protein kinase. Science. 2012;336:918–922.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3399766</ArticleId>
+            <ArticleId IdType="pubmed">22517326</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hawley SA, Pan DA, Mustard KJ, Ross L, Bain J, Edelman AM, Frenguelli BG, Hardie DG. Calmodulin-dependent protein kinase kinase-β is an alternative upstream kinase for AMP-activated protein kinase. Cell Metabolism. 2005;2:9–19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16054095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hawley SA, Ross FA, Chevtzoff C, Green KA, Evans A, Fogarty S, Towler MC, Brown LJ, Ogunbayo OA, Evans AM, et al.  Use of Cells Expressing γ Subunit Variants to Identify Diverse Mechanisms of AMPK Activation. Cell Metabolism. 2010;11:554–565.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2935965</ArticleId>
+            <ArticleId IdType="pubmed">20519126</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hawley SA, Ross FA, Gowans GJ, Tibarewal P, Leslie NR, Hardie DG. Phosphorylation by Akt within the ST loop of AMPK-α1 down-regulates its activation in tumour cells. Biochem J. 2014;459:275–287.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4052680</ArticleId>
+            <ArticleId IdType="pubmed">24467442</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>He G, Zhang YW, Lee JH, Zeng SX, Wang YV, Luo Z, Dong XC, Viollet B, Wahl GM, Lu H. AMP-activated protein kinase induces p53 by phosphorylating MDMX and inhibiting its activity. Molecular and Cellular Biology. 2014;34:148–157.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3911293</ArticleId>
+            <ArticleId IdType="pubmed">24190973</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>He L, Wondisford FE. Metformin action: concentrations matter. Cell Metabolism. 2015;21:159–162.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25651170</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heathcote HR, Mancini SJ, Strembitska A, Jamal K, Reihill JA, Palmer TM, Gould GW, Salt IP. Protein kinase C phosphorylates AMP-activated protein kinase α1 Ser487. Biochem J. 2016;473:4681–4697.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5147050</ArticleId>
+            <ArticleId IdType="pubmed">27784766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoffman NJ, Parker BL, Chaudhuri R, Fisher-Wellman KH, Kleinert M, Humphrey SJ, Yang P, Holliday M, Trefely S, Fazakerley DJ, et al.  Global Phosphoproteomic Analysis of Human Skeletal Muscle Reveals a Network of Exercise- Regulated Kinases and AMPK Substrates. Cell Metabolism. 2015;22:922–935.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4635038</ArticleId>
+            <ArticleId IdType="pubmed">26437602</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hong YH, Varanasi US, Yang W, Leff T. AMP-activated protein kinase regulates HNF4alpha transcriptional activity by inhibiting dimer formation and decreasing protein stability. J Biol Chem. 2003;278:27495–27501.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12740371</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoppe S, Bierhoff H, Cado I, Weber A, Tiebe M, Grummt I, Voit R. AMP-activated protein kinase adapts rRNA synthesis to cellular energy supply. Proceedings of the National Academy of Sciences. 2009;106:17781–17786.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2764937</ArticleId>
+            <ArticleId IdType="pubmed">19815529</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Horman S, Morel N, Vertommen D, Hussain N, Neumann D, Beauloye C, Najjar El N, Forcet C, Viollet B, Walsh MP, et al.  AMP-activated protein kinase phosphorylates and desensitizes smooth muscle myosin light chain kinase. J Biol Chem. 2008;283:18505–18512.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18426792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Houde VP, Ritorto MS, Gourlay R, Varghese J, Davies P, Shpiro N, Sakamoto K, Alessi DR. Investigation of LKB1 Ser 431phosphorylation and Cys 433farnesylation using mouse knockin analysis reveals an unexpected role of prenylation in regulating AMPK activity. Biochem J. 2014;458:41–56.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3898322</ArticleId>
+            <ArticleId IdType="pubmed">24295069</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hunter RW, Foretz M, Bultot L, Fullerton MD, Deak M, Ross FA, Hawley SA, Shpiro N, Viollet B, Barron D, et al.  Mechanism of Action of Compound-13: An α1-Selective Small Molecule Activator of AMPK. Chbiol. 2014;21:866–879.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4104029</ArticleId>
+            <ArticleId IdType="pubmed">25036776</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hurley RL, Anderson KA, Franzone JM, Kemp BE, Means AR, Witters LA. The Ca2+/calmodulin-dependent protein kinase kinases are AMP-activated protein kinase kinases. J Biol Chem. 2005;280:29060–29066.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15980064</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hurley RL, Barré LK, Wood SD, Anderson KA, Kemp BE, Means AR, Witters LA. Regulation of AMP-activated Protein Kinase by Multisite Phosphorylation in Response to Agents That Elevate Cellular cAMP. J Biol Chem. 2006;281:36662–36672.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17023420</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Inoki K, Zhu T, Guan KL. TSC2 mediates cellular energy response to control cell growth and survival. Cell. 2003;115:577–590.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14651849</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jäger S, Handschin C, St-Pierre J, Spiegelman BM. AMP-activated protein kinase (AMPK) action in skeletal muscle via direct phosphorylation of PGC-1alpha. Pnas. 2007;104:12017–12022.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1924552</ArticleId>
+            <ArticleId IdType="pubmed">17609368</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jeon SM, Chandel NS, Hay N. AMPK regulates NADPH homeostasis to promote tumour cell survival during energy stress. Nature. 2012;485:661–665.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3607316</ArticleId>
+            <ArticleId IdType="pubmed">22660331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Joo MS, Kim WD, Lee KY, Kim JH, Koo JH, Kim SG. AMPK Facilitates Nuclear Accumulation of Nrf2 by Phosphorylating at Serine 550. Molecular and Cellular Biology. 2016;36:1931–1942.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4936058</ArticleId>
+            <ArticleId IdType="pubmed">27161318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jordan SD, Lamia KA. AMPK at the crossroads of circadian clocks and metabolism. Molecular and Cellular Endocrinology. 2013;366:163–169.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3502724</ArticleId>
+            <ArticleId IdType="pubmed">22750052</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Joseph BK, Liu HY, Francisco J, Pandya D, Donigan M, Gallo-Ebert C, Giordano C, Bata A, Nickels JT. Inhibition of AMP Kinase by the Protein Phosphatase 2A Heterotrimer, PP2APpp2r2d. J Biol Chem. 2015;290:10588–10598.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4409226</ArticleId>
+            <ArticleId IdType="pubmed">25694423</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kawaguchi T, Osatomi K, Yamashita H, Kabashima T, Uyeda K. Mechanism for fatty acid “sparing” effect on glucose-induced transcription: regulation of carbohydrate-responsive element-binding protein by AMP-activated protein kinase. J Biol Chem. 2002;277:3829–3835.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11724780</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim J, Kim YC, Fang C, Russell RC, Kim JH, Fan W, Liu R, Zhong Q, Guan KL. Differential Regulation of Distinct Vps34 Complexes by AMPK in Nutrient Stress and Autophagy. Cell. 2013;152:290–303.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3587159</ArticleId>
+            <ArticleId IdType="pubmed">23332761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim J, Kundu M, Viollet B, Guan KL. AMPK and mTOR regulate autophagy through direct phosphorylation of Ulk1. Nat Cell Biol. 2011;13:132–141.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3987946</ArticleId>
+            <ArticleId IdType="pubmed">21258367</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim SJ, Tang T, Abbott M, Viscarra JA, Wang Y, Sul HS. AMPK Phosphorylates Desnutrin/ATGL and Hormone-Sensitive Lipase To Regulate Lipolysis and Fatty Acid Oxidation within Adipose Tissue. Molecular and Cellular Biology. 2016;36:1961–1976.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4936063</ArticleId>
+            <ArticleId IdType="pubmed">27185873</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koo SH, Flechner L, Qi L, Zhang X, Screaton RA, Jeffries S, Hedrick S, Xu W, Boussouar F, Brindle P, et al.  The CREB coactivator TORC2 is a key regulator of fasting glucose metabolism. Nature. 2005;437:1109–1111.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16148943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lamia KA, Papp SJ, Yu RT, Barish GD, Uhlenhaut NH, Jonker JW, Downes M, Evans RM. Cryptochromes mediate rhythmic repression of the glucocorticoid receptor. Nature. 2011;480:552–556.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3245818</ArticleId>
+            <ArticleId IdType="pubmed">22170608</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lamia KA, Sachdeva UM, DiTacchio L, Williams EC, Alvarez JG, Egan DF, Vasquez DS, Juguilon H, Panda S, Shaw RJ, et al.  AMPK regulates the circadian clock by cryptochrome phosphorylation and degradation. Science. 2009;326:437–440.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2819106</ArticleId>
+            <ArticleId IdType="pubmed">19833968</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee JO, Lee SK, Kim N, Kim JH, You GY, Moon JW, Jie S, Kim SJ, Lee YW, Kang HJ, et al.  E3 ubiquitin ligase, WWP1, interacts with AMPKα2 and down-regulates its expression in skeletal muscle C2C12 cells. J Biol Chem. 2013;288:4673–4680.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3576072</ArticleId>
+            <ArticleId IdType="pubmed">23293026</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Leprivier G, Remke M, Rotblat B, Dubuc A, Mateo ARF, Kool M, Agnihotri S, El-Naggar A, Yu Bin, Somasekharan SP, et al.  The eEF2 Kinase Confers Resistance to Nutrient Deprivation by Blocking Translation Elongation. Cell. 2013;153:1064–1079.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4395874</ArticleId>
+            <ArticleId IdType="pubmed">23706743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li X, Wang L, Zhou XE, Ke J, de Waal PW, Gu X, Tan MHE, Wang D, Wu D, Xu HE, et al.  Structural basis of AMPK regulation by adenine nucleotides and glycogen. Cell Res. 2015a;25:50–66.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4650587</ArticleId>
+            <ArticleId IdType="pubmed">25412657</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li YH, Luo J, Mosley YYC, Hedrick VE, Paul LN, Chang J, Zhang G, Wang YK, Banko MR, Brunet A, et al.  AMP-Activated Protein Kinase Directly Phosphorylates and Destabilizes Hedgehog Pathway Transcription Factor GLI1 in Medulloblastoma. CellReports. 2015b;12:599–609.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4521589</ArticleId>
+            <ArticleId IdType="pubmed">26190112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li Y, Xu S, Mihaylova MM, Zheng Bin, Hou X, Jiang B, Park O, Luo Z, Lefai E, Shyy JYJ, et al.  AMPK Phosphorylates and Inhibits SREBP Activity to Attenuate Hepatic Steatosis and Atherosclerosis in Diet-Induced Insulin-Resistant Mice. Cell Metabolism. 2011;13:376–388.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3086578</ArticleId>
+            <ArticleId IdType="pubmed">21459323</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liang J, Xu ZX, Ding Z, Lu Y, Yu Q, Werle KD, Zhou G, Park YY, Peng G, Gambello MJ, et al.  Myristoylation confers noncanonical AMPK functions in autophagy selectivity and mitochondrial surveillance. Nature Communications. 2015;6:7926.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26272043</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mack HID, Zheng B, Asara JM, Thomas SM. AMPK-dependent phosphorylation of ULK1 regulates ATG9 localization. Autophagy. 2012;8:1197–1214.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3679237</ArticleId>
+            <ArticleId IdType="pubmed">22932492</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Madiraju AK, Erion DM, Rahimi Y, Zhang XM, Braddock DT, Albright RA, Prigaro BJ, Wood JL, Bhanot S, MacDonald MJ, et al.  Metformin suppresses gluconeogenesis by inhibiting mitochondrial glycerophosphate dehydrogenase. Nature. 2015;510:542–546.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4074244</ArticleId>
+            <ArticleId IdType="pubmed">24847880</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mansueto G, Armani A, Viscomi C, D’Orsi L, De Cegli R, Polishchuk EV, Lamperti C, Di Meo I, Romanello V, Marchet S, et al.  Transcription Factor EB Controls Metabolic Flexibility during Exercise. Cell Metabolism. 2017;25:182–196.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5241227</ArticleId>
+            <ArticleId IdType="pubmed">28011087</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McBride A, Ghilagaber S, Nikolaev A, Hardie DG. The Glycogen-Binding Domain on the AMPK β Subunit Allows the Kinase to Act as a Glycogen Sensor. Cell Metabolism. 2009;9:23–34.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2642990</ArticleId>
+            <ArticleId IdType="pubmed">19117544</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mihaylova MM, Vasquez DS, Ravnskjaer K, Denechaud PD, Yu RT, Alvarez JG, Downes M, Evans RM, Montminy M, Shaw RJ. Class IIa Histone Deacetylases Are Hormone-Activated Regulators of FOXO and Mammalian Glucose Homeostasis. Cell. 2011;145:607–621.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3117637</ArticleId>
+            <ArticleId IdType="pubmed">21565617</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miller RA, Chu Q, Xie J, Foretz M, Viollet B, Birnbaum MJ. Biguanides suppress hepatic glucagon signalling by decreasing production of cyclic AMP. Nature. 2013;494:256–260.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3573218</ArticleId>
+            <ArticleId IdType="pubmed">23292513</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miyamoto T, Rho E, Sample V, Akano H, Magari M, Ueno T, Gorshkov K, Chen M, Tokumitsu H, Zhang J, et al.  Compartmentalized AMPK Signaling Illuminated by Genetically Encoded Molecular Sensors and Actuators. CellReports. 2015;11:657–670.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4417068</ArticleId>
+            <ArticleId IdType="pubmed">25892241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mo JS, Meng Z, Kim YC, Park HW, Hansen CG, Kim S, Lim DS, Guan KL. Cellular energy stress induces AMPK-mediated regulation of YAP and the Hippo pathway. Nat Cell Biol. 2015;17:500–510.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4380774</ArticleId>
+            <ArticleId IdType="pubmed">25751140</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mouchiroud L, Eichner LJ, Shaw RJ, Auwerx J. Transcriptional Coregulators: Fine-Tuning Metabolism. Cell Metabolism. 2014;20:26–40.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4079747</ArticleId>
+            <ArticleId IdType="pubmed">24794975</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oakhill JS, Steel R, Chen ZP, Scott JW, Ling N, Tam S, Kemp BE. AMPK Is a Direct Adenylate Charge-Regulated Protein Kinase. Science. 2011;332:1433–1435.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21680840</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oakhill JS, Chen ZP, Scott JW, Steel R, Castelli LA, Ling N, Macaulay SL, Kemp BE. β-Subunit myristoylation is the gatekeeper for initiating metabolic stress sensing by AMP-activated protein kinase (AMPK) Proceedings of the National Academy of Sciences. 2010;107:19237–19241.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2984171</ArticleId>
+            <ArticleId IdType="pubmed">20974912</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ouyang J, Parakhia RA, Ochs RS. Metformin activates AMP kinase through inhibition of AMP deaminase. J Biol Chem. 2011;286:1–11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3012963</ArticleId>
+            <ArticleId IdType="pubmed">21059655</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pineda CT, Ramanathan S, Tacer KF, Weon JL, Potts MB, Ou YH, White MA, Potts PR. Degradation of AMPK by a Cancer-Specific Ubiquitin Ligase. Cell. 2015;160:715–728.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5629913</ArticleId>
+            <ArticleId IdType="pubmed">25679763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pirkmajer S, Kulkarni SS, Tom RZ, Ross FA, Hawley SA, Hardie DG, Zierath JR, Chibalin AV. Methotrexate promotes glucose uptake and lipid oxidation in skeletal muscle via AMPK activation. Diabetes. 2015;64:360–369.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5703413</ArticleId>
+            <ArticleId IdType="pubmed">25338814</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Plaideau C, Lai YC, Kviklyte S, Zanou N, Löfgren L, Andersén H, Vertommen D, Gailly P, Hue L, Bohlooly-Y M, et al.  Effects of Pharmacological AMP Deaminase Inhibition and Ampd1 Deletion on Nucleotide Levels and AMPK Activation in Contracting Skeletal Muscle. Chbiol. 2014;21:1497–1510.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25459662</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Racanelli AC, Rothbart SB, Heyer CL, Moran RG. Therapeutics by cytotoxic metabolite accumulation: pemetrexed causes ZMP accumulation, AMPK activation, and mammalian target of rapamycin inhibition. Cancer Research. 2009;69:5467–5474.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2706929</ArticleId>
+            <ArticleId IdType="pubmed">19549896</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ross FA, MacKintosh C, Hardie DG. AMP-activated protein kinase: a cellular energy sensor that comes in 12 flavours. Febs J. 2016;283:2987–3001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4995730</ArticleId>
+            <ArticleId IdType="pubmed">26934201</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanders MJ, Ali ZS, Hegarty BD, Heath R, Snowden MA, Carling D. Defining the mechanism of activation of AMP-activated protein kinase by the small molecule A-769662, a member of the thienopyridone family. J Biol Chem. 2007;282:32539–32548.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17728241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schaffer BE, Levin RS, Hertz NT, Maures TJ, Schoof ML, Hollstein PE, Benayoun BA, Banko MR, Shaw RJ, Shokat KM, et al.  Identification of AMPK Phosphorylation Sites Reveals a Network of Proteins Involved in Cell Invasion and Facilitates Large-Scale Substrate Prediction. Cell Metabolism. 2015;22:907–921.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4635044</ArticleId>
+            <ArticleId IdType="pubmed">26456332</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scott JW, Ling N, Issa SMA, Dite TA, O’Brien MT, Chen Z-P, Galic S, Langendorf CG, Steinberg GR, Kemp BE, et al.  Small Molecule Drug A-769662 and AMP Synergistically Activate Naive AMPK Independent of Upstream Kinase Signaling. Chbiol. 2014;21:619–627.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24746562</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shao D, Oka SI, Liu T, Zhai P, Ago T, Sciarretta S, Li H, Sadoshima J. A Redox-Dependent Mechanism for Regulation of AMPK Activation by Thioredoxin1 during Energy Starvation. Cell Metabolism. 2014;19:232–245.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3937768</ArticleId>
+            <ArticleId IdType="pubmed">24506865</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaw RJ, Kosmatka M, Bardeesy N, Hurley RL, Witters LA, DePinho RA, Cantley LC. The tumor suppressor LKB1 kinase directly activates AMP-activated kinase and regulates apoptosis in response to energy stress. Pnas. 2004;101:3329–3335.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC373461</ArticleId>
+            <ArticleId IdType="pubmed">14985505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaw RJ, Lamia KA, Vasquez D, Koo SH, Bardeesy N, DePinho RA, Montminy M, Cantley LC. The kinase LKB1 mediates glucose homeostasis in liver and therapeutic effects of metformin. Science. 2005;310:1642–1646.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3074427</ArticleId>
+            <ArticleId IdType="pubmed">16308421</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shin HJR, Kim H, Oh S, Lee JG, Kee M, Ko HJ, Kweon MN, Won KJ, Baek SH. AMPK–SKP2–CARM1 signalling cascade in transcriptional regulation of autophagy. Nature. 2016;534:553–557.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5568428</ArticleId>
+            <ArticleId IdType="pubmed">27309807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sujobert P, Poulain L, Paubelle E, Zylbersztejn F, Grenier A, Lambert M, Townsend EC, Brusq JM, Nicodeme E, Decrooqc J, et al.  Co-activation of AMPK and mTORC1 Induces Cytotoxicity in Acute Myeloid Leukemia. CellReports. 2015;11:1446–1457.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26004183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Suter M, Riek U, Tuerk R, Schlattner U, Wallimann T, Neumann D. Dissecting the role of 5′-AMP for allosteric stimulation, activation, and deactivation of AMP-activated protein kinase. J Biol Chem. 2006;281:32207–32216.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16943194</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Suzuki T, Bridges D, Nakada D, Skiniotis G, Morrison SJ, Lin JD, Saltiel AR, Inoki K. Inhibition of AMPK Catabolic Action by GSK3. Molecular Cell. 2013;50:407–419.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3654099</ArticleId>
+            <ArticleId IdType="pubmed">23623684</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Toyama EQ, Herzig S, Courchet J, Lewis TL, Losón OC, Hellberg K, Young NP, Chen H, Polleux F, Chan DC, et al.  Metabolism. AMP-activated protein kinase mediates mitochondrial fission in response to energy stress Science. 2016;351:275–281.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4852862</ArticleId>
+            <ArticleId IdType="pubmed">26816379</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Um JH, Yang S, Yamazaki S, Kang H, Viollet B, Foretz M, Chung JH. Activation of 5′-AMP-activated kinase with diabetes drug metformin induces casein kinase Iepsilon (CKIepsilon)-dependent degradation of clock protein mPer2. J Biol Chem. 2007;282:20794–20798.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17525164</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vila IK, Yao Y, Kim G, Xia W, Kim H, Kim SJ, Park MK, Hwang JP, González-Billalabeitia E, Hung MC, et al.  A UBE2O-AMPKα2 Axis that Promotes Tumor Initiation and Progression Offers Opportunities for Therapy. Cancer Cell. 2017;31:208–224.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5463996</ArticleId>
+            <ArticleId IdType="pubmed">28162974</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wada S, Neinast M, Jang C, Ibrahim YH, Lee G, Babu A, Li J, Hoshino A, Rowe GC, Rhee J, et al.  The tumor suppressor FLCN mediates an alternate mTOR pathway to regulate browning of adipose tissue. Genes &amp; Development. 2016;30:2551–2564.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5159669</ArticleId>
+            <ArticleId IdType="pubmed">27913603</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang W, Xiao ZD, Li X, Aziz KE, Gan B, Johnson RL, Chen J. AMPK modulates Hippo pathway activity to regulate energy homeostasis. Nat Cell Biol. 2015;17:490–499.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4380807</ArticleId>
+            <ArticleId IdType="pubmed">25751139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Weerasekara VK, Panek DJ, Broadbent DG, Mortenson JB, Mathis AD, Logan GN, Prince JT, Thomson DM, Thompson JW, Andersen JL. Metabolic-stress-induced rearrangement of the 14-3-3ζ interactome promotes autophagy via a ULK1- and AMPK-regulated 14-3-3ζ interaction with phosphorylated Atg9. Molecular and Cellular Biology. 2014;34:4379–4388.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4248729</ArticleId>
+            <ArticleId IdType="pubmed">25266655</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Woods A, Dickerson K, Heath R, Hong SP, Momcilovic M, Johnstone SR, Carlson M, Carling D. Ca2+/calmodulin-dependent protein kinase kinase-beta acts upstream of AMP-activated protein kinase in mammalian cells. Cell Metabolism. 2005;2:21–33.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16054096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Woods A, Johnstone SR, Dickerson K, Leiper FC, Fryer LGD, Neumann D, Schlattner U, Wallimann T, Carlson M, Carling D. LKB1 Is the Upstream Kinase in the AMP-Activated Protein Kinase Cascade. Current Biology. 2003;13:2004–2008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14614828</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu N, Zheng Bin, Shaywitz A, Dagon Y, Tower C, Bellinger G, Shen C-H, Wen J, Asara J, McGraw TE, et al.  AMPK-Dependent Degradation of TXNIP upon Energy Stress Leads to Enhanced Glucose Uptake via GLUT1. Molecular Cell. 2013;49:1167–1175.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3615143</ArticleId>
+            <ArticleId IdType="pubmed">23453806</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiao B, Sanders MJ, Carmena D, Bright NJ, Haire LF, Underwood E, Patel BR, Heath RB, Walker PA, Hallen S, et al.  Structural basis of AMPK regulation by small molecule activators. Nature Communications. 2013;4:3017.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3905731</ArticleId>
+            <ArticleId IdType="pubmed">24352254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiao B, Sanders MJ, Underwood E, Heath R, Mayer FV, Carmena D, Jing C, Walker PA, Eccleston JF, Haire LF, et al.  Structure of mammalian AMPK and its regulation by ADP. Nature. 2011;472:230–233.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3078618</ArticleId>
+            <ArticleId IdType="pubmed">21399626</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xin FJ, Wang J, Zhao RQ, Wang ZX, Wu JW. Coordinated regulation of AMPK activity by multiple elements in the α-subunit. Cell Res. 2013;23:1237–1240.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3790237</ArticleId>
+            <ArticleId IdType="pubmed">23999859</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Q, Liang X, Sun X, Zhang L, Fu X, Rogers CJ, Berim A, Zhang S, Wang S, Wang B, et al.  AMPK/α-Ketoglutarate Axis Dynamically Mediates DNA Demethylation in the Prdm16 Promoter and Brown Adipogenesis. Cell Metabolism. 2016;24:542–554.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5061633</ArticleId>
+            <ArticleId IdType="pubmed">27641099</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Young NP, Kamireddy A, Van Nostrand JL, Eichner LJ, Shokhirev MN, Dayn Y, Shaw RJ. AMPK governs lineage specification through Tfeb-dependent regulation of lysosomes. Genes &amp; Development. 2016;30:535–552.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4782048</ArticleId>
+            <ArticleId IdType="pubmed">26944679</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang CS, Jiang B, Li M, Zhu M, Peng Y, Zhang YL, Wu YQ, Li TY, Liang Y, Lu Z, et al.  The lysosomal v-ATPase-Ragulator complex is a common activator for AMPK and mTORC1, acting as a switch between catabolism and anabolism. Cell Metabolism. 2014;20:526–540.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25002183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang YL, Guo H, Zhang CS, Lin SY, Yin Z, Peng Y, Luo H, Shi Y, Lian G, Zhang C, et al.  AMP as a Low-Energy Charge Signal Autonomously Initiates Assembly of AXIN-AMPK-LKB1 Complex for AMPK Activation. Cell Metabolism. 2013;18:546–555.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24093678</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou C, Ma K, Gao R, Mu C, Chen L, Liu Q, Luo Q, Feng D, Zhu Y, Chen Q. Regulation of mATG9 trafficking by Src- and ULK1-mediated phosphorylation in basal and starvation-induced autophagy. Cell Res. 2017;27:184–201.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5339848</ArticleId>
+            <ArticleId IdType="pubmed">27934868</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zmijewski JW, Banerjee S, Bae H, Friggeri A, Lazarowski ER, Abraham E. Exposure to hydrogen peroxide induces oxidation and activation of AMP-activated protein kinase. J Biol Chem. 2010;285:33154–33164.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2963401</ArticleId>
+            <ArticleId IdType="pubmed">20729205</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

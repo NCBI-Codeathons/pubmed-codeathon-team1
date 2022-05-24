@@ -1,0 +1,464 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">25468647</PMID>
+      <DateCompleted>
+        <Year>2015</Year>
+        <Month>08</Month>
+        <Day>07</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2018</Year>
+        <Month>11</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1096-7206</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>114</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2015</Year>
+              <Month>Jan</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Molecular genetics and metabolism</Title>
+          <ISOAbbreviation>Mol Genet Metab</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Mathematical modeling of the insulin signal transduction pathway for prediction of insulin sensitivity from expression data.</ArticleTitle>
+        <Pagination>
+          <StartPage>66</StartPage>
+          <EndPage>72</EndPage>
+          <MedlinePgn>66-72</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ymgme.2014.11.003</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S1096-7192(14)00348-5</ELocationID>
+        <Abstract>
+          <AbstractText>Mathematical models of biological pathways facilitate a systems biology approach to medicine. However, these models need to be updated to reflect the latest available knowledge of the underlying pathways. We developed a mathematical model of the insulin signal transduction pathway by expanding the last major previously reported model and incorporating pathway components elucidated since the original model was reported. Furthermore, we show that inputting gene expression data of key components of the insulin signal transduction pathway leads to sensible predictions of glucose clearance rates in agreement with reported clinical measurements. In one set of simulations, our model predicted that glycerol kinase knockout mice have reduced GLUT4 translocation, and consequently, reduced glucose uptake. Additionally, a comparison of our extended model with the original model showed that the added pathway components improve simulations of glucose clearance rates. We anticipate this expanded model to be a useful tool for predicting insulin sensitivity in mammalian tissues with altered expression protein phosphorylation or mRNA levels of insulin signal transduction pathway components.</AbstractText>
+          <CopyrightInformation>Copyright © 2014 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ho</LastName>
+            <ForeName>Clark K</ForeName>
+            <Initials>CK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biomedical Engineering Interdepartmental Program, Henry Samueli School of Engineering and Applied Science at UCLA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rahib</LastName>
+            <ForeName>Lola</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biomedical Engineering Interdepartmental Program, Henry Samueli School of Engineering and Applied Science at UCLA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liao</LastName>
+            <ForeName>James C</ForeName>
+            <Initials>JC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biomedical Engineering Interdepartmental Program, Henry Samueli School of Engineering and Applied Science at UCLA, USA; Department of Chemical and Biomolecular Engineering, Henry Samueli School of Engineering and Applied Science at UCLA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sriram</LastName>
+            <ForeName>Ganesh</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Chemical and Biomolecular Engineering, Henry Samueli School of Engineering and Applied Science at UCLA, USA; Department of Human Genetics, David Geffen School of Medicine at UCLA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dipple</LastName>
+            <ForeName>Katrina M</ForeName>
+            <Initials>KM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Biomedical Engineering Interdepartmental Program, Henry Samueli School of Engineering and Applied Science at UCLA, USA; Department of Human Genetics, David Geffen School of Medicine at UCLA, USA; Department of Pediatrics, David Geffen School of Medicine at UCLA, USA; Mattel Children's Hospital at UCLA, USA. Electronic address: kdipple@ucla.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>T32 GM067555</GrantID>
+            <Acronym>GM</Acronym>
+            <Agency>NIGMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>T32GM067555</GrantID>
+            <Acronym>GM</Acronym>
+            <Agency>NIGMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2014</Year>
+          <Month>11</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Mol Genet Metab</MedlineTA>
+        <NlmUniqueID>9805456</NlmUniqueID>
+        <ISSNLinking>1096-7192</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D051275">Glucose Transporter Type 4</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D007328">Insulin</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.1.30</RegistryNumber>
+          <NameOfSubstance UI="D005991">Glycerol Kinase</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>IY9XDZ35W2</RegistryNumber>
+          <NameOfSubstance UI="D005947">Glucose</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005947" MajorTopicYN="N">Glucose</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051275" MajorTopicYN="N">Glucose Transporter Type 4</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005991" MajorTopicYN="N">Glycerol Kinase</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007328" MajorTopicYN="N">Insulin</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007333" MajorTopicYN="Y">Insulin Resistance</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018345" MajorTopicYN="N">Mice, Knockout</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010766" MajorTopicYN="N">Phosphorylation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="Y">Signal Transduction</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Insulin sensitivity</Keyword>
+        <Keyword MajorTopicYN="N">Insulin signal transduction pathway</Keyword>
+        <Keyword MajorTopicYN="N">Mathematical modeling</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2014</Year>
+          <Month>8</Month>
+          <Day>5</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2014</Year>
+          <Month>10</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2014</Year>
+          <Month>11</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2014</Year>
+          <Month>12</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2014</Year>
+          <Month>12</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2015</Year>
+          <Month>8</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">25468647</ArticleId>
+        <ArticleId IdType="mid">NIHMS645419</ArticleId>
+        <ArticleId IdType="pmc">PMC4319670</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.ymgme.2014.11.003</ArticleId>
+        <ArticleId IdType="pii">S1096-7192(14)00348-5</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Leto D, Saltiel AR. Regulation of glucose transport by insulin: traffic control of GLUT4. Nat Rev Mol Cell Biol. 2012;13:383–396.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22617471</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen L, Magliano DJ, Zimmet PZ. The worldwide epidemiology of type 2 diabetes mellitus--present and future perspectives. Nat Rev Endocrinol. 2012;8:228–236.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22064493</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sedaghat AR, Sherman A, Quon MJ. A mathematical model of metabolic insulin signaling pathways. Am J Physiol Endocrinol Metab. 2002;283:E1084–1101.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12376338</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chew YH, Shia YL, Lee CT, Majid FA, Chua LS, Sarmidi MR, Aziz RA. Modeling of glucose regulation and insulin-signaling pathways. Mol Cell Endocrinol. 2009;303:13–24.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19428987</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kiselyov VV, Versteyhe S, Gauguin L, De Meyts P. Harmonic oscillator model of the insulin and IGF1 receptors' allosteric binding and activation. Mol Syst Biol. 2009;5:243.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2657531</ArticleId>
+            <ArticleId IdType="pubmed">19225456</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nyman E E, Brännmark C, Palmér R, Brugård J, Nyström FH, Strålfors P, Cedersund G. A hierarchical whole-body modeling approach elucidates the link between in Vitro insulin signaling and in Vivo glucose homeostasis. J. Biol. Chem. 2011;286:26028–26041.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3138269</ArticleId>
+            <ArticleId IdType="pubmed">21572040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brännmark C, Palmér R, Glad ST, Cedersund G, Strålfors P. Mass and information feedbacks through receptor endocytosis govern insulin signaling as revealed using a parameter-free modeling framework. J Biol Chem. 2010;285:20171–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2888430</ArticleId>
+            <ArticleId IdType="pubmed">20421297</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dalla Man C, Rizza RA, Cobelli C. Meal simulation model of the glucose-insulin system. IEEE Trans Biomed Eng. 2007;54:1740–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17926672</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saad MJ, Folli F, Kahn JA, Kahn CR. Modulation of insulin receptor, insulin receptor substrate-1, and phosphatidylinositol 3-kinase in liver and muscle of dexamethasone-treated rats. J Clin Invest. 1993;92:2065–2072.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC288376</ArticleId>
+            <ArticleId IdType="pubmed">7691892</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kasuga M, Zick Y, Blithe DL, Crettaz M, Kahn CR. Insulin stimulates tyrosine phosphorylation of the insulin receptor in a cell-free system. Nature. 1982;298:667–669.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">6178977</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taniguchi CM, Emanuelli B, Kahn CR. Critical modes in signalling pathways: insights into insulin action. Nat. Rev. Mol. Cell Biol. 2006;7:85–96.C.P..</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16493415</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cantley LC. The phosphoinositide 3-kinase pathway. Science. 2002;296:1655–1657.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12040186</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hodgkinson A, Mander GJ. Sale. Protein kinase-zeta interacts with munc18c: role in GLUT4 trafficking. Diabetologia. 2005;48:1627–1636.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15986239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang L, Fan J, Bai L, Wang Y, Chen Y, Yang L, Chen L, Xu T. Direct quantification of fusion rate reveals a distal role for AS160 in insulin-stimulated fusion of GLUT4 storage vesicles. J Biol Chem. 2008;283:8508–8516.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2417169</ArticleId>
+            <ArticleId IdType="pubmed">18063571</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Larance M, Ramm G, Stockli J, van Dam EM, Winata S, Wasinger V, Simpson F, Graham M, Junutula JR, Guilhaus M, James DE. Characterization of the role of the Rab GTPase-activating protein AS160 in insulin-regulated GLUT4 trafficking. J Biol Chem. 2005;280:37803–37813.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16154996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O'Gorman DJ, Karlsson HK, McQuaid S, Yousif O, Rahman Y, Gasparro D, Glund S, Chibalin AV, Zierath JR, Nolan JJ. Exercise training increases insulin-stimulated glucose disposal and GLUT4 (SLC2A4) protein content in patients with type 2 diabetes. Diabetologia. 2006;49:2983–2992.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17019595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dipple KM, Zhang YH, Huang BL, McCabe LL, Dallongeville J, Inokuchi T, Kimura M, Marx HJ, Roederer GO, Shih V, Yamaguchi S, Yoshida I, McCabe ER. Glycerol kinase deficiency: evidence for complexity in a single gene disorder. Hum Genet. 2001;109:55–62.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11479736</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gaudet D, Arsenault S, Perusse L, Vohl MC, St-Pierre J, Bergeron J, Despres JP, Dewar K, Daly MJ, Hudson T, Rioux JD. Glycerol as a correlate of impaired glucose tolerance: dissection of a complex system by use of a simple genetic trait. Am J Hum Genet. 2000;66:1558–1568.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1378005</ArticleId>
+            <ArticleId IdType="pubmed">10736265</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guan HP, Li Y, Jensen MV, Newgard CB, Steppan CM, Lazar MA. A futile metabolic cycle activated in adipocytes by antidiabetic agents. Nat Med . 2002;8:1122–1128.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12357248</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tordjman J, Chauvet G, Quette J, Beale EG, Forest C, Antoine B. Thiazolidinediones block fatty acid release by inducing glyceroneogenesis in fat cells. J Biol Chem. 2003;278:18785–18790.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12644461</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee DH, Park DB, Lee YK, An CS, Oh YS, Kang JS, Kang SH, Chung MY. The effects of thiazolidinedione treatment on the regulations of aquaglyceroporins and glycerol kinase in OLETF rats. Metabolism. 2005;54:1282–1289.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16154425</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rahib L, MacLennan NK, Horvath S, Liao JC, Dipple KM. Glycerol kinase deficiency alters expression of genes involved in lipid metabolism, carbohydrate metabolism, and insulin signaling. Eur J Hum Genet. 2007;15:646–657.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17406644</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baus D, Heermeier K, De Hoop M, Metz-Weidmann C, Gassenhuber J, Dittrich W, Welte S, Tennagels N. Identification of a novel AS160 splice variant that regulates GLUT4 translocation and glucose-uptake in rat muscle cells. Cell Signal. 2008;20:2237–2246.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18771725</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huq AH, Lovell RS, Ou CN, Beaudet AL, Craigen WJ. X-linked glycerol kinase deficiency in the mouse leads to growth retardation, altered fat metabolism, autonomous glucocorticoid secretion and neonatal death. Hum Mol Genet. 1997;6:1803–1809.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9302256</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Press WH, Teukolsky SA, Vetterling WT, Flannery BP.  Numerical Recipes in C: The Art of Scientific Computing. second ed. Cambridge University Press; Cambridge, UK: 1992. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yuasa T, Uchiyama K, Ogura Y, Kimura M, Teshigawara K, Hosaka T, Tanaka Y, Obata T, Sano H, Kishi K, Ebina Y. The Rab GTPase-activating protein AS160 as a common regulator of insulin- and Galphaq-mediated intracellular GLUT4 vesicle distribution. Endocr J. 2009;56:345–359.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19139597</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rahib L, Sriram G, Harada MK, Liao JC, Dipple KM. Transcriptomic and network component analysis of glycerol kinase in skeletal muscle using a mouse model of glycerol kinase deficiency. Mol Genet Metab. 2009;96:106–112.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2702540</ArticleId>
+            <ArticleId IdType="pubmed">19121967</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sriram G, Martinez JA, McCabe ER, Liao JC, Dipple KM. Single-gene disorders: What role could moonlighting enzymes play? Am J Hum Genet. 2005;76:911–924.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1196451</ArticleId>
+            <ArticleId IdType="pubmed">15877277</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jeffery CJ. Multifunctional proteins: examples of gene sharing. Ann Med. 2003;35:28–35.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12693610</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu CY, Mayba O, Lee JV, Tran J, Harris C, Speed TP, Wang JC. Genome-wide analysis of glucocorticoid receptor binding regions in adipocytes reveal gene network involved in triglyceride homeostasis. PLoS One. 2010;5:e15188.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3004788</ArticleId>
+            <ArticleId IdType="pubmed">21187916</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cusi K, Maezono K, Osman A, Pendergrass M, Patti ME, Pratipanawatr T, DeFronzo RA, Kahn CR, Mandarino LJ. Insulin resistance differentially affects the PI3-kinase- and MAP kinase-mediated signalling in human muscle. J Clin Invest. 2000;105:311–320.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC377440</ArticleId>
+            <ArticleId IdType="pubmed">10675357</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Houmard JA, Shaw CD, Hickey MS, Tanner CJ. Effect of short-term exercise training on insulin-stimulated PI3-kinase activity in human skeletal muscle. Am J Physiol. 1999;277:E1055–E1060.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10600795</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tanner CJ, Koves TR, Cortright RL, Pories WJ, Kim YB, Kahn BB, Dohm GL, Houmard JA. Effect of short-term exercise training on insulin-stimulated PI 3-kinase activity in middle-aged men. Am J Physiol Endocrinol Metab. 2002;282:E147–153.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11739095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu X, Shen N, Zhang M, Pan F, Wang C, Jia W, Liu C, Gao Q, Gao X, Xue B, Li C. Egr-1 decreases adipocyte insulin sensitivity by tilting PI3K/Akt and MAPK signal balance in mice. The EMBO Journal. 2011;30:3754–3765.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3173797</ArticleId>
+            <ArticleId IdType="pubmed">21829168</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Karlsson HK, Zierath JR, Kane S, Krook A, Lienhard GE, Wallberg-Henriksson H. Insulin-stimulated phosphorylation of the Akt substrate AS160 is impaired in skeletal muscle of type 2 diabetic subjects. Diabetes. 2005;54:1692–1697.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15919790</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Frøsig C, Rose AJ, Treebak JT, Kiens B, Richter EA, Wojtaszewski JFP. Effects of endurance exercise training on insulin signaling in human skeletal muscle interactions at the level of phosphatidylinositol 3-Kinase. Akt, and AS160, Diabetes. 2007;8:2093–2102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17513702</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Deshmukh A, Coffey VG, Zhong Z, Chibalin AV, Hawley JA, Zierath JR. Exercise-induced phosphorylation of the novel Akt Substrates AS160 and Filamin A in Human Skeletal Muscle. Diabetes. 2006;55:1776–1782.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16731842</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

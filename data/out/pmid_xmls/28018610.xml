@@ -1,0 +1,432 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">28018610</PMID>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>10</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Print">2054-5703</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>3</Volume>
+            <Issue>11</Issue>
+            <PubDate>
+              <Year>2016</Year>
+              <Month>Nov</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Royal Society open science</Title>
+          <ISOAbbreviation>R Soc Open Sci</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Cycle and flow trusses in directed networks.</ArticleTitle>
+        <Pagination>
+          <StartPage>160270</StartPage>
+          <MedlinePgn>160270</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">160270</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1098/rsos.160270</ELocationID>
+        <Abstract>
+          <AbstractText>When we represent real-world systems as networks, the directions of links often convey valuable information. Finding module structures that respect link directions is one of the most important tasks for analysing directed networks. Although many notions of a directed module have been proposed, no consensus has been reached. This lack of consensus results partly because there might exist distinct types of modules in a single directed network, whereas most previous studies focused on an independent criterion for modules. To address this issue, we propose a generic notion of the so-called truss structures in directed networks. Our definition of truss is able to extract two distinct types of trusses, named the cycle truss and the flow truss, from a unified framework. By applying the method for finding trusses to empirical networks obtained from a wide range of research fields, we find that most real networks contain both cycle and flow trusses. In addition, the abundance of (and the overlap between) the two types of trusses may be useful to characterize module structures in a wide variety of empirical networks. Our findings shed light on the importance of simultaneously considering different types of modules in directed networks.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Takaguchi</LastName>
+            <ForeName>Taro</ForeName>
+            <Initials>T</Initials>
+            <Identifier Source="ORCID">0000-0001-6070-346X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>National Institute of Informatics, ERATO, Kawarabayashi Large Graph Project, 2-1-2 Hitotsubashi, Chiyoda-ku, 101-8430 Tokyo, Japan; JST, ERATO, Kawarabayashi Large Graph Project, 2-1-2 Hitotsubashi, Chiyoda-ku, 101-8430 Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yoshida</LastName>
+            <ForeName>Yuichi</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Institute of Informatics, ERATO, Kawarabayashi Large Graph Project, 2-1-2 Hitotsubashi, Chiyoda-ku, 101-8430 Tokyo, Japan; Preferred Infrastructure, 1-6-1 Otemachi, Chiyoda-ku, 100-0004 Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2016</Year>
+          <Month>11</Month>
+          <Day>30</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>R Soc Open Sci</MedlineTA>
+        <NlmUniqueID>101647528</NlmUniqueID>
+        <ISSNLinking>2054-5703</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">complex networks</Keyword>
+        <Keyword MajorTopicYN="N">data analysis</Keyword>
+        <Keyword MajorTopicYN="N">directed networks</Keyword>
+        <Keyword MajorTopicYN="N">module structure</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2016</Year>
+          <Month>4</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2016</Year>
+          <Month>10</Month>
+          <Day>31</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2016</Year>
+          <Month>12</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2016</Year>
+          <Month>12</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>12</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">28018610</ArticleId>
+        <ArticleId IdType="pmc">PMC5180108</ArticleId>
+        <ArticleId IdType="doi">10.1098/rsos.160270</ArticleId>
+        <ArticleId IdType="pii">rsos160270</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Newman MEJ.
+2010. 
+Networks: an introduction. Oxford, UK: Oxford University Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Costa LF, Rodrigues FA, Travieso G, VillasBoas PR. 
+2007. 
+Characterization of complex networks: a survey of measurements. Adv. Phys.
+56, 167–242. (doi:10.1080/00018730601170527)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/00018730601170527</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barrat A, Barthélemy M, Vespignani A. 
+2008. 
+Dynamical processes on complex networks. Cambridge, UK: Cambridge University Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Porter MA, Onnela J-P, Mucha PJ. 
+2009. 
+Communities in networks. Not. Am. Math. Soc.
+56, 1082–1097.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fortunato S.
+2010. 
+Community detection in graphs. Phys. Rep.
+486, 75–174. (doi:10.1016/j.physrep.2009.11.002)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.physrep.2009.11.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rosvall M, Bergstrom CT. 
+2008. 
+Maps of random walks on complex networks reveal community structure. Proc. Natl Acad. Sci. USA
+105, 1118–1123. (doi:10.1073/pnas.0706851105)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0706851105</ArticleId>
+            <ArticleId IdType="pmc">PMC2234100</ArticleId>
+            <ArticleId IdType="pubmed">18216267</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clauset A, Moore C, Newman MEJ. 
+2008. 
+Hierarchical structure and the prediction of missing links in networks. Nature
+453, 98–101. (doi:10.1038/nature06830)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature06830</ArticleId>
+            <ArticleId IdType="pubmed">18451861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen J, Yuan B. 
+2006. 
+Detecting functional modules in the yeast protein-protein interaction network. Bioinformatics
+22, 2283–2290. (doi:10.1093/bioinformatics/btl370)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btl370</ArticleId>
+            <ArticleId IdType="pubmed">16837529</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sohn Y, Choi M-K, Ahn Y-Y, Lee J, Jeong J. 
+2011. 
+Topological cluster analysis reveals the systemic organization of the Caenorhabditis elegans connectome. PLoS Comput. Biol.
+7, e1001139 (doi:10.1371/journal.pcbi.1001139)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1001139</ArticleId>
+            <ArticleId IdType="pmc">PMC3098222</ArticleId>
+            <ArticleId IdType="pubmed">21625578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chung F.
+2005. 
+Laplacians and the Cheeger inequality for directed graphs. Ann. Comb.
+9, 1–19. (doi:10.1007/s00026-005-0237-z)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00026-005-0237-z</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Michoel T, Nachtergaele B. 
+2012. 
+Alignment and integration of complex networks by hypergraph-based spectral clustering. Phys. Rev. E
+86, 056111 (doi:10.1103/PhysRevE.86.056111)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1103/PhysRevE.86.056111</ArticleId>
+            <ArticleId IdType="pubmed">23214847</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoshida Y.
+2016. 
+Nonlinear Laplacian for digraphs and its applications to network analysis. In Proc. the Ninth ACM Int. Conf. on Web Search and Data Mining, pp. 483–492. San Francisco, CA, 22–25 February 2016.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Leicht EA, Newman MEJ. 
+2008. 
+Community structure in directed networks. Phys. Rev. Lett.
+100, 118703 (doi:10.1103/PhysRevLett.100.118703)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1103/PhysRevLett.100.118703</ArticleId>
+            <ArticleId IdType="pubmed">18517839</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Malliaros FD, Vazirgiannis M. 
+2013. 
+Clustering and community detection in directed networks: a survey. Phys. Rep.
+533, 95–142. (doi:10.1016/j.physrep.2013.08.002)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.physrep.2013.08.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim Y, Son S-W, Jeong H. 
+2010. 
+Finding communities in directed networks. Phys. Rev. E
+81, 016103 (doi:10.1103/PhysRevE.81.016103)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1103/PhysRevE.81.016103</ArticleId>
+            <ArticleId IdType="pubmed">20365428</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Broder A, Kumar R, Maghoul F, Raghavan P, Rajagopalan S, Stata R, Tomkins A, Wiener J. 
+2000. 
+Graph structure in the web. Comput. Netw.
+33, 309–320. (doi:10.1016/S1389-1286(00)00083-9)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1389-1286(00)00083-9</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Corominas-Murtra B, Goñi J, Solé RV, Rodríguez-Caso C. 
+2013. 
+On the origins of hierarchy in complex networks. Proc. Natl Acad. Sci. USA
+110, 13 316–13 321. (doi:10.1073/pnas.1300832110)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1300832110</ArticleId>
+            <ArticleId IdType="pmc">PMC3746874</ArticleId>
+            <ArticleId IdType="pubmed">23898177</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Milo R, Shen-Orr S, Itzkovitz S, Kashtan N, Chklovskii D, Alon U. 
+2002. 
+Network motifs: simple building blocks of complex networks. Science (New York, NY)
+298, 824–827. (doi:10.1126/science.298.5594.824)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.298.5594.824</ArticleId>
+            <ArticleId IdType="pubmed">12399590</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alon U.
+2007. 
+Network motifs: theory and experimental approaches. Nat. Rev. Genet.
+8, 450–461. (doi:10.1038/nrg2102)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrg2102</ArticleId>
+            <ArticleId IdType="pubmed">17510665</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cohen J.
+2008. 
+Trusses: cohesive subgraphs for social network analysis. Technical report, National Security Agency, Fort Meade, MD.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang J, Cheng J. 
+2012. 
+Truss decomposition in massive networks. Proc. VLDB Endowment
+5, 812–823. (doi:10.14778/2311906.2311909)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.14778/2311906.2311909</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Varshney LR, Chen BL, Paniagua E, Hall DH, Chklovskii DB. 
+2011. 
+Structural properties of the Caenorhabditis elegans neuronal network. PLoS Comput. Biol.
+7, e1001066 (doi:10.1371/journal.pcbi.1001066)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1001066</ArticleId>
+            <ArticleId IdType="pmc">PMC3033362</ArticleId>
+            <ArticleId IdType="pubmed">21304930</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kiss GR, Armstrong C, Milroy R, Piper J. 
+1973. 
+An associative thesaurus of English and its computer analysis. In The computer and literary studies (eds AJ Aitken, RW Bailey, N Hamilton-Smith), pp. 153–165. Edinburgh, UK: Edinburgh University Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Altun ZF, Hall DH. 
+2016. 
+Nervous system, general description, In WormAtlas. See http://dx.doi.org/doi:10.3908/wormatlas.1.18 (date accessed 1 March 2016).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Newman MEJ, Strogatz SH, Watts DJ. 
+2001. 
+Random graphs with arbitrary degree distributions and their applications. Phys. Rev. E
+64, 026118 (doi:10.1103/PhysRevE.64.026118)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1103/PhysRevE.64.026118</ArticleId>
+            <ArticleId IdType="pubmed">11497662</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Watts DJ, Strogatz SH. 
+1998. 
+Collective dynamics of ‘small-world’ networks. Nature
+393, 440–442. (doi:10.1038/30918)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/30918</ArticleId>
+            <ArticleId IdType="pubmed">9623998</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Michoel T, Joshi A, Nachtergaele B, VandePeer Y. 
+2011. 
+Enrichment and aggregation of topological motifs are independent organizational principles of integrated interaction networks. Mol. Biosyst.
+7, 2769–2778. (doi:10.1039/c1mb05241a)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1039/c1mb05241a</ArticleId>
+            <ArticleId IdType="pubmed">21860879</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Opsahl T.
+2016. 
+Why Anchorage is not (that) important: binary ties and sample selection. See http://toreopsahl.com/2011/08/12/why-anchorage-is-not-that-important-binary-ties-and-sample-selection/ (accessed: 1 March 2016).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Leskovec J, Lang KJ, Dasgupta A, Mahoney MW. 
+2009. 
+Community structure in large networks: natural cluster sizes and the absence of large well-defined clusters. Internet Math.
+6, 29–123. (doi:10.1080/15427951.2009.10129177)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/15427951.2009.10129177</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dobrin R, Beg QK, Barabási A-L, Oltvai ZN. 
+2004. 
+Aggregation of topological motifs in the Escherichia coli transcriptional regulatory network. BMC Bioinform.
+5, 10 (doi:10.1186/1471-2105-5-10)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2105-5-10</ArticleId>
+            <ArticleId IdType="pmc">PMC357809</ArticleId>
+            <ArticleId IdType="pubmed">15018656</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kashtan N, Itzkovitz S, Milo R, Alon U. 
+2004. 
+Topological generalizations of network motifs. Phys. Rev. E
+70, 031909 (doi:10.1103/PhysRevE.70.031909)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1103/PhysRevE.70.031909</ArticleId>
+            <ArticleId IdType="pubmed">15524551</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang LV et al.
+2005. 
+Motifs, themes and thematic maps of an integrated Saccharomyces cerevisiae interaction network. J. Biol.
+4, 6 (doi:10.1186/jbiol23)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/jbiol23</ArticleId>
+            <ArticleId IdType="pmc">PMC1175995</ArticleId>
+            <ArticleId IdType="pubmed">15982408</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Palla G, Farkas IJ, Pollner P, Derényi I, Vicsek T. 
+2007. 
+Directed network modules. New J. Phys.
+9, 186 (doi:10.1088/1367-2630/9/6/186)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/1367-2630/9/6/186</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Benson AR, Gleich DF, Leskovec J. 
+2016. 
+Higher-order organization of complex networks. Science
+353, 163–166. (doi:10.1126/science.aad9029)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aad9029</ArticleId>
+            <ArticleId IdType="pmc">PMC5133458</ArticleId>
+            <ArticleId IdType="pubmed">27387949</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barrat A, Barthélemy M, Pastor-Satorras R, Vespignani A. 
+2004. 
+The architecture of complex weighted networks. Proc. Natl Acad. Sci. USA
+101, 3747–3752. (doi:10.1073/pnas.0400087101)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0400087101</ArticleId>
+            <ArticleId IdType="pmc">PMC374315</ArticleId>
+            <ArticleId IdType="pubmed">15007165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

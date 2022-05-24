@@ -1,0 +1,808 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">30671536</PMID>
+      <DateCompleted>
+        <Year>2019</Year>
+        <Month>05</Month>
+        <Day>21</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>02</Month>
+        <Day>25</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">2373-2822</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>6</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Season>Jan-Feb</Season>
+            </PubDate>
+          </JournalIssue>
+          <Title>eNeuro</Title>
+          <ISOAbbreviation>eNeuro</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Activity Patterns in the Neuropil of Striatal Cholinergic Interneurons in Freely Moving Mice Represent Their Collective Spiking Dynamics.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">ENEURO.0351-18.2018</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1523/ENEURO.0351-18.2018</ELocationID>
+        <Abstract>
+          <AbstractText>Cholinergic interneurons (CINs) are believed to form synchronous cell assemblies that modulate the striatal microcircuitry and possibly orchestrate local dopamine release. We expressed GCaMP6s, a genetically encoded calcium indicator (GECIs), selectively in CINs, and used microendoscopes to visualize the putative CIN assemblies in the dorsal striatum of freely moving mice. The GECI fluorescence signal from the dorsal striatum was composed of signals from individual CIN somata that were engulfed by a widespread fluorescent neuropil. Bouts of synchronous activation of the cholinergic neuropil revealed patterns of activity that preceded the signal from individual somata. To investigate the nature of the neuropil signal and why it precedes the somatic signal, we target-patched GECI-expressing CINs in acute striatal slices in conjunction with multiphoton imaging or wide-field imaging that emulates the microendoscopes' specifications. The ability to detect fluorescent transients associated with individual action potential was constrained by the long decay constant of GECIs (relative to common inorganic dyes) to slowly firing (&lt;2 spikes/s) CINs. The microendoscopes' resolving power and sampling rate further diminished this ability. Additionally, we found that only back-propagating action potentials but not synchronous optogenetic activation of thalamic inputs elicited observable calcium transients in CIN dendrites. Our data suggest that only bursts of CIN activity (but not their tonic firing) are visible using endoscopic imaging, and that the neuropil patterns are a physiological measure of the collective recurrent CIN network spiking activity.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Rehani</LastName>
+            <ForeName>Rotem</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Neurobiology, Institute of Medical Research Israel-Canada, The Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Atamna</LastName>
+            <ForeName>Yara</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">0000-0002-2389-7960</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Neurobiology, Institute of Medical Research Israel-Canada, The Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tiroshi</LastName>
+            <ForeName>Lior</ForeName>
+            <Initials>L</Initials>
+            <Identifier Source="ORCID">0000-0001-5634-4484</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Neurobiology, Institute of Medical Research Israel-Canada, The Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chiu</LastName>
+            <ForeName>Wei-Hua</ForeName>
+            <Initials>WH</Initials>
+            <Identifier Source="ORCID">0000-0001-5724-5680</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Neurobiology, Institute of Medical Research Israel-Canada, The Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>de Jesús Aceves Buendía</LastName>
+            <ForeName>José</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0002-2477-1235</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Neurobiology, Institute of Medical Research Israel-Canada, The Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Martins</LastName>
+            <ForeName>Gabriela J</ForeName>
+            <Initials>GJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Zuckerman Mind Brain Behavior Institute, Columbia University, New York, New York 10027.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jacobson</LastName>
+            <ForeName>Gilad A</ForeName>
+            <Initials>GA</Initials>
+            <Identifier Source="ORCID">0000-0001-8172-3144</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Neurobiology, Institute of Medical Research Israel-Canada, The Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goldberg</LastName>
+            <ForeName>Joshua A</ForeName>
+            <Initials>JA</Initials>
+            <Identifier Source="ORCID">0000-0002-5740-4087</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Medical Neurobiology, Institute of Medical Research Israel-Canada, The Faculty of Medicine, The Hebrew University of Jerusalem, Jerusalem 9112102, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D059040">Video-Audio Media</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2019</Year>
+          <Month>01</Month>
+          <Day>18</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>eNeuro</MedlineTA>
+        <NlmUniqueID>101647362</NlmUniqueID>
+        <ISSNLinking>2373-2822</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>SY7Q814VUP</RegistryNumber>
+          <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000200" MajorTopicYN="Y">Action Potentials</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020013" MajorTopicYN="N">Calcium Signaling</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003342" MajorTopicYN="N">Corpus Striatum</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007395" MajorTopicYN="N">Interneurons</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008822" MajorTopicYN="N">Mice, Transgenic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018613" MajorTopicYN="N">Microscopy, Confocal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009043" MajorTopicYN="N">Motor Activity</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019581" MajorTopicYN="N">Neuropil</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D062211" MajorTopicYN="N">Spatio-Temporal Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D046509" MajorTopicYN="N">Tissue Culture Techniques</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">channelrhodopsin-2</Keyword>
+        <Keyword MajorTopicYN="Y">gradient reflective index (GRIN) lens</Keyword>
+        <Keyword MajorTopicYN="Y">local field potentials (LFPs)</Keyword>
+        <Keyword MajorTopicYN="Y">pacemaker</Keyword>
+        <Keyword MajorTopicYN="Y">spatiotemporal patterns</Keyword>
+        <Keyword MajorTopicYN="Y">two-photon laser scanning microscopy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>9</Month>
+          <Day>6</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>24</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2018</Year>
+          <Month>12</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>1</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>1</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30671536</ArticleId>
+        <ArticleId IdType="pmc">PMC6338468</ArticleId>
+        <ArticleId IdType="doi">10.1523/ENEURO.0351-18.2018</ArticleId>
+        <ArticleId IdType="pii">eN-NWR-0351-18</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>
+Aceves Buendia JJ, Tiroshi L, Chiu WH, Goldberg JA (2017) Selective remodeling of glutamatergic transmission to striatal cholinergic interneurons after dopamine depletion. Eur J Neurosci. Advance online publication. Retrieved September 18, 2017. doi: 10.1111/ejn.13715.
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6519226</ArticleId>
+            <ArticleId IdType="pubmed">28922504</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Anderson ME (1978) Discharge patterns of basal ganglia neurons during active maintenance of postural stability and adjustment to chair tilt. Brain Res
+143:325–338. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">415804</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Aosaki T, Graybiel AM, Kimura M (1994) Effect of the nigrostriatal dopamine system on acquired neural responses in the striatum of behaving monkeys. Science
+265:412–415. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8023166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Apicella P, Legallet E, Trouche E (1997) Responses of tonically discharging neurons in the monkey striatum to primary rewards delivered during different behavioral states. Exp Brain Res
+116:456–466. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9372294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bédard C, Kröger H, Destexhe A (2004) Modeling extracellular field potentials and the frequency-filtering properties of extracellular space. Biophys J
+86:1829–1842. 10.1016/S0006-3495(04)74250-2
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0006-3495(04)74250-2</ArticleId>
+            <ArticleId IdType="pmc">PMC1304017</ArticleId>
+            <ArticleId IdType="pubmed">14990509</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bennett BD, Wilson CJ (1999) Spontaneous activity of neostriatal cholinergic interneurons in vitro
+. J Neurosci
+19:5586–5596. 10.1523/JNEUROSCI.19-13-05586.1999</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.19-13-05586.1999</ArticleId>
+            <ArticleId IdType="pmc">PMC6782311</ArticleId>
+            <ArticleId IdType="pubmed">10377365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bennett BD, Callaway JC, Wilson CJ (2000) Intrinsic membrane properties underlying spontaneous tonic firing in neostriatal cholinergic interneurons. J Neurosci
+20:8493–8503. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6773196</ArticleId>
+            <ArticleId IdType="pubmed">11069957</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Cachope R, Mateo Y, Mathur BN, Irving J, Wang HL, Morales M, Lovinger DM, Cheer JF (2012) Selective activation of cholinergic interneurons enhances accumbal phasic dopamine release: setting the tone for reward processing. Cell Rep
+2:33–41. 10.1016/j.celrep.2012.05.011
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2012.05.011</ArticleId>
+            <ArticleId IdType="pmc">PMC3408582</ArticleId>
+            <ArticleId IdType="pubmed">22840394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Calabresi P, Centonze D, Gubellini P, Pisani A, Bernardi G (2000) Acetylcholine-mediated modulation of striatal function. Trends Neurosci
+23:120–126. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10675916</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Chang HT, Wilson CJ, Kitai ST (1982) A Golgi study of rat neostriatal neurons: light microscopic analysis. J Comp Neur
+208:107–126. 10.1002/cne.902080202
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cne.902080202</ArticleId>
+            <ArticleId IdType="pubmed">6181102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Chen TW, Wardill TJ, Sun Y, Pulver SR, Renninger SL, Baohan A, Schreiter ER, Kerr RA, Orger MB, Jayaraman V, Looger LL, Svoboda K, Kim DS (2013) Ultrasensitive fluorescent proteins for imaging neuronal activity. Nature
+499:295–300. 10.1038/nature12354
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature12354</ArticleId>
+            <ArticleId IdType="pmc">PMC3777791</ArticleId>
+            <ArticleId IdType="pubmed">23868258</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Chuhma N, Mingote S, Moore H, Rayport S (2014) Dopamine neurons control striatal cholinergic neurons via regionally heterogeneous dopamine and glutamate signaling. Neuron
+81:901–912. 10.1016/j.neuron.2013.12.027
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2013.12.027</ArticleId>
+            <ArticleId IdType="pmc">PMC3933825</ArticleId>
+            <ArticleId IdType="pubmed">24559678</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Consolo S, Baldi G, Giorgi S, Nannini L (1996) The cerebral cortex and parafascicular thalamic nucleus facilitate in vivo acetylcholine release in the rat striatum through distinct glutamate receptor subtypes. Eur J Neurosci
+8:2702–2710. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8996820</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Contant C, Umbriaco D, Garcia S, Watkins KC, Descarries L (1996) Ultrastructural characterization of the acetylcholine innervation in adult rat neostriatum. Neuroscience
+71:937–947. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8684624</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Creutzfeldt OD, Watanabe S, Lux HD (1966) Relations between EEG phenomena and potentials of single cortical cells: II. Spontaneous and convulsoid activity. Electroencephalogr Clin Neurophysiol
+20:19–37. 10.1016/0013-4694(66)90137-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0013-4694(66)90137-4</ArticleId>
+            <ArticleId IdType="pubmed">4161316</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Dautan D, Huerta-Ocampo I, Witten IB, Deisseroth K, Bolam JP, Gerdjikov T, Mena-Segovia J (2014) A major external source of cholinergic innervation of the striatum and nucleus accumbens originates in the brainstem. J Neurosci
+34:4509–4518. 10.1523/JNEUROSCI.5071-13.2014</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.5071-13.2014</ArticleId>
+            <ArticleId IdType="pmc">PMC3965779</ArticleId>
+            <ArticleId IdType="pubmed">24671996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Destexhe A, Contreras D, Steriade M (1999) Spatiotemporal analysis of local field potentials and unit discharges in cat cerebral cortex during natural wake and sleep states. J Neurosci
+19:4595–4608. 10.1523/JNEUROSCI.19-11-04595.1999</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.19-11-04595.1999</ArticleId>
+            <ArticleId IdType="pmc">PMC6782626</ArticleId>
+            <ArticleId IdType="pubmed">10341257</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+DiFiglia M (1987) Synaptic organization of cholinergic neurons in the monkey neostriatum. J Comp Neur
+255:245–258. 10.1002/cne.902550208
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cne.902550208</ArticleId>
+            <ArticleId IdType="pubmed">3819015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Ding JB, Guzman JN, Peterson JD, Goldberg JA, Surmeier DJ (2010) Thalamic gating of corticostriatal signaling by cholinergic interneurons. Neuron
+67:294–307. 10.1016/j.neuron.2010.06.017
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2010.06.017</ArticleId>
+            <ArticleId IdType="pmc">PMC4085694</ArticleId>
+            <ArticleId IdType="pubmed">20670836</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Donoghue JP, Sanes JN, Hatsopoulos NG, Gaál G (1998) Neural discharge and local field potential oscillations in primate motor cortex during voluntary movements. J Neurophysiol
+79:159–173. 10.1152/jn.1998.79.1.159
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.1998.79.1.159</ArticleId>
+            <ArticleId IdType="pubmed">9425187</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Eckhorn R, Obermueller A (1993) Single neurons are differently involved in stimulus-specific oscillations in cat visual cortex. Exp Brain Res
+95:177–182. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8405251</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Eggermont JJ, Smith GM (1995) Synchrony between single-unit activity and local field potentials in relation to periodicity coding in primary auditory cortex. J Neurophysiol
+73:227–245. 10.1152/jn.1995.73.1.227
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.1995.73.1.227</ArticleId>
+            <ArticleId IdType="pubmed">7714568</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Ellender TJ, Harwood J, Kosillo P, Capogna M, Bolam JP (2013) Heterogeneous properties of central lateral and parafascicular thalamic synapses in the striatum. J Physiol
+591:257–272. 10.1113/jphysiol.2012.245233
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2012.245233</ArticleId>
+            <ArticleId IdType="pmc">PMC3557661</ArticleId>
+            <ArticleId IdType="pubmed">23109111</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+English DF, Ibanez-Sandoval O, Stark E, Tecuapetla F, Buzsáki G, Deisseroth K, Tepper JM, Koos T (2012) GABAergic circuits mediate the reinforcement-related signals of striatal cholinergic interneurons. Nat Neurosci
+15:123–130. 10.1038/nn.2984</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.2984</ArticleId>
+            <ArticleId IdType="pmc">PMC3245803</ArticleId>
+            <ArticleId IdType="pubmed">22158514</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Ghosh KK, Burns LD, Cocker ED, Nimmerjahn A, Ziv Y, Gamal AE, Schnitzer MJ (2011) Miniaturized integration of a fluorescence microscope. Nat Methods
+8:871–878. 10.1038/nmeth.1694
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.1694</ArticleId>
+            <ArticleId IdType="pmc">PMC3810311</ArticleId>
+            <ArticleId IdType="pubmed">21909102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Goldberg JA, Boraud T, Maraton S, Haber SN, Vaadia E, Bergman H (2002) Enhanced synchrony among primary motor cortex neurons in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine primate model of Parkinson's disease. J Neurosci
+22:4639–4653. 10.1523/jneurosci.22-11-04639.2002
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/jneurosci.22-11-04639.2002</ArticleId>
+            <ArticleId IdType="pmc">PMC6758785</ArticleId>
+            <ArticleId IdType="pubmed">12040070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Goldberg JA, Ding JB, Surmeier DJ (2012) Muscarinic modulation of striatal function and circuitry. Handb Exp Pharmacol
+208:223–241. 10.1007/978-3-642-23274-9_10
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-3-642-23274-9_10</ArticleId>
+            <ArticleId IdType="pubmed">22222701</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Goldberg JA, Teagarden MA, Foehring RC, Wilson CJ (2009) Nonequilibrium calcium dynamics regulate the autonomous firing pattern of rat striatal cholinergic interneurons. J Neurosci
+29:8396–8407. 10.1523/JNEUROSCI.5582-08.2009
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.5582-08.2009</ArticleId>
+            <ArticleId IdType="pmc">PMC2739003</ArticleId>
+            <ArticleId IdType="pubmed">19571130</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Goldberg JA, Rokni U, Boraud T, Vaadia E, Bergman H (2004) Spike synchronization in the cortex/basal-ganglia networks of Parkinsonian primates reflects global dynamics of the local field potentials. J Neurosci
+24:6003–6010. 10.1523/JNEUROSCI.4848-03.2004
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.4848-03.2004</ArticleId>
+            <ArticleId IdType="pmc">PMC6729228</ArticleId>
+            <ArticleId IdType="pubmed">15229247</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Graybiel AM, Aosaki T, Flaherty AW, Kimura M (1994) The basal ganglia and adaptive motor control. Science
+265:1826–1831. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8091209</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kawaguchi Y (1992) Large aspiny cells in the matrix of the rat neostriatum in vitro: physiological identification, relation to the compartments and excitatory postsynaptic currents. J Neurophysiol
+67:1669–1682. 10.1152/jn.1992.67.6.1669
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.1992.67.6.1669</ArticleId>
+            <ArticleId IdType="pubmed">1352806</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kerr JN, Greenberg D, Helmchen F (2005) Imaging input and output of neocortical networks in vivo
+. Proc Natl Acad Sci U S A
+102:14063–14068. 10.1073/pnas.0506029102
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0506029102</ArticleId>
+            <ArticleId IdType="pmc">PMC1201343</ArticleId>
+            <ArticleId IdType="pubmed">16157876</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kimura M, Rajkowski J, Evarts E (1984) Tonically discharging putamen neurons exhibit set-dependent responses. Proc Natl Acad Sci U S A
+81:4998–5001. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC391620</ArticleId>
+            <ArticleId IdType="pubmed">6589643</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Klaus A, Plenz D (2016) A Low-correlation resting state of the striatum during cortical avalanches and its role in movement suppression. PLoS Biol
+14:e1002582. 10.1371/journal.pbio.1002582
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pbio.1002582</ArticleId>
+            <ArticleId IdType="pmc">PMC5147796</ArticleId>
+            <ArticleId IdType="pubmed">27923040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kosillo P, Zhang YF, Threlfell S, Cragg SJ (2016) Cortical control of striatal dopamine transmission via striatal cholinergic interneurons. Cereb Cortex
+11:4160–4169. 10.1093/cercor/bhw252
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/cercor/bhw252</ArticleId>
+            <ArticleId IdType="pmc">PMC5066833</ArticleId>
+            <ArticleId IdType="pubmed">27566978</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lapper SR, Bolam JP (1992) Input from the frontal cortex and the parafascicular nucleus to cholinergic interneurons in the dorsal striatum of the rat. Neuroscience
+51:533–545. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1488113</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lass Y (1968) A quantitative approach to the correlation of slow wave and unit electrical activity in the cerebral cortex of the cat. Electroencephalogr Clin Neurophysiol
+25:503–506. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">4182606</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lee S, Meyer JF, Park J, Smirnakis SM (2017) Visually driven neuropil activity and information encoding in mouse primary visual cortex. Front Neural Circuits
+11:50. 10.3389/fncir.2017.00050
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncir.2017.00050</ArticleId>
+            <ArticleId IdType="pmc">PMC5519560</ArticleId>
+            <ArticleId IdType="pubmed">28785207</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lin MZ, Schnitzer MJ (2016) Genetically encoded indicators of neuronal activity. Nat Neurosci
+19:1142–1153. 10.1038/nn.4359
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.4359</ArticleId>
+            <ArticleId IdType="pmc">PMC5557009</ArticleId>
+            <ArticleId IdType="pubmed">27571193</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Ma Y, Shaik MA, Kim SH, Kozberg MG, Thibodeaux DN, Zhao HT, Yu H, Hillman EM (2016) Wide-field optical mapping of neural activity and brain haemodynamics: considerations and novel approaches. Philos Trans R Soc Lond B Biol Sci
+371:20150360. 10.1098/rstb.2015.0360
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1098/rstb.2015.0360</ArticleId>
+            <ArticleId IdType="pmc">PMC5003860</ArticleId>
+            <ArticleId IdType="pubmed">27574312</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mank M, Griesbeck O (2008) Genetically encoded calcium indicators. Chem Rev
+108:1550–1564. 10.1021/cr078213v
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/cr078213v</ArticleId>
+            <ArticleId IdType="pubmed">18447377</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mesulam MM, Mash D, Hersh L, Bothwell M, Geula C (1992) Cholinergic innervation of the human striatum, globus pallidus, subthalamic nucleus, substantia nigra, and red nucleus. J Comp Neur
+323:252–268. 10.1002/cne.903230209
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cne.903230209</ArticleId>
+            <ArticleId IdType="pubmed">1401259</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Nelson AB, Hammack N, Yang CF, Shah NM, Seal RP, Kreitzer AC (2014) Striatal cholinergic interneurons drive GABA release from dopamine terminals. Neuron
+82:63–70. 10.1016/j.neuron.2014.01.023
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2014.01.023</ArticleId>
+            <ArticleId IdType="pmc">PMC3976769</ArticleId>
+            <ArticleId IdType="pubmed">24613418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Pakhotin P, Bracci E (2007) Cholinergic interneurons control the excitatory input to the striatum. J Neurosci
+27:391–400. 10.1523/JNEUROSCI.3709-06.2007
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.3709-06.2007</ArticleId>
+            <ArticleId IdType="pmc">PMC6672079</ArticleId>
+            <ArticleId IdType="pubmed">17215400</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Paxinos G, Franklin K (2012) The mouse brain in stereotaxic coordinates, Ed 4
+Cambridge: Academic.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Pisani A, Bernardi G, Ding J, Surmeier DJ (2007) Re-emergence of striatal cholinergic interneurons in movement disorders. Trends Neurosci
+30:545–553. 10.1016/j.tins.2007.07.008
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tins.2007.07.008</ArticleId>
+            <ArticleId IdType="pubmed">17904652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Plotkin JL, Goldberg JA (2018) Thinking outside the box (and arrow): current themes in striatal dysfunction in movement disorders. Neuroscientist. Advance online publication. Retrieved October 18, 2018. doi: 10.1177/1073858418807887</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6529282</ArticleId>
+            <ArticleId IdType="pubmed">30379121</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Pnevmatikakis EA, Soudry D, Gao Y, Machado TA, Merel J, Pfau D, Reardon T, Mu Y, Lacefield C, Yang W, Ahrens M, Bruno R, Jessell TM, Peterka DS, Yuste R, Paninski L (2016) Simultaneous denoising, deconvolution, and demixing of calcium imaging data. Neuron
+89:285–299. 10.1016/j.neuron.2015.11.037
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2015.11.037</ArticleId>
+            <ArticleId IdType="pmc">PMC4881387</ArticleId>
+            <ArticleId IdType="pubmed">26774160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Ravel S, Legallet E, Apicella P (2003) Responses of tonically active neurons in the monkey striatum discriminate between motivationally opposing stimuli. J Neurosci
+23:8489–8497. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6740365</ArticleId>
+            <ArticleId IdType="pubmed">13679417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Raz A, Feingold A, Zelanskaya V, Vaadia E, Bergman H (1996) Neuronal synchronization of tonically active neurons in the striatum of normal and parkinsonian primates. J Neurophysiol
+76:2083–2088. 10.1152/jn.1996.76.3.2083
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.1996.76.3.2083</ArticleId>
+            <ArticleId IdType="pubmed">8890317</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Stamatakis AM, Schachter MJ, Gulati S, Zitelli KT, Malanowski S, Tajik A, Fritz C, Trulson M, Otte SL (2018) Simultaneous optogenetics and cellular resolution calcium imaging during active behavior using a miniaturized microscope. Front Neurosci
+12:496. 10.3389/fnins.2018.00496
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnins.2018.00496</ArticleId>
+            <ArticleId IdType="pmc">PMC6066578</ArticleId>
+            <ArticleId IdType="pubmed">30087590</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Surmeier DJ, Mercer JN, Chan CS (2005) Autonomous pacemakers in the basal ganglia: who needs excitatory synapses anyway?.
+Curr Opin Neurobiol
+15:312–318. 10.1016/j.conb.2005.05.007</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.conb.2005.05.007</ArticleId>
+            <ArticleId IdType="pubmed">15916893</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Tanimura A, Lim SA, Aceves Buendia JJ, Goldberg JA, Surmeier DJ (2016) Cholinergic interneurons amplify corticostriatal synaptic responses in the Q175 model of huntington's disease. Front Syst Neurosci
+10:102. 10.3389/fnsys.2016.00102
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnsys.2016.00102</ArticleId>
+            <ArticleId IdType="pmc">PMC5159611</ArticleId>
+            <ArticleId IdType="pubmed">28018188</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Teagarden M, Atherton JF, Bevan MD, Wilson CJ (2008) Accumulation of cytoplasmic calcium, but not apamin-sensitive afterhyperpolarization current, during high frequency firing in rat subthalamic nucleus cells. J Physiol
+586:817–833. 10.1113/jphysiol.2007.141929</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2007.141929</ArticleId>
+            <ArticleId IdType="pmc">PMC2375605</ArticleId>
+            <ArticleId IdType="pubmed">18063664</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Threlfell S, Lalic T, Platt NJ, Jennings KA, Deisseroth K, Cragg SJ (2012) Striatal dopamine release is triggered by synchronized activity in cholinergic interneurons. Neuron
+75:58–64. 10.1016/j.neuron.2012.04.038
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2012.04.038</ArticleId>
+            <ArticleId IdType="pubmed">22794260</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wilson CJ (2004) Basal ganglia In: The synaptic organization of the brain, Ed 2 (
+Shepherd GM, ed), pp 361–413. New York: Oxford UP. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Wilson CJ, Chang HT, Kitai ST (1990) Firing patterns and synaptic potentials of identified giant aspiny interneurons in the rat neostriatum. J Neurosci
+10:508–519. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6570144</ArticleId>
+            <ArticleId IdType="pubmed">2303856</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zhou P, Resendez SL, Rodriguez-Romaguera J, Jimenez JC, Neufeld SQ, Giovannucci A, Friedrich J, Pnevmatikakis EA, Stuber GD, Hen R, Kheirbek MA, Sabatini BL, Kass RE, Paninski L (2018) Efficient and accurate extraction of in vivo calcium signals from microendoscopic video data. eLife
+7:e28728. 10.7554/elife.28728
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/elife.28728</ArticleId>
+            <ArticleId IdType="pmc">PMC5871355</ArticleId>
+            <ArticleId IdType="pubmed">29469809</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

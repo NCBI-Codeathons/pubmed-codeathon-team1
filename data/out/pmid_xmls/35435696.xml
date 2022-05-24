@@ -1,0 +1,207 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35435696</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>09</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1543-8392</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>19</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>02</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Molecular pharmaceutics</Title>
+          <ISOAbbreviation>Mol Pharm</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Kinetic Modeling of API Oxidation: (2) Imipramine Stress Testing.</ArticleTitle>
+        <Pagination>
+          <StartPage>1526</StartPage>
+          <EndPage>1539</EndPage>
+          <MedlinePgn>1526-1539</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.molpharmaceut.2c00043</ELocationID>
+        <Abstract>
+          <AbstractText>Gauging the chemical stability of active pharmaceutical ingredients (APIs) is critical at various stages of pharmaceutical development to identify potential risks from drug degradation and ensure the quality and safety of the drug product. Stress testing has been the major experimental method to study API stability, but this analytical approach is time-consuming, resource-intensive, and limited by API availability, especially during the early stages of drug development. Novel computational chemistry methods may assist in screening for API chemical stability prior to synthesis and augment contemporary API stress testing studies, with the potential to significantly accelerate drug development and reduce costs. In this work, we leverage quantum chemical calculations and automated reaction mechanism generation to provide new insights into API degradation studies. In the continuation of part one in this series of studies [Grinberg Dana et al., <i>Mol. Pharm.</i> 2021 18 (8), 3037-3049], we have generated the first <i>ab initio</i> predictive chemical kinetic model of free-radical oxidative degradation for API stress testing. We focused on imipramine oxidation in an azobis(isobutyronitrile) (AIBN)/H<sub>2</sub>O/CH<sub>3</sub>OH solution and compared the model's predictions with concurrent experimental observations. We analytically determined iminodibenzyl and desimipramine as imipramine's two major degradation products under industry-standard AIBN stress testing conditions, and our <i>ab initio</i> kinetic model successfully identified both of them in its prediction for the top three degradation products. This work shows the potential and utility of predictive chemical kinetic modeling and quantum chemical computations to elucidate API chemical stability issues. Further, we envision an automated digital workflow that integrates first-principle models with data-driven methods that, when actively and iteratively combined with high-throughput experiments, can substantially accelerate and transform future API chemical stability studies.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Haoyang</ForeName>
+            <Initials>H</Initials>
+            <Identifier Source="ORCID">0000-0002-0644-7554</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Grinberg Dana</LastName>
+            <ForeName>Alon</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, United States.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Wolfson Department of Chemical Engineering, Technion - Israel Institute of Technology, Haifa 3200003, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ranasinghe</LastName>
+            <ForeName>Duminda S</ForeName>
+            <Initials>DS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pickard</LastName>
+            <ForeName>Frank C</ForeName>
+            <Initials>FC</Initials>
+            <Suffix>4th</Suffix>
+            <AffiliationInfo>
+              <Affiliation>Pfizer Global Research and Development, Groton Laboratories, Eastern Point Road, Groton, Connecticut 06340, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wood</LastName>
+            <ForeName>Geoffrey P F</ForeName>
+            <Initials>GPF</Initials>
+            <Identifier Source="ORCID">0000-0003-1248-0542</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Pfizer Global Research and Development, Groton Laboratories, Eastern Point Road, Groton, Connecticut 06340, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zelesky</LastName>
+            <ForeName>Todd</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pfizer Global Research and Development, Groton Laboratories, Eastern Point Road, Groton, Connecticut 06340, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sluggett</LastName>
+            <ForeName>Gregory W</ForeName>
+            <Initials>GW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pfizer Global Research and Development, Groton Laboratories, Eastern Point Road, Groton, Connecticut 06340, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mustakis</LastName>
+            <ForeName>Jason</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0002-8683-0691</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Pfizer Global Research and Development, Groton Laboratories, Eastern Point Road, Groton, Connecticut 06340, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Green</LastName>
+            <ForeName>William H</ForeName>
+            <Initials>WH</Initials>
+            <Identifier Source="ORCID">0000-0003-2603-9694</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>04</Month>
+          <Day>18</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Mol Pharm</MedlineTA>
+        <NlmUniqueID>101197791</NlmUniqueID>
+        <ISSNLinking>1543-8384</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D005609">Free Radicals</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>OGG85SX4E4</RegistryNumber>
+          <NameOfSubstance UI="D007099">Imipramine</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D004355" MajorTopicYN="N">Drug Stability</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005609" MajorTopicYN="N">Free Radicals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007099" MajorTopicYN="Y">Imipramine</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008956" MajorTopicYN="Y">Models, Chemical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010084" MajorTopicYN="N">Oxidation-Reduction</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">AIBN-initiated autoxidation</Keyword>
+        <Keyword MajorTopicYN="Y">ab initio kinetic modeling</Keyword>
+        <Keyword MajorTopicYN="Y">chemical stability</Keyword>
+        <Keyword MajorTopicYN="Y">imipramine</Keyword>
+        <Keyword MajorTopicYN="Y">pharmaceutical stress testing</Keyword>
+        <Keyword MajorTopicYN="Y">predictive drug degradation</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>18</Day>
+          <Hour>12</Hour>
+          <Minute>11</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35435696</ArticleId>
+        <ArticleId IdType="doi">10.1021/acs.molpharmaceut.2c00043</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

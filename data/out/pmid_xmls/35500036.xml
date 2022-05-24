@@ -1,0 +1,642 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35500036</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>19</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">1935-2735</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>16</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>PLoS neglected tropical diseases</Title>
+          <ISOAbbreviation>PLoS Negl Trop Dis</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A comprehensive analysis of the circRNA-miRNA-mRNA network in osteocyte-like cell associated with Mycobacterium leprae infection.</ArticleTitle>
+        <Pagination>
+          <StartPage>e0010379</StartPage>
+          <MedlinePgn>e0010379</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">e0010379</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pntd.0010379</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND">Bone formation and loss are the characteristic clinical manifestations of leprosy, but the mechanisms underlying the bone remodeling with Mycobacterium leprae (M. leprae) infection are unclear.</AbstractText>
+          <AbstractText Label="METHODOLOGY/PRINCIPAL FINDINGS">Osteocytes may have a role through regulating the differentiation of osteogenic lineages. To investigate osteocyte-related mechanisms in leprosy, we treated osteocyte-like cell with N-glycosylated muramyl dipeptide (N.g MDP). RNA-seq analysis showed 724 differentially expressed messenger RNAs (mRNAs) and 724 differentially expressed circular RNA (circRNAs). Of these, we filtered through eight osteogenic-related differentially expressed genes, according to the characteristic of competing endogenous RNA, PubMed databases, and bioinformatic analysis, including TargetScan, Gene Ontology, and Kyoto Encyclopedia of Genes and Genomes. Based on these results, we built a circRNA-microRNA (miRNA)-mRNA triple network. Quantitative reverse-transcription polymerase chain reaction and western blots analyses confirmed decreased Clock expression in osteocyte-like cell, while increased in bone mesenchymal stem cells (BMSCs), implicating a crucial factor in osteogenic differentiation. Immunohistochemistry showed obviously increased expression of CLOCK protein in BMSCs and osteoblasts in N.g MDP-treated mice, but decreased expression in osteocytes.</AbstractText>
+          <AbstractText Label="CONCLUSIONS/SIGNIFICANCE">This analytical method provided a basis for the relationship between N.g MDP and remodeling in osteocytes, and the circRNA-miRNA-mRNA triple network may offer a new target for leprosy therapeutics.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Gao</LastName>
+            <ForeName>Zheng-Rong</ForeName>
+            <Initials>ZR</Initials>
+            <Identifier Source="ORCID">0000-0003-1453-1921</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Stomatology, The Second Xiangya Hospital, Central South University, Changsha, Hunan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Qiong</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Stomatology, The Second Xiangya Hospital, Central South University, Changsha, Hunan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Jie</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Stomatology, The Second Xiangya Hospital, Central South University, Changsha, Hunan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Ya-Qiong</ForeName>
+            <Initials>YQ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Stomatology, The Second Xiangya Hospital, Central South University, Changsha, Hunan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tan</LastName>
+            <ForeName>Li</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Stomatology, The Second Xiangya Hospital, Central South University, Changsha, Hunan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Shao-Hui</ForeName>
+            <Initials>SH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Stomatology, The Second Xiangya Hospital, Central South University, Changsha, Hunan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Ying-Hui</ForeName>
+            <Initials>YH</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Clinical Research Center for Metabolic Diseases, Hunan Provincial Key Laboratory of Metabolic Bone Diseases, and Department of Metabolism and Endocrinology, The Second Xiangya Hospital of Central South University, Changsha, Hunan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Yun</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Stomatology, The Second Xiangya Hospital, Central South University, Changsha, Hunan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Guo</LastName>
+            <ForeName>Yue</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Stomatology, The Second Xiangya Hospital, Central South University, Changsha, Hunan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Feng</LastName>
+            <ForeName>Yun-Zhi</ForeName>
+            <Initials>YZ</Initials>
+            <Identifier Source="ORCID">0000-0002-2498-6455</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Stomatology, The Second Xiangya Hospital, Central South University, Changsha, Hunan, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>02</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>PLoS Negl Trop Dis</MedlineTA>
+        <NlmUniqueID>101291488</NlmUniqueID>
+        <ISSNLinking>1935-2727</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000079962">RNA, Circular</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D053263" MajorTopicYN="N">Gene Regulatory Networks</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007918" MajorTopicYN="Y">Leprosy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D035683" MajorTopicYN="Y">MicroRNAs</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009166" MajorTopicYN="N">Mycobacterium leprae</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010011" MajorTopicYN="N">Osteocytes</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010012" MajorTopicYN="N">Osteogenesis</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000079962" MajorTopicYN="N">RNA, Circular</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>31</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>2</Day>
+          <Hour>13</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35500036</ArticleId>
+        <ArticleId IdType="pmc">PMC9098081</ArticleId>
+        <ArticleId IdType="doi">10.1371/journal.pntd.0010379</ArticleId>
+        <ArticleId IdType="pii">PNTD-D-21-01278</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Pandey A, Galvani A. Quantifying risk factors to guide progress towards leprosy elimination. The Lancet Global health. 2019;7(9):e1154–e5. Epub 19 July 2019. doi: 10.1016/S2214-109X(19)30330-4 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S2214-109X(19)30330-4</ArticleId>
+            <ArticleId IdType="pubmed">31331812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang G, Jin H, Chen H, Lu Q. Cutaneous nodules with positive autoantibodies: histoid leprosy. Lancet (London, England). 2015;386(10006):1915–6. doi: 10.1016/S0140-6736(15)00678-9 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0140-6736(15)00678-9</ArticleId>
+            <ArticleId IdType="pubmed">26843313</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith C, Noordeen S, Richardus J, Sansarricq H, Cole S, Soares R, et al.. A strategy to halt leprosy transmission. The Lancet Infectious diseases. 2014;14(2):96–8. doi: 10.1016/S1473-3099(13)70365-7 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1473-3099(13)70365-7</ArticleId>
+            <ArticleId IdType="pubmed">24457165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Netea M, Kullberg B, van der Meer J. Genomewide association study of leprosy. The New England journal of medicine. 2010;362(15):1447; author reply -8. .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20397292</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo Y, Tian L, Zhang F, Bu Y, Feng Y, Zhou H. Dental caries and risk indicators for patients with leprosy in China. Int Dent J. 2017;67(1):59–64. doi: 10.1111/idj.12257 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/idj.12257</ArticleId>
+            <ArticleId IdType="pmc">PMC5324593</ArticleId>
+            <ArticleId IdType="pubmed">27681303</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feng Y, Guo Y, Tian L, Wei Z, Zhang L, Yang Y, et al.. Dental health and treatment needs in people with leprosy in China. Lepr Rev. 2014;85(4):311–21. Epub 2015/02/14. .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25675655</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mohammad W, Malhotra S, Garg P. Clinico-radiological Correlation of Bone Changes in Leprosy Patients Presenting with Disabilities/Deformities. Indian journal of leprosy. 2016;88(2):83–95. .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29757540</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Silva S, Illarramendi X, Tempone A, Silva P, Nery J, Monteiro A, et al.. Downregulation of PHEX in multibacillary leprosy patients: observational cross-sectional study. J Transl Med. 2015;13:296. doi: 10.1186/s12967-015-0651-5 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12967-015-0651-5</ArticleId>
+            <ArticleId IdType="pmc">PMC4566286</ArticleId>
+            <ArticleId IdType="pubmed">26362198</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Silva S, Tempone A, Silva T, Costa M, Pereira G, Lara F, et al.. Mycobacterium leprae downregulates the expression of PHEX in Schwann cells and osteoblasts. Mem Inst Oswaldo Cruz. 2010;105(5):627–32. doi: 10.1590/s0074-02762010000500005 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1590/s0074-02762010000500005</ArticleId>
+            <ArticleId IdType="pubmed">20835608</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>González-Reimers E, Trujillo-Mederos A, Machado-Calvo M, Castañeyra-Ruiz M, Ordóñez AC, Arnay-de-la-Rosa M. A skeletal case of hypertrophic osteoarthropathy from the Canary Islands dating from 1000 BP. Int J Paleopathol. 2015;11:1–6. Epub 2015/12/01. doi: 10.1016/j.ijpp.2015.07.001 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ijpp.2015.07.001</ArticleId>
+            <ArticleId IdType="pubmed">28802962</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Misch E, Macdonald M, Ranjit C, Sapkota B, Wells R, Siddiqui M, et al.. Human TLR1 deficiency is associated with impaired mycobacterial signaling and protection from leprosy reversal reaction. PLoS Negl Trop Dis. 2008;2(5):e231. doi: 10.1371/journal.pntd.0000231 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pntd.0000231</ArticleId>
+            <ArticleId IdType="pmc">PMC2330092</ArticleId>
+            <ArticleId IdType="pubmed">18461142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bochud P, Sinsimer D, Aderem A, Siddiqui M, Saunderson P, Britton S, et al.. Polymorphisms in Toll-like receptor 4 (TLR4) are associated with protection against leprosy. European journal of clinical microbiology &amp; infectious diseases: official publication of the European Society of Clinical Microbiology. 2009;28(9):1055–65. doi: 10.1007/s10096-009-0746-0 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10096-009-0746-0</ArticleId>
+            <ArticleId IdType="pmc">PMC3016895</ArticleId>
+            <ArticleId IdType="pubmed">19430824</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoffman V, Korzeniowski O. Leprosy, hypercalcemia, and elevated serum calcitriol levels. Ann Intern Med. 1986;105(6):890–1. doi: 10.7326/0003-4819-105-6-890 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7326/0003-4819-105-6-890</ArticleId>
+            <ArticleId IdType="pubmed">3777714</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Simone C, Racanelli A. Osteosclerosis in leprosy. Italian journal of orthopaedics and traumatology. 1982;8(2):211–9. .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7152894</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carpintero P, García-Frasquet A, Tarradas E, Logroño C, Carrascal A, Carreto A. Bone island and leprosy. Skeletal Radiol. 1998;27(6):330–33. doi: 10.1007/s002560050391
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s002560050391</ArticleId>
+            <ArticleId IdType="pubmed">9677650</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Behr MA, Divangahi M. Freund’s adjuvant, NOD2 and mycobacteria. Curr Opin Microbiol. 2015;23:126–32. Epub 2014/12/09. doi: 10.1016/j.mib.2014.11.015 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.mib.2014.11.015</ArticleId>
+            <ArticleId IdType="pubmed">25483349</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>B C-P CY S, MI G. Mycobacterium leprae’s evolution and environmental adaptation. Acta Trop. 2019;197:105041. doi: 10.1016/j.actatropica.2019.105041 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.actatropica.2019.105041</ArticleId>
+            <ArticleId IdType="pubmed">31152726</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>F C M D, F V, L dL, JL G, Y Y, et al.. Increased NOD2-mediated recognition of N-glycolyl muramyl dipeptide. The Journal of experimental medicine. 2009;206(8):1709–16. doi: 10.1084/jem.20081779 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1084/jem.20081779</ArticleId>
+            <ArticleId IdType="pmc">PMC2722178</ArticleId>
+            <ArticleId IdType="pubmed">19581406</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hayashi M, Nakashima T, Yoshimura N, Okamoto K, Tanaka S, Takayanagi H. Autoregulation of Osteocyte Sema3A Orchestrates Estrogen Action and Counteracts Bone Aging. Cell Metab. 2019;29(3):627–37.e5. doi: 10.1016/j.cmet.2018.12.021 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cmet.2018.12.021</ArticleId>
+            <ArticleId IdType="pubmed">30661929</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heiland G, Zwerina K, Baum W, Kireva T, Distler J, Grisanti M, et al.. Neutralisation of Dkk-1 protects from systemic bone loss during inflammation and reduces sclerostin expression. Ann Rheum Dis. 2010;69(12):2152–9. doi: 10.1136/ard.2010.132852 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/ard.2010.132852</ArticleId>
+            <ArticleId IdType="pubmed">20858621</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Plotkin LI, Bellido T. Osteocytic signalling pathways as therapeutic targets for bone fragility. Nature reviews Endocrinology. 2016;12(10):593–605. Epub 2016/05/28. doi: 10.1038/nrendo.2016.71 ; PubMed Central PMCID: PMC6124897.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrendo.2016.71</ArticleId>
+            <ArticleId IdType="pmc">PMC6124897</ArticleId>
+            <ArticleId IdType="pubmed">27230951</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dussold C, Gerber C, White S, Wang X, Qi L, Francis C, et al.. DMP1 prevents osteocyte alterations, FGF23 elevation and left ventricular hypertrophy in mice with chronic kidney disease. Bone Res. 2019;7:12. doi: 10.1038/s41413-019-0051-1 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41413-019-0051-1</ArticleId>
+            <ArticleId IdType="pmc">PMC6483996</ArticleId>
+            <ArticleId IdType="pubmed">31044094</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li J, Guo Y, Chen Y, Liu Q, Chen Y, Tan L, et al.. miR-124-3p increases in high glucose induced osteocyte-derived exosomes and regulates galectin-3 expression: A possible mechanism in bone remodeling alteration in diabetic periodontitis. FASEB journal: official publication of the Federation of American Societies for Experimental Biology. 2020;34(11):14234–49. doi: 10.1096/fj.202000970RR .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1096/fj.202000970RR</ArticleId>
+            <ArticleId IdType="pubmed">32833280</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo Y, Tang C, Man X, Tang H, Tang J, Wang F, et al.. Insulin receptor substrate-1 time-dependently regulates bone formation by controlling collagen Iα2 expression via miR-342. FASEB journal: official publication of the Federation of American Societies for Experimental Biology. 2016;30(12):4214–26. doi: 10.1096/fj.201600445RR .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1096/fj.201600445RR</ArticleId>
+            <ArticleId IdType="pmc">PMC5102111</ArticleId>
+            <ArticleId IdType="pubmed">27623927</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang F, Zhang R, Zhang X, Wu Y, Li X, Zhang S, et al.. Comprehensive analysis of circRNA expression pattern and circRNA-miRNA-mRNA network in the pathogenesis of atherosclerosis in rabbits. Aging. 2018;10(9):2266–83. doi: 10.18632/aging.101541 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/aging.101541</ArticleId>
+            <ArticleId IdType="pmc">PMC6188486</ArticleId>
+            <ArticleId IdType="pubmed">30187887</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gebert L, MacRae I. Regulation of microRNA function in animals. Nature reviews Molecular cell biology. 2019;20(1):21–37. doi: 10.1038/s41580-018-0045-7 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41580-018-0045-7</ArticleId>
+            <ArticleId IdType="pmc">PMC6546304</ArticleId>
+            <ArticleId IdType="pubmed">30108335</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jorge K, Souza R, Assis M, Araújo M, Locati M, Jesus A, et al.. Characterization of MicroRNA Expression Profiles and Identification of Potential Biomarkers in Leprosy. J Clin Microbiol. 2017;55(5):1516–25. doi: 10.1128/JCM.02408-16 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.02408-16</ArticleId>
+            <ArticleId IdType="pmc">PMC5405269</ArticleId>
+            <ArticleId IdType="pubmed">28275081</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu P, Wheelwright M, Teles R, Komisopoulou E, Edfeldt K, Ferguson B, et al.. MicroRNA-21 targets the vitamin D-dependent antimicrobial pathway in leprosy. Nat Med. 2012;18(2):267–73. doi: 10.1038/nm.2584 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nm.2584</ArticleId>
+            <ArticleId IdType="pmc">PMC3274599</ArticleId>
+            <ArticleId IdType="pubmed">22286305</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen L.
+The biogenesis and emerging roles of circular RNAs. Nature reviews Molecular cell biology. 2016;17(4):205–11. doi: 10.1038/nrm.2015.32 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrm.2015.32</ArticleId>
+            <ArticleId IdType="pubmed">26908011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kristensen L, Andersen M, Stagsted L, Ebbesen K, Hansen T, Kjems J. The biogenesis, biology and characterization of circular RNAs. Nature reviews Genetics. 2019;20(11):675–91. doi: 10.1038/s41576-019-0158-7 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41576-019-0158-7</ArticleId>
+            <ArticleId IdType="pubmed">31395983</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen L.
+The expanding regulatory mechanisms and cellular functions of circular RNAs. Nature reviews Molecular cell biology. 2020;21(8):475–90. doi: 10.1038/s41580-020-0243-y .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41580-020-0243-y</ArticleId>
+            <ArticleId IdType="pubmed">32366901</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiao J, Duan C, Zheng J, Li D, Li C, Wang Z, et al.. Development of a two-in-one integrated assay for the analysis of circRNA-microRNA interactions. Biosens Bioelectron. 2021;178:113032. doi: 10.1016/j.bios.2021.113032 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bios.2021.113032</ArticleId>
+            <ArticleId IdType="pubmed">33513534</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ouyang Z, Tan T, Zhang X, Wan J, Zhou Y, Jiang G, et al.. CircRNA hsa_circ_0074834 promotes the osteogenesis-angiogenesis coupling process in bone mesenchymal stem cells (BMSCs) by acting as a ceRNA for miR-942-5p. Cell Death Dis. 2019;10(12):932. doi: 10.1038/s41419-019-2161-5 ; PubMed Central PMCID: PMC6895238.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41419-019-2161-5</ArticleId>
+            <ArticleId IdType="pmc">PMC6895238</ArticleId>
+            <ArticleId IdType="pubmed">31804461</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tikhonova A, Dolgalev I, Hu H, Sivaraj K, Hoxha E, Cuesta-Domínguez Á, et al.. The bone marrow microenvironment at single-cell resolution. Nature. 2019;569(7755):222–8. doi: 10.1038/s41586-019-1104-8 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-019-1104-8</ArticleId>
+            <ArticleId IdType="pmc">PMC6607432</ArticleId>
+            <ArticleId IdType="pubmed">30971824</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stark R, Grzelak M, Hadfield J. RNA sequencing: the teenage years. Nature reviews Genetics. 2019;20(11):631–56. doi: 10.1038/s41576-019-0150-2 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41576-019-0150-2</ArticleId>
+            <ArticleId IdType="pubmed">31341269</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu R, Yallowitz A, Qin A, Wu Z, Shin D, Kim J, et al.. Targeting skeletal endothelium to ameliorate bone loss. Nat Med. 2018;24(6):823–33. doi: 10.1038/s41591-018-0020-z .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41591-018-0020-z</ArticleId>
+            <ArticleId IdType="pmc">PMC5992080</ArticleId>
+            <ArticleId IdType="pubmed">29785024</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang F, Huang W, Chen S, Sun L, Liu H, Li Y, et al.. Genomewide association study of leprosy. The New England journal of medicine. 2009;361(27):2609–18. doi: 10.1056/NEJMoa0903753 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa0903753</ArticleId>
+            <ArticleId IdType="pubmed">20018961</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chavarro-Portillo B, Soto C, Guerrero M. Mycobacterium leprae’s evolution and environmental adaptation. Acta Trop. 2019;197:105041. doi: 10.1016/j.actatropica.2019.105041 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.actatropica.2019.105041</ArticleId>
+            <ArticleId IdType="pubmed">31152726</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen X, Ouyang Z, Shen Y, Liu B, Zhang Q, Wan L, et al.. CircRNA_28313/miR-195a/CSF1 axis modulates osteoclast differentiation to affect OVX-induced bone absorption in mice. RNA Biol. 2019;16(9):1249–62. doi: 10.1080/15476286.2019.1624470 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/15476286.2019.1624470</ArticleId>
+            <ArticleId IdType="pmc">PMC6693548</ArticleId>
+            <ArticleId IdType="pubmed">31204558</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shen W, Sun B, Zhou C, Ming W, Zhang S, Wu X. CircFOXP1/FOXP1 promotes osteogenic differentiation in adipose-derived mesenchymal stem cells and bone regeneration in osteoporosis via miR-33a-5p. J Cell Mol Med. 2020;24(21):12513–24. doi: 10.1111/jcmm.15792 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/jcmm.15792</ArticleId>
+            <ArticleId IdType="pmc">PMC7687013</ArticleId>
+            <ArticleId IdType="pubmed">32996692</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang C, Liu H, Yang M, Bai Y, Ren H, Zou Y, et al.. RNA-Seq Based Transcriptome Analysis of Endothelial Differentiation of Bone Marrow Mesenchymal Stem Cells. European journal of vascular and endovascular surgery: the official journal of the European Society for Vascular Surgery. 2020;59(5):834–42. doi: 10.1016/j.ejvs.2019.11.003 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejvs.2019.11.003</ArticleId>
+            <ArticleId IdType="pubmed">31874808</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peek C, Ramsey K, Marcheva B, Bass J. Nutrient sensing and the circadian clock. Trends in endocrinology and metabolism: TEM. 2012;23(7):312–8. doi: 10.1016/j.tem.2012.02.003 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tem.2012.02.003</ArticleId>
+            <ArticleId IdType="pmc">PMC3389335</ArticleId>
+            <ArticleId IdType="pubmed">22424658</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bass J, Takahashi J. Circadian integration of metabolism and energetics. Science (New York, NY). 2010;330(6009):1349–54. doi: 10.1126/science.1195027 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1195027</ArticleId>
+            <ArticleId IdType="pmc">PMC3756146</ArticleId>
+            <ArticleId IdType="pubmed">21127246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fu L, Patel M, Bradley A, Wagner E, Karsenty G. The molecular clock mediates leptin-regulated bone formation. Cell. 2005;122(5):803–15. doi: 10.1016/j.cell.2005.06.028 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2005.06.028</ArticleId>
+            <ArticleId IdType="pubmed">16143109</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Samsa WE, Vasanji A, Midura RJ, Kondratov RV. Deficiency of circadian clock protein BMAL1 in mice results in a low bone mass phenotype. Bone. 2016;84:194–203. Epub 2016/01/21. doi: 10.1016/j.bone.2016.01.006 ; PubMed Central PMCID: PMC4755907.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bone.2016.01.006</ArticleId>
+            <ArticleId IdType="pmc">PMC4755907</ArticleId>
+            <ArticleId IdType="pubmed">26789548</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yuan G, Hua B, Yang Y, Xu L, Cai T, Sun N, et al.. The Circadian Gene Clock Regulates Bone Formation Via PDIA3. Journal of bone and mineral research: the official journal of the American Society for Bone and Mineral Research. 2017;32(4):861–71. doi: 10.1002/jbmr.3046 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jbmr.3046</ArticleId>
+            <ArticleId IdType="pubmed">27883226</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhuo H, Wang Y, Zhao Q. The Interaction between Bmal1 and Per2 in Mouse BMSC Osteogenic Differentiation. Stem Cells Int. 2018;2018:3407821. doi: 10.1155/2018/3407821 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2018/3407821</ArticleId>
+            <ArticleId IdType="pmc">PMC5896276</ArticleId>
+            <ArticleId IdType="pubmed">29765408</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bouchard AL, Dsouza C, Julien C, Rummler M, Gaumond MH, Cermakian N, et al.. Bone adaptation to mechanical loading in mice is affected by circadian rhythms. Bone. 2022;154:116218. Epub 2021/09/28. doi: 10.1016/j.bone.2021.116218 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bone.2021.116218</ArticleId>
+            <ArticleId IdType="pubmed">34571201</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen G, Tang Q, Yu S, Xie Y, Sun J, Li S, et al.. The biological function of BMAL1 in skeleton development and disorders. Life Sci. 2020;253:117636. doi: 10.1016/j.lfs.2020.117636 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.lfs.2020.117636</ArticleId>
+            <ArticleId IdType="pubmed">32251631</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sullivan J, Belloir JJD, immunology c. Activation of an innate immune response in the schistosome-transmitting snail Biomphalaria glabrata by specific bacterial PAMPs. 2014;42(2):256–60. doi: 10.1016/j.dci.2013.09.016 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.dci.2013.09.016</ArticleId>
+            <ArticleId IdType="pmc">PMC3855869</ArticleId>
+            <ArticleId IdType="pubmed">24113288</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Park O, Kim J, Yang J, Yun C, Han S. Muramyl Dipeptide, a Shared Structural Motif of Peptidoglycans, Is a Novel Inducer of Bone Formation through Induction of Runx2. Journal of bone and mineral research: the official journal of the American Society for Bone and Mineral Research. 2017;32(7):1455–68. doi: 10.1002/jbmr.3137 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jbmr.3137</ArticleId>
+            <ArticleId IdType="pubmed">28337794</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hassan M, Gordon J, Beloti M, Croce C, van Wijnen A, Stein J, et al.. A network connecting Runx2, SATB2, and the miR-23a~27a~24–2 cluster regulates the osteoblast differentiation program. Proc Natl Acad Sci U S A. 2010;107(46):19879–84. doi: 10.1073/pnas.1007698107 .</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1007698107</ArticleId>
+            <ArticleId IdType="pmc">PMC2993380</ArticleId>
+            <ArticleId IdType="pubmed">20980664</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo Y, Tang CY, Man XF, Tang HN, Tang J, Wang F, et al.. Insulin receptor substrate-1 time-dependently regulates bone formation by controlling collagen Iα2 expression via miR-342. FASEB J. 2016;30(12):4214–26. Epub 2016/09/15. doi: 10.1096/fj.201600445RR ; PubMed Central PMCID: PMC5102111.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1096/fj.201600445RR</ArticleId>
+            <ArticleId IdType="pmc">PMC5102111</ArticleId>
+            <ArticleId IdType="pubmed">27623927</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

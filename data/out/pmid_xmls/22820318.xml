@@ -1,0 +1,507 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">22820318</PMID>
+      <DateCompleted>
+        <Year>2013</Year>
+        <Month>02</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>30</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1546-1696</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>30</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2012</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nature biotechnology</Title>
+          <ISOAbbreviation>Nat Biotechnol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Full-length mRNA-Seq from single-cell levels of RNA and individual circulating tumor cells.</ArticleTitle>
+        <Pagination>
+          <StartPage>777</StartPage>
+          <EndPage>782</EndPage>
+          <MedlinePgn>777-82</MedlinePgn>
+        </Pagination>
+        <Abstract>
+          <AbstractText>Genome-wide transcriptome analyses are routinely used to monitor tissue-, disease- and cell type–specific gene expression, but it has been technically challenging to generate expression profiles from single cells. Here we describe a robust mRNA-Seq protocol (Smart-Seq) that is applicable down to single cell levels. Compared with existing methods, Smart-Seq has improved read coverage across transcripts, which enhances detailed analyses of alternative transcript isoforms and identification of single-nucleotide polymorphisms. We determined the sensitivity and quantitative accuracy of Smart-Seq for single-cell transcriptomics by evaluating it on total RNA dilution series. We found that although gene expression estimates from single cells have increased noise, hundreds of differentially expressed genes could be identified using few cells per cell type. Applying Smart-Seq to circulating tumor cells from melanomas, we identified distinct gene expression patterns, including candidate biomarkers for melanoma circulating tumor cells. Our protocol will be useful for addressing fundamental biological problems requiring genome-wide transcriptome profiling in rare cells.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ramsköld</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Ludwig Institute for Cancer Research, Stockholm, Sweden.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Luo</LastName>
+            <ForeName>Shujun</ForeName>
+            <Initials>S</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Yu-Chieh</ForeName>
+            <Initials>YC</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Robin</ForeName>
+            <Initials>R</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Deng</LastName>
+            <ForeName>Qiaolin</ForeName>
+            <Initials>Q</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Faridani</LastName>
+            <ForeName>Omid R</ForeName>
+            <Initials>OR</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Daniels</LastName>
+            <ForeName>Gregory A</ForeName>
+            <Initials>GA</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Khrebtukova</LastName>
+            <ForeName>Irina</ForeName>
+            <Initials>I</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Loring</LastName>
+            <ForeName>Jeanne F</ForeName>
+            <Initials>JF</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Laurent</LastName>
+            <ForeName>Louise C</ForeName>
+            <Initials>LC</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schroth</LastName>
+            <ForeName>Gary P</ForeName>
+            <Initials>GP</Initials>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sandberg</LastName>
+            <ForeName>Rickard</ForeName>
+            <Initials>R</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>GEO</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>GSE38495</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>243066</GrantID>
+            <Acronym>ERC_</Acronym>
+            <Agency>European Research Council</Agency>
+            <Country>International</Country>
+          </Grant>
+          <Grant>
+            <GrantID>K12HD001259</GrantID>
+            <Acronym>HD</Acronym>
+            <Agency>NICHD NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R33 MH087925</GrantID>
+            <Acronym>MH</Acronym>
+            <Agency>NIMH NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>K12 HD001259</GrantID>
+            <Acronym>HD</Acronym>
+            <Agency>NICHD NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R33MH87925</GrantID>
+            <Acronym>MH</Acronym>
+            <Agency>NIMH NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Nat Biotechnol</MedlineTA>
+        <NlmUniqueID>9604648</NlmUniqueID>
+        <ISSNLinking>1087-0156</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Nat Biotechnol. 2012 Aug;30(8):763-5</RefSource>
+          <PMID Version="1">22871714</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="ErratumIn">
+          <RefSource>Nat Biotechnol. 2020 Mar;38(3):374</RefSource>
+          <PMID Version="1">32015550</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016000" MajorTopicYN="N">Cluster Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015723" MajorTopicYN="N">Gene Library</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008545" MajorTopicYN="N">Melanoma</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009360" MajorTopicYN="N">Neoplastic Cells, Circulating</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020411" MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017423" MajorTopicYN="N">Sequence Analysis, RNA</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The reported sequence read data have been deposited in Gene Expression Omnibus at NCBI (GSE38495). S.L., R.L., I.K., and G.P.S. are employees and shareholders of Illumina Inc, but the remaining authors have no competing financial interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2011</Year>
+          <Month>11</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2012</Year>
+          <Month>5</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2012</Year>
+          <Month>7</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2012</Year>
+          <Month>7</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2013</Year>
+          <Month>2</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">22820318</ArticleId>
+        <ArticleId IdType="mid">NIHMS379463</ArticleId>
+        <ArticleId IdType="pmc">PMC3467340</ArticleId>
+        <ArticleId IdType="doi">10.1038/nbt.2282</ArticleId>
+        <ArticleId IdType="pii">nbt.2282</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Mortazavi A, Williams B, McCue K, Schaeffer L, Wold B. Mapping and quantifying mammalian transcriptomes by RNA-Seq. Nat Methods. 2008 doi: 10.1038/nmeth.1226.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.1226</ArticleId>
+            <ArticleId IdType="pubmed">18516045</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guttman M, et al.  Ab initio reconstruction of cell type-specific transcriptomes in mouse reveals the conserved multi-exonic structure of lincRNAs. Nat Biotechnol. 2010;28:503–510.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2868100</ArticleId>
+            <ArticleId IdType="pubmed">20436462</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trapnell C, et al.  Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation. Nat Biotechnol. 2010;28:511–515.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3146043</ArticleId>
+            <ArticleId IdType="pubmed">20436464</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang ET, et al.  Alternative isoform regulation in human tissue transcriptomes. Nature. 2008;456:470–476.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2593745</ArticleId>
+            <ArticleId IdType="pubmed">18978772</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pan Q, Shai O, Lee LJ, Frey BJ, Blencowe BJ. Deep surveying of alternative splicing complexity in the human transcriptome by high-throughput sequencing. Nature Genetics. 2008;40:1413–1415.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18978789</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kurimoto K, et al.  An improved single-cell cDNA amplification method for efficient high-density oligonucleotide microarray analysis. Nucleic Acids Res. 2006;34:e42.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1409679</ArticleId>
+            <ArticleId IdType="pubmed">16547197</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tang F, et al.  mRNA-Seq whole-transcriptome analysis of a single cell. Nat Methods. 2009;6:377–382.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19349980</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tang F, et al.  Tracing the derivation of embryonic stem cells from the inner cell mass by single-cell RNA-Seq analysis. Cell stem cell. 2010;6:468–478.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2954317</ArticleId>
+            <ArticleId IdType="pubmed">20452321</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Islam S, et al.  Characterization of the single-cell transcriptional landscape by highly multiplex RNA-seq. Genome research. 2011 doi: 10.1101/gr.110882.110.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gr.110882.110</ArticleId>
+            <ArticleId IdType="pmc">PMC3129258</ArticleId>
+            <ArticleId IdType="pubmed">21543516</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iscove NN, et al.   Nature Biotechnology. Vol. 20. Nature Publishing Group; 2002. Representation is faithfully preserved in global cDNA amplified exponentially from sub-picogram quantities of mRNA; pp. 940–943.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12172558</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Katz Y, Wang ET, Airoldi EM, Burge CB. Analysis and design of RNA sequencing experiments for identifying isoform regulation. Nature Methods. 2010;7:1009–1015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3037023</ArticleId>
+            <ArticleId IdType="pubmed">21057496</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Talasaz AH, et al.  Isolating highly enriched populations of circulating epithelial cells and other rare cells from blood using a magnetic sweeper device. Proceedings of the National Academy of Sciences of the United States of America. 2009;106:3970–3975.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2645911</ArticleId>
+            <ArticleId IdType="pubmed">19234122</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shukla S, et al.  CTCF-promoted RNA polymerase II pausing links DNA methylation to splicing. Nature. 2011 doi: 10.1038/nature10442.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature10442</ArticleId>
+            <ArticleId IdType="pmc">PMC7398428</ArticleId>
+            <ArticleId IdType="pubmed">21964334</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jungbluth AA, et al.  Expression of melanocyte-associated markers gp-100 and Melan-A/MART-1 in angiomyolipomas. An immunohistochemical and rt-PCR analysis. Virchows Arch. 1999;434:429–435.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10389626</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tomita Y, Montague PM, Hearing VJ. Anti-T4-tyrosinase monoclonal antibodies--specific markers for pigmented melanocytes. J Invest Dermatol. 1985;85:426–430.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2414367</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fang D, Setaluri V. Role of microphthalmia transcription factor in regulation of melanocyte differentiation marker TRP-1. Biochem Biophys Res Commun. 1999;256:657–663.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10080955</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chomez P, et al.  An overview of the MAGE gene family with the identification of all human members of the family. Cancer Res. 2001;61:5544–5551.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11454705</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tang A, et al.  E-cadherin is the major mediator of human melanocyte adhesion to keratinocytes in vitro. Journal of Cell Science. 1994;107(Pt 4):983–992.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8056851</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Duncan LM, et al.  Down-regulation of the novel gene melastatin correlates with potential for melanoma metastasis. Cancer Res. 1998;58:1515–1520.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9537257</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gudbjartsson DF, et al.  ASIP and TYR pigmentation variants associate with cutaneous melanoma and basal cell carcinoma. Nat Genet. 2008;40:886–891.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18488027</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Langmead B, Trapnell C, Pop M, Salzberg SL. Ultrafast and memory-efficient alignment of short DNA sequences to the human genome. Genome Biol. 2009;10:R25.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2690996</ArticleId>
+            <ArticleId IdType="pubmed">19261174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li H, et al.  The Sequence Alignment/Map format and SAMtools. Bioinformatics. 2009;25:2078–2079.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2723002</ArticleId>
+            <ArticleId IdType="pubmed">19505943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramsköld D, Wang ET, Burge CB, Sandberg R. An abundance of ubiquitously expressed genes revealed by tissue transcriptome sequence data. PLoS computational biology. 2009;5:e1000598.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2781110</ArticleId>
+            <ArticleId IdType="pubmed">20011106</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bengtsson M, Ståhlberg A, Rorsman P, Kubista M. Gene expression profiling in single cells from the pancreatic islets of Langerhans reveals lognormal distribution of mRNA levels. Genome Research. 2005;15:1388–1392.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1240081</ArticleId>
+            <ArticleId IdType="pubmed">16204192</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Au KF, Jiang H, Lin L, Xing Y, Wong WH. Detection of splice junctions from paired-end RNA-seq data by SpliceMap. Nucleic Acids Res. 2010;38:4570–4578.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2919714</ArticleId>
+            <ArticleId IdType="pubmed">20371516</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bullard JH, Purdom E, Hansen KD, Dudoit S. Evaluation of statistical methods for normalization and differential expression in mRNA-Seq experiments. BMC Bioinformatics. 2010;11:94.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2838869</ArticleId>
+            <ArticleId IdType="pubmed">20167110</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sam LT, et al.  A Comparison of Single Molecule and Amplification Based Sequencing of Cancer Transcriptomes. PLoS ONE. 2011;6:12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3046973</ArticleId>
+            <ArticleId IdType="pubmed">21390249</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wall ME, Dyck PA, Brettin TS. SVDMAN--singular value decomposition analysis of microarray data. Bioinformatics. 2001;17:566–568.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11395437</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berger MF, et al.  Integrative analysis of the melanoma transcriptome. Genome Res. 2010;20:413–427.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2847744</ArticleId>
+            <ArticleId IdType="pubmed">20179022</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zawada AM, et al.  SuperSAGE evidence for CD14++CD16+ monocytes as a third monocyte subset. Blood. 2011;118:e50–e61.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21803849</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bernstein BE, et al.  The NIH Roadmap Epigenomics Mapping Consortium. Nature Biotechnology. 2010;28:1045–1048.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3607281</ArticleId>
+            <ArticleId IdType="pubmed">20944595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Allison DB, Cui X, Page GP, Sabripour M. Microarray data analysis: from disarray to consolidation and consensus. Nature reviews Genetics. 2006;7:55–65.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16369572</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li H, Durbin R. Fast and accurate short read alignment with Burrows–Wheeler transform. Bioinformatics. 2009;25:1754–1760.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2705234</ArticleId>
+            <ArticleId IdType="pubmed">19451168</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McKenna A, et al.  The Genome Analysis Toolkit: A MapReduce framework for analyzing next-generation DNA sequencing data. Genome Research. 2010;20:1297–1303.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2928508</ArticleId>
+            <ArticleId IdType="pubmed">20644199</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sherry ST, Ward M, Sirotkin K. dbSNP-database for single nucleotide polymorphisms and other classes of minor genetic variation. Genome Research. 1999;9:677–679.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10447503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

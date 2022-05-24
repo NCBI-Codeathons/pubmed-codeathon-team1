@@ -1,0 +1,216 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">34378011</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>09</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>09</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1477-4054</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>22</Volume>
+            <Issue>6</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Nov</Month>
+              <Day>05</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Briefings in bioinformatics</Title>
+          <ISOAbbreviation>Brief Bioinform</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Drug repositioning based on the heterogeneous information fusion graph convolutional network.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">bbab319</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1093/bib/bbab319</ELocationID>
+        <Abstract>
+          <AbstractText>In silico reuse of old drugs (also known as drug repositioning) to treat common and rare diseases is increasingly becoming an attractive proposition because it involves the use of de-risked drugs, with potentially lower overall development costs and shorter development timelines. Therefore, there is a pressing need for computational drug repurposing methodologies to facilitate drug discovery. In this study, we propose a new method, called DRHGCN (Drug Repositioning based on the Heterogeneous information fusion Graph Convolutional Network), to discover potential drugs for a certain disease. To make full use of different topology information in different domains (i.e. drug-drug similarity, disease-disease similarity and drug-disease association networks), we first design inter- and intra-domain feature extraction modules by applying graph convolution operations to the networks to learn the embedding of drugs and diseases, instead of simply integrating the three networks into a heterogeneous network. Afterwards, we parallelly fuse the inter- and intra-domain embeddings to obtain the more representative embeddings of drug and disease. Lastly, we introduce a layer attention mechanism to combine embeddings from multiple graph convolution layers for further improving the prediction performance. We find that DRHGCN achieves high performance (the average AUROC is 0.934 and the average AUPR is 0.539) in four benchmark datasets, outperforming the current approaches. Importantly, we conducted molecular docking experiments on DRHGCN-predicted candidate drugs, providing several novel approved drugs for Alzheimer's disease (e.g. benzatropine) and Parkinson's disease (e.g. trihexyphenidyl and haloperidol).</AbstractText>
+          <CopyrightInformation>© The Author(s) 2021. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Cai</LastName>
+            <ForeName>Lijun</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hunan University, Changsha, Hunan, 410082, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lu</LastName>
+            <ForeName>Changcheng</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0001-9263-8463</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Hunan University, Changsha, Hunan, 410082, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Junlin</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hunan University, Changsha, Hunan, 410082, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Meng</LastName>
+            <ForeName>Yajie</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hunan University, Changsha, Hunan, 410082, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Peng</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hunan University, Changsha, Hunan, 410082, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fu</LastName>
+            <ForeName>Xiangzheng</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hunan University, Changsha, Hunan, 410082, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zeng</LastName>
+            <ForeName>Xiangxiang</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Hunan University, Changsha, Hunan, 410082, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Su</LastName>
+            <ForeName>Yansen</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Anhui University, Changsha, Hunan, 410082, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Brief Bioinform</MedlineTA>
+        <NlmUniqueID>100912837</NlmUniqueID>
+        <ISSNLinking>1467-5463</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D062313" MajorTopicYN="N">Databases, Pharmaceutical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000076722" MajorTopicYN="N">Drug Development</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055808" MajorTopicYN="N">Drug Discovery</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D058492" MajorTopicYN="Y">Drug Repositioning</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008958" MajorTopicYN="Y">Models, Molecular</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012372" MajorTopicYN="N">ROC Curve</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013329" MajorTopicYN="N">Structure-Activity Relationship</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">drug</Keyword>
+        <Keyword MajorTopicYN="Y">drug repositioning</Keyword>
+        <Keyword MajorTopicYN="Y">drug–disease association prediction</Keyword>
+        <Keyword MajorTopicYN="Y">graph convolutional network</Keyword>
+        <Keyword MajorTopicYN="Y">heterogeneous information fusion</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>5</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>47</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34378011</ArticleId>
+        <ArticleId IdType="doi">10.1093/bib/bbab319</ArticleId>
+        <ArticleId IdType="pii">6347207</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,477 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">34961841</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>18</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>29</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">2314-6141</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>2021</Volume>
+            <PubDate>
+              <Year>2021</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>BioMed research international</Title>
+          <ISOAbbreviation>Biomed Res Int</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Identification of MCM4 as a Prognostic Marker of Hepatocellular Carcinoma.</ArticleTitle>
+        <Pagination>
+          <StartPage>7479326</StartPage>
+          <MedlinePgn>7479326</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">7479326</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1155/2021/7479326</ELocationID>
+        <Abstract>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">MCM4 expression difference in HCC were analyzed from TCGA and GEO data and verified by real-time PCR and western blot. ROC curve was used to analyze the diagnostic value of MCM4 and AFP. Additionally, the relationship between MCM4 and stage or nodal metastasis status or grade or age in TCGA cohort with HCC was observed from the UALCAN website. The univariate and multivariate Cox and functional analyses were done to explore the prognostic value of MCM4 in TCGA cohort.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">It was found that MCM4 was significantly highly expressed in HCC tissues from TCGA, GEO, and experimental data. Furthermore, ROC curve analysis showed that MCM4 was superior to be a diagnostic biomarker than AFP from TCGA (AUC<sub>MCM4</sub> = 0.9461, AUC<sub>AFP</sub> = 0.7056) and GEO (GSE19665: AUC<sub>MCM4</sub> = 0.8800, AUC<sub>AFP</sub> = 0.5100; GSE64041 AUC<sub>MCM4</sub> = 0.8038, AUC<sub>AFP</sub> = 0.6304). AUC of MCM4 from real-time PCR result in 60 pairs of HCC and adjacent tissues was 0.7172, demonstrating the prediction value of MCM4. Besides, different expression tendencies of MCM4 among different stages or nodal metastasis status or grade or age were observed from the UALCAN website. In addition, multiROC analysis showed the advantage of MCM4 as a survival prediction at 1, 3, and 5 years with the higher AUC at 0.69 of 1 year, 0.65 of 3 years, and 0.61 of 5 years. It was shown that MCM4 was independently associated with OS in univariate and multivariate Cox analysis. And GSEA displayed that MCM4 was highly enriched in KEGG_CELL_CYCLE signaling pathway following higher correlation positively with CDC6, PLK1, CRC1, and BUB1B in HCC.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">MCM4 might be a potential biomarker in guiding the prognostic status of HCC patients.</AbstractText>
+          <CopyrightInformation>Copyright © 2021 Huandi Zhou et al.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Huandi</ForeName>
+            <Initials>H</Initials>
+            <Identifier Source="ORCID">0000-0002-2617-6157</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiotherapy, Second Hospital of Hebei Medical University, Shijiazhuang, Hebei 050000, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Central Laboratory, Second Hospital of Hebei Medical University, Shijiazhuang, Hebei 050000, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center of Metabolic Diseases and Cancer Research (CMCR), Hebei Medical University, Shijiazhuang, Hebei 050000, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jiang</LastName>
+            <ForeName>Le</ForeName>
+            <Initials>L</Initials>
+            <Identifier Source="ORCID">0000-0001-5811-5423</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Office of Academic Research, Second Hospital of Hebei Medical University, Shijiazhuang, Hebei 050000, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Guohui</ForeName>
+            <Initials>G</Initials>
+            <Identifier Source="ORCID">0000-0002-0749-6059</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiotherapy, Second Hospital of Hebei Medical University, Shijiazhuang, Hebei 050000, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Su</LastName>
+            <ForeName>Linlin</ForeName>
+            <Initials>L</Initials>
+            <Identifier Source="ORCID">0000-0003-0488-618X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiotherapy, Second Hospital of Hebei Medical University, Shijiazhuang, Hebei 050000, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hou</LastName>
+            <ForeName>Liubing</ForeName>
+            <Initials>L</Initials>
+            <Identifier Source="ORCID">0000-0003-2018-8103</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiotherapy, Second Hospital of Hebei Medical University, Shijiazhuang, Hebei 050000, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Central Laboratory, Second Hospital of Hebei Medical University, Shijiazhuang, Hebei 050000, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xue</LastName>
+            <ForeName>Xiaoying</ForeName>
+            <Initials>X</Initials>
+            <Identifier Source="ORCID">0000-0002-4934-2904</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Radiotherapy, Second Hospital of Hebei Medical University, Shijiazhuang, Hebei 050000, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center of Metabolic Diseases and Cancer Research (CMCR), Hebei Medical University, Shijiazhuang, Hebei 050000, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>18</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Biomed Res Int</MedlineTA>
+        <NlmUniqueID>101600173</NlmUniqueID>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.6.4.12</RegistryNumber>
+          <NameOfSubstance UI="C099243">MCM4 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.6.4.12</RegistryNumber>
+          <NameOfSubstance UI="D064148">Minichromosome Maintenance Complex Component 4</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006528" MajorTopicYN="N">Carcinoma, Hepatocellular</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015972" MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008113" MajorTopicYN="N">Liver Neoplasms</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D064148" MajorTopicYN="N">Minichromosome Maintenance Complex Component 4</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012372" MajorTopicYN="N">ROC Curve</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors report no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>9</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>36</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34961841</ArticleId>
+        <ArticleId IdType="pmc">PMC8710152</ArticleId>
+        <ArticleId IdType="doi">10.1155/2021/7479326</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Wang J., He H., Jiang Q., Wang Y., Jia S. &lt;p&gt;&lt;em&gt;CBX6&lt;/em&gt; promotes HCC metastasis via transcription factors snail/Zeb1-mediated EMT Mechanism&lt;/p&gt;. 
+Oncotargets and Therapy
+. 2020;Volume 13:12489–12500. doi: 10.2147/OTT.S257363.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2147/OTT.S257363</ArticleId>
+            <ArticleId IdType="pmc">PMC7727033</ArticleId>
+            <ArticleId IdType="pubmed">33311989</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>He J., Gu D., Wu X., et al.  Major causes of death among men and women in China. 
+The New England Journal of Medicine
+. 2005;353(11):1124–1134. doi: 10.1056/NEJMsa050467.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMsa050467</ArticleId>
+            <ArticleId IdType="pubmed">16162883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou H. Y., Luo Y., Chen W. D., Gong G. Z. Hepatitis B virus mutation may play a role in hepatocellular carcinoma recurrence: a systematic review and meta-regression analysis. 
+Journal of Gastroenterology and Hepatology
+. 2015;30(6):977–983. doi: 10.1111/jgh.12917.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/jgh.12917</ArticleId>
+            <ArticleId IdType="pubmed">25689418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Champasa K., Blank C., Friedman L. J., Gelles J., Bell S. P. A conserved Mcm4 motif is required for Mcm2-7 double-hexamer formation and origin DNA unwinding. 
+eLife
+. 2019;8 doi: 10.7554/eLife.45538.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.45538</ArticleId>
+            <ArticleId IdType="pmc">PMC6701924</ArticleId>
+            <ArticleId IdType="pubmed">31385807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kwok H. F., Zhang S. D., CM M. C., et al.  Prognostic significance of minichromosome maintenance proteins in breast cancer. 
+American Journal of Cancer Research
+. 2015;5(1):52–71.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4300722</ArticleId>
+            <ArticleId IdType="pubmed">25628920</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Söling A., Sackewitz M., Volkmar M., et al.  Minichromosome Maintenance Protein 3 Elicits a Cancer-Restricted Immune Response in Patients with Brain Malignancies and Is a Strong Independent Predictor of Survival in Patients with Anaplastic Astrocytoma. 
+Clinical Cancer Research
+. 2005;11(1):249–258.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15671553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kikuchi J., Kinoshita I., Shimizu Y., et al.  Minichromosome maintenance (MCM) protein 4 as a marker for proliferation and its clinical and clinicopathological significance in non-small cell lung cancer. 
+Lung Cancer
+. 2011;72(2):229–237. doi: 10.1016/j.lungcan.2010.08.020.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.lungcan.2010.08.020</ArticleId>
+            <ArticleId IdType="pubmed">20884074</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang X. P., Rong T. H., Wu Q. L., et al.  MCM4 expression in esophageal cancer from southern China and its clinical significance. 
+Journal of Cancer Research and Clinical Oncology
+. 2005;131(10):677–682. doi: 10.1007/s00432-005-0011-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00432-005-0011-6</ArticleId>
+            <ArticleId IdType="pubmed">16133572</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Winnepenninckx V., Lazar V., Michiels S., et al.  Gene expression profiling of primary cutaneous melanoma and clinical outcome. 
+Journal of the National Cancer Institute
+. 2006;98(7):472–482. doi: 10.1093/jnci/djj103.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/jnci/djj103</ArticleId>
+            <ArticleId IdType="pubmed">16595783</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tomczak K., Czerwińska P., Wiznerowicz M. Review The Cancer Genome Atlas (TCGA): an immeasurable source of knowledge. 
+Contemporary Oncology
+. 2015;1A:68–77. doi: 10.5114/wo.2014.47136.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.5114/wo.2014.47136</ArticleId>
+            <ArticleId IdType="pmc">PMC4322527</ArticleId>
+            <ArticleId IdType="pubmed">25691825</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou H., Zhang G., Xue X., et al.  Identification of novel NRAGE involved in the radioresistance of esophageal cancer cells. 
+Tumour Biology
+. 2016;37(7):8741–8752. doi: 10.1007/s13277-015-4747-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13277-015-4747-6</ArticleId>
+            <ArticleId IdType="pubmed">26738870</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lou W., Chen J., Ding B., et al.  Identification of invasion-metastasis-associated microRNAs in hepatocellular carcinoma based on bioinformatic analysis and experimental validation. 
+Journal of Translational Medicine
+. 2018;16(1):p. 266. doi: 10.1186/s12967-018-1639-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12967-018-1639-8</ArticleId>
+            <ArticleId IdType="pmc">PMC6162949</ArticleId>
+            <ArticleId IdType="pubmed">30268144</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guan K., Liu X., Li J., et al.  Expression status and prognostic value of M6A-associated genes in gastric cancer. 
+Journal of Cancer
+. 2020;11(10):3027–3040. doi: 10.7150/jca.40866.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7150/jca.40866</ArticleId>
+            <ArticleId IdType="pmc">PMC7086255</ArticleId>
+            <ArticleId IdType="pubmed">32226518</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Abelev G. I. Production of embryonal serum alpha-globulin by hepatomas: review of experimental and clinical data. 
+Cancer Research
+. 1968;28(7):1344–1350.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">4174340</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen Y., Peng C., Chen J., et al.  WTAP facilitates progression of hepatocellular carcinoma via m6A-HuR-dependent epigenetic silencing of ETS1. 
+Molecular Cancer
+. 2019;18(1):p. 127. doi: 10.1186/s12943-019-1053-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12943-019-1053-8</ArticleId>
+            <ArticleId IdType="pmc">PMC6704583</ArticleId>
+            <ArticleId IdType="pubmed">31438961</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Long J., Zhang L., Wan X., et al.  A four-gene-based prognostic model predicts overall survival in patients with hepatocellular carcinoma. 
+Journal of Cellular and Molecular Medicine
+. 2018;22(12):5928–5938. doi: 10.1111/jcmm.13863.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/jcmm.13863</ArticleId>
+            <ArticleId IdType="pmc">PMC6237588</ArticleId>
+            <ArticleId IdType="pubmed">30247807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gupta S., Bent S., Kohlwes J. Test characteristics of alpha-fetoprotein for detecting hepatocellular carcinoma in patients with hepatitis C. A systematic review and critical analysis. 
+Annals of Internal Medicine
+. 2003;139(1):46–50. doi: 10.7326/0003-4819-139-1-200307010-00012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7326/0003-4819-139-1-200307010-00012</ArticleId>
+            <ArticleId IdType="pubmed">12834318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yan L., Liang X., Huang H., et al.  S-Adenosylmethionine affects cell cycle pathways and suppresses proliferation in liver cells. 
+Journal of Cancer
+. 2019;10(18):4368–4379. doi: 10.7150/jca.25422.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7150/jca.25422</ArticleId>
+            <ArticleId IdType="pmc">PMC6691693</ArticleId>
+            <ArticleId IdType="pubmed">31413757</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Issac M., Yousef E., Tahir M. R., Gaboury L. A. MCM2, MCM4, and MCM6 in breast cancer: clinical utility in diagnosis and prognosis. 
+Neoplasia
+. 2019;21(10):1015–1035. doi: 10.1016/j.neo.2019.07.011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neo.2019.07.011</ArticleId>
+            <ArticleId IdType="pmc">PMC6726925</ArticleId>
+            <ArticleId IdType="pubmed">31476594</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhong H., Chen B., Neves H., et al.  Expression of minichromosome maintenance genes in renal cell carcinoma. 
+Cancer Management and Research
+. 2017;Volume 9:637–647. doi: 10.2147/CMAR.S146528.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2147/CMAR.S146528</ArticleId>
+            <ArticleId IdType="pmc">PMC5697450</ArticleId>
+            <ArticleId IdType="pubmed">29180899</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Han J., Lian M., Fang J., et al.  Minichromosome maintenance (MCM) protein 4 overexpression is a potential prognostic marker for laryngeal squamous cell carcinoma. 
+Journal of BUON
+. 2017;22(5):1272–1277.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29135113</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Long H. P., Liu J. Q., Yu Y. Y., Qiao Q., Li G. PKMYT1 as a potential target to improve the radiosensitivity of lung adenocarcinoma. 
+Frontiers in Genetics
+. 2020;11:p. 376. doi: 10.3389/fgene.2020.00376.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fgene.2020.00376</ArticleId>
+            <ArticleId IdType="pmc">PMC7201004</ArticleId>
+            <ArticleId IdType="pubmed">32411179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Byun W. S., Kim S., Shin Y. H., Kim W. K., Oh D. C., Lee S. K. Antitumor activity of ohmyungsamycin a through the regulation of the Skp2-p27 Axis and MCM4 in human colorectal cancer cells. 
+Journal of Natural Products
+. 2020;83(1):118–126. doi: 10.1021/acs.jnatprod.9b00918.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acs.jnatprod.9b00918</ArticleId>
+            <ArticleId IdType="pubmed">31894983</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shao S., Cao H., Wang Z., et al.  CHD4/NuRD complex regulates complement gene expression and correlates with CD8 T cell infiltration in human hepatocellular carcinoma. 
+Clinical Epigenetics
+. 2020;12(1):p. 31. doi: 10.1186/s13148-020-00827-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13148-020-00827-3</ArticleId>
+            <ArticleId IdType="pmc">PMC7027061</ArticleId>
+            <ArticleId IdType="pubmed">32070428</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang L., Zhang Z., Sun Y., et al.  Integrative analysis reveals novel driver genes and molecular subclasses of hepatocellular carcinoma. 
+Aging
+. 2020;12(23):23849–23871. doi: 10.18632/aging.104047.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/aging.104047</ArticleId>
+            <ArticleId IdType="pmc">PMC7762459</ArticleId>
+            <ArticleId IdType="pubmed">33221766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

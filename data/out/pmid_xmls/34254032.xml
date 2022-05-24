@@ -1,0 +1,618 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" VersionID="2" Owner="NLM">
+      <PMID Version="2">34254032</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Print">2056-5623</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>7</Volume>
+            <Issue>7</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Future science OA</Title>
+          <ISOAbbreviation>Future Sci OA</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A machine learning PROGRAM to identify COVID-19 and other diseases from hematology data.</ArticleTitle>
+        <Pagination>
+          <StartPage>FSO733</StartPage>
+          <MedlinePgn>FSO733</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">FSO733</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.2144/fsoa-2020-0207</ELocationID>
+        <Abstract>
+          <AbstractText Label="AIM" NlmCategory="OBJECTIVE">We propose a method for screening full blood count metadata for evidence of communicable and noncommunicable diseases using machine learning (ML).</AbstractText>
+          <AbstractText Label="MATERIALS &amp; METHODS" NlmCategory="METHODS">High dimensional hematology metadata was extracted over an 11-month period from Sysmex hematology analyzers from 43,761 patients. Predictive models for age, sex and individuality were developed to demonstrate the personalized nature of hematology data. Both numeric and raw flow cytometry data were used for both supervised and unsupervised ML to predict the presence of pneumonia, urinary tract infection and COVID-19. Heart failure was used as an objective to prove method generalizability.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">Chronological age was predicted by a deep neural network with R<sup>2</sup>: 0.59; mean absolute error: 12; sex with AUROC: 0.83, phi: 0.47; individuality with 99.7% accuracy, phi: 0.97; pneumonia with AUROC: 0.74, sensitivity 58%, specificity 79%, 95% CI: 0.73-0.75, p &lt; 0.0001; urinary tract infection AUROC: 0.68, sensitivity 52%, specificity 79%, 95% CI: 0.67-0.68, p &lt; 0.0001; COVID-19 AUROC: 0.8, sensitivity 82%, specificity 75%, 95% CI: 0.79-0.8, p = 0.0006; and heart failure area under the receiver operator curve (AUROC): 0.78, sensitivity 72%, specificity 72%, 95% CI: 0.77-0.78; p &lt; 0.0001.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">ML applied to hematology data could predict communicable and noncommunicable diseases, both at local and global levels.</AbstractText>
+          <CopyrightInformation>© 2021 The authors.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Gladding</LastName>
+            <ForeName>Patrick A</ForeName>
+            <Initials>PA</Initials>
+            <Identifier Source="ORCID">0000-0002-0380-3592</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiology, Waitematā District Health Board, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ayar</LastName>
+            <ForeName>Zina</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical Information Services, Waitematā District Health Board, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Smith</LastName>
+            <ForeName>Kevin</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical laboratory, Waitematā District Health Board, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Patel</LastName>
+            <ForeName>Prashant</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical laboratory, Waitematā District Health Board, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pearce</LastName>
+            <ForeName>Julia</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical laboratory, Waitematā District Health Board, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Puwakdandawa</LastName>
+            <ForeName>Shalini</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical laboratory, Waitematā District Health Board, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tarrant</LastName>
+            <ForeName>Dianne</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical laboratory, Waitematā District Health Board, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Atkinson</LastName>
+            <ForeName>Jon</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical laboratory, Waitematā District Health Board, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McChlery</LastName>
+            <ForeName>Elizabeth</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical laboratory, Waitematā District Health Board, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hanna</LastName>
+            <ForeName>Merit</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hematology, Waitematā District Health Board, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gow</LastName>
+            <ForeName>Nick</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Infectious diseases, Waitematā District Health Board, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bhally</LastName>
+            <ForeName>Hasan</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Infectious diseases, Waitematā District Health Board, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Read</LastName>
+            <ForeName>Kerry</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Infectious diseases, Waitematā District Health Board, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jayathissa</LastName>
+            <ForeName>Prageeth</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute for Innovation &amp; Improvement (i3), Waitematā District Health Board, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wallace</LastName>
+            <ForeName>Jonathan</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute for Innovation &amp; Improvement (i3), Waitematā District Health Board, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Norton</LastName>
+            <ForeName>Sam</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nanix Ltd, Dunedin, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kasabov</LastName>
+            <ForeName>Nick</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Knowledge Engineering &amp; Discovery Research Institute (KEDRI), Auckland University of Technology, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Calude</LastName>
+            <ForeName>Cristian S</ForeName>
+            <Initials>CS</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Computer Science, University of Auckland, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Steel</LastName>
+            <ForeName>Deborah</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sysmex New Zealand Ltd, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mckenzie</LastName>
+            <ForeName>Colin</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sysmex New Zealand Ltd, Auckland, New Zealand.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>06</Month>
+          <Day>12</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Future Sci OA</MedlineTA>
+        <NlmUniqueID>101665030</NlmUniqueID>
+        <ISSNLinking>2056-5623</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">COVID-19</Keyword>
+        <Keyword MajorTopicYN="N">biological age</Keyword>
+        <Keyword MajorTopicYN="N">full blood count</Keyword>
+        <Keyword MajorTopicYN="N">heart failure</Keyword>
+        <Keyword MajorTopicYN="N">hematology</Keyword>
+        <Keyword MajorTopicYN="N">machine learning</Keyword>
+        <Keyword MajorTopicYN="N">pneumonia</Keyword>
+      </KeywordList>
+      <CoiStatement>Financial &amp; competing interests disclosure D Steele and C McKenzie are employees of Sysmex Corporation. The authors have no other relevant affiliations or financial involvement with any organization or entity with a financial interest in or financial conflict with the subject matter or materials discussed in the manuscript apart from those disclosed. No writing assistance was utilized in the production of this manuscript.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>12</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>28</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34254032</ArticleId>
+        <ArticleId IdType="pmc">PMC8204819</ArticleId>
+        <ArticleId IdType="doi">10.2144/fsoa-2020-0207</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Chen N, Zhou M, Dong X
+et al.
+Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet
+395(10223), 507–513 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7135076</ArticleId>
+            <ArticleId IdType="pubmed">32007143</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fauci AS, Lane HC, Redfield RR. Covid-19 – navigating the uncharted. N. Engl. J. Med. 
+ 382, 1268-1269 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7121221</ArticleId>
+            <ArticleId IdType="pubmed">32109011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang C, Wang Y, Li X
+et al.
+Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet
+395(10223), 497–506 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7159299</ArticleId>
+            <ArticleId IdType="pubmed">31986264</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu Q, Zhou L, Sun X
+et al.
+Altered lipid metabolism in recovered SARS patients twelve years after infection. Sci. Rep.
+7(1), 9110 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5567209</ArticleId>
+            <ArticleId IdType="pubmed">28831119</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lu R, Zhao X, Li J
+et al.
+Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for virus origins and receptor binding. Lancet
+395(10224), 565–574 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7159086</ArticleId>
+            <ArticleId IdType="pubmed">32007145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li WT, Ma J, Shende N
+et al.
+Using machine learning of clinical data to diagnose COVID-19: a systematic review and meta-analysis. BMC Med. Inform. Decis. Mak.
+20(1), 247 (2020). </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7522928</ArticleId>
+            <ArticleId IdType="pubmed">32993652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun N-N, Yang Y, Tang L-L
+et al.
+A prediction model based on machine learning for diagnosing the early COVID-19 patients. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen Y, Ouyang L, Bao FS
+et al.
+An interpretable machine learning framework for accurate severe vs non-severe COVID-19 clinical type classification. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Heldt FS, Vizcaychipi MP, Peacock S
+et al.
+Early risk assessment for COVID-19 patients from emergency department data using machine learning. Sci. Rep.
+11(1), 4200 (2021).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7892838</ArticleId>
+            <ArticleId IdType="pubmed">33603086</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brinati D, Campagner A, Ferrari D, Locatelli M, Banfi G, Cabitza F. Detection of COVID-19 infection from routine blood exams with machine learning: a feasibility study. J. Med. Syst.
+44(8), 135–135 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7326624</ArticleId>
+            <ArticleId IdType="pubmed">32607737</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>de Moraes Batista AF, Miraglia JL, Rizzi Donato TH, Porto Chiavegatto Filho AD. COVID-19 diagnosis prediction in emergency care patients: a machine learning approach. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yan L, Zhang H-T, Goncalves J
+et al.
+A machine learning-based model for survival prediction in patients with severe COVID-19 infection. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yang HS, Hou Y, Vasovic LV
+et al.
+Routine laboratory blood tests predict SARS-CoV-2 infection using machine learning. Clin. Chem.
+66(11), 1396–1404 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7499540</ArticleId>
+            <ArticleId IdType="pubmed">32821907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mishra T, Wang M, Metwally AA
+et al.
+Pre-symptomatic detection of COVID-19 from smartwatch data. Nat. Biomed. Eng.
+4(12), 1208–1220 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33208926</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Soltan AA, Kouchaki S, Zhu T
+et al.
+Artificial intelligence driven assessment of routinely collected healthcare data is an effective screening test for COVID-19 in patients presenting to hospital. medRxiv (2020).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cabitza F, Campagner A, Ferrari D
+et al.
+Development, evaluation, and validation of machine learning models for COVID-19 detection based on routine blood tests. Clin. Chem. Lab. Med.
+59(2), 421–431 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33079698</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Plante TB, Blau AM, Berg AN
+et al.
+Development and external validation of a machine learning tool to rule out COVID-19 among adults in the emergency department using routine blood tests: a large, multicenter, real-world study. J. Med. Internet Res.
+22(12), e24048 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7713695</ArticleId>
+            <ArticleId IdType="pubmed">33226957</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu J, Zhang P, Zhang L
+et al.
+Rapid and accurate identification of COVID-19 infection through machine learning based on clinical available blood test results. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mann ER, Menon M, Knight SB
+et al.
+Longitudinal immune profiling reveals distinct features of COVID-19 pathogenesis. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Vabret N, Britton GJ, Gruber C
+et al.
+Immunology of COVID-19: current state of the Science. Immunity
+52(6), 910–941 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7200337</ArticleId>
+            <ArticleId IdType="pubmed">32505227</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schulte-Schrepping J, Reusch N, Paclik D
+et al.
+Suppressive myeloid cells are a hallmark of severe COVID-19. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lam LM, Murphy SJ, Kuri-Cervantes L
+et al.
+Erythrocytes reveal complement activation in patients with COVID-19. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Anft M, Paniskaki K, Blazquez-Navarro A
+et al.
+COVID-19 progression is potentially driven by T cell immunopathogenesis. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Prodjosoewojo S, Riswari SF, Djauhari H
+et al.
+A novel diagnostic algorithm equipped on an automated hematology analyzer to differentiate between common causes of febrile illness in Southeast Asia. PLoS Negl. Trop. Dis.
+13(3), e0007183 (2019).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6435198</ArticleId>
+            <ArticleId IdType="pubmed">30870415</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Haider RZ, Ujjan IU, Shamsi TS. Cell population data-driven acute promyelocytic leukemia flagging through artificial neural network predictive modeling. Transl. Oncol.
+13(1), 11–16 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6859536</ArticleId>
+            <ArticleId IdType="pubmed">31733590</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li WT, Ma J, Shende N
+et al.
+Using machine learning of clinical data to diagnose COVID-19. medRxiv (2020) (Epub ahead of print).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7522928</ArticleId>
+            <ArticleId IdType="pubmed">32993652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nan SN, Ya Y, Ling TL
+et al.
+A prediction model based on machine learning for diagnosing the early COVID-19 patients. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chen Y, Ouyang L, Bao S
+et al.
+An interpretable machine learning framework for accurate severe vs non-severe COVID-19 clinical type classification. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Heldt FS, Vizcaychipi MP, Peacock S
+et al.
+Early risk assessment for COVID-19 patients from emergency department data using machine learning. medRxiv (2020) (Epub ahead of print).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7892838</ArticleId>
+            <ArticleId IdType="pubmed">33603086</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brinati D, Campagner A, Ferrari D, Locatelli M, Banfi G, Cabitza F. Detection of COVID-19 infection from routine blood exams with machine learning: a feasibility study. medRxiv (2020) (Epub ahead of print).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7326624</ArticleId>
+            <ArticleId IdType="pubmed">32607737</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Batista AFdM, Miraglia JL, Donato THR, Chiavegatto Filho ADP. COVID-19 diagnosis prediction in emergency care patients: a machine learning approach. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yang HS, Vasovic LV, Steel P
+et al.
+Routine laboratory blood tests predict SARS-CoV-2 infection using machine learning. medRxiv (2020) (Epub ahead of print).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7499540</ArticleId>
+            <ArticleId IdType="pubmed">32821907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mishra T, Wang M, Metwally AA
+et al.
+Early detection of COVID-19 using a smartwatch. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang Z, He Y, Shu H
+et al.
+High fluorescent lymphocytes are increased in COVID-19 patients. Br. J. Haematol. 
+190(2), e76–e78 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7276851</ArticleId>
+            <ArticleId IdType="pubmed">32433784</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yip C, Yap ES, de Mel S
+et al.
+Temporal changes in immune blood cell parameters in COVID-19 infection and recovery from severe infection. Br. J. Haematol. 
+190(1), 33–36 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7276812</ArticleId>
+            <ArticleId IdType="pubmed">32420610</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Milechin L, Davis S, Patel T
+et al.
+Detecting pathogen exposure during the non-symptomatic incubation period using physiological data. bioRxiv
+218818 (2017).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Radin JM, Wineinger NE, Topol EJ, Steinhubl SR. Harnessing wearable device data to improve state-level real-time surveillance of influenza-like illness in the USA: a population-based study. The Lancet Digital Health
+2(2), e85–e93 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8048388</ArticleId>
+            <ArticleId IdType="pubmed">33334565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Natarajan A, Su H-W, Heneghan C. Assessment of physiological signs associated with COVID-19 measured using wearable devices. medRxiv (2020) (Epub ahead of print).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7705652</ArticleId>
+            <ArticleId IdType="pubmed">33299095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Delafiori J, Navarro LC, Siciliano RF
+et al.
+Covid-19 automated diagnosis and risk assessment through metabolomics and machine learning. medRxiv (2020) (Epub ahead of print).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8023531</ArticleId>
+            <ArticleId IdType="pubmed">33471512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Julkunen H, Cichonska A, Slagboom PE, Würtz P. Blood biomarker score identifies individuals at high risk for severe COVID-19 a decade prior to diagnosis: metabolic profiling of 105,000 adults in the UK Biobank. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mathew D, Giles JR, Baxter AE
+et al.
+Deep immune profiling of COVID-19 patients reveals distinct immunotypes with therapeutic implications. Science 
+369(6508), eabc8511 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7402624</ArticleId>
+            <ArticleId IdType="pubmed">32669297</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Syeda HB, Syed M, Sexton KW
+et al.
+The role of machine learning techniques to tackle COVID-19 crisis: a systematic review. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Truslow JG, Goto S, Homilius M
+et al.
+Scalable cardiovascular risk assessment using artificial intelligence-enabled event adjudication and widely available hematologic predictors. medRxiv (2021) (Epub ahead of print). </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kinar Y, Kalkstein N, Akiva P
+et al.
+Development and validation of a predictive model for detection of colorectal cancer in primary care by analysis of complete blood counts: a binational retrospective study. JAMIA
+23(5), 879–890 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4997037</ArticleId>
+            <ArticleId IdType="pubmed">26911814</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wood T, Kelly C, Roberts M, Walsh B. An interpretable machine learning model of biological age. F1000Research
+8, 17 (2019). </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kuo C-L, Pilling LC, Atkins JC
+et al.
+COVID-19 severity is predicted by earlier evidence of accelerated aging. medRxiv (2020) (Epub ahead of print).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gladding PA, James N, Hewitt W. A057 multiscale predictive modelling in heart failure: machine learning applied to big data, imaging and multiomics. Heart, Lung and Circulation
+29, S24–S25 (2020).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shaw JA, Sethi N, Cassel CK. Social license for the use of big data in the COVID-19 era. npj Digital Medicine
+3(1), 128 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7532144</ArticleId>
+            <ArticleId IdType="pubmed">33083563</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,695 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">33387530</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>08</Month>
+        <Day>30</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>29</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1528-0012</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>160</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Apr</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Gastroenterology</Title>
+          <ISOAbbreviation>Gastroenterology</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Altered Gut Microbial Metabolism of Essential Nutrients in Primary Sclerosing Cholangitis.</ArticleTitle>
+        <Pagination>
+          <StartPage>1784</StartPage>
+          <EndPage>1798.e0</EndPage>
+          <MedlinePgn>1784-1798.e0</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1053/j.gastro.2020.12.058</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0016-5085(20)35622-5</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND &amp; AIMS">To influence host and disease phenotype, compositional microbiome changes, which have been demonstrated in patients with primary sclerosing cholangitis (PSC), must be accompanied by functional changes. We therefore aimed to characterize the genetic potential of the gut microbiome in patients with PSC compared with healthy controls (HCs) and patients with inflammatory bowel disease (IBD).</AbstractText>
+          <AbstractText Label="METHODS">Fecal DNA from 2 cohorts (1 Norwegian and 1 German), in total comprising 136 patients with PSC (58% with IBD), 158 HCs, and 93 patients with IBD without PSC, were subjected to metagenomic shotgun sequencing, generating 17 billion paired-end sequences, which were processed using HUMAnN2 and MetaPhlAn2, and analyzed using generalized linear models and random effects meta-analyses.</AbstractText>
+          <AbstractText Label="RESULTS">Patients with PSC had fewer microbial genes compared with HCs (P &lt; .0001). Compared with HCs, patients with PSC showed enrichment and increased prevalence of Clostridium species and a depletion of, for example, Eubacterium spp and Ruminococcus obeum. Patients with PSC showed marked differences in the abundance of genes related to vitamin B6 synthesis and branched-chain amino acid synthesis (Q<sub>fdr</sub> &lt; .05). Targeted metabolomics of plasma from an independent set of patients with PSC and controls found reduced concentrations of vitamin B6 and branched-chain amino acids in PSC (P &lt; .0001), which strongly associated with reduced liver transplantation-free survival (log-rank P &lt; .001). No taxonomic or functional differences were detected between patients with PSC with and without IBD.</AbstractText>
+          <AbstractText Label="CONCLUSIONS">The gut microbiome in patients with PSC exhibits large functional differences compared with that in HCs, including microbial metabolism of essential nutrients. Alterations in related circulating metabolites associated with disease course, suggesting that microbial functions may be relevant for the disease process in PSC.</AbstractText>
+          <CopyrightInformation>Copyright © 2021 The Authors. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kummen</LastName>
+            <ForeName>Martin</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Norwegian Primary Sclerosing Cholangitis Research Center, Department of Transplantation Medicine, Oslo University Hospital Rikshospitalet, Oslo, Norway; Institute of Clinical Medicine, University of Oslo, Oslo, Norway; Research Institute of Internal Medicine, Oslo University Hospital Rikshospitalet, Oslo, Norway; Department of Oncology, Oslo University Hospital, Oslo, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Thingholm</LastName>
+            <ForeName>Louise B</ForeName>
+            <Initials>LB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Clinical Molecular Biology, Christian-Albrechts-University of Kiel, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rühlemann</LastName>
+            <ForeName>Malte C</ForeName>
+            <Initials>MC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Clinical Molecular Biology, Christian-Albrechts-University of Kiel, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Holm</LastName>
+            <ForeName>Kristian</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Norwegian Primary Sclerosing Cholangitis Research Center, Department of Transplantation Medicine, Oslo University Hospital Rikshospitalet, Oslo, Norway; Institute of Clinical Medicine, University of Oslo, Oslo, Norway; Research Institute of Internal Medicine, Oslo University Hospital Rikshospitalet, Oslo, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hansen</LastName>
+            <ForeName>Simen H</ForeName>
+            <Initials>SH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Norwegian Primary Sclerosing Cholangitis Research Center, Department of Transplantation Medicine, Oslo University Hospital Rikshospitalet, Oslo, Norway; Institute of Clinical Medicine, University of Oslo, Oslo, Norway; Research Institute of Internal Medicine, Oslo University Hospital Rikshospitalet, Oslo, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moitinho-Silva</LastName>
+            <ForeName>Lucas</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Clinical Molecular Biology, Christian-Albrechts-University of Kiel, Kiel, Germany; Department of Dermatology, Venereology and Allergy, University Hospital Schleswig-Holstein, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liwinski</LastName>
+            <ForeName>Timur</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Medical Systems Biology, Center for Molecular Neurobiology, Hamburg, Germany; I. Department of Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zenouzi</LastName>
+            <ForeName>Roman</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>I. Department of Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Storm-Larsen</LastName>
+            <ForeName>Christopher</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Norwegian Primary Sclerosing Cholangitis Research Center, Department of Transplantation Medicine, Oslo University Hospital Rikshospitalet, Oslo, Norway; Institute of Clinical Medicine, University of Oslo, Oslo, Norway; Research Institute of Internal Medicine, Oslo University Hospital Rikshospitalet, Oslo, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Midttun</LastName>
+            <ForeName>Øyvind</ForeName>
+            <Initials>Ø</Initials>
+            <AffiliationInfo>
+              <Affiliation>Bevital, Bergen, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McCann</LastName>
+            <ForeName>Adrian</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Bevital, Bergen, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ueland</LastName>
+            <ForeName>Per M</ForeName>
+            <Initials>PM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Bevital, Bergen, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Høivik</LastName>
+            <ForeName>Marte L</ForeName>
+            <Initials>ML</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Clinical Medicine, University of Oslo, Oslo, Norway; Department of Gastroenterology, Oslo University Hospital Ullevål, Oslo, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vesterhus</LastName>
+            <ForeName>Mette</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Norwegian Primary Sclerosing Cholangitis Research Center, Department of Transplantation Medicine, Oslo University Hospital Rikshospitalet, Oslo, Norway; Department of Medicine, Haraldsplass Deaconess Hospital, Bergen, Norway; Department of Clinical Science, University of Bergen, Bergen, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Trøseid</LastName>
+            <ForeName>Marius</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Clinical Medicine, University of Oslo, Oslo, Norway; Section of Clinical Immunology and Infectious Diseases, Oslo University Hospital Rikshospitalet, Oslo, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Laudes</LastName>
+            <ForeName>Matthias</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Endocrinology, Diabetes and Clinical Nutrition, Department of Medicine 1, University of Kiel, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lieb</LastName>
+            <ForeName>Wolfgang</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Epidemiology, Christian-Albrechts-University of Kiel, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Karlsen</LastName>
+            <ForeName>Tom H</ForeName>
+            <Initials>TH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Norwegian Primary Sclerosing Cholangitis Research Center, Department of Transplantation Medicine, Oslo University Hospital Rikshospitalet, Oslo, Norway; Institute of Clinical Medicine, University of Oslo, Oslo, Norway; Research Institute of Internal Medicine, Oslo University Hospital Rikshospitalet, Oslo, Norway; Section of Gastroenterology, Department of Transplantation Medicine, Oslo University Hospital Rikshospitalet, Oslo, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bang</LastName>
+            <ForeName>Corinna</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Clinical Molecular Biology, Christian-Albrechts-University of Kiel, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schramm</LastName>
+            <ForeName>Christoph</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>I. Department of Medicine, University Medical Center Hamburg-Eppendorf, Hamburg, Germany; Martin Zeitz Centre for Rare Diseases, University Medical Center Hamburg-Eppendorf, Hamburg, Germany; Hamburg Center for Translational Immunology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Franke</LastName>
+            <ForeName>Andre</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Clinical Molecular Biology, Christian-Albrechts-University of Kiel, Kiel, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hov</LastName>
+            <ForeName>Johannes R</ForeName>
+            <Initials>JR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Norwegian Primary Sclerosing Cholangitis Research Center, Department of Transplantation Medicine, Oslo University Hospital Rikshospitalet, Oslo, Norway; Institute of Clinical Medicine, University of Oslo, Oslo, Norway; Research Institute of Internal Medicine, Oslo University Hospital Rikshospitalet, Oslo, Norway; Section of Gastroenterology, Department of Transplantation Medicine, Oslo University Hospital Rikshospitalet, Oslo, Norway. Electronic address: j.e.r.hov@medisin.uio.no.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>802544</GrantID>
+            <Acronym>ERC_</Acronym>
+            <Agency>European Research Council</Agency>
+            <Country>International</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016448">Multicenter Study</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>12</Month>
+          <Day>31</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Gastroenterology</MedlineTA>
+        <NlmUniqueID>0374630</NlmUniqueID>
+        <ISSNLinking>0016-5085</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Gastroenterology. 2021 Sep;161(3):1070-1071</RefSource>
+          <PMID Version="1">34015335</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001419" MajorTopicYN="N">Bacteria</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016022" MajorTopicYN="N">Case-Control Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015209" MajorTopicYN="N">Cholangitis, Sclerosing</DescriptorName>
+          <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000382" MajorTopicYN="Y">microbiology</QualifierName>
+          <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D064806" MajorTopicYN="N">Dysbiosis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005243" MajorTopicYN="N">Feces</DescriptorName>
+          <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000069196" MajorTopicYN="Y">Gastrointestinal Microbiome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005858" MajorTopicYN="N" Type="Geographic">Germany</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016031" MajorTopicYN="N">Liver Transplantation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055442" MajorTopicYN="Y">Metabolome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055432" MajorTopicYN="N">Metabolomics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D054892" MajorTopicYN="Y">Metagenome</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D056186" MajorTopicYN="N">Metagenomics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009664" MajorTopicYN="N" Type="Geographic">Norway</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000077982" MajorTopicYN="N">Progression-Free Survival</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Branched Chain Amino Acids</Keyword>
+        <Keyword MajorTopicYN="Y">Microbiome</Keyword>
+        <Keyword MajorTopicYN="Y">Primary Sclerosing Cholangitis</Keyword>
+        <Keyword MajorTopicYN="Y">Vitamin B</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>6</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2020</Year>
+          <Month>12</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>12</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>1</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>31</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>1</Month>
+          <Day>2</Day>
+          <Hour>20</Hour>
+          <Minute>7</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">33387530</ArticleId>
+        <ArticleId IdType="mid">EMS136001</ArticleId>
+        <ArticleId IdType="pmc">PMC7611822</ArticleId>
+        <ArticleId IdType="doi">10.1053/j.gastro.2020.12.058</ArticleId>
+        <ArticleId IdType="pii">S0016-5085(20)35622-5</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Karlsen TH, Folseraas T, Thorburn D, et al.  Primary sclerosing cholangitis – a comprehensive review. J Hepatol. 2017;67:1298–1323.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28802875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kummen M, Holm K, Anmarkrud JA, et al.  The gut microbial profile in patients with primary sclerosing cholangitis is distinct from patients with ulcerative colitis without biliary disease and healthy controls. Gut. 2017;66:611–619.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26887816</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sabino J, Vieira-Silva S, Machiels K, et al.  Primary sclerosing cholangitis is characterised by intestinal dysbiosis independent from IBD. Gut. 2016;65:1681–1689.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5036217</ArticleId>
+            <ArticleId IdType="pubmed">27207975</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lemoinne S, Kemgang A, Belkacem K Ben, et al.  Fungi participate in the dysbiosis of gut microbiota in patients with primary sclerosing cholangitis. Gut. 2020;69:92–102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31003979</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bajer L, Kverka M, Kostovcik M, et al.  Distinct gut microbiota profiles in patients with primary sclerosing cholangitis and ulcerative colitis. World J Gastroenterol. 2017;23:4548–4558.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5504370</ArticleId>
+            <ArticleId IdType="pubmed">28740343</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iwasawa K, Suda W, Tsunoda T, et al.  Characterisation of the faecal microbiota in Japanese patients with paediatric-onset primary sclerosing cholangitis. Gut. 2017;66:1344–1346.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5530472</ArticleId>
+            <ArticleId IdType="pubmed">27670376</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kummen M, Hov JR. The gut microbial influence on cholestatic liver disease. Liver Int. 2019;39:1186–1196.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31125502</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schrumpf E, Kummen M, Valestrand L, et al.  The gut microbiota contributes to a mouse model of spontaneous bile duct inflammation. J Hepatol. 2016;66:382–389.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5250551</ArticleId>
+            <ArticleId IdType="pubmed">27720803</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tabibian JH, O’Hara SP, Trussoni CE, et al.  Absence of the intestinal microbiota exacerbates hepatobiliary disease in a murine model of primary sclerosing cholangitis. Hepatology. 2016;63:185–196.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4670294</ArticleId>
+            <ArticleId IdType="pubmed">26044703</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shah A, Crawford D, Burger D, et al.  Effects of Antibiotic Therapy in Primary Sclerosing Cholangitis with and without Inflammatory Bowel Disease: A Systematic Review and Meta-Analysis. Semin Liver Dis. 2019;1:432–441.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31315136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Allegretti JR, Kassam Z, Carrellas M, et al.  Fecal Microbiota Transplantation in Patients With Primary Sclerosing Cholangitis. Am J Gastroenterol. 2019;114:1071–1079.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30730351</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nakamoto N, Sasaki N, Aoki R, et al.  Gut pathobionts underlie intestinal barrier dysfunction and liver T helper 17 cell immune response in primary sclerosing cholangitis. Nat Microbiol. 2019;4:492–503.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30643240</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kummen M, Vesterhus M, Trøseid M, et al.  Elevated trimethylamine-N-oxide (TMAO) is associated with poor prognosis in primary sclerosing cholangitis patients with normal liver function. United Eur Gastroenterol J. 2017;5:532–541.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5446140</ArticleId>
+            <ArticleId IdType="pubmed">28588885</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rühlemann M, Liwinski T, Heinsen F-A, et al.  Consistent alterations in faecal microbiomes of patients with primary sclerosing cholangitis independent of associated colitis. Aliment Pharmacol Ther. 2019;50:580–589.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6899739</ArticleId>
+            <ArticleId IdType="pubmed">31250469</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>European Association for the Study of the Liver. EASL Clinical Practice Guidelines: management of cholestatic liver diseases. J Hepatol. 2009;51:237–267.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19501929</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lindor KD, Kowdley KV, Harrison EM. ACG Clinical Guideline: Primary Sclerosing Cholangitis. Am J Gastroenterol. 2015;110:646–659.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25869391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krawczak M, Nikolaus S, von Eberstein H, et al.  PopGen: population-based recruitment of patients and controls for the analysis of complex genotypephenotype relationships. Community Genet. 2006;9:55–61.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16490960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Müller N, Schulte DM, Türk K, et al.  IL-6 blockade by monoclonal antibodies inhibits apolipoprotein (a) expression and lipoprotein (a) synthesis in humans. J Lipid Res. 2015;56:1034–1042.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4409280</ArticleId>
+            <ArticleId IdType="pubmed">25713100</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lennard-Jones JE. Classification of inflammatory bowel disease. Scand J Gastroenterol. 1989;170(Suppl):2–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2617184</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Magro F, Gionchetti P, Eliakim R, et al.  Third European Evidence-based Consensus on Diagnosis and Management of Ulcerative Colitis. Part 1: Definitions, Diagnosis, Extra-intestinal Manifestations Pregnancy, Cancer Surveillance, Surgery, and Ileo-anal Pouch Disorders. J Crohns Colitis. 2017;11:649–670.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28158501</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim WR, Therneau TM, Wiesner RH, et al.  A revised natural history model for primary sclerosing cholangitis. Mayo Clin Proc. 2000;75:688–694.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10907383</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vries de EM, Wang J, Williamson KD, et al.  A novel prognostic model for transplant-free survival in primary sclerosing cholangitis. Gut. 2018;67:1864–1869.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6145288</ArticleId>
+            <ArticleId IdType="pubmed">28739581</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vesterhus M, Hov JR, Holm A, et al.  Enhanced liver fibrosis score predicts transplant-free survival in primary sclerosing cholangitis. Hepatology. 2015;62:188–97.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25833813</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang J, Thingholm LB, Skiecevičienė J, et al.  Genome-wide association analysis identifies variation in vitamin D receptor and other host factors influencing the gut microbiota. Nat Genet. 2016;48:1396–1406.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5626933</ArticleId>
+            <ArticleId IdType="pubmed">27723756</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Franzosa EA, McIver LJ, Rahnavard G, et al.  Species-level functional profiling of metagenomes and metatranscriptomes. Nat Methods. 2018;15:962–968.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6235447</ArticleId>
+            <ArticleId IdType="pubmed">30377376</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Truong DT, Franzosa EA, Tickle TL, et al.  MetaPhlAn2 for enhanced metagenomic taxonomic profiling. Nat Methods. 2015;12:902–903.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26418763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Midttun Ø, Hustad S, Ueland PM. Quantitative profiling of biomarkers related to B-vitamin status, tryptophan metabolism and inflammation in human plasma by liquid chromatography/tandem mass spectrometry. Rapid Commun Mass Spectrom. 2009;23:1371–1379.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19337982</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Midttun Ø, McCann A, Aarseth O, et al.  Combined Measurement of 6 Fat-Soluble Vitamins and 26 Water-Soluble Functional Vitamin Markers and Amino Acids in 50 μL of Serum or Plasma by High-Throughput Mass Spectrometry. Anal Chem. 2016;88:10427–10436.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27715010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ursell LK, Haiser HJ, Treuren W Van, et al.  The intestinal metabolome: an intersection between microbiota and host. Gastroenterology. 2014;146:1470–1476.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4102302</ArticleId>
+            <ArticleId IdType="pubmed">24631493</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hanes JW, Keresztes I, Begley TP. 13C NMR snapshots of the complex reaction coordinate of pyridoxal phosphate synthase. Nat Chem Biol. 2008;4:425–430.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18516049</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Magnúsdóttir S, Ravcheev D, Crécy-Lagard de V, et al.  Systematic genome assessment of B-vitamin biosynthesis suggests co-operation among gut microbes. Front Genet. 2015;6:148.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4403557</ArticleId>
+            <ArticleId IdType="pubmed">25941533</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pedersen HK, Gudmundsdottir V, Nielsen HB, et al.  Human gut microbes impact host serum metabolome and insulin sensitivity. Nature. 2016;535:376–381.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27409811</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Talwar D, Catchpole A, Wadsworth JM, et al.  The relationship between plasma albumin, alkaline phosphatase and pyridoxal phosphate concentrations in plasma and red cells: Implications for assessing vitamin B6 status. Clin Nutr. 2020;39:2824–2831.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31883613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoshii K, Hosomi K, Sawane K, et al.  Metabolism of Dietary and Microbial Vitamin B Family in the Regulation of Host Immunity. Front Nutr. 2019;6:48.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6478888</ArticleId>
+            <ArticleId IdType="pubmed">31058161</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fitzpatrick TB, Amrhein N, Kappes B, et al.  Two independent routes of de novo vitamin B6 biosynthesis: Not that different after all. Biochem J. 2007;407:1–13.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17822383</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ueland PM, Ulvik A, Rios-Avila L, et al.  Direct and Functional Biomarkers of Vitamin B6 Status. Annu Rev Nutr. 2015;35:33–70.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5988249</ArticleId>
+            <ArticleId IdType="pubmed">25974692</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Henderson JM, Codner MA, Hollins B, et al.  The fasting B6 vitamer profile and response to a pyridoxine load in normal and cirrhotic subjects. Hepatology. 1986;6:464–471.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3710434</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ulvik A, Midttun Ø, Pedersen ER, et al.  Association of plasma B-6 vitamers with systemic markers of inflammation before and after pyridoxine treatment in patients with stable angina pectoris. Am J Clin Nutr. 2012;95:1072–1078.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22492365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Borg ter PCJ, Fekkes D, Vrolijk JM, et al.  The relation between plasma tyrosine concentration and fatigue in primary biliary cirrhosis and primary sclerosing cholangitis. BMC Gastroenterol. 2005;5:11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1079813</ArticleId>
+            <ArticleId IdType="pubmed">15790420</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morgan MY, Marshall AW, Milsom JP, et al.  Plasma amino-acid patterns in liver disease. Gut. 1982;23:362–370.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1419690</ArticleId>
+            <ArticleId IdType="pubmed">7076013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Z, Klipfell E, Bennett BJ, et al.  Gut flora metabolism of phosphatidylcholine promotes cardiovascular disease. Nature. 2011;472:57–63.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3086762</ArticleId>
+            <ArticleId IdType="pubmed">21475195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Holeček M. Branched-chain amino acid supplementation in treatment of liver cirrhosis: Updated views on how to attenuate their harmful effects on cataplerosis and ammonia formation. Nutrition. 2017;41:80–85.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28760433</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Corbett AJ, Eckle SBG, Birkinshaw RW, et al.  T-cell activation by transitory neo-antigens derived from distinct microbial pathways. Nature. 2014;509:361–365.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24695216</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heymann F, Tacke F. Immunology in the liver - from homeostasis to disease. Nat Rev Gastroenterol Hepatol. 2016;13:88–110.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26758786</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>von Seth E, Zimmer CL, Reuterwall-Hansson M, et al.  Primary sclerosing cholangitis leads to dysfunction and loss of MAIT cells. Eur J Immunol. 2018;48:1997–2004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30252934</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Duan Y, Llorente C, Lang S, et al.  Bacteriophage targeting of gut bacterium attenuates alcoholic liver disease. Nature. 2019;575:505–511.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6872939</ArticleId>
+            <ArticleId IdType="pubmed">31723265</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>He Y, Wu W, Zheng H-M, et al.  Regional variation limits applications of healthy gut microbiome reference ranges and disease models. Nat Med. 2018;24:1532–1535.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30150716</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

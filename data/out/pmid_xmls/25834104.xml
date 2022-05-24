@@ -1,0 +1,142 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">25834104</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>02</Month>
+        <Day>09</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1741-2552</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>12</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2015</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of neural engineering</Title>
+          <ISOAbbreviation>J Neural Eng</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>EEG artifact removal-state-of-the-art and guidelines.</ArticleTitle>
+        <Pagination>
+          <StartPage>031001</StartPage>
+          <MedlinePgn>031001</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1088/1741-2560/12/3/031001</ELocationID>
+        <Abstract>
+          <AbstractText>This paper presents an extensive review on the artifact removal algorithms used to remove the main sources of interference encountered in the electroencephalogram (EEG), specifically ocular, muscular and cardiac artifacts. We first introduce background knowledge on the characteristics of EEG activity, of the artifacts and of the EEG measurement model. Then, we present algorithms commonly employed in the literature and describe their key features. Lastly, principally on the basis of the results provided by various researchers, but also supported by our own experience, we compare the state-of-the-art methods in terms of reported performance, and provide guidelines on how to choose a suitable artifact removal algorithm for a given scenario. With this review we have concluded that, without prior knowledge of the recorded EEG signal or the contaminants, the safest approach is to correct the measured EEG using independent component analysis-to be precise, an algorithm based on second-order statistics such as second-order blind identification (SOBI). Other effective alternatives include extended information maximization (InfoMax) and an adaptive mixture of independent component analyzers (AMICA), based on higher order statistics. All of these algorithms have proved particularly effective with simulations and, more importantly, with data collected in controlled recording conditions. Moreover, whenever prior knowledge is available, then a constrained form of the chosen method should be used in order to incorporate such additional information. Finally, since which algorithm is the best performing is highly dependent on the type of the EEG signal, the artifacts and the signal to contaminant ratio, we believe that the optimal method for removing artifacts from the EEG consists in combining more than one algorithm to correct the signal using multiple processing stages, even though this is an option largely unexplored by researchers in the area.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Urigüen</LastName>
+            <ForeName>Jose Antonio</ForeName>
+            <Initials>JA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Deustotech-Life (eVida Research Group), University of Deusto, Facultad de Ingeniería, 4a Planta Avda/Universidades 24, 48007 Bilbao, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Garcia-Zapirain</LastName>
+            <ForeName>Begoña</ForeName>
+            <Initials>B</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2015</Year>
+          <Month>04</Month>
+          <Day>02</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>J Neural Eng</MedlineTA>
+        <NlmUniqueID>101217933</NlmUniqueID>
+        <ISSNLinking>1741-2552</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000465" MajorTopicYN="Y">Algorithms</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016477" MajorTopicYN="Y">Artifacts</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003627" MajorTopicYN="N">Data Interpretation, Statistical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003936" MajorTopicYN="N">Diagnosis, Computer-Assisted</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+          <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004569" MajorTopicYN="N">Electroencephalography</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+          <QualifierName UI="Q000592" MajorTopicYN="Y">standards</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017410" MajorTopicYN="Y">Practice Guidelines as Topic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2015</Year>
+          <Month>4</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2015</Year>
+          <Month>4</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">25834104</ArticleId>
+        <ArticleId IdType="doi">10.1088/1741-2560/12/3/031001</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

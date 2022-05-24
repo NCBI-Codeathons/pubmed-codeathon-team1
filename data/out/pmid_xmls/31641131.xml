@@ -1,0 +1,322 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">31641131</PMID>
+      <DateCompleted>
+        <Year>2020</Year>
+        <Month>08</Month>
+        <Day>17</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>01</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2052-4463</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>6</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>Oct</Month>
+              <Day>22</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Scientific data</Title>
+          <ISOAbbreviation>Sci Data</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Classification of GABAergic interneurons by leading neuroscientists.</ArticleTitle>
+        <Pagination>
+          <StartPage>221</StartPage>
+          <MedlinePgn>221</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">221</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41597-019-0246-8</ELocationID>
+        <Abstract>
+          <AbstractText>There is currently no unique catalog of cortical GABAergic interneuron types. In 2013, we asked 48 leading neuroscientists to classify 320 interneurons by inspecting images of their morphology. That study was the first to quantify the degree of agreement among neuroscientists in morphology-based interneuron classification, showing high agreement for the chandelier and Martinotti types, yet low agreement for most of the remaining types considered. Here we present the dataset containing the classification choices by the neuroscientists according to interneuron type as well as to five prominent morphological features. These data can be used as crisp or soft training labels for learning supervised machine learning interneuron classifiers, while further analyses can try to pinpoint anatomical characteristics that make an interneuron especially difficult or especially easy to classify.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Mihaljević</LastName>
+            <ForeName>Bojan</ForeName>
+            <Initials>B</Initials>
+            <Identifier Source="ORCID">0000-0002-1656-6135</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Computational Intelligence Group, Departamento de Inteligencia Artificial, Universidad Politécnica de Madrid, Boadilla del Monte, 28660, Spain. bmihaljevic@fi.upm.es.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Benavides-Piccione</LastName>
+            <ForeName>Ruth</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Laboratorio Cajal de Circuitos Corticales, Universidad Politécnica de Madrid and Instituto Cajal (CSIC), Pozuelo de Alarcón, 28223, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bielza</LastName>
+            <ForeName>Concha</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Computational Intelligence Group, Departamento de Inteligencia Artificial, Universidad Politécnica de Madrid, Boadilla del Monte, 28660, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Larrañaga</LastName>
+            <ForeName>Pedro</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Computational Intelligence Group, Departamento de Inteligencia Artificial, Universidad Politécnica de Madrid, Boadilla del Monte, 28660, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>DeFelipe</LastName>
+            <ForeName>Javier</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Laboratorio Cajal de Circuitos Corticales, Universidad Politécnica de Madrid and Instituto Cajal (CSIC), Pozuelo de Alarcón, 28223, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>785907</GrantID>
+            <Agency>EC | Horizon 2020 Framework Programme (EU Framework Programme for Research and Innovation H2020)</Agency>
+            <Country>International</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D064886">Dataset</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2019</Year>
+          <Month>10</Month>
+          <Day>22</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Sci Data</MedlineTA>
+        <NlmUniqueID>101640192</NlmUniqueID>
+        <ISSNLinking>2052-4463</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="AssociatedDataset">
+          <RefSource>doi: 10.1186/s12859-018-2470-1</RefSource>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="AssociatedDataset">
+          <RefSource>doi: 10.1007/s12021-014-9254-1</RefSource>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="AssociatedDataset">
+          <RefSource>doi: 10.1038/nrn3444</RefSource>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059330" MajorTopicYN="N">GABAergic Neurons</DescriptorName>
+          <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007395" MajorTopicYN="N">Interneurons</DescriptorName>
+          <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2019</Year>
+          <Month>7</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2019</Year>
+          <Month>9</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>10</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>10</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2020</Year>
+          <Month>8</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31641131</ArticleId>
+        <ArticleId IdType="pmc">PMC6805952</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41597-019-0246-8</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41597-019-0246-8</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Ascoli GA, et al.  Petilla terminology: Nomenclature of features of GABAergic interneurons of the cerebral cortex. Nature Reviews Neuroscience. 2008;9:557–568. doi: 10.1038/nrn2402.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn2402</ArticleId>
+            <ArticleId IdType="pmc">PMC2868386</ArticleId>
+            <ArticleId IdType="pubmed">18568015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang ZJ, Luo L. It takes the world to understand the brain. Science. 2015;350:42–44. doi: 10.1126/science.aad4120.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aad4120</ArticleId>
+            <ArticleId IdType="pmc">PMC4975723</ArticleId>
+            <ArticleId IdType="pubmed">26430110</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grillner S, et al.  Worldwide initiatives to advance brain research. Nature Neuroscience. 2016;19:1118–1122. doi: 10.1038/nn.4371.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.4371</ArticleId>
+            <ArticleId IdType="pmc">PMC6047900</ArticleId>
+            <ArticleId IdType="pubmed">27571190</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tasic B, et al.  Adult mouse cortical cell taxonomy revealed by single cell transcriptomics. Nature Neuroscience. 2016;19:335–346. doi: 10.1038/nn.4216.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.4216</ArticleId>
+            <ArticleId IdType="pmc">PMC4985242</ArticleId>
+            <ArticleId IdType="pubmed">26727548</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gouwens NW, et al.  Classification of electrophysiological and morphological neuron types in the mouse visual cortex. Nature Neuroscience. 2019;22:1182–1195. doi: 10.1038/s41593-019-0417-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41593-019-0417-0</ArticleId>
+            <ArticleId IdType="pubmed">31209381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Markram H, et al.  Interneurons of the neocortical inhibitory system. Nature Reviews Neuroscience. 2004;5:793–807. doi: 10.1038/nrn1519.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn1519</ArticleId>
+            <ArticleId IdType="pubmed">15378039</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>DeFelipe J, et al.  New insights into the classification and nomenclature of cortical GABAergic interneurons. Nature Reviews Neuroscience. 2013;14:202–216. doi: 10.1038/nrn3444.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn3444</ArticleId>
+            <ArticleId IdType="pmc">PMC3619199</ArticleId>
+            <ArticleId IdType="pubmed">23385869</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Markram H, et al.  Reconstruction and simulation of neocortical microcircuitry. Cell. 2015;163:456–492. doi: 10.1016/j.cell.2015.09.029.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2015.09.029</ArticleId>
+            <ArticleId IdType="pubmed">26451489</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tremblay R, Lee S, Rudy B. GABAergic interneurons in the neocortex: From cellular properties to circuits. Neuron. 2016;91:260–292. doi: 10.1016/j.neuron.2016.06.033.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2016.06.033</ArticleId>
+            <ArticleId IdType="pmc">PMC4980915</ArticleId>
+            <ArticleId IdType="pubmed">27477017</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feldmeyer D, Qi G, Emmenegger V, Staiger JF. Inhibitory interneurons and their circuit motifs in the many layers of the barrel cortex. Neuroscience. 2018;368:132–151. doi: 10.1016/j.neuroscience.2017.05.027.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuroscience.2017.05.027</ArticleId>
+            <ArticleId IdType="pubmed">28528964</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ascoli GA, Donohue DE, Halavi M. Neuromorpho.org: A central resource for neuronal morphologies. The Journal of Neuroscience. 2007;27:9247–9251. doi: 10.1523/JNEUROSCI.2055-07.2007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.2055-07.2007</ArticleId>
+            <ArticleId IdType="pmc">PMC6673130</ArticleId>
+            <ArticleId IdType="pubmed">17728438</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mihaljević B, Benavides-Piccione R, Bielza C, DeFelipe J, Larrañaga P. Bayesian network classifiers for categorizing cortical GABAergic interneurons. Neuroinformatics. 2015;13:192–208. doi: 10.1007/s12021-014-9254-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s12021-014-9254-1</ArticleId>
+            <ArticleId IdType="pubmed">25420745</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mihaljević B, Bielza C, Benavides-Piccione R, DeFelipe J, Larrañaga P. Multi-dimensional classification of GABAergic interneurons with Bayesian network-modeled label uncertainty. Frontiers in Computational Neuroscience. 2014;8:150.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4243564</ArticleId>
+            <ArticleId IdType="pubmed">25505405</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mihaljević B, et al.  Classifying GABAergic interneurons with semi-supervised projected model-based clustering. Artificial Intelligence in Medicine. 2015;65:49–59. doi: 10.1016/j.artmed.2014.12.010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.artmed.2014.12.010</ArticleId>
+            <ArticleId IdType="pubmed">25595673</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>López-Cruz PL, Larrañaga P, DeFelipe J, Bielza C. Bayesian network modeling of the consensus between experts: An application to neuron classification. International Journal of Approximate Reasoning. 2014;55:3–22. doi: 10.1016/j.ijar.2013.03.011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ijar.2013.03.011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mihaljević B, et al.  Towards a supervised classification of neocortical interneuron morphologies. BMC Bioinformatics. 2018;19:511. doi: 10.1186/s12859-018-2470-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12859-018-2470-1</ArticleId>
+            <ArticleId IdType="pmc">PMC6296106</ArticleId>
+            <ArticleId IdType="pubmed">30558530</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dawid AP, Skene AM. Maximum likelihood estimation of observer error-rates using the EM algorithm. Journal of the Royal Statistical Society. Series C (Applied Statistics) 1979;28:20–28.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Welinder, P., Branson, S., Belongie, S. &amp; Perona, P. The multidimensional wisdom of crowds. In Advances in Neural Information Processing Systems 23, 2424–2432 (2010).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Raykar VC, Yu S. Eliminating spammers and ranking annotators for crowdsourced labeling tasks. Journal of Machine Learning Research. 2012;13:491–518.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mihaljević B, Benavides-Piccione R, Bielza C, Larrañaga P, DeFelipe J. 2019. Classification of GABAergic interneurons by leading neuroscientists. figshare. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.6084/m9.figshare.c.4574186</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kuncheva, L. I. Combining pattern classifiers: Methods and algorithms. (John Wiley &amp; Sons, 2014).</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

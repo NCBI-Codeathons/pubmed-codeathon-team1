@@ -1,0 +1,682 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35082167</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>05</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1557-3125</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>20</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>04</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Molecular cancer research : MCR</Title>
+          <ISOAbbreviation>Mol Cancer Res</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Inactivation of p21-Activated Kinase 2 (Pak2) Inhibits the Development of Nf2-Deficient Tumors by Restricting Downstream Hedgehog and Wnt Signaling.</ArticleTitle>
+        <Pagination>
+          <StartPage>699</StartPage>
+          <EndPage>711</EndPage>
+          <MedlinePgn>699-711</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1158/1541-7786.MCR-21-0837</ELocationID>
+        <Abstract>
+          <AbstractText Label="UNLABELLED">Because loss of the NF2 tumor suppressor gene results in p21-activated kinase (Pak) activation, PAK inhibitors hold promise for the treatment of NF2-deficient tumors. To test this possibility, we asked if loss of Pak2, a highly expressed group I PAK member, affects the development of malignant mesothelioma in Nf2;Cdkn2a-deficient (NC) mice and the growth properties of NC mesothelioma cells in culture. In vivo, deletion of Pak2 resulted in a markedly decreased incidence and delayed onset of both pleural and peritoneal malignant mesotheliomas in NC mice. In vitro, Pak2 deletion decreased malignant mesothelioma cell viability, migration, clonogenicity, and spheroid formation. RNA-sequencing analysis demonstrated downregulated expression of Hedgehog and Wnt pathway genes in NC;Pak2-/- mesothelioma cells versus NC;Pak2+/+ mesothelioma cells. Targeting of the Hedgehog signaling component Gli1 or its target gene Myc inhibited cell viability and spheroid formation in NC;P+/+ mesothelioma cells. Kinome profiling uncovered kinase changes indicative of EMT in NC;Pak2-/- mesothelioma cells, suggesting that Pak2-deficient malignant mesotheliomas can adapt by reprogramming their kinome in the absence of Pak activity. The identification of such compensatory pathways offers opportunities for rational combination therapies to circumvent resistance to anti-PAK drugs.</AbstractText>
+          <AbstractText Label="IMPLICATIONS" NlmCategory="UNASSIGNED">We provide evidence supporting a role for PAK inhibitors in treating NF2-deficient tumors. NF2-deficient tumors lacking Pak2 eventually adapt by kinome reprogramming, presenting opportunities for combination therapies to bypass anti-PAK drug resistance.</AbstractText>
+          <CopyrightInformation>©2022 American Association for Cancer Research.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Sementino</LastName>
+            <ForeName>Eleonora</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cancer Signaling and Epigenetics Program, Fox Chase Cancer Center, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Kadariya</LastName>
+            <ForeName>Yuwaraj</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cancer Signaling and Epigenetics Program, Fox Chase Cancer Center, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cheung</LastName>
+            <ForeName>Mitchell</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cancer Signaling and Epigenetics Program, Fox Chase Cancer Center, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Menges</LastName>
+            <ForeName>Craig W</ForeName>
+            <Initials>CW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cancer Signaling and Epigenetics Program, Fox Chase Cancer Center, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tan</LastName>
+            <ForeName>Yinfei</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Genomics Facility, Fox Chase Cancer Center, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kukuyan</LastName>
+            <ForeName>Anna-Mariya</ForeName>
+            <Initials>AM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cancer Signaling and Epigenetics Program, Fox Chase Cancer Center, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shrestha</LastName>
+            <ForeName>Ujjawal</ForeName>
+            <Initials>U</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cancer Signaling and Epigenetics Program, Fox Chase Cancer Center, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Karchugina</LastName>
+            <ForeName>Sofiia</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0002-9648-8092</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Cancer Signaling and Epigenetics Program, Fox Chase Cancer Center, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cai</LastName>
+            <ForeName>Kathy Q</ForeName>
+            <Initials>KQ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Histopathology Facility, Fox Chase Cancer Center, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Peri</LastName>
+            <ForeName>Suraj</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Bioinformatics and Biostatistics Facility, Fox Chase Cancer Center, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Duncan</LastName>
+            <ForeName>James S</ForeName>
+            <Initials>JS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cancer Signaling and Epigenetics Program, Fox Chase Cancer Center, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chernoff</LastName>
+            <ForeName>Jonathan</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0002-4803-7836</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Cancer Signaling and Epigenetics Program, Fox Chase Cancer Center, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Testa</LastName>
+            <ForeName>Joseph R</ForeName>
+            <Initials>JR</Initials>
+            <Identifier Source="ORCID">0000-0003-1301-5175</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Cancer Signaling and Epigenetics Program, Fox Chase Cancer Center, Philadelphia, Pennsylvania.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>P30 CA006927</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 CA148805</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>CA148805</GrantID>
+            <Acronym>BC</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Mol Cancer Res</MedlineTA>
+        <NlmUniqueID>101150042</NlmUniqueID>
+        <ISSNLinking>1541-7786</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D053823">Hedgehog Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="C515907">PAK2 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="C515909">Pak2 protein, mouse</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="D054462">p21-Activated Kinases</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D053823" MajorTopicYN="N">Hedgehog Proteins</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008654" MajorTopicYN="Y">Mesothelioma</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086002" MajorTopicYN="Y">Mesothelioma, Malignant</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D060449" MajorTopicYN="N">Wnt Signaling Pathway</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D054462" MajorTopicYN="N">p21-Activated Kinases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>Conflict of Interest Statement. JRT has provided legal consultation regarding genetic aspects of mesothelioma. The remaining authors have no potential conflicts of interest with regard to the publication of this work.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>6</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pmc-release">
+          <Year>2022</Year>
+          <Month>11</Month>
+          <Day>4</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>27</Day>
+          <Hour>5</Hour>
+          <Minute>46</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35082167</ArticleId>
+        <ArticleId IdType="mid">NIHMS1775080</ArticleId>
+        <ArticleId IdType="pmc">PMC9081258</ArticleId>
+        <ArticleId IdType="doi">10.1158/1541-7786.MCR-21-0837</ArticleId>
+        <ArticleId IdType="pii">1541-7786.MCR-21-0837</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Kindler HL. Peritoneal mesothelioma: the site of origin matters. Am Soc Clin Oncol Educ Book
+2013;33:182–8.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Britton M
+The epidemiology of mesothelioma. Semin Oncol
+2002;29:18–25.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cheng JQ, Jhanwar SC, Klein WM, Bell DW, Lee W-C, Altomare DA, et al.
+p16 alterations and deletion mapping of 9p21-p22 in malignant mesothelioma. Cancer Res
+1994;54:5547–51.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7923195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sekido Y, Pass HI, Bader S, Mew DJY, Christman MF, Gazdar AF, et al.
+Neurofibromatosis type 2 (NF2) gene is somatically mutated in mesothelioma but not in lung cancer. Cancer Res
+1995;55:1227–31.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7882313</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bianchi AB, Mitsunaga S-I, Cheng JQ, Klein WM, Jhanwar SC, Seizinger B, et al.
+High frequency of inactivating mutations in the neurofibromatosis type 2 gene (NF2) in primary malignant mesotheliomas. Proc Natl Acad Sci U S A
+1995;92:10854–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC40529</ArticleId>
+            <ArticleId IdType="pubmed">7479897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng JQ, Lee WC, Klein MA, Cheng GZ, Jhanwar SC, Testa JR. Frequent mutations of NF2 and allelic loss from chromosome band 22q12 in malignant mesothelioma: evidence for a two-hit mechanism of NF2 inactivation. Genes Chromosomes Cancer
+1999;24:238–42.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10451704</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Altomare DA, Vaslet CA, Skele KL, De Rienzo A, Devarajan K, Jhanwar SC, et al.
+A mouse model recapitulating molecular features of human mesothelioma. Cancer Res
+2005;65:8090–5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16166281</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bott M, Brevet M, Taylor BS, Shimizu S, Ito T, Wang L, et al.
+The nuclear deubiquitinase BAP1 is commonly inactivated by somatic mutations and 3p21.1 losses in malignant pleural mesothelioma. Nat Genet
+2011;43:668–72.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4643098</ArticleId>
+            <ArticleId IdType="pubmed">21642991</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Testa JR, Cheung M, Pei J, Below JE, Tan Y, Sementino E, et al.
+Germline BAP1 mutations predispose to malignant mesothelioma. Nat Genet
+2011;43:1022–5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3184199</ArticleId>
+            <ArticleId IdType="pubmed">21874000</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nasu M, Emi M, Pastorino S, Tanji M, Powers A, Luk H, et al.
+High incidence of somatic BAP1 alterations in sporadic malignant mesothelioma. J Thorac Oncol
+2015;10:565–76.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4408084</ArticleId>
+            <ArticleId IdType="pubmed">25658628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Singhi AD, Krasinskas AM, Choudry HA, Bartlett DL, Pingpank JF, Zeh HJ, et al.
+The prognostic significance of BAP1, NF2, and CDKN2A in malignant peritoneal mesothelioma. Mod Pathol
+2016;29:14–24.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26493618</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hmeljak J, Sanchez-Vega F, Hoadley KA, Shih J, Stewart C, Heiman D, et al.
+Integrative molecular characterization of malignant pleural mesothelioma. Cancer Discov
+2018;8:1548–65.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6310008</ArticleId>
+            <ArticleId IdType="pubmed">30322867</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hung YP, Dong F, Torre M, Crum CP, Bueno R, Chirieac LR. Molecular characterization of diffuse malignant peritoneal mesothelioma. Mod Pathol
+2020;33:2269–79.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32504035</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Offin M, Yang SR, Egger J, Jayakumaran G, Spencer RS, Lopardo J, et al.
+Molecular characterization of peritoneal mesotheliomas. J Thorac Oncol
+2021;Oct
+11;S1556–0864(21)03215–9. doi: 10.1016/j.jtho.2021.09.012. Online ahead of print</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jtho.2021.09.012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fleury-Feith J, Lecomte C, Renier A, Matrat M, Kheuang L, Abramowski V, et al.
+Hemizygosity of Nf2 is associated with increased susceptibility to asbestos-induced peritoneal tumours. Oncogene
+2003;22:3799–805.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12802287</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou D, Conrad C, Xia F, Park JS, Payer B, Yin Y, et al.
+Mst1 and Mst2 maintain hepatocyte quiescence and suppress hepatocellular carcinoma development through inactivation of the Yap1 oncogene. Cancer Cell
+2009;16:425–38.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3023165</ArticleId>
+            <ArticleId IdType="pubmed">19878874</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Murakami H, Mizuno T, Taniguchi T, Fujii M, Ishiguro F, Fukui T, et al.
+LATS2 is a tumor suppressor gene of malignant mesothelioma. Cancer Res
+2011;71:873–83.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21245096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mizuno T, Murakami H, Fujii M, Ishiguro F, Tanaka I, Kondo Y, et al.
+YAP induces malignant mesothelioma cell proliferation by upregulating transcription of cell cycle-promoting genes. Oncogene
+2012;31:5117–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22286761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li W, Cooper J, Zhou L, Yang C, Erdjument-Bromage H, Zagzag D, et al.
+Merlin/NF2 loss-driven tumorigenesis linked to CRL4(DCAF1)-mediated inhibition of the hippo pathway kinases Lats1 and 2 in the nucleus. Cancer Cell
+2014;26:48–60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4126592</ArticleId>
+            <ArticleId IdType="pubmed">25026211</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaw RJ, McClatchey AI, Jacks T. Localization and functional domains of the neurofibromatosis type II tumor suppressor, merlin. Cell Growth Diff
+1998;9:287–96.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9563848</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morrison H, Sherman LS, Legg J, Banine F, Isacke C, Haipek CA, et al.
+The NF2 tumor suppressor gene product, merlin, mediates contact inhibition of growth through interactions with CD44. Genes Dev
+2001;15:968–80.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC312675</ArticleId>
+            <ArticleId IdType="pubmed">11316791</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiao GH, Beeser A, Chernoff J, Testa JR. p21-activated kinase links Rac/Cdc42 signaling to merlin. J Biol Chem
+2002;277:883–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11719502</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kissil JL, Johnson KC, Eckman MS, Jacks T. Merlin phosphorylation by p21-activated kinase 2 and effects of phosphorylation on merlin localization. J Biol Chem
+2002;277:10394–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11782491</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kissil JL, Wilker EW, Johnson KC, Eckman MS, Yaffe MB, Jacks T. Merlin, the product of the Nf2 tumor suppressor gene, is an inhibitor of the p21-activated kinase, Pak1. Mol Cell
+2003;12:841–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14580336</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rong R, Surace EI, Haipek CA, Gutmann DH, Ye K. Serine 518 phosphorylation modulates merlin intramolecular association and binding to critical effectors important for NF2 growth suppression. Oncogene
+2004;23:8447–54.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15378014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thurneysen C, Opitz I, Kurtz S, Weder W, Stahel RA, Felley-Bosco E. Functional inactivation of NF2/merlin in human mesothelioma. Lung Cancer
+2009;64:140–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18835652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Radu M, Semenova G, Kosoff R, Chernoff J. PAK signalling during the development and progression of cancer. Nat Rev Cancer
+2014;14:13–25.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4115244</ArticleId>
+            <ArticleId IdType="pubmed">24505617</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hofmann C, Shepelev M, Chernoff J. The genetics of Pak. J Cell Sci
+2004;117:4343–54.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15331659</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bokoch GM. Biology of the p21-activated kinases. Annu Rev Biochem
+2003;72:743–81.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12676796</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Menges CW, Sementino E, Talarchek J, Xu J, Chernoff J, Peterson JR, et al.
+Group I p21-activated kinases (PAKs) promote tumor cell proliferation and survival through the AKT1 and Raf-MAPK pathways. Mol Cancer Res
+2012;10:1178–88.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3447107</ArticleId>
+            <ArticleId IdType="pubmed">22798428</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jongsma J, van Montfort E, Vooijs M, Zevenhoven J, Krimpenfort P, van der Valk M, et al.
+A conditional mouse model for malignant mesothelioma. Cancer Cell
+2008;12:261–71.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Radu M, Lyle K, Hoeflich KP, Villamar-Cruz O, Koeppen H, Chernoff J. p21-activated kinase 2 regulates endothelial development and function through the Bmk1/Erk5 pathway. Mol Cell Biol
+2015;35:3990–4005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4628059</ArticleId>
+            <ArticleId IdType="pubmed">26391956</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kukuyan AM, Sementino E, Kadariya Y, Menges CW, Cheung M, Tan Y, et al.
+Inactivation of Bap1 cooperates with losses of Nf2 and Cdkn2a to drive the development of pleural malignant mesothelioma in conditional mouse models. Cancer Res
+2019;79:4113–23.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6697648</ArticleId>
+            <ArticleId IdType="pubmed">31151962</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Connolly DC, Hensley HH. Xenograft and transgenic mouse models of epithelial ovarian cancer and non-invasive imaging modalities to monitor ovarian tumor growth in situ: applications in evaluating novel therapeutic agents. Curr Protoc Pharmacol
+2009;45:14.2.1–2.6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2904083</ArticleId>
+            <ArticleId IdType="pubmed">20634901</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Menges CW, Kadariya Y, Altomare D, Talarchek J, Neumann-Domer E, Wu Y, et al.
+Tumor suppressor alterations cooperate to drive aggressive mesotheliomas with enriched cancer stem cells via a p53-miR-34a-c-Met axis. Cancer Res
+2014;74:1261–71.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3945416</ArticleId>
+            <ArticleId IdType="pubmed">24371224</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Love MI, Huber W, Anders S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol
+2014;15:550.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4302049</ArticleId>
+            <ArticleId IdType="pubmed">25516281</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Durinck S, Spellman PT, Birney E, Huber W. Mapping identifiers for the integration of genomic datasets with the R/Bioconductor package biomaRt. Nat Protoc
+2009;4:1184–91.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3159387</ArticleId>
+            <ArticleId IdType="pubmed">19617889</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL, Gillette MA, et al.
+Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. Proc Natl Acad Sci U S A
+2005;102:15545–50.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1239896</ArticleId>
+            <ArticleId IdType="pubmed">16199517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kurimchak AM, Shelton C, Duncan KE, Johnson KJ, Brown J, O’Brien S, et al.
+Resistance to BET bromodomain inhibitors is mediated by kinome reprogramming in ovarian cancer. Cell Rep
+2016;16:1273–86.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4972668</ArticleId>
+            <ArticleId IdType="pubmed">27452461</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kurimchak AM, Kumar V, Herrera-Montávez C, Johnson KJ, Srivastava N, Devarajan K, et al.
+Kinome profiling of primary endometrial tumors using multiplexed inhibitor beads and mass spectrometry identifies SRPK1 as candidate therapeutic target. Mol Cell Proteomics
+2020;19:2068–90.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7710141</ArticleId>
+            <ArticleId IdType="pubmed">32994315</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dummler B, Ohshiro K, Kumar R, Field J. Pak protein kinases and their role in cancer. Cancer Metastasis Rev
+2009;28:51–63.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3923596</ArticleId>
+            <ArticleId IdType="pubmed">19165420</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sells MA, Boyd JT, Chernoff J. p21-activated kinase 1 (Pak1) regulates cell motility in mammalian fibroblasts. J Cell Biol
+1999;145:837–49.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2133181</ArticleId>
+            <ArticleId IdType="pubmed">10330410</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Allen JD, Jaffer ZM, Park SJ, Burgin S, Hofmann C, Sells MA, et al.
+p21-activated kinase regulates mast cell degranulation via effects on calcium mobilization and cytoskeletal dynamics. Blood
+2009;113:2695–705.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2661857</ArticleId>
+            <ArticleId IdType="pubmed">19124833</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rudolph J, Murray LJ, Ndubaku CO, O’Brien T, Blackwood E, Wang W, et al.
+Chemically diverse group I p21-activated kinase (PAK) inhibitors impart acute cardiovascular toxicity with a narrow therapeutic window. J Med Chem
+2016;59:5520–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27167326</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neradil J, Veselska R. Nestin as a marker of cancer stem cells. Cancer Sci
+2015;106:803–11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4520630</ArticleId>
+            <ArticleId IdType="pubmed">25940879</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Usui T, Sakurai M, Umata K, Elbadawy M, Ohama T, Yamawaki H, et al.
+Hedgehog signals mediate anti-cancer drug resistance in three-dimensional primary colorectal cancer organoid culture. Int J Mol Sci
+2018;19:1098.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Avery JT, Zhang R, Boohaker RJ. GLI1: A Therapeutic target for cancer. Front Oncol
+2021;11:673154.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8186314</ArticleId>
+            <ArticleId IdType="pubmed">34113570</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peng X, He Q, Li G, Ma J, Zhong TP. Rac1-PAK2 pathway Is essential for zebrafish heart regeneration. Biochem Biophys Res Commun
+2016;472:637–42.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26966072</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Joseph GA, Hung M, Goel AJ, Hong M, Rieder MK, Beckmann ND, et al.
+Late-onset megaconial myopathy in mice lacking group I Paks. Skelet Muscle
+2019;9:5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6383276</ArticleId>
+            <ArticleId IdType="pubmed">30791960</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nieto MA, Huang RY-J, Jackson RA, Thiery JP. EMT: 2016. Cell
+2016;166:21–45.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27368099</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

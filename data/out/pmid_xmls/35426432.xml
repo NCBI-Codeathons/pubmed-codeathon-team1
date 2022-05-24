@@ -1,0 +1,195 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">35426432</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>15</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1523-5866</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Apr</Month>
+              <Day>15</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Neuro-oncology</Title>
+          <ISOAbbreviation>Neuro Oncol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Evaluation of MRI-based radiomics characteristics for differentiation of benign and malignant peripheral nerve sheath tumors in neurofibromatosis type 1.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">noac100</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1093/neuonc/noac100</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Patients with neurofibromatosis type 1 (NF1) develop benign (BPNST), pre-malignant atypical (ANF), and malignant (MPNST) peripheral nerve sheath tumors. Radiological differentiation of these entities is challenging. Therefore, we aimed to evaluate the value of an MRI-based radiomics machine learning classifier for differentiation of these three entities of internal peripheral nerve sheath tumors in NF1 patients.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">MRI was performed at 3T in 36 NF1 patients (20 male; age: 31±11 years). Segmentation of 117 BPNSTs, 17 MPNSTs, and 8 ANFs was manually performed using T2w SPAIR sequences. One hundred seven features per lesion were extracted using PyRadiomics and applied for BPNST vs. MPNST differentiation. A 5-feature radiomics signature was defined based on the most important features and tested for signature-based BPNST vs. MPNST classification (random forest (RF) classification, leave-one-patient-out evaluation). In a second step, signature feature expressions for BPNSTs, ANFs and MPNSTs were evaluated for radiomics-based classification for these three entities.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The mean AUC for the radiomics-based BPNST vs. MPNST differentiation was 0.94, corresponding to correct classification of on average 16/17 MPNSTs and 114/117 BPNSTs (sensitivity: 94%, specificity: 97%). Exploratory analysis with the 8 ANFs revealed intermediate radiomic feature characteristics in-between BPNST and MPNST tumor feature expression.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In this proof-of-principle study, machine learning using MRI-based radiomics characteristics allows sensitive and specific differentiation of benign and malignant peripheral nerve sheath tumors in NF1 patients. Feature expression of pre-malignant atypical tumors were distributed in-between benign and malignant tumor feature expressions, which illustrates biological plausibility of the considered radiomics characteristics.</AbstractText>
+          <CopyrightInformation>© The Author(s) 2022. Published by Oxford University Press on behalf of the Society for Neuro-Oncology.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ristow</LastName>
+            <ForeName>Inka</ForeName>
+            <Initials>I</Initials>
+            <Identifier Source="ORCID">0000-0002-3032-2321</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Diagnostic and Interventional Radiology and Nuclear Medicine, University Medical Center Hamburg-Eppendorf, Martinistraße, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Madesta</LastName>
+            <ForeName>Frederic</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Computational Neuroscience, University Medical Center Hamburg-Eppendorf, Martinistraße, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Well</LastName>
+            <ForeName>Lennart</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Diagnostic and Interventional Radiology and Nuclear Medicine, University Medical Center Hamburg-Eppendorf, Martinistraße, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shenas</LastName>
+            <ForeName>Farzad Y</ForeName>
+            <Initials>FY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Diagnostic and Interventional Radiology and Nuclear Medicine, University Medical Center Hamburg-Eppendorf, Martinistraße, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wright</LastName>
+            <ForeName>Felicia</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Diagnostic and Interventional Radiology and Nuclear Medicine, University Medical Center Hamburg-Eppendorf, Martinistraße, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Molwitz</LastName>
+            <ForeName>Isabel</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Diagnostic and Interventional Radiology and Nuclear Medicine, University Medical Center Hamburg-Eppendorf, Martinistraße, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Farschtschi</LastName>
+            <ForeName>Said</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurology, University Medical Center Hamburg-Eppendorf, Martinistraße, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bannas</LastName>
+            <ForeName>Peter</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Diagnostic and Interventional Radiology and Nuclear Medicine, University Medical Center Hamburg-Eppendorf, Martinistraße, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Adam</LastName>
+            <ForeName>Gerhard</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Diagnostic and Interventional Radiology and Nuclear Medicine, University Medical Center Hamburg-Eppendorf, Martinistraße, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mautner</LastName>
+            <ForeName>Victor F</ForeName>
+            <Initials>VF</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurology, University Medical Center Hamburg-Eppendorf, Martinistraße, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Werner</LastName>
+            <ForeName>René</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Computational Neuroscience, University Medical Center Hamburg-Eppendorf, Martinistraße, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Salamon</LastName>
+            <ForeName>Johannes</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Diagnostic and Interventional Radiology and Nuclear Medicine, University Medical Center Hamburg-Eppendorf, Martinistraße, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>04</Month>
+          <Day>15</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Neuro Oncol</MedlineTA>
+        <NlmUniqueID>100887420</NlmUniqueID>
+        <ISSNLinking>1522-8517</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">NF1</Keyword>
+        <Keyword MajorTopicYN="N">atypical neurofibroma</Keyword>
+        <Keyword MajorTopicYN="N">machine learning</Keyword>
+        <Keyword MajorTopicYN="N">magnetic resonance imaging</Keyword>
+        <Keyword MajorTopicYN="N">malignant peripheral nerve sheath tumor</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>8</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>15</Day>
+          <Hour>8</Hour>
+          <Minute>36</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35426432</ArticleId>
+        <ArticleId IdType="doi">10.1093/neuonc/noac100</ArticleId>
+        <ArticleId IdType="pii">6568977</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

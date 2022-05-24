@@ -1,0 +1,475 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">31065411</PMID>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>09</Month>
+        <Day>30</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Print">2156-7085</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>9</Volume>
+            <Issue>12</Issue>
+            <PubDate>
+              <Year>2018</Year>
+              <Month>Dec</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Biomedical optics express</Title>
+          <ISOAbbreviation>Biomed Opt Express</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Open-source, machine and deep learning-based automated algorithm for gestational age estimation through smartphone lens imaging.</ArticleTitle>
+        <Pagination>
+          <StartPage>6038</StartPage>
+          <EndPage>6052</EndPage>
+          <MedlinePgn>6038-6052</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1364/BOE.9.006038</ELocationID>
+        <Abstract>
+          <AbstractText>Gestational age estimation at time of birth is critical for determining the degree of prematurity of the infant and for administering appropriate postnatal treatment. We present a fully automated algorithm for estimating gestational age of premature infants through smartphone lens imaging of the anterior lens capsule vasculature (ALCV). Our algorithm uses a fully convolutional network and blind image quality analyzers to segment usable anterior capsule regions. Then, it extracts ALCV features using a residual neural network architecture and trains on these features using a support vector machine-based classifier. The classification algorithm is validated using leave-one-out cross-validation on videos captured from 124 neonates. The algorithm is expected to be an influential tool for remote and point-of-care gestational age estimation of premature neonates in low-income countries. To this end, we have made the software open source.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Desai</LastName>
+            <ForeName>Arjun D</ForeName>
+            <Initials>AD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, Duke University, Durham 27708, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Computer Science, Duke University, Durham 27708, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Peng</LastName>
+            <ForeName>Chunlei</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, Duke University, Durham 27708, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>School of Cyber Engineering, Xidian University, Xi'an 710071, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fang</LastName>
+            <ForeName>Leyuan</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, Duke University, Durham 27708, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mukherjee</LastName>
+            <ForeName>Dibyendu</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, Duke University, Durham 27708, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yeung</LastName>
+            <ForeName>Andrew</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, Duke University, Durham 27708, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jaffe</LastName>
+            <ForeName>Stephanie J</ForeName>
+            <Initials>SJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, Duke University, Durham 27708, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Griffin</LastName>
+            <ForeName>Jennifer B</ForeName>
+            <Initials>JB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Global Health, RTI International, Research Triangle Park 27709, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Farsiu</LastName>
+            <ForeName>Sina</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, Duke University, Durham 27708, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Ophthalmology, Duke University Medical Center, Durham 27710, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Computer Science, Duke University, Durham 27708, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>P30 EY005722</GrantID>
+            <Acronym>EY</Acronym>
+            <Agency>NEI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2018</Year>
+          <Month>11</Month>
+          <Day>07</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Biomed Opt Express</MedlineTA>
+        <NlmUniqueID>101540630</NlmUniqueID>
+        <ISSNLinking>2156-7085</ISSNLinking>
+      </MedlineJournalInfo>
+      <CoiStatement>The authors declare that there are no conflicts of interest related to this article.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>8</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2018</Year>
+          <Month>10</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2018</Year>
+          <Month>10</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2019</Year>
+          <Month>5</Month>
+          <Day>9</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31065411</ArticleId>
+        <ArticleId IdType="pmc">PMC6491013</ArticleId>
+        <ArticleId IdType="doi">10.1364/BOE.9.006038</ArticleId>
+        <ArticleId IdType="pii">343139</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>World Health Organization , “Preterm Birth” (2017), retrieved http://www.who.int/mediacentre/factsheets/fs363/en/.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Skupski D. W., Owen J., Kim S., Fuchs K. M., Albert P. S., Grantz K. L., “Estimating Gestational Age From Ultrasound Fetal Biometrics,” Obstet. Gynecol.
+130(2), 433–441 (2017).10.1097/AOG.0000000000002137</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/AOG.0000000000002137</ArticleId>
+            <ArticleId IdType="pmc">PMC5712287</ArticleId>
+            <ArticleId IdType="pubmed">28697101</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee A. C., Panchal P., Folger L., Whelan H., Whelan R., Rosner B., Blencowe H., Lawn J. E., “Diagnostic Accuracy of Neonatal Assessment for Gestational Age Determination: A Systematic Review,” Pediatrics
+140(6), e20171423 (2017).10.1542/peds.2017-1423</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1542/peds.2017-1423</ArticleId>
+            <ArticleId IdType="pubmed">29150458</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ballard J. L., Novak K. K., Driver M., “A simplified score for assessment of fetal maturation of newly born infants,” J. Pediatr.
+95(5), 769–774 (1979).10.1016/S0022-3476(79)80734-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0022-3476(79)80734-9</ArticleId>
+            <ArticleId IdType="pubmed">490248</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dubowitz L. M., Dubowitz V., Goldberg C., “Clinical assessment of gestational age in the newborn infant,” J. Pediatr.
+77(1), 1–10 (1970).10.1016/S0022-3476(70)80038-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0022-3476(70)80038-5</ArticleId>
+            <ArticleId IdType="pubmed">5430794</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blencowe H., Cousens S., Chou D., Oestergaard M., Say L., Moller A.-B., Kinney M., Lawn J., “Born too soon: the global epidemiology of 15 million preterm births,” Reprod. Health
+10(Suppl 1), S2 (2013).10.1186/1742-4755-10-S1-S2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1742-4755-10-S1-S2</ArticleId>
+            <ArticleId IdType="pmc">PMC3828585</ArticleId>
+            <ArticleId IdType="pubmed">24625129</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hittner H. M., Hirsch N. J., Rudolph A. J., “Assessment of gestational age by examination of the anterior vascular capsule of the lens,” J. Pediatr.
+91(3), 455–458 (1977).10.1016/S0022-3476(77)81324-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0022-3476(77)81324-3</ArticleId>
+            <ArticleId IdType="pubmed">894419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Campbell J. P., Ataer-Cansizoglu E., Bolon-Canedo V., Bozkurt A., Erdogmus D., Kalpathy-Cramer J., Patel S. N., Reynolds J. D., Horowitz J., Hutcheson K., Shapiro M., Repka M. X., Ferrone P., Drenser K., Martinez-Castellanos M. A., Ostmo S., Jonas K., Chan R. V., Chiang M. F., “Expert diagnosis of plus disease in retinopathy of prematurity from computer-based image analysis,” JAMA Ophthalmol.
+134(6), 651–657 (2016).10.1001/jamaophthalmol.2016.0611</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jamaophthalmol.2016.0611</ArticleId>
+            <ArticleId IdType="pmc">PMC5201139</ArticleId>
+            <ArticleId IdType="pubmed">27077667</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Estrada R., Tomasi C., Cabrera M. T., Wallace D. K., Freedman S. F., Farsiu S., “Enhanced video indirect ophthalmoscopy (VIO) via robust mosaicing,” Biomed. Opt. Express
+2(10), 2871–2887 (2011).10.1364/BOE.2.002871</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/BOE.2.002871</ArticleId>
+            <ArticleId IdType="pmc">PMC3191451</ArticleId>
+            <ArticleId IdType="pubmed">22091442</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Estrada R., Tomasi C., Cabrera M. T., Wallace D. K., Freedman S. F., Farsiu S., “Exploratory Dijkstra forest based automatic vessel segmentation: applications in video indirect ophthalmoscopy (VIO),” Biomed. Opt. Express
+3(2), 327–339 (2012).10.1364/BOE.3.000327</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/BOE.3.000327</ArticleId>
+            <ArticleId IdType="pmc">PMC3269849</ArticleId>
+            <ArticleId IdType="pubmed">22312585</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gulshan V., Peng L., Coram M., Stumpe M. C., Wu D., Narayanaswamy A., Venugopalan S., Widner K., Madams T., Cuadros J., Kim R., Raman R., Nelson P. C., Mega J. L., Webster D. R., “Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs,” JAMA
+316(22), 2402–2410 (2016).10.1001/jama.2016.17216</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jama.2016.17216</ArticleId>
+            <ArticleId IdType="pubmed">27898976</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>van Grinsven M. J., Theelen T., Witkamp L., van der Heijden J., van de Ven J. P., Hoyng C. B., van Ginneken B., Sánchez C. I., “Automatic differentiation of color fundus images containing drusen or exudates using a contextual spatial pyramid approach,” Biomed. Opt. Express
+7(3), 709–725 (2016).10.1364/BOE.7.000709</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/BOE.7.000709</ArticleId>
+            <ArticleId IdType="pmc">PMC4866450</ArticleId>
+            <ArticleId IdType="pubmed">27231583</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N. Anantrasirichai, A. Achim, J. E. Morgan, I. Erchova, and L. Nicholson, “SVM-based texture classification in optical coherence tomography,” in Biomedical Imaging (ISBI), 2013 IEEE 10th International Symposium on, (IEEE, 2013), 1332–1335.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Srinivasan P. P., Kim L. A., Mettu P. S., Cousins S. W., Comer G. M., Izatt J. A., Farsiu S., “Fully automated detection of diabetic macular edema and dry age-related macular degeneration from optical coherence tomography images,” Biomed. Opt. Express
+5(10), 3568–3577 (2014).10.1364/BOE.5.003568</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/BOE.5.003568</ArticleId>
+            <ArticleId IdType="pmc">PMC4206325</ArticleId>
+            <ArticleId IdType="pubmed">25360373</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>LeCun Y., Bengio Y., Hinton G., “Deep learning,” Nature
+521(7553), 436–444 (2015).10.1038/nature14539</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature14539</ArticleId>
+            <ArticleId IdType="pubmed">26017442</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Asaoka R., Murata H., Iwase A., Araie M., “Detecting preperimetric glaucoma with standard automated perimetry using a deep learning classifier,” Ophthalmology
+123(9), 1974–1980 (2016).10.1016/j.ophtha.2016.05.029</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ophtha.2016.05.029</ArticleId>
+            <ArticleId IdType="pubmed">27395766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cunefare D., Fang L., Cooper R. F., Dubra A., Carroll J., Farsiu S., “Open source software for automatic detection of cone photoreceptors in adaptive optics ophthalmoscopy using convolutional neural networks,” Sci. Rep.
+7(1), 6620 (2017).10.1038/s41598-017-07103-0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-017-07103-0</ArticleId>
+            <ArticleId IdType="pmc">PMC5529414</ArticleId>
+            <ArticleId IdType="pubmed">28747737</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fang L., Cunefare D., Wang C., Guymer R. H., Li S., Farsiu S., “Automatic segmentation of nine retinal layer boundaries in OCT images of non-exudative AMD patients using deep learning and graph search,” Biomed. Opt. Express
+8(5), 2732–2744 (2017).10.1364/BOE.8.002732</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/BOE.8.002732</ArticleId>
+            <ArticleId IdType="pmc">PMC5480509</ArticleId>
+            <ArticleId IdType="pubmed">28663902</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gargeya R., Leng T., “Automated identification of diabetic retinopathy using deep learning,” Ophthalmology
+124(7), 962–969 (2017).10.1016/j.ophtha.2017.02.008</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ophtha.2017.02.008</ArticleId>
+            <ArticleId IdType="pubmed">28359545</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>He Y., Carass A., Yun Y., Zhao C., Jedynak B. M., Solomon S. D., Saidha S., Calabresi P. A., Prince J. L., “Towards Topological Correct Segmentation of Macular OCT from Cascaded FCNs,” in Fetal, Infant and Ophthalmic Medical Image Analysis (Springer, 2017), pp. 202–209.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Loo J., Fang L., Cunefare D., Jaffe G. J., Farsiu S., “Deep longitudinal transfer learning-based automatic segmentation of photoreceptor ellipsoid zone defects on optical coherence tomography images of macular telangiectasia type 2,” Biomed. Opt. Express
+9(6), 2681–2698 (2018).10.1364/BOE.9.002681</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/BOE.9.002681</ArticleId>
+            <ArticleId IdType="pmc">PMC6154208</ArticleId>
+            <ArticleId IdType="pubmed">30258683</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Venhuizen F. G., van Ginneken B., Liefers B., van Grinsven M. J. J. P., Fauser S., Hoyng C., Theelen T., Sánchez C. I., “Robust total retina thickness segmentation in optical coherence tomography images using convolutional neural networks,” Biomed. Opt. Express
+8(7), 3292–3316 (2017).10.1364/BOE.8.003292</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/BOE.8.003292</ArticleId>
+            <ArticleId IdType="pmc">PMC5508829</ArticleId>
+            <ArticleId IdType="pubmed">28717568</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiao S., Bucher F., Wu Y., Rokem A., Lee C. S., Marra K. V., Fallon R., Diaz-Aguilar S., Aguilar E., Friedlander M., Lee A. Y., “Fully automated, deep learning segmentation of oxygen-induced retinopathy images,” JCI Insight
+2(24), e97585 (2017).10.1172/jci.insight.97585</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1172/jci.insight.97585</ArticleId>
+            <ArticleId IdType="pmc">PMC5752269</ArticleId>
+            <ArticleId IdType="pubmed">29263301</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cunefare D., Langlo C. S., Patterson E. J., Blau S., Dubra A., Carroll J., Farsiu S., “Deep learning based detection of cone photoreceptors with multimodal adaptive optics scanning light ophthalmoscope images of achromatopsia,” Biomed. Opt. Express
+9(8), 3740–3756 (2018).10.1364/BOE.9.003740</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/BOE.9.003740</ArticleId>
+            <ArticleId IdType="pmc">PMC6191607</ArticleId>
+            <ArticleId IdType="pubmed">30338152</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roy A. G., Conjeti S., Karri S. P. K., Sheet D., Katouzian A., Wachinger C., Navab N., “ReLayNet: retinal layer and fluid segmentation of macular optical coherence tomography using fully convolutional networks,” Biomed. Opt. Express
+8(8), 3627–3642 (2017).10.1364/BOE.8.003627</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/BOE.8.003627</ArticleId>
+            <ArticleId IdType="pmc">PMC5560830</ArticleId>
+            <ArticleId IdType="pubmed">28856040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schlegl T., Waldstein S. M., Bogunovic H., Endstraßer F., Sadeghipour A., Philip A.-M., Podkowinski D., Gerendas B. S., Langs G., Schmidt-Erfurth U., “Fully automated detection and quantification of macular fluid in OCT using deep learning,” Ophthalmology
+125(4), 549–558 (2018).10.1016/j.ophtha.2017.10.031</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ophtha.2017.10.031</ArticleId>
+            <ArticleId IdType="pubmed">29224926</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ioffe S., Szegedy C., “Batch normalization: Accelerating deep network training by reducing internal covariate shift,” arXiv preprint arXiv:1502.03167 (2015). </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Srivastava N., Hinton G., Krizhevsky A., Sutskever I., Salakhutdinov R., “Dropout: a simple way to prevent neural networks from overfitting,” J. Mach. Learn. Res.
+15, 1929–1958 (2014).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>L.-C. Chen, Y. Zhu, G. Papandreou, F. Schroff, and H. Adam, “Encoder-decoder with atrous separable convolution for semantic image segmentation,” arXiv preprint arXiv:1802.02611 (2018). </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang Z., Bovik A. C., “A universal image quality index,” IEEE Signal Process. Lett.
+9(3), 81–84 (2002).10.1109/97.995823</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/97.995823</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Canny J., “A computational approach to edge detection,” IEEE Trans. Pattern Anal. Mach. Intell.
+8(6), 679–698 (1986).10.1109/TPAMI.1986.4767851</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TPAMI.1986.4767851</ArticleId>
+            <ArticleId IdType="pubmed">21869365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gabarda S., Cristóbal G., “Blind image quality assessment through anisotropy,” J. Opt. Soc. Am. A
+24(12), B42–B51 (2007).10.1364/JOSAA.24.000B42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/JOSAA.24.000B42</ArticleId>
+            <ArticleId IdType="pubmed">18059913</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mittal A., Soundararajan R., Bovik A. C., “Making a “Completely Blind” Image Quality Analyzer,” IEEE Signal Process. Lett.
+20(3), 209–212 (2013).10.1109/LSP.2012.2227726</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/LSP.2012.2227726</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Glorot X., Bengio Y., “Understanding the difficulty of training deep feedforward neural networks,” in Proceedings of the thirteenth international conference on artificial intelligence and statistics, 2010), 249–256.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>D. P. Kingma and J. Ba, “Adam: A method for stochastic optimization,” arXiv preprint arXiv:1412.6980 (2014). </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Abadi M., Barham P., Chen J., Chen Z., Davis A., Dean J., Devin M., Ghemawat S., Irving G., Isard M., “Tensorflow: a system for large-scale machine learning,” in OSDI, 2016), 265–283.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chollet F., “Keras: Deep learning library for theano and tensorflow,” URL: https://keras.io/k7 (2015).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>He K., Zhang X., Ren S., Sun J., “Deep residual learning for image recognition,” in Proceedings of the IEEE conference on computer vision and pattern recognition, 2016), 770–778.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chang C.-C., Lin C.-J., “LIBSVM: a library for support vector machines,” ACM transactions on intelligent systems and technology (TIST)
+2, 27 (2011).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dice L. R., “Measures of the amount of ecologic association between species,” Ecology
+26(3), 297–302 (1945).10.2307/1932409</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2307/1932409</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Torres M. T., Valstar M. F., Henry C., Ward C., Sharkey D., “Small Sample Deep Learning for Newborn Gestational Age Estimation,” in 12th IEEE International Conference on Automatic Face &amp; Gesture Recognition, 2017), 79–86.10.1109/FG.2017.19</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/FG.2017.19</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bradski G., Kaehler A., “OpenCV,” Dr. Dobbs J. Softw. Tools Prof. Program.
+3, 2000 (2000).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>A. Ignatov, R. Timofte, P. Szczepaniak, W. Chou, K. Wang, M. Wu, T. Hartley, and L. Van Gool, “AI Benchmark: Running Deep Neural Networks on Android Smartphones,” arXiv preprint arXiv:1810.01109 (2018). </Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,2767 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">30808818</PMID>
+      <DateCompleted>
+        <Year>2020</Year>
+        <Month>05</Month>
+        <Day>04</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>05</Month>
+        <Day>05</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1937-9145</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>12</Volume>
+            <Issue>570</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>Feb</Month>
+              <Day>26</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Science signaling</Title>
+          <ISOAbbreviation>Sci Signal</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Specificity, versatility, and control of TGF-β family signaling.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">eaav5183</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1126/scisignal.aav5183</ELocationID>
+        <Abstract>
+          <AbstractText>Encoded in mammalian cells by 33 genes, the transforming growth factor-β (TGF-β) family of secreted, homodimeric and heterodimeric proteins controls the differentiation of most, if not all, cell lineages and many aspects of cell and tissue physiology in multicellular eukaryotes. Deregulation of TGF-β family signaling leads to developmental anomalies and disease, whereas enhanced TGF-β signaling contributes to cancer and fibrosis. Here, we review the fundamentals of the signaling mechanisms that are initiated upon TGF-β ligand binding to its cell surface receptors and the dependence of the signaling responses on input from and cooperation with other signaling pathways. We discuss how cells exquisitely control the functional presentation and activation of heteromeric receptor complexes of transmembrane, dual-specificity kinases and, thus, define their context-dependent responsiveness to ligands. We also introduce the mechanisms through which proteins called Smads act as intracellular effectors of ligand-induced gene expression responses and show that the specificity and impressive versatility of Smad signaling depend on cross-talk from other pathways. Last, we discuss how non-Smad signaling mechanisms, initiated by distinct ligand-activated receptor complexes, complement Smad signaling and thus contribute to cellular responses.</AbstractText>
+          <CopyrightInformation>Copyright © 2019 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim to original U.S. Government Works.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Derynck</LastName>
+            <ForeName>Rik</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">0000-0003-4407-6990</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell and Tissue Biology and Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research, University of California at San Francisco, San Francisco, CA 94143, USA. rik.derynck@ucsf.edu.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Budi</LastName>
+            <ForeName>Erine H</ForeName>
+            <Initials>EH</Initials>
+            <Identifier Source="ORCID">0000-0002-9019-4958</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell and Tissue Biology and Eli and Edythe Broad Center of Regeneration Medicine and Stem Cell Research, University of California at San Francisco, San Francisco, CA 94143, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 CA063101</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 CA136690</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2019</Year>
+          <Month>02</Month>
+          <Day>26</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Sci Signal</MedlineTA>
+        <NlmUniqueID>101465400</NlmUniqueID>
+        <ISSNLinking>1945-0877</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D008024">Ligands</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018125">Receptors, Transforming Growth Factor beta</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016212">Transforming Growth Factor beta</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002454" MajorTopicYN="N">Cell Differentiation</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008024" MajorTopicYN="N">Ligands</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009369" MajorTopicYN="N">Neoplasms</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018125" MajorTopicYN="N">Receptors, Transforming Growth Factor beta</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016212" MajorTopicYN="N">Transforming Growth Factor beta</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>2</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>2</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2020</Year>
+          <Month>5</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30808818</ArticleId>
+        <ArticleId IdType="mid">NIHMS1049566</ArticleId>
+        <ArticleId IdType="pmc">PMC6800142</ArticleId>
+        <ArticleId IdType="doi">10.1126/scisignal.aav5183</ArticleId>
+        <ArticleId IdType="pii">12/570/eaav5183</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Derynck R, Miyazono K, The Biology of the TGF-β Family. (Cold Spring Harbor Laboratory Press, New York, ed. Derynck Rik, Miyazono Kohei 2016), pp. 1164.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Morikawa M, Derynck R, Miyazono K, TGF-β and the TGF-β family: context-dependent roles in cell and tissue physiology. Cold Spring Harb Perspect Biol
+8, a021873 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4852809</ArticleId>
+            <ArticleId IdType="pubmed">27141051</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moses HL, Roberts AB, Derynck R, The discovery and early days of TGF-β: a historical perspective. Cold Spring Harb Perspect Biol
+8, a021865 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4930926</ArticleId>
+            <ArticleId IdType="pubmed">27328871</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Derynck R, Jarrett JA, Chen EY, Eaton DH, Bell JR, Assoian RK, Roberts AB, Sporn MB, Goeddel DV, Human transforming growth factor-β complementary DNA sequence and expression in normal and transformed cells. Nature
+316, 701–705 (1985).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3861940</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y, Alexander PB, Wang XF, TGF-β family signaling in the control of cell proliferation and survival. Cold Spring Harb Perspect Biol
+9, a022145 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5378054</ArticleId>
+            <ArticleId IdType="pubmed">27920038</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seoane J, Gomis RR, TGF-β family signaling in tumor suppression and cancer progression. Cold Spring Harb Perspect Biol
+9, a022277 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5710110</ArticleId>
+            <ArticleId IdType="pubmed">28246180</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ikushima H, Miyazono K, TGFβ signalling: a complex web in cancer progression. Nat Rev Cancer
+10, 415–424 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20495575</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Massagué J, TGF-β in cancer. Cell
+134, 215–230 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3512574</ArticleId>
+            <ArticleId IdType="pubmed">18662538</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim KK, Sheppard D, Chapman HA, TGF-β1 signaling and tissue fibrosis. Cold Spring Harb Perspect Biol
+10, a022293 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5880172</ArticleId>
+            <ArticleId IdType="pubmed">28432134</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>MacFarlane EG, Haupt J, Dietz HC, Shore EM, TGF-β family signaling in connective tissue and skeletal diseases. Cold Spring Harb Perspect Biol
+9, a022269 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5666637</ArticleId>
+            <ArticleId IdType="pubmed">28246187</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huminiecki L, Goldovsky L, Freilich S, Moustakas A, Ouzounis C, Heldin CH, Emergence, development and diversification of the TGF-β signalling pathway within the animal kingdom. BMC Evol Biol
+9, 28 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2657120</ArticleId>
+            <ArticleId IdType="pubmed">19192293</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li C, Zhang S, Wang X, Novel signaling interface constituted with membrane receptor-like kinases emerged from the study of interaction and transphosphorylation of BRI1 and BAK1. Curr Top Med Chem
+17, 2393–2400 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28413947</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hinck AP, Mueller TD, Springer TA, Structural biology and evolution of the TGF-β family. Cold Spring Harb Perspect Biol
+8, a022103 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5131774</ArticleId>
+            <ArticleId IdType="pubmed">27638177</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Airaksinen MS, Saarma M, The GDNF family: signalling, biological functions and therapeutic value. Nat Rev Neurosci
+3, 383–394 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11988777</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Airaksinen MS, Holm L, Hätinen T, Evolution of the GDNF family ligands and receptors. Brain Behav Evol
+68, 181–190 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16912471</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mullican SE, Lin-Schmidt X, Chin CN, Chavez JA, Furman JL, Armstrong AA, Beck SC, South VJ, Dinh TQ, Cash-Mason TD, Cavanaugh CR, Nelson S, Huang C, Hunter MJ, Rangwala SM, GFRAL is the receptor for GDF15 and the ligand promotes weight loss in mice and nonhuman primates. Nat Med
+23, 1150–1157 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28846097</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang L, Chang CC, Sun Z, Madsen D, Zhu H, Padkjaer SB, Wu X, Huang T, Hultman K, Paulsen SJ, Wang J, Bugge A, Frantzen JB, Norgaard P, Jeppesen JF, Yang Z, Secher A, Chen H, Li X, John LM, Shan B, He Z, Gao X, Su J, Hansen KT, Yang W, Jorgensen SB, GFRAL is the receptor for GDF15 and is required for the anti-obesity effects of the ligand. Nat Med
+23, 1158–1166 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28846099</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Murray-Rust J, McDonald NQ, Blundell TL, Hosang M, Oefner C, Winkler F, Bradshaw RA, Topological similarities in TGF-β2, PDGF-BB and NGF define a superfamily of polypeptide growth factors. Structure
+1, 153–159 (1993).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8069627</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Robertson IB, Rifkin DB, Regulation of the bioavailability of TGF-β and TGF-β-related proteins. Cold Spring Harb Perspect Biol
+8, a021907 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4888822</ArticleId>
+            <ArticleId IdType="pubmed">27252363</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fritsch C, Sawala A, Harris R, Maartens A, Sutcliffe C, Ashe HL, Ray RP, Different requirements for proteolytic processing of bone morphogenetic protein 5/6/7/8 ligands in Drosophila melanogaster. J Biol Chem
+287, 5942–5953 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3285362</ArticleId>
+            <ArticleId IdType="pubmed">22199351</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Akiyama T, Marques G, Wharton KA, A large bioactive BMP ligand with distinct signaling properties is produced by alternative proconvertase processing. Sci Signal
+5, ra28 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3699424</ArticleId>
+            <ArticleId IdType="pubmed">22472650</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anderson EN, Wharton KA, Alternative cleavage of the bone morphogenetic protein (BMP), Gbb, produces ligands with distinct developmental functions and receptor preferences. J Biol Chem
+292, 19160–19178 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5702660</ArticleId>
+            <ArticleId IdType="pubmed">28924042</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gray AM, Mason AJ, Requirement for activin A and transforming growth factor-β1 pro-regions in homodimer assembly. Science
+247, 1328–1330 (1990).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2315700</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Assoian RK, Komoriya A, Meyers CA, Miller DM, Sporn MB, Transforming growth factor-β in human platelets. Identification of a major storage site, purification, and characterization. J Biol Chem
+258, 7155–7160 (1983).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">6602130</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Namwanje M, Brown CW, Activins and inhibins: roles in development, physiology, and disease. Cold Spring Harb Perspect Biol
+8, a021881 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4930927</ArticleId>
+            <ArticleId IdType="pubmed">27328872</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mason AJ, Hayflick JS, Ling N, Esch F, Ueno N, Ying SY, Guillemin R, Niall H, Seeburg PH, Complementary DNA sequences of ovarian follicular fluid inhibin show precursor structure and homology with transforming growth factor-β. Nature
+318, 659–663 (1985).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2417121</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ling N, Ying SY, Ueno N, Shimasaki S, Esch F, Hotta M, Guillemin R, Pituitary FSH is released by a heterodimer of the beta-subunits from the two forms of inhibin. Nature
+321, 779–782 (1986).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3086749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Little SC, Mullins MC, Bone morphogenetic protein heterodimers assemble heteromeric type I receptor complexes to pattern the dorsoventral axis. Nat Cell Biol
+11, 637–643 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2757091</ArticleId>
+            <ArticleId IdType="pubmed">19377468</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fuerer C, Nostro MC, Constam DB, Nodal.Gdf1 heterodimers with bound prodomains enable serum-independent nodal signaling and endoderm differentiation. J Biol Chem
+289, 17854–17871 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4067217</ArticleId>
+            <ArticleId IdType="pubmed">24798330</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Montague TG, Schier AF, Vg1-Nodal heterodimers are the endogenous inducers of mesendoderm. eLife
+6, e28183 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5745085</ArticleId>
+            <ArticleId IdType="pubmed">29140251</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Daopin S, Piez KA, Ogawa Y, Davies DR, Crystal structure of transforming growth factor-β2: an unusual fold for the superfamily. Science
+257, 369–373 (1992).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1631557</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schlunegger MP, Grütter MG, An unusual feature revealed by the crystal structure at 2.2 A resolution of human transforming growth factor-β2. Nature
+358, 430–434 (1992).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1641027</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mittl PR, Priestle JP, Cox DA, McMaster G, Cerletti N, Grütter MG, The crystal structure of TGF-β3 and comparison to TGF-β2: implications for receptor binding. Protein Sci
+5, 1261–1271 (1996).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2143453</ArticleId>
+            <ArticleId IdType="pubmed">8819159</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hart PJ, Deep S, Taylor AB, Shu Z, Hinck CS, Hinck AP, Crystal structure of the human TβR2 ectodomain-TGF-β3 complex. Nat Struct Biol
+9, 203–208 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11850637</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wei Z, Salmon RM, Upton PD, Morrell NW, Li W, Regulation of bone morphogenetic protein 9 (BMP9) by redox-dependent proteolysis. J Biol Chem
+289, 31150–31159 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4223318</ArticleId>
+            <ArticleId IdType="pubmed">25237187</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stockis J, Colau D, Coulie PG, Lucas S, Membrane protein GARP is a receptor for latent TGF-β on the surface of activated human Treg. Eur J Immunol
+39, 3315–3322 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19750484</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tran DQ, Andersson J, Wang R, Ramsey H, Unutmaz D, Shevach EM, GARP (LRRC32) is essential for the surface expression of latent TGF-β on platelets and activated FOXP3+ regulatory T cells. Proc Natl Acad Sci U S A
+106, 13445–13450 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2726354</ArticleId>
+            <ArticleId IdType="pubmed">19651619</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stockis J, Dedobbeleer O, Lucas S, Role of GARP in the activation of latent TGF-β1. Mol Biosyst
+13, 1925–1935 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28795730</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liénart S, Merceron R, Vanderaa C, Lambert F, Colau D, Stockis J, van der Woning B, De Haard H, Saunders M, Coulie PG, Savvides SN, Lucas S, Structural basis of latent TGF-β1 presentation and activation by GARP on human regulatory T cells. Science
+362, 952–956 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30361387</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qin Y, Garrison BS, Ma W, Wang R, Jiang A, Li J, Mistry M, Bronson RT, Santoro D, Franco C, Robinton DA, Stevens B, Rossi DJ, Lu C, Springer TA, A milieu molecule for TGF-β required for microglia function in the nervous system. Cell
+174, 156–171 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6089614</ArticleId>
+            <ArticleId IdType="pubmed">29909984</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee SJ, McPherron AC, Regulation of myostatin activity and muscle growth. Proc Natl Acad Sci U S A
+98, 9306–9311 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC55416</ArticleId>
+            <ArticleId IdType="pubmed">11459935</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shi M, Zhu J, Wang R, Chen X, Mi L, Walz T, Springer TA, Latent TGF-β structure and activation. Nature
+474, 343–349 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4717672</ArticleId>
+            <ArticleId IdType="pubmed">21677751</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mi LZ, Brown CT, Gao Y, Tian Y, Le VQ, Walz T, Springer TA, Structure of bone morphogenetic protein 9 procomplex. Proc Natl Acad Sci U S A
+112, 3710–3715 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4378411</ArticleId>
+            <ArticleId IdType="pubmed">25751889</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chang C, Agonists and antagonists of TGF-β family ligands. Cold Spring Harb Perspect Biol
+8, a021923 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4968162</ArticleId>
+            <ArticleId IdType="pubmed">27413100</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wohl AP, Troilo H, Collins RF, Baldock C, Sengle G, Extracellular regulation of bone morphogenetic protein activity by the microfibril component fibrillin-1. J Biol Chem
+291, 12732–12746 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4933460</ArticleId>
+            <ArticleId IdType="pubmed">27059954</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sakai LY, Keene DR, Renard M, De Backer J, FBN1: the disease-causing gene for Marfan syndrome and other genetic disorders. Gene
+591, 279–291 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6639799</ArticleId>
+            <ArticleId IdType="pubmed">27437668</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Munger JS, Sheppard D, Cross talk among TGF-β signaling pathways, integrins, and the extracellular matrix. Cold Spring Harb Perspect Biol
+3, a005017 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3220354</ArticleId>
+            <ArticleId IdType="pubmed">21900405</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dong X, Zhao B, Iacob RE, Zhu J, Koksal AC, Lu C, Engen JR, Springer TA, Force interacts with macromolecular structure in activation of TGF-β. Nature
+542, 55–59 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5586147</ArticleId>
+            <ArticleId IdType="pubmed">28117447</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Budi EH, Duan D, Derynck R, Transforming growth factor-β receptors and Smads: regulatory complexity and functional versatility. Trends Cell Biol
+27, 658–672 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28552280</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Le VQ, Iacob RE, Tian Y, McConaughy W, Jackson J, Su Y, Zhao B, Engen JR, Pirruccello-Straub M, Springer TA, Tolloid cleavage activates latent GDF8 by priming the pro-complex for dissociation. EMBO J
+37, 384–397 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5793799</ArticleId>
+            <ArticleId IdType="pubmed">29343545</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ge G, Hopkins DR, Ho WB, Greenspan DS, GDF11 forms a bone morphogenetic protein 1-activated latent complex that can modulate nerve growth factor-induced differentiation of PC12 cells. Mol Cell Biol
+25, 5846–5858 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1168807</ArticleId>
+            <ArticleId IdType="pubmed">15988002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Konrad L, Luers GH, Volck-Badouin E, Keilani MM, Laible L, Aumuller G, Hofmann R, Analysis of the mRNA expression of the TGF-β family in testicular cells and localization of the splice variant TGF-β2B in testis. Mol Reprod Dev
+73, 1211–1220 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16868931</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brazil DP, Church RH, Surae S, Godson C, Martin F, BMP signalling: agony and antagony in the family. Trends Cell Biol
+25, 249–264 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25592806</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blitz IL, Cho KW, Chang C, Twisted gastrulation loss-of-function analyses support its role as a BMP inhibitor during early Xenopus embryogenesis. Development
+130, 4975–4988 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12952901</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scott IC, Blitz IL, Pappano WN, Maas SA, Cho KW, Greenspan DS, Homologues of Twisted gastrulation are extracellular cofactors in antagonism of BMP signalling. Nature
+410, 475–478 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11260715</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chang C, Holtzman DA, Chau S, Chickering T, Woolf EA, Holmgren LM, Bodorova J, Gearing DP, Holmes WE, Brivanlou AH, Twisted gastrulation can function as a BMP antagonist. Nature
+410, 483–487 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11260717</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harrington AE, Morris-Triggs SA, Ruotolo BT, Robinson CV, Ohnuma S, Hyvonen M, Structural basis for the inhibition of activin signalling by follistatin. EMBO J
+25, 1035–1045 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1409725</ArticleId>
+            <ArticleId IdType="pubmed">16482217</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rogers KW, Schier AF, Morphogen gradients: from generation to interpretation. Annu Rev Cell Dev Biol
+27, 377–407 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21801015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roy S, Hsiung F, Kornberg TB, Specificity of Drosophila cytonemes for distinct signaling pathways. Science
+332, 354–358 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3109072</ArticleId>
+            <ArticleId IdType="pubmed">21493861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kornberg TB, Distributing signaling proteins in space and time: the province of cytonemes. Curr Opin Genet Dev
+45, 22–27 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5502195</ArticleId>
+            <ArticleId IdType="pubmed">28242479</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heldin C-H, Moustakas A, Signaling receptors for TGF-β family members. Cold Spring Harb Perspect Biol
+8, a022053(2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4968163</ArticleId>
+            <ArticleId IdType="pubmed">27481709</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheifetz S, Weatherbee JA, Tsang ML, Anderson JK, Mole JE, Lucas R, Massagué J, The transforming growth factor-β system, a complex pattern of cross-reactive ligands and receptors. Cell
+48, 409–415 (1987).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2879635</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chaikuad A, Bullock AN, Structural basis of intracellular TGF-β signaling: receptors and Smads. Cold Spring Harb Perspect Biol
+8, (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5088531</ArticleId>
+            <ArticleId IdType="pubmed">27549117</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wieser R, Wrana JL, Massagué J, GS domain mutations that constitutively activate TβR-I, the downstream signaling component in the TGF-β receptor complex. EMBO J
+14, 2199–2208 (1995).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC398326</ArticleId>
+            <ArticleId IdType="pubmed">7774578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Manning G, Whyte DB, Martinez R, Hunter T, Sudarsanam S, The protein kinase complement of the human genome. Science
+298, 1912–1934 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12471243</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rask-Andersen M, Zhang J, Fabbro D, Schioth HB, Advances in kinase targeting: current clinical use and clinical trials. Trends Pharmacol Sci
+35, 604–620 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25312588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lawler S, Feng X-H, Chen RH, Maruoka EM, Turck CW, Griswold-Prenner I, Derynck R, The type II transforming growth factor-β receptor autophosphorylates not only on serine and threonine but also on tyrosine residues. J Biol Chem
+272, 14850–14859 (1997).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9169454</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee MK, Pardoux C, Hall MC, Lee PS, Warburton D, Qing J, Smith SM, Derynck R, TGF-beta activates Erk MAP kinase signalling through direct phosphorylation of ShcA. EMBO J
+26, 3957–3967 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1994119</ArticleId>
+            <ArticleId IdType="pubmed">17673906</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dhanasekaran N, Premkumar Reddy E, Signaling by dual specificity kinases. Oncogene
+17, 1447–1455 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9779990</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ehrlich M, Gutman O, Knaus P, Henis YI, Oligomeric interactions of TGF-β and BMP receptors. FEBS Lett
+586, 1885–1896 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22293501</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gilboa L, Wells RG, Lodish HF, Henis YI, Oligomeric structure of type I and type II transforming growth factor β receptors: homodimers form in the ER and persist at the plasma membrane. J Cell Biol
+140, 767–777 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2141740</ArticleId>
+            <ArticleId IdType="pubmed">9472030</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang W, Jiang Y, Wang Q, Ma X, Xiao Z, Zuo W, Fang X, Chen YG, Single-molecule imaging reveals transforming growth factor-β-induced type II receptor dimerization. Proc Natl Acad Sci U S A
+106, 15679–15683 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2747179</ArticleId>
+            <ArticleId IdType="pubmed">19720988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheifetz S, Bassols A, Stanley K, Ohta M, Greenberger J, Massagué J, Heterodimeric transforming growth factor β. Biological properties and interaction with three types of cell surface receptors. J Biol Chem
+263, 10783–10789 (1988).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2899081</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>De Crescenzo G, Pham PL, Durocher Y, O’Connor-McCourt MD, Transforming growth factor-β (TGF-β) binding to the extracellular domain of the type II TGF-β receptor: receptor capture on a biosensor surface using a new coiled-coil capture system demonstrates that avidity contributes significantly to high affinity binding. J Mol Biol
+328, 1173–1183 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12729750</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nickel J, ten Dijke P, Mueller TD, TGF-β family co-receptor function and signaling. Acta Biochim Biophys Sin
+50, 12–36 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29293886</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bilandzic M, Stenvers KL, Betaglycan: a multifunctional accessory. Mol Cell Endocrinol
+339, 180–189 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21550381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sugden WW, Siekmann AF, Endothelial cell biology of endoglin in hereditary hemorrhagic telangiectasia. Curr Opin Hematol
+25, 237–244 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29438260</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dong M, How T, Kirkbride KC, Gordon KJ, Lee JD, Hempel N, Kelly P, Moeller BJ, Marks JR, Blobe GC, The type III TGF-β receptor suppresses breast cancer progression. J Clin Invest
+117, 206–217 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1679965</ArticleId>
+            <ArticleId IdType="pubmed">17160136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lopez-Casillas F, Payne HM, Andres JL, Massagué J, Betaglycan can act as a dual modulator of TGF-β access to signaling receptors: mapping of ligand binding and GAG attachment sites. J Cell Biol
+124, 557–568 (1994).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2119924</ArticleId>
+            <ArticleId IdType="pubmed">8106553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Andres JL, DeFalcis D, Noda M, Massagué J, Binding of two growth factor families to separate domains of the proteoglycan betaglycan. J Biol Chem
+267, 5927–5930 (1992).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1556106</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Velasco S, Alvarez-Munoz P, Pericacho M, Dijke PT, Bernabeu C, Lopez-Novoa JM, Rodriguez-Barbero A, L- and S-endoglin differentially modulate TGFβ1 signaling mediated by ALK1 and ALK5 in L6E9 myoblasts. J Cell Sci
+121, 913–919 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18303046</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goumans MJ, Zwijsen A, ten Dijke P, Bailly S, Cold Spring Harb Perspect Biol
+10, a031989 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5793761</ArticleId>
+            <ArticleId IdType="pubmed">28348038</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Castonguay R, Werner ED, Matthews RG, Presman E, Mulivor AW, Solban N, Sako D, Pearsall RS, Underwood KW, Seehra J, Kumar R, Grinberg AV, Soluble endoglin specifically binds bone morphogenetic proteins 9 and 10 via its orphan domain, inhibits blood vessel formation, and suppresses tumor growth. J Biol Chem
+286, 30034–30046 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3191044</ArticleId>
+            <ArticleId IdType="pubmed">21737454</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hawinkels LJ, Kuiper P, Wiercinska E, Verspaget HW, Liu Z, Pardali E, Sier CF, ten Dijke P, Matrix metalloproteinase-14 (MT1-MMP)-mediated endoglin shedding inhibits tumor angiogenesis. Cancer Res
+70, 4141–4150 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20424116</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Siebold C, Yamashita T, Monnier PP, Mueller BK, Pasterkamp RJ, RGMs: Structural insights, molecular regulation, and downstream signaling. Trends Cell Biol
+27, 365–378 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5404723</ArticleId>
+            <ArticleId IdType="pubmed">28007423</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tian C, Liu J, Repulsive guidance molecules (RGMs) and neogenin in bone morphogenetic protein (BMP) signaling. Mol Reprod Dev
+80, 700–717 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4440832</ArticleId>
+            <ArticleId IdType="pubmed">23740870</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rajagopalan S, Deitinghoff L, Davis D, Conrad S, Skutella T, Chédotal A, Mueller BK, Strittmatter SM, Neogenin mediates the action of repulsive guidance molecule. Nat Cell Biol
+6, 756–762 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15258590</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Babitt JL, Huang FW, Wrighting DM, Xia Y, Sidis Y, Samad TA, Campagna JA, Chung RT, Schneyer AL, Woolf CJ, Andrews NC, Lin HY, Bone morphogenetic protein signaling by hemojuvelin regulates hepcidin expression. Nat Genet
+38, 531–539 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16604073</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yeo C, Whitman M, Nodal signals to Smads through Cripto-dependent and Cripto-independent mechanisms. Mol Cell
+7, 949–957 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11389842</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yan YT, Liu JJ, Luo Y, Haltiwanger CE,RS, Abate-Shen C, Shen MM, Dual roles of Cripto as a ligand and coreceptor in the nodal signaling pathway. Mol Cell Biol
+22, 4439–4449 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC133918</ArticleId>
+            <ArticleId IdType="pubmed">12052855</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gray PC, Shani G, Aung K, Kelber J, Vale W, Cripto binds transforming growth factor β (TGF-β) and inhibits TGF-β signaling. Mol Cell Biol
+26, 9268–9278 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1698529</ArticleId>
+            <ArticleId IdType="pubmed">17030617</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nagaoka T, Karasawa H, Castro NP, Rangel MC, Salomon DS, Bianco C, An evolving web of signaling networks regulated by Cripto-1. Growth Factors
+30, 13–21 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22149969</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Onichtchouk D, Chen YG, Dosch R, Gawantka V, Delius H, Massagué J, Niehrs C, Silencing of TGF-β signalling by the pseudoreceptor BAMBI. Nature
+401, 480–485 (1999).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10519551</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tsang M, Kim R, de Caestecker MP, Kudoh T, Roberts AB, Dawid IB, Zebrafish nma is involved in TGFβ family signaling. Genesis
+28, 47–57 (2000).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11064421</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rudini N, Felici A, Giampietro C, Lampugnani M, Corada M, Swirsding K, Garre M, Liebner S, Letarte M, ten Dijke P, Dejana E, VE-cadherin is a critical endothelial regulator of TGF-β signalling. EMBO J
+27, 993–1004 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2323269</ArticleId>
+            <ArticleId IdType="pubmed">18337748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barrios-Rodiles M, Brown KR, Ozdamar B, Bose R, Liu Z, Donovan RS, Shinjo F, Liu Y, Dembowy J, Taylor IW, Luga V, Przulj N, Robinson M, Suzuki H, Hayashizaki Y, Jurisica I, Wrana JL, High-throughput mapping of a dynamic signaling network in mammalian cells. Science
+307, 1621–1625 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15761153</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bourguignon LY, Singleton PA, Zhu H, Zhou B, Hyaluronan promotes signaling interaction between CD44 and the transforming growth factor beta receptor I in metastatic breast tumor cells. J Biol Chem
+277, 39703–39712 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12145287</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Porsch H, Mehic M, Olofsson B, Heldin P, Heldin C-H, Platelet-derived growth factor beta-receptor, transforming growth factor β type I receptor, and CD44 protein modulate each other’s signaling and stability. J Biol Chem
+289, 19747–19757 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4094084</ArticleId>
+            <ArticleId IdType="pubmed">24860093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jin W, Yun C, Kim HS, Kim SJ, TrkC binds to the bone morphogenetic protein type II receptor to suppress bone morphogenetic protein signaling. Cancer Res
+67, 9869–9877 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17942918</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sammar M, Stricker S, Schwabe GC, Sieber C, Hartung A, Hanke M, Oishi I, Pohl J, Minami Y, Sebald W, Mundlos S, Knaus P, Modulation of GDF5/BRI-b signalling through interaction with the tyrosine kinase receptor Ror2. Genes Cells
+9, 1227–1238 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15569154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wells RG, Yankelev H, Lin HY, Lodish HF, Biosynthesis of the type I and type II TGF-β receptors. Implications for complex formation. J Biol Chem
+272, 11444–11451 (1997).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9111056</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim YW, Park J, Lee HJ, Lee SY, Kim SJ, TGF-β sensitivity is determined by N-linked glycosylation of the type II TGF-β receptor. Biochem J
+445, 403–411 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3462611</ArticleId>
+            <ArticleId IdType="pubmed">22571197</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lowery JW, Amich JM, Andonian A, Rosen V, N-linked glycosylation of the bone morphogenetic protein receptor type 2 (BMPR2) enhances ligand binding. Cell Mol Life Sci
+71, 3165–3172 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4058410</ArticleId>
+            <ArticleId IdType="pubmed">24337809</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goetschy JF, Letourneur O, Cerletti N, Horisberger MA, The unglycosylated extracellular domain of type-II receptor for transforming growth factor-β. A novel assay for characterizing ligand affinity and specificity. Eur J Biochem
+241, 355–362 (1996).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8917430</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fukami K, Asano E, Ueda M, Sekiguchi F, Yoshida S, Kawabata A, High glucose induces N-linked glycosylation-mediated functional upregulation and overexpression of Cav3.2 T-type calcium channels in neuroendocrine-like differentiated human prostate cancer cells. J Pharmacol Sci
+133, 57–60 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28081948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alisson-Silva F, Freire-de-Lima L, Donadio JL, Lucena MC, Penha L, Sa-Diniz JN, Dias WB, Todeschini AR, Increase of O-glycosylated oncofetal fibronectin in high glucose-induced epithelial-mesenchymal transition of cultured human epithelial cells. PloS One
+8, e60471 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3625189</ArticleId>
+            <ArticleId IdType="pubmed">23593224</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu C, Xu P, Lamouille S, Xu J, Derynck R, TACE-mediated ectodomain shedding of the type I TGF-β receptor downregulates TGF-β signaling. Mol Cell
+35, 26–36 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2740991</ArticleId>
+            <ArticleId IdType="pubmed">19595713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu P, Liu J, Sakaki-Yumoto M, Derynck R, TACE activation by MAPK-mediated regulation of cell surface dimerization and TIMP3 association. Sci Signal
+5, ra34 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4254802</ArticleId>
+            <ArticleId IdType="pubmed">22550340</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mu Y, Sundar R, Thakur N, Ekman M, Gudey SK, Yakymovych M, Hermansson A, Dimitriou H, Bengoechea-Alonso MT, Ericsson J, Heldin C-H, Landström M, TRAF6 ubiquitinates TGFβ type I receptor to promote its cleavage and nuclear translocation in cancer. Nat Commun
+2, 330 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3113296</ArticleId>
+            <ArticleId IdType="pubmed">21629263</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gudey SK, Sundar R, Mu Y, Wallenius A, Zang G, Bergh A, Heldin C-H, Landström M, TRAF6 stimulates the tumor-promoting effects of TGFβ type I receptor through polyubiquitination and activation of presenilin 1. Sci Signal
+7, ra2 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24399296</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu L, Derynck R, Essential role of TGF-β signaling in glucose-induced cell hypertrophy. Dev Cell
+17, 35–48 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2722039</ArticleId>
+            <ArticleId IdType="pubmed">19619490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Budi EH, Muthusamy BP, Derynck R, The insulin response integrates increased TGF-β signaling through Akt-induced enhancement of cell surface delivery of TGF-β receptors. Sci Signal
+8, ra96 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4669960</ArticleId>
+            <ArticleId IdType="pubmed">26420907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zaid H, Antonescu CN, Randhawa VK, Klip A, Insulin action on glucose transporters through molecular switches, tracks and tethers. Biochem J
+413, 201–215 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18570632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mafakheri S, Chadt A, Al-Hasani H, Regulation of RabGAPs involved in insulin action. Biochem Soc Trans
+46, 683–690 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29784647</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang ZY, Zhou QL, Coleman KA, Chouinard M, Boese Q, Czech MP, Insulin signaling through Akt/protein kinase B analyzed by small interfering RNA-mediated gene silencing. Proc Natl Acad Sci U S A
+100, 7569–7574 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC164627</ArticleId>
+            <ArticleId IdType="pubmed">12808134</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang J, Zhang X, Xie F, Zhang Z, van Dam H, Zhang L, Zhou F, The regulation of TGF-β/SMAD signaling by protein deubiquitination. Protein &amp; cell
+5, 503–517 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4085288</ArticleId>
+            <ArticleId IdType="pubmed">24756567</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu S, de Boeck M, van Dam H, ten Dijke P, Regulation of the TGF-β pathway by deubiquitinases in cancer. Int J Biochem Cell Biol
+76, 135–145 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27155333</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bernassola F, Karin M, Ciechanover A, Melino G, The HECT family of E3 ubiquitin ligases: multiple players in cancer development. Cancer Cell
+14, 10–21 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18598940</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kavsak P, Rasmussen RK, Causing CG, Bonni S, Zhu H, Thomsen GH, Wrana JL, Smad7 binds to Smurf2 to form an E3 ubiquitin ligase that targets the TGF β receptor for degradation. Mol Cell
+6, 1365–1375 (2000).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11163210</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ebisawa T, Fukuchi M, Murakami G, Chiba T, Tanaka K, Imamura T, Miyazono K, Smurf1 interacts with transforming growth factor-β type I receptor through Smad7 and induces receptor degradation. J Biol Chem
+276, 12477–12480 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11278251</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kuratomi G, Komuro A, Goto K, Shinozaki M, Miyazawa K, Miyazono K, Imamura T, NEDD4–2 (neural precursor cell expressed, developmentally down-regulated 4–2) negatively regulates TGF-β (transforming growth factor-β) signalling by inducing ubiquitin-mediated degradation of Smad2 and TGF-β type I receptor. Biochem J
+386, 461–470 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1134864</ArticleId>
+            <ArticleId IdType="pubmed">15496141</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Komuro A, Imamura T, Saitoh M, Yoshida Y, Yamori T, Miyazono K, Miyazawa K, Negative regulation of transforming growth factor-β (TGF-β) signaling by WW domain-containing protein 1 (WWP1). Oncogene
+23, 6914–6923 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15221015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang L, Zhou F, Drabsch Y, Gao R, Snaar-Jagalska BE, Mickanin C, Huang H, Sheppard KA, Porter JA, Lu CX, ten Dijke P, USP4 is regulated by AKT phosphorylation and directly deubiquitylates TGF-β type I receptor. Nat Cell Biol
+14, 717–726 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22706160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zuo W, Huang F, Chiang YJ, Li M, Du J, Ding Y, Zhang T, Lee HW, Jeong LS, Chen Y, Deng H, Feng X-H, Luo S, Gao C, Chen YG, c-Cbl-mediated neddylation antagonizes ubiquitination and degradation of the TGF-β type II receptor. Mol Cell
+49, 499–510 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23290524</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Murphy SJ, Dore JJ, Edens M, Coffey RJ, Barnard JA, Mitchell H, Wilkes M, Leof EB, Differential trafficking of transforming growth factor-β receptors and ligand in polarized epithelial cells. Mol Biol Cell
+15, 2853–2862 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC420108</ArticleId>
+            <ArticleId IdType="pubmed">15075369</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yin X, Murphy SJ, Wilkes MC, Ji Y, Leof EB, Retromer maintains basolateral distribution of the type II TGF-β receptor via the recycling endosome. Mol Biol Cell
+24, 2285–2298 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3708733</ArticleId>
+            <ArticleId IdType="pubmed">23720763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mitchell H, Choudhury A, Pagano RE, Leof EB, Ligand-dependent and -independent transforming growth factor-β receptor recycling regulated by clathrin-mediated endocytosis and Rab11. Mol Biol Cell
+15, 4166–4178 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC515349</ArticleId>
+            <ArticleId IdType="pubmed">15229286</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen YG, Endocytic regulation of TGF-β signaling. Cell Res
+19, 58–70 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19050695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ehrlich M, Endocytosis and trafficking of BMP receptors: Regulatory mechanisms for fine-tuning the signaling response in different cellular contexts. Cytokine Growth Factor Rev
+27, 35–42 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26776724</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dore JJ Jr., Yao D, Edens M, Garamszegi N, Sholl EL, Leof EB, Mechanisms of transforming growth factor-β receptor endocytosis and intracellular sorting differ between fibroblasts and epithelial cells. Mol Biol Cell
+12, 675–684 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC30972</ArticleId>
+            <ArticleId IdType="pubmed">11251079</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Di Guglielmo GM, Le Roy C, Goodfellow AF, Wrana JL, Distinct endocytic pathways regulate TGF-β receptor signalling and turnover. Nat Cell Biol
+5, 410–421 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12717440</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Le Roy C, Wrana JL, Clathrin- and non-clathrin-mediated endocytic regulation of cell signalling. Nat Rev Mol Cell Biol
+6, 112–126 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15687999</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huse M, Chen YG, Massague J, Kuriyan J, Crystal structure of the cytoplasmic domain of the type I TGF β receptor in complex with FKBP12. Cell
+96, 425–436 (1999).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10025408</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huse M, Muir TW, Xu L, Chen YG, Kuriyan J, Massagué J, The TGF β receptor activation process: an inhibitor- to substrate-binding switch. Mol Cell
+8, 671–682 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11583628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen YG, Liu F, Massagué J, Mechanism of TGFβ receptor inhibition by FKBP12. EMBO J
+16, 3866–3876 (1997).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1170011</ArticleId>
+            <ArticleId IdType="pubmed">9233797</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miyazawa K, Miyazono K, Regulation of TGF-β Family Signaling by Inhibitory Smads. Cold Spring Harb Perspect Biol
+9, a022095 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5334261</ArticleId>
+            <ArticleId IdType="pubmed">27920040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu J, Wang AH, Oses-Prieto J, Makhijani K, Katsuno Y, Pei M, Yan L, Zheng YG, Burlingame A, Brückner K, Derynck R, Arginine Methylation Initiates BMP-Induced Smad Signaling. Mol Cell
+51, 5–19 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3951972</ArticleId>
+            <ArticleId IdType="pubmed">23747011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Katsuno Y, Qin J, Oses-Prieto JA, Wang H, Jackson-Weaver O, Zhang T, Lamouille S, Wu J, Burlingame ALL, Xu J, Derynck R, Arginine methylation of Smad7 by PRMT1 in TGF-β-induced epithelial-mesenchymal transition and epithelial stem cell generation. J Biol Chem
+293, 130590–13072 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6109915</ArticleId>
+            <ArticleId IdType="pubmed">29907569</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luo K, Lodish HF, Positive and negative regulation of type II TGF-β receptor signal transduction by autophosphorylation on multiple serine residues. EMBO J
+16, 1970–1981 (1997).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1169800</ArticleId>
+            <ArticleId IdType="pubmed">9155023</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Galliher AJ, Schiemann WP, Src phosphorylates Tyr284 in TGF-β type II receptor and regulates TGF-β stimulation of p38 MAPK during breast cancer cell proliferation and invasion. Cancer Res
+67, 3752–3758 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17440088</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kang JS, Saunier EF, Akhurst RJ, Derynck R, The type I TGF-β receptor is covalently modified and regulated by sumoylation. Nat Cell Biol
+10, 654–664 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2649123</ArticleId>
+            <ArticleId IdType="pubmed">18469808</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shi W, Sun C, He B, Xiong W, Shi X, Yao D, Cao X, GADD34-PP1c recruited by Smad7 dephosphorylates TGFβ type I receptor. J Cell Biol
+164, 291–300 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2172339</ArticleId>
+            <ArticleId IdType="pubmed">14718519</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Griswold-Prenner I, Kamibayashi C, Maruoka EM, Mumby MC, Derynck R, Physical and functional interactions between type I transforming growth factor β receptors and Bα, a WD-40 repeat subunit of phosphatase 2A. Mol Cell Biol
+18, 6595–6604 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC109244</ArticleId>
+            <ArticleId IdType="pubmed">9774674</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Batut J, Schmierer B, Cao J, Raftery LA, Hill CS, Howell M, Two highly related regulatory subunits of PP2A exert opposite effects on TGF-β/Activin/Nodal signalling. Dev
+135, 2927–2937 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4940033</ArticleId>
+            <ArticleId IdType="pubmed">18697906</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen X, Wang H, Liao HJ, Hu W, Gewin L, Mernaugh G, Zhang S, Zhang ZY, Vega-Montoto L, Vanacore RM, Fassler R, Zent R, Pozzi A, Integrin-mediated type II TGF-β receptor tyrosine dephosphorylation controls SMAD-dependent profibrotic signaling. J Clin Invest
+124, 3295–3310 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4109532</ArticleId>
+            <ArticleId IdType="pubmed">24983314</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Satow R, Kurisaki A, Chan TC, Hamazaki TS, Asashima M, Dullard promotes degradation and dephosphorylation of BMP receptors and is required for neural induction. Dev Cell
+11, 763–774 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17141153</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Verdin E, Ott M, 50 years of protein acetylation: from gene regulation to epigenetics, metabolism and beyond. Nat Rev Mol Cell Biol
+16, 258–264 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25549891</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Drazic A, Myklebust LM, Ree R, Arnesen T, The world of protein acetylation. Biochim Biophys Acta
+1864, 1372–1401 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27296530</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biggar KK, Li SS, Non-histone protein methylation as a regulator of cellular signalling and function. Nat Rev Mol Cell Biol
+16, 5–17 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25491103</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Massagué J, TGFbeta signalling in context. Nat Rev Mol Cell Biol
+13, 616–630 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4027049</ArticleId>
+            <ArticleId IdType="pubmed">22992590</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hata A, Chen YG, TGF-β signaling from receptors to Smads. Cold Spring Harb Perspect Biol
+8, a022061 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5008074</ArticleId>
+            <ArticleId IdType="pubmed">27449815</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hill CS, Transcriptional Control by the SMADs. Cold Spring Harbor perspectives in biology
+8, (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5046698</ArticleId>
+            <ArticleId IdType="pubmed">27449814</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shi Y, Wang YF, Jayaraman L, Yang H, Massagué J, Pavletich NP, Crystal structure of a Smad MH1 domain bound to DNA: insights on DNA binding in TGF-β signaling. Cell
+94, 585–594 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9741623</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu P, Lin X, Feng X-H, Posttranslational regulation of Smads. Cold Spring Harb Perspect Biol
+8, a022087 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5131773</ArticleId>
+            <ArticleId IdType="pubmed">27908935</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tao S, Sampath K, Alternative splicing of SMADs in differentiation and tissue homeostasis. Dev Growth Differ
+52, 335–342 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20148926</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kjellman C, Honeth G, Jarnum S, Lindvall M, Darabi A, Nilsson I, Edvardsen K, Salford LG, Widegren B, Identification and characterization of a human Smad3 splicing variant lacking part of the linker region. Gene
+327, 141–152 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14980711</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng KH, Ponte JF, Thiagalingam S, Elucidation of epigenetic inactivation of SMAD8 in cancer using targeted expressed gene display. Cancer Res
+64, 1639–1646 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14996722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yagi K, Goto D, Hamamoto T, Takenoshita S, Kato M, Miyazono K, Alternatively spliced variant of Smad2 lacking exon 3. Comparison with wild-type Smad2 and Smad3. J Biol Chem
+274, 703–709 (1999).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9873005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu L, Liu X, Ren X, Tian Y, Chen Z, Xu X, Du Y, Jiang C, Fang Y, Liu Z, Fan B, Zhang Q, Jin G, Yang X, Zhang X, Smad2 and Smad3 have differential sensitivity in relaying TGFβ signaling and inversely regulate early lineage specification. Sci Rep
+6, 21602 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4764856</ArticleId>
+            <ArticleId IdType="pubmed">26905010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kawabata M, Inoue H, Hanyu A, Imamura T, Miyazono K, Smad proteins exist as monomers in vivo and undergo homo- and hetero-oligomerization upon activation by serine/threonine kinase receptors. EMBO J
+17, 4056–4065 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1170738</ArticleId>
+            <ArticleId IdType="pubmed">9670020</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chacko BM, Qin BY, Tiwari A, Shi G, Lam S, Hayward LJ, de Caestecker M, Lin K, Structural basis of heteromeric Smad protein assembly in TGF-β signaling. Mol Cell
+15, 813–823 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15350224</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shapira KE, Hirschhorn T, Barzilay L, Smorodinsky NI, Henis YI, Ehrlich M, Dab2 inhibits the cholesterol-dependent activation of JNK by TGF-β. Mol Biol Cell
+25, 1620–1628 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4019493</ArticleId>
+            <ArticleId IdType="pubmed">24648493</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hocevar BA, Smine A, Xu XX, Howe PH, The adaptor molecule Disabled-2 links the transforming growth factor β receptors to the Smad pathway. EMBO J
+20, 2789–2801 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC125498</ArticleId>
+            <ArticleId IdType="pubmed">11387212</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu P, Bailey-Bucktrout S, Xi Y, Xu D, Du D, Zhang Q, Xiang W, Liu J, Melton A, Sheppard D, Chapman HA, Bluestone JA, Derynck R, Innate antiviral host defense attenuates TGF-β function through IRF3-mediated suppression of Smad signaling. Mol Cell
+56, 723–737 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4273650</ArticleId>
+            <ArticleId IdType="pubmed">25526531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feng X-H, Derynck R, A kinase subdomain of transforming growth factor-β (TGF-β) type I receptor determines the TGF-β intracellular signaling specificity. EMBO J
+16, 3912–3923 (1997).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1170015</ArticleId>
+            <ArticleId IdType="pubmed">9233801</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen YG, Hata A, Lo RS, Wotton D, Shi Y, Pavletich N, Massagué J, Determinants of specificity in TGF-β signal transduction. Genes Dev
+12, 2144–2152 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC317013</ArticleId>
+            <ArticleId IdType="pubmed">9679059</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lo RS, Chen YG, Shi Y, Pavletich NP, Massagué J, The L3 loop: a structural motif determining specific interactions between SMAD proteins and TGF-β receptors. EMBO J
+17, 996–1005 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1170449</ArticleId>
+            <ArticleId IdType="pubmed">9463378</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Persson U, Izumi H, Souchelnytskyi S, Itoh S, Grimsby S, Engström U, Heldin C-H, Funa K, ten Dijke P, The L45 loop in type I receptors for TGF-β family members is a critical determinant in specifying Smad isoform activation. FEBS Lett
+434, 83–87 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9738456</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tsukazaki T, Chiang TA, Davison AF, Attisano L, Wrana JL, SARA, a FYVE domain protein that recruits Smad2 to the TGFβ receptor. Cell
+95, 779–791 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9865696</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miura S, Takeshita T, Asao H, Kimura Y, Murata K, Sasaki Y, Hanai JI, Beppu H, Tsukazaki T, Wrana JL, Miyazono K, Sugamura K, Hgs (Hrs), a FYVE domain protein, is involved in Smad signaling through cooperation with SARA. Mol Cell Biol
+20, 9346–9355 (2000).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC102191</ArticleId>
+            <ArticleId IdType="pubmed">11094085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu G, Chen YG, Ozdamar B, Gyuricza CA, Chong PA, Wrana JL, Massagué J, Shi Y, Structural basis of Smad2 recognition by the Smad anchor for receptor activation. Science
+287, 92–97 (2000).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10615055</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shi W, Chang C, Nie S, Xie S, Wan M, Cao X, Endofin acts as a Smad anchor for receptor activation in BMP signaling. J Cell Sci
+120, 1216–1224 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17356069</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goh JB, Wallace DF, Hong W, Subramaniam VN, Endofin, a novel BMP-SMAD regulator of the iron-regulatory hormone, hepcidin. Sci Rep
+5, 13986 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4566084</ArticleId>
+            <ArticleId IdType="pubmed">26358513</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu JW, Hu M, Chai J, Seoane J, Huse M, Li C, Rigotti DJ, Kyin S, Muir TW, Fairman R, Massagué J, Shi Y, Crystal structure of a phosphorylated Smad2. Recognition of phosphoserine by the MH2 domain and insights on Smad function in TGF-β signaling. Mol Cell
+8, 1277–1289 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11779503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lucarelli P, Schilling M, Kreutz C, Vlasov A, Boehm ME, Iwamoto N, Steiert B, Lattermann S, Wasch M, Stepath M, Matter MS, Heikenwalder M, Hoffmann K, Deharde D, Damm G, Seehofer D, Muciek M, Gretz N, Lehmann WD, Timmer J, Klingmüller U, Resolving the combinatorial complexity of Smad protein complex formation and its link to gene expression. Cell Syst
+6, 75–89
+e11 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29248373</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Daly AC, Randall RA, Hill CS, Transforming growth factor β-induced Smad1/5 phosphorylation in epithelial cells is mediated by novel receptor complexes and is essential for anchorage-independent growth. Mol Cell Biol
+28, 6889–6902 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2573298</ArticleId>
+            <ArticleId IdType="pubmed">18794361</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramachandran A, Vizan P, Das D, Chakravarty P, Vogt J, Rogers KW, Müller P, Hinck AP, Sapkota GP, Hill CS, TGF-β uses a novel mode of receptor activation to phosphorylate SMAD1/5 and induce epithelial-to-mesenchymal transition. eLife
+7, e31756 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5832415</ArticleId>
+            <ArticleId IdType="pubmed">29376829</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hill CS, Nucleocytoplasmic shuttling of Smad proteins. Cell Res
+19, 36–46 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19114992</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kurisaki A, Kose S, Yoneda Y, Heldin C-H, Moustakas A, Transforming growth factor-β induces nuclear import of Smad3 in an importin-β1 and Ran-dependent manner. Mol Biol Cell
+12, 1079–1091 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC32288</ArticleId>
+            <ArticleId IdType="pubmed">11294908</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiao Z, Latek R, Lodish HF, An extended bipartite nuclear localization signal in Smad4 is required for its nuclear import and transcriptional activity. Oncogene
+22, 1057–1069 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12592392</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu L, Alarcon C, Col S, Massagué J, Distinct domain utilization by Smad3 and Smad4 for nucleoporin interaction and nuclear import. J Biol Chem
+278, 42569–42577 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12917407</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiao Z, Brownawell AM, Macara IG, Lodish HF, A novel nuclear export signal in Smad1 is essential for its signaling activity. J Biol Chem
+278, 34245–34252 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12821673</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kurisaki A, Kurisaki K, Kowanetz M, Sugino H, Yoneda Y, Heldin C-H, Moustakas A, The mechanism of nuclear export of Smad3 involves exportin 4 and Ran. Mol Cell Biol
+26, 1318–1332 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1367208</ArticleId>
+            <ArticleId IdType="pubmed">16449645</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dai F, Lin X, Chang C, Feng X-H, Nuclear export of Smad2 and Smad3 by RanBP3 facilitates termination of TGF-β signaling. Dev Cell
+16, 345–357 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2676691</ArticleId>
+            <ArticleId IdType="pubmed">19289081</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen F, Lin X, Xu P, Zhang Z, Chen Y, Wang C, Han J, Zhao B, Xiao M, Feng X-H, Nuclear export of Smads by RanBP3L regulates bone morphogenetic protein signaling and mesenchymal stem cell differentiation. Mol Cell Biol
+35, 1700–1711 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4405638</ArticleId>
+            <ArticleId IdType="pubmed">25755279</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Batut J, Howell M, Hill CS, Kinesin-mediated transport of Smad2 is required for signaling in response to TGF-β ligands. Dev Cell
+12, 261–274 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17276343</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jin Q, Gao G, Mulder KM, Requirement of a dynein light chain in TGFβ/Smad3 signaling. J Cell Physiol
+221, 707–715 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2881827</ArticleId>
+            <ArticleId IdType="pubmed">19711352</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feng X-H, Derynck R, Specificity and versatility in TGF-β signaling through Smads. Annu Rev Cell Dev Biol
+21, 659–693 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16212511</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Massagué J, Seoane J, Wotton D, Smad transcription factors. Genes Dev
+19, 2783–2810 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16322555</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mullen AC, Orlando DA, Newman JJ, Loven J, Kumar RM, Bilodeau S, Reddy J, Guenther MG, DeKoter RP, Young RA, Master transcription factors determine cell-type-specific responses to TGF-β signaling. Cell
+147, 565–576 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3212730</ArticleId>
+            <ArticleId IdType="pubmed">22036565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morikawa M, Koinuma D, Miyazono K, Heldin CH, Genome-wide mechanisms of Smad binding. Oncogene
+32, 1609–1615 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3615190</ArticleId>
+            <ArticleId IdType="pubmed">22614010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zawel L, Dai JL, Buckhaults P, Zhou S, Kinzler KW, Vogelstein B, Kern SE, Human Smad3 and Smad4 are sequence-specific transcription activators. Mol Cell
+1, 611–617 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9660945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morikawa M, Koinuma D, Tsutsumi S, Vasilaki E, Kanki Y, Heldin CH, Aburatani H, Miyazono K, ChIP-seq reveals cell type-specific binding patterns of BMP-specific Smads and a novel binding motif. Nucl Acids Res
+39, 8712–8727 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3203580</ArticleId>
+            <ArticleId IdType="pubmed">21764776</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martin-Malpartida P, Batet M, Kaczmarska Z, Freier R, Gomes T, Aragon E, Zou Y, Wang Q, Xi Q, Ruiz L, Vea A, Marquez JA, Massagué J, Macias MJ, Structural basis for genome wide recognition of 5-bp GC motifs by SMAD transcription factors. Nat Commun
+8, 2070 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5727232</ArticleId>
+            <ArticleId IdType="pubmed">29234012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feng X-H, Lin X, Derynck R, Smad2, Smad3 and Smad4 cooperate with Sp1 to induce p15(Ink4B) transcription in response to TGF-β. EMBO J
+19, 5178–5193 (2000).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC302105</ArticleId>
+            <ArticleId IdType="pubmed">11013220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alliston T, Choy L, Ducy P, Karsenty G, Derynck R, TGF-β-induced repression of CBFA1 by Smad3 decreases cbfa1 and osteocalcin expression and inhibits osteoblast differentiation. EMBO J
+20, 2254–2272 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC125448</ArticleId>
+            <ArticleId IdType="pubmed">11331591</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luo K, Signaling Cross talk between TGF-β/Smad and other signaling pathways. Cold Spring Harb Perspect Biol
+9, a022137 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5204325</ArticleId>
+            <ArticleId IdType="pubmed">27836834</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y, Feng X-H, Derynck R, Smad3 and Smad4 cooperate with c-Jun/c-Fos to mediate TGF-β-induced transcription. Nature
+394, 909–913 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9732876</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kang Y, Chen CR, Massagué J, A self-enabling TGFβ response coupled to stress signaling: Smad engages stress response factor ATF3 for Id1 repression in epithelial cells. Mol Cell
+11, 915–926 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12718878</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cordenonsi M, Montagner M, Adorno M, Zacchigna L, Martello G, Mamidi A, Soligo S, Dupont S, Piccolo S, Integration of TGF-β and Ras/MAPK signaling through p53 phosphorylation. Science
+315, 840–843 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17234915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Attisano L, Labbé E, TGFβ and Wnt pathway cross-talk. Cancer Metastasis Rev
+23, 53–61 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15000149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blokzijl A, Dahlqvist C, Reissmann E, Falk A, Moliner A, Lendahl U, Ibanez CF, Cross-talk between the Notch and TGF-β signaling pathways mediated by interaction of the Notch intracellular domain with Smad3. J Cell Biol
+163, 723–728 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2173673</ArticleId>
+            <ArticleId IdType="pubmed">14638857</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zavadil J, Cermak L, Soto-Nieves N, Bottinger EP, Integration of TGF-β/Smad and Jagged1/Notch signalling in epithelial-to-mesenchymal transition. EMBO J
+23, 1155–1165 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC380966</ArticleId>
+            <ArticleId IdType="pubmed">14976548</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nye MD, Almada LL, Fernandez-Barrena MG, Marks DL, Elsawa SF, Vrabel A, Tolosa EJ, Ellenrieder V, Fernandez-Zapico ME, The transcription factor GLI1 interacts with SMAD proteins to modulate transforming growth factor β-induced gene expression in a p300/CREB-binding protein-associated factor (PCAF)-dependent manner. J Biol Chem
+289, 15495–15506 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4140905</ArticleId>
+            <ArticleId IdType="pubmed">24739390</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mullen AC, Wrana JL, TGF-β family signaling in embryonic and somatic stem-cell renewal and differentiation. Cold Spring Harb Perspect Biol
+9, a022186 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5495062</ArticleId>
+            <ArticleId IdType="pubmed">28108485</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grafe I, Alexander S, Peterson JR, Snider TN, Levi B, Lee B, Mishina Y, TGF-β family signaling in mesenchymal differentiation. Cold Spring Harb Perspect Biol
+10, a022202 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5932590</ArticleId>
+            <ArticleId IdType="pubmed">28507020</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feng X-H, Zhang Y, Wu RY, Derynck R, The tumor suppressor Smad4/DPC4 and transcriptional adaptor CBP/p300 are coactivators for Smad3 in TGF-β-induced transcriptional activation. Genes Dev
+12, 2153–2163 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC317015</ArticleId>
+            <ArticleId IdType="pubmed">9679060</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Levy L, Hill CS, Smad4 dependency defines two classes of transforming growth factor-β (TGF-β) target genes and distinguishes TGF-β-induced epithelial-mesenchymal transition from its antiproliferative and migratory responses. Mol Cell Biol
+25, 8108–8125 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1234333</ArticleId>
+            <ArticleId IdType="pubmed">16135802</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kang JS, Alliston T, Delston R, Derynck R, Repression of Runx2 function by TGF-β through recruitment of class II histone deacetylases by Smad3. EMBO J
+24, 2543–2555 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1176457</ArticleId>
+            <ArticleId IdType="pubmed">15990875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ross S, Cheung E, Petrakis TG, Howell M, Kraus WL, Hill CS, Smads orchestrate specific histone modifications and chromatin remodeling to activate transcription. EMBO J
+25, 4490–4502 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1589990</ArticleId>
+            <ArticleId IdType="pubmed">16990801</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Itoh S, Ericsson J, Nishikawa J, Heldin C-H, ten Dijke P, The transcriptional co-activator P/CAF potentiates TGF-β/Smad signaling. Nucl Acids Res
+28, 4291–4298 (2000).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC113149</ArticleId>
+            <ArticleId IdType="pubmed">11058129</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kahata K, Hayashi M, Asaka M, Hellman U, Kitagawa H, Yanagisawa J, Kato S, Imamura T, Miyazono K, Regulation of transforming growth factor-β and bone morphogenetic protein signalling by transcriptional coactivator GCN5. Genes Cells
+9, 143–151 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15009097</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wakabayashi Y, Tamiya T, Takada I, Fukaya T, Sugiyama Y, Inoue N, Kimura A, Morita R, Kashiwagi I, Takimoto T, Nomura M, Yoshimura A, Histone 3 lysine 9 (H3K9) methyltransferase recruitment to the interleukin-2 (IL-2) promoter is a mechanism of suppression of IL-2 transcription by the transforming growth factor-β-Smad pathway. J Biol Chem
+286, 35456–35465 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3195630</ArticleId>
+            <ArticleId IdType="pubmed">21862595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Du D, Katsuno Y, Meyer D, Budi EH, Chen SH, Koeppen H, Wang H, Akhurst RJ, Derynck R, Smad3-mediated recruitment of the methyltransferase SETDB1/ESET controls Snail1 expression and epithelial-mesenchymal transition. EMBO Rep
+19, 135–155 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5757214</ArticleId>
+            <ArticleId IdType="pubmed">29233829</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shuttleworth VG, Gaughan L, Nawafa L, Mooney CA, Cobb SL, Sheerin NS, Logan IR, The methyltransferase SET9 regulates TGFB1 activation of renal fibroblasts via interaction with SMAD3. J Cell Sci
+131, (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29222115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wotton D, Lo RS, Lee S, Massagué J, A Smad transcriptional corepressor. Cell
+97, 29–39 (1999).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10199400</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Deheuninck J, Luo K, Ski and SnoN, potent negative regulators of TGF-β signaling. Cell Res
+19, 47–57 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3103856</ArticleId>
+            <ArticleId IdType="pubmed">19114989</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Izutsu K, Kurokawa M, Imai Y, Maki K, Mitani K, Hirai H, The corepressor CtBP interacts with Evi-1 to repress transforming growth factor β signaling. Blood
+97, 2815–2822 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11313276</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alliston T, Ko TC, Cao Y, Liang YY, Feng X-H, Chang C, Derynck R, Repression of bone morphogenetic protein and activin-inducible transcription by Evi-1. J Biol Chem
+280, 24227–24237 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15849193</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feng Y, Wu H, Xu Y, Zhang Z, Liu T, Lin X, Feng XH, Zinc finger protein 451 is a novel Smad corepressor in transforming growth factor-β signaling. J Biol Chem
+289, 2072–2083 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3900955</ArticleId>
+            <ArticleId IdType="pubmed">24324267</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xi Q, Wang Z, Zaromytidou AI, Zhang XH, Chow-Tsang LF, Liu JX, Kim H, Barlas A, Manova-Todorova K, Kaartinen V, Studer L, Mark W, Patel DJ, Massagué J, A poised chromatin platform for TGF-β access to master regulators. Cell
+147, 1511–1524 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3582033</ArticleId>
+            <ArticleId IdType="pubmed">22196728</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Agricola E, Randall RA, Gaarenstroom T, Dupont S, Hill CS, Recruitment of TIF1γ to chromatin via its PHD finger-bromodomain activates its ubiquitin ligase and transcriptional repressor activities. Mol Cell
+43, 85–96 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21726812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu D, Black BL, Derynck R, TGF-β inhibits muscle differentiation through functional repression of myogenic transcription factors by Smad3. Genes Dev
+15, 2950–2966 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC312830</ArticleId>
+            <ArticleId IdType="pubmed">11711431</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu D, Kang JS, Derynck R, TGF-β-activated Smad3 represses MEF2-dependent transcription in myogenic differentiation. EMBO J
+23, 1557–1566 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC391082</ArticleId>
+            <ArticleId IdType="pubmed">15044954</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Y, Park JW, Bebee TW, Warzecha CC, Guo Y, Shang X, Xing Y, Carstens RP, Determination of a comprehensive alternative splicing regulatory network and combinatorial regulation by key factors during the epithelial-to-mesenchymal transition. Mol Cell Biol
+36, 1704–1719 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4959312</ArticleId>
+            <ArticleId IdType="pubmed">27044866</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pradella D, Naro C, Sette C, Ghigna C, EMT and stemness: flexible processes tuned by alternative splicing in development and cancer progression. Mol Cancer
+16, 8 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5282733</ArticleId>
+            <ArticleId IdType="pubmed">28137272</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Horiguchi K, Sakamoto K, Koinuma D, Semba K, Inoue A, Inoue S, Fujii H, Yamaguchi A, Miyazawa K, Miyazono K, Saitoh M, TGF-β drives epithelial-mesenchymal transition through δEF1-mediated downregulation of ESRP. Oncogene
+31, 3190–3201 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3391666</ArticleId>
+            <ArticleId IdType="pubmed">22037216</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tripathi V, Sixt KM, Gao S, Xu X, Huang J, Weigert R, Zhou M, Zhang YE, Direct regulation of alternative splicing by SMAD3 through PCBP1 is essential to the tumor-promoting role of TGF-β. Mol Cell
+64, 549–564 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5123764</ArticleId>
+            <ArticleId IdType="pubmed">27746021</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shen J, Hung MC, Signaling-mediated regulation of microRNA processing. Cancer Res
+75, 783–791 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4348149</ArticleId>
+            <ArticleId IdType="pubmed">25660948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Janakiraman H, House RP, Gangaraju VK, Diehl JA, Howe PH, Palanisamy V, The long (lncRNA) and short (miRNA) of It: TGFβ-mediated control of RNA-binding proteins and noncoding RNAs. Mol Cancer Res
+16, 567–579 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6309266</ArticleId>
+            <ArticleId IdType="pubmed">29555893</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ahn SM, Cha JY, Kim J, Kim D, Trang HT, Kim YM, Cho YH, Park D, Hong S, Smad3 regulates E-cadherin via miRNA-200 pathway. Oncogene
+31, 3051–3059 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22020340</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Davis BN, Hilyard AC, Lagna G, Hata A, SMAD proteins control DROSHA-mediated microRNA maturation. Nature
+454, 56–61 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2653422</ArticleId>
+            <ArticleId IdType="pubmed">18548003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Davis BN, Hilyard AC, Nguyen PH, Lagna G, Hata A, Smad proteins bind a conserved RNA sequence to promote microRNA maturation by Drosha. Mol Cell
+39, 373–384 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2921543</ArticleId>
+            <ArticleId IdType="pubmed">20705240</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yuan JH, Yang F, Wang F, Ma JZ, Guo YJ, Tao QF, Liu F, Pan W, Wang TT, Zhou CC, Wang SB, Wang YZ, Yang Y, Yang N, Zhou WP, Yang GS, Sun SH, A long noncoding RNA activated by TGF-β promotes the invasion-metastasis cascade in hepatocellular carcinoma. Cancer Cell
+25, 666–681 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24768205</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bertero A, Brown S, Madrigal P, Osnato A, Ortmann D, Yiangou L, Kadiwala J, Hubner NC, de Los Mozos IR, Sadee C, Lenaerts AS, Nakanoh S, Grandy R, Farnell E, Ule J, Stunnenberg HG, Mendjan S, Vallier L, The SMAD2/3 interactome reveals that TGFβ controls m(6)A mRNA methylation in pluripotency. Nature
+555, 256–259 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5951268</ArticleId>
+            <ArticleId IdType="pubmed">29489750</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Itoh S, Landström M, Hermansson A, Itoh F, Heldin C-H, Heldin NE, ten Dijke P, Transforming growth factor β1 induces nuclear export of inhibitory Smad7. J Biol Chem
+273, 29195–29201 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9786930</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Itoh F, Asao H, Sugamura K, Heldin CH, ten Dijke P, Itoh S, Promoting bone morphogenetic protein signaling through negative regulation of inhibitory Smads. EMBO J
+20, 4132–4142 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC149146</ArticleId>
+            <ArticleId IdType="pubmed">11483516</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hanyu A, Ishidou Y, Ebisawa T, Shimanuki T, Imamura T, Miyazono K, The N domain of Smad7 is essential for specific inhibition of transforming growth factor-β signaling. J Cell Biol
+155, 1017–1027 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2150897</ArticleId>
+            <ArticleId IdType="pubmed">11739411</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mochizuki T, Miyazaki H, Hara T, Furuya T, Imamura T, Watabe T, Miyazono K, Roles for the MH2 domain of Smad7 in the specific inhibition of transforming growth factor-β superfamily signaling. J Biol Chem
+279, 31568–31574 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15148321</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kamiya Y, Miyazono K, Miyazawa K, Smad7 inhibits transforming growth factor-β family type I receptors through two distinct modes of interaction. J Biol Chem
+285, 30804–30813 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2945574</ArticleId>
+            <ArticleId IdType="pubmed">20663871</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hata A, Lagna G, Massagué J, Hemmati-Brivanlou A, Smad6 inhibits BMP/Smad1 signaling by specifically competing with the Smad4 tumor suppressor. Genes Dev
+12, 186–197 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC316444</ArticleId>
+            <ArticleId IdType="pubmed">9436979</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang S, Fei T, Zhang L, Zhang R, Chen F, Ning Y, Han Y, Feng XH, Meng A, Chen YG, Smad7 antagonizes transforming growth factor β signaling in the nucleus by interfering with functional Smad-DNA complex formation. Mol Cell Biol
+27, 4488–4499 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1900056</ArticleId>
+            <ArticleId IdType="pubmed">17438144</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin X, Liang YY, Sun B, Liang M, Shi Y, Brunicardi FC, Feng X-H, Smad6 recruits transcription corepressor CtBP to repress bone morphogenetic protein-induced transcription. Mol Cell Biol
+23, 9081–9093 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC309600</ArticleId>
+            <ArticleId IdType="pubmed">14645520</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bai S, Cao X, A nuclear antagonistic mechanism of inhibitory Smads in transforming growth factor-β signaling. J Biol Chem
+277, 4176–4182 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11711531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yan X, Pan J, Xiong W, Cheng M, Sun Y, Zhang S, Chen Y, Yin Yang 1 (YY1) synergizes with Smad7 to inhibit TGF-β signaling in the nucleus. Sci China Life Sci
+57, 128–136 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24369345</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin X, Duan X, Liang YY, Su Y, Wrighton KH, Long J, Hu M, Davis CM, Wang J, Brunicardi FC, Shi Y, Chen YG, Meng A, Feng X-H, PPM1A functions as a Smad phosphatase to terminate TGFβ signaling. Cell
+125, 915–928 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6309366</ArticleId>
+            <ArticleId IdType="pubmed">16751101</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Duan X, Liang YY, Feng XH, Lin X, Protein serine/threonine phosphatase PPM1A dephosphorylates Smad1 in the bone morphogenetic protein signaling pathway. J Biol Chem
+281, 36526–36532 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16931515</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu J, Pan L, Qin X, Chen H, Xu Y, Chen Y, Tang H, MTMR4 attenuates transforming growth factor β (TGFβ) signaling by dephosphorylating R-Smads in endosomes. J Biol Chem
+285, 8454–8462 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2832994</ArticleId>
+            <ArticleId IdType="pubmed">20061380</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao Y, Xiao M, Sun B, Zhang Z, Shen T, Duan X, Yu PB, Feng XH, Lin X, C-terminal domain (CTD) small phosphatase-like 2 modulates the canonical bone morphogenetic protein (BMP) signaling and mesenchymal differentiation via Smad dephosphorylation. J Biol Chem
+289, 26441–26450 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4176200</ArticleId>
+            <ArticleId IdType="pubmed">25100727</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sapkota G, Knockaert M, Alarcon C, Montalvo E, Brivanlou AH, Massagué J, Dephosphorylation of the linker regions of Smad1 and Smad2/3 by small C-terminal domain phosphatases has distinct outcomes for bone morphogenetic protein and transforming growth factor-β pathways. J Biol Chem
+281, 40412–40419 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17085434</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wrighton KH, Willis D, Long J, Liu F, Lin X, Feng X-H, Small C-terminal domain phosphatases dephosphorylate the regulatory linker regions of Smad2 and Smad3 to enhance transforming growth factor-β signaling. J Biol Chem
+281, 38365–38375 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17035229</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lönn P, Moren A, Raja E, Dahl M, Moustakas A, Regulating the stability of TGFβ receptors and Smads. Cell Res
+19, 21–35 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19030025</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhu H, Kavsak P, Abdollah S, Wrana JL, Thomsen GH, A SMAD ubiquitin ligase targets the BMP pathway and affects embryonic pattern formation. Nature
+400, 687–693 (1999).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10458166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y, Chang C, Gehling DJ, Hemmati-Brivanlou A, Derynck R, Regulation of Smad degradation and activity by Smurf2, an E3 ubiquitin ligase. Proc Natl Acad Sci U S A
+98, 974–979 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC14694</ArticleId>
+            <ArticleId IdType="pubmed">11158580</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fukuchi M, Imamura T, Chiba T, Ebisawa T, Kawabata M, Tanaka K, Miyazono K, Ligand-dependent degradation of Smad3 by a ubiquitin ligase complex of ROC1 and associated proteins. Mol Biol Cell
+12, 1431–1443 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC34595</ArticleId>
+            <ArticleId IdType="pubmed">11359933</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xin H, Xu X, Li L, Ning H, Rong Y, Shang Y, Wang Y, Fu XY, Chang Z, CHIP controls the sensitivity of transforming growth factor-β signaling by modulating the basal level of Smad3 through ubiquitin-mediated degradation. J Biol Chem
+280, 20842–20850 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15781469</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mavrakis KJ, Andrew RL, Lee KL, Petropoulou C, Dixon JE, Navaratnam N, Norris DP, Episkopou V, Arkadia enhances Nodal/TGF-β signaling by coupling phospho-Smad2/3 activity and turnover. PLoS Biol
+5, e67 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1808117</ArticleId>
+            <ArticleId IdType="pubmed">17341133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liang M, Liang YY, Wrighton K, Ungermannova D, Wang XP, Brunicardi FC, Liu X, Feng X-H, Lin X, Ubiquitination and proteolysis of cancer-derived Smad4 mutants by SCFSkp2. Mol Cell Biol
+24, 7524–7537 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC506984</ArticleId>
+            <ArticleId IdType="pubmed">15314162</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alarcon C, Zaromytidou AI, Xi Q, Gao S, Yu J, Fujisawa S, Barlas A, Miller AN, Manova-Todorova K, Macias MJ, Sapkota G, Pan D, Massagué J, Nuclear CDKs drive Smad transcriptional activation and turnover in BMP and TGF-β pathways. Cell
+139, 757–769 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2818353</ArticleId>
+            <ArticleId IdType="pubmed">19914168</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aragon E, Goerner N, Zaromytidou AI, Xi Q, Escobedo A, Massagué J, Macias MJ, A Smad action turnover switch operated by WW domain readers of a phosphoserine code. Genes Dev
+25, 1275–1288 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3127429</ArticleId>
+            <ArticleId IdType="pubmed">21685363</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo X, Ramirez A, Waddell DS, Li Z, Liu X, Wang XF, Axin and GSK3-β control Smad3 protein stability and modulate TGF-β signaling. Genes Dev
+22, 106–120 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2151009</ArticleId>
+            <ArticleId IdType="pubmed">18172167</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Swatek KN, Komander D, Ubiquitin modifications. Cell Res
+26, 399–422 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4822133</ArticleId>
+            <ArticleId IdType="pubmed">27012465</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rosonina E, Akhter A, Dou Y, Babu J, Sri Theivakadadcham VS, Regulation of transcription factors by sumoylation. Transcription
+8, 220–231 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5574528</ArticleId>
+            <ArticleId IdType="pubmed">28379052</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bai Y, Yang C, Hu K, Elly C, Liu YC, Itch E3 ligase-mediated regulation of TGF-β signaling by modulating Smad2 phosphorylation. Mol Cell
+15, 825–831 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15350225</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Inui M, Manfrin A, Mamidi A, Martello G, Morsut L, Soligo S, Enzo E, Moro S, Polo S, Dupont S, Cordenonsi M, Piccolo S, USP15 is a deubiquitylating enzyme for receptor-activated SMADs. Nat Cell Biol
+13, 1368–1375 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21947082</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tang LY, Yamashita M, Coussens NP, Tang Y, Wang X, Li C, Deng CX, Cheng SY, Zhang YE, Ablation of Smurf2 reveals an inhibition in TGF-β signalling through multiple mono-ubiquitination of Smad3. EMBO J
+30, 4777–4789 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3243605</ArticleId>
+            <ArticleId IdType="pubmed">22045334</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moren A, Hellman U, Inada Y, Imamura T, Heldin CH, Moustakas A, Differential ubiquitination defines the functional status of the tumor suppressor Smad4. J Biol Chem
+278, 33571–33582 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12794086</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dupont S, Mamidi A, Cordenonsi M, Montagner M, Zacchigna L, Adorno M, Martello G, Stinchfield MJ, Soligo S, Morsut L, Inui M, Moro S, Modena N, Argenton F, Newfeld SJ, Piccolo S, FAM/USP9x, a deubiquitinating enzyme essential for TGFβ signaling, controls Smad4 monoubiquitination. Cell
+136, 123–135 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19135894</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang X, Zhang J, Bauer A, Zhang L, Selinger DW, Lu CX, ten Dijke P, Fine-tuning BMP7 signalling in adipogenesis by UBE2O/E2–230K-mediated monoubiquitination of SMAD6. EMBO J
+32, 996–1007 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3616286</ArticleId>
+            <ArticleId IdType="pubmed">23455153</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Imoto S, Sugiyama K, Muromoto R, Sato N, Yamamoto T, Matsuda T, Regulation of transforming growth factor-β signaling by protein inhibitor of activated STAT, PIASy through Smad3. J Biol Chem
+278, 34253–34258 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12815042</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liang M, Melchior F, Feng XH, Lin X, Regulation of Smad4 sumoylation and transforming growth factor-β signaling by protein inhibitor of activated STAT1. J Biol Chem
+279, 22857–22865 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15028714</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lönn P, van der Heide LP, Dahl M, Hellman U, Heldin C-H, Moustakas A, PARP-1 attenuates Smad-mediated transcription. Mol Cell
+40, 521–532 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21095583</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Simonsson M, Heldin CH, Ericsson J, Grönroos E, The balance between acetylation and deacetylation controls Smad7 stability. J Biol Chem
+280, 21797–21803 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15831498</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gronroos E, Hellman U, Heldin CH, Ericsson J, Control of Smad7 stability by competition between acetylation and ubiquitination. Mol Cell
+10, 483–493 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12408818</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kume S, Haneda M, Kanasaki K, Sugimoto T, Araki S, Isshiki K, Isono M, Uzu T, Guarente L, Kashiwagi A, Koya D, SIRT1 inhibits transforming growth factor β-induced apoptosis in glomerular mesangial cells via Smad7 deacetylation. J Biol Chem
+282, 151–158 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17098745</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Elkouris M, Kontaki H, Stavropoulos A, Antonoglou A, Nikolaou KC, Samiotaki M, Szantai E, Saviolaki D, Brown PJ, Sideras P, Panayotou G, Talianidis I, SET9-mediated regulation of TGF-β signaling links protein methylation to pulmonary fibrosis. Cell Rep
+15, 2733–2744 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4920893</ArticleId>
+            <ArticleId IdType="pubmed">27292644</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thuault S, Tan EJ, Peinado H, Cano A, Heldin CH, Moustakas A, HMGA2 and Smads co-regulate SNAIL1 expression during induction of epithelial-to-mesenchymal transition. J Biol Chem
+283, 33437–33446 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2662269</ArticleId>
+            <ArticleId IdType="pubmed">18832382</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vincent T, Neve EP, Johnson JR, Kukalev A, Rojo F, Albanell J, Pietras K, Virtanen I, Philipson L, Leopold PL, Crystal RG, de Herreros AG, Moustakas A, Pettersson RF, Fuxe J, A SNAIL1-SMAD¾ transcriptional repressor complex promotes TGF-β mediated epithelial-mesenchymal transition. Nat Cell Biol
+11, 943–950 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3769970</ArticleId>
+            <ArticleId IdType="pubmed">19597490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lamouille S, Xu J, Derynck R, Molecular mechanisms of epithelial-mesenchymal transition. Nat Rev Mol Cell Biol
+15, 178–196 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4240281</ArticleId>
+            <ArticleId IdType="pubmed">24556840</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Germain S, Howell M, Esslemont GM, Hill CS, Homeodomain and winged-helix transcription factors recruit activated Smads to distinct promoter elements via a common Smad interaction motif. Genes Dev
+14, 435–451 (2000).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC316385</ArticleId>
+            <ArticleId IdType="pubmed">10691736</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kunwar PS, Zimmerman S, Bennett JT, Chen Y, Whitman M, Schier AF, Mixer/Bon and FoxH1/Sur have overlapping and divergent roles in Nodal signaling and mesendoderm induction. Dev
+130, 5589–5599 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14522874</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hernandez-Hernandez JM, Garcia-Gonzalez EG, Brun CE, Rudnicki MA, The myogenic regulatory factors, determinants of muscle development, cell identity and regeneration. Semin Cell Dev Biol
+72, 10–18 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5723221</ArticleId>
+            <ArticleId IdType="pubmed">29127045</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang YE, Non-Smad signaling pathways of the TGF-β family. Cold Spring Harb Perspect Biol
+9, a022129 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5287080</ArticleId>
+            <ArticleId IdType="pubmed">27864313</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zuo W, Chen YG, Specific activation of mitogen-activated protein kinase by transforming growth factor-β receptors in lipid rafts is required for epithelial cell plasticity. Mol Biol Cell
+20, 1020–1029 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2633387</ArticleId>
+            <ArticleId IdType="pubmed">19056678</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meyer C, Godoy P, Bachmann A, Liu Y, Barzan D, Ilkavets I, Maier P, Herskind C, Hengstler JG, Dooley S, Distinct role of endocytosis for Smad and non-Smad TGF-β signaling regulation in hepatocytes. J Hepatol
+55, 369–378 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21184784</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yan Z, Winawer S, Friedman E, Two different signal transduction pathways can be activated by transforming growth factor β1 in epithelial cells. J Biol Chem
+269, 13231–13237 (1994).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8175753</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lai CF, Cheng SL, Signal transductions induced by bone morphogenetic protein-2 and transforming growth factor-β in normal human osteoblastic cells. J Biol Chem
+277, 15514–15522 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11854297</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McKay MM, Morrison DK, Integrating signals from RTKs to ERK/MAPK. Oncogene
+26, 3113–3121 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17496910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mulder KM, Morris SL, Activation of p21ras by transforming growth factor β in epithelial cells. J Biol Chem
+267, 5029–5031 (1992).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1544886</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chang SF, Chang TK, Peng HH, Yeh YT, Lee DY, Yeh CR, Zhou J, Cheng CK, Chang CA, Chiu JJ, BMP-4 induction of arrest and differentiation of osteoblast-like cells via p21 CIP1 and p27 KIP1 regulation. Mol Endocrinol
+23, 1827–1838 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5419157</ArticleId>
+            <ArticleId IdType="pubmed">19819988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muthusamy BP, Budi EH, Katsuno Y, Lee MK, Smith SM, Mirza AM, Akhurst RJ, Derynck R, ShcA protects against epithelial-mesenchymal transition through compartmentalized inhibition of TGF-β-induced Smad activation. PLoS Biol
+13, e1002325 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4682977</ArticleId>
+            <ArticleId IdType="pubmed">26680585</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Derynck R, Muthusamy BP, Saeteurn KY, Signaling pathway cooperation in TGF-β-induced epithelial-mesenchymal transition. Curr Opin Cell Biol
+31, 56–66 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4657734</ArticleId>
+            <ArticleId IdType="pubmed">25240174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Engel ME, McDonnell MA, Law BK, Moses HL, Interdependent SMAD and JNK signaling in transforming growth factor-β-mediated transcription. J Biol Chem
+274, 37413–37420 (1999).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10601313</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hocevar BA, Brown TL, Howe PH, TGF-β induces fibronectin synthesis through a c-Jun N-terminal kinase-dependent, Smad4-independent pathway. EMBO J
+18, 1345–1356 (1999).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1171224</ArticleId>
+            <ArticleId IdType="pubmed">10064600</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hanafusa H, Ninomiya-Tsuji J, Masuyama N, Nishita M, Fujisawa J, Shibuya H, Matsumoto K, Nishida E, Involvement of the p38 mitogen-activated protein kinase pathway in transforming growth factor-β-induced gene expression. J Biol Chem
+274, 27161–27167 (1999).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10480932</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu L, Hébert MC, Zhang YE, TGF-β receptor-activated p38 MAP kinase mediates Smad-independent TGF-β responses. EMBO J
+21, 3749–3759 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC126112</ArticleId>
+            <ArticleId IdType="pubmed">12110587</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yamaguchi K, Shirakabe K, Shibuya H, Irie K, Oishi I, Ueno N, Taniguchi T, Nishida E, Matsumoto K, Identification of a member of the MAPKKK family as a potential mediator of TGF-β signal transduction. Science
+270, 2008–2011 (1995).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8533096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sakurai H, Targeting of TAK1 in inflammatory disorders and cancer. Trends Pharmacol Sci
+33, 522–530 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22795313</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sorrentino A, Thakur N, Grimsby S, Marcusson A, von Bulow V, Schuster N, Zhang S, Heldin C-H, Landström M, The type I TGF-β receptor engages TRAF6 to activate TAK1 in a receptor kinase-independent manner. Nat Cell Biol
+10, 1199–1207 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18758450</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yamashita M, Fatyol K, Jin C, Wang X, Liu Z, Zhang YE, TRAF6 mediates Smad-independent activation of JNK and p38 by TGF-β. Mol Cell
+31, 918–924 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2621323</ArticleId>
+            <ArticleId IdType="pubmed">18922473</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang L, Zhou F, Garcia de Vinuesa A, de Kruijf EM, Mesker WE, Hui L, Drabsch Y, Li Y, Bauer A, Rousseau A, Sheppard KA, Mickanin C, Kuppen PJ, Lu CX, ten Dijke P, TRAF4 promotes TGF-β receptor signaling and drives breast cancer metastasis. Mol Cell
+51, 559–572 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23973329</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu H, Arron JR, TRAF6, a molecular bridge spanning adaptive immunity, innate immunity and osteoimmunology. Bioessays
+25, 1096–1105 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14579250</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hamidi A, von Bulow V, Hamidi R, Winssinger N, Barluenga S, Heldin CH, Landström M, Polyubiquitination of transforming growth factor β (TGFβ)-associated kinase 1 mediates nuclear factor-κB activation in response to different inflammatory stimuli. J Biol Chem
+287, 123–133 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3249064</ArticleId>
+            <ArticleId IdType="pubmed">22069318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Takaesu G, Surabhi RM, Park KJ, Ninomiya-Tsuji J, Matsumoto K, Gaynor RB, TAK1 is critical for IκB kinase-mediated activation of the NF-κB pathway. J Mol Biol
+326, 105–115 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12547194</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Edlund S, Bu S, Schuster N, Aspenström P, Heuchel R, Heldin NE, ten Dijke P, Heldin C-H, Landström M, Transforming growth factor-β1 (TGF-β)-induced apoptosis of prostate cancer cells involves Smad7-dependent activation of p38 by TGF-β-activated kinase 1 and mitogen-activated protein kinase kinase 3. Mol Biol Cell
+14, 529–544 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC149990</ArticleId>
+            <ArticleId IdType="pubmed">12589052</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kimura N, Matsuo R, Shibuya H, Nakashima K, Taga T, BMP2-induced apoptosis is mediated by activation of the TAK1-p38 kinase pathway that is negatively regulated by Smad6. J Biol Chem
+275, 17647–17652 (2000).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10748100</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jung SM, Lee JH, Park J, Oh YS, Lee SK, Park JS, Lee YS, Kim JH, Lee JY, Bae YS, Koo SH, Kim SJ, Park SH, Smad6 inhibits non-canonical TGF-β1 signalling by recruiting the deubiquitinase A20 to TRAF6. Nat Commun
+4, 2562 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24096742</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ha H, Kwak HB, Lee SK, Na DS, Rudd CE, Lee ZH, Kim HH, Membrane rafts play a crucial role in receptor activator of nuclear factor κB signaling and osteoclast function. J Biol Chem
+278, 18573–18580 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12637570</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oakley FD, Smith RL, Engelhardt JF, Lipid rafts and caveolin-1 coordinate interleukin-1β (IL-1β)-dependent activation of κ by controlling endocytosis of Nox2 and IL-1β receptor 1 from the plasma membrane. J Biol Chem
+284, 33255–33264 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2785168</ArticleId>
+            <ArticleId IdType="pubmed">19801678</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sundar R, Gudey SK, Heldin CH, Landström M, TRAF6 promotes TGFβ-induced invasion and cell-cycle regulation via Lys63-linked polyubiquitination of Lys178 in TGFβ type I receptor. Cell Cycle
+14, 554–565 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4347693</ArticleId>
+            <ArticleId IdType="pubmed">25622187</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fruman DA, Chiu H, Hopkins BD, Bagrodia S, Cantley LC, Abraham RT, The PI3K pathway in human disease. Cell
+170, 605–635 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5726441</ArticleId>
+            <ArticleId IdType="pubmed">28802037</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saxton RA, Sabatini DM , mTOR signaling in growth, metabolism, and disease. Cell
+169, 361–371 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28388417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lamouille S, Derynck R, Cell size and invasion in TGF-β-induced epithelial to mesenchymal transition is regulated by activation of the mTOR pathway. J Cell Biol
+178, 437–451 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2064840</ArticleId>
+            <ArticleId IdType="pubmed">17646396</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gamell C, Osses N, Bartrons R, Ruckle T, Camps M, Rosa JL, Ventura F, BMP2 induction of actin cytoskeleton reorganization and cell migration requires PI3-kinase and Cdc42 activity. J Cell Sci
+121, 3960–3970 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19001503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yi JY, Shin I, Arteaga CL, Type I transforming growth factor β receptor binds to and activates phosphatidylinositol 3-kinase. J Biol Chem
+280, 10870–10876 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15657037</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang WL, Wang J, Chan CH, Lee SW, Campos AD, Lamothe B, Hur L, Grabiner BC, Lin X, Darnay BG, Lin HK, The E3 ligase TRAF6 regulates Akt ubiquitination and activation. Science
+325, 1134–1138 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3008763</ArticleId>
+            <ArticleId IdType="pubmed">19713527</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hamidi A, Song J, Thakur N, Itoh S, Marcusson A, Bergh A, Heldin CH, Landström M, TGF-β promotes PI3K-AKT signaling and prostate cancer cell migration through the TRAF6-mediated ubiquitylation of p85α. Sci Signal
+10, eaal4186 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28676490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang H, Fang R, Wang XF, Zhang F, Chen DY, Zhou B, Wang HS, Cai SH, Du J, Stabilization of Snail through AKT/GSK-3β signaling pathway is required for TNF-α-induced epithelial-mesenchymal transition in prostate cancer PC3 cells. Eur J Pharmacol
+714, 48–55 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23769744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang X, Tang N, Hadden TJ, Rishi AK, Akt, FoxO and regulation of apoptosis. Biochim Biophys Acta
+1813, 1978–1986 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21440011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seoane J, Le HV, Shen L, Anderson SA, Massagué J, Integration of Smad and forkhead pathways in the control of neuroepithelial and glioblastoma cell proliferation. Cell
+117, 211–223 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15084259</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lamouille S, Connolly E, Smyth JW, Akhurst RJ, Derynck R, TGF-β-induced activation of mTOR complex 2 drives epithelial-mesenchymal transition and cell invasion. J Cell Sci
+125, 1259–1273 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3324583</ArticleId>
+            <ArticleId IdType="pubmed">22399812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Remy I, Montmarquette A, Michnick SW, PKB/Akt modulates TGF-β signalling through a direct interaction with Smad3. Nat Cell Biol
+6, 358–365 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15048128</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Conery AR, Cao Y, Thompson EA, Townsend CM Jr., Ko TC, Luo K, Akt interacts directly with Smad3 to regulate the sensitivity to TGF-β induced apoptosis. Nat Cell Biol
+6, 366–372 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15104092</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sapkota G, Alarcon C, Spagnoli FM, Brivanlou AH, Massagué J, Balancing BMP signaling through integrated inputs into the Smad1 linker. Mol Cell
+25, 441–454 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17289590</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nakashima K, Yanagisawa M, Arakawa H, Kimura N, Hisatsune T, Kawabata M, Miyazono K, Taga T, Synergistic signaling in fetal brain by STAT3-Smad1 complex bridged by p300. Science
+284, 479–482 (1999).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10205054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yamamoto T, Matsuda T, Muraguchi A, Miyazono K, Kawabata M, Cross-talk between IL-6 and TGF-β signaling in hepatoma cells. FEBS Lett
+492, 247–253 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11257503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cocolakis E, Dai M, Drevet L, Ho J, Haines E, Ali S, Lebrun JJ, Smad signaling antagonizes STAT5-mediated gene transcription and mammary epithelial cell differentiation. J Biol Chem
+283, 1293–1307 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18024957</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang G, Yu Y, Sun C, Liu T, Liang T, Zhan L, Lin X, Feng XH, STAT3 selectively interacts with Smad3 to antagonize TGF-β signalling. Oncogene
+35, 4388–4398 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4885808</ArticleId>
+            <ArticleId IdType="pubmed">26616859</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu Y, Liu H, Meyer C, Li J, Nadalin S, Konigsrainer A, Weng H, Dooley S, ten Dijke P, Transforming growth factor-β (TGF-β)-mediated connective tissue growth factor (CTGF) expression in hepatic stellate cells requires Stat3 signaling activation. J Biol Chem
+288, 30708–30719 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3798541</ArticleId>
+            <ArticleId IdType="pubmed">24005672</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dees C, Tomcik M, Palumbo-Zerr K, Distler A, Beyer C, Lang V, Horn A, Zerr P, Zwerina J, Gelse K, Distler O, Schett G, Distler JH, JAK-2 as a novel mediator of the profibrotic effects of transforming growth factor β in systemic sclerosis. Arthritis Rheum
+64, 3006–3015 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22549363</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tang LY, Heller M, Meng Z, Yu LR, Tang Y, Zhou M, Zhang YE, Transforming growth factor-β (TGF-β) directly activates the JAK1-STAT3 axis to induce hepatic fibrosis in coordination with the SMAD pathway. J Biol Chem
+292, 4302–4312 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5354477</ArticleId>
+            <ArticleId IdType="pubmed">28154170</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bhowmick NA, Ghiassi M, Bakin A, Aakre M, Lundquist CA, Engel ME, Arteaga CL, Moses HL, Transforming growth factor-β1 mediates epithelial to mesenchymal transdifferentiation through a RhoA-dependent mechanism. Mol Biol Cell
+12, 27–36 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC30565</ArticleId>
+            <ArticleId IdType="pubmed">11160820</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Edlund S, Landström M, Heldin C-H, Aspenström P, Transforming growth factor-β-induced mobilization of actin cytoskeleton requires signaling by small GTPases Cdc42 and RhoA. Mol Biol Cell
+13, 902–914 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC99608</ArticleId>
+            <ArticleId IdType="pubmed">11907271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang YK, Yu X, Cohen DM, Wozniak MA, Yang MT, Gao L, Eyckmans J, Chen CS, Bone morphogenetic protein-2-induced signaling and osteogenesis is regulated by cell shape, RhoA/ROCK, and cytoskeletal tension. Stem Cells Dev
+21, 1176–1186 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3328763</ArticleId>
+            <ArticleId IdType="pubmed">21967638</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ozdamar B, Bose R, Barrios-Rodiles M, Wang HR, Zhang Y, Wrana JL, Regulation of the polarity protein Par6 by TGFβ receptors controls epithelial cell plasticity. Science
+307, 1603–1609 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15761148</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wilkes MC, Murphy SJ, Garamszegi N, Leof EB, Cell-type-specific activation of PAK2 by transforming growth factor β independent of Smad2 and Smad3. Mol Cell Biol
+23, 8878–8889 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC262664</ArticleId>
+            <ArticleId IdType="pubmed">14612425</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Foletta VC, Lim MA, Soosairajah J, Kelly AP, Stanley EG, Shannon M, He W, Das S, Massague J, Bernard O, Direct signaling by the BMP type II receptor via the cytoskeletal regulator LIMK1. J Cell Biol
+162, 1089–1098 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2172847</ArticleId>
+            <ArticleId IdType="pubmed">12963706</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee-Hoeflich ST, Causing CG, Podkowa M, Zhao X, Wrana JL, Attisano L, Activation of LIMK1 by binding to the BMP receptor, BMPRII, regulates BMP-dependent dendritogenesis. EMBO J
+23, 4792–4801 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC535083</ArticleId>
+            <ArticleId IdType="pubmed">15538389</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shen X, Li J, Hu PP, Waddell D, Zhang J, Wang XF, The activity of guanine exchange factor NET1 is essential for transforming growth factor-β-mediated stress fiber formation. J Biol Chem
+276, 15362–15368 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11278519</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang L, Zhu Y, Sharma K, Transforming growth factor-β1 stimulates protein kinase A in mesangial cells. J Biol Chem
+273, 8522–8527 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9525967</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Daniels CE, Wilkes MC, Edens M, Kottom TJ, Murphy SJ, Limper AH, Leof EB, Imatinib mesylate inhibits the profibrogenic activity of TGF-β and prevents bleomycin-mediated lung fibrosis. J Clin Invest
+114, 1308–1316 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC524221</ArticleId>
+            <ArticleId IdType="pubmed">15520863</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kua HY, Liu H, Leong WF, Li L, Jia D, Ma G, Hu Y, Wang X, Chau JF, Chen YG, Mishina Y, Boast S, Yeh J, Xia L, Chen GQ, He L, Goff SP, Li B, c-Abl promotes osteoblast expansion by differentially regulating canonical and non-canonical BMP pathways and p16INK4a expression. Nat Cell Biol
+14, 727–737 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22729085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>D’Souza RC, Knittle AM, Nagaraj N, van Dinther M, Choudhary C, ten Dijke P, Mann M, Sharma K, Time-resolved dissection of early phosphoproteome and ensuing proteome changes in response to TGF-β. Sci Signal
+7, rs5 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25056879</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

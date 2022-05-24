@@ -1,0 +1,784 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35489061</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1362-4962</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>50</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>20</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nucleic acids research</Title>
+          <ISOAbbreviation>Nucleic Acids Res</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>"Pseudo-pseudogenes" in bacterial genomes: Proteogenomics reveals a wide but low protein expression of pseudogenes in Salmonella enterica.</ArticleTitle>
+        <Pagination>
+          <StartPage>5158</StartPage>
+          <EndPage>5170</EndPage>
+          <MedlinePgn>5158-5170</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1093/nar/gkac302</ELocationID>
+        <Abstract>
+          <AbstractText>Pseudogenes (genes disrupted by frameshift or in-frame stop codons) are ubiquitously present in the bacterial genome and considered as nonfunctional fossil. Here, we used RNA-seq and mass-spectrometry technologies to measure the transcriptomes and proteomes of Salmonella enterica serovars Paratyphi A and Typhi. All pseudogenes' mRNA sequences remained disrupted, and were present at comparable levels to their intact homologs. At the protein level, however, 101 out of 161 pseudogenes suggested successful translation, with their low expression regardless of growth conditions, genetic background and pseudogenization causes. The majority of frameshifting detected was compensatory for -1 frameshift mutations. Readthrough of in-frame stop codons primarily involved UAG; and cytosine was the most frequent base adjacent to the codon. Using a fluorescence reporter system, fifteen pseudogenes were confirmed to express successfully in vivo in Escherichia coli. Expression of the intact copy of the fifteen pseudogenes in S. Typhi affected bacterial pathogenesis as revealed in human macrophage and epithelial cell infection models. The above findings suggest the need to revisit the nonstandard translation mechanism as well as the biological role of pseudogenes in the bacterial genome.</AbstractText>
+          <CopyrightInformation>© The Author(s) 2022. Published by Oxford University Press on behalf of Nucleic Acids Research.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Feng</LastName>
+            <ForeName>Ye</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">0000-0002-6551-1560</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Zeyu</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute of Translational Medicine, Zhejiang University School of Medicine, Hangzhou, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chien</LastName>
+            <ForeName>Kun-Yi</ForeName>
+            <Initials>KY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Graduate Institute of Biomedical Sciences, Chang Gung University College of Medicine, Taoyuan, Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Hsiu-Ling</ForeName>
+            <Initials>HL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Molecular Infectious Disease Research Center, Chang Gung Memorial Hospital, Taoyuan, Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liang</LastName>
+            <ForeName>Yi-Hua</ForeName>
+            <Initials>YH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Molecular Infectious Disease Research Center, Chang Gung Memorial Hospital, Taoyuan, Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hua</LastName>
+            <ForeName>Xiaoting</ForeName>
+            <Initials>X</Initials>
+            <Identifier Source="ORCID">0000-0001-8215-916X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Sir Run Run Shaw Hospital, Zhejiang University School of Medicine, Hangzhou, People's Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chiu</LastName>
+            <ForeName>Cheng-Hsun</ForeName>
+            <Initials>CH</Initials>
+            <Identifier Source="ORCID">0000-0003-4324-7743</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Graduate Institute of Biomedical Sciences, Chang Gung University College of Medicine, Taoyuan, Republic of China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Molecular Infectious Disease Research Center, Chang Gung Memorial Hospital, Taoyuan, Republic of China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Pediatric Infectious Diseases, Department of Pediatrics, Chang Gung Memorial Hospital, Chang Gung University College of Medicine, Taoyuan, Republic of China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Nucleic Acids Res</MedlineTA>
+        <NlmUniqueID>0411011</NlmUniqueID>
+        <ISSNLinking>0305-1048</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D018388">Codon, Terminator</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018388" MajorTopicYN="N">Codon, Terminator</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016680" MajorTopicYN="N">Genome, Bacterial</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071696" MajorTopicYN="Y">Proteogenomics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011544" MajorTopicYN="N">Pseudogenes</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012475" MajorTopicYN="N">Salmonella</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019779" MajorTopicYN="Y">Salmonella enterica</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012485" MajorTopicYN="N">Salmonella typhi</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>7</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>1</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>30</Day>
+          <Hour>14</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35489061</ArticleId>
+        <ArticleId IdType="pmc">PMC9122581</ArticleId>
+        <ArticleId IdType="doi">10.1093/nar/gkac302</ArticleId>
+        <ArticleId IdType="pii">6576363</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>
+Lerat E., Ochman H.. 
+Recognizing the pseudogenes in bacterial genomes. Nucleic Acids Res. 2005; 33:3125–3132.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1142405</ArticleId>
+            <ArticleId IdType="pubmed">15933207</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Goodhead I., Darby A.C.. 
+Taking the pseudo out of pseudogenes. Curr. Opin. Microbiol. 2015; 23:102–109.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25461580</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bobay L.M., Ochman H.. 
+The evolution of bacterial genome architecture. Front. Genet. 2017; 8:72.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5447742</ArticleId>
+            <ArticleId IdType="pubmed">28611826</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zhang Z.D., Frankish A., Hunt T., Harrow J., Gerstein M.. 
+Identification and analysis of unitary pseudogenes: historic and contemporary gene losses in humans and other primates. Genome Biol. 2010; 11:R26.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2864566</ArticleId>
+            <ArticleId IdType="pubmed">20210993</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Frankish A., Diekhans M., Jungreis I., Lagarde J., Loveland J.E., Mudge J.M., Sisu C., Wright J.C., Armstrong J., Barnes I.et al. .. 
+Gencode 2021. Nucleic Acids Res. 2021; 49:D916–D923.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7778937</ArticleId>
+            <ArticleId IdType="pubmed">33270111</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lo W.S., Huang Y.Y., Kuo C.H.. 
+Winding paths to simplicity: genome evolution in facultative insect symbionts. FEMS Microbiol. Rev. 2016; 40:855–874.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5091035</ArticleId>
+            <ArticleId IdType="pubmed">28204477</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Toh H., Weiss B.L., Perkin S.A., Yamashita A., Oshima K., Hattori M., Aksoy S.. 
+Massive genome erosion and functional adaptations provide insights into the symbiotic lifestyle of sodalis glossinidius in the tsetse host. Genome Res. 2006; 16:149–156.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1361709</ArticleId>
+            <ArticleId IdType="pubmed">16365377</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Cole S.T., Eiglmeier K., Parkhill J., James K.D., Thomson N.R., Wheeler P.R., Honore N., Garnier T., Churcher C., Harris D.et al. .. 
+Massive gene decay in the leprosy bacillus. Nature. 2001; 409:1007–1011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11234002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kuo C.H., Ochman H.. 
+The extinction dynamics of bacterial pseudogenes. PLos Genet. 2010; 6:e1001050.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2916853</ArticleId>
+            <ArticleId IdType="pubmed">20700439</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Alikhan N.F., Zhou Z., Sergeant M.J., Achtman M.. 
+A genomic overview of the population structure of salmonella. PLos Genet. 2018; 14:e1007261.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5886390</ArticleId>
+            <ArticleId IdType="pubmed">29621240</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kurtz J.R., Goggins J.A., McLachlan J.B.. 
+Salmonella infection: interplay between the bacteria and host immune system. Immunol. Lett. 2017; 190:42–50.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5918639</ArticleId>
+            <ArticleId IdType="pubmed">28720334</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Tanner J.R., Kingsley R.A.. 
+Evolution of salmonella within hosts. Trends Microbiol. 2018; 26:986–998.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6249985</ArticleId>
+            <ArticleId IdType="pubmed">29954653</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Chiu C.H., Tang P., Chu C., Hu S., Bao Q., Yu J., Chou Y.Y., Wang H.S., Lee Y.S.. 
+The genome sequence of salmonella enterica serovar choleraesuis, a highly invasive and resistant zoonotic pathogen. Nucleic Acids Res. 2005; 33:1690–1698.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1069006</ArticleId>
+            <ArticleId IdType="pubmed">15781495</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Holt K.E., Thomson N.R., Wain J., Langridge G.C., Hasan R., Bhutta Z.A., Quail M.A., Norbertczak H., Walker D., Simmonds M.et al. .. 
+Pseudogene accumulation in the evolutionary histories of salmonella enterica serovars paratyphi a and typhi. BMC Genomics. 2009; 10:36.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2658671</ArticleId>
+            <ArticleId IdType="pubmed">19159446</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Liu W.Q., Feng Y., Wang Y., Zou Q.H., Chen F., Guo J.T., Peng Y.H., Jin Y., Li Y.G., Hu S.N.et al. .. 
+Salmonella paratyphi C: genetic divergence from salmonella choleraesuis and pathogenic convergence with salmonella typhi. PLoS One. 2009; 4:e4510.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2640428</ArticleId>
+            <ArticleId IdType="pubmed">19229335</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Spano S., Galan J.E.. 
+A Rab32-dependent pathway contributes to salmonella typhi host restriction. Science. 2012; 338:960–963.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3693731</ArticleId>
+            <ArticleId IdType="pubmed">23162001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Thomson N.R., Clayton D.J., Windhorst D., Vernikos G., Davidson S., Churcher C., Quail M.A., Stevens M., Jones M.A., Watson M.et al. .. 
+Comparative genome analysis of salmonella enteritidis PT4 and salmonella gallinarum 287/91 provides insights into evolutionary and host adaptation pathways. Genome Res. 2008; 18:1624–1637.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2556274</ArticleId>
+            <ArticleId IdType="pubmed">18583645</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Matthews T.D., Schmieder R., Silva G.G., Busch J., Cassman N., Dutilh B.E., Green D., Matlock B., Heffernan B., Olsen G.J.et al. .. 
+Genomic comparison of the closely-related salmonella enterica serovars enteritidis, dublin and gallinarum. PLoS One. 2015; 10:e0126883.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4454671</ArticleId>
+            <ArticleId IdType="pubmed">26039056</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Valenzuela L.M., Hidalgo A.A., Rodriguez L., Urrutia I.M., Ortega A.P., Villagra N.A., Paredes-Sabja D., Calderon I.L., Gil F., Saavedra C.P.et al. .. 
+Pseudogenization of sopA and sopE2 is functionally linked and contributes to virulence of salmonella enterica serovar typhi. Infect. Genet. Evol. 2015; 33:131–142.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25913156</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Trombert A.N., Berrocal L., Fuentes J.A., Mora G.C.. 
+S. Typhimurium sseJ gene decreases the s. Typhi cytotoxicity toward cultured epithelial cells. BMC Microbiol. 2010; 10:312.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3004891</ArticleId>
+            <ArticleId IdType="pubmed">21138562</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Baranov P.V., Gurvich O.L., Fayet O., Prere M.F., Miller W.A., Gesteland R.F., Atkins J.F., Giddings M.C.. 
+RECODE: a database of frameshifting, bypassing and codon redefinition utilized for gene expression. Nucleic Acids Res. 2001; 29:264–267.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC29850</ArticleId>
+            <ArticleId IdType="pubmed">11125107</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Gesteland R.F., Atkins J.F.. 
+Recoding: dynamic reprogramming of translation. Annu. Rev. Biochem. 1996; 65:741–768.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8811194</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Prieto-Godino L.L., Rytz R., Bargeton B., Abuin L., Arguello J.R., Peraro M.D., Benton R.. 
+Olfactory receptor pseudo-pseudogenes. Nature. 2016; 539:93–97.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5164928</ArticleId>
+            <ArticleId IdType="pubmed">27776356</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Parker J.
+Errors and alternatives in reading the universal genetic code. Microbiol. Rev. 1989; 53:273–298.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC372737</ArticleId>
+            <ArticleId IdType="pubmed">2677635</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Atkins J.F., Loughran G., Bhatt P.R., Firth A.E., Baranov P.V.. 
+Ribosomal frameshifting and transcriptional slippage: from genetic steganography and cryptography to adventitious use. Nucleic Acids Res. 2016; 44:7007–7078.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5009743</ArticleId>
+            <ArticleId IdType="pubmed">27436286</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Huseby D.L., Brandis G., Alzrigat Praski, Hughes D. 
+Antibiotic resistance by high-level intrinsic suppression of a frameshift mutation in an essential gene. Proc. Nat. Acad. Sci. USA. 2020; 117:3185–3191.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7022156</ArticleId>
+            <ArticleId IdType="pubmed">31992637</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Javid B., Sorrentino F., Toosky M., Zheng W., Pinkham J.T., Jain N., Pan M., Deighan P., Rubin E.J.. 
+Mycobacterial mistranslation is necessary and sufficient for rifampicin phenotypic resistance. Proc. Nat. Acad. Sci. USA. 2014; 111:1132–1137.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3903211</ArticleId>
+            <ArticleId IdType="pubmed">24395793</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Dohrmann P.R., Correa R., Frisch R.L., Rosenberg S.M., McHenry C.S.. 
+The DNA polymerase III holoenzyme contains gamma and is not a trimeric polymerase. Nucleic Acids Res. 2016; 44:1285–1297.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4756838</ArticleId>
+            <ArticleId IdType="pubmed">26786318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Urrutia I.M., Fuentes J.A., Valenzuela L.M., Ortega A.P., Hidalgo A.A., Mora G.C.. 
+Salmonella typhi shdA: pseudogene or allelic variant?. Infect. Genet. Evol. 2014; 26:146–152.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24859062</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Xu J., Hendrix R.W., Duda R.L.. 
+Conserved translational frameshift in dsDNA bacteriophage tail assembly genes. Mol. Cell. 2004; 16:11–21.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15469818</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Antonov I., Coakley A., Atkins J.F., Baranov P.V., Borodovsky M.. 
+Identification of the nature of reading frame transitions observed in prokaryotic genomes. Nucleic Acids Res. 2013; 41:6514–6530.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3711429</ArticleId>
+            <ArticleId IdType="pubmed">23649834</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Larsen B., Wills N.M., Nelson C., Atkins J.F., Gesteland R.F.. 
+Nonlinearity in genetic decoding: homologous DNA replicase genes use alternatives of transcriptional slippage or translational frameshifting. Proc. Nat. Acad. Sci. USA. 2000; 97:1683–1688.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC26496</ArticleId>
+            <ArticleId IdType="pubmed">10677518</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Baranov P.V., Fayet O., Hendrix R.W., Atkins J.F.. 
+Recoding in bacteriophages and bacterial IS elements. Trends Genet. 2006; 22:174–181.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16460832</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Baranov P.V., Gesteland R.F., Atkins J.F.. 
+Release factor 2 frameshifting sites in different bacteria. EMBO Rep. 2002; 3:373–377.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1084053</ArticleId>
+            <ArticleId IdType="pubmed">11897659</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Sharma V., Firth A.E., Antonov I., Fayet O., Atkins J.F., Borodovsky M., Baranov P.V.. 
+A pilot study of bacterial genes with disrupted ORFs reveals a surprising profusion of protein sequence recoding mediated by ribosomal frameshifting and transcriptional realignment. Mol. Biol. Evol. 2011; 28:3195–3211.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3199440</ArticleId>
+            <ArticleId IdType="pubmed">21673094</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Schrimpe-Rutledge A.C., Jones M.B., Chauhan S., Purvine S.O., Sanford J.A., Monroe M.E., Brewer H.M., Payne S.H., Ansong C., Frank B.C.et al. .. 
+Comparative omics-driven genome annotation refinement: application across yersiniae. PLoS One. 2012; 7:e33903.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3313959</ArticleId>
+            <ArticleId IdType="pubmed">22479471</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bespyatykh J., Smolyakov A., Guliaev A., Shitikov E., Arapidi G., Butenko I., Dogonadze M., Manicheva O., Ilina E., Zgoda V.et al. .. 
+Proteogenomic analysis of mycobacterium tuberculosis beijing B0/W148 cluster strains. J. Proteomics. 2019; 192:18–26.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30009986</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Gupta N., Tanner S., Jaitly N., Adkins J.N., Lipton M., Edwards R., Romine M., Osterman A., Bafna V., Smith R.D.et al. .. 
+Whole proteome analysis of post-translational modifications: applications of mass-spectrometry for proteogenomic annotation. Genome Res. 2007; 17:1362–1377.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1950905</ArticleId>
+            <ArticleId IdType="pubmed">17690205</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Goodhead I., Blow F., Brownridge P., Hughes M., Kenny J., Krishna R., McLean L., Pongchaikul P., Beynon R., Darby A.C.. 
+Large-scale and significant expression from pseudogenes in sodalis glossinidius - a facultative bacterial endosymbiont. Microb. Genom. 2020; 6:e000285.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Page A.J., Cummins C.A., Hunt M., Wong V.K., Reuter S., Holden M.T., Fookes M., Falush D., Keane J.A., Parkhill J.. 
+Roary: rapid large-scale prokaryote pan genome analysis. Bioinformatics. 2015; 31:3691–3693.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4817141</ArticleId>
+            <ArticleId IdType="pubmed">26198102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Birney E., Clamp M., Durbin R.. 
+GeneWise and genomewise. Genome Res. 2004; 14:988–995.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC479130</ArticleId>
+            <ArticleId IdType="pubmed">15123596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Manes N.P., Gustin J.K., Rue J., Mottaz H.M., Purvine S.O., Norbeck A.D., Monroe M.E., Zimmer J.S., Metz T.O., Adkins J.N.et al. .. 
+Targeted protein degradation by salmonella under phagosome-mimicking culture conditions investigated using comparative peptidomics. Mol. Cell. Proteomics. 2007; 6:717–727.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17228056</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Langmead B., Salzberg S.L.. 
+Fast gapped-read alignment with bowtie 2. Nat. Methods. 2012; 9:357–359.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3322381</ArticleId>
+            <ArticleId IdType="pubmed">22388286</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Li B., Dewey C.N.. 
+RSEM: accurate transcript quantification from RNA-Seq data with or without a reference genome. BMC Bioinf. 2011; 12:323.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Thorvaldsdottir H., Robinson J.T., Mesirov J.P.. 
+Integrative genomics viewer (IGV): high-performance genomics data visualization and exploration. Briefings Bioinf. 2013; 14:178–192.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Tjaden B.
+A computational system for identifying operons based on RNA-seq data. Methods. 2020; 176:62–70.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6776731</ArticleId>
+            <ArticleId IdType="pubmed">30953757</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bailey T.L., Boden M., Buske F.A., Frith M., Grant C.E., Clementi L., Ren J., Li W.W., Noble W.S.. 
+MEME SUITE: tools for motif discovery and searching. Nucleic Acids Res. 2009; 37:W202–W208.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2703892</ArticleId>
+            <ArticleId IdType="pubmed">19458158</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zhang Y., Gladyshev V.N.. 
+An algorithm for identification of bacterial selenocysteine insertion sequence elements and selenoprotein genes. Bioinformatics. 2005; 21:2580–2589.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15797911</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Temnykh S., DeClerck G., Lukashova A., Lipovich L., Cartinhour S., McCouch S.. 
+Computational and experimental analysis of microsatellites in rice (Oryza sativa L.): frequency, length variation, transposon associations, and genetic marker potential. Genome Res. 2001; 11:1441–1452.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC311097</ArticleId>
+            <ArticleId IdType="pubmed">11483586</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Hua X., Zhang L., Moran R.A., Xu Q., Sun L., van Schaik W., Yu Y.. 
+Cointegration as a mechanism for the evolution of a KPC-producing multidrug resistance plasmid in proteus mirabilis. Emerg. microbes &amp; infect. 2020; 9:1206–1218.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7448864</ArticleId>
+            <ArticleId IdType="pubmed">32438864</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+He J., Sun L., Zhang L., Leptihn S., Yu Y., Hua X.. 
+A novel SXT/R391 integrative and conjugative element carries two copies of the blaNDM-1 gene in proteus mirabilis. Msphere. 2021; 6:e0058821.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8386438</ArticleId>
+            <ArticleId IdType="pubmed">34378988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Shi L., Ansong C., Smallwood H., Rommereim L., McDermott J.E., Brewer H.M., Norbeck A.D., Taylor R.C., Gustin J.K., Heffron F.et al. .. 
+Proteome of salmonella enterica serotype typhimurium grown in a low Mg/pH medium. J. Proteomics Bioinform. 2009; 2:388–397.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2785098</ArticleId>
+            <ArticleId IdType="pubmed">19953200</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Johnson R., Mylona E., Frankel G.. 
+Typhoidal salmonella: distinctive virulence factors and pathogenesis. Cell. Microbiol. 2018; 20:e12939.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30030897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Crawford R.W., Rosales-Reyes R., Ramirez-Aguilar Mde L., Chapa-Azuela O., Alpuche-Aranda C., Gunn J.S.. 
+Gallstones play a significant role in salmonella spp. gallbladder colonization and carriage. Proc. Nat. Acad. Sci. USA. 2010; 107:4353–4358.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2840110</ArticleId>
+            <ArticleId IdType="pubmed">20176950</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Baker S., Dougan G.. 
+The genome of salmonella enterica serovar typhi. Clin. Infect. Dis. 2007; 45:S29–S33.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17582565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Roth J.R.
+UGA nonsense mutations in salmonella typhimurium. J. Bacteriol. 1970; 102:467–475.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC247572</ArticleId>
+            <ArticleId IdType="pubmed">4315894</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Fan Y., Evans C.R., Barber K.W., Banerjee K., Weiss K.J., Margolin W., Igoshin O.A., Rinehart J., Ling J.. 
+Heterogeneity of stop codon readthrough in single bacterial cells and implications for population fitness. Mol. Cell. 2017; 67:826–836.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5591071</ArticleId>
+            <ArticleId IdType="pubmed">28781237</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Engelberg-Kulka H.
+UGA suppression by normal tRNA trp in escherichia coli: codon context effects. Nucleic Acids Res. 1981; 9:983–991.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC326727</ArticleId>
+            <ArticleId IdType="pubmed">7015288</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lyon K., Aguilera L.U., Morisaki T., Munsky B., Stasevich T.J.. 
+Live-Cell single RNA imaging reveals bursts of translational frameshifting. Mol. Cell. 2019; 75:172–183.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC9074717</ArticleId>
+            <ArticleId IdType="pubmed">31178355</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Ma S., Liu X., Ma S., Jiang L.. 
+SopA inactivation or reduced expression is selected in intracellular salmonella and contributes to systemic salmonella infection. Res. Microbiol. 2021; 172:103795.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33347947</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Gomez-Valero L., Latorre A., Silva F.J.. 
+The evolutionary fate of nonfunctional DNA in the bacterial endosymbiont buchnera aphidicola. Mol. Biol. Evol. 2004; 21:2172–2181.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15317875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Belinky F., Ganguly I., Poliakov E., Yurchenko V., Rogozin I.B.. 
+Analysis of stop codons within prokaryotic protein-coding genes suggests frequent readthrough events. Int. J. Mol. Sci. 2021; 22:1876.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7918605</ArticleId>
+            <ArticleId IdType="pubmed">33672790</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Moxon R., Bayliss C., Hood D. 
+Bacterial contingency loci: the role of simple sequence DNA repeats in bacterial adaptation. Annu. Rev. Genet. 2006; 40:307–333.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17094739</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Pan D., Coen D.M.. 
+Net -1 frameshifting on a noncanonical sequence in a herpes simplex virus drug-resistant mutant is stimulated by nonstop mRNA. Proc. Nat. Acad. Sci. USA. 2012; 109:14852–14857.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3443137</ArticleId>
+            <ArticleId IdType="pubmed">22927407</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Besecker M.I., Furness C.L., Coen D.M., Griffiths A.. 
+Expression of extremely low levels of thymidine kinase from an acyclovir-resistant herpes simplex virus mutant supports reactivation from latently infected mouse trigeminal ganglia. J. Virol. 2007; 81:8356–8360.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1951311</ArticleId>
+            <ArticleId IdType="pubmed">17522225</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

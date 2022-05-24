@@ -1,0 +1,567 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35585598</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>20</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1478-811X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>20</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>18</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Cell communication and signaling : CCS</Title>
+          <ISOAbbreviation>Cell Commun Signal</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Optogenetic control of NOTCH1 signaling.</ArticleTitle>
+        <Pagination>
+          <StartPage>67</StartPage>
+          <MedlinePgn>67</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">67</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12964-022-00885-5</ELocationID>
+        <Abstract>
+          <AbstractText>The Notch signaling pathway is a crucial regulator of cell differentiation as well as tissue organization, whose deregulation is linked to the pathogenesis of different diseases. NOTCH1 plays a key role in breast cancer progression by increasing proliferation, maintenance of cancer stem cells, and impairment of cell death. NOTCH1 is a mechanosensitive receptor, where mechanical force is required to activate the proteolytic cleavage and release of the Notch intracellular domain (NICD). We circumvent this limitation by regulating Notch activity by light. To achieve this, we have engineered an optogenetic NOTCH1 receptor (optoNotch) to control the activation of NOTCH1 intracellular domain (N1ICD) and its downstream transcriptional activities. Using optoNotch we confirm that NOTCH1 activation increases cell proliferation in MCF7 and MDA-MB-468 breast cancer cells in 2D and spheroid 3D cultures, although causing distinct cell-type specific migratory phenotypes. Additionally, optoNotch activation induced chemoresistance on the same cell lines. OptoNotch allows the fine-tuning, ligand-independent, regulation of N1ICD activity and thus a better understanding of the spatiotemporal complexity of Notch signaling. Video Abstract.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kałafut</LastName>
+            <ForeName>Joanna</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0002-7452-8874</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Biology, Medical University of Lublin, 21-093, Lublin, Poland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Czapiński</LastName>
+            <ForeName>Jakub</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0002-0259-2842</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Biology, Medical University of Lublin, 21-093, Lublin, Poland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Przybyszewska-Podstawka</LastName>
+            <ForeName>Alicja</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0003-1611-7994</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Biology, Medical University of Lublin, 21-093, Lublin, Poland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Czerwonka</LastName>
+            <ForeName>Arkadiusz</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0002-2299-4881</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Biology, Medical University of Lublin, 21-093, Lublin, Poland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Odrzywolski</LastName>
+            <ForeName>Adrian</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0002-3370-8801</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Biology, Medical University of Lublin, 21-093, Lublin, Poland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sahlgren</LastName>
+            <ForeName>Cecilia</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0003-3350-4937</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Science and Engineering, Biosciences, Åbo Akademi, Turku, Finland.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute for Complex Molecular Systems, Eindhoven University of Technology, Eindhoven, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rivero-Müller</LastName>
+            <ForeName>Adolfo</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0002-9794-802X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Biology, Medical University of Lublin, 21-093, Lublin, Poland. a.rivero@umlub.pl.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D059040">Video-Audio Media</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>18</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Cell Commun Signal</MedlineTA>
+        <NlmUniqueID>101170464</NlmUniqueID>
+        <ISSNLinking>1478-811X</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C497761">NOTCH1 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D051881">Receptor, Notch1</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001943" MajorTopicYN="Y">Breast Neoplasms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D062308" MajorTopicYN="Y">Optogenetics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051881" MajorTopicYN="N">Receptor, Notch1</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Breast cancer</Keyword>
+        <Keyword MajorTopicYN="N">Light-activation</Keyword>
+        <Keyword MajorTopicYN="N">NOTCH1</Keyword>
+        <Keyword MajorTopicYN="N">Notch signaling</Keyword>
+        <Keyword MajorTopicYN="N">Optogenetics</Keyword>
+      </KeywordList>
+      <CoiStatement>Authors declare no competing or conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>9</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>18</Day>
+          <Hour>23</Hour>
+          <Minute>43</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35585598</ArticleId>
+        <ArticleId IdType="pmc">PMC9118860</ArticleId>
+        <ArticleId IdType="doi">10.1186/s12964-022-00885-5</ArticleId>
+        <ArticleId IdType="pii">10.1186/s12964-022-00885-5</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Kopan R. Notch: a membrane-bound transcription factor. J Cell Sci. 2002;115:1095–1097. doi: 10.1242/jcs.115.6.1095.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/jcs.115.6.1095</ArticleId>
+            <ArticleId IdType="pubmed">11884509</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sawaguchi S, Varshney S, Ogawa M, Sakaidani Y, Yagi H, Takeshita K, Murohara T, Kato K, Sundaram S, Stanley P, et al.  O-GlcNAc on NOTCH1 EGF repeats regulates ligand-induced Notch signaling and vascular development in mammals. Elife. 2017;6:e24419. doi: 10.7554/eLife.24419.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.24419</ArticleId>
+            <ArticleId IdType="pmc">PMC5388531</ArticleId>
+            <ArticleId IdType="pubmed">28395734</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urbanek K, Lesiak M, Krakowian D, Koryciak-Komarska H, Likus W, Czekaj P, Kusz D, Siero AL. Notch signaling pathway and gene expression profiles during early in vitro differentiation of liver-derived mesenchymal stromal cells to osteoblasts. Lab Investig. 2017;97:1225–1234. doi: 10.1038/labinvest.2017.60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/labinvest.2017.60</ArticleId>
+            <ArticleId IdType="pubmed">28805807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ziouti F, Ebert R, Rummler M, Krug M, Müller-Deubert S, Lüdemann M, Jakob F, Willie BM, Jundt F. NOTCH signaling is activated through mechanical strain in human bone marrow-derived mesenchymal stromal cells. Stem Cells Int. 2019;2019:1–13. doi: 10.1155/2019/5150634.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2019/5150634</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brai E, Marathe S, Astori S, Fredj NB, Perry E, Lamy C, Scotti A, Alberi L. Notchl regulates hippocampal plasticity through interaction with the reelin pathway, glutamatergic transmission and CREB signaling. Front Cell Neurosci. 2015;9:447. doi: 10.3389/fncel.2015.00447.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncel.2015.00447</ArticleId>
+            <ArticleId IdType="pmc">PMC4659909</ArticleId>
+            <ArticleId IdType="pubmed">26635527</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kidd S, Lieber T. Mechanism of notch pathway activation and its role in the regulation of olfactory plasticity in drosophila melanogaster. PLoS ONE. 2016;11:e0151279. doi: 10.1371/journal.pone.0151279.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0151279</ArticleId>
+            <ArticleId IdType="pmc">PMC4795742</ArticleId>
+            <ArticleId IdType="pubmed">26986723</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kangsamaksin T. Notch decoys that selectively block DLL/notch or jagged/notch disrupt angiogenesis by unique mechanisms to inhibit tumor growth. Cancer Discov. 2015;5:182–197. doi: 10.1158/2159-8290.CD-14-0650.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/2159-8290.CD-14-0650</ArticleId>
+            <ArticleId IdType="pmc">PMC4423829</ArticleId>
+            <ArticleId IdType="pubmed">25387766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ranganathan P, Weaver KL, Capobianco AJ. Notch signalling in solid tumours: a little bit of everything but not all the time. Nat Rev Cancer. 2011;11:338–351. doi: 10.1038/nrc3035.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrc3035</ArticleId>
+            <ArticleId IdType="pubmed">21508972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Giebeler N, Zigrino P. A disintegrin and metalloprotease (ADAM): historical overview of their functions. Toxins (Basel) 2016;8:122. doi: 10.3390/toxins8040122.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/toxins8040122</ArticleId>
+            <ArticleId IdType="pmc">PMC4848645</ArticleId>
+            <ArticleId IdType="pubmed">27120619</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang G, Zhou R, Zhou Q, Guo X, Yan C, Ke M, Lei J, Shi Y. Structural basis of Notch recognition by human γ-secretase. Nature. 2019;565:192–197. doi: 10.1038/s41586-018-0813-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-018-0813-8</ArticleId>
+            <ArticleId IdType="pubmed">30598546</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kopan R, Ilagan MXG. The canonical notch signaling pathway: unfolding the activation mechanism. Cell. 2009;137:216–233. doi: 10.1016/j.cell.2009.03.045.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2009.03.045</ArticleId>
+            <ArticleId IdType="pmc">PMC2827930</ArticleId>
+            <ArticleId IdType="pubmed">19379690</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Falo-Sanjuan J, Bray SJ. Decoding the notch signal. Dev Growth Differ. 2020;62:4–14. doi: 10.1111/dgd.12644.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/dgd.12644</ArticleId>
+            <ArticleId IdType="pubmed">31886523</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Landor SK-J, Mutvei AP, Mamaeva V, Jin S, Busk M, Borra R, Gronroos TJ, Kronqvist P, Lendahl U, Sahlgren CM. Hypo- and hyperactivated Notch signaling induce a glycolytic switch through distinct mechanisms. Proc Natl Acad Sci. 2011;108:18814–18819. doi: 10.1073/pnas.1104943108.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1104943108</ArticleId>
+            <ArticleId IdType="pmc">PMC3219154</ArticleId>
+            <ArticleId IdType="pubmed">22065781</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Loganathan SK, Schleicher K, Malik A, Quevedo R, Langille E, Teng K, Oh RH, Rathod B, Tsai R, Samavarchi-Tehrani P, et al.  Rare driver mutations in head and neck squamous cell carcinomas converge on NOTCH signaling. Science. 2020;367:1264–1269. doi: 10.1126/science.aax0902.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aax0902</ArticleId>
+            <ArticleId IdType="pubmed">32165588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen Y-M, Liu Y, Wei H-Y, Lv K-Z, Fu P-F. Large intergenic non-coding RNA-ROR reverses gemcitabine-induced autophagy and apoptosis in breast cancer cells. Oncotarget. 2016;7:59604–59617. doi: 10.18632/oncotarget.10730.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/oncotarget.10730</ArticleId>
+            <ArticleId IdType="pmc">PMC5312334</ArticleId>
+            <ArticleId IdType="pubmed">27449099</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kang L, Mao J, Tao Y, Song B, Ma W, Lu Y, Zhao L, Li J, Yang B, Li L. MicroRNA-34a suppresses the breast cancer stem cell-like characteristics by downregulating Notch1 pathway. Cancer Sci. 2015;106:700–708. doi: 10.1111/cas.12656.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/cas.12656</ArticleId>
+            <ArticleId IdType="pmc">PMC4471794</ArticleId>
+            <ArticleId IdType="pubmed">25783790</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boareto M, Jolly MK, Goldman A, Pietilä M, Mani SA, Sengupta S, Ben-Jacob E, Levine H, Onuchic JN. Notch-Jagged signalling can give rise to clusters of cells exhibiting a hybrid epithelial/mesenchymal phenotype. J R Soc Interface. 2016;13:20151106. doi: 10.1098/rsif.2015.1106.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1098/rsif.2015.1106</ArticleId>
+            <ArticleId IdType="pmc">PMC4892257</ArticleId>
+            <ArticleId IdType="pubmed">27170649</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stoeck A, Lejnine S, Truong A, Pan L, Wang H, Zang C, Yuan J, Ware C, Maclean J, Garrett-Engele PW, et al.  Discovery of biomarkers predictive of gsi response in triple-negative breast cancer and adenoid cystic carcinoma. Cancer Discov. 2014;4:1154–1167. doi: 10.1158/2159-8290.CD-13-0830.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/2159-8290.CD-13-0830</ArticleId>
+            <ArticleId IdType="pmc">PMC4184927</ArticleId>
+            <ArticleId IdType="pubmed">25104330</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kontomanolis EN, Kalagasidou S, Pouliliou S, Anthoulaki X, Georgiou N, Papamanolis V, Fasoulakis ZN. The notch pathway in breast cancer progression. Sci World J. 2018;2018:2415489. doi: 10.1155/2018/2415489.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2018/2415489</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Giuli MV, Giuliani E, Screpanti I, Bellavia D, Checquolo S. Notch signaling activation as a hallmark for triple-negative breast cancer subtype. J Oncol. 2019;2019:1–15. doi: 10.1155/2019/8707053.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2019/8707053</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krishna BM, Jana S, Singhal J, Horne D, Awasthi S, Salgia R, Singhal SS. Notch signaling in breast cancer: From pathway analysis to therapy. Cancer Lett. 2019;461:123–131. doi: 10.1016/j.canlet.2019.07.012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.canlet.2019.07.012</ArticleId>
+            <ArticleId IdType="pmc">PMC9003668</ArticleId>
+            <ArticleId IdType="pubmed">31326555</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stupnikov MR, Yang Y, Mori M, Lu J, Cardoso WV. Jagged and delta-like ligands control distinct events during airway progenitor cell differentiation. Elife. 2019;8:e50487. doi: 10.7554/eLife.50487.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.50487</ArticleId>
+            <ArticleId IdType="pmc">PMC6887486</ArticleId>
+            <ArticleId IdType="pubmed">31631837</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Misiorek JO, Przybyszewska-Podstawka A, Kałafut J, Paziewska B, Rolle K, Rivero-Müller A, Nees M. Context matters: NOTCH signatures and pathway in cancer progression and metastasis. Cells. 2021;10:1–32. doi: 10.3390/cells10010094.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cells10010094</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bray SJ. Notch signalling in context. Nat Rev Mol Cell Biol. 2016;17:722–735. doi: 10.1038/nrm.2016.94.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrm.2016.94</ArticleId>
+            <ArticleId IdType="pubmed">27507209</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nandagopal N, Santat LA, LeBon L, Sprinzak D, Bronner ME, Elowitz MB. Dynamic ligand discrimination in the notch signalingpathway. Cell. 2018;172:869. doi: 10.1016/j.cell.2018.01.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2018.01.002</ArticleId>
+            <ArticleId IdType="pmc">PMC6414217</ArticleId>
+            <ArticleId IdType="pubmed">29398116</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chillakuri CR, Sheppard D, Lea SM, Handford PA. Notch receptor–ligand binding and activation: insights from molecular studies. Semin Cell Dev Biol. 2012;23:421. doi: 10.1016/j.semcdb.2012.01.009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.semcdb.2012.01.009</ArticleId>
+            <ArticleId IdType="pmc">PMC3415683</ArticleId>
+            <ArticleId IdType="pubmed">22326375</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boareto M, Jolly MK, Lu M, Onuchic JN, Clementi C, Ben-Jacob E. Jagged-delta asymmetry in notch signaling can give rise to a sender/receiver hybrid phenotype. Proc Natl Acad Sci. 2015;112:E402–E409.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4321269</ArticleId>
+            <ArticleId IdType="pubmed">25605936</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang M, Lin X, Zhang J, Su L, Ma M, Ea VL, Liu X, Wang L, Chang J, Li X, et al.  Blue light-triggered optogenetic system for treating uveal melanoma. Oncogene. 2020;39:2118–2124. doi: 10.1038/s41388-019-1119-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41388-019-1119-5</ArticleId>
+            <ArticleId IdType="pubmed">31811271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ma G, He L, Liu S, Xie J, Huang Z, Jing J, Lee YT, Wang R, Luo H, Han W, et al.  Optogenetic engineering to probe the molecular choreography of STIM1-mediated cell signaling. Nat Commun. 2020;11:1039. doi: 10.1038/s41467-020-14841-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-020-14841-9</ArticleId>
+            <ArticleId IdType="pmc">PMC7042325</ArticleId>
+            <ArticleId IdType="pubmed">32098964</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>An-adirekkun J, Stewart CJ, Geller SH, Patel MT, Melendez J, Oakes BL, Noyes MB, McClean MN. A yeast optogenetic toolkit (yOTK) for gene expression control in Saccharomyces cerevisiae. Biotechnol Bioeng. 2020;117:886–893. doi: 10.1002/bit.27234.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/bit.27234</ArticleId>
+            <ArticleId IdType="pmc">PMC7015765</ArticleId>
+            <ArticleId IdType="pubmed">31788779</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yamada M, Nagasaki SC, Ozawa T, Imayoshi I. Light-mediated control of gene expression in mammalian cells. Neurosci Res. 2020;152:66–77. doi: 10.1016/j.neures.2019.12.018.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neures.2019.12.018</ArticleId>
+            <ArticleId IdType="pubmed">31923448</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Takao T, Hiraoka Y, Kawabe K, Yamada D, Ming L, Tanaka K, Sato M, Takarada T. Establishment of a tTA-dependent photoactivatable Cre recombinase knock-in mouse model for optogenetic genome engineering. Biochem Biophys Res Commun. 2020;526:213–217. doi: 10.1016/j.bbrc.2020.03.015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbrc.2020.03.015</ArticleId>
+            <ArticleId IdType="pubmed">32204914</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang H, Vilela M, Winkler A, Tarnawski M, Schlichting I, Yumerefendi H, Kuhlman B, Liu R, Danuser G, Hahn KM. LOVTRAP: an optogenetic system for photoinduced protein dissociation. Nat Methods. 2016;13:755–758. doi: 10.1038/nmeth.3926.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.3926</ArticleId>
+            <ArticleId IdType="pmc">PMC5137947</ArticleId>
+            <ArticleId IdType="pubmed">27427858</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim E, Ilic N, Shrestha Y, Zou L, Kamburov A, Zhu C, Yang X, Lubonja R, Tran N, Nguyen C, et al.  Systematic functional interrogation of rare cancer variants identifies oncogenic alleles. Cancer Discov. 2016;6:714–726. doi: 10.1158/2159-8290.CD-16-0160.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/2159-8290.CD-16-0160</ArticleId>
+            <ArticleId IdType="pmc">PMC4930723</ArticleId>
+            <ArticleId IdType="pubmed">27147599</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kato H, Taniguchi Y, Kurooka H, Minoguchi S, Sakai T, Nomura-Okazaki S, Tamura K, Honjo T. Involvement of RBP-J in biological functions of mouse Notch1 and its derivatives. Development. 1997;124:4133–4141. doi: 10.1242/dev.124.20.4133.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.124.20.4133</ArticleId>
+            <ArticleId IdType="pubmed">9374409</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gibson DG, Young L, Chuang R-Y, Venter JC, Hutchison CA, Smith HO. Enzymatic assembly of DNA molecules up to several hundred kilobases. Nat Methods. 2009;6:343–345. doi: 10.1038/nmeth.1318.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.1318</ArticleId>
+            <ArticleId IdType="pubmed">19363495</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Härmä V, Schukov HP, Happonen A, Ahonen I, Virtanen J, Siitari H, Åkerfelt M, Lötjönen J, Nees M. Quantification of dynamic morphological drug responses in 3D organotypic cell cultures by automated image analysis. PLoS ONE. 2014;9:e96426. doi: 10.1371/journal.pone.0096426.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0096426</ArticleId>
+            <ArticleId IdType="pmc">PMC4014501</ArticleId>
+            <ArticleId IdType="pubmed">24810913</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meier-Stiegen F, Schwanbeck R, Bernoth K, Martini S, Hieronymus T, Ruau D, Zenke M, Just U. Activated notch1 target genes during embryonic cell differentiation depend on the cellular context and include lineage determinants and inhibitors. PLoS ONE. 2010;5:1–18. doi: 10.1371/journal.pone.0011481.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0011481</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Natsuizaka M, Whelan KA, Kagawa S, Tanaka K, Giroux V, Chandramouleeswaran PM, Long A, Sahu V, Darling DS, Que J, et al.  Interplay between Notch1 and Notch3 promotes EMT and tumor initiation in squamous cell carcinoma. Nat Commun. 2017;8:1–16. doi: 10.1038/s41467-017-01500-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-017-01500-9</ArticleId>
+            <ArticleId IdType="pmc">PMC5431875</ArticleId>
+            <ArticleId IdType="pubmed">28232747</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kontomanolis EN, Kalagasidou S, Pouliliou S, Anthoulaki X, Georgiou N, Papamanolis V, Fasoulakis ZN. The notch pathway in breast cancer progression. Sci World J. 2018;2018:2415489. doi: 10.1155/2018/2415489.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2018/2415489</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li Z-L, Chen C, Yang Y, Wang C, Yang T, Yang X, Liu S-C. Gamma secretase inhibitor enhances sensitivity to doxorubicin in MDA-MB-231 cells. Int J Clin Exp Pathol. 2015;8:4378.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4503001</ArticleId>
+            <ArticleId IdType="pubmed">26191129</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zang S, Chen F, Dai J, Guo D, Tse W, Qu X, Ma D, Ji C. RNAi-mediated knockdown of Notch-1 leads to cell growth inhibition and enhanced chemosensitivity in human breast cancer. Oncol Rep. 2010;23:893–899.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20204271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mao J, Song B, Shi Y, Wang B, Fan S, Yu X, Tang J, Li L. ShRNA targeting Notch1 sensitizes breast cancer stem cell to paclitaxel. Int J Biochem Cell Biol. 2013;45:1064–1073. doi: 10.1016/j.biocel.2013.02.022.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.biocel.2013.02.022</ArticleId>
+            <ArticleId IdType="pubmed">23500524</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Edwards A, Brennan K. Notch signalling in breast development and cancer. Front. Cell Dev. Biol. 2021;9:692173. doi: 10.3389/fcell.2021.692173.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fcell.2021.692173</ArticleId>
+            <ArticleId IdType="pmc">PMC8290365</ArticleId>
+            <ArticleId IdType="pubmed">34295896</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wawruszak A, Luszczki J, Halasa M, Okon E, Landor S, Sahlgren C, Rivero-Muller A, Stepulak A. Sensitization of MCF7 cells with high notch1 activity by cisplatin and histone deacetylase inhibitors applied together. Int J Mol Sci. 2021;22:5184. doi: 10.3390/ijms22105184.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/ijms22105184</ArticleId>
+            <ArticleId IdType="pmc">PMC8153599</ArticleId>
+            <ArticleId IdType="pubmed">34068438</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wawruszak A, Luszczki JJ, Kalafut J, Okla K, Halasa M, Rivero-Muller A, Stepulak A. Additive pharmacological interaction between cisplatin (CDDP) and histone deacetylase inhibitors (HDIs) in MDA-MB-231 triple negative breast cancer (TNBC) Cells with altered notch1 activity—an isobolographic analysis. Int J Mol Sci. 2019;20:3663. doi: 10.3390/ijms20153663.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/ijms20153663</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luca VC, Kim BC, Ge C, Kakuda S, Wu D, Roein-Peikar M, Haltiwanger RS, Zhu C, Ha T, Garcia KC. Notch-jagged complex structure implicates a catch bond in tuning ligand sensitivity. Science (80-) 2017;355:1320–1324. doi: 10.1126/science.aaf9739.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aaf9739</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Viswanathan R, Hartmann J, Cartes CP, De RS. Desensitisation of Notch signalling through dynamic adaptation in the nucleus. EMBO J. 2021;40:e107245. doi: 10.15252/embj.2020107245.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.15252/embj.2020107245</ArticleId>
+            <ArticleId IdType="pmc">PMC8441390</ArticleId>
+            <ArticleId IdType="pubmed">34396565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

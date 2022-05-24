@@ -1,0 +1,372 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">34125337</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>11</Month>
+        <Day>22</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>11</Month>
+        <Day>22</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1573-6873</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>49</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Nov</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of computational neuroscience</Title>
+          <ISOAbbreviation>J Comput Neurosci</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Place cells and geometry lead to a flexible grid pattern.</ArticleTitle>
+        <Pagination>
+          <StartPage>441</StartPage>
+          <EndPage>452</EndPage>
+          <MedlinePgn>441-452</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10827-021-00794-5</ELocationID>
+        <Abstract>
+          <AbstractText>Place cells and grid cells are important neurons involved in spatial navigation in the mammalian brain. Grid cells are believed to play an important role in forming a cognitive map of the environment. Experimental observations in recent years showed that the grid pattern is not invariant but is influenced by the shape of the spatial environment. However, the cause of this deformation remains elusive. Here, we focused on the functional interactions between place cells and grid cells, utilizing the information of location relationships between the firing fields of place cells to optimize the previous grid cell feedforward generation model and expand its application to more complex environmental scenarios. Not only was the regular equilateral triangle periodic firing field structure of the grid cells reproduced, but the expected results were consistent with the experiment for the environment with various complex boundary shapes and environmental deformation. Even in the field of three-dimensional spatial grid patterns, forward-looking predictions have been made. This provides a possible model explanation for how the coupling of grid cells and place cells adapt to the diversity of the external environment to deepen our understanding of the neural basis for constructing cognitive maps.</AbstractText>
+          <CopyrightInformation>© 2021. The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Wenjing</ForeName>
+            <Initials>W</Initials>
+            <Identifier Source="ORCID">0000-0002-2971-4213</Identifier>
+            <AffiliationInfo>
+              <Affiliation>School of Systems Science, Beijing Normal University, Beijing, 100875, China. wenjingwang@mail.bnu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Wenxu</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Systems Science, Beijing Normal University, Beijing, 100875, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>06</Month>
+          <Day>14</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Comput Neurosci</MedlineTA>
+        <NlmUniqueID>9439510</NlmUniqueID>
+        <ISSNLinking>0929-5313</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000200" MajorTopicYN="N">Action Potentials</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018728" MajorTopicYN="N">Entorhinal Cortex</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006624" MajorTopicYN="N">Hippocampus</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008959" MajorTopicYN="N">Models, Neurological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071037" MajorTopicYN="Y">Place Cells</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013028" MajorTopicYN="N">Space Perception</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Cognitive map</Keyword>
+        <Keyword MajorTopicYN="Y">Complex environments</Keyword>
+        <Keyword MajorTopicYN="Y">Generation model</Keyword>
+        <Keyword MajorTopicYN="Y">Grid cell</Keyword>
+        <Keyword MajorTopicYN="Y">Grid pattern</Keyword>
+        <Keyword MajorTopicYN="Y">Place cell</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>2</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>3</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>4</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>14</Day>
+          <Hour>12</Hour>
+          <Minute>39</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34125337</ArticleId>
+        <ArticleId IdType="doi">10.1007/s10827-021-00794-5</ArticleId>
+        <ArticleId IdType="pii">10.1007/s10827-021-00794-5</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Barry, C., Hayman, R., Burgess, N., &amp; Jeffery, K. J. (2007). Experience-dependent rescaling of entorhinal grids. Nature Neuroscience, 10(6), 682–684. https://doi.org/10.1038/nn1905</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn1905</ArticleId>
+            <ArticleId IdType="pubmed">17486102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beck, A., &amp; Teboulle, M. (2009). A fast Iterative Shrinkage-Thresholding Algorithm with application to wavelet-based image deblurring. IEEE.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Boccara, C. N., Nardin, M., Stella, F., O’Neill, J., &amp; Csicsvari, J. (2019). The entorhinal cognitive map is attracted to goals. Science, 363(6434), 1443–1447. https://doi.org/10.1126/science.aav4837</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aav4837</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bonnevie, T., Dunn, B., Fyhn, M., Hafting, T., Derdikman, D., Kubie, J. L., et al. (2013). Grid cells require excitatory drive from the hippocampus. Nature Neuroscience, 16(3), 309–317. https://doi.org/10.1038/nn.3311</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.3311</ArticleId>
+            <ArticleId IdType="pubmed">23334581</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bray, N. (2019). Grids cells go for a goal. Nature Reviews Neuroscience. https://doi.org/10.1038/s41583-019-0170-0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41583-019-0170-0</ArticleId>
+            <ArticleId IdType="pubmed">31619770</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burak, Y., &amp; Fiete, I. R. (2009). Accurate Path Integration in Continuous Attractor Network Models of Grid Cells. PLoS Computational Biology, 5(2), e1000291. https://doi.org/10.1371/journal.pcbi.1000291</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1000291</ArticleId>
+            <ArticleId IdType="pubmed">19229307</ArticleId>
+            <ArticleId IdType="pmc">2632741</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burgess, N., Barry, C., &amp; O’Keefe, J. (2007). An oscillatory interference model of grid cell firing. Hippocampus, 17(9), 801–812. https://doi.org/10.1002/hipo.20327</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hipo.20327</ArticleId>
+            <ArticleId IdType="pubmed">17598147</ArticleId>
+            <ArticleId IdType="pmc">2678278</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Butler, W. N., Hardcastle, K., &amp; Giocomo, L. M. (2019). Remembered reward locations restructure entorhinal spatial maps. Science, 363(6434), 1447–1452. https://doi.org/10.1126/science.aav5297</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aav5297</ArticleId>
+            <ArticleId IdType="pubmed">6516752</ArticleId>
+            <ArticleId IdType="pmc">6516752</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carpenter, F., Manson, D., Jeffery, K., Burgess, N., &amp; Barry, C. (2015). Grid Cells Form a Global Representation of Connected Environments. Current Biology, 25(9), 1176–1182. https://doi.org/10.1016/j.cub.2015.02.037</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cub.2015.02.037</ArticleId>
+            <ArticleId IdType="pubmed">25913404</ArticleId>
+            <ArticleId IdType="pmc">4425461</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Derdikman, D., Whitlock, J. R., Tsao, A., Fyhn, M., Hafting, T., Moser, M.-B., &amp; Moser, E. I. (2009). Fragmentation of grid cell maps in a multicompartment environment. Nature Neuroscience, 12(10), 1325–1332. https://doi.org/10.1038/nn.2396</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.2396</ArticleId>
+            <ArticleId IdType="pubmed">19749749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dordek, Y., Soudry, D., Meir, R., &amp; Derdikman, D. (2016). Extracting grid cell characteristics from place cell inputs using non-negative principal component analysis. Elife, 5, e10094.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Enroth-Cugell, C., &amp; Robson, J. (1967). The contrast sensitivity of retinal ganglion cells on the cat. The Journal of Physiology, 187(3), 517–552.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.1966.sp008107</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Finkelstein, A., Las, L., &amp; Ulanovsky, N. (2016). 3-D Maps and Compasses in the Brain. Annual Review of Neuroscience, 39(1), 171–196. https://doi.org/10.1146/annurev-neuro-070815-013831</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-neuro-070815-013831</ArticleId>
+            <ArticleId IdType="pubmed">27442069</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hafting, T., Fyhn, M., Bonnevie, T., Moser, M.-B., &amp; Moser, E. I. (2008). Hippocampus-independent phase precession in entorhinal grid cells. Nature, 453(7199), 1248–1252. https://doi.org/10.1038/nature06957</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature06957</ArticleId>
+            <ArticleId IdType="pubmed">18480753</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hafting, T., Fyhn, M., Molden, S., Moser, M.-B., &amp; Moser, E. I. (2005). Microstructure of a spatial map in the entorhinal cortex. Nature, 436(7052), 801–806. https://doi.org/10.1038/nature03721</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature03721</ArticleId>
+            <ArticleId IdType="pubmed">15965463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ismakov, R., Barak, O., Jeffery, K., &amp; Derdikman, D. (2017). Grid Cells Encode Local Positional Information. Current Biology, 27(15), 2337-2343.e3. https://doi.org/10.1016/j.cub.2017.06.034</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cub.2017.06.034</ArticleId>
+            <ArticleId IdType="pubmed">28756950</ArticleId>
+            <ArticleId IdType="pmc">5558037</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim, M., &amp; Maguire, E. A. (2018). 3D grid cells in human entorhinal cortex: Theoretical and methodological considerations and fMRI findings. https://doi.org/10.1101/282327</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kropff, E., &amp; Treves, A. (2008). The emergence of grid cells: Intelligent design or just adaptation? Hippocampus, 18(12), 1256–1269. https://doi.org/10.1002/hipo.20520</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hipo.20520</ArticleId>
+            <ArticleId IdType="pubmed">19021261</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krupic, J., Bauza, M., Burton, S., Barry, C., &amp; O’Keefe, J. (2015). Grid cell symmetry is shaped by environmental geometry. Nature, 518(7538), 232–235. https://doi.org/10.1038/nature14153</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature14153</ArticleId>
+            <ArticleId IdType="pubmed">25673417</ArticleId>
+            <ArticleId IdType="pmc">25673417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Langston, R. F., Ainge, J. A., Couey, J. J., Canto, C. B., Bjerknes, T. L., Witter, M. P., et al. (2010). Development of the Spatial Representation System in the Rat. Science, 328(5985), 1576–1580. https://doi.org/10.1126/science.1188210</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1188210</ArticleId>
+            <ArticleId IdType="pubmed">20558721</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McNaughton, B. L., Battaglia, F. P., Jensen, O., Moser, E. I., &amp; Moser, M.-B. (2006). Path integration and the neural basis of the “cognitive map.” Nature Reviews Neuroscience, 7(8), 663–678. https://doi.org/10.1038/nrn1932</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn1932</ArticleId>
+            <ArticleId IdType="pubmed">16858394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Keefe, J., &amp; Dostrovsky, J. (1971). The hippocampus as a spatial map. Preliminary evidence from unit activity in the freely-moving rat. Brain Research, 34(1), 171–175. https://doi.org/10.1016/0006-8993(71)90358-1</Citation>
+        </Reference>
+        <Reference>
+          <Citation>O’Keefe, J., &amp; Burgess, N. (1996). Geometric determinants of the place fields of hippocampal neurons. Nature, 381(6581), 425–428. https://doi.org/10.1038/381425a0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/381425a0</ArticleId>
+            <ArticleId IdType="pubmed">8632799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Paulo Aguiar. (2014). A feedforward model for the formation of a grid field where spatial information is provided solely from place cells. Biol Cybern.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pröll, M., Häusler, S., &amp; Herz, A. V. M. (2018). Grid-Cell Activity on Linear Tracks Indicates Purely Translational Remapping of 2D Firing Patterns at Movement Turning Points. The Journal of Neuroscience, 38(31), 7004–7011. https://doi.org/10.1523/JNEUROSCI.0413-18.2018</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.0413-18.2018</ArticleId>
+            <ArticleId IdType="pubmed">29976622</ArticleId>
+            <ArticleId IdType="pmc">6596115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Solstad, T., Boccara, C. N., Kropff, E., Moser, M.-B., &amp; Moser, E. I. (2008). Representation of Geometric Borders in the Entorhinal Cortex. Science, 322(5909), 1865–1868. https://doi.org/10.1126/science.1166466</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1166466</ArticleId>
+            <ArticleId IdType="pubmed">19095945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stachenfeld, K. L., Botvinick, M. M., &amp; Gershman, S. J. (2017). The hippocampus as a predictive map. Nature Neuroscience. https://doi.org/10.1038/nn.4650</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.4650</ArticleId>
+            <ArticleId IdType="pubmed">28967910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stella, F., &amp; Treves, A. (2015). The self-organization of grid cells in 3D. eLife, 4. https://doi.org/10.7554/eLife.05913</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wernle, T., Waaga, T., Mørreaunet, M., Treves, A., Moser, M.-B., &amp; Moser, E. I. (2018). Integration of grid maps in merged environments. Nature Neuroscience, 21(1), 92–101. https://doi.org/10.1038/s41593-017-0036-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41593-017-0036-6</ArticleId>
+            <ArticleId IdType="pubmed">29230051</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wiesel, T. N., &amp; Hubel, D. H. (1963). EFFECTS OF VISUAL DEPRIVATION ON MORPHOLOGY AND PHYSIOLOGY OF CELLS IN THE CAT’S LATERAL GENICULATE BODY. Journal of Neurophysiology, 26(6), 978–993.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.1963.26.6.978</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Witter, M. P., &amp; Amaral, D. G. (2004). Hippocampal Formation. Hippocampal Formation.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Witter, M. P. (1993). Organization of the entorhinal—hippocampal system: A review of current anatomical data. Hippocampus, 3(S1), 33–44. https://doi.org/10.1002/hipo.1993.4500030707</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hipo.1993.4500030707</ArticleId>
+            <ArticleId IdType="pubmed">8287110</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoon, K., Lewallen, S., Kinkhabwala, A. A., Tank, D. W., &amp; Fiete, I. R. (2016). Grid Cell Responses in 1D Environments Assessed as Slices through a 2D Lattice. Neuron, 89(5), 1086–1099. https://doi.org/10.1016/j.neuron.2016.01.039</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2016.01.039</ArticleId>
+            <ArticleId IdType="pubmed">26898777</ArticleId>
+            <ArticleId IdType="pmc">5507689</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

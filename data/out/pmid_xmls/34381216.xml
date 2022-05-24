@@ -1,0 +1,786 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">34381216</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>09</Month>
+        <Day>27</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>12</Month>
+        <Day>06</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1545-9985</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>28</Volume>
+            <Issue>9</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Sep</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nature structural &amp; molecular biology</Title>
+          <ISOAbbreviation>Nat Struct Mol Biol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Mechanism of molnupiravir-induced SARS-CoV-2 mutagenesis.</ArticleTitle>
+        <Pagination>
+          <StartPage>740</StartPage>
+          <EndPage>746</EndPage>
+          <MedlinePgn>740-746</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41594-021-00651-0</ELocationID>
+        <Abstract>
+          <AbstractText>Molnupiravir is an orally available antiviral drug candidate currently in phase III trials for the treatment of patients with COVID-19. Molnupiravir increases the frequency of viral RNA mutations and impairs SARS-CoV-2 replication in animal models and in humans. Here, we establish the molecular mechanisms underlying molnupiravir-induced RNA mutagenesis by the viral RNA-dependent RNA polymerase (RdRp). Biochemical assays show that the RdRp uses the active form of molnupiravir, β-D-N<sup>4</sup>-hydroxycytidine (NHC) triphosphate, as a substrate instead of cytidine triphosphate or uridine triphosphate. When the RdRp uses the resulting RNA as a template, NHC directs incorporation of either G or A, leading to mutated RNA products. Structural analysis of RdRp-RNA complexes that contain mutagenesis products shows that NHC can form stable base pairs with either G or A in the RdRp active center, explaining how the polymerase escapes proofreading and synthesizes mutated RNA. This two-step mutagenesis mechanism probably applies to various viral polymerases and can explain the broad-spectrum antiviral activity of molnupiravir.</AbstractText>
+          <CopyrightInformation>© 2021. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Kabinger</LastName>
+            <ForeName>Florian</ForeName>
+            <Initials>F</Initials>
+            <Identifier Source="ORCID">0000-0002-3053-8253</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Max Planck Institute for Biophysical Chemistry, Department of Molecular Biology, Göttingen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Stiller</LastName>
+            <ForeName>Carina</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0002-2534-7102</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Universität Würzburg, Lehrstuhl für Organische Chemie I, Würzburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Schmitzová</LastName>
+            <ForeName>Jana</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Max Planck Institute for Biophysical Chemistry, Department of Molecular Biology, Göttingen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dienemann</LastName>
+            <ForeName>Christian</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Max Planck Institute for Biophysical Chemistry, Department of Molecular Biology, Göttingen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kokic</LastName>
+            <ForeName>Goran</ForeName>
+            <Initials>G</Initials>
+            <Identifier Source="ORCID">0000-0001-8912-7099</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Max Planck Institute for Biophysical Chemistry, Department of Molecular Biology, Göttingen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hillen</LastName>
+            <ForeName>Hauke S</ForeName>
+            <Initials>HS</Initials>
+            <Identifier Source="ORCID">0000-0002-1206-0129</Identifier>
+            <AffiliationInfo>
+              <Affiliation>University Medical Center Göttingen, Department of Cellular Biochemistry, Göttingen, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Max Planck Institute for Biophysical Chemistry, Research Group Structure and Function of Molecular Machines, Göttingen, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Höbartner</LastName>
+            <ForeName>Claudia</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0002-4548-2299</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Universität Würzburg, Lehrstuhl für Organische Chemie I, Würzburg, Germany. claudia.hoebartner@uni-wuerzburg.de.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cramer</LastName>
+            <ForeName>Patrick</ForeName>
+            <Initials>P</Initials>
+            <Identifier Source="ORCID">0000-0001-5454-7755</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Max Planck Institute for Biophysical Chemistry, Department of Molecular Biology, Göttingen, Germany. patrick.cramer@mpibpc.mpg.de.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>08</Month>
+          <Day>11</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Nat Struct Mol Biol</MedlineTA>
+        <NlmUniqueID>101186374</NlmUniqueID>
+        <ISSNLinking>1545-9985</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000998">Antiviral Agents</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D006898">Hydroxylamines</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D012367">RNA, Viral</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>5CSZ8459RP</RegistryNumber>
+          <NameOfSubstance UI="D003562">Cytidine</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.7.48</RegistryNumber>
+          <NameOfSubstance UI="D012324">RNA-Dependent RNA Polymerase</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>YA84KI1VEW</RegistryNumber>
+          <NameOfSubstance UI="C000656703">molnupiravir</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Signal Transduct Target Ther. 2021 Dec 2;6(1):410</RefSource>
+          <PMID Version="1">34857753</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000998" MajorTopicYN="N">Antiviral Agents</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086382" MajorTopicYN="N">COVID-19</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+          <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+          <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003562" MajorTopicYN="N">Cytidine</DescriptorName>
+          <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006898" MajorTopicYN="N">Hydroxylamines</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015394" MajorTopicYN="N">Molecular Structure</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016296" MajorTopicYN="N">Mutagenesis</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009690" MajorTopicYN="N">Nucleic Acid Conformation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012367" MajorTopicYN="N">RNA, Viral</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012324" MajorTopicYN="N">RNA-Dependent RNA Polymerase</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086402" MajorTopicYN="N">SARS-CoV-2</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014779" MajorTopicYN="N">Virus Replication</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>13</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>9</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>12</Day>
+          <Hour>6</Hour>
+          <Minute>29</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34381216</ArticleId>
+        <ArticleId IdType="pmc">PMC8437801</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41594-021-00651-0</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41594-021-00651-0</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Dolgin E. The race for antiviral drugs to beat COVID—and the next pandemic. Nature. 2021;592:340–343. doi: 10.1038/d41586-021-00958-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/d41586-021-00958-4</ArticleId>
+            <ArticleId IdType="pubmed">33854246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hilgenfeld R, Peiris M. From SARS to MERS: 10 years of research on highly pathogenic human coronaviruses. Antivir. Res. 2013;100:286–295. doi: 10.1016/j.antiviral.2013.08.015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.antiviral.2013.08.015</ArticleId>
+            <ArticleId IdType="pmc">PMC7113673</ArticleId>
+            <ArticleId IdType="pubmed">24012996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Snijder EJ, Decroly E, Ziebuhr J. The nonstructural proteins directing coronavirus RNA synthesis and processing. Adv. Virus Res. 2016;96:59–126. doi: 10.1016/bs.aivir.2016.08.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/bs.aivir.2016.08.008</ArticleId>
+            <ArticleId IdType="pmc">PMC7112286</ArticleId>
+            <ArticleId IdType="pubmed">27712628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Posthuma CC, Te Velthuis AJW, Snijder EJ. Nidovirus RNA polymerases: complex enzymes handling exceptional RNA genomes. Virus Res. 2017;234:58–73. doi: 10.1016/j.virusres.2017.01.023.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.virusres.2017.01.023</ArticleId>
+            <ArticleId IdType="pmc">PMC7114556</ArticleId>
+            <ArticleId IdType="pubmed">28174054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Romano M, Ruggiero A, Squeglia F, Maga G, Berisio R. A structural view of SARS-CoV-2 RNA replication machinery: RNA synthesis, proofreading and final capping. Cells. 2020;9:1267. doi: 10.3390/cells9051267.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cells9051267</ArticleId>
+            <ArticleId IdType="pmc">PMC7291026</ArticleId>
+            <ArticleId IdType="pubmed">32443810</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang Y, Yin W, Xu HE. RNA-dependent RNA polymerase: structure, mechanism and drug discovery for COVID-19. Biochem. Biophys. Res. Commun. 2021;538:47–53. doi: 10.1016/j.bbrc.2020.08.116.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbrc.2020.08.116</ArticleId>
+            <ArticleId IdType="pmc">PMC7473028</ArticleId>
+            <ArticleId IdType="pubmed">32943188</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cannalire, R., Cerchia, C., Beccari, A. R., Di Leva, F. S. &amp; Summa, V. Targeting SARS-CoV-2 proteases and polymerase for COVID-19 treatment: state of the art and future opportunities. J. Med. Chem.10.1021/acs.jmedchem.0c01140 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7688049</ArticleId>
+            <ArticleId IdType="pubmed">33186044</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vicenti I, Zazzi M, Saladini F. SARS-CoV-2 RNA-dependent RNA polymerase as a therapeutic target for COVID-19. Experrt Opin. Ther. Pat. 2021;31:325–337. doi: 10.1080/13543776.2021.1880568.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/13543776.2021.1880568</ArticleId>
+            <ArticleId IdType="pmc">PMC7938656</ArticleId>
+            <ArticleId IdType="pubmed">33475441</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tian L, et al.  RNA-dependent RNA polymerase (RdRp) inhibitors: the current landscape and repurposing for the COVID-19 pandemic. Eur. J. Med. Chem. 2021;213:113201. doi: 10.1016/j.ejmech.2021.113201.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejmech.2021.113201</ArticleId>
+            <ArticleId IdType="pmc">PMC7826122</ArticleId>
+            <ArticleId IdType="pubmed">33524687</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Subissi L, et al.  One severe acute respiratory syndrome coronavirus protein complex integrates processive RNA polymerase and exonuclease activities. Proc. Natl Acad. Sci. USA. 2014;111:E3900–E3909. doi: 10.1073/pnas.1323705111.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1323705111</ArticleId>
+            <ArticleId IdType="pmc">PMC4169972</ArticleId>
+            <ArticleId IdType="pubmed">25197083</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kirchdoerfer RN, Ward AB. Structure of the SARS-CoV nsp12 polymerase bound to nsp7 and nsp8 co-factors. Nat. Commun. 2019;10:2342. doi: 10.1038/s41467-019-10280-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-019-10280-3</ArticleId>
+            <ArticleId IdType="pmc">PMC6538669</ArticleId>
+            <ArticleId IdType="pubmed">31138817</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gao Y, et al.  Structure of the RNA-dependent RNA polymerase from COVID-19 virus. Science. 2020;368:779–782. doi: 10.1126/science.abb7498.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.abb7498</ArticleId>
+            <ArticleId IdType="pmc">PMC7164392</ArticleId>
+            <ArticleId IdType="pubmed">32277040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yin W, et al.  Structural basis for inhibition of the RNA-dependent RNA polymerase from SARS-CoV-2 by remdesivir. Science. 2020;368:1499–1504. doi: 10.1126/science.abc1560.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.abc1560</ArticleId>
+            <ArticleId IdType="pmc">PMC7199908</ArticleId>
+            <ArticleId IdType="pubmed">32358203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Q, et al.  Structural basis for RNA replication by the SARS-CoV-2 polymerase. Cell. 2020;182:417–428. doi: 10.1016/j.cell.2020.05.034.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2020.05.034</ArticleId>
+            <ArticleId IdType="pmc">PMC7242921</ArticleId>
+            <ArticleId IdType="pubmed">32526208</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hillen HS, et al.  Structure of replicating SARS-CoV-2 polymerase. Nature. 2020;584:154–156. doi: 10.1038/s41586-020-2368-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-020-2368-8</ArticleId>
+            <ArticleId IdType="pubmed">32438371</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jochheim, F. A. et al. Dimeric form of SARS-CoV-2 polymerase. Preprint at bioRxiv10.1101/2021.03.23.436644 (2021).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hillen HS. Structure and function of SARS-CoV-2 polymerase. Curr. Opin. Virol. 2021;48:82–90. doi: 10.1016/j.coviro.2021.03.010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.coviro.2021.03.010</ArticleId>
+            <ArticleId IdType="pmc">PMC8023233</ArticleId>
+            <ArticleId IdType="pubmed">33945951</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bouvet M, et al.  RNA 3′-end mismatch excision by the severe acute respiratory syndrome coronavirus nonstructural protein nsp10/nsp14 exoribonuclease complex. Proc. Natl Acad. Sci. USA. 2012;109:9372–9377. doi: 10.1073/pnas.1201130109.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1201130109</ArticleId>
+            <ArticleId IdType="pmc">PMC3386072</ArticleId>
+            <ArticleId IdType="pubmed">22635272</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Robson F, et al.  Coronavirus RNA proofreading: molecular basis and therapeutic targeting. Mol. Cell. 2020;79:710–727. doi: 10.1016/j.molcel.2020.07.027.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2020.07.027</ArticleId>
+            <ArticleId IdType="pmc">PMC7402271</ArticleId>
+            <ArticleId IdType="pubmed">32853546</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ferron F, et al.  Structural and molecular basis of mismatch correction and ribavirin excision from coronavirus RNA. Proc. Natl Acad. Sci. USA. 2018;115:E162–E171. doi: 10.1073/pnas.1718806115.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1718806115</ArticleId>
+            <ArticleId IdType="pmc">PMC5777078</ArticleId>
+            <ArticleId IdType="pubmed">29279395</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gordon CJ, Tchesnokov EP, Feng JY, Porter DP, Gotte M. The antiviral compound remdesivir potently inhibits RNA-dependent RNA polymerase from Middle East respiratory syndrome coronavirus. J. Biol. Chem. 2020;295:4773–4779. doi: 10.1074/jbc.AC120.013056.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.AC120.013056</ArticleId>
+            <ArticleId IdType="pmc">PMC7152756</ArticleId>
+            <ArticleId IdType="pubmed">32094225</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gordon CJ, et al.  Remdesivir is a direct-acting antiviral that inhibits RNA-dependent RNA polymerase from severe acute respiratory syndrome coronavirus 2 with high potency. J. Biol. Chem. 2020;295:6785–6797. doi: 10.1074/jbc.RA120.013679.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.RA120.013679</ArticleId>
+            <ArticleId IdType="pmc">PMC7242698</ArticleId>
+            <ArticleId IdType="pubmed">32284326</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kokic G, et al.  Mechanism of SARS-CoV-2 polymerase stalling by remdesivir. Nat. Commun. 2021;12:279. doi: 10.1038/s41467-020-20542-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-020-20542-0</ArticleId>
+            <ArticleId IdType="pmc">PMC7804290</ArticleId>
+            <ArticleId IdType="pubmed">33436624</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bravo JPK, Dangerfield TL, Taylor DW, Johnson KA. Remdesivir is a delayed translocation inhibitor of SARS-CoV-2 replication. Mol. Cell. 2021;81:1548–1552. doi: 10.1016/j.molcel.2021.01.035.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2021.01.035</ArticleId>
+            <ArticleId IdType="pmc">PMC7843106</ArticleId>
+            <ArticleId IdType="pubmed">33631104</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beigel JH, et al.  Remdesivir for the treatment of Covid-19—preliminary report. N. Engl. J. Med. 2020;383:1813–1826. doi: 10.1056/NEJMoa2007764.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa2007764</ArticleId>
+            <ArticleId IdType="pmc">PMC7262788</ArticleId>
+            <ArticleId IdType="pubmed">32445440</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grein J, et al.  Compassionate use of remdesivir for patients with severe Covid-19. N. Engl. J. Med. 2020;382:2327–2336. doi: 10.1056/NEJMoa2007016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa2007016</ArticleId>
+            <ArticleId IdType="pmc">PMC7169476</ArticleId>
+            <ArticleId IdType="pubmed">32275812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Teoh SL, Lim YH, Lai NM, Lee SWH. Directly acting antivirals for COVID-19: where do we stand? Front. Microbiol. 2020;11:1857. doi: 10.3389/fmicb.2020.01857.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fmicb.2020.01857</ArticleId>
+            <ArticleId IdType="pmc">PMC7419656</ArticleId>
+            <ArticleId IdType="pubmed">32849448</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>WHO Solidarity Trial Consortium. Repurposed antiviral drugs for COVID-19; interim WHO SOLIDARITY trial results. N. Engl. J. Med.384, 497–511 (2021).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7727327</ArticleId>
+            <ArticleId IdType="pubmed">33264556</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>WHO Solidarity Trial Consortium  Repurposed antiviral drugs for Covid-19—interim WHO solidarity trial results. N. Engl. J. Med. 2021;384:497–511. doi: 10.1056/NEJMoa2023184.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa2023184</ArticleId>
+            <ArticleId IdType="pmc">PMC7727327</ArticleId>
+            <ArticleId IdType="pubmed">33264556</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Toots M, et al.  Quantitative efficacy paradigms of the influenza clinical drug candidate EIDD-2801 in the ferret model. Transl. Res. 2020;218:16–28. doi: 10.1016/j.trsl.2019.12.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.trsl.2019.12.002</ArticleId>
+            <ArticleId IdType="pmc">PMC7568909</ArticleId>
+            <ArticleId IdType="pubmed">31945316</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Painter GR, et al.  The prophylactic and therapeutic activity of a broadly active ribonucleoside analog in a murine model of intranasal Venezuelan equine encephalitis virus infection. Antivir. Res. 2019;171:104597. doi: 10.1016/j.antiviral.2019.104597.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.antiviral.2019.104597</ArticleId>
+            <ArticleId IdType="pubmed">31494195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoon JJ, et al.  Orally efficacious broad-spectrum ribonucleoside analog inhibitor of influenza and respiratory syncytial viruses. Antimicrob. Agents Chemother. 2018;62:e00766-18. doi: 10.1128/AAC.00766-18.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AAC.00766-18</ArticleId>
+            <ArticleId IdType="pmc">PMC6105843</ArticleId>
+            <ArticleId IdType="pubmed">29891600</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ehteshami M, et al.  Characterization of β-d-N4-hydroxycytidine as a novel inhibitor of Chikungunya virus. Antimicrob. Agents Chemother. 2017;61:e02395-16.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5365705</ArticleId>
+            <ArticleId IdType="pubmed">28137799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reynard O, et al.  Identification of a new ribonucleoside inhibitor of Ebola virus replication. Viruses. 2015;7:6233–6240. doi: 10.3390/v7122934.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/v7122934</ArticleId>
+            <ArticleId IdType="pmc">PMC4690858</ArticleId>
+            <ArticleId IdType="pubmed">26633464</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Costantini VP, et al.  Antiviral activity of nucleoside analogues against norovirus. Antivir. Ther. 2012;17:981–991. doi: 10.3851/IMP2229.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3851/IMP2229</ArticleId>
+            <ArticleId IdType="pmc">PMC7751060</ArticleId>
+            <ArticleId IdType="pubmed">22910194</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stuyver LJ, et al.  Ribonucleoside analogue that blocks replication of bovine viral diarrhea and hepatitis C viruses in culture. Antimicrob. Agents Chemother. 2003;47:244–254. doi: 10.1128/AAC.47.1.244-254.2003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AAC.47.1.244-254.2003</ArticleId>
+            <ArticleId IdType="pmc">PMC149013</ArticleId>
+            <ArticleId IdType="pubmed">12499198</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sheahan TP, et al.  An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice. Sci. Transl. Med. 2020;12:eabb5883. doi: 10.1126/scitranslmed.abb5883.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/scitranslmed.abb5883</ArticleId>
+            <ArticleId IdType="pmc">PMC7164393</ArticleId>
+            <ArticleId IdType="pubmed">32253226</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Agostini ML, et al.  Small-molecule antiviral β-d-N4-hydroxycytidine inhibits a proofreading-intact coronavirus with a high genetic barrier to resistance. J. Virol. 2019;93:24. doi: 10.1128/JVI.01348-19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.01348-19</ArticleId>
+            <ArticleId IdType="pmc">PMC6880162</ArticleId>
+            <ArticleId IdType="pubmed">31578288</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wahl A, et al.  SARS-CoV-2 infection is effectively treated and prevented by EIDD-2801. Nature. 2021;591:451–457. doi: 10.1038/s41586-021-03312-w.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-021-03312-w</ArticleId>
+            <ArticleId IdType="pmc">PMC7979515</ArticleId>
+            <ArticleId IdType="pubmed">33561864</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cox RM, Wolf JD, Plemper RK. Therapeutically administered ribonucleoside analogue MK-4482/EIDD-2801 blocks SARS-CoV-2 transmission in ferrets. Nat. Microbiol. 2021;6:11–18. doi: 10.1038/s41564-020-00835-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41564-020-00835-2</ArticleId>
+            <ArticleId IdType="pmc">PMC7755744</ArticleId>
+            <ArticleId IdType="pubmed">33273742</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>MERCK. Merck and Ridgeback Biotherapeutics provide update on progress of clinical development program for molnupiravir, an investigational oral therapeutic for the treatment of mild-to-moderate COVID-19. Press release, https://www.merck.com/news/merck-and-ridgeback-biotherapeutics-provide-update-on-progress-of-clinical-development-program-for-molnupiravir-an-investigational-oral-therapeutic-for-the-treatment-of-mild-to-moderate-covid-19/ (Merck &amp; Ridgeback Biotherapeutics, 15 April 2021).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Painter WP, et al.  Human safety, tolerability and pharmacokinetics of molnupiravir, a novel broad-spectrum oral antiviral agent with activity against SARS-CoV-2. Antimicrob. Agents Chemother. 2021;65:5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8092915</ArticleId>
+            <ArticleId IdType="pubmed">33649113</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crotty S, Cameron CE, Andino R. RNA virus error catastrophe: direct molecular test by using ribavirin. Proc. Natl Acad. Sci. USA. 2001;98:6895–6900. doi: 10.1073/pnas.111085598.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.111085598</ArticleId>
+            <ArticleId IdType="pmc">PMC34449</ArticleId>
+            <ArticleId IdType="pubmed">11371613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urakova N, et al.  β-d-N4-hydroxycytidine is a potent anti-alphavirus compound that induces a high level of mutations in the viral genome. J. Virol. 2018;92:e0165-17. doi: 10.1128/JVI.01965-17.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.01965-17</ArticleId>
+            <ArticleId IdType="pmc">PMC5774879</ArticleId>
+            <ArticleId IdType="pubmed">29167335</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Les A, Adamowicz L, Rode W. Structure and conformation of N4-hydroxycytosine and N4-hydroxy-5-fluorocytosine. A theoretical ab initio study. Biochim. Biophys. Acta. 1993;1173:39–48. doi: 10.1016/0167-4781(93)90240-E.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0167-4781(93)90240-E</ArticleId>
+            <ArticleId IdType="pubmed">8485152</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jena NR. Role of different tautomers in the base-pairing abilities of some of the vital antiviral drugs used against COVID-19. Phys. Chem. Chem. Phys. 2020;22:28115–28122. doi: 10.1039/D0CP05297C.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1039/D0CP05297C</ArticleId>
+            <ArticleId IdType="pubmed">33290476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shannon A, et al.  Rapid incorporation of favipiravir by the fast and permissive viral RNA polymerase complex results in SARS-CoV-2 lethal mutagenesis. Nat. Commun. 2020;11:4682. doi: 10.1038/s41467-020-18463-z.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-020-18463-z</ArticleId>
+            <ArticleId IdType="pmc">PMC7499305</ArticleId>
+            <ArticleId IdType="pubmed">32943628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Naydenova K, et al.  Structure of the SARS-CoV-2 RNA-dependent RNA polymerase in the presence of favipiravir-RTP. Proc. Natl Acad. Sci. USA. 2021;118:e2021946118. doi: 10.1073/pnas.2021946118.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.2021946118</ArticleId>
+            <ArticleId IdType="pmc">PMC7896311</ArticleId>
+            <ArticleId IdType="pubmed">33526596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen J, et al.  Structural basis for helicase-polymerase coupling in the SARS-CoV-2 replication–transcription complex. Cell. 2020;182:1560–1573. doi: 10.1016/j.cell.2020.07.033.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2020.07.033</ArticleId>
+            <ArticleId IdType="pmc">PMC7386476</ArticleId>
+            <ArticleId IdType="pubmed">32783916</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Malone, B. et al. Structural basis for backtracking by the SARS-CoV-2 replication–transcription complex. Preprint at bioRxiv10.1101/2021.03.13.435256 (2021).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8126829</ArticleId>
+            <ArticleId IdType="pubmed">33883267</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Suzuki T, Moriyama K, Otsuka C, Loakes D, Negishi K. Template properties of mutagenic cytosine analogues in reverse transcription. Nucleic Acids Res. 2006;34:6438–6449. doi: 10.1093/nar/gkl761.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkl761</ArticleId>
+            <ArticleId IdType="pmc">PMC1702492</ArticleId>
+            <ArticleId IdType="pubmed">17130163</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sticher ZM, et al.  Analysis of the potential for N4-hydroxycytidine to inhibit mitochondrial replication and function. Antimicrob. Agents Chemother. 2020;64:e01719-19. doi: 10.1128/AAC.01719-19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AAC.01719-19</ArticleId>
+            <ArticleId IdType="pmc">PMC6985706</ArticleId>
+            <ArticleId IdType="pubmed">31767721</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou S, et al.  β-d-N4-hydroxycytidine (NHC) inhibits SARS-CoV-2 through lethal mutagenesis but is also mutagenic to mammalian cells. J. Infect. Dis. 2021;224:3. doi: 10.1093/infdis/jiab247.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/infdis/jiab247</ArticleId>
+            <ArticleId IdType="pmc">PMC8136050</ArticleId>
+            <ArticleId IdType="pubmed">33961695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gordon CJ, Tchesnokov EP, Schinazi RF, Gotte M. Molnupiravir promotes SARS-CoV-2 mutagenesis via the RNA template. J. Biol. Chem. 2021;297:100770. doi: 10.1016/j.jbc.2021.100770.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jbc.2021.100770</ArticleId>
+            <ArticleId IdType="pmc">PMC8110631</ArticleId>
+            <ArticleId IdType="pubmed">33989635</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buttner L, Seikowski J, Wawrzyniak K, Ochmann A, Hobartner C. Synthesis of spin-labeled riboswitch RNAs using convertible nucleosides and DNA-catalyzed RNA ligation. Bioorg. Med. Chem. 2013;21:6171–6180. doi: 10.1016/j.bmc.2013.04.007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bmc.2013.04.007</ArticleId>
+            <ArticleId IdType="pubmed">23664496</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mastronarde DN. Automated electron microscope tomography using robust prediction of specimen movements. J. Struct. Biol. 2005;152:36–51. doi: 10.1016/j.jsb.2005.07.007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jsb.2005.07.007</ArticleId>
+            <ArticleId IdType="pubmed">16182563</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tegunov D, Cramer P. Real-time cryo-electron microscopy data preprocessing with Warp. Nat. Methods. 2019;16:1146–1152. doi: 10.1038/s41592-019-0580-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41592-019-0580-y</ArticleId>
+            <ArticleId IdType="pmc">PMC6858868</ArticleId>
+            <ArticleId IdType="pubmed">31591575</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Punjani A, Rubinstein JL, Fleet DJ, Brubaker MA. cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination. Nat. Methods. 2017;14:290–296. doi: 10.1038/nmeth.4169.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.4169</ArticleId>
+            <ArticleId IdType="pubmed">28165473</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zivanov J, et al.  New tools for automated high-resolution cryo-EM structure determination in RELION-3. eLife. 2018;7:e42166. doi: 10.7554/eLife.42166.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.42166</ArticleId>
+            <ArticleId IdType="pmc">PMC6250425</ArticleId>
+            <ArticleId IdType="pubmed">30412051</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Emsley P, Lohkamp B, Scott WG, Cowtan K. Features and development of Coot. Acta Crystallogr. D. 2010;66:486–501. doi: 10.1107/S0907444910007493.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1107/S0907444910007493</ArticleId>
+            <ArticleId IdType="pmc">PMC2852313</ArticleId>
+            <ArticleId IdType="pubmed">20383002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moriarty NW, Grosse-Kunstleve RW, Adams PD. electronic Ligand Builder and Optimization Workbench (eLBOW): a tool for ligand coordinate and restraint generation. Acta Crystallogr. D. 2009;65:1074–1080. doi: 10.1107/S0907444909029436.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1107/S0907444909029436</ArticleId>
+            <ArticleId IdType="pmc">PMC2748967</ArticleId>
+            <ArticleId IdType="pubmed">19770504</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Afonine PV, et al.  Real-space refinement in PHENIX for cryo-EM and crystallography. Acta Crystallogr. D. 2018;74:531–544. doi: 10.1107/S2059798318006551.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1107/S2059798318006551</ArticleId>
+            <ArticleId IdType="pmc">PMC6096492</ArticleId>
+            <ArticleId IdType="pubmed">29872004</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Williams CJ, et al.  MolProbity: more and better reference data for improved all-atom structure validation. Protein Sci. 2018;27:293–315. doi: 10.1002/pro.3330.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/pro.3330</ArticleId>
+            <ArticleId IdType="pmc">PMC5734394</ArticleId>
+            <ArticleId IdType="pubmed">29067766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pettersen EF, et al.  UCSF ChimeraX: structure visualization for researchers, educators, and developers. Protein Sci. 2021;30:70–82. doi: 10.1002/pro.3943.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/pro.3943</ArticleId>
+            <ArticleId IdType="pmc">PMC7737788</ArticleId>
+            <ArticleId IdType="pubmed">32881101</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

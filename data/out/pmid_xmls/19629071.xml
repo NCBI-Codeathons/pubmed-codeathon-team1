@@ -1,0 +1,3034 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">19629071</PMID>
+      <DateCompleted>
+        <Year>2009</Year>
+        <Month>08</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1474-1768</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>9</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2009</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nature reviews. Cancer</Title>
+          <ISOAbbreviation>Nat Rev Cancer</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The LKB1-AMPK pathway: metabolism and growth control in tumour suppression.</ArticleTitle>
+        <Pagination>
+          <StartPage>563</StartPage>
+          <EndPage>575</EndPage>
+          <MedlinePgn>563-75</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/nrc2676</ELocationID>
+        <Abstract>
+          <AbstractText>In the past decade, studies of the human tumour suppressor LKB1 have uncovered a novel signalling pathway that links cell metabolism to growth control and cell polarity. LKB1 encodes a serine-threonine kinase that directly phosphorylates and activates AMPK, a central metabolic sensor. AMPK regulates lipid, cholesterol and glucose metabolism in specialized metabolic tissues, such as liver, muscle and adipose tissue. This function has made AMPK a key therapeutic target in patients with diabetes. The connection of AMPK with several tumour suppressors suggests that therapeutic manipulation of this pathway using established diabetes drugs warrants further investigation in patients with cancer.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Shackelford</LastName>
+            <ForeName>David B</ForeName>
+            <Initials>DB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Dulbecco Center for Cancer Research, Molecular and Cell Biology Laboratory, The Salk Institute for Biological Studies, La Jolla, California 92037, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shaw</LastName>
+            <ForeName>Reuben J</ForeName>
+            <Initials>RJ</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>T32 CA009370-26</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>P01 CA120964-030002</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 DK080425</GrantID>
+            <Acronym>DK</Acronym>
+            <Agency>NIDDK NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>P01 CA120964</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>T32 CA009370</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 DK080425-02</GrantID>
+            <Acronym>DK</Acronym>
+            <Agency>NIDDK NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 DK080425-01</GrantID>
+            <Acronym>DK</Acronym>
+            <Agency>NIDDK NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Nat Rev Cancer</MedlineTA>
+        <NlmUniqueID>101124168</NlmUniqueID>
+        <ISSNLinking>1474-175X</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001786">Blood Glucose</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D007004">Hypoglycemic Agents</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D047428">Protein Kinase Inhibitors</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.-</RegistryNumber>
+          <NameOfSubstance UI="D011494">Protein Kinases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.1.1</RegistryNumber>
+          <NameOfSubstance UI="C546842">MTOR protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.1.1</RegistryNumber>
+          <NameOfSubstance UI="C546843">mTOR protein, mouse</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="D017346">Protein Serine-Threonine Kinases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="C109790">STK11 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="D058570">TOR Serine-Threonine Kinases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.3</RegistryNumber>
+          <NameOfSubstance UI="D000091162">AMP-Activated Protein Kinase Kinases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.31</RegistryNumber>
+          <NameOfSubstance UI="D055372">AMP-Activated Protein Kinases</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000091162" MajorTopicYN="N">AMP-Activated Protein Kinase Kinases</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055372" MajorTopicYN="N">AMP-Activated Protein Kinases</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001786" MajorTopicYN="N">Blood Glucose</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007004" MajorTopicYN="N">Hypoglycemic Agents</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009369" MajorTopicYN="N">Neoplasms</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D047428" MajorTopicYN="N">Protein Kinase Inhibitors</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011494" MajorTopicYN="N">Protein Kinases</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017346" MajorTopicYN="N">Protein Serine-Threonine Kinases</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D058570" MajorTopicYN="N">TOR Serine-Threonine Kinases</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2009</Year>
+          <Month>7</Month>
+          <Day>25</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2009</Year>
+          <Month>7</Month>
+          <Day>25</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2009</Year>
+          <Month>8</Month>
+          <Day>12</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">19629071</ArticleId>
+        <ArticleId IdType="mid">NIHMS144019</ArticleId>
+        <ArticleId IdType="pmc">PMC2756045</ArticleId>
+        <ArticleId IdType="doi">10.1038/nrc2676</ArticleId>
+        <ArticleId IdType="pii">nrc2676</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Hong SP, Leiper FC, Woods A, Carling D, Carlson M. Activation of yeast Snf1 and mammalian AMP-activated protein kinase by upstream kinases. Proc Natl Acad Sci U S A. 2003;100:8839–43.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC166400</ArticleId>
+            <ArticleId IdType="pubmed">12847291</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hawley SA, et al.  Complexes between the LKB1 tumor suppressor, STRADalpha/beta and MO25alpha/beta are upstream kinases in the AMP-activated protein kinase cascade. J Biol. 2003;2:28.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC333410</ArticleId>
+            <ArticleId IdType="pubmed">14511394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Woods A, et al.  LKB1 is the upstream kinase in the AMP-activated protein kinase cascade. Curr Biol. 2003;13:2004–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14614828</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaw RJ, et al.  The tumor suppressor LKB1 kinase directly activates AMP-activated kinase and regulates apoptosis in response to energy stress. Proc Natl Acad Sci U S A. 2004;101:3329–35.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC373461</ArticleId>
+            <ArticleId IdType="pubmed">14985505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hemminki A, et al.  A serine/threonine kinase gene defective in Peutz-Jeghers syndrome. Nature. 1998;391:184–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9428765</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanchez-Cespedes M, et al.  Inactivation of LKB1/STK11 is a common event in adenocarcinomas of the lung. Cancer Res. 2002;62:3659–62.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12097271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ji H, et al.  LKB1 modulates lung cancer differentiation and metastasis. Nature. 2007;448:807–10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17676035</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wingo SN, et al.  Somatic LKB1 mutations promote cervical cancer progression. PLoS One. 2009;4:e5137.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2660434</ArticleId>
+            <ArticleId IdType="pubmed">19340305</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carling D, Sanders MJ, Woods A. The regulation of AMP-activated protein kinase by upstream kinases. Int J Obes (Lond) 2008;32(Suppl 4):S55–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18719600</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lizcano JM, et al.  LKB1 is a master kinase that activates 13 kinases of the AMPK subfamily, including MARK/PAR-1. Embo J. 2004;23:833–43.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC381014</ArticleId>
+            <ArticleId IdType="pubmed">14976552</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jaleel M, et al.  Identification of the sucrose non-fermenting related kinase SNRK, as a novel LKB1 substrate. FEBS Lett. 2005;579:1417–23.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15733851</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Al-Hakim AK, et al.  14-3-3 cooperates with LKB1 to regulate the activity and localization of QSK and SIK. J Cell Sci. 2005;118:5661–73.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16306228</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Watts JL, Morton DG, Bestman J, Kemphues KJ. The C. elegans par-4 gene encodes a putative serine-threonine kinase required for establishing embryonic asymmetry. Development. 2000;127:1467–75.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10704392</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anderson KA, et al.  Hypothalamic CaMKK2 contributes to the regulation of energy balance. Cell Metab. 2008;7:377–88.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18460329</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tamas P, et al.  Regulation of the energy sensor AMP-activated protein kinase by antigen receptor and Ca2+ in T lymphocytes. J Exp Med. 2006;203:1665–70.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2118355</ArticleId>
+            <ArticleId IdType="pubmed">16818670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stahmann N, Woods A, Carling D, Heller R. Thrombin activates AMP-activated protein kinase in endothelial cells via a pathway involving Ca2+/calmodulin-dependent protein kinase kinase beta. Mol Cell Biol. 2006;26:5933–45.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1592798</ArticleId>
+            <ArticleId IdType="pubmed">16880506</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hawley SA, et al.  Calmodulin-dependent protein kinase kinase-beta is an alternative upstream kinase for AMP-activated protein kinase. Cell Metab. 2005;2:9–19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16054095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Woods A, et al.  C(Ca2+)/calmodulin-dependent protein kinase kinase-beta acts upstream of AMP-activated protein kinase in mammalian cells. Cell Metab. 2005;2:21–33.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16054096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hurley RL, et al.  The Ca2+/calmodulin-dependent protein kinase kinases are AMP-activated protein kinase kinases. J Biol Chem. 2005;280:29060–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15980064</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hardie DG, Scott JW, Pan DA, Hudson ER. Management of cellular energy by the AMP-activated protein kinase system. FEBS Lett. 2003;546:113–20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12829246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guertin DA, Sabatini DM. Defining the role of mTOR in cancer. Cancer Cell. 2007;12:9–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17613433</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wullschleger S, Loewith R, Hall MN. TOR signaling in growth and metabolism. Cell. 2006;124:471–84.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16469695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Holz MK, Ballif BA, Gygi SP, Blenis J. mTOR and S6K1 mediate assembly of the translation preinitiation complex through dynamic protein interchange and ordered phosphorylation events. Cell. 2005;123:569–80.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16286006</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Choo AY, Yoon SO, Kim SG, Roux PP, Blenis J. Rapamycin differentially inhibits S6Ks and 4E-BP1 to mediate cell-type-specific repression of mRNA translation. Proc Natl Acad Sci U S A. 2008;105:17414–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2582304</ArticleId>
+            <ArticleId IdType="pubmed">18955708</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thoreen CC, et al.  An ATP-competitive mTOR inhibitor reveals rapamycin-insensitive functions of mTORC1. J Biol Chem. 2009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2658096</ArticleId>
+            <ArticleId IdType="pubmed">19150980</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feldman ME, et al.  Active-site inhibitors of mTOR target rapamycin-resistant outputs of mTORC1 and mTORC2. PLoS Biol. 2009;7:e38.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2637922</ArticleId>
+            <ArticleId IdType="pubmed">19209957</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaw RJ, Cantley LC. Ras, PI(3)K and mTOR signalling controls tumour cell growth. Nature. 2006;441:424–30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16724053</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang J, Manning BD. The TSC1-TSC2 complex: a molecular switchboard controlling cell growth. Biochem J. 2008;412:179–90.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2735030</ArticleId>
+            <ArticleId IdType="pubmed">18466115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Inoki K, Zhu T, Guan KL. TSC2 mediates cellular energy response to control cell growth and survival. Cell. 2003;115:577–90.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14651849</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Corradetti MN, Inoki K, Bardeesy N, DePinho RA, Guan KL. Regulation of the TSC pathway by LKB1: evidence of a molecular link between tuberous sclerosis complex and Peutz-Jeghers syndrome. Genes Dev. 2004;18:1533–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC443516</ArticleId>
+            <ArticleId IdType="pubmed">15231735</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaw RJ, et al.  The LKB1 tumor suppressor negatively regulates mTOR signaling. Cancer Cell. 2004;6:91–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15261145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu L, et al.  Hypoxia-induced energy stress regulates mRNA translation and cell growth. Mol Cell. 2006;21:521–31.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3153113</ArticleId>
+            <ArticleId IdType="pubmed">16483933</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Inoki K, et al.  TSC2 Integrates Wnt and Energy Signals via a Coordinated Phosphorylation by AMPK and GSK3 to Regulate Cell Growth. Cell. 2006;126:955–68.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16959574</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hahn-Windgassen A, et al.  Akt activates the mammalian target of rapamycin by regulating cellular ATP level and AMPK activity. J Biol Chem. 2005;280:32081–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16027121</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gwinn DM, et al.  AMPK phosphorylation of raptor mediates a metabolic checkpoint. Mol Cell. 2008;30:214–26.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2674027</ArticleId>
+            <ArticleId IdType="pubmed">18439900</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shackelford DB, et al.  mTOR- and HIF-1α mediated tumor metabolism in an LKB1 mouse model of Peutz-Jeghers syndrome. Proc Natl Acad Sci U S A. 2009  www.pnas.org□cgi□doi□10.1073□pnas.0900465106.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2708689</ArticleId>
+            <ArticleId IdType="pubmed">19541609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carretero J, et al.  Dysfunctional AMPK activity, signalling through mTOR and survival in response to energetic stress in LKB1-deficient lung cancer. Oncogene. 2007;26:1616–25.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16953221</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Karuman P, et al.  The Peutz-Jegher gene product LKB1 is a mediator of p53-dependent cell death. Mol Cell. 2001;7:1307–19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11430832</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tiainen M, Vaahtomeri K, Ylikorkala A, Makela TP. Growth arrest by the LKB1 tumor suppressor: induction of p21(WAF1/CIP1) Hum Mol Genet. 2002;11:1497–504.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12045203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Imamura K, Ogura T, Kishimoto A, Kaminishi M, Esumi H. Cell cycle regulation via p53 phosphorylation by a 5′-AMP activated protein kinase activator, 5-aminoimidazole-4-carboxamide-1-beta-D-ribofuranoside, in a human hepatocellular carcinoma cell line. Biochem Biophys Res Commun. 2001;287:562–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11554766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jones RG, et al.  AMP-activated protein kinase induces a p53-dependent metabolic checkpoint. Mol Cell. 2005;18:283–93.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15866171</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Khanna KK, Jackson SP. DNA double-strand breaks: signaling, repair and the cancer connection. Nat Genet. 2001;27:247–54.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11242102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Levine AJ, Feng Z, Mak TW, You H, Jin S. Coordination and communication between the p53 and IGF-1-AKT-TOR signal transduction pathways. Genes Dev. 2006;20:267–75.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16452501</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Budanov AV, Karin M. p53 target genes sestrin1 and sestrin2 connect genotoxic stress and mTOR signaling. Cell. 2008;134:451–60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2758522</ArticleId>
+            <ArticleId IdType="pubmed">18692468</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feng Z, et al.  The regulation of AMPK beta1, TSC2, and PTEN expression by p53: stress, cell and tissue specificity, and the role of these gene products in modulating the IGF-1-AKT-mTOR pathways. Cancer Res. 2007;67:3043–53.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17409411</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Greer EL, et al.  The Energy Sensor AMP-activated Protein Kinase Directly Regulates the Mammalian FOXO3 Transcription Factor. J Biol Chem. 2007;282:30107–19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17711846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liang J, et al.  The energy sensing LKB1-AMPK pathway regulates p27(kip1) phosphorylation mediating the decision to enter autophagy or apoptosis. Nat Cell Biol. 2007;9:218–24.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17237771</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Short JD, et al.  AMP-activated protein kinase signaling results in cytoplasmic sequestration of p27. Cancer Res. 2008;68:6496–506.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3011867</ArticleId>
+            <ArticleId IdType="pubmed">18701472</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baba M, et al.  Folliculin encoded by the BHD gene interacts with a binding protein, FNIP1, and AMPK, and is involved in AMPK and mTOR signaling. Proc Natl Acad Sci U S A. 2006;103:15552–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1592464</ArticleId>
+            <ArticleId IdType="pubmed">17028174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang W, et al.  AMP-activated protein kinase-regulated phosphorylation and acetylation of importin alpha1: involvement in the nuclear import of RNA-binding protein HuR. J Biol Chem. 2004;279:48376–88.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15342649</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carling D, Zammit VA, Hardie DG. A common bicyclic protein kinase cascade inactivates the regulatory enzymes of fatty acid and cholesterol biosynthesis. FEBS Lett. 1987;223:217–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2889619</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sato R, Goldstein JL, Brown MS. Replacement of serine-871 of hamster 3-hydroxy-3-methylglutaryl-CoA reductase prevents phosphorylation by AMP-activated kinase and blocks inhibition of sterol synthesis induced by ATP depletion. Proc Natl Acad Sci U S A. 1993;90:9261–5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC47547</ArticleId>
+            <ArticleId IdType="pubmed">8415689</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhan Y, et al.  Control of cell growth and survival by enzymes of the fatty acid synthesis pathway in HCT-116 colon cancer cells. Clin Cancer Res. 2008;14:5735–42.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18794082</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chajes V, Cambot M, Moreau K, Lenoir GM, Joulin V. Acetyl-CoA carboxylase alpha is essential to breast cancer cell survival. Cancer Res. 2006;66:5287–94.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16707454</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brusselmans K, De Schrijver E, Verhoeven G, Swinnen JV. RNA interference-mediated silencing of the acetyl-CoA-carboxylase-alpha gene induces growth inhibition and apoptosis of prostate cancer cells. Cancer Res. 2005;65:6719–25.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16061653</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beckers A, et al.  Chemical inhibition of acetyl-CoA carboxylase induces growth arrest and cytotoxicity selectively in cancer cells. Cancer Res. 2007;67:8180–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17804731</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Orita H, et al.  Selective inhibition of fatty acid synthase for lung cancer treatment. Clin Cancer Res. 2007;13:7139–45.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18056164</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Menendez JA, Lupu R. Fatty acid synthase and the lipogenic phenotype in cancer pathogenesis. Nat Rev Cancer. 2007;7:763–77.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17882277</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marsin AS, et al.  Phosphorylation and activation of heart PFK-2 by AMPK has a role in the stimulation of glycolysis during ischaemia. Curr Biol. 2000;10:1247–55.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11069105</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Almeida A, Moncada S, Bolanos JP. Nitric oxide switches on glycolysis through the AMP protein kinase and 6-phosphofructo-2-kinase pathway. Nat Cell Biol. 2004;6:45–51.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14688792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bando H, et al.  Phosphorylation of the 6-phosphofructo-2-kinase/fructose 2,6-bisphosphatase/PFKFB3 family of glycolytic regulators in human cancer. Clin Cancer Res. 2005;11:5784–92.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16115917</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Telang S, et al.  Ras transformation requires metabolic control by 6-phosphofructo-2-kinase. Oncogene. 2006;25:7225–34.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16715124</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clem B, et al.  Small-molecule inhibition of 6-phosphofructo-2-kinase activity suppresses glycolytic flux and tumor growth. Mol Cancer Ther. 2008;7:110–20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18202014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang W, et al.  Regulation of transcription by AMP-activated protein kinase: phosphorylation of p300 blocks its interaction with nuclear receptors. J Biol Chem. 2001;276:38341–4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11518699</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berdeaux R, et al.  SIK1 is a class II HDAC kinase that promotes survival of skeletal myocytes. Nat Med. 2007;13:597–603.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17468767</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dequiedt F, et al.  New role for hPar-1 kinases EMK and C-TAK1 in regulating localization and activity of class IIa histone deacetylases. Mol Cell Biol. 2006;26:7086–102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1592903</ArticleId>
+            <ArticleId IdType="pubmed">16980613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McGee SL, et al.  AMP-activated protein kinase regulates GLUT4 transcription by phosphorylating histone deacetylase 5. Diabetes. 2008;57:860–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18184930</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koo SH, et al.  The CREB coactivator TORC2 is a key regulator of fasting glucose metabolism. Nature. 2005;437:1109–11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16148943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Screaton RA, et al.  The CREB coactivator TORC2 functions as a calcium- and cAMP-sensitive coincidence detector. Cell. 2004;119:61–74.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15454081</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jansson D, et al.  Glucose controls CREB activity in islet cells via regulated phosphorylation of TORC2. Proc Natl Acad Sci U S A. 2008;105:10161–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2481316</ArticleId>
+            <ArticleId IdType="pubmed">18626018</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaw RJ, et al.  The kinase LKB1 mediates glucose homeostasis in liver and therapeutic effects of metformin. Science. 2005;310:1642–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3074427</ArticleId>
+            <ArticleId IdType="pubmed">16308421</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fu A, Screaton RA. Using kinomics to delineate signaling pathways: control of CRTC2/TORC2 by the AMPK family. Cell Cycle. 2008;7:3823–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19098422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu L, et al.  Transforming activity of MECT1-MAML2 fusion oncoprotein is mediated by constitutive CREB activation. Embo J. 2005;24:2391–402.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1173159</ArticleId>
+            <ArticleId IdType="pubmed">15961999</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Canettieri G, et al.  The coactivator CRTC1 promotes cell proliferation and transformation via AP-1. Proc Natl Acad Sci U S A. 2009;106:1445–50.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2635810</ArticleId>
+            <ArticleId IdType="pubmed">19164581</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Canto C, et al.  AMPK regulates energy expenditure by modulating NAD(+) metabolism and SIRT1 activity. Nature. 2009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3616311</ArticleId>
+            <ArticleId IdType="pubmed">19262508</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jager S, Handschin C, St-Pierre J, Spiegelman BM. AMP-activated protein kinase (AMPK) action in skeletal muscle via direct phosphorylation of PGC-1alpha. Proc Natl Acad Sci U S A. 2007;104:12017–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1924552</ArticleId>
+            <ArticleId IdType="pubmed">17609368</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brooks CL, Gu W. How does SIRT1 affect metabolism, senescence and cancer? Nat Rev Cancer. 2009;9:123–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2857763</ArticleId>
+            <ArticleId IdType="pubmed">19132007</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Porstmann T, et al.  SREBP activity is regulated by mTORC1 and contributes to Akt-dependent cell growth. Cell Metab. 2008;8:224–36.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2593919</ArticleId>
+            <ArticleId IdType="pubmed">18762023</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou G, et al.  Role of AMP-activated protein kinase in mechanism of metformin action. J Clin Invest. 2001;108:1167–74.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC209533</ArticleId>
+            <ArticleId IdType="pubmed">11602624</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaelin WG, Jr., Ratcliffe PJ. Oxygen sensing by metazoans: the central role of the HIF hydroxylase pathway. Mol Cell. 2008;30:393–402.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18498744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaw RJ. Glucose metabolism and cancer. Curr Opin Cell Biol. 2006;18:598–608.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17046224</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Denko NC. Hypoxia, HIF1 and glucose metabolism in the solid tumour. Nat Rev Cancer. 2008;8:705–13.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19143055</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Semenza GL. HIF-1 mediates the Warburg effect in clear cell renal carcinoma. J Bioenerg Biomembr. 2007;39:231–4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17551816</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Majumder PK, et al.  mTOR inhibition reverses Akt-dependent prostate intraepithelial neoplasia through regulation of apoptotic and HIF-1-dependent pathways. Nat Med. 2004;10:594–601.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15156201</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fantin VR, St-Pierre J, Leder P. Attenuation of LDH-A expression uncovers a link between glycolysis, mitochondrial physiology, and tumor maintenance. Cancer Cell. 2006;9:425–34.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16766262</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brugarolas J, et al.  Regulation of mTOR function in response to hypoxia by REDD1 and the TSC1/TSC2 tumor suppressor complex. Genes Dev. 2004;18:2893–904.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC534650</ArticleId>
+            <ArticleId IdType="pubmed">15545625</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martin SG, St Johnston D. A role for Drosophila LKB1 in anterior-posterior axis formation and epithelial polarity. Nature. 2003;421:379–84.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12540903</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mirouse V, Swick LL, Kazgan N, St Johnston D, Brenman JE. LKB1 and AMPK maintain epithelial cell polarity under energetic stress. J Cell Biol. 2007;177:387–92.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2064817</ArticleId>
+            <ArticleId IdType="pubmed">17470638</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee JH, et al.  Energy-dependent regulation of cell structure by AMP-activated protein kinase. Nature. 2007;447:1017–20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17486097</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tomancak P, et al.  A Drosophila melanogaster homologue of Caenorhabditis elegans par-1 acts at an early step in embryonic-axis formation. Nat Cell Biol. 2000;2:458–60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10878812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shulman JM, Benton R, St Johnston D. The Drosophila homolog of C. elegans PAR-1 organizes the oocyte cytoskeleton and directs oskar mRNA localization to the posterior pole. Cell. 2000;101:377–88.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10830165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baas AF, et al.  Complete polarization of single intestinal epithelial cells upon activation of LKB1 by STRAD. Cell. 2004;116:457–66.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15016379</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shelly M, Cancedda L, Heilshorn S, Sumbre G, Poo MM. LKB1/STRAD promotes axon initiation during neuronal polarization. Cell. 2007;129:565–77.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17482549</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barnes AP, et al.  LKB1 and SAD kinases define a pathway required for the polarization of cortical neurons. Cell. 2007;129:549–63.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17482548</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hezel AF, Bardeesy N. LKB1; linking cell structure and tumor suppression. Oncogene. 2008;27:6908–19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19029933</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kojima Y, et al.  Suppression of tubulin polymerization by the LKB1-microtubule-associated protein/microtubule affinity-regulating kinase signaling. J Biol Chem. 2007;282:23532–40.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17573348</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biernat J, et al.  Protein kinase MARK/PAR-1 is required for neurite outgrowth and establishment of neuronal polarity. Mol Biol Cell. 2002;13:4013–28.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC133611</ArticleId>
+            <ArticleId IdType="pubmed">12429843</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun TQ, et al.  PAR-1 is a Dishevelled-associated kinase and a positive regulator of Wnt signalling. Nat Cell Biol. 2001;3:628–36.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11433294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ossipova O, Dhawan S, Sokol S, Green JB. Distinct PAR-1 proteins function in different branches of Wnt signaling during vertebrate development. Dev Cell. 2005;8:829–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15935773</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Elbert M, Cohen D, Musch A. PAR1b promotes cell-cell adhesion and inhibits dishevelled-mediated transformation of Madin-Darby canine kidney cells. Mol Biol Cell. 2006;17:3345–55.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1525229</ArticleId>
+            <ArticleId IdType="pubmed">16707567</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schlessinger K, McManus EJ, Hall A. Cdc42 and noncanonical Wnt signal transduction pathways cooperate to promote cell polarity. J Cell Biol. 2007;178:355–61.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2064837</ArticleId>
+            <ArticleId IdType="pubmed">17646398</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang X, et al.  Dishevelled promotes axon differentiation by regulating atypical protein kinase C. Nat Cell Biol. 2007;9:743–54.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17558396</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Narimatsu M, et al.  Regulation of planar cell polarity by Smurf ubiquitin ligases. Cell. 2009;137:295–307.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19379695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang L, Li J, Young LH, Caplan MJ. AMP-activated protein kinase regulates the assembly of epithelial tight junctions. Proc Natl Acad Sci U S A. 2006;103:17272–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1859922</ArticleId>
+            <ArticleId IdType="pubmed">17088526</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zheng B, Cantley LC. Regulation of epithelial tight junction assembly and disassembly by AMP-activated protein kinase. Proc Natl Acad Sci U S A. 2007;104:819–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1783397</ArticleId>
+            <ArticleId IdType="pubmed">17204563</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sebbagh M, Santoni MJ, Hall B, Borg JP, Schwartz MA. Regulation of LKB1/STRAD localization and function by E-cadherin. Curr Biol. 2009;19:37–42.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2773019</ArticleId>
+            <ArticleId IdType="pubmed">19110428</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Horman S, et al.  AMP-activated protein kinase phosphorylates and desensitizes smooth muscle myosin light chain kinase. J Biol Chem. 2008;283:18505–12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18426792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yamamoto H, et al.  Identification of a novel substrate for TNFalpha-induced kinase NUAK2. Biochem Biophys Res Commun. 2008;365:541–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18023418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>ten Klooster JP, et al.  Mst4 and Ezrin induce brush borders downstream of the Lkb1/Strad/Mo25 polarization complex. Dev Cell. 2009;16:551–62.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19386264</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Partanen JI, Nieminen AI, Makela TP, Klefstrom J. Suppression of oncogenic properties of c-Myc by LKB1-controlled epithelial organization. Proc Natl Acad Sci U S A. 2007;104:14694–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1976192</ArticleId>
+            <ArticleId IdType="pubmed">17766436</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aranda V, et al.  Par6-aPKC uncouples ErbB2 induced disruption of polarized epithelial organization from proliferation control. Nat Cell Biol. 2006;8:1235–45.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17060907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dow LE, et al.  The tumour-suppressor Scribble dictates cell polarity during directed epithelial migration: regulation of Rho GTPase recruitment to the leading edge. Oncogene. 2007;26:2272–82.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17043654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nolan ME, et al.  The polarity protein Par6 induces cell proliferation and is overexpressed in breast cancer. Cancer Res. 2008;68:8201–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2948755</ArticleId>
+            <ArticleId IdType="pubmed">18922891</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ylikorkala A, et al.  Vascular abnormalities and deregulation of VEGF in Lkb1-deficient mice. Science. 2001;293:1323–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11509733</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bardeesy N, et al.  Loss of the Lkb1 tumour suppressor provokes intestinal polyposis but resistance to transformation. Nature. 2002;419:162–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12226664</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miyoshi H, et al.  Gastrointestinal hamartomatous polyposis in Lkb1 heterozygous knockout mice. Cancer Res. 2002;62:2261–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11956081</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jishage K, et al.  Role of Lkb1, the causative gene of Peutz-Jegher’s syndrome, in embryogenesis and polyposis. Proc Natl Acad Sci U S A. 2002;99:8903–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC124396</ArticleId>
+            <ArticleId IdType="pubmed">12060709</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rossi DJ, et al.  Induction of cyclooxygenase-2 in a mouse model of Peutz-Jeghers polyposis. Proc Natl Acad Sci U S A. 2002;99:12327–32.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC129444</ArticleId>
+            <ArticleId IdType="pubmed">12218179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Katajisto P, et al.  LKB1 signaling in mesenchymal cells required for suppression of gastrointestinal polyposis. Nat Genet. 2008;40:455–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18311138</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vaahtomeri K, et al.  Lkb1 is required for TGFbeta-mediated myofibroblast differentiation. J Cell Sci. 2008;121:3531–40.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18840652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Contreras CM, et al.  Loss of Lkb1 provokes highly invasive endometrial adenocarcinomas. Cancer Res. 2008;68:759–66.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18245476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carretero J, Medina PP, Pio R, Montuenga LM, Sanchez-Cespedes M. Novel and natural knockout lung cancer cell lines for the LKB1/STK11 tumor suppressor gene. Oncogene. 2004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15021901</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Makowski L, Hayes DN. Role of LKB1 in lung cancer development. Br J Cancer. 2008;99:683–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2528145</ArticleId>
+            <ArticleId IdType="pubmed">18728656</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gurumurthy S, Hezel AF, Berger JH, Bosenberg MW, Bardeesy N. LKB1 deficiency sensitizes mice to carcinogen-induced tumorigenesis. Cancer Res. 2008;68:55–63.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3739055</ArticleId>
+            <ArticleId IdType="pubmed">18172296</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hardie DG. AMP-Activated Protein Kinase as a Drug Target. Annu Rev Pharmacol Toxicol. 2007;47:185–210.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16879084</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hundal RS, et al.  Mechanism by which metformin reduces glucose production in type 2 diabetes. Diabetes. 2000;49:2063–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2995498</ArticleId>
+            <ArticleId IdType="pubmed">11118008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hardie DG. Neither LKB1 nor AMPK are the direct targets of metformin. Gastroenterology. 2006;131:973. author reply 974-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16952573</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Legro RS, et al.  Ovulatory response to treatment of polycystic ovary syndrome is associated with a polymorphism in the STK11 gene. J Clin Endocrinol Metab. 2008;93:792–800.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2266955</ArticleId>
+            <ArticleId IdType="pubmed">18000088</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shu Y, et al.  Effect of genetic variation in the organic cation transporter 1 (OCT1) on metformin action. J Clin Invest. 2007;117:1422–31.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1857259</ArticleId>
+            <ArticleId IdType="pubmed">17476361</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schneider MB, et al.  Prevention of pancreatic cancer induction in hamsters by metformin. Gastroenterology. 2001;120:1263–70.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11266389</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anisimov VN, et al.  Effect of metformin on life span and on the development of spontaneous mammary tumors in HER-2/neu transgenic mice. Exp Gerontol. 2005;40:685–93.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16125352</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zakikhani M, Dowling R, Fantus IG, Sonenberg N, Pollak M. Metformin is an AMP kinase-dependent growth inhibitor for breast cancer cells. Cancer Res. 2006;66:10269–73.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17062558</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zakikhani M, Dowling RJ, Sonenberg N, Pollak MN. The effects of adiponectin and metformin on prostate and colon neoplasia involve activation of AMP-activated protein kinase. Cancer Prev Res (Phila Pa) 2008;1:369–75.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19138981</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Swinnen JV, et al.  Mimicry of a cellular low energy status blocks tumor cell anabolism and suppresses the malignant phenotype. Cancer Res. 2005;65:2441–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15781660</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buzzai M, et al.  Systemic treatment with the antidiabetic drug metformin selectively impairs p53-deficient tumor cell growth. Cancer Res. 2007;67:6745–52.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17638885</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Algire C, Zakikhani M, Blouin MJ, Shuai JH, Pollak M. Metformin attenuates the stimulatory effect of a high-energy diet on in vivo LLC1 carcinoma growth. Endocr Relat Cancer. 2008;15:833–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18469156</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang X, et al.  Important role of the LKB1-AMPK pathway in suppressing tumorigenesis in PTEN-deficient mice. Biochem J. 2008;412:211–21.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18387000</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dykens JA, et al.  Biguanide-induced mitochondrial dysfunction yields increased lactate production and cytotoxicity of aerobically-poised HepG2 cells and human hepatocytes in vitro. Toxicol Appl Pharmacol. 2008;233:203–10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18817800</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Owen MR, Doran E, Halestrap AP. Evidence that metformin exerts its anti-diabetic effects through inhibition of complex 1 of the mitochondrial respiratory chain. Biochem J. 2000;348(Pt 3):607–14.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1221104</ArticleId>
+            <ArticleId IdType="pubmed">10839993</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scott JW, et al.  Thienopyridone drugs are selective activators of AMP-activated protein kinase beta1-containing complexes. Chem Biol. 2008;15:1220–30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19022182</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cool B, et al.  Identification and characterization of a small molecule AMPK activator that treats key components of type 2 diabetes and the metabolic syndrome. Cell Metab. 2006;3:403–16.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16753576</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Evans JM, Donnelly LA, Emslie-Smith AM, Alessi DR, Morris AD. Metformin and reduced risk of cancer in diabetic patients. Bmj. 2005;330:1304–5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC558205</ArticleId>
+            <ArticleId IdType="pubmed">15849206</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bowker SL, Majumdar SR, Veugelers P, Johnson JA. Increased cancer-related mortality for patients with type 2 diabetes who use sulfonylureas or insulin. Diabetes Care. 2006;29:254–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16443869</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiralerspong S, et al.  Metformin and Pathologic Complete Responses to Neoadjuvant Chemotherapy in Diabetic Patients With Breast Cancer. J Clin Oncol. 2009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2736070</ArticleId>
+            <ArticleId IdType="pubmed">19487376</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goodwin PJ, Ligibel JA, Stambolic V. Metformin in Breast Cancer: Time for Action. J Clin Oncol. 2009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19487373</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pollak M. Insulin and insulin-like growth factor signalling in neoplasia. Nat Rev Cancer. 2008;8:915–28.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19029956</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Erdemoglu E, Guney M, Giray SG, Take G, Mungan T. Effects of metformin on mammalian target of rapamycin in a mouse model of endometrial hyperplasia. Eur J Obstet Gynecol Reprod Biol. 2009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19501448</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Memmott RM, et al.  Phosphatidylinositol ether lipid analogues induce AMP-activated protein kinase-dependent death in LKB1-mutant non small cell lung cancer cells. Cancer Res. 2008;68:580–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3558831</ArticleId>
+            <ArticleId IdType="pubmed">18199555</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nafz J, et al.  Interference with energy metabolism by 5-aminoimidazole-4-carboxamide-1-beta-D-ribofuranoside induces HPV suppression in cervical carcinoma cells and apoptosis in the absence of LKB1. Biochem J. 2007;403:501–10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1876364</ArticleId>
+            <ArticleId IdType="pubmed">17212587</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buzzai M, et al.  The glucose dependence of Akt-transformed cells can be reversed by pharmacologic activation of fatty acid beta-oxidation. Oncogene. 2005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15806154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shell SA, et al.  Activation of AMPK is necessary for killing cancer cells and sparing cardiac cells. Cell Cycle. 2008;7:1769–75.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18594201</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Laderoute KR, et al.  5′-AMP-Activated Protein Kinase (AMPK) Is Induced by Low-Oxygen and Glucose Deprivation Conditions Found in Solid-Tumor Microenvironments. Mol Cell Biol. 2006;26:5336–47.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1592699</ArticleId>
+            <ArticleId IdType="pubmed">16809770</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Connor MJ, Martin NM, Smith GC. Targeted cancer therapies based on the inhibition of DNA strand break repair. Oncogene. 2007;26:7816–24.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18066095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Podsypanina K, et al.  An inhibitor of mTOR reduces neoplasia and normalizes p70/S6 kinase activity in Pten+/-mice. Proc Natl Acad Sci U S A. 2001;98:10320–5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC56959</ArticleId>
+            <ArticleId IdType="pubmed">11504907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Johannessen CM, et al.  TORC1 is essential for NF1-associated malignancies. Curr Biol. 2008;18:56–62.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18164202</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee L, et al.  Efficacy of a rapamycin analog (CCI-779) and IFN-gamma in tuberous sclerosis mouse models. Genes Chromosomes Cancer. 2005;42:213–27.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15578690</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wei C, et al.  Suppression of Peutz-Jeghers polyposis by targeting mammalian target of rapamycin signaling. Clin Cancer Res. 2008;14:1167–71.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18281551</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Robinson J, et al.  Oral rapamycin reduces tumour burden and vascularization in Lkb1(+/-) mice. J Pathol. 2009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19434632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hudes G, et al.  Temsirolimus, interferon alfa, or both for advanced renal-cell carcinoma. N Engl J Med. 2007;356:2271–81.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17538086</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cloughesy TF, et al.  Antitumor activity of rapamycin in a Phase I trial for patients with recurrent PTEN-deficient glioblastoma. PLoS Med. 2008;5:e8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2211560</ArticleId>
+            <ArticleId IdType="pubmed">18215105</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bissler JJ, et al.  Sirolimus for angiomyolipoma in tuberous sclerosis complex or lymphangioleiomyomatosis. N Engl J Med. 2008;358:140–51.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3398441</ArticleId>
+            <ArticleId IdType="pubmed">18184959</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Davies DM, et al.  Sirolimus therapy in tuberous sclerosis or sporadic lymphangioleiomyomatosis. N Engl J Med. 2008;358:200–3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18184971</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martinez ME, Marshall JR, Giovannucci E. Diet and cancer prevention: the roles of observation and experimentation. Nat Rev Cancer. 2008;8:694–703.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19143054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McTiernan A. Mechanisms linking physical activity with cancer. Nat Rev Cancer. 2008;8:205–11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18235448</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang W, Zhu Z, Thompson HJ. Dietary energy restriction modulates the activity of AMP-activated protein kinase, Akt, and mammalian target of rapamycin in mammary carcinomas, mammary gland, and liver. Cancer Res. 2008;68:5492–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2587286</ArticleId>
+            <ArticleId IdType="pubmed">18593953</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moore T, et al.  Dietary energy balance modulates signaling through the Akt/mammalian target of rapamycin pathways in multiple epithelial tissues. Cancer Prev Res (Phila Pa) 2008;1:65–76.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19138937</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kelesidis I, Kelesidis T, Mantzoros CS. Adiponectin and cancer: a systematic review. Br J Cancer. 2006;94:1221–5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2361397</ArticleId>
+            <ArticleId IdType="pubmed">16570048</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vona-Davis L, Howard-McNatt M, Rose DP. Adiposity, type 2 diabetes and the metabolic syndrome in breast cancer. Obes Rev. 2007;8:395–408.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17716297</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sugiyama M, et al.  Adiponectin inhibits colorectal cancer cell growth through the AMPK/mTOR pathway. Int J Oncol. 2009;34:339–44.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19148467</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zheng B, et al.  Oncogenic B-RAF negatively regulates the tumor suppressor LKB1 to promote melanoma cell proliferation. Mol Cell. 2009;33:237–47.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2715556</ArticleId>
+            <ArticleId IdType="pubmed">19187764</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hallstrom TC, Mori S, Nevins JR. An E2F1-dependent gene expression program that determines the balance between proliferation and cell death. Cancer Cell. 2008;13:11–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2243238</ArticleId>
+            <ArticleId IdType="pubmed">18167336</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee M, Vasioukhin V. Cell polarity and cancer--cell and tissue polarity as a non-canonical tumor suppressor. J Cell Sci. 2008;121:1141–50.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18388309</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saadat I, et al.  Helicobacter pylori CagA targets PAR1/MARK kinase to disrupt epithelial cell polarity. Nature. 2007;447:330–3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17507984</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoyer-Hansen M, Jaattela M. AMP-activated protein kinase: a universal regulator of autophagy? Autophagy. 2007;3:381–3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17457036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang W, Yang X, Lopez de Silanes I, Carling D, Gorospe M. Increased AMP:ATP ratio and AMP-activated protein kinase activity during cellular senescence linked to reduced HuR function. J Biol Chem. 2003;278:27016–23.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12730239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brugarolas J, Kaelin WG., Jr. Dysregulation of HIF and VEGF is a unifying feature of the familial hamartoma syndromes. Cancer Cell. 2004;6:7–10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15261137</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brugarolas JB, Vazquez F, Reddy A, Sellers WR, Kaelin WG., Jr. TSC2 regulates VEGF through mTOR-dependent and -independent pathways. Cancer Cell. 2003;4:147–58.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12957289</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hurov JB, Watkins JL, Piwnica-Worms H. Atypical PKC phosphorylates PAR-1 kinases to regulate localization and activity. Curr Biol. 2004;14:736–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15084291</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Suzuki A, et al.  aPKC acts upstream of PAR-1b in both the establishment and maintenance of mammalian epithelial polarity. Curr Biol. 2004;14:1425–35.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15324659</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kusakabe M, Nishida E. The polarity-inducing kinase Par-1 controls Xenopus gastrulation in cooperation with 14-3-3 and aPKC. EMBO J. 2004;23:4190–201.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC524384</ArticleId>
+            <ArticleId IdType="pubmed">15343271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y, et al.  PAR-1 kinase phosphorylates Dlg and regulates its postsynaptic targeting at the Drosophila neuromuscular junction. Neuron. 2007;53:201–15.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1855201</ArticleId>
+            <ArticleId IdType="pubmed">17224403</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Benton R, St Johnston D. Drosophila PAR-1 and 14-3-3 inhibit Bazooka/PAR-3 to establish complementary cortical domains in polarized cells. Cell. 2003;115:691–704.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14675534</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ossipova O, Bardeesy N, DePinho RA, Green JB. LKB1 (XEEK1) regulates Wnt signalling in vertebrate development. Nat Cell Biol. 2003;5:889–94.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12973359</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Asada N, Sanada K, Fukada Y. LKB1 regulates neuronal migration and neuronal differentiation in the developing neocortex through centrosomal positioning. J Neurosci. 2007;27:11769–75.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6673218</ArticleId>
+            <ArticleId IdType="pubmed">17959818</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang S, et al.  The tumor suppressor LKB1 regulates lung cancer cell polarity by mediating cdc42 recruitment and activity. Cancer Res. 2008;68:740–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18245474</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alessi DR, Sakamoto K, Bayascas JR. Lkb1-dependent signaling pathways. Annu Rev Biochem. 2006;75:137–63.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16756488</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Puffenberger EG, et al.  Polyhydramnios, megalencephaly and symptomatic epilepsy caused by a homozygous 7-kilobase deletion in LYK5. Brain. 2007;130:1929–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17522105</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Towler MC, et al.  A novel short splice variant of the tumour suppressor LKB1 is required for spermiogenesis. Biochem J. 2008</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18774945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Denison FC, Hiscock NJ, Carling D, Woods A. Characterization of an alternative splice variant of LKB1. J Biol Chem. 2009;284:67–76.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18854309</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marignani PA, et al.  Novel splice isoforms of STRADalpha differentially affect LKB1 activity, complex assembly and subcellular localization. Cancer Biol Ther. 2007;6:1627–31.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17921699</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McBride A, Ghilagaber S, Nikolaev A, Hardie DG. The glycogen-binding domain on the AMPK beta subunit allows the kinase to act as a glycogen sensor. Cell Metab. 2009;9:23–34.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2642990</ArticleId>
+            <ArticleId IdType="pubmed">19117544</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiao B, et al.  Structural basis for AMP binding to mammalian AMP-activated protein kinase. Nature. 2007;449:496–500.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17851531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanders MJ, Grondin PO, Hegarty BD, Snowden MA, Carling D. Investigating the mechanism for AMP activation of the AMP-activated protein kinase cascade. Biochem J. 2007;403:139–48.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1828883</ArticleId>
+            <ArticleId IdType="pubmed">17147517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dolinsky VW, Dyck JR. Role of AMP-activated protein kinase in healthy and diseased hearts. Am J Physiol Heart Circ Physiol. 2006;291:H2557–69.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16844922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Robinson J, Nye E, Stamp G, Silver A. Osteogenic tumours in Lkb1-deficient mice. Exp Mol Pathol. 2008;85:223–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18761009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Takeda H, Miyoshi H, Kojima Y, Oshima M, Taketo MM. Accelerated onsets of gastric hamartomas and hepatic adenomas/carcinomas in Lkb1+/-p53-/-compound mutant mice. Oncogene. 2006;25:1816–20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16278673</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wei C, et al.  Mutation of Lkb1 and p53 genes exert a cooperative effect on tumorigenesis. Cancer Res. 2005;65:11297–303.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16357136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shorning BY, et al.  Lkb1 deficiency alters goblet and paneth cell differentiation in the small intestine. PLoS ONE. 2009;4:e4264.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2626247</ArticleId>
+            <ArticleId IdType="pubmed">19165340</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pearson HB, McCarthy A, Collins CM, Ashworth A, Clarke AR. Lkb1 deficiency causes prostate neoplasia in the mouse. Cancer Res. 2008;68:2223–32.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18381428</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hezel AF, et al.  Pancreatic LKB1 deletion leads to acinar polarity defects and cystic neoplasms. Mol Cell Biol. 2008;28:2414–25.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2268441</ArticleId>
+            <ArticleId IdType="pubmed">18227155</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">19629071</PMID>
+      <DateCompleted>
+        <Year>2009</Year>
+        <Month>08</Month>
+        <Day>11</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>08</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1474-1768</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>9</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2009</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nature reviews. Cancer</Title>
+          <ISOAbbreviation>Nat Rev Cancer</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The LKB1-AMPK pathway: metabolism and growth control in tumour suppression.</ArticleTitle>
+        <Pagination>
+          <StartPage>563</StartPage>
+          <EndPage>575</EndPage>
+          <MedlinePgn>563-75</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/nrc2676</ELocationID>
+        <Abstract>
+          <AbstractText>In the past decade, studies of the human tumour suppressor LKB1 have uncovered a novel signalling pathway that links cell metabolism to growth control and cell polarity. LKB1 encodes a serine-threonine kinase that directly phosphorylates and activates AMPK, a central metabolic sensor. AMPK regulates lipid, cholesterol and glucose metabolism in specialized metabolic tissues, such as liver, muscle and adipose tissue. This function has made AMPK a key therapeutic target in patients with diabetes. The connection of AMPK with several tumour suppressors suggests that therapeutic manipulation of this pathway using established diabetes drugs warrants further investigation in patients with cancer.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Shackelford</LastName>
+            <ForeName>David B</ForeName>
+            <Initials>DB</Initials>
+            <AffiliationInfo>
+              <Affiliation>Dulbecco Center for Cancer Research, Molecular and Cell Biology Laboratory, The Salk Institute for Biological Studies, La Jolla, California 92037, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shaw</LastName>
+            <ForeName>Reuben J</ForeName>
+            <Initials>RJ</Initials>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>T32 CA009370-26</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>P01 CA120964-030002</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 DK080425</GrantID>
+            <Acronym>DK</Acronym>
+            <Agency>NIDDK NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>P01 CA120964</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>T32 CA009370</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 DK080425-02</GrantID>
+            <Acronym>DK</Acronym>
+            <Agency>NIDDK NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 DK080425-01</GrantID>
+            <Acronym>DK</Acronym>
+            <Agency>NIDDK NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Nat Rev Cancer</MedlineTA>
+        <NlmUniqueID>101124168</NlmUniqueID>
+        <ISSNLinking>1474-175X</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D001786">Blood Glucose</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D007004">Hypoglycemic Agents</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D047428">Protein Kinase Inhibitors</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.-</RegistryNumber>
+          <NameOfSubstance UI="D011494">Protein Kinases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.1.1</RegistryNumber>
+          <NameOfSubstance UI="C546842">MTOR protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.1.1</RegistryNumber>
+          <NameOfSubstance UI="C546843">mTOR protein, mouse</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="D017346">Protein Serine-Threonine Kinases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="C109790">STK11 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="D058570">TOR Serine-Threonine Kinases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.3</RegistryNumber>
+          <NameOfSubstance UI="D000091162">AMP-Activated Protein Kinase Kinases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.31</RegistryNumber>
+          <NameOfSubstance UI="D055372">AMP-Activated Protein Kinases</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000091162" MajorTopicYN="N">AMP-Activated Protein Kinase Kinases</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055372" MajorTopicYN="N">AMP-Activated Protein Kinases</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001786" MajorTopicYN="N">Blood Glucose</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007004" MajorTopicYN="N">Hypoglycemic Agents</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009369" MajorTopicYN="N">Neoplasms</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D047428" MajorTopicYN="N">Protein Kinase Inhibitors</DescriptorName>
+          <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011494" MajorTopicYN="N">Protein Kinases</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017346" MajorTopicYN="N">Protein Serine-Threonine Kinases</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D058570" MajorTopicYN="N">TOR Serine-Threonine Kinases</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2009</Year>
+          <Month>7</Month>
+          <Day>25</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2009</Year>
+          <Month>7</Month>
+          <Day>25</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2009</Year>
+          <Month>8</Month>
+          <Day>12</Day>
+          <Hour>9</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">19629071</ArticleId>
+        <ArticleId IdType="mid">NIHMS144019</ArticleId>
+        <ArticleId IdType="pmc">PMC2756045</ArticleId>
+        <ArticleId IdType="doi">10.1038/nrc2676</ArticleId>
+        <ArticleId IdType="pii">nrc2676</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Hong SP, Leiper FC, Woods A, Carling D, Carlson M. Activation of yeast Snf1 and mammalian AMP-activated protein kinase by upstream kinases. Proc Natl Acad Sci U S A. 2003;100:8839–43.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC166400</ArticleId>
+            <ArticleId IdType="pubmed">12847291</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hawley SA, et al.  Complexes between the LKB1 tumor suppressor, STRADalpha/beta and MO25alpha/beta are upstream kinases in the AMP-activated protein kinase cascade. J Biol. 2003;2:28.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC333410</ArticleId>
+            <ArticleId IdType="pubmed">14511394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Woods A, et al.  LKB1 is the upstream kinase in the AMP-activated protein kinase cascade. Curr Biol. 2003;13:2004–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14614828</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaw RJ, et al.  The tumor suppressor LKB1 kinase directly activates AMP-activated kinase and regulates apoptosis in response to energy stress. Proc Natl Acad Sci U S A. 2004;101:3329–35.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC373461</ArticleId>
+            <ArticleId IdType="pubmed">14985505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hemminki A, et al.  A serine/threonine kinase gene defective in Peutz-Jeghers syndrome. Nature. 1998;391:184–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9428765</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanchez-Cespedes M, et al.  Inactivation of LKB1/STK11 is a common event in adenocarcinomas of the lung. Cancer Res. 2002;62:3659–62.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12097271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ji H, et al.  LKB1 modulates lung cancer differentiation and metastasis. Nature. 2007;448:807–10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17676035</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wingo SN, et al.  Somatic LKB1 mutations promote cervical cancer progression. PLoS One. 2009;4:e5137.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2660434</ArticleId>
+            <ArticleId IdType="pubmed">19340305</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carling D, Sanders MJ, Woods A. The regulation of AMP-activated protein kinase by upstream kinases. Int J Obes (Lond) 2008;32(Suppl 4):S55–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18719600</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lizcano JM, et al.  LKB1 is a master kinase that activates 13 kinases of the AMPK subfamily, including MARK/PAR-1. Embo J. 2004;23:833–43.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC381014</ArticleId>
+            <ArticleId IdType="pubmed">14976552</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jaleel M, et al.  Identification of the sucrose non-fermenting related kinase SNRK, as a novel LKB1 substrate. FEBS Lett. 2005;579:1417–23.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15733851</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Al-Hakim AK, et al.  14-3-3 cooperates with LKB1 to regulate the activity and localization of QSK and SIK. J Cell Sci. 2005;118:5661–73.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16306228</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Watts JL, Morton DG, Bestman J, Kemphues KJ. The C. elegans par-4 gene encodes a putative serine-threonine kinase required for establishing embryonic asymmetry. Development. 2000;127:1467–75.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10704392</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anderson KA, et al.  Hypothalamic CaMKK2 contributes to the regulation of energy balance. Cell Metab. 2008;7:377–88.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18460329</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tamas P, et al.  Regulation of the energy sensor AMP-activated protein kinase by antigen receptor and Ca2+ in T lymphocytes. J Exp Med. 2006;203:1665–70.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2118355</ArticleId>
+            <ArticleId IdType="pubmed">16818670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stahmann N, Woods A, Carling D, Heller R. Thrombin activates AMP-activated protein kinase in endothelial cells via a pathway involving Ca2+/calmodulin-dependent protein kinase kinase beta. Mol Cell Biol. 2006;26:5933–45.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1592798</ArticleId>
+            <ArticleId IdType="pubmed">16880506</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hawley SA, et al.  Calmodulin-dependent protein kinase kinase-beta is an alternative upstream kinase for AMP-activated protein kinase. Cell Metab. 2005;2:9–19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16054095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Woods A, et al.  C(Ca2+)/calmodulin-dependent protein kinase kinase-beta acts upstream of AMP-activated protein kinase in mammalian cells. Cell Metab. 2005;2:21–33.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16054096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hurley RL, et al.  The Ca2+/calmodulin-dependent protein kinase kinases are AMP-activated protein kinase kinases. J Biol Chem. 2005;280:29060–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15980064</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hardie DG, Scott JW, Pan DA, Hudson ER. Management of cellular energy by the AMP-activated protein kinase system. FEBS Lett. 2003;546:113–20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12829246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guertin DA, Sabatini DM. Defining the role of mTOR in cancer. Cancer Cell. 2007;12:9–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17613433</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wullschleger S, Loewith R, Hall MN. TOR signaling in growth and metabolism. Cell. 2006;124:471–84.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16469695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Holz MK, Ballif BA, Gygi SP, Blenis J. mTOR and S6K1 mediate assembly of the translation preinitiation complex through dynamic protein interchange and ordered phosphorylation events. Cell. 2005;123:569–80.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16286006</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Choo AY, Yoon SO, Kim SG, Roux PP, Blenis J. Rapamycin differentially inhibits S6Ks and 4E-BP1 to mediate cell-type-specific repression of mRNA translation. Proc Natl Acad Sci U S A. 2008;105:17414–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2582304</ArticleId>
+            <ArticleId IdType="pubmed">18955708</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thoreen CC, et al.  An ATP-competitive mTOR inhibitor reveals rapamycin-insensitive functions of mTORC1. J Biol Chem. 2009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2658096</ArticleId>
+            <ArticleId IdType="pubmed">19150980</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feldman ME, et al.  Active-site inhibitors of mTOR target rapamycin-resistant outputs of mTORC1 and mTORC2. PLoS Biol. 2009;7:e38.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2637922</ArticleId>
+            <ArticleId IdType="pubmed">19209957</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaw RJ, Cantley LC. Ras, PI(3)K and mTOR signalling controls tumour cell growth. Nature. 2006;441:424–30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16724053</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang J, Manning BD. The TSC1-TSC2 complex: a molecular switchboard controlling cell growth. Biochem J. 2008;412:179–90.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2735030</ArticleId>
+            <ArticleId IdType="pubmed">18466115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Inoki K, Zhu T, Guan KL. TSC2 mediates cellular energy response to control cell growth and survival. Cell. 2003;115:577–90.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14651849</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Corradetti MN, Inoki K, Bardeesy N, DePinho RA, Guan KL. Regulation of the TSC pathway by LKB1: evidence of a molecular link between tuberous sclerosis complex and Peutz-Jeghers syndrome. Genes Dev. 2004;18:1533–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC443516</ArticleId>
+            <ArticleId IdType="pubmed">15231735</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaw RJ, et al.  The LKB1 tumor suppressor negatively regulates mTOR signaling. Cancer Cell. 2004;6:91–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15261145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu L, et al.  Hypoxia-induced energy stress regulates mRNA translation and cell growth. Mol Cell. 2006;21:521–31.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3153113</ArticleId>
+            <ArticleId IdType="pubmed">16483933</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Inoki K, et al.  TSC2 Integrates Wnt and Energy Signals via a Coordinated Phosphorylation by AMPK and GSK3 to Regulate Cell Growth. Cell. 2006;126:955–68.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16959574</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hahn-Windgassen A, et al.  Akt activates the mammalian target of rapamycin by regulating cellular ATP level and AMPK activity. J Biol Chem. 2005;280:32081–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16027121</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gwinn DM, et al.  AMPK phosphorylation of raptor mediates a metabolic checkpoint. Mol Cell. 2008;30:214–26.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2674027</ArticleId>
+            <ArticleId IdType="pubmed">18439900</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shackelford DB, et al.  mTOR- and HIF-1α mediated tumor metabolism in an LKB1 mouse model of Peutz-Jeghers syndrome. Proc Natl Acad Sci U S A. 2009  www.pnas.org□cgi□doi□10.1073□pnas.0900465106.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2708689</ArticleId>
+            <ArticleId IdType="pubmed">19541609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carretero J, et al.  Dysfunctional AMPK activity, signalling through mTOR and survival in response to energetic stress in LKB1-deficient lung cancer. Oncogene. 2007;26:1616–25.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16953221</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Karuman P, et al.  The Peutz-Jegher gene product LKB1 is a mediator of p53-dependent cell death. Mol Cell. 2001;7:1307–19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11430832</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tiainen M, Vaahtomeri K, Ylikorkala A, Makela TP. Growth arrest by the LKB1 tumor suppressor: induction of p21(WAF1/CIP1) Hum Mol Genet. 2002;11:1497–504.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12045203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Imamura K, Ogura T, Kishimoto A, Kaminishi M, Esumi H. Cell cycle regulation via p53 phosphorylation by a 5′-AMP activated protein kinase activator, 5-aminoimidazole-4-carboxamide-1-beta-D-ribofuranoside, in a human hepatocellular carcinoma cell line. Biochem Biophys Res Commun. 2001;287:562–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11554766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jones RG, et al.  AMP-activated protein kinase induces a p53-dependent metabolic checkpoint. Mol Cell. 2005;18:283–93.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15866171</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Khanna KK, Jackson SP. DNA double-strand breaks: signaling, repair and the cancer connection. Nat Genet. 2001;27:247–54.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11242102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Levine AJ, Feng Z, Mak TW, You H, Jin S. Coordination and communication between the p53 and IGF-1-AKT-TOR signal transduction pathways. Genes Dev. 2006;20:267–75.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16452501</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Budanov AV, Karin M. p53 target genes sestrin1 and sestrin2 connect genotoxic stress and mTOR signaling. Cell. 2008;134:451–60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2758522</ArticleId>
+            <ArticleId IdType="pubmed">18692468</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feng Z, et al.  The regulation of AMPK beta1, TSC2, and PTEN expression by p53: stress, cell and tissue specificity, and the role of these gene products in modulating the IGF-1-AKT-mTOR pathways. Cancer Res. 2007;67:3043–53.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17409411</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Greer EL, et al.  The Energy Sensor AMP-activated Protein Kinase Directly Regulates the Mammalian FOXO3 Transcription Factor. J Biol Chem. 2007;282:30107–19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17711846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liang J, et al.  The energy sensing LKB1-AMPK pathway regulates p27(kip1) phosphorylation mediating the decision to enter autophagy or apoptosis. Nat Cell Biol. 2007;9:218–24.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17237771</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Short JD, et al.  AMP-activated protein kinase signaling results in cytoplasmic sequestration of p27. Cancer Res. 2008;68:6496–506.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3011867</ArticleId>
+            <ArticleId IdType="pubmed">18701472</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baba M, et al.  Folliculin encoded by the BHD gene interacts with a binding protein, FNIP1, and AMPK, and is involved in AMPK and mTOR signaling. Proc Natl Acad Sci U S A. 2006;103:15552–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1592464</ArticleId>
+            <ArticleId IdType="pubmed">17028174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang W, et al.  AMP-activated protein kinase-regulated phosphorylation and acetylation of importin alpha1: involvement in the nuclear import of RNA-binding protein HuR. J Biol Chem. 2004;279:48376–88.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15342649</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carling D, Zammit VA, Hardie DG. A common bicyclic protein kinase cascade inactivates the regulatory enzymes of fatty acid and cholesterol biosynthesis. FEBS Lett. 1987;223:217–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2889619</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sato R, Goldstein JL, Brown MS. Replacement of serine-871 of hamster 3-hydroxy-3-methylglutaryl-CoA reductase prevents phosphorylation by AMP-activated kinase and blocks inhibition of sterol synthesis induced by ATP depletion. Proc Natl Acad Sci U S A. 1993;90:9261–5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC47547</ArticleId>
+            <ArticleId IdType="pubmed">8415689</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhan Y, et al.  Control of cell growth and survival by enzymes of the fatty acid synthesis pathway in HCT-116 colon cancer cells. Clin Cancer Res. 2008;14:5735–42.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18794082</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chajes V, Cambot M, Moreau K, Lenoir GM, Joulin V. Acetyl-CoA carboxylase alpha is essential to breast cancer cell survival. Cancer Res. 2006;66:5287–94.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16707454</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brusselmans K, De Schrijver E, Verhoeven G, Swinnen JV. RNA interference-mediated silencing of the acetyl-CoA-carboxylase-alpha gene induces growth inhibition and apoptosis of prostate cancer cells. Cancer Res. 2005;65:6719–25.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16061653</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beckers A, et al.  Chemical inhibition of acetyl-CoA carboxylase induces growth arrest and cytotoxicity selectively in cancer cells. Cancer Res. 2007;67:8180–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17804731</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Orita H, et al.  Selective inhibition of fatty acid synthase for lung cancer treatment. Clin Cancer Res. 2007;13:7139–45.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18056164</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Menendez JA, Lupu R. Fatty acid synthase and the lipogenic phenotype in cancer pathogenesis. Nat Rev Cancer. 2007;7:763–77.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17882277</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marsin AS, et al.  Phosphorylation and activation of heart PFK-2 by AMPK has a role in the stimulation of glycolysis during ischaemia. Curr Biol. 2000;10:1247–55.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11069105</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Almeida A, Moncada S, Bolanos JP. Nitric oxide switches on glycolysis through the AMP protein kinase and 6-phosphofructo-2-kinase pathway. Nat Cell Biol. 2004;6:45–51.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14688792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bando H, et al.  Phosphorylation of the 6-phosphofructo-2-kinase/fructose 2,6-bisphosphatase/PFKFB3 family of glycolytic regulators in human cancer. Clin Cancer Res. 2005;11:5784–92.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16115917</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Telang S, et al.  Ras transformation requires metabolic control by 6-phosphofructo-2-kinase. Oncogene. 2006;25:7225–34.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16715124</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clem B, et al.  Small-molecule inhibition of 6-phosphofructo-2-kinase activity suppresses glycolytic flux and tumor growth. Mol Cancer Ther. 2008;7:110–20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18202014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang W, et al.  Regulation of transcription by AMP-activated protein kinase: phosphorylation of p300 blocks its interaction with nuclear receptors. J Biol Chem. 2001;276:38341–4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11518699</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berdeaux R, et al.  SIK1 is a class II HDAC kinase that promotes survival of skeletal myocytes. Nat Med. 2007;13:597–603.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17468767</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dequiedt F, et al.  New role for hPar-1 kinases EMK and C-TAK1 in regulating localization and activity of class IIa histone deacetylases. Mol Cell Biol. 2006;26:7086–102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1592903</ArticleId>
+            <ArticleId IdType="pubmed">16980613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McGee SL, et al.  AMP-activated protein kinase regulates GLUT4 transcription by phosphorylating histone deacetylase 5. Diabetes. 2008;57:860–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18184930</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koo SH, et al.  The CREB coactivator TORC2 is a key regulator of fasting glucose metabolism. Nature. 2005;437:1109–11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16148943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Screaton RA, et al.  The CREB coactivator TORC2 functions as a calcium- and cAMP-sensitive coincidence detector. Cell. 2004;119:61–74.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15454081</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jansson D, et al.  Glucose controls CREB activity in islet cells via regulated phosphorylation of TORC2. Proc Natl Acad Sci U S A. 2008;105:10161–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2481316</ArticleId>
+            <ArticleId IdType="pubmed">18626018</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaw RJ, et al.  The kinase LKB1 mediates glucose homeostasis in liver and therapeutic effects of metformin. Science. 2005;310:1642–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3074427</ArticleId>
+            <ArticleId IdType="pubmed">16308421</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fu A, Screaton RA. Using kinomics to delineate signaling pathways: control of CRTC2/TORC2 by the AMPK family. Cell Cycle. 2008;7:3823–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19098422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu L, et al.  Transforming activity of MECT1-MAML2 fusion oncoprotein is mediated by constitutive CREB activation. Embo J. 2005;24:2391–402.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1173159</ArticleId>
+            <ArticleId IdType="pubmed">15961999</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Canettieri G, et al.  The coactivator CRTC1 promotes cell proliferation and transformation via AP-1. Proc Natl Acad Sci U S A. 2009;106:1445–50.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2635810</ArticleId>
+            <ArticleId IdType="pubmed">19164581</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Canto C, et al.  AMPK regulates energy expenditure by modulating NAD(+) metabolism and SIRT1 activity. Nature. 2009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3616311</ArticleId>
+            <ArticleId IdType="pubmed">19262508</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jager S, Handschin C, St-Pierre J, Spiegelman BM. AMP-activated protein kinase (AMPK) action in skeletal muscle via direct phosphorylation of PGC-1alpha. Proc Natl Acad Sci U S A. 2007;104:12017–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1924552</ArticleId>
+            <ArticleId IdType="pubmed">17609368</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brooks CL, Gu W. How does SIRT1 affect metabolism, senescence and cancer? Nat Rev Cancer. 2009;9:123–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2857763</ArticleId>
+            <ArticleId IdType="pubmed">19132007</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Porstmann T, et al.  SREBP activity is regulated by mTORC1 and contributes to Akt-dependent cell growth. Cell Metab. 2008;8:224–36.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2593919</ArticleId>
+            <ArticleId IdType="pubmed">18762023</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou G, et al.  Role of AMP-activated protein kinase in mechanism of metformin action. J Clin Invest. 2001;108:1167–74.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC209533</ArticleId>
+            <ArticleId IdType="pubmed">11602624</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaelin WG, Jr., Ratcliffe PJ. Oxygen sensing by metazoans: the central role of the HIF hydroxylase pathway. Mol Cell. 2008;30:393–402.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18498744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaw RJ. Glucose metabolism and cancer. Curr Opin Cell Biol. 2006;18:598–608.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17046224</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Denko NC. Hypoxia, HIF1 and glucose metabolism in the solid tumour. Nat Rev Cancer. 2008;8:705–13.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19143055</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Semenza GL. HIF-1 mediates the Warburg effect in clear cell renal carcinoma. J Bioenerg Biomembr. 2007;39:231–4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17551816</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Majumder PK, et al.  mTOR inhibition reverses Akt-dependent prostate intraepithelial neoplasia through regulation of apoptotic and HIF-1-dependent pathways. Nat Med. 2004;10:594–601.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15156201</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fantin VR, St-Pierre J, Leder P. Attenuation of LDH-A expression uncovers a link between glycolysis, mitochondrial physiology, and tumor maintenance. Cancer Cell. 2006;9:425–34.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16766262</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brugarolas J, et al.  Regulation of mTOR function in response to hypoxia by REDD1 and the TSC1/TSC2 tumor suppressor complex. Genes Dev. 2004;18:2893–904.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC534650</ArticleId>
+            <ArticleId IdType="pubmed">15545625</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martin SG, St Johnston D. A role for Drosophila LKB1 in anterior-posterior axis formation and epithelial polarity. Nature. 2003;421:379–84.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12540903</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mirouse V, Swick LL, Kazgan N, St Johnston D, Brenman JE. LKB1 and AMPK maintain epithelial cell polarity under energetic stress. J Cell Biol. 2007;177:387–92.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2064817</ArticleId>
+            <ArticleId IdType="pubmed">17470638</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee JH, et al.  Energy-dependent regulation of cell structure by AMP-activated protein kinase. Nature. 2007;447:1017–20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17486097</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tomancak P, et al.  A Drosophila melanogaster homologue of Caenorhabditis elegans par-1 acts at an early step in embryonic-axis formation. Nat Cell Biol. 2000;2:458–60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10878812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shulman JM, Benton R, St Johnston D. The Drosophila homolog of C. elegans PAR-1 organizes the oocyte cytoskeleton and directs oskar mRNA localization to the posterior pole. Cell. 2000;101:377–88.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10830165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baas AF, et al.  Complete polarization of single intestinal epithelial cells upon activation of LKB1 by STRAD. Cell. 2004;116:457–66.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15016379</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shelly M, Cancedda L, Heilshorn S, Sumbre G, Poo MM. LKB1/STRAD promotes axon initiation during neuronal polarization. Cell. 2007;129:565–77.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17482549</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barnes AP, et al.  LKB1 and SAD kinases define a pathway required for the polarization of cortical neurons. Cell. 2007;129:549–63.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17482548</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hezel AF, Bardeesy N. LKB1; linking cell structure and tumor suppression. Oncogene. 2008;27:6908–19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19029933</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kojima Y, et al.  Suppression of tubulin polymerization by the LKB1-microtubule-associated protein/microtubule affinity-regulating kinase signaling. J Biol Chem. 2007;282:23532–40.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17573348</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Biernat J, et al.  Protein kinase MARK/PAR-1 is required for neurite outgrowth and establishment of neuronal polarity. Mol Biol Cell. 2002;13:4013–28.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC133611</ArticleId>
+            <ArticleId IdType="pubmed">12429843</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun TQ, et al.  PAR-1 is a Dishevelled-associated kinase and a positive regulator of Wnt signalling. Nat Cell Biol. 2001;3:628–36.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11433294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ossipova O, Dhawan S, Sokol S, Green JB. Distinct PAR-1 proteins function in different branches of Wnt signaling during vertebrate development. Dev Cell. 2005;8:829–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15935773</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Elbert M, Cohen D, Musch A. PAR1b promotes cell-cell adhesion and inhibits dishevelled-mediated transformation of Madin-Darby canine kidney cells. Mol Biol Cell. 2006;17:3345–55.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1525229</ArticleId>
+            <ArticleId IdType="pubmed">16707567</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schlessinger K, McManus EJ, Hall A. Cdc42 and noncanonical Wnt signal transduction pathways cooperate to promote cell polarity. J Cell Biol. 2007;178:355–61.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2064837</ArticleId>
+            <ArticleId IdType="pubmed">17646398</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang X, et al.  Dishevelled promotes axon differentiation by regulating atypical protein kinase C. Nat Cell Biol. 2007;9:743–54.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17558396</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Narimatsu M, et al.  Regulation of planar cell polarity by Smurf ubiquitin ligases. Cell. 2009;137:295–307.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19379695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang L, Li J, Young LH, Caplan MJ. AMP-activated protein kinase regulates the assembly of epithelial tight junctions. Proc Natl Acad Sci U S A. 2006;103:17272–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1859922</ArticleId>
+            <ArticleId IdType="pubmed">17088526</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zheng B, Cantley LC. Regulation of epithelial tight junction assembly and disassembly by AMP-activated protein kinase. Proc Natl Acad Sci U S A. 2007;104:819–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1783397</ArticleId>
+            <ArticleId IdType="pubmed">17204563</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sebbagh M, Santoni MJ, Hall B, Borg JP, Schwartz MA. Regulation of LKB1/STRAD localization and function by E-cadherin. Curr Biol. 2009;19:37–42.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2773019</ArticleId>
+            <ArticleId IdType="pubmed">19110428</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Horman S, et al.  AMP-activated protein kinase phosphorylates and desensitizes smooth muscle myosin light chain kinase. J Biol Chem. 2008;283:18505–12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18426792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yamamoto H, et al.  Identification of a novel substrate for TNFalpha-induced kinase NUAK2. Biochem Biophys Res Commun. 2008;365:541–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18023418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>ten Klooster JP, et al.  Mst4 and Ezrin induce brush borders downstream of the Lkb1/Strad/Mo25 polarization complex. Dev Cell. 2009;16:551–62.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19386264</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Partanen JI, Nieminen AI, Makela TP, Klefstrom J. Suppression of oncogenic properties of c-Myc by LKB1-controlled epithelial organization. Proc Natl Acad Sci U S A. 2007;104:14694–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1976192</ArticleId>
+            <ArticleId IdType="pubmed">17766436</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aranda V, et al.  Par6-aPKC uncouples ErbB2 induced disruption of polarized epithelial organization from proliferation control. Nat Cell Biol. 2006;8:1235–45.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17060907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dow LE, et al.  The tumour-suppressor Scribble dictates cell polarity during directed epithelial migration: regulation of Rho GTPase recruitment to the leading edge. Oncogene. 2007;26:2272–82.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17043654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nolan ME, et al.  The polarity protein Par6 induces cell proliferation and is overexpressed in breast cancer. Cancer Res. 2008;68:8201–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2948755</ArticleId>
+            <ArticleId IdType="pubmed">18922891</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ylikorkala A, et al.  Vascular abnormalities and deregulation of VEGF in Lkb1-deficient mice. Science. 2001;293:1323–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11509733</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bardeesy N, et al.  Loss of the Lkb1 tumour suppressor provokes intestinal polyposis but resistance to transformation. Nature. 2002;419:162–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12226664</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miyoshi H, et al.  Gastrointestinal hamartomatous polyposis in Lkb1 heterozygous knockout mice. Cancer Res. 2002;62:2261–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11956081</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jishage K, et al.  Role of Lkb1, the causative gene of Peutz-Jegher’s syndrome, in embryogenesis and polyposis. Proc Natl Acad Sci U S A. 2002;99:8903–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC124396</ArticleId>
+            <ArticleId IdType="pubmed">12060709</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rossi DJ, et al.  Induction of cyclooxygenase-2 in a mouse model of Peutz-Jeghers polyposis. Proc Natl Acad Sci U S A. 2002;99:12327–32.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC129444</ArticleId>
+            <ArticleId IdType="pubmed">12218179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Katajisto P, et al.  LKB1 signaling in mesenchymal cells required for suppression of gastrointestinal polyposis. Nat Genet. 2008;40:455–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18311138</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vaahtomeri K, et al.  Lkb1 is required for TGFbeta-mediated myofibroblast differentiation. J Cell Sci. 2008;121:3531–40.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18840652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Contreras CM, et al.  Loss of Lkb1 provokes highly invasive endometrial adenocarcinomas. Cancer Res. 2008;68:759–66.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18245476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carretero J, Medina PP, Pio R, Montuenga LM, Sanchez-Cespedes M. Novel and natural knockout lung cancer cell lines for the LKB1/STK11 tumor suppressor gene. Oncogene. 2004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15021901</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Makowski L, Hayes DN. Role of LKB1 in lung cancer development. Br J Cancer. 2008;99:683–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2528145</ArticleId>
+            <ArticleId IdType="pubmed">18728656</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gurumurthy S, Hezel AF, Berger JH, Bosenberg MW, Bardeesy N. LKB1 deficiency sensitizes mice to carcinogen-induced tumorigenesis. Cancer Res. 2008;68:55–63.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3739055</ArticleId>
+            <ArticleId IdType="pubmed">18172296</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hardie DG. AMP-Activated Protein Kinase as a Drug Target. Annu Rev Pharmacol Toxicol. 2007;47:185–210.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16879084</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hundal RS, et al.  Mechanism by which metformin reduces glucose production in type 2 diabetes. Diabetes. 2000;49:2063–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2995498</ArticleId>
+            <ArticleId IdType="pubmed">11118008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hardie DG. Neither LKB1 nor AMPK are the direct targets of metformin. Gastroenterology. 2006;131:973. author reply 974-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16952573</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Legro RS, et al.  Ovulatory response to treatment of polycystic ovary syndrome is associated with a polymorphism in the STK11 gene. J Clin Endocrinol Metab. 2008;93:792–800.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2266955</ArticleId>
+            <ArticleId IdType="pubmed">18000088</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shu Y, et al.  Effect of genetic variation in the organic cation transporter 1 (OCT1) on metformin action. J Clin Invest. 2007;117:1422–31.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1857259</ArticleId>
+            <ArticleId IdType="pubmed">17476361</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schneider MB, et al.  Prevention of pancreatic cancer induction in hamsters by metformin. Gastroenterology. 2001;120:1263–70.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11266389</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anisimov VN, et al.  Effect of metformin on life span and on the development of spontaneous mammary tumors in HER-2/neu transgenic mice. Exp Gerontol. 2005;40:685–93.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16125352</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zakikhani M, Dowling R, Fantus IG, Sonenberg N, Pollak M. Metformin is an AMP kinase-dependent growth inhibitor for breast cancer cells. Cancer Res. 2006;66:10269–73.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17062558</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zakikhani M, Dowling RJ, Sonenberg N, Pollak MN. The effects of adiponectin and metformin on prostate and colon neoplasia involve activation of AMP-activated protein kinase. Cancer Prev Res (Phila Pa) 2008;1:369–75.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19138981</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Swinnen JV, et al.  Mimicry of a cellular low energy status blocks tumor cell anabolism and suppresses the malignant phenotype. Cancer Res. 2005;65:2441–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15781660</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buzzai M, et al.  Systemic treatment with the antidiabetic drug metformin selectively impairs p53-deficient tumor cell growth. Cancer Res. 2007;67:6745–52.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17638885</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Algire C, Zakikhani M, Blouin MJ, Shuai JH, Pollak M. Metformin attenuates the stimulatory effect of a high-energy diet on in vivo LLC1 carcinoma growth. Endocr Relat Cancer. 2008;15:833–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18469156</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang X, et al.  Important role of the LKB1-AMPK pathway in suppressing tumorigenesis in PTEN-deficient mice. Biochem J. 2008;412:211–21.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18387000</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dykens JA, et al.  Biguanide-induced mitochondrial dysfunction yields increased lactate production and cytotoxicity of aerobically-poised HepG2 cells and human hepatocytes in vitro. Toxicol Appl Pharmacol. 2008;233:203–10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18817800</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Owen MR, Doran E, Halestrap AP. Evidence that metformin exerts its anti-diabetic effects through inhibition of complex 1 of the mitochondrial respiratory chain. Biochem J. 2000;348(Pt 3):607–14.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1221104</ArticleId>
+            <ArticleId IdType="pubmed">10839993</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scott JW, et al.  Thienopyridone drugs are selective activators of AMP-activated protein kinase beta1-containing complexes. Chem Biol. 2008;15:1220–30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19022182</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cool B, et al.  Identification and characterization of a small molecule AMPK activator that treats key components of type 2 diabetes and the metabolic syndrome. Cell Metab. 2006;3:403–16.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16753576</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Evans JM, Donnelly LA, Emslie-Smith AM, Alessi DR, Morris AD. Metformin and reduced risk of cancer in diabetic patients. Bmj. 2005;330:1304–5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC558205</ArticleId>
+            <ArticleId IdType="pubmed">15849206</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bowker SL, Majumdar SR, Veugelers P, Johnson JA. Increased cancer-related mortality for patients with type 2 diabetes who use sulfonylureas or insulin. Diabetes Care. 2006;29:254–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16443869</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiralerspong S, et al.  Metformin and Pathologic Complete Responses to Neoadjuvant Chemotherapy in Diabetic Patients With Breast Cancer. J Clin Oncol. 2009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2736070</ArticleId>
+            <ArticleId IdType="pubmed">19487376</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goodwin PJ, Ligibel JA, Stambolic V. Metformin in Breast Cancer: Time for Action. J Clin Oncol. 2009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19487373</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pollak M. Insulin and insulin-like growth factor signalling in neoplasia. Nat Rev Cancer. 2008;8:915–28.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19029956</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Erdemoglu E, Guney M, Giray SG, Take G, Mungan T. Effects of metformin on mammalian target of rapamycin in a mouse model of endometrial hyperplasia. Eur J Obstet Gynecol Reprod Biol. 2009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19501448</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Memmott RM, et al.  Phosphatidylinositol ether lipid analogues induce AMP-activated protein kinase-dependent death in LKB1-mutant non small cell lung cancer cells. Cancer Res. 2008;68:580–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3558831</ArticleId>
+            <ArticleId IdType="pubmed">18199555</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nafz J, et al.  Interference with energy metabolism by 5-aminoimidazole-4-carboxamide-1-beta-D-ribofuranoside induces HPV suppression in cervical carcinoma cells and apoptosis in the absence of LKB1. Biochem J. 2007;403:501–10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1876364</ArticleId>
+            <ArticleId IdType="pubmed">17212587</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buzzai M, et al.  The glucose dependence of Akt-transformed cells can be reversed by pharmacologic activation of fatty acid beta-oxidation. Oncogene. 2005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15806154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shell SA, et al.  Activation of AMPK is necessary for killing cancer cells and sparing cardiac cells. Cell Cycle. 2008;7:1769–75.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18594201</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Laderoute KR, et al.  5′-AMP-Activated Protein Kinase (AMPK) Is Induced by Low-Oxygen and Glucose Deprivation Conditions Found in Solid-Tumor Microenvironments. Mol Cell Biol. 2006;26:5336–47.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1592699</ArticleId>
+            <ArticleId IdType="pubmed">16809770</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Connor MJ, Martin NM, Smith GC. Targeted cancer therapies based on the inhibition of DNA strand break repair. Oncogene. 2007;26:7816–24.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18066095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Podsypanina K, et al.  An inhibitor of mTOR reduces neoplasia and normalizes p70/S6 kinase activity in Pten+/-mice. Proc Natl Acad Sci U S A. 2001;98:10320–5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC56959</ArticleId>
+            <ArticleId IdType="pubmed">11504907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Johannessen CM, et al.  TORC1 is essential for NF1-associated malignancies. Curr Biol. 2008;18:56–62.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18164202</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee L, et al.  Efficacy of a rapamycin analog (CCI-779) and IFN-gamma in tuberous sclerosis mouse models. Genes Chromosomes Cancer. 2005;42:213–27.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15578690</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wei C, et al.  Suppression of Peutz-Jeghers polyposis by targeting mammalian target of rapamycin signaling. Clin Cancer Res. 2008;14:1167–71.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18281551</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Robinson J, et al.  Oral rapamycin reduces tumour burden and vascularization in Lkb1(+/-) mice. J Pathol. 2009</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19434632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hudes G, et al.  Temsirolimus, interferon alfa, or both for advanced renal-cell carcinoma. N Engl J Med. 2007;356:2271–81.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17538086</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cloughesy TF, et al.  Antitumor activity of rapamycin in a Phase I trial for patients with recurrent PTEN-deficient glioblastoma. PLoS Med. 2008;5:e8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2211560</ArticleId>
+            <ArticleId IdType="pubmed">18215105</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bissler JJ, et al.  Sirolimus for angiomyolipoma in tuberous sclerosis complex or lymphangioleiomyomatosis. N Engl J Med. 2008;358:140–51.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3398441</ArticleId>
+            <ArticleId IdType="pubmed">18184959</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Davies DM, et al.  Sirolimus therapy in tuberous sclerosis or sporadic lymphangioleiomyomatosis. N Engl J Med. 2008;358:200–3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18184971</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martinez ME, Marshall JR, Giovannucci E. Diet and cancer prevention: the roles of observation and experimentation. Nat Rev Cancer. 2008;8:694–703.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19143054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McTiernan A. Mechanisms linking physical activity with cancer. Nat Rev Cancer. 2008;8:205–11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18235448</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang W, Zhu Z, Thompson HJ. Dietary energy restriction modulates the activity of AMP-activated protein kinase, Akt, and mammalian target of rapamycin in mammary carcinomas, mammary gland, and liver. Cancer Res. 2008;68:5492–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2587286</ArticleId>
+            <ArticleId IdType="pubmed">18593953</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moore T, et al.  Dietary energy balance modulates signaling through the Akt/mammalian target of rapamycin pathways in multiple epithelial tissues. Cancer Prev Res (Phila Pa) 2008;1:65–76.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19138937</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kelesidis I, Kelesidis T, Mantzoros CS. Adiponectin and cancer: a systematic review. Br J Cancer. 2006;94:1221–5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2361397</ArticleId>
+            <ArticleId IdType="pubmed">16570048</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vona-Davis L, Howard-McNatt M, Rose DP. Adiposity, type 2 diabetes and the metabolic syndrome in breast cancer. Obes Rev. 2007;8:395–408.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17716297</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sugiyama M, et al.  Adiponectin inhibits colorectal cancer cell growth through the AMPK/mTOR pathway. Int J Oncol. 2009;34:339–44.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19148467</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zheng B, et al.  Oncogenic B-RAF negatively regulates the tumor suppressor LKB1 to promote melanoma cell proliferation. Mol Cell. 2009;33:237–47.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2715556</ArticleId>
+            <ArticleId IdType="pubmed">19187764</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hallstrom TC, Mori S, Nevins JR. An E2F1-dependent gene expression program that determines the balance between proliferation and cell death. Cancer Cell. 2008;13:11–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2243238</ArticleId>
+            <ArticleId IdType="pubmed">18167336</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee M, Vasioukhin V. Cell polarity and cancer--cell and tissue polarity as a non-canonical tumor suppressor. J Cell Sci. 2008;121:1141–50.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18388309</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saadat I, et al.  Helicobacter pylori CagA targets PAR1/MARK kinase to disrupt epithelial cell polarity. Nature. 2007;447:330–3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17507984</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoyer-Hansen M, Jaattela M. AMP-activated protein kinase: a universal regulator of autophagy? Autophagy. 2007;3:381–3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17457036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang W, Yang X, Lopez de Silanes I, Carling D, Gorospe M. Increased AMP:ATP ratio and AMP-activated protein kinase activity during cellular senescence linked to reduced HuR function. J Biol Chem. 2003;278:27016–23.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12730239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brugarolas J, Kaelin WG., Jr. Dysregulation of HIF and VEGF is a unifying feature of the familial hamartoma syndromes. Cancer Cell. 2004;6:7–10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15261137</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brugarolas JB, Vazquez F, Reddy A, Sellers WR, Kaelin WG., Jr. TSC2 regulates VEGF through mTOR-dependent and -independent pathways. Cancer Cell. 2003;4:147–58.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12957289</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hurov JB, Watkins JL, Piwnica-Worms H. Atypical PKC phosphorylates PAR-1 kinases to regulate localization and activity. Curr Biol. 2004;14:736–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15084291</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Suzuki A, et al.  aPKC acts upstream of PAR-1b in both the establishment and maintenance of mammalian epithelial polarity. Curr Biol. 2004;14:1425–35.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15324659</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kusakabe M, Nishida E. The polarity-inducing kinase Par-1 controls Xenopus gastrulation in cooperation with 14-3-3 and aPKC. EMBO J. 2004;23:4190–201.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC524384</ArticleId>
+            <ArticleId IdType="pubmed">15343271</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y, et al.  PAR-1 kinase phosphorylates Dlg and regulates its postsynaptic targeting at the Drosophila neuromuscular junction. Neuron. 2007;53:201–15.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1855201</ArticleId>
+            <ArticleId IdType="pubmed">17224403</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Benton R, St Johnston D. Drosophila PAR-1 and 14-3-3 inhibit Bazooka/PAR-3 to establish complementary cortical domains in polarized cells. Cell. 2003;115:691–704.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14675534</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ossipova O, Bardeesy N, DePinho RA, Green JB. LKB1 (XEEK1) regulates Wnt signalling in vertebrate development. Nat Cell Biol. 2003;5:889–94.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12973359</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Asada N, Sanada K, Fukada Y. LKB1 regulates neuronal migration and neuronal differentiation in the developing neocortex through centrosomal positioning. J Neurosci. 2007;27:11769–75.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6673218</ArticleId>
+            <ArticleId IdType="pubmed">17959818</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang S, et al.  The tumor suppressor LKB1 regulates lung cancer cell polarity by mediating cdc42 recruitment and activity. Cancer Res. 2008;68:740–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18245474</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alessi DR, Sakamoto K, Bayascas JR. Lkb1-dependent signaling pathways. Annu Rev Biochem. 2006;75:137–63.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16756488</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Puffenberger EG, et al.  Polyhydramnios, megalencephaly and symptomatic epilepsy caused by a homozygous 7-kilobase deletion in LYK5. Brain. 2007;130:1929–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17522105</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Towler MC, et al.  A novel short splice variant of the tumour suppressor LKB1 is required for spermiogenesis. Biochem J. 2008</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18774945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Denison FC, Hiscock NJ, Carling D, Woods A. Characterization of an alternative splice variant of LKB1. J Biol Chem. 2009;284:67–76.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18854309</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marignani PA, et al.  Novel splice isoforms of STRADalpha differentially affect LKB1 activity, complex assembly and subcellular localization. Cancer Biol Ther. 2007;6:1627–31.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17921699</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McBride A, Ghilagaber S, Nikolaev A, Hardie DG. The glycogen-binding domain on the AMPK beta subunit allows the kinase to act as a glycogen sensor. Cell Metab. 2009;9:23–34.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2642990</ArticleId>
+            <ArticleId IdType="pubmed">19117544</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiao B, et al.  Structural basis for AMP binding to mammalian AMP-activated protein kinase. Nature. 2007;449:496–500.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17851531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanders MJ, Grondin PO, Hegarty BD, Snowden MA, Carling D. Investigating the mechanism for AMP activation of the AMP-activated protein kinase cascade. Biochem J. 2007;403:139–48.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1828883</ArticleId>
+            <ArticleId IdType="pubmed">17147517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dolinsky VW, Dyck JR. Role of AMP-activated protein kinase in healthy and diseased hearts. Am J Physiol Heart Circ Physiol. 2006;291:H2557–69.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16844922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Robinson J, Nye E, Stamp G, Silver A. Osteogenic tumours in Lkb1-deficient mice. Exp Mol Pathol. 2008;85:223–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18761009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Takeda H, Miyoshi H, Kojima Y, Oshima M, Taketo MM. Accelerated onsets of gastric hamartomas and hepatic adenomas/carcinomas in Lkb1+/-p53-/-compound mutant mice. Oncogene. 2006;25:1816–20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16278673</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wei C, et al.  Mutation of Lkb1 and p53 genes exert a cooperative effect on tumorigenesis. Cancer Res. 2005;65:11297–303.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16357136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shorning BY, et al.  Lkb1 deficiency alters goblet and paneth cell differentiation in the small intestine. PLoS ONE. 2009;4:e4264.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2626247</ArticleId>
+            <ArticleId IdType="pubmed">19165340</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pearson HB, McCarthy A, Collins CM, Ashworth A, Clarke AR. Lkb1 deficiency causes prostate neoplasia in the mouse. Cancer Res. 2008;68:2223–32.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18381428</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hezel AF, et al.  Pancreatic LKB1 deletion leads to acinar polarity defects and cystic neoplasms. Mol Cell Biol. 2008;28:2414–25.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2268441</ArticleId>
+            <ArticleId IdType="pubmed">18227155</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

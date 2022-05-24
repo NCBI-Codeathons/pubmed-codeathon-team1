@@ -1,0 +1,482 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">34011923</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>06</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>06</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2158-3188</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>11</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>May</Month>
+              <Day>20</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Translational psychiatry</Title>
+          <ISOAbbreviation>Transl Psychiatry</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A bioinformatic study revealed serotonergic neurons are involved in the etiology and therapygenetics of anxiety disorders.</ArticleTitle>
+        <Pagination>
+          <StartPage>297</StartPage>
+          <MedlinePgn>297</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">297</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41398-021-01432-5</ELocationID>
+        <Abstract>
+          <AbstractText>Genetic factors contribute to the susceptibility of anxiety disorders (ADs) and responses to associated cognitive-behavioral therapy (CBT). However, the type of brain cell affected by the related genes remains unclear. Previous studies have indicated various important brain neurons associated with psychiatric disorders, highlighting the necessity to study the cellular basis of anxiety. We assembled 37 AD-related genes and 23 CBT-related genes from recent large-scale genome-wide association studies, and then investigated their cell-type specificity in single-cell transcriptome data via an expression weighted cell type enrichment method. Additionally, to investigate the cellular differences between ADs and other psychiatric disorders, we excluded the genes associated with major depressive disorder, bipolar disorder, and neuroticism, resulting in 29 AD-specific genes. Remarkably, results indicate that serotonergic neurons are significantly associated with both AD-related and CBT-related genes, despite the two gene sets showing no overlap. These observations provide evidence that serotonergic neurons are involved in the etiology and therapygenetics of ADs. Moreover, results also showed that serotonergic neurons are associated with AD-specific genes, providing a supplementary finding that is in opposition to previous studies that found no evidence for the association between serotonergic neurons and psychiatric disorders via the same strategy. In summary, the current study found that serotonergic neurons are involved in the etiology and therapygenetics of ADs, providing insights into their genetic and cellular basis. Further, this cellular difference study may deepen our understanding of ADs and other psychiatric disorders.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Han-Kui</ForeName>
+            <Initials>HK</Initials>
+            <Identifier Source="ORCID">0000-0001-7826-0388</Identifier>
+            <AffiliationInfo>
+              <Affiliation>BGI-Shenzhen, Shenzhen, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>He</LastName>
+            <ForeName>Si-Jie</ForeName>
+            <Initials>SJ</Initials>
+            <Identifier Source="ORCID">0000-0002-4418-1785</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Shijiazhuang BGI Genomics Co., Ltd, Shijiazhuang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Jian-Guo</ForeName>
+            <Initials>JG</Initials>
+            <Identifier Source="ORCID">0000-0003-0723-1701</Identifier>
+            <AffiliationInfo>
+              <Affiliation>BGI-Shenzhen, Shenzhen, China. zhangjg@genomics.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>05</Month>
+          <Day>20</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Transl Psychiatry</MedlineTA>
+        <NlmUniqueID>101562664</NlmUniqueID>
+        <ISSNLinking>2158-3188</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001008" MajorTopicYN="N">Anxiety Disorders</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003865" MajorTopicYN="Y">Depressive Disorder, Major</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055106" MajorTopicYN="N">Genome-Wide Association Study</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059326" MajorTopicYN="Y">Serotonergic Neurons</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>1</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>5</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>4</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>9</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34011923</ArticleId>
+        <ArticleId IdType="pmc">PMC8134630</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41398-021-01432-5</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41398-021-01432-5</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Bound F. Anxiety. Lancet. 2004;363:1407. doi: 10.1016/S0140-6736(04)16077-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0140-6736(04)16077-7</ArticleId>
+            <ArticleId IdType="pubmed">15137388</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baxter AJ, Scott KM, Vos T, Whiteford HA. Global prevalence of anxiety disorders: a systematic review and meta-regression. Psychol. Med. 2013;43:897. doi: 10.1017/S003329171200147X.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1017/S003329171200147X</ArticleId>
+            <ArticleId IdType="pubmed">22781489</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kessler, R. C., Ruscio, A. M., Shear, K. &amp; Wittchen, H.-U. in Behavioral Neurobiology of Anxiety and its Treatment 21–35 (Springer, 2009).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shimada-Sugimoto M, Otowa T, Hettema JM. Genetics of anxiety disorders: genetic epidemiological and molecular studies in humans. Psychiatry Clin. Neurosci. 2015;69:388–401. doi: 10.1111/pcn.12291.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/pcn.12291</ArticleId>
+            <ArticleId IdType="pubmed">25762210</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sareen J, et al.  Adverse childhood experiences in relation to mood and anxiety disorders in a population-based sample of active military personnel. Psychol. Med. 2013;43:73–84. doi: 10.1017/S003329171200102X.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1017/S003329171200102X</ArticleId>
+            <ArticleId IdType="pubmed">22608015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Afifi TO, Mota NP, Dasiewicz P, MacMillan HL, Sareen J. Physical punishment and mental disorders: results from a nationally representative US sample. Pediatrics. 2012;130:184–192. doi: 10.1542/peds.2011-2947.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1542/peds.2011-2947</ArticleId>
+            <ArticleId IdType="pubmed">22753561</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Otowa T, York TP, Gardner CO, Kendler KS, Hettema JM. The impact of childhood parental loss on risk for mood, anxiety and substance use disorders in a population-based sample of male twins. Psychiatry Res. 2014;220:404–409. doi: 10.1016/j.psychres.2014.07.053.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.psychres.2014.07.053</ArticleId>
+            <ArticleId IdType="pmc">PMC4385714</ArticleId>
+            <ArticleId IdType="pubmed">25146695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taillieu TL, Brownridge DA, Sareen J, Afifi TO. Childhood emotional maltreatment and mental disorders: Results from a nationally representative adult sample from the United States. Child Abus. Negl. 2016;59:1–12. doi: 10.1016/j.chiabu.2016.07.005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.chiabu.2016.07.005</ArticleId>
+            <ArticleId IdType="pubmed">27490515</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hettema JM, Neale MC, Kendler KS. A review and meta-analysis of the genetic epidemiology of anxiety disorders. Am. J. Psychiatry. 2001;158:1568–1578. doi: 10.1176/appi.ajp.158.10.1568.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1176/appi.ajp.158.10.1568</ArticleId>
+            <ArticleId IdType="pubmed">11578982</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Torgersen S. Genetic factors in anxiety disorders. Arch. Gen. Psychiatry. 1983;40:1085–1089. doi: 10.1001/archpsyc.1983.01790090047007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/archpsyc.1983.01790090047007</ArticleId>
+            <ArticleId IdType="pubmed">6625857</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Otowa T, et al.  Meta-analysis of genome-wide association studies of anxiety disorders. Mol. Psychiatry. 2016;21:1391–1399. doi: 10.1038/mp.2015.197.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/mp.2015.197</ArticleId>
+            <ArticleId IdType="pmc">PMC4940340</ArticleId>
+            <ArticleId IdType="pubmed">26754954</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Levey DF, et al.  Reproducible genetic risk loci for anxiety: results from ∼200,000 participants in the Million Veteran Program. Am. J. Psychiatry. 2020;177:223–232. doi: 10.1176/appi.ajp.2019.19030256.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1176/appi.ajp.2019.19030256</ArticleId>
+            <ArticleId IdType="pmc">PMC7869502</ArticleId>
+            <ArticleId IdType="pubmed">31906708</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lester KJ, Eley TC. Therapygenetics: using genetic markers to predict response to psychological treatment for mood and anxiety disorders. Biol. Mood Anxiety Disord. 2013;3:4. doi: 10.1186/2045-5380-3-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/2045-5380-3-4</ArticleId>
+            <ArticleId IdType="pmc">PMC3575379</ArticleId>
+            <ArticleId IdType="pubmed">23388219</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Skene NG, et al.  Genetic identification of brain cell types underlying schizophrenia. Nat. Genet. 2018;50:825–833. doi: 10.1038/s41588-018-0129-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41588-018-0129-5</ArticleId>
+            <ArticleId IdType="pmc">PMC6477180</ArticleId>
+            <ArticleId IdType="pubmed">29785013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bryois J, et al.  Genetic identification of cell types underlying brain complex traits yields insights into the etiology of Parkinson’s disease. Nat. Genet. 2020;52:482–493. doi: 10.1038/s41588-020-0610-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41588-020-0610-9</ArticleId>
+            <ArticleId IdType="pmc">PMC7930801</ArticleId>
+            <ArticleId IdType="pubmed">32341526</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Skene NG, Grant SGN. Identification of vulnerable cell types in major brain disorders using single cell transcriptomes and expression weighted cell type enrichment. Front. Neurosci. 2016;10:16. doi: 10.3389/fnins.2016.00016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnins.2016.00016</ArticleId>
+            <ArticleId IdType="pmc">PMC4730103</ArticleId>
+            <ArticleId IdType="pubmed">26858593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zeisel A, et al.  Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq. Science. 2015;347:1138–1142. doi: 10.1126/science.aaa1934.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aaa1934</ArticleId>
+            <ArticleId IdType="pubmed">25700174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Usoskin D, et al.  Unbiased classification of sensory neuron types by large-scale single-cell RNA sequencing. Nat. Neurosci. 2015;18:145–153. doi: 10.1038/nn.3881.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.3881</ArticleId>
+            <ArticleId IdType="pubmed">25420068</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saraiva LR, et al.  Hierarchical deconstruction of mouse olfactory sensory neurons: from whole mucosa to single-cell RNA-seq. Sci. Rep. 2015;5:1–17.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4680959</ArticleId>
+            <ArticleId IdType="pubmed">26670777</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dueck H, et al.  Deep sequencing reveals cell-type-specific patterns of single-cell transcriptome variation. Genome Biol. 2015;16:1–17. doi: 10.1186/s13059-015-0683-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13059-015-0683-4</ArticleId>
+            <ArticleId IdType="pmc">PMC4480509</ArticleId>
+            <ArticleId IdType="pubmed">26056000</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Purves KL, et al.  A major role for common genetic variation in anxiety disorders. Mol. Psychiatry. 2020;25:3292–3303. doi: 10.1038/s41380-019-0559-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41380-019-0559-1</ArticleId>
+            <ArticleId IdType="pmc">PMC7237282</ArticleId>
+            <ArticleId IdType="pubmed">31748690</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Meier SM, et al.  Genetic variants associated with anxiety and stress-related disorders: a genome-wide association study and mouse-model study. JAMA Psychiatry. 2019;76:924–932. doi: 10.1001/jamapsychiatry.2019.1119.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jamapsychiatry.2019.1119</ArticleId>
+            <ArticleId IdType="pmc">PMC6537792</ArticleId>
+            <ArticleId IdType="pubmed">31116379</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buniello A, et al.  The NHGRI-EBI GWAS Catalog of published genome-wide association studies, targeted arrays and summary statistics 2019. Nucleic Acids Res. 2019;47:D1005–D1012. doi: 10.1093/nar/gky1120.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gky1120</ArticleId>
+            <ArticleId IdType="pmc">PMC6323933</ArticleId>
+            <ArticleId IdType="pubmed">30445434</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Coleman JRI, et al.  Genome-wide association study of response to cognitive–behavioural therapy in children with anxiety disorders. Br. J. Psychiatry. 2016;209:236–243. doi: 10.1192/bjp.bp.115.168229.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1192/bjp.bp.115.168229</ArticleId>
+            <ArticleId IdType="pmc">PMC5007453</ArticleId>
+            <ArticleId IdType="pubmed">26989097</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lester KJ, et al.  Genetic variation in the endocannabinoid system and response to cognitive behavior therapy for child anxiety disorders. Am. J. Med. Genet. Part B. 2017;174:144–155. doi: 10.1002/ajmg.b.32467.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/ajmg.b.32467</ArticleId>
+            <ArticleId IdType="pmc">PMC5324578</ArticleId>
+            <ArticleId IdType="pubmed">27346075</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roberts S, et al.  Genome-wide expression and response to exposure-based psychological therapy for anxiety disorders. Transl. Psychiatry. 2017;7:e1219–e1219. doi: 10.1038/tp.2017.177.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/tp.2017.177</ArticleId>
+            <ArticleId IdType="pmc">PMC5611743</ArticleId>
+            <ArticleId IdType="pubmed">28850109</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rayner C, et al.  A genome-wide association meta-analysis of prognostic outcomes following cognitive behavioural therapy in individuals with anxiety and depressive disorders. Transl. Psychiatry. 2019;9:1–13. doi: 10.1038/s41398-019-0481-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41398-019-0481-y</ArticleId>
+            <ArticleId IdType="pmc">PMC6533285</ArticleId>
+            <ArticleId IdType="pubmed">31123309</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu X, Wells AB, O’Brien DR, Nehorai A, Dougherty JD. Cell type-specific expression analysis to identify putative cellular mechanisms for neurogenetic disorders. J. Neurosci. 2014;34:1420–1431. doi: 10.1523/JNEUROSCI.4488-13.2014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.4488-13.2014</ArticleId>
+            <ArticleId IdType="pmc">PMC3898298</ArticleId>
+            <ArticleId IdType="pubmed">24453331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miller JA, Ding SL, Sunkin SM, et al.  Transcriptional landscape of the prenatal human brain[J] Nature. 2014;508:199–206. doi: 10.1038/nature13185.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature13185</ArticleId>
+            <ArticleId IdType="pmc">PMC4105188</ArticleId>
+            <ArticleId IdType="pubmed">24695229</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dougherty JD, Schmidt EF, Nakajima M, Heintz N. Analytical approaches to RNA profiling data for the identification of genes enriched in specific cells. Nucleic Acids Res. 2010;38:4218–4230. doi: 10.1093/nar/gkq130.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkq130</ArticleId>
+            <ArticleId IdType="pmc">PMC2910036</ArticleId>
+            <ArticleId IdType="pubmed">20308160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crawford L T K. Probing the neurophysiology of anxiety: Social stress alters the modulation of serotonin neurons[D]. University of Pennsylvania, 2010.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cuijpers P, Cristea IA, Karyotaki E, Reijnders M, Huibers MJH. How effective are cognitive behavior therapies for major depression and anxiety disorders? A meta-analytic update of the evidence. World Psychiatry. 2016;15:245–258. doi: 10.1002/wps.20346.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/wps.20346</ArticleId>
+            <ArticleId IdType="pmc">PMC5032489</ArticleId>
+            <ArticleId IdType="pubmed">27717254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fava M, et al.  Difference in treatment outcome in outpatients with anxious versus nonanxious depression: a STAR* D report. Am. J. Psychiatry. 2008;165:342–351. doi: 10.1176/appi.ajp.2007.06111868.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1176/appi.ajp.2007.06111868</ArticleId>
+            <ArticleId IdType="pubmed">18172020</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hettema JM, Prescott CA, Kendler KS. Genetic and environmental sources of covariation between generalized anxiety disorder and neuroticism. Am. J. Psychiatry. 2004;161:1581–1587. doi: 10.1176/appi.ajp.161.9.1581.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1176/appi.ajp.161.9.1581</ArticleId>
+            <ArticleId IdType="pubmed">15337647</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ishikawa S, Okajima I, Matsuoka H, Sakano Y. Cognitive behavioural therapy for anxiety disorders in children and adolescents: a meta‐analysis. Child Adolesc. Ment. Health. 2007;12:164–172. doi: 10.1111/j.1475-3588.2006.00433.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1475-3588.2006.00433.x</ArticleId>
+            <ArticleId IdType="pubmed">32811007</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>James, A. C., Reardon, T., Soler, A., James, G. &amp; Creswell, C. Cognitive behavioural therapy for anxiety disorders in children and adolescents. Cochrane Datab. Syst. Rev.12, 164–172 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8092480</ArticleId>
+            <ArticleId IdType="pubmed">33196111</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Porto PR, et al.  Does cognitive behavioral therapy change the brain? A systematic review of neuroimaging in anxiety disorders. J. Neuropsychiatry Clin. Neurosci. 2009;21:114–125. doi: 10.1176/jnp.2009.21.2.114.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1176/jnp.2009.21.2.114</ArticleId>
+            <ArticleId IdType="pubmed">19622682</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Levy-Gigi E, Szabó C, Kelemen O, Kéri S. Association among clinical response, hippocampal volume, and FKBP5 gene expression in individuals with posttraumatic stress disorder receiving cognitive behavioral therapy. Biol. Psychiatry. 2013;74:793–800. doi: 10.1016/j.biopsych.2013.05.017.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.biopsych.2013.05.017</ArticleId>
+            <ArticleId IdType="pubmed">23856297</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Okaty BW, Commons KG, Dymecki SM. Embracing diversity in the 5-HT neuronal system. Nat. Rev. Neurosci. 2019;20:397–424. doi: 10.1038/s41583-019-0151-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41583-019-0151-3</ArticleId>
+            <ArticleId IdType="pubmed">30948838</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nishitani N, et al.  Manipulation of dorsal raphe serotonergic neurons modulates active coping to inescapable stress and anxiety-related behaviors in mice and rats. Neuropsychopharmacology. 2019;44:721–732. doi: 10.1038/s41386-018-0254-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41386-018-0254-y</ArticleId>
+            <ArticleId IdType="pmc">PMC6372597</ArticleId>
+            <ArticleId IdType="pubmed">30377380</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cao L, et al.  Characterization of induced pluripotent stem cell-derived human serotonergic neurons. Front. Cell. Neurosci. 2017;11:131. doi: 10.3389/fncel.2017.00131.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncel.2017.00131</ArticleId>
+            <ArticleId IdType="pmc">PMC5420558</ArticleId>
+            <ArticleId IdType="pubmed">28533745</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lesch K-P, et al.  Association of anxiety-related traits with a polymorphism in the serotonin transporter gene regulatory region. Science. 1996;274:1527–1531. doi: 10.1126/science.274.5292.1527.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.274.5292.1527</ArticleId>
+            <ArticleId IdType="pubmed">8929413</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bandelow B, Michaelis S, Wedekind D. Treatment of anxiety disorders. Dialog. Clin. Neurosci. 2017;19:93. doi: 10.31887/DCNS.2017.19.2/bbandelow.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.31887/DCNS.2017.19.2/bbandelow</ArticleId>
+            <ArticleId IdType="pmc">PMC5573566</ArticleId>
+            <ArticleId IdType="pubmed">28867934</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bandelow, B. Current and novel psychopharmacological drugs for anxiety disorders. Anxiety Disorders 347–365 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32002937</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

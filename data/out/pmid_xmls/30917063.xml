@@ -1,0 +1,162 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">30917063</PMID>
+      <DateCompleted>
+        <Year>2020</Year>
+        <Month>02</Month>
+        <Day>26</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>02</Month>
+        <Day>26</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1522-1598</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>121</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>May</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of neurophysiology</Title>
+          <ISOAbbreviation>J Neurophysiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Weighting neurons by selectivity produces near-optimal population codes.</ArticleTitle>
+        <Pagination>
+          <StartPage>1924</StartPage>
+          <EndPage>1937</EndPage>
+          <MedlinePgn>1924-1937</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1152/jn.00504.2018</ELocationID>
+        <Abstract>
+          <AbstractText>Perception is produced by "reading out" the representation of a sensory stimulus contained in the activity of a population of neurons. To examine experimentally how populations code information, a common approach is to decode a linearly weighted sum of the neurons' spike counts. This approach is popular because of the biological plausibility of weighted, nonlinear integration. For neurons recorded in vivo, weights are highly variable when derived through optimization methods, but it is unclear how the variability affects decoding performance in practice. To address this, we recorded from neurons in the middle temporal area (MT) of anesthetized marmosets (<i>Callithrix jacchus</i>) viewing stimuli comprising a sheet of dots that moved coherently in 1 of 12 different directions. We found that high peak response and direction selectivity both predicted that a neuron would be weighted more highly in an optimized decoding model. Although learned weights differed markedly from weights chosen according to a priori rules based on a neuron's tuning profile, decoding performance was only marginally better for the learned weights. In the models with a priori rules, selectivity is the best predictor of weighting, and defining weights according to a neuron's preferred direction and selectivity improves decoding performance to very near the maximum level possible, as defined by the learned weights. <b>NEW &amp; NOTEWORTHY</b> We examined which aspects of a neuron's tuning account for its contribution to sensory coding. Strongly direction-selective neurons are weighted most highly by optimal decoders trained to discriminate motion direction. Models with predefined decoding weights demonstrate that this weighting scheme causally improved direction representation by a neuronal population. Optimizing decoders (using a generalized linear model or Fisher's linear discriminant) led to only marginally better performance than decoders based purely on a neuron's preferred direction and selectivity.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zavitz</LastName>
+            <ForeName>Elizabeth</ForeName>
+            <Initials>E</Initials>
+            <Identifier Source="ORCID">0000-0002-6501-2358</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Physiology, Monash University , Clayton, Victoria , Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Biomedicine Discovery Institute, Monash University , Clayton, Victoria , Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Australian Research Council Centre of Excellence for Integrative Brain Function, Monash University , Clayton, Victoria , Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Price</LastName>
+            <ForeName>Nicholas S C</ForeName>
+            <Initials>NSC</Initials>
+            <Identifier Source="ORCID">0000-0001-9404-7704</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Physiology, Monash University , Clayton, Victoria , Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Biomedicine Discovery Institute, Monash University , Clayton, Victoria , Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Australian Research Council Centre of Excellence for Integrative Brain Function, Monash University , Clayton, Victoria , Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2019</Year>
+          <Month>03</Month>
+          <Day>27</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>J Neurophysiol</MedlineTA>
+        <NlmUniqueID>0375404</NlmUniqueID>
+        <ISSNLinking>0022-3077</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002144" MajorTopicYN="N">Callithrix</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007858" MajorTopicYN="N">Learning</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008959" MajorTopicYN="Y">Models, Neurological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009039" MajorTopicYN="Y">Motion Perception</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013702" MajorTopicYN="N">Temporal Lobe</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">decoding</Keyword>
+        <Keyword MajorTopicYN="Y">direction</Keyword>
+        <Keyword MajorTopicYN="Y">marmoset MT</Keyword>
+        <Keyword MajorTopicYN="Y">population coding</Keyword>
+        <Keyword MajorTopicYN="Y">visual motion</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>3</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2020</Year>
+          <Month>2</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>3</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">30917063</ArticleId>
+        <ArticleId IdType="doi">10.1152/jn.00504.2018</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

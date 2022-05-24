@@ -1,0 +1,697 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">34155194</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>07</Month>
+        <Day>05</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2041-1723</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>12</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Jun</Month>
+              <Day>21</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nature communications</Title>
+          <ISOAbbreviation>Nat Commun</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Phenotypic manifestation of α-synuclein strains derived from Parkinson's disease and multiple system atrophy in human dopaminergic neurons.</ArticleTitle>
+        <Pagination>
+          <StartPage>3817</StartPage>
+          <MedlinePgn>3817</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">3817</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41467-021-23682-z</ELocationID>
+        <Abstract>
+          <AbstractText>α-Synuclein is critical in the pathogenesis of Parkinson's disease and related disorders, yet it remains unclear how its aggregation causes degeneration of human dopaminergic neurons. In this study, we induced α-synuclein aggregation in human iPSC-derived dopaminergic neurons using fibrils generated de novo or amplified in the presence of brain homogenates from Parkinson's disease or multiple system atrophy. Increased α-synuclein monomer levels promote seeded aggregation in a dose and time-dependent manner, which is associated with a further increase in α-synuclein gene expression. Progressive neuronal death is observed with brain-amplified fibrils and reversed by reduction of intraneuronal α-synuclein abundance. We identified 56 proteins differentially interacting with aggregates triggered by brain-amplified fibrils, including evasion of Parkinson's disease-associated deglycase DJ-1. Knockout of DJ-1 in iPSC-derived dopaminergic neurons enhance fibril-induced aggregation and neuronal death. Taken together, our results show that the toxicity of α-synuclein strains depends on aggregate burden, which is determined by monomer levels and conformation which dictates differential interactomes. Our study demonstrates how Parkinson's disease-associated genes influence the phenotypic manifestation of strains in human neurons.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Tanudjojo</LastName>
+            <ForeName>Benedict</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Shaikh</LastName>
+            <ForeName>Samiha S</ForeName>
+            <Initials>SS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fenyi</LastName>
+            <ForeName>Alexis</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>CEA, Institut François Jacob (MIRCen) and CNRS, Laboratory of Neurodegenerative Diseases, Fontenay-aux-Roses, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bousset</LastName>
+            <ForeName>Luc</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>CEA, Institut François Jacob (MIRCen) and CNRS, Laboratory of Neurodegenerative Diseases, Fontenay-aux-Roses, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Agarwal</LastName>
+            <ForeName>Devika</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>MRC Centre for Computational Biology, University of Oxford, Oxford, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Marsh</LastName>
+            <ForeName>Jade</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zois</LastName>
+            <ForeName>Christos</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Heman-Ackah</LastName>
+            <ForeName>Sabrina</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, University of Pennsylvania, Philadelphia, PA, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fischer</LastName>
+            <ForeName>Roman</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">0000-0002-9715-5951</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Target Discovery Institute, Nuffield Department of Medicine, University of Oxford, Oxford, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sims</LastName>
+            <ForeName>David</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>MRC Centre for Computational Biology, University of Oxford, Oxford, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>MRC Weatherall Institute of Molecular Medicine, University of Oxford, Oxford, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Melki</LastName>
+            <ForeName>Ronald</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>CEA, Institut François Jacob (MIRCen) and CNRS, Laboratory of Neurodegenerative Diseases, Fontenay-aux-Roses, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tofaris</LastName>
+            <ForeName>George K</ForeName>
+            <Initials>GK</Initials>
+            <Identifier Source="ORCID">0000-0002-9252-5933</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Nuffield Department of Clinical Neurosciences, University of Oxford, Oxford, UK. george.tofaris@ndcn.ox.ac.uk.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>MR/L022656/1</GrantID>
+            <Acronym>MRC_</Acronym>
+            <Agency>Medical Research Council</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <Acronym>DH_</Acronym>
+            <Agency>Department of Health</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <Acronym>WT_</Acronym>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>06</Month>
+          <Day>21</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Nat Commun</MedlineTA>
+        <NlmUniqueID>101528555</NlmUniqueID>
+        <ISSNLinking>2041-1723</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D066329">Protein Aggregates</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D051844">alpha-Synuclein</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.1.2.-</RegistryNumber>
+          <NameOfSubstance UI="C105131">PARK7 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 3.1.2.-</RegistryNumber>
+          <NameOfSubstance UI="D000071617">Protein Deglycase DJ-1</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016923" MajorTopicYN="N">Cell Death</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059290" MajorTopicYN="N">Dopaminergic Neurons</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057026" MajorTopicYN="N">Induced Pluripotent Stem Cells</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019578" MajorTopicYN="N">Multiple System Atrophy</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010300" MajorTopicYN="N">Parkinson Disease</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010641" MajorTopicYN="N">Phenotype</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066329" MajorTopicYN="N">Protein Aggregates</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D066263" MajorTopicYN="N">Protein Aggregation, Pathological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071617" MajorTopicYN="N">Protein Deglycase DJ-1</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025941" MajorTopicYN="N">Protein Interaction Mapping</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051844" MajorTopicYN="N">alpha-Synuclein</DescriptorName>
+          <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>4</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>11</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>22</Day>
+          <Hour>5</Hour>
+          <Minute>55</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34155194</ArticleId>
+        <ArticleId IdType="pmc">PMC8217249</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41467-021-23682-z</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41467-021-23682-z</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Tofaris GK, Spillantini MG. Alpha‐synuclein dysfunction in Lewy body diseases. Mov. Disord. 2005;20:S37–S44. doi: 10.1002/mds.20538.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/mds.20538</ArticleId>
+            <ArticleId IdType="pubmed">16092089</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alam P, Bousset L, Melki R, Otzen DE. α‐synuclein oligomers and fibrils: a spectrum of species, a spectrum of toxicities. J. Neurochem. 2019;150:522–534. doi: 10.1111/jnc.14808.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/jnc.14808</ArticleId>
+            <ArticleId IdType="pubmed">31254394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Woerman AL, et al.  Propagation of prions causing synucleinopathies in cultured cells. Proc. Natl Acad. Sci. USA. 2015;112:E4949–E4958. doi: 10.1073/pnas.1513426112.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1513426112</ArticleId>
+            <ArticleId IdType="pmc">PMC4568231</ArticleId>
+            <ArticleId IdType="pubmed">26286986</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peng C, et al.  Cellular milieu imparts distinct pathological α-synuclein strains in α-synucleinopathies. Nature. 2018;557:558–563. doi: 10.1038/s41586-018-0104-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-018-0104-4</ArticleId>
+            <ArticleId IdType="pmc">PMC5970994</ArticleId>
+            <ArticleId IdType="pubmed">29743672</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bousset L, et al.  Structural and functional characterization of two alpha-synuclein strains. Nat. Commun. 2013;4:1–13. doi: 10.1038/ncomms3575.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms3575</ArticleId>
+            <ArticleId IdType="pmc">PMC3826637</ArticleId>
+            <ArticleId IdType="pubmed">24108358</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peelaerts W, et al.  α-Synuclein strains cause distinct synucleinopathies after local and systemic administration. Nature. 2015;522:340–344. doi: 10.1038/nature14547.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature14547</ArticleId>
+            <ArticleId IdType="pubmed">26061766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lau A, et al.  α-Synuclein strains target distinct brain regions and cell types. Nat. Neurosci. 2020;23:21–31. doi: 10.1038/s41593-019-0541-x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41593-019-0541-x</ArticleId>
+            <ArticleId IdType="pmc">PMC6930851</ArticleId>
+            <ArticleId IdType="pubmed">31792467</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Serpell LC, Berriman J, Jakes R, Goedert M, Crowther RA. Fiber diffraction of synthetic α-synuclein filaments shows amyloid-like cross-β conformation. Proc. Natl Acad. Sci. USA. 2000;97:4897–4902. doi: 10.1073/pnas.97.9.4897.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.97.9.4897</ArticleId>
+            <ArticleId IdType="pmc">PMC18329</ArticleId>
+            <ArticleId IdType="pubmed">10781096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ross OA, et al.  Genomic investigation of α‐synuclein multiplication and parkinsonism. Ann. Neurol. 2008;63:743–750. doi: 10.1002/ana.21380.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/ana.21380</ArticleId>
+            <ArticleId IdType="pmc">PMC3850281</ArticleId>
+            <ArticleId IdType="pubmed">18571778</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Haenseler W, et al.  Excess α-synuclein compromises phagocytosis in iPSC-derived macrophages. Sci. Rep. 2017;7:1–11. doi: 10.1038/s41598-017-09362-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-017-09362-3</ArticleId>
+            <ArticleId IdType="pmc">PMC5567139</ArticleId>
+            <ArticleId IdType="pubmed">28827786</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heman-Ackah SM, et al.  Alpha-synuclein induces the unfolded protein response in Parkinson’s disease SNCA triplication iPSC-derived neurons. Hum. Mol. Genet. 2017;26:4441–4450. doi: 10.1093/hmg/ddx331.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/hmg/ddx331</ArticleId>
+            <ArticleId IdType="pmc">PMC5886237</ArticleId>
+            <ArticleId IdType="pubmed">28973645</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jonikas M, et al.  Stem cell modeling of mitochondrial parkinsonism reveals key functions of OPA1. Ann. Neurol. 2018;83:915–925. doi: 10.1002/ana.25221.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/ana.25221</ArticleId>
+            <ArticleId IdType="pmc">PMC6032926</ArticleId>
+            <ArticleId IdType="pubmed">29604226</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Welch JD, et al.  Single-cell multi-omic integration compares and contrasts features of brain cell identity. Cell. 2019;177:1873–1887. doi: 10.1016/j.cell.2019.05.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2019.05.006</ArticleId>
+            <ArticleId IdType="pmc">PMC6716797</ArticleId>
+            <ArticleId IdType="pubmed">31178122</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang X, Park J, Susztak K, Zhang NR, Li M. Bulk tissue cell type deconvolution with multi-subject single-cell expression reference. Nat. Commun. 2019;10:1–9. doi: 10.1038/s41467-018-07882-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-018-07882-8</ArticleId>
+            <ArticleId IdType="pmc">PMC6342984</ArticleId>
+            <ArticleId IdType="pubmed">30670690</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gribaudo S, et al.  Propagation of α-synuclein strains within human reconstructed neuronal network. Stem Cell Rep. 2019;12:230–244. doi: 10.1016/j.stemcr.2018.12.007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.stemcr.2018.12.007</ArticleId>
+            <ArticleId IdType="pmc">PMC6372945</ArticleId>
+            <ArticleId IdType="pubmed">30639210</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roux KJ, Kim DI, Burke B, May DG. BioID: a screen for protein‐protein interactions. Curr. Protoc. Protein Sci. 2018;91:19.23. 11–19.23. 15. doi: 10.1002/cpps.51.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cpps.51</ArticleId>
+            <ArticleId IdType="pmc">PMC6028010</ArticleId>
+            <ArticleId IdType="pubmed">29516480</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Richarme G, et al.  Guanine glycation repair by DJ-1/Park7 and its bacterial homologs. Science. 2017;357:208–211. doi: 10.1126/science.aag1095.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aag1095</ArticleId>
+            <ArticleId IdType="pubmed">28596309</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bonifati V, et al.  Mutations in the DJ-1 gene associated with autosomal recessive early-onset parkinsonism. Science. 2003;299:256–259. doi: 10.1126/science.1077209.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1077209</ArticleId>
+            <ArticleId IdType="pubmed">12446870</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taipa R, et al.  DJ-1 linked parkinsonism (PARK7) is associated with Lewy body pathology. Brain. 2016;139:1680–1687. doi: 10.1093/brain/aww080.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/brain/aww080</ArticleId>
+            <ArticleId IdType="pubmed">27085187</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vicente Miranda H, et al.  Glycation potentiates α-synuclein-associated neurodegeneration in synucleinopathies. Brain. 2017;140:1399–1419. doi: 10.1093/brain/awx056.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/brain/awx056</ArticleId>
+            <ArticleId IdType="pubmed">28398476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tofaris GK, et al.  Ubiquitin ligase Nedd4 promotes α-synuclein degradation by the endosomal–lysosomal pathway. Proc. Natl Acad. Sci. USA. 2011;108:17004–17009. doi: 10.1073/pnas.1109356108.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1109356108</ArticleId>
+            <ArticleId IdType="pmc">PMC3193191</ArticleId>
+            <ArticleId IdType="pubmed">21953697</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin C-H, et al.  Blood NfL: a biomarker for disease severity and progression in Parkinson disease. Neurology. 2019;93:e1104–e1111. doi: 10.1212/WNL.0000000000008088.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1212/WNL.0000000000008088</ArticleId>
+            <ArticleId IdType="pubmed">31420461</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Strohäker T, et al.  Structural heterogeneity of α-synuclein fibrils amplified from patient brain extracts. Nat. Commun. 2019;10:1–12. doi: 10.1038/s41467-019-13564-w.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-019-13564-w</ArticleId>
+            <ArticleId IdType="pmc">PMC6893031</ArticleId>
+            <ArticleId IdType="pubmed">31797870</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Van der Perren A, et al.  The structural differences between patient-derived α-synuclein strains dictate characteristics of Parkinson’s disease, multiple system atrophy and dementia with Lewy bodies. Acta neuropathologica. 2020;139:977–1000. doi: 10.1007/s00401-020-02157-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00401-020-02157-3</ArticleId>
+            <ArticleId IdType="pmc">PMC7244622</ArticleId>
+            <ArticleId IdType="pubmed">32356200</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lövestam S, et al.  Seeded assembly in vitro does not replicate the structures of α-synuclein filaments from multiple system atrophy. FEBS Open Bio. 2020;11:999–1013. doi: 10.1002/2211-5463.13110.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/2211-5463.13110</ArticleId>
+            <ArticleId IdType="pmc">PMC8016116</ArticleId>
+            <ArticleId IdType="pubmed">33548114</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saborio GP, Permanne B, Soto C. Sensitive detection of pathological prion protein by cyclic amplification of protein misfolding. Nature. 2001;411:810–813. doi: 10.1038/35081095.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/35081095</ArticleId>
+            <ArticleId IdType="pubmed">11459061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fenyi A, et al.  Detection of alpha-synuclein aggregates in gastrointestinal biopsies by protein misfolding cyclic amplification. Neurobiol. Dis. 2019;129:38–43. doi: 10.1016/j.nbd.2019.05.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.nbd.2019.05.002</ArticleId>
+            <ArticleId IdType="pubmed">31078683</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luna E, et al.  Differential α-synuclein expression contributes to selective vulnerability of hippocampal neuron subpopulations to fibril-induced toxicity. Acta Neuropathol. 2018;135:855–875. doi: 10.1007/s00401-018-1829-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00401-018-1829-8</ArticleId>
+            <ArticleId IdType="pmc">PMC5955788</ArticleId>
+            <ArticleId IdType="pubmed">29502200</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Henderson MX, et al.  Spread of α-synuclein pathology through the brain connectome is modulated by selective vulnerability and predicted by network analysis. Nat. Neurosci. 2019;22:1248. doi: 10.1038/s41593-019-0457-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41593-019-0457-5</ArticleId>
+            <ArticleId IdType="pmc">PMC6662627</ArticleId>
+            <ArticleId IdType="pubmed">31346295</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Courte J, et al.  The expression level of alpha-synuclein in different neuronal populations is the primary determinant of its prion-like seeding. Sci. Rep. 2020;10:1–13. doi: 10.1038/s41598-020-61757-x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-020-61757-x</ArticleId>
+            <ArticleId IdType="pmc">PMC7078319</ArticleId>
+            <ArticleId IdType="pubmed">32184415</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Desplats P, et al.  α-Synuclein sequesters Dnmt1 from the nucleus: a novel mechanism for epigenetic alterations in Lewy body diseases. J. Biol. Chem. 2011;286:9031–9037. doi: 10.1074/jbc.C110.212589.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.C110.212589</ArticleId>
+            <ArticleId IdType="pmc">PMC3059002</ArticleId>
+            <ArticleId IdType="pubmed">21296890</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miñones-Moyano E, et al.  MicroRNA profiling of Parkinson’s disease brains identifies early downregulation of miR-34b/c which modulate mitochondrial function. Hum. Mol. Genet. 2011;20:3067–3078. doi: 10.1093/hmg/ddr210.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/hmg/ddr210</ArticleId>
+            <ArticleId IdType="pubmed">21558425</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chiba‐Falek O, Lopez GJ, Nussbaum RL. Levels of alpha‐synuclein mRNA in sporadic Parkinson disease patients. Mov. Disord. 2006;21:1703–1708. doi: 10.1002/mds.21007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/mds.21007</ArticleId>
+            <ArticleId IdType="pubmed">16795004</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gründemann J, Schlaudraff F, Haeckel O, Liss B. Elevated α-synuclein mRNA levels in individual UV-laser-microdissected dopaminergic substantia nigra neurons in idiopathic Parkinson’s disease. Nucleic Acids Res. 2008;36:e38. doi: 10.1093/nar/gkn084.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkn084</ArticleId>
+            <ArticleId IdType="pmc">PMC2367701</ArticleId>
+            <ArticleId IdType="pubmed">18332041</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rockenstein E, et al.  Altered expression of the synuclein family mRNA in Lewy body and Alzheimer’s disease. Brain Res. 2001;914:48–56. doi: 10.1016/S0006-8993(01)02772-X.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0006-8993(01)02772-X</ArticleId>
+            <ArticleId IdType="pubmed">11578596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Auluck PK, Caraveo G, Lindquist S. α-Synuclein: membrane interactions and toxicity in Parkinson’s disease. Annu. Rev. Cell Dev. Biol. 2010;26:211–233. doi: 10.1146/annurev.cellbio.042308.113313.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev.cellbio.042308.113313</ArticleId>
+            <ArticleId IdType="pubmed">20500090</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Di Maio R, et al.  α-Synuclein binds to TOM20 and inhibits mitochondrial protein import in Parkinson’s disease. Sci. Transl. Med. 2016;8:342ra378–342ra378.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5016095</ArticleId>
+            <ArticleId IdType="pubmed">27280685</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ludtmann MH, et al.  α-Synuclein oligomers interact with ATP synthase and open the permeability transition pore in Parkinson’s disease. Nat. Commun. 2018;9:1–16. doi: 10.1038/s41467-018-04422-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-018-04422-2</ArticleId>
+            <ArticleId IdType="pmc">PMC5997668</ArticleId>
+            <ArticleId IdType="pubmed">29895861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zambon F, et al.  Cellular α-synuclein pathology is associated with bioenergetic dysfunction in Parkinson’s iPSC-derived dopamine neurons. Hum. Mol. Genet. 2019;28:2001–2013. doi: 10.1093/hmg/ddz038.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/hmg/ddz038</ArticleId>
+            <ArticleId IdType="pmc">PMC6548224</ArticleId>
+            <ArticleId IdType="pubmed">30753527</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shendelman, S., Jonason, A., Martinat, C., Leete, T. &amp; Abeliovich, A. DJ-1 is a redox-dependent molecular chaperone that inhibits α-synuclein aggregate formation. PLoS Biol.2, e362 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC521177</ArticleId>
+            <ArticleId IdType="pubmed">15502874</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou W, Zhu M, Wilson MA, Petsko GA, Fink AL. The oxidation state of DJ-1 regulates its chaperone activity toward α-synuclein. J. Mol. Biol. 2006;356:1036–1048. doi: 10.1016/j.jmb.2005.12.030.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jmb.2005.12.030</ArticleId>
+            <ArticleId IdType="pubmed">16403519</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zondler L, et al.  DJ-1 interactions with α-synuclein attenuate aggregation and cellular toxicity in models of Parkinson’s disease. Cell Death Dis. 2014;5:e1350–e1350. doi: 10.1038/cddis.2014.307.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/cddis.2014.307</ArticleId>
+            <ArticleId IdType="pmc">PMC4123098</ArticleId>
+            <ArticleId IdType="pubmed">25058424</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Becker C, Brobert GP, Johansson S, Jick SS, Meier CR. Diabetes in patients with idiopathic Parkinson’s disease. Diabetes Care. 2008;31:1808–1812. doi: 10.2337/dc08-0479.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2337/dc08-0479</ArticleId>
+            <ArticleId IdType="pmc">PMC2518349</ArticleId>
+            <ArticleId IdType="pubmed">18559656</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cereda E, et al.  Diabetes and risk of Parkinson’s disease: a systematic review and meta-analysis. Diabetes Care. 2011;34:2614–2623. doi: 10.2337/dc11-1584.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2337/dc11-1584</ArticleId>
+            <ArticleId IdType="pmc">PMC3220864</ArticleId>
+            <ArticleId IdType="pubmed">22110170</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Murakami K, et al.  Dietary glycemic index is inversely associated with the risk of Parkinson’s disease: a case–control study in Japan. Nutrition. 2010;26:515–521. doi: 10.1016/j.nut.2009.05.021.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.nut.2009.05.021</ArticleId>
+            <ArticleId IdType="pubmed">19628370</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guerrero-Ferreira R, et al.  Two new polymorphic structures of human full-length alpha-synuclein fibrils solved by cryo-electron microscopy. eLife. 2019;8:pii: e48907. doi: 10.7554/eLife.48907.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.48907</ArticleId>
+            <ArticleId IdType="pmc">PMC6957273</ArticleId>
+            <ArticleId IdType="pubmed">31815671</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schweighauser M, et al.  Structures of α-synuclein filaments from multiple system atrophy. Nature. 2020;585:464–469. doi: 10.1038/s41586-020-2317-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-020-2317-6</ArticleId>
+            <ArticleId IdType="pmc">PMC7116528</ArticleId>
+            <ArticleId IdType="pubmed">32461689</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tyanova S, Temu T, Cox J. The MaxQuant computational platform for mass spectrometry-based shotgun proteomics. Nat. Protoc. 2016;11:2301. doi: 10.1038/nprot.2016.136.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nprot.2016.136</ArticleId>
+            <ArticleId IdType="pubmed">27809316</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bray NL, Pimentel H, Melsted P, Pachter L. Near-optimal probabilistic RNA-seq quantification. Nat. Biotechnol. 2016;34:525–527. doi: 10.1038/nbt.3519.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nbt.3519</ArticleId>
+            <ArticleId IdType="pubmed">27043002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Love MI, Huber W, Anders S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol. 2014;15:550. doi: 10.1186/s13059-014-0550-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13059-014-0550-8</ArticleId>
+            <ArticleId IdType="pmc">PMC4302049</ArticleId>
+            <ArticleId IdType="pubmed">25516281</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sergushichev, A. A. An algorithm for fast preranked gene set enrichment analysis using cumulative statistic calculation. Preprint at https://www.biorxiv.org/content/10.1101/060012v1 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/060012v1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ghee M, Melki R, Michot N, Mallet J. PA700, the regulatory complex of the 26S proteasome, interferes with α‐synuclein assembly. FEBS J. 2005;272:4023–4033. doi: 10.1111/j.1742-4658.2005.04776.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1742-4658.2005.04776.x</ArticleId>
+            <ArticleId IdType="pubmed">16098186</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

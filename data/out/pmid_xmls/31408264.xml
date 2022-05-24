@@ -1,0 +1,1117 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">31408264</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>09</Month>
+        <Day>13</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>12</Month>
+        <Day>11</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1098-1063</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>30</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Hippocampus</Title>
+          <ISOAbbreviation>Hippocampus</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Navigating with grid and place cells in cluttered environments.</ArticleTitle>
+        <Pagination>
+          <StartPage>220</StartPage>
+          <EndPage>232</EndPage>
+          <MedlinePgn>220-232</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/hipo.23147</ELocationID>
+        <Abstract>
+          <AbstractText>Hippocampal formation contains several classes of neurons thought to be involved in navigational processes, in particular place cells and grid cells. Place cells have been associated with a topological strategy for navigation, while grid cells have been suggested to support metric vector navigation. Grid cell-based vector navigation can support novel shortcuts across unexplored territory by providing the direction toward the goal. However, this strategy is insufficient in natural environments cluttered with obstacles. Here, we show how navigation in complex environments can be supported by integrating a grid cell-based vector navigation mechanism with local obstacle avoidance mediated by border cells and place cells whose interconnections form an experience-dependent topological graph of the environment. When vector navigation and object avoidance fail (i.e., the agent gets stuck), place cell replay events set closer subgoals for vector navigation. We demonstrate that this combined navigation model can successfully traverse environments cluttered by obstacles and is particularly useful where the environment is underexplored. Finally, we show that the model enables the simulated agent to successfully navigate experimental maze environments from the animal literature on cognitive mapping. The proposed model is sufficiently flexible to support navigation in different environments, and may inform the design of experiments to relate different navigational abilities to place, grid, and border cell firing.</AbstractText>
+          <CopyrightInformation>© 2019 The Authors. Hippocampus published by Wiley Periodicals, Inc.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Edvardsen</LastName>
+            <ForeName>Vegard</ForeName>
+            <Initials>V</Initials>
+            <Identifier Source="ORCID">0000-0002-3357-9544</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Computer Science, NTNU-Norwegian University of Science and Technology, Trondheim, Norway.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bicanski</LastName>
+            <ForeName>Andrej</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Cognitive Neuroscience, University College London, Alexandra House, 17 Queen Square, WC1N 3AZ London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Burgess</LastName>
+            <ForeName>Neil</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Cognitive Neuroscience, University College London, Alexandra House, 17 Queen Square, WC1N 3AZ London, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <Acronym>WT_</Acronym>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+          <Grant>
+            <GrantID>202805/Z/16/Z</GrantID>
+            <Acronym>WT_</Acronym>
+            <Agency>Wellcome Trust</Agency>
+            <Country>United Kingdom</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2019</Year>
+          <Month>08</Month>
+          <Day>13</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Hippocampus</MedlineTA>
+        <NlmUniqueID>9108167</NlmUniqueID>
+        <ISSNLinking>1050-9631</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018728" MajorTopicYN="N">Entorhinal Cortex</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004777" MajorTopicYN="N">Environment</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071038" MajorTopicYN="N">Grid Cells</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006624" MajorTopicYN="N">Hippocampus</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008959" MajorTopicYN="Y">Models, Neurological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071037" MajorTopicYN="N">Place Cells</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D065854" MajorTopicYN="N">Spatial Navigation</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">entorhinal cortex</Keyword>
+        <Keyword MajorTopicYN="Y">grid cells</Keyword>
+        <Keyword MajorTopicYN="Y">hippocampus</Keyword>
+        <Keyword MajorTopicYN="Y">place cells</Keyword>
+        <Keyword MajorTopicYN="Y">spatial navigation</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no potential conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2019</Year>
+          <Month>2</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2019</Year>
+          <Month>6</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2019</Year>
+          <Month>7</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>8</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>9</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>8</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31408264</ArticleId>
+        <ArticleId IdType="pmc">PMC8641373</ArticleId>
+        <ArticleId IdType="doi">10.1002/hipo.23147</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>
+
+Alvernhe, A.
+, 
+Save, E.
+, &amp; 
+Poucet, B.
+ (2011). Local remapping of place cell firing in the Tolman detour task. European Journal of Neuroscience, 33(9), 1696–1705.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21395871</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Barry, C.
+, 
+Lever, C.
+, 
+Hayman, R.
+, 
+Hartley, T.
+, 
+Burton, S.
+, 
+O'Keefe, J.
+, … 
+Burgess, N.
+ (2006). The boundary vector cell model of place cell firing and spatial memory. Reviews in the Neurosciences, 17(1–2), 71–98.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2677716</ArticleId>
+            <ArticleId IdType="pubmed">16703944</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Bellmund, J. L.
+, 
+Deuker, L.
+, 
+Schröder, T. N.
+, &amp; 
+Doeller, C. F.
+ (2016). Grid‐cell representations in mental simulation. eLife, 5, e17089.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5005038</ArticleId>
+            <ArticleId IdType="pubmed">27572056</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Bennett, A. T.
+ (1996). Do animals have cognitive maps?
+Journal of Experimental Biology, 199(1), 219–224.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8576693</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Bicanski, A.
+, &amp; 
+Burgess, N.
+ (2018). A neural‐level model of spatial memory and imagery. eLife, 7, e33752.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6122954</ArticleId>
+            <ArticleId IdType="pubmed">30176988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Blum, K. I.
+, &amp; 
+Abbott, L. F.
+ (1996). A model of spatial map formation in the hippocampus of the rat. Neural Computation, 8(1), 85–93.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8564805</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Burak, Y.
+, &amp; 
+Fiete, I. R.
+ (2009). Accurate path integration in continuous attractor network models of grid cells. PLoS Computational Biology, 5(2), e1000291.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2632741</ArticleId>
+            <ArticleId IdType="pubmed">19229307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Burgess, N.
+, 
+Becker, S.
+, 
+King, J. A.
+, &amp; 
+O'Keefe, J.
+ (2001). Memory for events and their spatial context: Models and experiments. Philosophical Transactions of the Royal Society of London B: Biological Sciences, 356(1413), 1493–1503.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1088531</ArticleId>
+            <ArticleId IdType="pubmed">11571039</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Burgess, N.
+, 
+Recce, M.
+, &amp; 
+O'Keefe, J.
+ (1994). A model of hippocampal function. Neural Networks, 7(6–7), 1065–1081.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Bush, D.
+, 
+Barry, C.
+, &amp; 
+Burgess, N.
+ (2014). What do grid cells contribute to place cell firing?
+Trends in Neurosciences, 37(3), 136–145.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3945817</ArticleId>
+            <ArticleId IdType="pubmed">24485517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Bush, D.
+, 
+Barry, C.
+, 
+Manson, D.
+, &amp; 
+Burgess, N.
+ (2015). Using grid cells for navigation. Neuron, 87(3), 507–520.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4534384</ArticleId>
+            <ArticleId IdType="pubmed">26247860</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Byrne, P.
+, 
+Becker, S.
+, &amp; 
+Burgess, N.
+ (2007). Remembering the past and imagining the future: A neural model of spatial memory and imagery. Psychological Review, 114(2), 340–375.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2678675</ArticleId>
+            <ArticleId IdType="pubmed">17500630</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Carpenter, F.
+, 
+Manson, D.
+, 
+Jeffery, K.
+, 
+Burgess, N.
+, &amp; 
+Barry, C.
+ (2015). Grid cells form a global representation of connected environments. Current Biology, 25(9), 1176–1182.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4425461</ArticleId>
+            <ArticleId IdType="pubmed">25913404</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Carr, M. F.
+, 
+Jadhav, S. P.
+, &amp; 
+Frank, L. M.
+ (2011). Hippocampal replay in the awake state: A potential substrate for memory consolidation and retrieval. Nature Neuroscience, 14(2), 147–153.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3215304</ArticleId>
+            <ArticleId IdType="pubmed">21270783</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Chavarriaga, R.
+, 
+Strösslin, T.
+, 
+Sheynikhovich, D.
+, &amp; 
+Gerstner, W.
+ (2005). A computational model of parallel navigation systems in rodents. Neuroinformatics, 3(3), 223–241.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16077160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Chersi, F.
+, &amp; 
+Burgess, N.
+ (2015). The cognitive architecture of spatial navigation: Hippocampal and striatal contributions. Neuron, 88(1), 64–77.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26447573</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Davidson, T. J.
+, 
+Kloosterman, F.
+, &amp; 
+Wilson, M. A.
+ (2009). Hippocampal replay of extended experience. Neuron, 63(4), 497–507.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4364032</ArticleId>
+            <ArticleId IdType="pubmed">19709631</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Dayan, P.
+ (1993). Improving generalization for temporal difference learning: The successor representation. Neural Computation, 5(4), 613–624.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Diba, K.
+, &amp; 
+Buzsáki, G.
+ (2007). Forward and reverse hippocampal place‐cell sequences during ripples. Nature Neuroscience, 10(10), 1241–1242.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2039924</ArticleId>
+            <ArticleId IdType="pubmed">17828259</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Dollé, L.
+, 
+Sheynikhovich, D.
+, 
+Girard, B.
+, 
+Chavarriaga, R.
+, &amp; 
+Guillot, A.
+ (2010). Path planning versus cue responding: A bio‐inspired model of switching between navigation strategies. Biological Cybernetics, 103(4), 299–317.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20617443</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Dordek, Y.
+, 
+Soudry, D.
+, 
+Meir, R.
+, &amp; 
+Derdikman, D.
+ (2016). Extracting grid cell characteristics from place cell inputs using non‐negative principal component analysis. eLife, 5, e10094.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4841785</ArticleId>
+            <ArticleId IdType="pubmed">26952211</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Edvardsen, V.
+ (2015). A passive mechanism for goal‐directed navigation using grid cells. Proceedings of the European Conference on Artificial Life 2015, 191–198. MIT Press, York, UK.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Edvardsen, V.
+ (2017). Long‐range navigation by path integration and decoding of grid cells in a neural network. International Joint Conference on Neural Networks (IJCNN) 2017, 4348–4355. IEEE, Anchorage, Alaska, USA.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Edvardsen, V.
+ (2018). Navigating with distorted grid cells. Artificial Life Conference Proceedings 260–267. MIT Press, Tokyo, Japan.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Erdem, U. M.
+, &amp; 
+Hasselmo, M.
+ (2012). A goal‐directed spatial navigation model using forward trajectory planning based on grid cells. European Journal of Neuroscience, 35(6), 916–931.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3564559</ArticleId>
+            <ArticleId IdType="pubmed">22393918</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Erdem, U. M.
+, &amp; 
+Hasselmo, M. E.
+ (2014). A biologically inspired hierarchical goal directed navigation model. Journal of Physiology, Paris, 108(1), 28–37.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3949664</ArticleId>
+            <ArticleId IdType="pubmed">23891644</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Etienne, A. S.
+, 
+Maurer, R.
+, &amp; 
+Séguinot, V.
+ (1996). Path integration in mammals and its interaction with visual landmarks. Journal of Experimental Biology, 199(1), 201–209.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8576691</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Fiete, I. R.
+, 
+Burak, Y.
+, &amp; 
+Brookings, T.
+ (2008). What grid cells convey about rat location. Journal of Neuroscience, 28(27), 6858–6871.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6670990</ArticleId>
+            <ArticleId IdType="pubmed">18596161</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Foster, D. J.
+, &amp; 
+Wilson, M. A.
+ (2006). Reverse replay of behavioural sequences in hippocampal place cells during the awake state. Nature, 440(7084), 680–683.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16474382</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Gentry, G.
+, 
+Brown, W. L.
+, &amp; 
+Kaplan, S. J.
+ (1947). An experimental analysis of the spatial location hypothesis in learning. Journal of Comparative and Physiological Psychology, 40(5), 309–322.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20267823</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Gershman, S. J.
+ (2018). The successor representation: Its computational logic and neural substrates. Journal of Neuroscience, 38(33), 7193–7200.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6096039</ArticleId>
+            <ArticleId IdType="pubmed">30006364</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Gillner, S.
+, &amp; 
+Mallot, H. A.
+ (1998). Navigation and acquisition of spatial knowledge in a virtual maze. Journal of Cognitive Neuroscience, 10(4), 445–463.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9712675</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Girardeau, G.
+, 
+Benchenane, K.
+, 
+Wiener, S. I.
+, 
+Buzsáki, G.
+, &amp; 
+Zugaro, M. B.
+ (2009). Selective suppression of hippocampal ripples impairs spatial memory. Nature Neuroscience, 12(10), 1222–1223.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19749750</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Grieves, R. M.
+, &amp; 
+Dudchenko, P. A.
+ (2013). Cognitive maps and spatial inference in animals: Rats fail to take a novel shortcut, but can take a previously experienced one. Learning and Motivation, 44(2), 81–92.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Hafting, T.
+, 
+Fyhn, M.
+, 
+Bonnevie, T.
+, 
+Moser, M. B.
+, &amp; 
+Moser, E. I.
+ (2008). Hippocampus‐independent phase precession in entorhinal grid cells. Nature, 453(7199), 1248–1252.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18480753</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Hafting, T.
+, 
+Fyhn, M.
+, 
+Molden, S.
+, 
+Moser, M. B.
+, &amp; 
+Moser, E. I.
+ (2005). Microstructure of a spatial map in the entorhinal cortex. Nature, 436(7052), 801–806.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15965463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Hardcastle, K.
+, 
+Ganguli, S.
+, &amp; 
+Giocomo, L. M.
+ (2015). Environmental boundaries as an error correction mechanism for grid cells. Neuron, 86(3), 827–839.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25892299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Horner, A. J.
+, 
+Bisby, J. A.
+, 
+Zotow, E.
+, 
+Bush, D.
+, &amp; 
+Burgess, N.
+ (2016). Grid‐like processing of imagined navigation. Current Biology, 26(6), 842–847.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4819517</ArticleId>
+            <ArticleId IdType="pubmed">26972318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Ji, D.
+, &amp; 
+Wilson, M. A.
+ (2007). Coordinated memory replay in the visual cortex and hippocampus during sleep. Nature Neuroscience, 10(1), 100–107.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17173043</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Karlsson, M. P.
+, &amp; 
+Frank, L. M.
+ (2009). Awake replay of remote experiences in the hippocampus. Nature Neuroscience, 12(7), 913–918.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2750914</ArticleId>
+            <ArticleId IdType="pubmed">19525943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Kropff, E.
+, &amp; 
+Treves, A.
+ (2008). The emergence of grid cells: Intelligent design or just adaptation?
+Hippocampus, 18(12), 1256–1269.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19021261</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Kubie, J. L.
+, &amp; 
+Fenton, A. A.
+ (2009). Heading‐vector navigation based on head‐direction cells and path integration. Hippocampus, 19(5), 456–479.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19072761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Kubie, J. L.
+, &amp; 
+Fenton, A. A.
+ (2012). Linear look‐ahead in conjunctive cells: An entorhinal mechanism for vector‐based navigation. Frontiers in Neural Circuits, 6, 20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3337481</ArticleId>
+            <ArticleId IdType="pubmed">22557948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Lever, C.
+, 
+Burton, S.
+, 
+Jeewajee, A.
+, 
+O'Keefe, J.
+, &amp; 
+Burgess, N.
+ (2009). Boundary vector cells in the subiculum of the hippocampal formation. Journal of Neuroscience, 29(31), 9771–9777.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2736390</ArticleId>
+            <ArticleId IdType="pubmed">19657030</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Martinet, L. E.
+, 
+Sheynikhovich, D.
+, 
+Benchenane, K.
+, &amp; 
+Arleo, A.
+ (2011). Spatial learning and action planning in a prefrontal cortical network model. PLoS Computational Biology, 7(5), e1002045.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3098199</ArticleId>
+            <ArticleId IdType="pubmed">21625569</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Mataric, M. J.
+ (1991). Navigating with a rat brain: a neurobiologically inspired model. From Animals to Animats; Proceedings of the First International Conference on Simulation of Adaptive Behavior. MIT Press, Cambridge, MA.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+
+McNaughton, B. L.
+, 
+Battaglia, F. P.
+, 
+Jensen, O.
+, 
+Moser, E. I.
+, &amp; 
+Moser, M. B.
+ (2006). Path integration and the neural basis of the 'cognitive map'. Nature Reviews Neuroscience, 7(8), 663–678.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16858394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Mittelstaedt, M. L.
+, &amp; 
+Mittelstaedt, H.
+ (1980). Homing by path integration in a mammal. Naturwissenschaften, 67(11), 566–567.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Mulas, M.
+, 
+Waniek, N.
+, &amp; 
+Conradt, J.
+ (2016). Hebbian plasticity realigns grid cell activity with external sensory cues in continuous attractor models. Frontiers in Computational Neuroscience, 10, 13.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4756165</ArticleId>
+            <ArticleId IdType="pubmed">26924979</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Muller, R. U.
+, 
+Stead, M.
+, &amp; 
+Pach, J.
+ (1996). The hippocampus as a cognitive graph. The Journal of General Physiology, 107(6), 663–694.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2219396</ArticleId>
+            <ArticleId IdType="pubmed">8783070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+O'Keefe, J.
+, &amp; 
+Dostrovsky, J.
+ (1971). The hippocampus as a spatial map: Preliminary evidence from unit activity in the freely‐moving rat. Brain Research., 34, 171–175.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">5124915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+O'Keefe, J.
+, &amp; 
+Nadel, L.
+ (1978). The hippocampus as a cognitive map. Oxford: Clarendon Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Ólafsdóttir, H. F.
+, 
+Bush, D.
+, &amp; 
+Barry, C.
+ (2018). The role of hippocampal replay in memory and planning. Current Biology, 28(1), R37–R50.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5847173</ArticleId>
+            <ArticleId IdType="pubmed">29316421</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Ólafsdóttir, H. F.
+, 
+Carpenter, F.
+, &amp; 
+Barry, C.
+ (2016). Coordinated grid and place cell replay during rest. Nature Neuroscience, 19(6), 792–794.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27089021</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+O'Neill, J.
+, 
+Boccara, C. N.
+, 
+Stella, F.
+, 
+Schoenenberger, P.
+, &amp; 
+Csicsvari, J.
+ (2017). Superficial layers of the medial entorhinal cortex replay independently of the hippocampus. Science, 355(6321), 184–188.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28082591</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Pfeiffer, B. E.
+, &amp; 
+Foster, D. J.
+ (2013). Hippocampal place‐cell sequences depict future paths to remembered goals. Nature, 497(7447), 74–79.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3990408</ArticleId>
+            <ArticleId IdType="pubmed">23594744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Pouget, A.
+, &amp; 
+Sejnowski, T. J.
+ (1997). Spatial transformations in the parietal cortex using basis functions. Journal of Cognitive Neuroscience, 9(2), 222–237.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23962013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Redish, A. D.
+, &amp; 
+Touretzky, D. S.
+ (1998). The role of the hippocampus in solving the Morris water maze. Neural Computation, 10(1), 73–111.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9501505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Rolls, E. T.
+, 
+Stringer, S. M.
+, &amp; 
+Elliot, T.
+ (2006). Entorhinal cortex grid cells can map to hippocampal place cells by competitive learning. Network: Computation in Neural Systems, 17(4), 447–465.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17162463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Sarel, A.
+, 
+Finkelstein, A.
+, 
+Las, L.
+, &amp; 
+Ulanovsky, N.
+ (2017). Vectorial representation of spatial goals in the hippocampus of bats. Science, 355(6321), 176–180.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28082589</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Snyder, L. H.
+, 
+Grieve, K. L.
+, 
+Brotchie, P.
+, &amp; 
+Andersen, R. A.
+ (1998). Separate body‐and world‐referenced representations of visual space in parietal cortex. Nature, 394(6696), 887–891.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9732870</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Solstad, T.
+, 
+Boccara, C. N.
+, 
+Kropff, E.
+, 
+Moser, M. B.
+, &amp; 
+Moser, E. I.
+ (2008). Representation of geometric borders in the entorhinal cortex. Science, 322(5909), 1865–1868.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19095945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Solstad, T.
+, 
+Moser, E. I.
+, &amp; 
+Einevoll, G. T.
+ (2006). From grid cells to place cells: A mathematical model. Hippocampus, 16(12), 1026–1031.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17094145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Stachenfeld, K. L.
+, 
+Botvinick, M. M.
+, &amp; 
+Gershman, S. J.
+ (2017). The hippocampus as a predictive map. Nature Neuroscience, 20(11), 1643–1653.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28967910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Stemmler, M.
+, 
+Mathis, A.
+, &amp; 
+Herz, A. V.
+ (2015). Connecting multiple spatial scales to decode the population activity of grid cells. Science Advances, 1(11), e1500816.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4730856</ArticleId>
+            <ArticleId IdType="pubmed">26824061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Taube, J. S.
+, 
+Muller, R. U.
+, &amp; 
+Ranck, J. B.
+ (1990a). Head‐direction cells recorded from the postsubiculum in freely moving rats. I. Description and quantitative analysis. Journal of Neuroscience, 10(2), 420–435.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6570151</ArticleId>
+            <ArticleId IdType="pubmed">2303851</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Taube, J. S.
+, 
+Muller, R. U.
+, &amp; 
+Ranck, J. B.
+ (1990b). Head‐direction cells recorded from the postsubiculum in freely moving rats. II. Effects of environmental manipulations. Journal of Neuroscience, 10(2), 436–447.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6570161</ArticleId>
+            <ArticleId IdType="pubmed">2303852</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Tolman, E. C.
+, &amp; 
+Honzik, C. H.
+ (1930). “Insight” in rats. University of California Publications in Psychology, 4(14), 215–232.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Tolman, E. C.
+, 
+Ritchie, B. F.
+, &amp; 
+Kalish, D.
+ (1946). Studies in spatial learning. I. Orientation and the short‐cut. Journal of Experimental Psychology, 36(1), 13–24.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21015338</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Trullier, O.
+, 
+Wiener, S. I.
+, 
+Berthoz, A.
+, &amp; 
+Meyer, J. A.
+ (1997). Biologically based artificial navigation systems: Review and prospects. Progress in Neurobiology, 51(5), 483–544.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9153072</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+van Strien, N. M.
+, 
+Cappaert, N. L. M.
+, &amp; 
+Witter, M. P.
+ (2009). The anatomy of memory: An interactive overview of the parahippocampal–hippocampal network. Nature Reviews Neuroscience, 10(4), 272–282.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19300446</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+
+Wilson, M. A.
+, &amp; 
+McNaughton, B. L.
+ (1994). Reactivation of hippocampal ensemble memories during sleep. Science, 265(5172), 676–679.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8036517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

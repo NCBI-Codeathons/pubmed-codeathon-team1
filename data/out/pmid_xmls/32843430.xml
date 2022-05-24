@@ -1,0 +1,1012 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">32843430</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>07</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>07</Month>
+        <Day>06</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2373-2873</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>6</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Cold Spring Harbor molecular case studies</Title>
+          <ISOAbbreviation>Cold Spring Harb Mol Case Stud</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Functional genomic analysis identifies drug targetable pathways in invasive and metastatic cutaneous squamous cell carcinoma.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">a005439</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1101/mcs.a005439</ELocationID>
+        <Abstract>
+          <AbstractText>Although cutaneous squamous cell carcinoma (cSCC) is treatable in the majority of cases, deadly invasive and metastatic cases do occur. To date there are neither reliable predictive biomarkers of disease progression nor FDA-approved targeted therapies as standard of care. To address these issues, we screened patient-derived primary cultured cells from invasive/metastatic cSCC with 107 small-molecule inhibitors. In-house bioinformatics tools were used to cross-analyze drug responses and DNA mutations in tumors detected by whole-exome sequencing (WES). Aberrations in molecular pathways with evidence of potential drug targets were identified, including the Eph-ephrin and neutrophil degranulation signaling pathways. Using a screening panel of siRNAs, we identified EPHA6 and EPHA7 as targets within the Eph-ephrin pathway responsible for mitigating decreased cell viability. These studies form a plausible foundation for detecting biomarkers of high-risk progressive disease applicable in dermatopathology and for patient-specific therapeutic options for invasive/metastatic cSCC.</AbstractText>
+          <CopyrightInformation>© 2020 Anderson et al.; Published by Cold Spring Harbor Laboratory Press.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Anderson</LastName>
+            <ForeName>Ashley N</ForeName>
+            <Initials>AN</Initials>
+            <Identifier Source="ORCID">0000-0002-7522-846X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Dermatology, Oregon Health and Science University, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>McClanahan</LastName>
+            <ForeName>Danielle</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Dermatology, Oregon Health and Science University, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jacobs</LastName>
+            <ForeName>James</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Bioinformatics and Computational Biology, Department of Medical Informatics and Clinical Epidemiology, Oregon Health and Science University Knight Cancer Institute, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jeng</LastName>
+            <ForeName>Sophia</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Bioinformatics and Computational Biology, Department of Medical Informatics and Clinical Epidemiology, Oregon Health and Science University Knight Cancer Institute, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Oregon Clinical and Translational Research Institute, Oregon Health and Science University, Portland, Oregon 97339, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vigoda</LastName>
+            <ForeName>Myles</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Dermatology, Oregon Health and Science University, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Blucher</LastName>
+            <ForeName>Aurora S</ForeName>
+            <Initials>AS</Initials>
+            <Identifier Source="ORCID">0000-0001-6460-010X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell, Developmental and Cancer Biology, Oregon Health and Science University Knight Cancer Institute, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zheng</LastName>
+            <ForeName>Christina</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Bioinformatics and Computational Biology, Department of Medical Informatics and Clinical Epidemiology, Oregon Health and Science University Knight Cancer Institute, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yoo</LastName>
+            <ForeName>Yeon Jung</ForeName>
+            <Initials>YJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Dermatology, Oregon Health and Science University, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hale</LastName>
+            <ForeName>Carolyn</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Dermatology, Oregon Health and Science University, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ouyang</LastName>
+            <ForeName>Xiaoming</ForeName>
+            <Initials>X</Initials>
+            <Identifier Source="ORCID">0000-0002-6632-3190</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Dermatology, Oregon Health and Science University, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Clayburgh</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, Oregon Health &amp; Science University, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Operative Care Division, Veterans Affairs Medical Center, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Andersen</LastName>
+            <ForeName>Peter</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Otolaryngology, Oregon Health &amp; Science University, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tyner</LastName>
+            <ForeName>Jeffrey W</ForeName>
+            <Initials>JW</Initials>
+            <Identifier Source="ORCID">0000-0002-2133-0960</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell, Developmental and Cancer Biology, Oregon Health and Science University Knight Cancer Institute, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Hematology and Medical Oncology, Oregon Health and Science University Knight Cancer Institute, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bar</LastName>
+            <ForeName>Anna</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Dermatology, Oregon Health and Science University, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lucero</LastName>
+            <ForeName>Olivia M</ForeName>
+            <Initials>OM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Dermatology, Oregon Health and Science University, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Leitenberger</LastName>
+            <ForeName>Justin J</ForeName>
+            <Initials>JJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Dermatology, Oregon Health and Science University, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McWeeney</LastName>
+            <ForeName>Shannon K</ForeName>
+            <Initials>SK</Initials>
+            <Identifier Source="ORCID">0000-0001-8333-6607</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Bioinformatics and Computational Biology, Department of Medical Informatics and Clinical Epidemiology, Oregon Health and Science University Knight Cancer Institute, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kulesz-Martin</LastName>
+            <ForeName>Molly</ForeName>
+            <Initials>M</Initials>
+            <Identifier Source="ORCID">0000-0001-7642-4051</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Dermatology, Oregon Health and Science University, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Cell, Developmental and Cancer Biology, Oregon Health and Science University Knight Cancer Institute, Portland, Oregon 97239, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>P30 CA069533</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 CA192405</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>U01 CA217862</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>U54 CA224019</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>T32 CA106195</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 CA108947</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D002363">Case Reports</PublicationType>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>08</Month>
+          <Day>25</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Cold Spring Harb Mol Case Stud</MedlineTA>
+        <NlmUniqueID>101660017</NlmUniqueID>
+        <ISSNLinking>2373-2873</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D054852">Small Molecule Libraries</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+          <NameOfSubstance UI="D036124">Receptor, EphA6</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+          <NameOfSubstance UI="D036141">Receptor, EphA7</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002294" MajorTopicYN="N">Carcinoma, Squamous Cell</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002470" MajorTopicYN="N">Cell Survival</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018450" MajorTopicYN="N">Disease Progression</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015870" MajorTopicYN="N">Gene Expression</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015972" MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D023281" MajorTopicYN="N">Genomics</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D036124" MajorTopicYN="N">Receptor, EphA6</DescriptorName>
+          <QualifierName UI="Q000037" MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D036141" MajorTopicYN="N">Receptor, EphA7</DescriptorName>
+          <QualifierName UI="Q000037" MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012878" MajorTopicYN="N">Skin Neoplasms</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D054852" MajorTopicYN="N">Small Molecule Libraries</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000073359" MajorTopicYN="N">Whole Exome Sequencing</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">squamous cell carcinoma of the skin</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>4</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>7</Month>
+          <Day>9</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>8</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>8</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32843430</ArticleId>
+        <ArticleId IdType="pmc">PMC7476409</ArticleId>
+        <ArticleId IdType="doi">10.1101/mcs.a005439</ArticleId>
+        <ArticleId IdType="pii">mcs.a005439</ArticleId>
+        <ArticleId IdType="medline">MCS005439And</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Alam M, Ratner D. 2001. 
+Cutaneous squamous-cell carcinoma. N Engl J Med
+344: 975–983. 10.1056/NEJM200103293441306</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJM200103293441306</ArticleId>
+            <ArticleId IdType="pubmed">11274625</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bauman JE, Eaton KD, Martins RG. 2007. 
+Treatment of recurrent squamous cell carcinoma of the skin with cetuximab. Arch Dermatol
+143: 889–892. 10.1001/archderm.143.7.889</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/archderm.143.7.889</ArticleId>
+            <ArticleId IdType="pubmed">17638733</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bid HK, Roberts RD, Manchanda PK, Houghton PJ. 2013. 
+RAC1: an emerging therapeutic option for targeting cancer angiogenesis and metastasis. Mol Cancer Ther
+12: 1925–1934. 10.1158/1535-7163.MCT-13-0164</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1535-7163.MCT-13-0164</ArticleId>
+            <ArticleId IdType="pmc">PMC3823055</ArticleId>
+            <ArticleId IdType="pubmed">24072884</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blasco MA, Svider PF, Raza SN, Jacobs JR, Folbe AJ, Saraf P, Eloy JA, Baredes S, Fribley AM. 2017. 
+Systemic therapy for head and neck squamous cell carcinoma: historical perspectives and recent breakthroughs. Laryngoscope
+127: 2565–2569. 10.1002/lary.26629</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/lary.26629</ArticleId>
+            <ArticleId IdType="pubmed">28581126</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blucher AS, Choonoo G, Kulesz-Martin M, Wu G, McWeeney SK. 2017. 
+Evidence-based precision oncology with the cancer targetome. Trends Pharmacol Sci
+38: 1085–1099. 10.1016/j.tips.2017.08.006</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tips.2017.08.006</ArticleId>
+            <ArticleId IdType="pmc">PMC5759325</ArticleId>
+            <ArticleId IdType="pubmed">28964549</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bottomly D, McWeeney SK, Wilmot B. 2016. 
+HitWalker2: visual analytics for precision medicine and beyond. Bioinformatics
+32: 1253–1255. 10.1093/bioinformatics/btv739</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btv739</ArticleId>
+            <ArticleId IdType="pmc">PMC4824131</ArticleId>
+            <ArticleId IdType="pubmed">26708334</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chitsazzadeh V, Coarfa C, Drummond JA, Nguyen T, Joseph A, Chilukuri S, Charpiot E, Adelmann CH, Ching G, Nguyen TN, et al.
+2016. 
+Cross-species identification of genomic drivers of squamous cell carcinoma development across preneoplastic intermediates. Nat Commun
+7: 12601
+10.1038/ncomms12601</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms12601</ArticleId>
+            <ArticleId IdType="pmc">PMC5013636</ArticleId>
+            <ArticleId IdType="pubmed">27574101</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cibulskis K, Lawrence MS, Carter SL, Sivachenko A, Jaffe D, Sougnez C, Gabriel S, Meyerson M, Lander ES, Getz G. 2013. 
+Sensitive detection of somatic point mutations in impure and heterogeneous cancer samples. Nat Biotechnol
+31: 213–219. 10.1038/nbt.2514</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nbt.2514</ArticleId>
+            <ArticleId IdType="pmc">PMC3833702</ArticleId>
+            <ArticleId IdType="pubmed">23396013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cui Q. 2010. 
+A network of cancer genes with co-occurring and anti-co-occurring mutations. PLoS ONE
+5: e13180
+10.1371/journal.pone.0013180</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0013180</ArticleId>
+            <ArticleId IdType="pmc">PMC2949398</ArticleId>
+            <ArticleId IdType="pubmed">20957180</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>DePristo MA, Banks E, Poplin R, Garimella KV, Maguire JR, Hartl C, Philippakis AA, del Angel G, Rivas MA, Hanna M, et al.
+2011. 
+A framework for variation discovery and genotyping using next-generation DNA sequencing data. Nat Genet
+43: 491–498. 10.1038/ng.806</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ng.806</ArticleId>
+            <ArticleId IdType="pmc">PMC3083463</ArticleId>
+            <ArticleId IdType="pubmed">21478889</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dotto GP, Rustgi AK. 2016. 
+Squamous cell cancers: a unified perspective on biology and genetics. Cancer Cell
+29: 622–637. 10.1016/j.ccell.2016.04.004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ccell.2016.04.004</ArticleId>
+            <ArticleId IdType="pmc">PMC4870309</ArticleId>
+            <ArticleId IdType="pubmed">27165741</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dusingize JC, Olsen CM, Pandeya NP, Subramaniam P, Thompson BS, Neale RE, Green AC, Whiteman DC, Study QS. 2017. 
+Cigarette smoking and the risks of basal cell carcinoma and squamous cell carcinoma. J Invest Dermatol
+137: 1700–1708. 10.1016/j.jid.2017.03.027</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jid.2017.03.027</ArticleId>
+            <ArticleId IdType="pubmed">28414022</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fabregat A, Sidiropoulos K, Garapati P, Gillespie M, Hausmann K, Haw R, Jassal B, Jupe S, Korninger F, McKay S, et al.
+2016. 
+The Reactome Pathway Knowledgebase. Nucleic Acids Res
+44: D481–D487. 10.1093/nar/gkv1351</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkv1351</ArticleId>
+            <ArticleId IdType="pmc">PMC4702931</ArticleId>
+            <ArticleId IdType="pubmed">26656494</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ferris RL. 2015. 
+Immunology and immunotherapy of head and neck cancer. J Clin Oncol
+33: 3293–3304. 10.1200/JCO.2015.61.1509</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1200/JCO.2015.61.1509</ArticleId>
+            <ArticleId IdType="pmc">PMC4586169</ArticleId>
+            <ArticleId IdType="pubmed">26351330</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fisher J, Zeitouni N, Fan W, Samie FH. 2020. 
+Immune checkpoint inhibitor therapy in solid organ transplant recipients: a patient-centered systematic review. J Am Acad Dermatol
+82: 1490–1500. 10.1016/j.jaad.2019.07.005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jaad.2019.07.005</ArticleId>
+            <ArticleId IdType="pubmed">31302190</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fung C, Grandis JR. 2010. 
+Emerging drugs to treat squamous cell carcinomas of the head and neck. Expert Opin Emerg Drugs
+15: 355–373. 10.1517/14728214.2010.497754</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1517/14728214.2010.497754</ArticleId>
+            <ArticleId IdType="pmc">PMC3133968</ArticleId>
+            <ArticleId IdType="pubmed">20557270</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garmendia I, Pajares MJ, Hermida-Prado F, Ajona D, Bertolo C, Sainz C, Lavin A, Remirez AB, Valencia K, Moreno H, et al.
+2019. 
+YES1 drives lung cancer growth and progression and predicts sensitivity to dasatinib. Am J Respir Crit Care Med
+200: 888–899. 10.1164/rccm.201807-1292OC</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1164/rccm.201807-1292OC</ArticleId>
+            <ArticleId IdType="pubmed">31166114</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garrett GL, Blanc PD, Boscardin J, Lloyd AA, Ahmed RL, Anthony T, Bibee K, Breithaupt A, Cannon J, Chen A, et al.
+2017. 
+Incidence of and risk factors for skin cancer in organ transplant recipients in the United States. JAMA Dermatol
+153: 296–303. 10.1001/jamadermatol.2016.4920</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jamadermatol.2016.4920</ArticleId>
+            <ArticleId IdType="pubmed">28097368</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garritano S, Inga A, Gemignani F, Landi S. 2013. 
+More targets, more pathways and more clues for mutant p53. Oncogenesis
+2: e54
+10.1038/oncsis.2013.15</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/oncsis.2013.15</ArticleId>
+            <ArticleId IdType="pmc">PMC3740285</ArticleId>
+            <ArticleId IdType="pubmed">23817466</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo T, Ma H, Zhou Y. 2019. 
+Bioinformatics analysis of microarray data to identify the candidate biomarkers of lung adenocarcinoma. PeerJ
+7: e7313
+10.7717/peerj.7313</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7717/peerj.7313</ArticleId>
+            <ArticleId IdType="pmc">PMC6626531</ArticleId>
+            <ArticleId IdType="pubmed">31333911</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Institute B. 2015a. 
+Base Quality Score Recalibration. Vol 2017. Broad Institute.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Institute B. 2015b. 
+Mapping, processing, and duplicate marking with Picard tools. Vol 2017. Broad Institute.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Institute B. 2016. 
+MuTect2: Call somatic SNPs and indels via local re-assembly of haplotypes. Vol 2017. Broad Institute.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Institute B. 2017a. 
+DepthOfCoverage. Vol 2018. Broad Institute.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Institute B. 2017b. 
+(howto) Recalibrate base quality scores=run BQSR. Vol 2017. Broad Institute.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jalili A, Pinc A, Pieczkowski F, Karlhofer FM, Stingl G, Wagner SN. 2008. 
+Combination of an EGFR blocker and a COX-2 inhibitor for the treatment of advanced cutaneous squamous cell carcinoma. J Dtsch Dermatol Ges
+6: 1066–1069. 10.1111/j.1610-0387.2008.06861.x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1610-0387.2008.06861.x</ArticleId>
+            <ArticleId IdType="pubmed">19138272</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Joosten M, Ginzel S, Blex C, Schmidt D, Gombert M, Chen C, Linka RM, Grabner O, Hain A, Hirsch B, et al.
+2016. 
+A novel approach to detect resistance mechanisms reveals FGR as a factor mediating HDAC inhibitor SAHA resistance in B-cell lymphoma. Mol Oncol
+10: 1232–1244. 10.1016/j.molonc.2016.06.001</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molonc.2016.06.001</ArticleId>
+            <ArticleId IdType="pmc">PMC5423193</ArticleId>
+            <ArticleId IdType="pubmed">27324824</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Karia PS, Han J, Schmults CD. 2013. 
+Cutaneous squamous cell carcinoma: estimated incidence of disease, nodal metastasis, and deaths from disease in the United States, 2012. J Am Acad Dermatol
+68: 957–966. 10.1016/j.jaad.2012.11.037</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jaad.2012.11.037</ArticleId>
+            <ArticleId IdType="pubmed">23375456</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lewis CM, Glisson BS, Feng L, Wan F, Tang X, Wistuba II, El-Naggar AK, Rosenthal DI, Chambers MS, Lustig RA, et al.
+2012. 
+A phase II study of gefitinib for aggressive cutaneous squamous cell carcinoma of the head and neck. Clin Cancer Res
+18: 1435–1446. 10.1158/1078-0432.CCR-11-1951</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1078-0432.CCR-11-1951</ArticleId>
+            <ArticleId IdType="pmc">PMC6167936</ArticleId>
+            <ArticleId IdType="pubmed">22261807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li H, Durbin R. 2010. 
+Fast and accurate long-read alignment with Burrows–Wheeler transform. Bioinformatics
+26: 589–595. 10.1093/bioinformatics/btp698</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btp698</ArticleId>
+            <ArticleId IdType="pmc">PMC2828108</ArticleId>
+            <ArticleId IdType="pubmed">20080505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li S, Ma Y, Xie C, Wu Z, Kang Z, Fang Z, Su B, Guan M. 2015a. 
+EphA6 promotes angiogenesis and prostate cancer metastasis and is associated with human prostate cancer progression. Oncotarget
+6: 22587–22597. 10.18632/oncotarget.4088</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/oncotarget.4088</ArticleId>
+            <ArticleId IdType="pmc">PMC4673184</ArticleId>
+            <ArticleId IdType="pubmed">26041887</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li YY, Hanna GJ, Laga AC, Haddad RI, Lorch JH, Hammerman PS. 2015b. 
+Genomic analysis of metastatic cutaneous squamous cell carcinoma. Clin Cancer Res
+21: 1447–1456. 10.1158/1078-0432.CCR-14-1773</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1078-0432.CCR-14-1773</ArticleId>
+            <ArticleId IdType="pmc">PMC4359951</ArticleId>
+            <ArticleId IdType="pubmed">25589618</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li N, Qian S, Li B, Zhan X. 2019. 
+Quantitative analysis of the human ovarian carcinoma mitochondrial phosphoproteome. Aging (Albany NY)
+11: 6449–6468. 10.18632/aging.102199</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/aging.102199</ArticleId>
+            <ArticleId IdType="pmc">PMC6738437</ArticleId>
+            <ArticleId IdType="pubmed">31442208</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lisabeth EM, Falivelli G, Pasquale EB. 2013. 
+Eph receptor signaling and ephrins. Cold Spring Harb Perspect Biol
+5: a009159
+10.1101/cshperspect.a009159</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/cshperspect.a009159</ArticleId>
+            <ArticleId IdType="pmc">PMC3753714</ArticleId>
+            <ArticleId IdType="pubmed">24003208</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marei H, Malliri A. 2017. 
+Rac1 in human diseases: the therapeutic potential of targeting Rac1 signaling regulatory mechanisms. Small GTPases
+8: 139–163. 10.1080/21541248.2016.1211398</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/21541248.2016.1211398</ArticleId>
+            <ArticleId IdType="pmc">PMC5584733</ArticleId>
+            <ArticleId IdType="pubmed">27442895</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martincorena I, Roshan A, Gerstung M, Ellis P, Van Loo P, McLaren S, Wedge DC, Fullam A, Alexandrov LB, Tubio JM, et al.
+2015. 
+Tumor evolution. High burden and pervasive positive selection of somatic mutations in normal human skin. Science
+348: 880–886. 10.1126/science.aaa6806</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aaa6806</ArticleId>
+            <ArticleId IdType="pmc">PMC4471149</ArticleId>
+            <ArticleId IdType="pubmed">25999502</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maubec E, Petrow P, Scheer-Senyarich I, Duvillard P, Lacroix L, Gelly J, Certain A, Duval X, Crickx B, Buffard V, et al.
+2011. 
+Phase II study of cetuximab as first-line single-drug therapy in patients with unresectable squamous cell carcinoma of the skin. J Clin Oncol
+29: 3419–3426. 10.1200/JCO.2010.34.1735</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1200/JCO.2010.34.1735</ArticleId>
+            <ArticleId IdType="pubmed">21810686</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Migden MR, Rischin D, Schmults CD, Guminski A, Hauschild A, Lewis KD, Chung CH, Hernandez-Aya L, Lim AM, Chang ALS, et al.
+2018. 
+PD-1 blockade with cemiplimab in advanced cutaneous squamous-cell carcinoma. N Engl J Med
+379: 341–351. 10.1056/NEJMoa1805131</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa1805131</ArticleId>
+            <ArticleId IdType="pubmed">29863979</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miyauchi S, Kim SS, Pang J, Gold KA, Gutkind JS, Califano JA, Mell LK, Cohen EEW, Sharabi AB. 2019. 
+Immune modulation of head and neck squamous cell carcinoma and the tumor microenvironment by conventional therapeutics. Clin Cancer Res
+25: 4211–4223. 10.1158/1078-0432.CCR-18-0871</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1078-0432.CCR-18-0871</ArticleId>
+            <ArticleId IdType="pmc">PMC6635035</ArticleId>
+            <ArticleId IdType="pubmed">30814108</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Montanuy H, Martínez-Barriocanal A, Antonio Casado J, Rovirosa L, Ramírez MJ, Nieto R, Carrascoso-Rubio C, Riera P, González A, Lerma E, et al.
+2020. 
+Gefitinib and afatinib show potential efficacy for Fanconi anemia–related head and neck cancer. Clin Cancer Res
+26: 3044–3057. 10.1158/1078-0432.CCR-19-1625</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1078-0432.CCR-19-1625</ArticleId>
+            <ArticleId IdType="pubmed">32005748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O'Hara J, Ferlito A, Takes RP, Rinaldo A, Strojan P, Shaha AR, Rodrigo JP, Paleri V. 2011. 
+Cutaneous squamous cell carcinoma of the head and neck metastasizing to the parotid gland—a review of current recommendations. Head Neck
+33: 1789–1795. 10.1002/hed.21583</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hed.21583</ArticleId>
+            <ArticleId IdType="pubmed">22076982</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Olshen AB, Venkatraman ES, Lucito R, Wigler M. 2004. 
+Circular binary segmentation for the analysis of array-based DNA copy number data. Biostatistics
+5: 557–572. 10.1093/biostatistics/kxh008</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/biostatistics/kxh008</ArticleId>
+            <ArticleId IdType="pubmed">15475419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ouyang X, Barling A, Lesch A, Tyner JW, Choonoo G, Zheng C, Jeng S, West TM, Clayburgh D, Courtneidge SA, et al.
+2018. 
+Induction of anaplastic lymphoma kinase (ALK) as a novel mechanism of EGFR inhibitor resistance in head and neck squamous cell carcinoma patient-derived models. Cancer Biol Ther
+19: 921–933. 10.1080/15384047.2018.1451285</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/15384047.2018.1451285</ArticleId>
+            <ArticleId IdType="pmc">PMC6300392</ArticleId>
+            <ArticleId IdType="pubmed">29856687</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Parikh SA, Patel VA, Ratner D. 2014. 
+Advances in the management of cutaneous squamous cell carcinoma. F1000Prime Rep
+6: 70
+10.12703/P6-70</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.12703/P6-70</ArticleId>
+            <ArticleId IdType="pmc">PMC4126542</ArticleId>
+            <ArticleId IdType="pubmed">25165569</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Patel V, Rosenfeldt HM, Lyons R, Servitja JM, Bustelo XR, Siroff M, Gutkind JS. 2007. 
+Persistent activation of Rac1 in squamous carcinomas of the head and neck: evidence for an EGFR/Vav2 signaling axis involved in cell invasion. Carcinogenesis
+28: 1145–1152. 10.1093/carcin/bgm008</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/carcin/bgm008</ArticleId>
+            <ArticleId IdType="pubmed">17234718</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pickering CR, Zhou JH, Lee JJ, Drummond JA, Peng SA, Saade RE, Tsai KY, Curry JL, Tetzlaff MT, Lai SY, et al.
+2014. 
+Mutational landscape of aggressive cutaneous squamous cell carcinoma. Clin Cancer Res
+20: 6582–6592. 10.1158/1078-0432.CCR-14-1768</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1078-0432.CCR-14-1768</ArticleId>
+            <ArticleId IdType="pmc">PMC4367811</ArticleId>
+            <ArticleId IdType="pubmed">25303977</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rasmussen C, Thomas-Virnig C, Allen-Hoffmann BL. 2013. 
+Classical human epidermal keratinocyte cell culture. Methods Mol Biol
+945: 161–175. 10.1007/978-1-62703-125-7_11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-1-62703-125-7_11</ArticleId>
+            <ArticleId IdType="pubmed">23097107</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sathirapongsasuti JF, Lee H, Horst BA, Brunner G, Cochran AJ, Binder S, Quackenbush J, Nelson SF. 2011. 
+Exome sequencing-based copy-number variation and loss of heterozygosity detection: ExomeCNV. Bioinformatics
+27: 2648–2654. 10.1093/bioinformatics/btr462</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btr462</ArticleId>
+            <ArticleId IdType="pmc">PMC3179661</ArticleId>
+            <ArticleId IdType="pubmed">21828086</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Skulsky SL, O'Sullivan B, McArdle O, Leader M, Roche M, Conlon PJ, O'Neill JP. 2017. 
+Review of high-risk features of cutaneous squamous cell carcinoma and discrepancies between the American Joint Committee on Cancer and NCCN Clinical Practice Guidelines in Oncology. Head Neck
+39: 578–594. 10.1002/hed.24580</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hed.24580</ArticleId>
+            <ArticleId IdType="pubmed">27882625</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stratigos A, Garbe C, Lebbe C, Malvehy J, del Marmol V, Pehamberger H, Peris K, Becker JC, Zalaudek I, Saiag P, et al.
+2015. 
+Diagnosis and treatment of invasive squamous cell carcinoma of the skin: European consensus-based interdisciplinary guideline. Eur J Cancer
+51: 1989–2007. 10.1016/j.ejca.2015.06.110</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejca.2015.06.110</ArticleId>
+            <ArticleId IdType="pubmed">26219687</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sundvall M, Karrila A, Nordberg J, Grenman R, Elenius K. 2010. 
+EGFR targeting drugs in the treatment of head and neck squamous cell carcinoma. Expert Opin Emerg Drugs
+15: 185–201. 10.1517/14728211003716442</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1517/14728211003716442</ArticleId>
+            <ArticleId IdType="pubmed">20415599</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Surawska H, Ma PC, Salgia R. 2004. 
+The role of ephrins and Eph receptors in cancer. Cytokine Growth Factor Rev
+15: 419–433. 10.1016/j.cytogfr.2004.09.002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cytogfr.2004.09.002</ArticleId>
+            <ArticleId IdType="pubmed">15561600</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tang X, He J, Li B, Zheng Y, Li K, Zou S, Chen L. 2019. 
+Efficacy and safety of gefitinib in patients with advanced head and neck squamous cell carcinoma: a meta-analysis of randomized controlled trials. J Oncol
+2019: 6273438
+10.1155/2019/6273438</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2019/6273438</ArticleId>
+            <ArticleId IdType="pmc">PMC6556337</ArticleId>
+            <ArticleId IdType="pubmed">31239839</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taoudi Benchekroun M, Saintigny P, Thomas SM, El-Naggar AK, Papadimitrakopoulou V, Ren H, Lang W, Fan YH, Huang J, Feng L, et al.
+2010. 
+Epidermal growth factor receptor expression and gene copy number in the risk of oral cancer. Cancer Prev Res (Phila)
+3: 800–809. 10.1158/1940-6207.CAPR-09-0163</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1940-6207.CAPR-09-0163</ArticleId>
+            <ArticleId IdType="pmc">PMC2900459</ArticleId>
+            <ArticleId IdType="pubmed">20570883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tyner JW, Deininger MW, Loriaux MM, Chang BH, Gotlib JR, Willis SG, Erickson H, Kovacsovics T, O'Hare T, Heinrich MC, et al.
+2009. 
+RNAi screen for rapid therapeutic target identification in leukemia patients. Proc Natl Acad Sci
+106: 8695–8700. 10.1073/pnas.0903233106</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0903233106</ArticleId>
+            <ArticleId IdType="pmc">PMC2680429</ArticleId>
+            <ArticleId IdType="pubmed">19433805</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tyner JW, Yang WF, Bankhead A III, Fan G, Fletcher LB, Bryant J, Glover JM, Chang BH, Spurgeon SE, Fleming WH, et al.
+2013. 
+Kinase pathway dependence in primary human leukemias determined by rapid inhibitor screening. Cancer Res
+73: 285–296. 10.1158/0008-5472.CAN-12-1906</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-12-1906</ArticleId>
+            <ArticleId IdType="pmc">PMC3537897</ArticleId>
+            <ArticleId IdType="pubmed">23087056</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tyner JW, Tognon CE, Bottomly D, Wilmot B, Kurtz SE, Savage SL, Long N, Schultz AR, Traer E, Abel M, et al.
+2018. 
+Functional genomic landscape of acute myeloid leukaemia. Nature
+562: 526–531. 10.1038/s41586-018-0623-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-018-0623-z</ArticleId>
+            <ArticleId IdType="pmc">PMC6280667</ArticleId>
+            <ArticleId IdType="pubmed">30333627</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Y, Yang Q, Cheng Y, Gao M, Kuang L, Wang C. 2018. 
+Myosin heavy chain 10 (MYH10) gene silencing reduces cell migration and invasion in the glioma cell lines U251, T98G, and SHG44 by inhibiting the Wnt/β-catenin pathway. Med Sci Monit
+24: 9110–9119. 10.12659/MSM.911523</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.12659/MSM.911523</ArticleId>
+            <ArticleId IdType="pmc">PMC6319164</ArticleId>
+            <ArticleId IdType="pubmed">30552850</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Warren TA, Broit N, Simmons JL, Pierce CJ, Chawla S, Lambie DL, Quagliotto G, Brown IS, Parsons PG, Panizza BJ, et al.
+2016. 
+Expression profiling of cutaneous squamous cell carcinoma with perineural invasion implicates the p53 pathway in the process. Sci Rep
+6: 34081
+10.1038/srep34081</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/srep34081</ArticleId>
+            <ArticleId IdType="pmc">PMC5035993</ArticleId>
+            <ArticleId IdType="pubmed">27665737</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Weber H, Valbuena JR, Barbhuiya MA, Stein S, Kunkel H, Garcia P, Bizama C, Riquelme I, Espinoza JA, Kurtz SE, et al.
+2017. 
+Small molecule inhibitor screening identified HSP90 inhibitor 17-AAG as potential therapeutic agent for gallbladder cancer. Oncotarget
+8: 26169–26184. 10.18632/oncotarget.15410</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/oncotarget.15410</ArticleId>
+            <ArticleId IdType="pmc">PMC5432248</ArticleId>
+            <ArticleId IdType="pubmed">28412732</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu YY, Pettersson K, Blomberg K, Hemmila I, Mikola H, Lovgren T. 1992. 
+Simultaneous quadruple-label fluorometric immunoassay of thyroid-stimulating hormone, 17 α-hydroxyprogesterone, immunoreactive trypsin, and creatine kinase MM isoenzyme in dried blood spots. Clin Chem
+38: 2038–2043. 10.1093/clinchem/38.10.2038</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/clinchem/38.10.2038</ArticleId>
+            <ArticleId IdType="pubmed">1394988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang H, Cai YC, Cao Y, Song M, An X, Xia Y, Wei J, Jiang WQ, Shi YX. 2015. 
+The prognostic value of Tiam1 protein expression in head and neck squamous cell carcinoma: a retrospective study. Chin J Cancer
+34: 614–621. 10.1186/s40880-015-0053-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s40880-015-0053-3</ArticleId>
+            <ArticleId IdType="pmc">PMC4593337</ArticleId>
+            <ArticleId IdType="pubmed">26369827</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoon C, Cho SJ, Chang KK, Park DJ, Ryeom SW, Yoon SS. 2017. 
+Role of Rac1 pathway in epithelial-to-mesenchymal transition and cancer stem-like cell phenotypes in gastric adenocarcinoma. Mol Cancer Res
+15: 1106–1116. 10.1158/1541-7786.MCR-17-0053</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1541-7786.MCR-17-0053</ArticleId>
+            <ArticleId IdType="pmc">PMC5540756</ArticleId>
+            <ArticleId IdType="pubmed">28461325</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yuan J, Jiang YY, Mayakonda A, Huang M, Ding LW, Lin H, Yu F, Lu Y, Loh TKS, Chow M, et al.
+2017. 
+Super-enhancers promote transcriptional dysregulation in nasopharyngeal carcinoma. Cancer Res
+77: 6614–6626. 10.1158/0008-5472.CAN-17-1143</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-17-1143</ArticleId>
+            <ArticleId IdType="pmc">PMC6637769</ArticleId>
+            <ArticleId IdType="pubmed">28951465</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

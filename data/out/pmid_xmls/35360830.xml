@@ -1,0 +1,326 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35360830</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>02</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Print">1662-5218</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>16</Volume>
+            <PubDate>
+              <Year>2022</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Frontiers in neurorobotics</Title>
+          <ISOAbbreviation>Front Neurorobot</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>A Bio-Inspired Mechanism for Learning Robot Motion From Mirrored Human Demonstrations.</ArticleTitle>
+        <Pagination>
+          <StartPage>826410</StartPage>
+          <MedlinePgn>826410</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">826410</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3389/fnbot.2022.826410</ELocationID>
+        <Abstract>
+          <AbstractText>Different learning modes and mechanisms allow faster and better acquisition of skills as widely studied in humans and many animals. Specific neurons, called mirror neurons, are activated in the same way whether an action is performed or simply observed. This suggests that observing others performing movements allows to reinforce our motor abilities. This implies the presence of a biological mechanism that allows creating models of others' movements and linking them to the self-model for achieving mirroring. Inspired by such ability, we propose to build a map of movements executed by a teaching agent and mirror the agent's state to the robot's configuration space. Hence, in this study, a neural network is proposed to integrate a motor cortex-like differential map transforming motor plans from task-space to joint-space motor commands and a static map correlating joint-spaces of the robot and a teaching agent. The differential map is developed based on spiking neural networks while the static map is built as a self-organizing map. The developed neural network allows the robot to mirror the actions performed by a human teaching agent to its own joint-space and the reaching skill is refined by the complementary examples provided. Hence, experiments are conducted to quantify the improvement achieved thanks to the proposed learning approach and control scheme.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Zahra, Tolu, Zhou, Duan and Navarro-Alarcon.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zahra</LastName>
+            <ForeName>Omar</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, The Hong Kong Polytechnic University, Kowloon, Hong Kong SAR, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tolu</LastName>
+            <ForeName>Silvia</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Electrical Engineering, Technical University of Denmark, Copenhagen, Denmark.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Peng</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, The Hong Kong Polytechnic University, Kowloon, Hong Kong SAR, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Duan</LastName>
+            <ForeName>Anqing</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, The Hong Kong Polytechnic University, Kowloon, Hong Kong SAR, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Navarro-Alarcon</LastName>
+            <ForeName>David</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, The Hong Kong Polytechnic University, Kowloon, Hong Kong SAR, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>14</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Front Neurorobot</MedlineTA>
+        <NlmUniqueID>101477958</NlmUniqueID>
+        <ISSNLinking>1662-5218</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">imitation learning</Keyword>
+        <Keyword MajorTopicYN="N">robotics</Keyword>
+        <Keyword MajorTopicYN="N">sensor-based control</Keyword>
+        <Keyword MajorTopicYN="N">spiking neural networks</Keyword>
+        <Keyword MajorTopicYN="N">visual servoing</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>30</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>3</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>1</Day>
+          <Hour>5</Hour>
+          <Minute>26</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>2</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35360830</ArticleId>
+        <ArticleId IdType="pmc">PMC8963868</ArticleId>
+        <ArticleId IdType="doi">10.3389/fnbot.2022.826410</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Amari S., et al. . (2003). The Handbook of Brain Theory and Neural Networks. MIT Press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Argall B. D., Chernova S., Veloso M., Browning B. (2009). A survey of robot learning from demonstration. Robot. Auton. Syst.
+57, 469–483. 10.1016/j.robot.2008.10.024</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.robot.2008.10.024</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arsenault B. (2018). Adaptive tree parzen estimator. Available online at: https://github.com/electricbrainio</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bergstra J., Bardenet R., Bengio Y., Kégl B. (2011). Algorithms for hyper-parameter optimization, in 25th Annual Conference on Neural Information Processing Systems (NIPS 2011), vol. 24 (Red Hook, NY: Neural Information Processing Systems Foundation; ).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cook R., Bird G., Catmur C., Press C., Heyes C. (2014). Mirror neurons: from origin to function. Behav. Brain Sci.
+37, 177–192. 10.1017/S0140525X13000903</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1017/S0140525X13000903</ArticleId>
+            <ArticleId IdType="pubmed">24775147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dushanova J., Donoghue J. (2010). Neurons in primary motor cortex engaged during action observation. Eur. J. Neurosci.
+31, 386–398. 10.1111/j.1460-9568.2009.07067.x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1460-9568.2009.07067.x</ArticleId>
+            <ArticleId IdType="pmc">PMC2862560</ArticleId>
+            <ArticleId IdType="pubmed">20074212</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Evans B., Stringer S. (2012). Transform-invariant visual representations in self-organizing spiking neural networks. Front. Comput. Neurosci.
+6, 46. 10.3389/fncom.2012.00046</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncom.2012.00046</ArticleId>
+            <ArticleId IdType="pmc">PMC3404434</ArticleId>
+            <ArticleId IdType="pubmed">22848199</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fidjeland A. K., Roesch E. B., Shanahan M. P., Luk W. (2009). Nemo: a platform for neural modelling of spiking neurons using gpus, in 2009 20th IEEE Int. Conf. on Application-specific Syst., Architectures and Processors (Boston, MA: IEEE; ), 137–144.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gamez D., Fidjeland A. K., Lazdins E. (2012). ispike: a spiking neural interface for the icub robot. Bioinspir. Biomimetics
+7, 025008. 10.1088/1748-3182/7/2/025008</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/1748-3182/7/2/025008</ArticleId>
+            <ArticleId IdType="pubmed">22617339</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hazan H., Saunders D., Sanghavi D. T., Siegelmann H., Kozma R. (2018). Unsupervised learning with self-organizing spiking neural networks, in 2018 International Joint Conference on Neural Networks (IJCNN) (Rio de Janeiro: IEEE; ), 1–6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Heyes C. (2010). Where do mirror neurons come from?
+Neurosci. Biobehav. Rev.
+34, 575–583. 10.1016/j.neubiorev.2009.11.007</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neubiorev.2009.11.007</ArticleId>
+            <ArticleId IdType="pubmed">19914284</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iacoboni M. (2009). Imitation, empathy, and mirror neurons. Ann. Rev. Psychol.
+60, 653–670. 10.1146/annurev.psych.60.110707.163604</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev.psych.60.110707.163604</ArticleId>
+            <ArticleId IdType="pubmed">18793090</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Iacoboni M., Mazziotta J. C. (2007). Mirror neuron system: basic findings and clinical applications. Ann. Neurol. Official J. Amer. Neurol. Assoc. Child Neurol. Soc.
+62, 213–218. 10.1002/ana.21198</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/ana.21198</ArticleId>
+            <ArticleId IdType="pubmed">17721988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Izhikevich E. M. (2004). Which model to use for cortical spiking neurons?
+IEEE Trans. Neural Netw.
+15, 1063–1070. 10.1109/TNN.2004.832719</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TNN.2004.832719</ArticleId>
+            <ArticleId IdType="pubmed">15484883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Khacef L., Rodriguez L., Miramond B. (2020). Brain-inspired self-organization with cellular neuromorphic computing for multimodal unsupervised learning. Electronics
+9, 1605. 10.3390/electronics9101605</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/electronics9101605</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kohonen T. (2013). Essentials of the self-organizing map. Neural Netw.
+37, 52–65. 10.1016/j.neunet.2012.09.018</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neunet.2012.09.018</ArticleId>
+            <ArticleId IdType="pubmed">23067803</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kormushev P., Demiris Y., Caldwell D. G. (2015). Kinematic-free position control of a 2-dof planar robot arm, in 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (Hamburg: IEEE; ), 5518–5525.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Oztop E., Kawato M., Arbib M. (2006). Mirror neurons and imitation: a computationally guided review. Neural Netw.
+19, 254–271. 10.1016/j.neunet.2006.02.002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neunet.2006.02.002</ArticleId>
+            <ArticleId IdType="pubmed">16595172</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ravichandar H., Polydoros A. S., Chernova S., Billard A. (2020). Recent advances in robot learning from demonstration. Ann. Rev. Control Robot. Auton. Syst.
+3, 297–330. 10.1146/annurev-control-100819-063206</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-control-100819-063206</ArticleId>
+            <ArticleId IdType="pubmed">0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rumbell T., Denham S. L., Wennekers T. (2013). A spiking self-organizing map combining stdp, oscillations, and continuous learning. IEEE Trans. Neural Netw. Learn. Syst.
+25, 894–907. 10.1109/TNNLS.2013.2283140</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TNNLS.2013.2283140</ArticleId>
+            <ArticleId IdType="pubmed">24808036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shavit Y., Figueroa N., Salehian S. S. M., Billard A. (2018). Learning augmented joint-space task-oriented dynamical systems: a linear parameter varying and synergetic control approach. IEEE Robot. Autom. Lett.
+3, 2718–2725. 10.1109/LRA.2018.2833497</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/LRA.2018.2833497</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tieck J. C. V., Donat H., Kaiser J., Peric I., Ulbrich S., Roennau A., et al. . (2017). Towards grasping with spiking neural networks for anthropomorphic robot hands, in Int. Conf. on Artif. Neural Networks (Alghero: Springer; ), 43–51.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tolu S., Capolei M. C., Vannucci L., Laschi C., Falotico E., Hernandez M. V. (2020). A cerebellum-inspired learning approach for adaptive and anticipatory control. Int. J. Neural Syst.
+30, 1950028. 10.1142/S012906571950028X</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1142/S012906571950028X</ArticleId>
+            <ArticleId IdType="pubmed">31771377</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Woodin M. A., Ganguly K., Poo M.-M. (2003). Coincident pre- and postsynaptic activity modifies gabaergic synapses by postsynaptic changes in cl- transporter activity. Neuron
+39, 807–820. 10.1016/S0896-6273(03)00507-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0896-6273(03)00507-5</ArticleId>
+            <ArticleId IdType="pubmed">12948447</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zahra O., Navarro-Alarcon D. (2019). A self-organizing network with varying density structure for characterizing sensorimotor transformations in robotic systems, in Annual Conference Towards Autonomous Robotic Systems (London: Springer; ), 167–178.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zahra O., Navarro-Alarcon D., Tolu S. (2021a). A fully spiking neural control system based on cerebellar predictive learning for sensor-guided robots, in 2021 IEEE International Conference on Robotics and Automation (ICRA) (Xi'an: IEEE; ), 4423–4429.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zahra O., Navarro-Alarcon D., Tolu S. (2021b). A neurorobotic embodiment for exploring the dynamical interactions of a spiking cerebellar model and a robot arm during vision-based manipulation tasks. Int. J. Neural Syst.
+2150028. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34003083</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zahra O., Tolu S., Navarro-Alarcon D. (2021c). Differential mapping spiking neural network for sensor-based robot control. Bioinspir. Biomim.
+16, 036008. 10.1088/1748-3190/abedce</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/1748-3190/abedce</ArticleId>
+            <ArticleId IdType="pubmed">33706302</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zar J. H. (2005). Spearman rank correlation, in Encyclopedia of Biostatistics, vol. 7.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

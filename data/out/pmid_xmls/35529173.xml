@@ -1,0 +1,430 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35529173</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1879-0550</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>169</Volume>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Computers &amp; industrial engineering</Title>
+          <ISOAbbreviation>Comput Ind Eng</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>How does the hospital make a safe and stable elective surgery plan during COVID-19 pandemic?</ArticleTitle>
+        <Pagination>
+          <StartPage>108210</StartPage>
+          <MedlinePgn>108210</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cie.2022.108210</ELocationID>
+        <Abstract>
+          <AbstractText>During the COVID-19 period, randomly arrived patients flooded into the hospital, which caused staffing beds to be occupied. Then, elective surgeries could not be carried out timely. It not only affects the health of patients but also affects hospital income. The key to the above problem is how to deal with uncertainty, which is one of the most difficult problems faced in the field of optimization. Specifically, surgery duration, length of stay, the arrival time of emergency patients, and whether they are infected with the SARS-CoV-2 virus are uncertain. Therefore, we propose a bed configuration to ensure that elective patients are not affected by non-elective patients such as COVID-19 patients. More importantly, we propose a planning model based on robust optimization and fuzzy set theory, which for the first time consider different categories of uncertainty in the same healthcare system. Given that the problem is more complex than the classical surgical scheduling problem, which is NP-hard in most cases, we propose a hybrid algorithm (GA-VNS-H) based on genetic algorithm, variable neighborhood search, and heuristics for problem traits. Specifically, the heuristic for operating room allocation is used to improve the efficiency, the genetic algorithm and variable neighborhood can improve the global and local search capabilities, respectively, and the adaptive mechanism can reduce the algorithm solution time. Experiments show that the algorithm has better calculation efficiency and solution accuracy. In addition, the elective surgery planning model under the new bed configuration model can effectively cope with the uncertain environment of COVID-19.</AbstractText>
+          <CopyrightInformation>© 2022 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Dai</LastName>
+            <ForeName>Zongli</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Economics and Management, Dalian University of Technology, Dalian 116024, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Jian-Jun</ForeName>
+            <Initials>JJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Economics and Management, Dalian University of Technology, Dalian 116024, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shi</LastName>
+            <ForeName>Jim Junmin</ForeName>
+            <Initials>JJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Tuchman School of Management, New Jersey Institute of Technology, Newark, NJ 07102, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>03</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Comput Ind Eng</MedlineTA>
+        <NlmUniqueID>101729445</NlmUniqueID>
+        <ISSNLinking>0360-8352</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Bed configuration</Keyword>
+        <Keyword MajorTopicYN="N">COVID-19</Keyword>
+        <Keyword MajorTopicYN="N">Robust optimization</Keyword>
+        <Keyword MajorTopicYN="N">Surgery planning</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>9</Day>
+          <Hour>4</Hour>
+          <Minute>6</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35529173</ArticleId>
+        <ArticleId IdType="pmc">PMC9061643</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.cie.2022.108210</ArticleId>
+        <ArticleId IdType="pii">S0360-8352(22)00280-7</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Akbarzadeh B., Moslehi G., Reisi-Nafchi M., Maenhout B. The re-planning and scheduling of surgical cases in the operating room department after block release time with resource rescheduling. European Journal of Operational Research. 2019;278(2):596–614. doi: 10.1016/j.ejor.2019.04.037.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejor.2019.04.037</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Atighehchian A., Sepehri M.M., Shadpour P., Kianfar K. A two-step stochastic approach for operating rooms scheduling in multi-resource environment. Annals of Operations Research. 2020;292(1):191–214. doi: 10.1007/s10479-019-03353-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10479-019-03353-5</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bandi C., Gupta D. Operating room staffing and scheduling. Manufacturing &amp; Service Operations Management. 2020;22(5):958–974. doi: 10.1287/msom.2019.0781.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1287/msom.2019.0781</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bellman R., Zadeh L.A. Decision-making in fuzzy environment. Management Science. 1970;17(4):B141–B164. doi: 10.1287/mnsc.17.4.B141.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1287/mnsc.17.4.B141</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Best T.J., Sand B., Eisenstein D.D., Meltzer D.O. Managing hospital inpatient bed capacity through partitioning care into focused wings. Manufacturing &amp; Service Operations Management. 2015;17(2):157–176.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Best M.J., Aziz K.T., McFarland E.G., Anderson G.F., Srikumaran U. Economic implications of decreased elective orthopaedic and musculoskeletal surgery volume during the coronavirus disease 2019 pandemic. International Orthopaedics. 2020;44(11):2221–2228. doi: 10.1007/s00264-020-04713-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00264-020-04713-8</ArticleId>
+            <ArticleId IdType="pmc">PMC7366468</ArticleId>
+            <ArticleId IdType="pubmed">32681371</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bonabeau E., Dorigo M., Theraulaz G.  Oxford University Press; New York, United States: 1999. Swarm intelligence: From natural to artificial systems. 10.1093/oso/9780195131581.001.0001.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bovim T.R., Christiansen M., Gullhav A.N., Range T.M., Hellemo L. Stochastic master surgery scheduling. European Journal of Operational Research. 2020;285(2):695–711. doi: 10.1016/j.ejor.2020.02.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejor.2020.02.001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Campbell, D. (2021). NHS staff face rising tide of abuse from patients provoked by long waits. the Guardian. https://www.theguardian.com/uk-news/2021/oct/10/nhs-staff-face-rising-tide-of-abuse-from-patients-provoked-by-long-waits.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dai J.G., Shi P. Inpatient overflow: An approximate dynamic programming approach. Manufacturing &amp; Service Operations Management. 2019;21(4):894–911.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Denton B., Viapiano J., Vogl A. Optimization of surgery sequencing and scheduling decisions under uncertainty. Health Care Management Science. 2007;10:13–24. doi: 10.1007/s10729-006-9005-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10729-006-9005-4</ArticleId>
+            <ArticleId IdType="pubmed">17323652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eun J., Kim S.-P., Yih Y., Tiwari V. Scheduling elective surgery patients considering time-dependent health urgency : Modeling and solution approaches. Omega. 2019;86:137–153. doi: 10.1016/j.omega.2018.07.007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.omega.2018.07.007</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ferrand Y.B. Partially Flexible Operating Rooms for Elective and Emergency Surgeries. Decision Sciences. 2014;45(5):819–847.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fügener A., Hans E.W., Kolisch R., Kortbeek N., Vanberkel P.T. Master surgery scheduling with consideration of multiple downstream units. European Journal of Operational Research. 2014;239(1):227–236. doi: 10.1016/j.ejor.2014.05.009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejor.2014.05.009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Greiner J., Naik H., Johnson M.R., Liu D., Silvestre B., Ballouk H., et al.  Learning from the first wave: Lessons about managing patient flow and resource utilization on medical wards at providence health during the COVID-19 pandemic. Healthcare. 2021;9(2) doi: 10.1016/j.hjdsi.2021.100530.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.hjdsi.2021.100530</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guiffrida A.L., Nagi R. Fuzzy set theory applications in production management research : A literature survey. Journal of Intelligent Manufacturing. 1998;9:39–56.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gul S., Denton B.T., Fowler J.W., Denton B.T., Fowler J.W. A progressive hedging approach for surgery planning under uncertainty. INFORMS Journal on Computing. 2015;27(4):755–772.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hallah R.M., Visintin F. A stochastic model for scheduling elective surgeries in a cyclic Master Surgical Schedule. Computers &amp; Industrial Engineering. 2019;129:156–168. doi: 10.1016/j.cie.2019.01.030.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cie.2019.01.030</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Izady N., Israa M. A clustered overflow configuration of inpatient beds in hospitals. Manufacturing &amp; Service Operations Management. 2021;23(1):139–154. doi: 10.1287/msom.2019.0820.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1287/msom.2019.0820</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiménez M., Arenas M., Bilbao A., Rodríguez M.V. Linear programming with fuzzy parameters: An interactive method resolution. European Journal of Operational Research. 2007;177(3):1599–1609. doi: 10.1016/j.ejor.2005.10.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejor.2005.10.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>José J., González-rodríguez I., Vela C.R., Puente J. Coevolutionary makespan optimisation through different ranking methods for the fuzzy flexible job shop. Fuzzy Sets and Systems. 2015;278:81–97. doi: 10.1016/j.fss.2014.12.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.fss.2014.12.003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Khaniyev T., Kayış E., Güllü R. Next-day operating room scheduling with uncertain surgery durations: Exact analysis and heuristicsa. European Journal of Operational Research. 2020;286(1):49–62. doi: 10.1016/j.ejor.2020.03.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejor.2020.03.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kiani M., Eksioglu B., Isik T., Thomas A., Gilpin J. Evaluating appointment postponement in scheduling patients at a diagnostic clinic. Naval Research Logistics. 2022;69(1):76–91. doi: 10.1002/nav.21987.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/nav.21987</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kumar A., Costa A.M., Fackrell M., Taylor P.G. A sequential stochastic mixed integer programming model for tactical master surgery scheduling. European Journal of Operational Research. 2018;270(2):734–746. doi: 10.1016/j.ejor.2018.04.007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejor.2018.04.007</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li X., Rafaliya N., Baki M.F., Chaouch B.A. Scheduling elective surgeries: The tradeoff among bed capacity, waiting patients and operating room utilization using goal programming. Health Care Management Science. 2017;20(1):33–54. doi: 10.1007/s10729-015-9334-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10729-015-9334-2</ArticleId>
+            <ArticleId IdType="pubmed">26183470</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liou T.S., Wang M.J.J. Ranking fuzzy numbers with integral value. Fuzzy Sets and Systems. 1992;50(3):247–255. doi: 10.1016/0165-0114(92)90223-Q.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0165-0114(92)90223-Q</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lovejoy W.S., Li Y. Hospital operating room capacity expansion. Management Science. 2002;48(11):1369–1387. doi: 10.1287/mnsc.48.11.1369.266.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1287/mnsc.48.11.1369.266</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mak H.Y., Rong Y., Zhang J. Appointment scheduling with limited distributional information. Management Science. 2015;61(2):316–334. doi: 10.1287/mnsc.2013.1881.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1287/mnsc.2013.1881</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martin, S. (2021). Australia has 200 fewer intensive care beds than at the start of the pandemic. The Guardian, pp. 6–11. https://www.theguardian.com/australia-news/2021/oct/14/australia-has-200-fewer-intensive-care-beds-than-at-the-start-of-the-pandemic.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Min D., Yih Y. An elective surgery scheduling problem considering patient priority. Computers and Operations Research. 2010;37(6):1091–1099. doi: 10.1016/j.cor.2009.09.016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cor.2009.09.016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Min D., Yih Y. Scheduling elective surgery under uncertainty and downstream capacity constraints. European Journal of Operational Research. 2010;206(3):642–652. doi: 10.1016/j.ejor.2010.03.014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejor.2010.03.014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moosavi A., Ebrahimnejad S. Scheduling of elective patients considering upstream and downstream units and emergency demand using robust optimization. Computers &amp; Industrial Engineering. 2018;120(April):216–233. doi: 10.1016/j.cie.2018.04.047.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cie.2018.04.047</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moosavi A., Ebrahimnejad S. Robust operating room planning considering upstream and downstream units : A new two-stage heuristic algorithm. Computers &amp; Industrial Engineering. 2020;143 doi: 10.1016/j.cie.2020.106387.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cie.2020.106387</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mulvey J.M., Vanderbei R.J., Zenios S.A. Robust optimization of large-scale systems. Operations Research. 1995;43(2):264–281. doi: 10.1287/opre.43.2.264.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1287/opre.43.2.264</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muthuswamy, K. (2021). Swamped with covid patients , Washington hospitals struggle to avoid Idaho’s fate. The Washington Post.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Naderi B., Roshanaei V., Begen M.A., Aleman D.M., Urbach D.R. Increased surgical capacity without additional resources: Generalized operating room planning and scheduling. Production and Operations Management. 2021;30(8):2608–2635. doi: 10.1111/poms.13397.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/poms.13397</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Niu Q., Jiao B., Gu X. Particle swarm optimization combined with genetic operators for job shop scheduling problem with fuzzy processing time. Applied Mathematics and Computation. 2008;205(1):148–158. doi: 10.1016/j.amc.2008.05.086.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.amc.2008.05.086</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Norris Z.A., Sissman E., O’Connell B.K., Mottole N.A., Patel H., Balouch E., et al.  COVID-19 pandemic and elective spinal surgery cancelations – what happens to the patients? The Spine Journal. 2022 doi: 10.1016/j.spinee.2021.07.019.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.spinee.2021.07.019</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pinker E., Tezcan T. Determining the optimal configuration of hospital inpatient rooms in the presence of isolation patients. Operations Research. 2013;61(6):1259–1276. doi: 10.1287/opre.2013.1220.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1287/opre.2013.1220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>René Bekker, M. uit het B. G. K. (2022). Modeling COVID-19 hospital admissions and occupancy in the Netherlands. European Journal of Operational Research. https://doi.org/https://doi.org/10.1016/j.ejor.2021.12.044.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sen-Crowe B., Sutherland M., McKenney M., Elkbuli A. A closer look into global hospital beds capacity and resource shortages during the covid-19 pandemic. Journal of Surgical Research. 2021;260:56–63. doi: 10.1016/j.jss.2020.11.062.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jss.2020.11.062</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shehadeh, K. S., &amp; Padman, R. (2022). Stochastic optimization approaches for elective surgery scheduling with downstream capacity constraints: Models, challenges, and opportunities. Computers and Operations Research, 137(July 2021), 105523. https://doi.org/10.1016/j.cor.2021.105523.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Storn R., Price K. Differential evolution - a simple and efficient heuristic for global optimization over continuous spaces. Journal of Global Optimization. 1997;11:341–359. doi: 10.1023/A:1008202821328.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1023/A:1008202821328</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taramasco C., Olivares R., Munoz R., Soto R., Villar M., de Albuquerque V.H.C. The patient bed assignment problem solved by autonomous bat algorithm. Applied Soft Computing Journal. 2019;81 doi: 10.1016/j.asoc.2019.105484.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.asoc.2019.105484</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tsafarakis S., Zervoudakis K., Andronikidis A., Altsitsiadis E. Fuzzy self-tuning differential evolution for optimal product line design. European Journal of Operational Research. 2020;287(3):1161–1169. doi: 10.1016/j.ejor.2020.05.018.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejor.2020.05.018</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vancroonenburg W., De Causmaecker P., Vanden Berghe G. A study of decision support models for online patient-to-room assignment planning. Annals of Operations Research. 2016;239(1):253–271. doi: 10.1007/s10479-013-1478-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10479-013-1478-1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vijayakumar B., Parikh P.J., Scott R., Barnes A., Gallimore J. A dual bin-packing approach to scheduling surgical cases at a publicly-funded hospital. European Journal of Operational Research. 2013;224(3):583–591. doi: 10.1016/j.ejor.2012.09.010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejor.2012.09.010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Y., Zhang Y., Tang J. A distributionally robust optimization approach for surgery block allocation. European Journal of Operational Research. 2019;273(2):740–753. doi: 10.1016/j.ejor.2018.08.037.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejor.2018.08.037</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang J., Dai Z., Jim A.C., Shi J. Surgical scheduling by Fuzzy model considering inpatient beds shortage under uncertain surgery durations. Annals of Operations Research. 2022 doi: 10.1007/s10479-022-04645-z.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10479-022-04645-z</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang K., Qin H., Huang Y., Luo M.W., Zhou L. Surgery scheduling in outpatient procedure centre with re-entrant patient flow and fuzzy service times. Omega. 2021;102 doi: 10.1016/j.omega.2020.102350.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.omega.2020.102350</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu W., Ruan Y., Ning J., Cheng F. Experience in management of emergency and severe cases of non-COVID-19 during the outbreak of COVID-19. American Journal of Infection Control. 2021;49(4):484–488. doi: 10.1016/j.ajic.2020.04.018.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ajic.2020.04.018</ArticleId>
+            <ArticleId IdType="pmc">PMC7987370</ArticleId>
+            <ArticleId IdType="pubmed">33771325</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y., Wang Y., Tang J., Lim A. Mitigating overtime risk in tactical surgical scheduling. Omega. 2020;93:1–13. doi: 10.1016/j.omega.2019.01.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.omega.2019.01.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao A., Jie H., Guan H., Guan S. A multi-attribute fuzzy fluctuation time series model based on neutrosophic soft sets and information entropy. International Journal of Fuzzy Systems. 2020;22(2):636–652. doi: 10.1007/s40815-019-00771-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s40815-019-00771-2</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zychlinski N., Mandelbaum A., Momčilović P., Cohen I. Bed blocking in hospitals due to scarce capacity in geriatric institutions—cost minimization via fluid models. Manufacturing and Service Operations Management. 2020;22(2):396–411. doi: 10.1287/MSOM.2018.0745.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1287/MSOM.2018.0745</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

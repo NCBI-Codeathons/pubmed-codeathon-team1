@@ -1,0 +1,1622 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">34982944</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>16</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2046-2441</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>12</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jan</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Open biology</Title>
+          <ISOAbbreviation>Open Biol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>RNA polymerase II pausing in development: orchestrating transcription.</ArticleTitle>
+        <Pagination>
+          <StartPage>210220</StartPage>
+          <MedlinePgn>210220</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">210220</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1098/rsob.210220</ELocationID>
+        <Abstract>
+          <AbstractText>The coordinated regulation of transcriptional networks underpins cellular identity and developmental progression. RNA polymerase II promoter-proximal pausing (Pol II pausing) is a prevalent mechanism by which cells can control and synchronize transcription. Pol II pausing regulates the productive elongation step of transcription at key genes downstream of a variety of signalling pathways, such as FGF and Nodal. Recent advances in our understanding of the Pol II pausing machinery and its role in transcription call for an assessment of these findings within the context of development. In this review, we discuss our current understanding of the molecular basis of Pol II pausing and its function during organismal development. By critically assessing the tools used to study this process we conclude that combining recently developed genomics approaches with refined perturbation systems has the potential to expand our understanding of Pol II pausing mechanistically and functionally in the context of development and beyond.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Abuhashem</LastName>
+            <ForeName>Abderhman</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0002-6135-5679</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Developmental Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Weill Cornell/Rockefeller/Sloan Kettering Tri-Institutional MD-PhD Program, New York, NY 10021, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Biochemistry, Cell and Molecular Biology Graduate Program, Weill Cornell Medical College, New York, NY 10021, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Garg</LastName>
+            <ForeName>Vidur</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Developmental Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hadjantonakis</LastName>
+            <ForeName>Anna-Katerina</ForeName>
+            <Initials>AK</Initials>
+            <Identifier Source="ORCID">0000-0002-7580-5124</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Developmental Biology Program, Sloan Kettering Institute, Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Biochemistry, Cell and Molecular Biology Graduate Program, Weill Cornell Medical College, New York, NY 10021, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 DK127821</GrantID>
+            <Acronym>DK</Acronym>
+            <Agency>NIDDK NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 HD086478</GrantID>
+            <Acronym>HD</Acronym>
+            <Agency>NICHD NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 HD094868</GrantID>
+            <Acronym>HD</Acronym>
+            <Agency>NICHD NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>T32 GM007739</GrantID>
+            <Acronym>GM</Acronym>
+            <Agency>NIGMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>P30 CA008748</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>F30 HD103398</GrantID>
+            <Acronym>HD</Acronym>
+            <Agency>NICHD NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>01</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Open Biol</MedlineTA>
+        <NlmUniqueID>101580419</NlmUniqueID>
+        <ISSNLinking>2046-2441</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>EC 2.7.7.-</RegistryNumber>
+          <NameOfSubstance UI="D012319">RNA Polymerase II</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D053263" MajorTopicYN="Y">Gene Regulatory Networks</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011401" MajorTopicYN="N">Promoter Regions, Genetic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012319" MajorTopicYN="Y">RNA Polymerase II</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014158" MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Pol II pausing</Keyword>
+        <Keyword MajorTopicYN="Y">development</Keyword>
+        <Keyword MajorTopicYN="Y">embryonic stem cells</Keyword>
+        <Keyword MajorTopicYN="Y">transcription</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>4</Day>
+          <Hour>20</Hour>
+          <Minute>4</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34982944</ArticleId>
+        <ArticleId IdType="pmc">PMC8727152</ArticleId>
+        <ArticleId IdType="doi">10.1098/rsob.210220</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Cramer P. 2019. 
+Organization and regulation of gene transcription. Nature
+573, 45-54. (10.1038/s41586-019-1517-4)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-019-1517-4</ArticleId>
+            <ArticleId IdType="pubmed">31462772</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Johnston RJJ, Desplan C. 2010. 
+Stochastic mechanisms of cell fate specification that yield random or robust outcomes. Annu. Rev. Cell Dev. Biol.
+26, 689-719. (10.1146/annurev-cellbio-100109-104113)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-cellbio-100109-104113</ArticleId>
+            <ArticleId IdType="pmc">PMC3025287</ArticleId>
+            <ArticleId IdType="pubmed">20590453</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pope SD, Medzhitov R. 2018. 
+Emerging principles of gene expression programs and their regulation. Mol. Cell
+71, 389-397. (10.1016/j.molcel.2018.07.017)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2018.07.017</ArticleId>
+            <ArticleId IdType="pubmed">30075140</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tunnacliffe E, Chubb JR. 2020. 
+What is a transcriptional burst?
+Trends Genet.
+36, 288-297. (10.1016/j.tig.2020.01.003)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tig.2020.01.003</ArticleId>
+            <ArticleId IdType="pubmed">32035656</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaern M, Elston TC, Blake WJ, Collins JJ. 2005. 
+Stochasticity in gene expression: from theories to phenotypes. Nat. Rev. Genet.
+6, 451-464. (10.1038/nrg1615)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrg1615</ArticleId>
+            <ArticleId IdType="pubmed">15883588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roeder RG. 2019. 
+50+ years of eukaryotic transcription: an expanding universe of factors and mechanisms. Nat. Struct. Mol. Biol.
+26, 783-791. (10.1038/s41594-019-0287-x)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41594-019-0287-x</ArticleId>
+            <ArticleId IdType="pmc">PMC6867066</ArticleId>
+            <ArticleId IdType="pubmed">31439941</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blaustein M, et al. . 2005. 
+Concerted regulation of nuclear and cytoplasmic activities of SR proteins by AKT. Nat. Struct. Mol. Biol.
+12, 1037-1044. (10.1038/nsmb1020)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nsmb1020</ArticleId>
+            <ArticleId IdType="pubmed">16299516</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng C, Yaffe MB, Sharp PA. 2006. 
+A positive feedback loop couples Ras activation and CD44 alternative splicing. Genes Dev.
+20, 1715-1720. (10.1101/gad.1430906)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.1430906</ArticleId>
+            <ArticleId IdType="pmc">PMC1522067</ArticleId>
+            <ArticleId IdType="pubmed">16818603</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proudfoot NJ. 2016. 
+Transcriptional termination in mammals: stopping the RNA polymerase II juggernaut. Science
+352, aad9926. (10.1126/science.aad9926)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aad9926</ArticleId>
+            <ArticleId IdType="pmc">PMC5144996</ArticleId>
+            <ArticleId IdType="pubmed">27284201</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Herzel L, Ottoz DSM, Alpert T, Neugebauer KM. 2017. 
+Splicing and transcription touch base: co-transcriptional spliceosome assembly and function. Nat. Rev. Mol. Cell Biol.
+18, 637-650. (10.1038/nrm.2017.63)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrm.2017.63</ArticleId>
+            <ArticleId IdType="pmc">PMC5928008</ArticleId>
+            <ArticleId IdType="pubmed">28792005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kwak H, Lis JT. 2013. 
+Control of transcriptional elongation. Annu. Rev. Genet.
+47, 483-508. (10.1146/annurev-genet-110711-155440)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-genet-110711-155440</ArticleId>
+            <ArticleId IdType="pmc">PMC3974797</ArticleId>
+            <ArticleId IdType="pubmed">24050178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen FX, Smith ER, Shilatifard A. 2018. 
+Born to run: control of transcription elongation by RNA polymerase II. Nat. Rev. Mol. Cell Biol.
+19, 464-478. (10.1038/s41580-018-0010-5)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41580-018-0010-5</ArticleId>
+            <ArticleId IdType="pubmed">29740129</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Core L, Adelman K. 2019. 
+Promoter-proximal pausing of RNA polymerase II: a nexus of gene regulation. Genes Dev.
+33, 960-982. (10.1101/gad.325142.119)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.325142.119</ArticleId>
+            <ArticleId IdType="pmc">PMC6672056</ArticleId>
+            <ArticleId IdType="pubmed">31123063</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Min IM, Waterfall JJ, Core LJ, Munroe RJ, Schimenti J, Lis JT. 2011. 
+Regulating RNA polymerase pausing and transcription elongation in embryonic stem cells. Genes Dev.
+25, 742-754. (10.1101/gad.2005511)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.2005511</ArticleId>
+            <ArticleId IdType="pmc">PMC3070936</ArticleId>
+            <ArticleId IdType="pubmed">21460038</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Williams LH, Fromm G, Gokey NG, Henriques T, Muse GW, Burkholder A, Fargo DC, Hu G, Adelman K. 2015. 
+Pausing of RNA polymerase II regulates mammalian developmental potential through control of signaling networks. Mol. Cell
+58, 311-322. (10.1016/j.molcel.2015.02.003)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2015.02.003</ArticleId>
+            <ArticleId IdType="pmc">PMC4402150</ArticleId>
+            <ArticleId IdType="pubmed">25773599</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang X, Hang S, Prazak L, Gergen JP. 2010. 
+NELF potentiates gene transcription in the Drosophila embryo. PLoS ONE
+5, e11498. (10.1371/journal.pone.0011498)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0011498</ArticleId>
+            <ArticleId IdType="pmc">PMC2901382</ArticleId>
+            <ArticleId IdType="pubmed">20634899</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Q, Liu X, Zhou T, Cook J, Nguyen K, Bai X. 2016. 
+RNA polymerase II pausing modulates hematopoietic stem cell emergence in zebrafish. Blood
+128, 1701-1710. (10.1182/blood-2016-02-697847)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1182/blood-2016-02-697847</ArticleId>
+            <ArticleId IdType="pmc">PMC5043126</ArticleId>
+            <ArticleId IdType="pubmed">27520065</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Amleh A, Nair SJ, Sun J, Sutherland A, Hasty P, Li R. 2009. 
+Mouse cofactor of BRCA1 (Cobra1) is required for early embryogenesis. PLoS ONE
+4, 2-9. (10.1371/journal.pone.0005034)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0005034</ArticleId>
+            <ArticleId IdType="pmc">PMC2661135</ArticleId>
+            <ArticleId IdType="pubmed">19340312</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saunders A, Core LJ, Sutcliffe C, Lis JT, Ashe HL. 2013. 
+Extensive polymerase pausing during Drosophila axis patterning enables high-level and pliable transcription. Genes Dev.
+27, 1146-1158. (10.1101/gad.215459.113)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.215459.113</ArticleId>
+            <ArticleId IdType="pmc">PMC3672648</ArticleId>
+            <ArticleId IdType="pubmed">23699410</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu B, et al. . 2020. 
+The landscape of RNA Pol II binding reveals a stepwise transition during ZGA. Nature
+587, 139-144. (10.1038/s41586-020-2847-y)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-020-2847-y</ArticleId>
+            <ArticleId IdType="pubmed">33116310</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang HT, Hiiragi T. 2018. 
+Symmetry breaking in the mammalian embryo. Annu. Rev. Cell Dev. Biol.
+34, 405-426. (10.1146/annurev-cellbio-100617-062616)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-cellbio-100617-062616</ArticleId>
+            <ArticleId IdType="pubmed">30095292</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chazaud C, Yamanaka Y. 2016. 
+Lineage specification in the mouse preimplantation embryo. Development
+143, 1063-1074. (10.1242/dev.128314)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.128314</ArticleId>
+            <ArticleId IdType="pubmed">27048685</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rossant J, Tam PPL. 2009. 
+Blastocyst lineage formation, early embryonic asymmetries and axis patterning in the mouse. Development
+136, 701-713. (10.1242/dev.017178)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.017178</ArticleId>
+            <ArticleId IdType="pubmed">19201946</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schrode N, Xenopoulos P, Piliszek A, Frankenberg S, Plusa B, Hadjantonakis A-K. 2013. 
+Anatomy of a blastocyst: cell behaviors driving cell fate choice and morphogenesis in the early mouse embryo. Genesis
+51, 219-233. (10.1002/dvg.22368)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/dvg.22368</ArticleId>
+            <ArticleId IdType="pmc">PMC3633705</ArticleId>
+            <ArticleId IdType="pubmed">23349011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tastemel M, Gogate AA, Malladi VS, Nguyen K, Mitchell C, Banaszynski LA, Bai X. 2017. 
+Transcription pausing regulates mouse embryonic stem cell differentiation. Stem Cell Res.
+25, 250-255. (10.1016/j.scr.2017.11.012)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.scr.2017.11.012</ArticleId>
+            <ArticleId IdType="pmc">PMC5732849</ArticleId>
+            <ArticleId IdType="pubmed">29174978</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krumm A, Hickey LB, Groudine M. 1995. 
+Promoter-proximal pausing of RNA polymerase II defines a general rate-limiting step after transcription initiation. Genes Dev.
+9, 559-572. (10.1101/gad.9.5.559)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.9.5.559</ArticleId>
+            <ArticleId IdType="pubmed">7698646</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rahl PB, Lin CY, Seila AC, Flynn RA, McCuine S, Burge CB, Sharp PA, Young RA. 2010. 
+c-Myc regulates transcriptional pause release. Cell
+141, 432-445. (10.1016/j.cell.2010.03.030)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2010.03.030</ArticleId>
+            <ArticleId IdType="pmc">PMC2864022</ArticleId>
+            <ArticleId IdType="pubmed">20434984</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gaertner B, Zeitlinger J. 2014. 
+RNA polymerase II pausing during development. Development
+141, 1179-1183. (10.1242/dev.088492)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.088492</ArticleId>
+            <ArticleId IdType="pmc">PMC3943177</ArticleId>
+            <ArticleId IdType="pubmed">24595285</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Adelman K, Lis JT. 2012. 
+Promoter-proximal pausing of RNA polymerase II: emerging roles in metazoans. Nat. Rev. Genet.
+13, 720-731. (10.1038/nrg3293)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrg3293</ArticleId>
+            <ArticleId IdType="pmc">PMC3552498</ArticleId>
+            <ArticleId IdType="pubmed">22986266</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Narita T, et al. . 2003. 
+Human transcription elongation factor NELF: identification of novel subunits and reconstitution of the functionally active complex. Mol. Cell. Biol.
+23, 1863-1873. (10.1128/mcb.23.6.1863-1873.2003)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/mcb.23.6.1863-1873.2003</ArticleId>
+            <ArticleId IdType="pmc">PMC149481</ArticleId>
+            <ArticleId IdType="pubmed">12612062</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hartzog GA, Fu J. 2013. 
+The Spt4-Spt5 complex: a multi-faceted regulator of transcription elongation. Biochim. Biophys. Acta
+1829, 105-115. (10.1016/j.bbagrm.2012.08.007)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbagrm.2012.08.007</ArticleId>
+            <ArticleId IdType="pmc">PMC3545043</ArticleId>
+            <ArticleId IdType="pubmed">22982195</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vos SM, Farnung L, Boehning M, Wigge C, Linden A, Urlaub H, Cramer P. 2018. 
+Structure of activated transcription complex Pol II-DSIF-PAF-SPT6. Nature
+560, 607-612. (10.1038/s41586-018-0440-4)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-018-0440-4</ArticleId>
+            <ArticleId IdType="pubmed">30135578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vos SM, Farnung L, Urlaub H, Cramer P. 2018. 
+Structure of paused transcription complex Pol II–DSIF–NELF. Nature
+560, 601-606. (10.1038/s41586-018-0442-2)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-018-0442-2</ArticleId>
+            <ArticleId IdType="pmc">PMC6245578</ArticleId>
+            <ArticleId IdType="pubmed">30135580</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Patel MC, Debrosse M, Smith M, Dey A, Huynh W, Sarai N, Heightman TD, Tamura T, Ozato K. 2013. 
+BRD4 coordinates recruitment of pause release factor P-TEFb and the pausing complex NELF/DSIF to regulate transcription elongation of interferon-stimulated genes. Mol. Cell. Biol.
+33, 2497-2507. (10.1128/MCB.01180-12)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/MCB.01180-12</ArticleId>
+            <ArticleId IdType="pmc">PMC3700095</ArticleId>
+            <ArticleId IdType="pubmed">23589332</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Conaway RC, Conaway JW. 2013. 
+The mediator complex and transcription elongation. Biochim. Biophys. Acta
+1829, 69-75. (10.1016/j.bbagrm.2012.08.017)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbagrm.2012.08.017</ArticleId>
+            <ArticleId IdType="pmc">PMC3693936</ArticleId>
+            <ArticleId IdType="pubmed">22983086</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bai X, et al. . 2010. 
+TIF1gamma controls erythroid cell fate by regulating transcription elongation. Cell
+142, 133-143. (10.1016/j.cell.2010.05.028)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2010.05.028</ArticleId>
+            <ArticleId IdType="pmc">PMC3072682</ArticleId>
+            <ArticleId IdType="pubmed">20603019</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bacon CW, D'Orso I. 2019. 
+CDK9: a signaling hub for transcriptional control. Transcription
+10, 57-75. (10.1080/21541264.2018.1523668)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/21541264.2018.1523668</ArticleId>
+            <ArticleId IdType="pmc">PMC6602564</ArticleId>
+            <ArticleId IdType="pubmed">30227759</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krebs AR, Imanci D, Hoerner L, Gaidatzis D, Burger L, Schübeler D. 2017. 
+Genome-wide single-molecule footprinting reveals high RNA polymerase II turnover at paused promoters. Mol. Cell
+67, 411-422.e4. (10.1016/j.molcel.2017.06.027)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2017.06.027</ArticleId>
+            <ArticleId IdType="pmc">PMC5548954</ArticleId>
+            <ArticleId IdType="pubmed">28735898</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Samarakkody A, et al. . 2015. 
+RNA polymerase II pausing can be retained or acquired during activation of genes involved in the epithelial to mesenchymal transition. Nucleic Acids Res.
+43, 3938-3949. (10.1093/nar/gkv263)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkv263</ArticleId>
+            <ArticleId IdType="pmc">PMC4417172</ArticleId>
+            <ArticleId IdType="pubmed">25820424</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rougvie AE, Lis JT. 1988. 
+The RNA polymerase II molecule at the 5′ end of the uninduced hsp70 gene of D. melanogaster is transcriptionally engaged. Cell
+54, 795-804. (10.1016/s0092-8674(88)91087-2)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0092-8674(88)91087-2</ArticleId>
+            <ArticleId IdType="pubmed">3136931</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brown SA, Imbalzano AN, Kingston RE. 1996. 
+Activator-dependent regulation of transcriptional pausing on nucleosomal templates. Genes Dev.
+10, 1479-1490. (10.1101/gad.10.12.1479)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.10.12.1479</ArticleId>
+            <ArticleId IdType="pubmed">8666232</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bunch H. 2017. 
+RNA polymerase II pausing and transcriptional regulation of the HSP70 expression. Eur. J. Cell Biol.
+96, 739-745. (10.1016/j.ejcb.2017.09.003)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ejcb.2017.09.003</ArticleId>
+            <ArticleId IdType="pubmed">29017815</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee H, Kraus KW, Wolfner MF, Lis JT. 1992. 
+DNA sequence requirements for generating paused polymerase at the start of hsp70. Genes Dev.
+6, 284-295. (10.1101/gad.6.2.284)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.6.2.284</ArticleId>
+            <ArticleId IdType="pubmed">1737619</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bunch H, et al. . 2014. 
+TRIM28 regulates RNA polymerase II promoter-proximal pausing and pause release. Nat. Struct. Mol. Biol.
+21, 876-883. (10.1038/nsmb.2878)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nsmb.2878</ArticleId>
+            <ArticleId IdType="pmc">PMC4189995</ArticleId>
+            <ArticleId IdType="pubmed">25173174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mahat DB, et al. . 2016. 
+Base-pair-resolution genome-wide mapping of active RNA polymerases using precision nuclear run-on (PRO-seq). Nat. Protoc.
+11, 1455-1476. (10.1038/nprot.2016.086)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nprot.2016.086</ArticleId>
+            <ArticleId IdType="pmc">PMC5502525</ArticleId>
+            <ArticleId IdType="pubmed">27442863</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Core LJ, Waterfall JJ, Lis JT. 2008. 
+Nascent RNA sequencing reveals widespread pausing and divergent initiation at human promoters. Science
+322, 1845-1848. (10.1126/science.1162228)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1162228</ArticleId>
+            <ArticleId IdType="pmc">PMC2833333</ArticleId>
+            <ArticleId IdType="pubmed">19056941</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Henriques T, Scruggs BS, Inouye MO, Muse GW, Williams LH, Burkholder AB, Lavender CA, Fargo DC, Adelman K. 2018. 
+Widespread transcriptional pausing and elongation control at enhancers. Genes Dev.
+32, 26-41. (10.1101/gad.309351.117)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.309351.117</ArticleId>
+            <ArticleId IdType="pmc">PMC5828392</ArticleId>
+            <ArticleId IdType="pubmed">29378787</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen F, Gao X, Shilatifard A. 2015. 
+Stably paused genes revealed through inhibition of transcription initiation by the TFIIH inhibitor triptolide. Genes Dev.
+29, 39-47. (10.1101/gad.246173.114)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.246173.114</ArticleId>
+            <ArticleId IdType="pmc">PMC4281563</ArticleId>
+            <ArticleId IdType="pubmed">25561494</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gressel S, Schwalb B, Decker TM, Qin W, Leonhardt H, Eick D, Cramer P. 2017. 
+CDK9-dependent RNA polymerase II pausing controls transcription initiation. Elife
+6, e29736. (10.7554/eLife.29736)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.29736</ArticleId>
+            <ArticleId IdType="pmc">PMC5669633</ArticleId>
+            <ArticleId IdType="pubmed">28994650</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gressel S, Schwalb B, Cramer P. 2019. 
+The pause-initiation limit restricts transcription activation in human cells. Nat. Commun.
+10, 3603. (10.1038/s41467-019-11536-8)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-019-11536-8</ArticleId>
+            <ArticleId IdType="pmc">PMC6689055</ArticleId>
+            <ArticleId IdType="pubmed">31399571</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shao W, Zeitlinger J. 2017. 
+Paused RNA polymerase II inhibits new transcriptional initiation. Nat. Genet.
+49, 1045-1051. (10.1038/ng.3867)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ng.3867</ArticleId>
+            <ArticleId IdType="pubmed">28504701</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jonkers I, Kwak H, Lis JT. 2014. 
+Genome-wide dynamics of Pol II elongation and its interplay with promoter proximal pausing, chromatin, and exons. Elife
+3, e02407. (10.7554/eLife.02407)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.02407</ArticleId>
+            <ArticleId IdType="pmc">PMC4001325</ArticleId>
+            <ArticleId IdType="pubmed">24843027</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Steurer B, et al. . 2018. 
+Live-cell analysis of endogenous GFP-RPB1 uncovers rapid turnover of initiating and promoter-paused RNA Polymerase II. Proc. Natl Acad. Sci. USA
+115, E4368-E4376. (10.1073/pnas.1717920115)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1717920115</ArticleId>
+            <ArticleId IdType="pmc">PMC5948963</ArticleId>
+            <ArticleId IdType="pubmed">29632207</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buckley MS, Kwak H, Zipfel WR, Lis JT. 2014. 
+Kinetics of promoter Pol II on Hsp70 reveal stable pausing and key insights into its regulation. Genes Dev.
+28, 14-19. (10.1101/gad.231886.113)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.231886.113</ArticleId>
+            <ArticleId IdType="pmc">PMC3894409</ArticleId>
+            <ArticleId IdType="pubmed">24395245</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Erickson B, Sheridan RM, Cortazar M, Bentley DL. 2018. 
+Dynamic turnover of paused Pol II complexes at human promoters. Genes Dev.
+32, 1215-1225. (10.1101/gad.316810.118)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.316810.118</ArticleId>
+            <ArticleId IdType="pmc">PMC6120720</ArticleId>
+            <ArticleId IdType="pubmed">30150253</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gilchrist DA, Dos Santos G, Fargo DC, Xie B, Gao Y, Li L, Adelman K. 2010. 
+Pausing of RNA polymerase II disrupts DNA-specified nucleosome organization to enable precise gene regulation. Cell
+143, 540-551. (10.1016/j.cell.2010.10.004)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2010.10.004</ArticleId>
+            <ArticleId IdType="pmc">PMC2991113</ArticleId>
+            <ArticleId IdType="pubmed">21074046</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Core LJ, Waterfall JJ, Gilchrist DA, Fargo DC, Kwak H, Adelman K, Lis JT. 2012. 
+Defining the status of RNA polymerase at promoters. Cell Rep.
+2, 1025-1035. (10.1016/j.celrep.2012.08.034)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2012.08.034</ArticleId>
+            <ArticleId IdType="pmc">PMC3483431</ArticleId>
+            <ArticleId IdType="pubmed">23062713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nogales E, Louder RK, He Y. 2017. 
+Structural Insights into the eukaryotic transcription initiation machinery. Annu. Rev. Biophys.
+46, 59-83. (10.1146/annurev-biophys-070816-033751)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-biophys-070816-033751</ArticleId>
+            <ArticleId IdType="pmc">PMC6186020</ArticleId>
+            <ArticleId IdType="pubmed">28532216</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fant CB, et al. . 2020. 
+TFIID enables RNA polymerase II promoter-proximal pausing. Mol. Cell
+78, 785-793.e8. (10.1016/j.molcel.2020.03.008)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2020.03.008</ArticleId>
+            <ArticleId IdType="pmc">PMC7245555</ArticleId>
+            <ArticleId IdType="pubmed">32229306</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gates LA, et al. . 2017. 
+Acetylation on histone H3 lysine 9 mediates a switch from transcription initiation to elongation. J. Biol. Chem.
+292, 14 456-14 472. (10.1074/jbc.M117.802074)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M117.802074</ArticleId>
+            <ArticleId IdType="pmc">PMC5582839</ArticleId>
+            <ArticleId IdType="pubmed">28717009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu M, Wang PF, Lee JS, Martin-Brown S, Florens L, Washburn M, Shilatifard A. 2008. 
+Molecular regulation of H3K4 trimethylation by Wdr82, a component of human Set1/COMPASS. Mol. Cell. Biol.
+28, 7337-7344. (10.1128/MCB.00976-08)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/MCB.00976-08</ArticleId>
+            <ArticleId IdType="pmc">PMC2593441</ArticleId>
+            <ArticleId IdType="pubmed">18838538</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Price DH. 2018. 
+Transient pausing by RNA polymerase II. Proc. Natl Acad. Sci. USA
+115, 4810-4812. (10.1073/pnas.1805129115)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1805129115</ArticleId>
+            <ArticleId IdType="pmc">PMC5949015</ArticleId>
+            <ArticleId IdType="pubmed">29691322</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Etchegaray J-P, et al. . 2019. 
+The histone deacetylase SIRT6 restrains transcription elongation via promoter-proximal pausing. Mol. Cell
+75, 683-699.e7. (10.1016/j.molcel.2019.06.034)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2019.06.034</ArticleId>
+            <ArticleId IdType="pmc">PMC6907403</ArticleId>
+            <ArticleId IdType="pubmed">31399344</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vaid R, Wen J, Mannervik M. 2020. 
+Release of promoter-proximal paused Pol II in response to histone deacetylase inhibition. Nucleic Acids Res.
+48, 4877-4890. (10.1093/nar/gkaa234)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkaa234</ArticleId>
+            <ArticleId IdType="pmc">PMC7229826</ArticleId>
+            <ArticleId IdType="pubmed">32297950</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Perrimon N, Pitsouli C, Shilo B-Z. 2012. 
+Signaling mechanisms controlling cell fate and embryonic patterning. Cold Spring Harb. Perspect. Biol.
+4, a005975. (10.1101/cshperspect.a005975)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/cshperspect.a005975</ArticleId>
+            <ArticleId IdType="pmc">PMC3405863</ArticleId>
+            <ArticleId IdType="pubmed">22855721</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arias AM, Hayward P. 2006. 
+Filtering transcriptional noise during development: concepts and mechanisms. Nat. Rev. Genet.
+7, 34-44. (10.1038/nrg1750)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrg1750</ArticleId>
+            <ArticleId IdType="pubmed">16369570</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chubb JR. 2017. 
+Symmetry breaking in development and stochastic gene expression. Wiley Interdiscip. Rev. Dev. Biol.
+6, e284. (10.1002/wdev.284)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/wdev.284</ArticleId>
+            <ArticleId IdType="pubmed">28719044</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lagha M, et al. . 2013. 
+Paused Pol II coordinates tissue morphogenesis in the Drosophila embryo. Cell
+153, 976-987. (10.1016/j.cell.2013.04.045)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2013.04.045</ArticleId>
+            <ArticleId IdType="pmc">PMC4257494</ArticleId>
+            <ArticleId IdType="pubmed">23706736</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen K, Johnston J, Shao W, Meier S, Staber C, Zeitlinger J. 2013. 
+A global change in RNA polymerase II pausing during the Drosophila midblastula transition. Elife
+2, e00861. (10.7554/eLife.00861)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.00861</ArticleId>
+            <ArticleId IdType="pmc">PMC3743134</ArticleId>
+            <ArticleId IdType="pubmed">23951546</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu X, Kraus WL, Bai X. 2015. 
+Ready, pause, go: regulation of RNA polymerase II pausing and release by cellular signaling pathways. Trends Biochem. Sci.
+40, 516-525. (10.1016/j.tibs.2015.07.003)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tibs.2015.07.003</ArticleId>
+            <ArticleId IdType="pmc">PMC4553066</ArticleId>
+            <ArticleId IdType="pubmed">26254229</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morgani SM, Metzger JJ, Nichols J, Siggia ED, Hadjantonakis A-K. 2018. 
+Micropattern differentiation of mouse pluripotent stem cells recapitulates embryo regionalized cell fate patterning. Elife
+7, e32839. (10.7554/eLife.32839)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.32839</ArticleId>
+            <ArticleId IdType="pmc">PMC5807051</ArticleId>
+            <ArticleId IdType="pubmed">29412136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guenther MG, Levine SS, Boyer LA, Jaenisch R, Young RA. 2007. 
+A chromatin landmark and transcription initiation at most promoters in human cells. Cell
+130, 77-88. (10.1016/j.cell.2007.05.042)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2007.05.042</ArticleId>
+            <ArticleId IdType="pmc">PMC3200295</ArticleId>
+            <ArticleId IdType="pubmed">17632057</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ying Q-L, Stavridis M, Griffiths D, Li M, Smith A. 2003. 
+Conversion of embryonic stem cells into neuroectodermal precursors in adherent monoculture. Nat. Biotechnol.
+21, 183-186. (10.1038/nbt780)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nbt780</ArticleId>
+            <ArticleId IdType="pubmed">12524553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nichols J, Smith A. 2009. 
+Naive and primed pluripotent states. Cell Stem Cell
+4, 487-492. (10.1016/j.stem.2009.05.015)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.stem.2009.05.015</ArticleId>
+            <ArticleId IdType="pubmed">19497275</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wray J, Kalkan T, Gomez-Lopez S, Eckardt D, Cook A, Kemler R, Smith A. 2011. 
+Inhibition of glycogen synthase kinase-3 alleviates Tcf3 repression of the pluripotency network and increases embryonic stem cell resistance to differentiation. Nat. Cell Biol.
+13, 838-845. (10.1038/ncb2267)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncb2267</ArticleId>
+            <ArticleId IdType="pmc">PMC3160487</ArticleId>
+            <ArticleId IdType="pubmed">21685889</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hewitt SC, et al. . 2019. 
+Negative elongation factor is essential for endometrial function. FASEB J. Off. Publ. Fed. Am. Soc. Exp. Biol.
+33, 3010-3023. (10.1096/fj.201801752)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1096/fj.201801752</ArticleId>
+            <ArticleId IdType="pmc">PMC6338652</ArticleId>
+            <ArticleId IdType="pubmed">30332301</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Robinson DCL, et al. . 2021. 
+Negative elongation factor regulates muscle progenitor expansion for efficient myofiber repair and stem cell pool repopulation. Dev. Cell
+56, 1014-1029.e7. (10.1016/j.devcel.2021.02.025)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.devcel.2021.02.025</ArticleId>
+            <ArticleId IdType="pmc">PMC8357161</ArticleId>
+            <ArticleId IdType="pubmed">33735618</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gilchrist DA, Fromm G, dos Santos G, Pham LN, McDaniel IE, Burkholder A, Fargo DC, Adelman K. 2012. 
+Regulating the regulators: the pervasive effects of Pol II pausing on stimulus-responsive gene networks. Genes Dev.
+26, 933-944. (10.1101/gad.187781.112)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.187781.112</ArticleId>
+            <ArticleId IdType="pmc">PMC3347791</ArticleId>
+            <ArticleId IdType="pubmed">22549956</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Danko CG, Hah N, Luo X, Martins AL, Core L, Lis JT, Siepel A, Kraus WL. 2013. 
+Signaling pathways differentially affect RNA polymerase II initiation, pausing, and elongation rate in cells. Mol. Cell
+50, 212-222. (10.1016/j.molcel.2013.02.015)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2013.02.015</ArticleId>
+            <ArticleId IdType="pmc">PMC3640649</ArticleId>
+            <ArticleId IdType="pubmed">23523369</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hah N, Danko CG, Core L, Waterfall JJ, Siepel A, Lis JT, Kraus WL. 2011. 
+A rapid, extensive, and transient transcriptional response to estrogen signaling in breast cancer cells. Cell
+145, 622-634. (10.1016/j.cell.2011.03.042)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2011.03.042</ArticleId>
+            <ArticleId IdType="pmc">PMC3099127</ArticleId>
+            <ArticleId IdType="pubmed">21549415</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aiyar SE, et al. . 2004. 
+Attenuation of estrogen receptor alpha-mediated transcription through estrogen-stimulated recruitment of a negative elongation factor. Genes Dev.
+18, 2134-2146. (10.1101/gad.1214104)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.1214104</ArticleId>
+            <ArticleId IdType="pmc">PMC515291</ArticleId>
+            <ArticleId IdType="pubmed">15342491</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mitra P, Pereira LA, Drabsch Y, Ramsay RG, Gonda TJ. 2012. 
+Estrogen receptor-α recruits P-TEFb to overcome transcriptional pausing in intron 1 of the MYB gene. Nucleic Acids Res.
+40, 5988-6000. (10.1093/nar/gks286)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gks286</ArticleId>
+            <ArticleId IdType="pmc">PMC3401469</ArticleId>
+            <ArticleId IdType="pubmed">22492511</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sacta MA, et al. . 2018. 
+Gene-specific mechanisms direct glucocorticoid-receptor-driven repression of inflammatory response genes in macrophages. Elife
+7, e34864. (10.7554/eLife.34864)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.34864</ArticleId>
+            <ArticleId IdType="pmc">PMC5821458</ArticleId>
+            <ArticleId IdType="pubmed">29424686</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu L, et al. . 2020. 
+Negative elongation factor complex enables macrophage inflammatory responses by controlling anti-inflammatory gene expression. Nat. Commun.
+11, 2286. (10.1038/s41467-020-16209-5)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-020-16209-5</ArticleId>
+            <ArticleId IdType="pmc">PMC7210294</ArticleId>
+            <ArticleId IdType="pubmed">32385332</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Flajollet S, et al. . 2013. 
+The elongation complex components BRD4 and MLLT3/AF9 are transcriptional coactivators of nuclear retinoid receptors. PLoS ONE
+8, e64880. (10.1371/journal.pone.0064880)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0064880</ArticleId>
+            <ArticleId IdType="pmc">PMC3677938</ArticleId>
+            <ArticleId IdType="pubmed">23762261</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cartwright P, McLean C, Sheppard A, Rivett D, Jones K, Dalton S. 2005. 
+LIF/STAT3 controls ES cell self-renewal and pluripotency by a Myc-dependent mechanism. Development
+132, 885-896. (10.1242/dev.01670)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.01670</ArticleId>
+            <ArticleId IdType="pubmed">15673569</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eberhardy SR, Farnham PJ. 2001. 
+c-Myc mediates activation of the cad promoter via a post-RNA polymerase II recruitment mechanism. J. Biol. Chem.
+276, 48 562-48 571. (10.1074/jbc.M109014200)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M109014200</ArticleId>
+            <ArticleId IdType="pubmed">11673469</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morgani S, Nichols J, Hadjantonakis A-K. 2017. 
+The many faces of pluripotency: in vitro adaptations of a continuum of in vivo states. BMC Dev. Biol.
+17, 7. (10.1186/s12861-017-0150-4)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12861-017-0150-4</ArticleId>
+            <ArticleId IdType="pmc">PMC5470286</ArticleId>
+            <ArticleId IdType="pubmed">28610558</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mulas C, Kalkan T, Smith A. 2017. 
+NODAL secures pluripotency upon embryonic stem cell progression from the ground state. Stem Cell Rep.
+9, 77-91. (10.1016/j.stemcr.2017.05.033)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.stemcr.2017.05.033</ArticleId>
+            <ArticleId IdType="pmc">PMC5511111</ArticleId>
+            <ArticleId IdType="pubmed">28669603</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buecker C, et al. . 2014. 
+Reorganization of enhancer patterns in transition from naive to primed pluripotency. Cell Stem Cell
+14, 838-853. (10.1016/j.stem.2014.04.003)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.stem.2014.04.003</ArticleId>
+            <ArticleId IdType="pmc">PMC4491504</ArticleId>
+            <ArticleId IdType="pubmed">24905168</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boroviak T, Loos R, Lombard P, Okahara J, Behr R, Sasaki E, Nichols J, Smith A, Bertone P. 2015. 
+Lineage-specific profiling delineates the emergence and progression of naive pluripotency in mammalian embryogenesis. Dev. Cell
+35, 366-382. (10.1016/j.devcel.2015.10.011)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.devcel.2015.10.011</ArticleId>
+            <ArticleId IdType="pmc">PMC4643313</ArticleId>
+            <ArticleId IdType="pubmed">26555056</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kalkan T, et al. . 2019. 
+Complementary activity of ETV5, RBPJ, and TCF3 drives formative transition from naive pluripotency. Cell Stem Cell
+24, 785-801.e7. (10.1016/j.stem.2019.03.017)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.stem.2019.03.017</ArticleId>
+            <ArticleId IdType="pmc">PMC6509416</ArticleId>
+            <ArticleId IdType="pubmed">31031137</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang P, et al. . 2019. 
+Multi-omic profiling reveals dynamics of the phased progression of pluripotency. Cell Syst.
+8, 427-445.e10. (10.1016/j.cels.2019.03.012)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cels.2019.03.012</ArticleId>
+            <ArticleId IdType="pmc">PMC6544180</ArticleId>
+            <ArticleId IdType="pubmed">31078527</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arnold SJ, Robertson EJ. 2009. 
+Making a commitment: cell lineage allocation and axis patterning in the early mouse embryo. Nat. Rev. Mol. Cell Biol.
+10, 91-103. (10.1038/nrm2618)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrm2618</ArticleId>
+            <ArticleId IdType="pubmed">19129791</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morgani SM, Hadjantonakis A-K. 2020. 
+Signaling regulation during gastrulation: insights from mouse embryos and in vitro systems. Curr. Top. Dev. Biol.
+137, 391-431. (10.1016/bs.ctdb.2019.11.011)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/bs.ctdb.2019.11.011</ArticleId>
+            <ArticleId IdType="pubmed">32143751</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nichols J, Silva J, Roode M, Smith A. 2009. 
+Suppression of Erk signalling promotes ground state pluripotency in the mouse embryo. Development
+136, 3215-3222. (10.1242/dev.038893)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.038893</ArticleId>
+            <ArticleId IdType="pmc">PMC2739140</ArticleId>
+            <ArticleId IdType="pubmed">19710168</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kang M, Piliszek A, Artus J, Hadjantonakis A-K. 2013. 
+FGF4 is required for lineage restriction and salt-and-pepper distribution of primitive endoderm factors but not their initial expression in the mouse. Development
+140, 267-279. (10.1242/dev.084996)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.084996</ArticleId>
+            <ArticleId IdType="pmc">PMC3597205</ArticleId>
+            <ArticleId IdType="pubmed">23193166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Molotkov A, Mazot P, Brewer JR, Cinalli RM, Soriano P. 2017. 
+Distinct requirements for FGFR1 and FGFR2 in primitive endoderm development and exit from pluripotency. Dev. Cell
+41, 511-526.e4. (10.1016/j.devcel.2017.05.004)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.devcel.2017.05.004</ArticleId>
+            <ArticleId IdType="pmc">PMC5502766</ArticleId>
+            <ArticleId IdType="pubmed">28552557</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kang M, Garg V, Hadjantonakis A-K. 2017. 
+Lineage establishment and progression within the inner cell mass of the mouse blastocyst requires FGFR1 and FGFR2. Dev. Cell
+41, 496-510.e5. (10.1016/j.devcel.2017.05.003)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.devcel.2017.05.003</ArticleId>
+            <ArticleId IdType="pmc">PMC5530874</ArticleId>
+            <ArticleId IdType="pubmed">28552559</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miyanari Y, Torres-Padilla M-E. 2012. 
+Control of ground-state pluripotency by allelic regulation of Nanog. Nature
+483, 470-473. (10.1038/nature10807)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature10807</ArticleId>
+            <ArticleId IdType="pubmed">22327294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim S-H, et al. . 2014. 
+ERK1 phosphorylates Nanog to regulate protein stability and stem cell self-renewal. Stem Cell Res.
+13, 1-11. (10.1016/j.scr.2014.04.001)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.scr.2014.04.001</ArticleId>
+            <ArticleId IdType="pubmed">24793005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yeo J-C, et al. . 2014. 
+Klf2 is an essential factor that sustains ground state pluripotency. Cell Stem Cell
+14, 864-872. (10.1016/j.stem.2014.04.015)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.stem.2014.04.015</ArticleId>
+            <ArticleId IdType="pubmed">24905170</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hamilton WB, Mosesson Y, Monteiro RS, Emdal KB, Knudsen TE, Francavilla C, Barkai N, Olsen JV, Brickman JM. 2019. 
+Dynamic lineage priming is driven via direct enhancer regulation by ERK. Nature
+575, 355-360. (10.1038/s41586-019-1732-z)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-019-1732-z</ArticleId>
+            <ArticleId IdType="pubmed">31695196</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pereira L, Yi F, Merrill BJ. 2006. 
+Repression of Nanog gene transcription by Tcf3 limits embryonic stem cell self-renewal. Mol. Cell. Biol.
+26, 7479-7491. (10.1128/MCB.00368-06)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/MCB.00368-06</ArticleId>
+            <ArticleId IdType="pmc">PMC1636872</ArticleId>
+            <ArticleId IdType="pubmed">16894029</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yi F, Pereira L, Hoffman JA, Shy BR, Yuen CM, Liu DR, Merrill BJ. 2011. 
+Opposing effects of Tcf3 and Tcf1 control Wnt stimulation of embryonic stem cell self-renewal. Nat. Cell Biol.
+13, 762-770. (10.1038/ncb2283)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncb2283</ArticleId>
+            <ArticleId IdType="pmc">PMC3129424</ArticleId>
+            <ArticleId IdType="pubmed">21685894</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martello G, Sugimoto T, Diamanti E, Joshi A, Hannah R, Ohtsuka S, Göttgens B, Niwa H, Smith A. 2012. 
+Esrrb is a pivotal target of the Gsk3/Tcf3 axis regulating embryonic stem cell self-renewal. Cell Stem Cell
+11, 491-504. (10.1016/j.stem.2012.06.008)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.stem.2012.06.008</ArticleId>
+            <ArticleId IdType="pmc">PMC3465555</ArticleId>
+            <ArticleId IdType="pubmed">23040478</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sumi T, Oki S, Kitajima K, Meno C. 2013. 
+Epiblast ground state is controlled by canonical Wnt/β-catenin signaling in the postimplantation mouse embryo and epiblast stem cells. PLoS ONE
+8, e63378. (10.1371/journal.pone.0063378)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0063378</ArticleId>
+            <ArticleId IdType="pmc">PMC3653965</ArticleId>
+            <ArticleId IdType="pubmed">23691040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim H, Wu J, Ye S, Tai C-I, Zhou X, Yan H, Li P, Pera M, Ying Q-L. 2013. 
+Modulation of β-catenin function maintains mouse epiblast stem cell and human embryonic stem cell self-renewal. Nat. Commun.
+4, 2403. (10.1038/ncomms3403)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms3403</ArticleId>
+            <ArticleId IdType="pmc">PMC4183150</ArticleId>
+            <ArticleId IdType="pubmed">23985566</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kurek D, et al. . 2015. 
+Endogenous WNT signals mediate BMP-induced and spontaneous differentiation of epiblast stem cells and human embryonic stem cells. Stem Cell Rep.
+4, 114-128. (10.1016/j.stemcr.2014.11.007)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.stemcr.2014.11.007</ArticleId>
+            <ArticleId IdType="pmc">PMC4297870</ArticleId>
+            <ArticleId IdType="pubmed">25544567</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grapin-Botton A, Constam D. 2007. 
+Evolution of the mechanisms and molecular control of endoderm formation. Mech. Dev.
+124, 253-278. (10.1016/j.mod.2007.01.001)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.mod.2007.01.001</ArticleId>
+            <ArticleId IdType="pubmed">17307341</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Murry CE, Keller G. 2008. 
+Differentiation of embryonic stem cells to clinically relevant populations: lessons from embryonic development. Cell
+132, 661-680. (10.1016/j.cell.2008.02.008)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2008.02.008</ArticleId>
+            <ArticleId IdType="pubmed">18295582</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bennett JT, Joubin K, Cheng S, Aanstad P, Herwig R, Clark M, Lehrach H, Schier AF. 2007. 
+Nodal signaling activates differentiation genes during zebrafish gastrulation. Dev. Biol.
+304, 525-540. (10.1016/j.ydbio.2007.01.012)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ydbio.2007.01.012</ArticleId>
+            <ArticleId IdType="pmc">PMC1885460</ArticleId>
+            <ArticleId IdType="pubmed">17306247</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bahrami S, Drabløs F. 2016. 
+Gene regulation in the immediate-early response process. Adv. Biol. Regul.
+62, 37-49. (10.1016/j.jbior.2016.05.001)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jbior.2016.05.001</ArticleId>
+            <ArticleId IdType="pubmed">27220739</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Teves SS, Henikoff S. 2011. 
+Heat shock reduces stalled RNA polymerase II and nucleosome turnover genome-wide. Genes Dev.
+25, 2387-2397. (10.1101/gad.177675.111)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.177675.111</ArticleId>
+            <ArticleId IdType="pmc">PMC3222904</ArticleId>
+            <ArticleId IdType="pubmed">22085965</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ghosh SKB, Missra A, Gilmour DS. 2011. 
+Negative elongation factor accelerates the rate at which heat shock genes are shut off by facilitating dissociation of heat shock factor. Mol. Cell. Biol.
+31, 4232-4243. (10.1128/MCB.05930-11)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/MCB.05930-11</ArticleId>
+            <ArticleId IdType="pmc">PMC3187281</ArticleId>
+            <ArticleId IdType="pubmed">21859888</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aoi Y, Smith ER, Shah AP, Rendleman EJ, Marshall SA, Woodfin AR, Chen FX, Shiekhattar R, Shilatifard A. 2020. 
+NELF regulates a promoter-proximal step distinct from RNA Pol II pause-release. Mol. Cell
+78, 261-274.e5. (10.1016/j.molcel.2020.02.014)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2020.02.014</ArticleId>
+            <ArticleId IdType="pmc">PMC7402197</ArticleId>
+            <ArticleId IdType="pubmed">32155413</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Simon CS, Rahman S, Raina D, Schröter C, Hadjantonakis A-K. 2020. 
+Live visualization of ERK activity in the mouse blastocyst reveals lineage-specific signaling dynamics. Dev. Cell
+55, 341-353. (10.1016/j.devcel.2020.09.030)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.devcel.2020.09.030</ArticleId>
+            <ArticleId IdType="pmc">PMC7658048</ArticleId>
+            <ArticleId IdType="pubmed">33091370</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pokrass MJ, Ryan KA, Xin T, Pielstick B, Timp W, Greco V, Regot S. 2020. 
+Cell-cycle-dependent ERK signaling dynamics direct fate specification in the mammalian preimplantation embryo. Dev. Cell
+55, 328-340. (10.1016/j.devcel.2020.09.013)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.devcel.2020.09.013</ArticleId>
+            <ArticleId IdType="pmc">PMC7658051</ArticleId>
+            <ArticleId IdType="pubmed">33091369</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kholodenko BN. 2006. 
+Cell-signalling dynamics in time and space. Nat. Rev. Mol. Cell Biol.
+7, 165-176. (10.1038/nrm1838)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrm1838</ArticleId>
+            <ArticleId IdType="pmc">PMC1679905</ArticleId>
+            <ArticleId IdType="pubmed">16482094</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shen MM. 2007. 
+Nodal signaling: developmental roles and regulation. Development
+134, 1023-1034. (10.1242/dev.000166)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.000166</ArticleId>
+            <ArticleId IdType="pubmed">17287255</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Z, Kobayashi S, Borczuk AC, Leidner RS, Laframboise T, Levine AD, Halmos B. 2010. 
+Dual specificity phosphatase 6 (DUSP6) is an ETS-regulated negative feedback mediator of oncogenic ERK signaling in lung cancer cells. Carcinogenesis
+31, 577-586. (10.1093/carcin/bgq020)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/carcin/bgq020</ArticleId>
+            <ArticleId IdType="pmc">PMC2847094</ArticleId>
+            <ArticleId IdType="pubmed">20097731</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lake D, Corrêa SAL, Müller J. 2016. 
+Negative feedback regulation of the ERK1/2 MAPK pathway. Cell. Mol. Life Sci.
+73, 4397-4413. (10.1007/s00018-016-2297-8)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00018-016-2297-8</ArticleId>
+            <ArticleId IdType="pmc">PMC5075022</ArticleId>
+            <ArticleId IdType="pubmed">27342992</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Papanayotou C, Collignon J. 2014. 
+Activin/nodal signalling before implantation: setting the stage for embryo patterning. Phil. Trans. R. Soc. B
+369, 20130539. (10.1098/rstb.2013.0539)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1098/rstb.2013.0539</ArticleId>
+            <ArticleId IdType="pmc">PMC4216462</ArticleId>
+            <ArticleId IdType="pubmed">25349448</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Frum T, Ralston A. 2015. 
+Cell signaling and transcription factors regulating cell fate during formation of the mouse blastocyst. Trends Genet.
+31, 402-410. (10.1016/j.tig.2015.04.002)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tig.2015.04.002</ArticleId>
+            <ArticleId IdType="pmc">PMC4490046</ArticleId>
+            <ArticleId IdType="pubmed">25999217</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith A. 2017. 
+Formative pluripotency: the executive phase in a developmental continuum. Development
+144, 365-373. (10.1242/dev.142679)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.142679</ArticleId>
+            <ArticleId IdType="pmc">PMC5430734</ArticleId>
+            <ArticleId IdType="pubmed">28143843</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Messerschmidt DM, Knowles BB, Solter D. 2014. 
+DNA methylation dynamics during epigenetic reprogramming in the germline and preimplantation embryos. Genes Dev.
+28, 812-828. (10.1101/gad.234294.113)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.234294.113</ArticleId>
+            <ArticleId IdType="pmc">PMC4003274</ArticleId>
+            <ArticleId IdType="pubmed">24736841</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eckersley-Maslin MA, Alda-Catalinas C, Reik W. 2018. 
+Dynamics of the epigenetic landscape during the maternal-to-zygotic transition. Nat. Rev. Mol. Cell Biol.
+19, 436-450. (10.1038/s41580-018-0008-z)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41580-018-0008-z</ArticleId>
+            <ArticleId IdType="pubmed">29686419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Speil J, Baumgart E, Siebrasse J-P, Veith R, Vinkemeier U, Kubitscheck U. 2011. 
+Activated STAT1 transcription factors conduct distinct saltatory movements in the cell nucleus. Biophys. J.
+101, 2592-2600. (10.1016/j.bpj.2011.10.006)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bpj.2011.10.006</ArticleId>
+            <ArticleId IdType="pmc">PMC3297778</ArticleId>
+            <ArticleId IdType="pubmed">22261046</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mazza D, Abernathy A, Golob N, Morisaki T, McNally JG. 2012. 
+A benchmark for chromatin binding measurements in live cells. Nucleic Acids Res.
+40, e119. (10.1093/nar/gks701)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gks701</ArticleId>
+            <ArticleId IdType="pmc">PMC3424588</ArticleId>
+            <ArticleId IdType="pubmed">22844090</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen J, et al. . 2014. 
+Single-molecule dynamics of enhanceosome assembly in embryonic stem cells. Cell
+156, 1274-1285. (10.1016/j.cell.2014.01.062)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2014.01.062</ArticleId>
+            <ArticleId IdType="pmc">PMC4040518</ArticleId>
+            <ArticleId IdType="pubmed">24630727</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Voss TC, Hager GL. 2014. 
+Dynamic regulation of transcriptional states by chromatin and transcription factors. Nat. Rev. Genet.
+15, 69-81. (10.1038/nrg3623)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrg3623</ArticleId>
+            <ArticleId IdType="pmc">PMC6322398</ArticleId>
+            <ArticleId IdType="pubmed">24342920</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bartman CR, Hamagami N, Keller CA, Giardine B, Hardison RC, Blobel GA, Raj A. 2019. 
+Transcriptional burst initiation and polymerase pause release are key control points of transcriptional regulation. Mol. Cell
+73, 519-532.e4. (10.1016/j.molcel.2018.11.004)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2018.11.004</ArticleId>
+            <ArticleId IdType="pmc">PMC6368450</ArticleId>
+            <ArticleId IdType="pubmed">30554946</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Suter DM, Molina N, Gatfield D, Schneider K, Schibler U, Naef F. 2011. 
+Mammalian genes are transcribed with widely different bursting kinetics. Science
+332, 472-474. (10.1126/science.1198817)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1198817</ArticleId>
+            <ArticleId IdType="pubmed">21415320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Larsson AJM, et al. . 2019. 
+Genomic encoding of transcriptional burst kinetics. Nature
+565, 251-254. (10.1038/s41586-018-0836-1)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-018-0836-1</ArticleId>
+            <ArticleId IdType="pmc">PMC7610481</ArticleId>
+            <ArticleId IdType="pubmed">30602787</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ghavi-Helm Y, Klein FA, Pakozdi T, Ciglar L, Noordermeer D, Huber W, Furlong EEM. 2014. 
+Enhancer loops appear stable during development and are associated with paused polymerase. Nature
+512, 96-100. (10.1038/nature13417)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature13417</ArticleId>
+            <ArticleId IdType="pubmed">25043061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cho W-K, Spille J-H, Hecht M, Lee C, Li C, Grube V, Cisse II. 2018. 
+Mediator and RNA polymerase II clusters associate in transcription-dependent condensates. Science
+361, 412-415. (10.1126/science.aar4199)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aar4199</ArticleId>
+            <ArticleId IdType="pmc">PMC6543815</ArticleId>
+            <ArticleId IdType="pubmed">29930094</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sabari BR, et al. . 2018. 
+Coactivator condensation at super-enhancers links phase separation and gene control. Science
+361, eaar3958. (10.1126/science.aar3958)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aar3958</ArticleId>
+            <ArticleId IdType="pmc">PMC6092193</ArticleId>
+            <ArticleId IdType="pubmed">29930091</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bensaude O. 2011. 
+Inhibiting eukaryotic transcription: which compound to choose? How to evaluate its activity?
+Transcription
+2, 103-108. (10.4161/trns.2.3.16172)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4161/trns.2.3.16172</ArticleId>
+            <ArticleId IdType="pmc">PMC3173647</ArticleId>
+            <ArticleId IdType="pubmed">21922053</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun J, et al. . 2011. 
+Genetic and genomic analyses of RNA polymerase II-pausing factor in regulation of mammalian transcription and cell growth. J. Biol. Chem.
+286, 36 248-36 257. (10.1074/jbc.M111.269167)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M111.269167</ArticleId>
+            <ArticleId IdType="pmc">PMC3196092</ArticleId>
+            <ArticleId IdType="pubmed">21865163</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pan H, et al. . 2015. 
+Translational initiation at a non-AUG start codon for human and mouse negative elongation factor-B. PLoS ONE
+10, e0127422. (10.1371/journal.pone.0127422)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0127422</ArticleId>
+            <ArticleId IdType="pmc">PMC4444357</ArticleId>
+            <ArticleId IdType="pubmed">26010750</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nishimura K, Fukagawa T, Takisawa H, Kakimoto T, Kanemaki M. 2009. 
+An auxin-based degron system for the rapid depletion of proteins in nonplant cells. Nat. Methods
+6, 917-922. (10.1038/nmeth.1401)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.1401</ArticleId>
+            <ArticleId IdType="pubmed">19915560</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nabet B, et al. . 2018. 
+The dTAG system for immediate and target-specific protein degradation. Nat. Chem. Biol.
+14, 431-441. (10.1038/s41589-018-0021-8)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41589-018-0021-8</ArticleId>
+            <ArticleId IdType="pmc">PMC6295913</ArticleId>
+            <ArticleId IdType="pubmed">29581585</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li S, Prasanna X, Salo VT, Vattulainen I, Ikonen E. 2019. 
+An efficient auxin-inducible degron system with low basal degradation in human cells. Nat. Methods
+16, 866-869. (10.1038/s41592-019-0512-x)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41592-019-0512-x</ArticleId>
+            <ArticleId IdType="pubmed">31451765</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yesbolatova A, et al. . 2020. 
+The auxin-inducible degron 2 technology provides sharp degradation control in yeast, mammalian cells, and mice. Nat. Commun.
+11, 5701. (10.1038/s41467-020-19532-z)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-020-19532-z</ArticleId>
+            <ArticleId IdType="pmc">PMC7659001</ArticleId>
+            <ArticleId IdType="pubmed">33177522</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aoi Y, et al. . 2021. 
+SPT5 stabilization of promoter-proximal RNA polymerase II. Mol. Cell
+81, 4413-4424. (10.1016/j.molcel.2021.08.006)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2021.08.006</ArticleId>
+            <ArticleId IdType="pmc">PMC8687145</ArticleId>
+            <ArticleId IdType="pubmed">34480849</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hu S, Peng L, Xu C, Wang Z, Song A, Chen FX. 2021. 
+SPT5 stabilizes RNA polymerase II, orchestrates transcription cycles, and maintains the enhancer landscape. Mol. Cell
+81, 4413-4424.e5. (10.1016/j.molcel.2021.08.029)</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2021.08.029</ArticleId>
+            <ArticleId IdType="pubmed">34534457</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,554 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">34964707</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>13</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2162-397X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>11</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Adipocyte</Title>
+          <ISOAbbreviation>Adipocyte</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Bioinformatics analysis of candidate genes and potential therapeutic drugs targeting adipose tissue in obesity.</ArticleTitle>
+        <Pagination>
+          <StartPage>1</StartPage>
+          <EndPage>10</EndPage>
+          <MedlinePgn>1-10</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1080/21623945.2021.2013406</ELocationID>
+        <Abstract>
+          <AbstractText>Obesity is a complex medical condition that affects multiple organs in the body. However, the underlying <i>mechanisms</i> of obesity, as well as its treatment, <i>are largely unexplored</i>. The focus of this research was to use bioinformatics to discover possible treatment targets for obesity. To begin, the GSE133099 database was used to identify 364 differentially expressed genes (DEGs). Then, DEGs were subjected to tissue-specific analyses and enrichment analyses, followed by the creation of a protein-protein interaction (PPI) network and generation of a drug-gene interaction database to screen key genes and potential future drugs targeting obesity. Findings have illustrated that the tissue-specific expression of neurologic markers varied significantly (34.7%, 52/150). Among these genes, Lep, ApoE, Fyn, and FN1 were the key genes observed in the adipocyte samples from obese patients relative to the controls. Furthermore, nine potential therapeutic drugs (dasatinib, ocriplasmin, risperidone, gemfibrozil, ritonavir, fluvastatin, pravastatin, warfarin, atorvastatin) that target the key genes were also screened and selected. To conclude the key genes discovered (Lep, ApoE, Fyn, and FN1), as well as 9 candidate drugs, could be used as therapeutic targets in treating obesity.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Yu</LastName>
+            <ForeName>Yun</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">0000-0003-1562-8880</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiovascular Medicine, Second Affiliated Hospital of Nanchang University, Nanchang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Yu-Han</ForeName>
+            <Initials>YH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Reproductive Medical Center, Maternal and Child Health Affiliated Hospital of Nanchang University, Nanchang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Liang</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiovascular Medicine, Second Affiliated Hospital of Nanchang University, Nanchang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yu</LastName>
+            <ForeName>Ling-Ling</ForeName>
+            <Initials>LL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Rehabilitation, Second Affiliated Hospital of Nanchang University, Nanchang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Jun-Pei</ForeName>
+            <Initials>JP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiovascular Medicine, Second Affiliated Hospital of Nanchang University, Nanchang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rao</LastName>
+            <ForeName>Jing-An</ForeName>
+            <Initials>JA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiovascular Medicine, Second Affiliated Hospital of Nanchang University, Nanchang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Feng</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiovascular Medicine, Second Affiliated Hospital of Nanchang University, Nanchang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhu</LastName>
+            <ForeName>Ling-Juan</ForeName>
+            <Initials>LJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiovascular Medicine, Second Affiliated Hospital of Nanchang University, Nanchang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bao</LastName>
+            <ForeName>Hui-Hui</ForeName>
+            <Initials>HH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiovascular Medicine, Second Affiliated Hospital of Nanchang University, Nanchang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cheng</LastName>
+            <ForeName>Xiao-Shu</ForeName>
+            <Initials>XS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiovascular Medicine, Second Affiliated Hospital of Nanchang University, Nanchang, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Adipocyte</MedlineTA>
+        <NlmUniqueID>101567863</NlmUniqueID>
+        <ISSNLinking>2162-3945</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D004364">Pharmaceutical Preparations</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000273" MajorTopicYN="N">Adipose Tissue</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019295" MajorTopicYN="Y">Computational Biology</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D053263" MajorTopicYN="N">Gene Regulatory Networks</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009765" MajorTopicYN="N">Obesity</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004364" MajorTopicYN="Y">Pharmaceutical Preparations</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Obesity</Keyword>
+        <Keyword MajorTopicYN="Y">adipocyte</Keyword>
+        <Keyword MajorTopicYN="Y">bioinformatics</Keyword>
+        <Keyword MajorTopicYN="Y">biomarkers</Keyword>
+        <Keyword MajorTopicYN="Y">drug-gene interaction</Keyword>
+        <Keyword MajorTopicYN="Y">tissue-specific gene expression</Keyword>
+      </KeywordList>
+      <CoiStatement>No potential conflict of interest was reported by the author(s).</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>29</Day>
+          <Hour>12</Hour>
+          <Minute>20</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>30</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34964707</ArticleId>
+        <ArticleId IdType="pmc">PMC8726706</ArticleId>
+        <ArticleId IdType="doi">10.1080/21623945.2021.2013406</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Zylke JW, Bauchner H.. 
+The unrelenting challenge of obesity. JAMA. 2016;315(21):2277–2278.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27272578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng Z, Almeida FA. Mitochondrial alteration in type 2 diabetes and obesity: an epigenetic link. Cell Cycle. 2014;13(6):890–897.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3984312</ArticleId>
+            <ArticleId IdType="pubmed">24552811</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>American Diabetes Association. 8 . Obesity management for the treatment of type 2 diabetes: standards of medical care in diabetes-2019. Diabetes Care. 2019;42(Suppl 1):S81–S89.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30559234</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zheng W, McLerran DF, Rolland B, et al. Association between body-mass index and risk of death in more than 1 million Asians. N Engl J Med. 2011;364(8):719–729.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4008249</ArticleId>
+            <ArticleId IdType="pubmed">21345101</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ogden CL, Carroll, MD, Curtin, LR, et al. Prevalence of high body mass index in US children and adolescents, 2007-2008. JAMA. 2010;303(3):242–249.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20071470</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ortega FB, Lavie CJ, Blair SN. Obesity and cardiovascular disease. Circ Res. 2016;118(11):1752–1770.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27230640</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Upadhyay J, Farr O, Perakakis N, et al. Obesity as a disease. Med Clin North Am. 2018;102(1):13–33.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29156181</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Y, Fu M, Li MD, et al. O-GlcNAc transferase inhibits visceral fat lipolysis and promotes diet-induced obesity. Nat Commun. 2020;11(1):181.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6954210</ArticleId>
+            <ArticleId IdType="pubmed">31924761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Finkelstein EA, Trogdon JG, Cohen JW, et al. Annual medical spending attributable to obesity: payer-and service-specific estimates. Health Aff (Millwood). 2009;28(5):w822–831.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19635784</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu H, Barnes GT, Yang Q, et al. Chronic inflammation in fat plays a crucial role in the development of obesity-related insulin resistance. J Clin Invest. 2003;112(12):1821–1830.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC296998</ArticleId>
+            <ArticleId IdType="pubmed">14679177</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun K, Kusminski CM, Scherer PE. Adipose tissue remodeling and obesity. J Clin Invest. 2011;121(6):2094–2101.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3104761</ArticleId>
+            <ArticleId IdType="pubmed">21633177</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baker RG, Hayden MS, Ghosh S. NF-κB, inflammation, and metabolic disease. Cell Metab. 2011;13(1):11–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3040418</ArticleId>
+            <ArticleId IdType="pubmed">21195345</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang J, Linares JF, Duran A, et al. NBR1 is a critical step in the repression of thermogenesis of p62-deficient adipocytes through PPARγ. Nat Commun. 2021;12(1):2876.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8129077</ArticleId>
+            <ArticleId IdType="pubmed">34001883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trayhurn P. Hypoxia and adipose tissue function and dysfunction in obesity. Physiol Rev. 2013;93(1):1–21.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23303904</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barrett T, D.b T, S.e W, et al. Ncbi geo: archive for functional genomics data sets—10 years on. Nucleic Acids Res. 2011;39(Database):1005–1010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3013736</ArticleId>
+            <ArticleId IdType="pubmed">21097893</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang J, Zhang C. Identification and validation of potential mRNA- microRNA- long-noncoding RNA (mRNA-miRNA-lncRNA) prognostic signature for cervical cancer. Bioengineered. 2021;12(1):898–913.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33682613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bolstad BM, Irizarry RA, Astrand M, et al. A comparison of normalization methods for high den sity oligonucleotide array data based on variance and bias. Bioinformatics. 2003;19(2):185–193.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12538238</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang DW, Sherman BT, Lempicki RA. Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources. Nat Protoc. 2009;4(1):44–57.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19131956</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ashburner M, Ball CA, Blake JA, et al. Gene ontology: tool for the unification of biology. the gene ontology consortium. Nat Genet. 2000;25(1):25–29.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3037419</ArticleId>
+            <ArticleId IdType="pubmed">10802651</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kanehisa M. Kyoto encyclopedia of genes and genomes. Nucleic Acids Res. 2000;28(1):27–30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC102409</ArticleId>
+            <ArticleId IdType="pubmed">10592173</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saavedra PHV, Huang L, Ghazavi F, et al. Apoptosis of intestinal epithelial cells restricts Clostridium difficile infection in a model of pseudomembranous colitis. Nat Commun. 2018;9(1):4846.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6242954</ArticleId>
+            <ArticleId IdType="pubmed">30451870</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Szklarczyk D, Gable AL, Lyon D, et al. STRING v11: protein-protein association networks with increased coverage, supporting functional discovery in genome-wide experimental datasets. Nucleic Acids Res. 2019;47(D1):607–613.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6323986</ArticleId>
+            <ArticleId IdType="pubmed">30476243</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Griffith M, Griffith OL, Coffman AC, et al. DGIdb: mining the druggable genome. Nat Methods. 2013;10(12):1209–1210.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3851581</ArticleId>
+            <ArticleId IdType="pubmed">24122041</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cotto KC, Wagner AH, Feng YY, et al. DGIdb 3.0: a redesign and expansion of the drug-gene interaction database. Nucleic Acids Res. 2018;46(D1):D1068–D1073.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5888642</ArticleId>
+            <ArticleId IdType="pubmed">29156001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Christakis NA, Fowler JH. The spread of obesity in a large social network over 32 years. N Engl J Med. 2007;357(4):370–379.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17652652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hossain P, Kawar B, El Nahas M. Obesity and diabetes in the developing world–a growing challenge. N Engl J Med. 2007;356(3):213–215.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17229948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ahfeldt T, Schinzel RT, Lee YK, et al. Programming human pluripotent stem cells into white and brown adipocytes. Nat Cell Biol. 2012;14(2):209–219.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3385947</ArticleId>
+            <ArticleId IdType="pubmed">22246346</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harms M, Seale P. Brown and beige fat: development, function and therapeutic potential. Nat Med. 2013;19(10):1252–1263.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24100998</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ebenegger V, Marques-Vidal P, Kriemler S, et al. Differences in aerobic fitness and lifestyle characteristics in pre-schoolers according to their weight status and sports club participation. Obes Facts. 2012;5(1):23–33.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22433614</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lopes AL, Ap TF, De Souza Campos LG, et al. The effects of diet- and diet plus exercise-induced weight loss on basal metabolic rate and acylated ghrelin in grade 1 obese subjects. Diabetes Metab Syndr Obes. 2013;6:469–475.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3848645</ArticleId>
+            <ArticleId IdType="pubmed">24348060</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ren J, Cheng Y, Ming ZH, et al. Intrauterine hyperglycemia exposure results in intergenerational inheritance via DNA methylation reprogramming on F1 PGCs. Epigenetics Chromatin. 2018;11(1):20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5968593</ArticleId>
+            <ArticleId IdType="pubmed">29801514</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Resh MD. Fyn, a Src family tyrosine kinase. Int J Biochem Cell Biol. 1998;30(11):1159–1162.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9839441</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bastie CC, Zong H, Xu J, et al. Integrative metabolic regulation of peripheral tissue fatty acid oxidation by the SRC kinase family member Fyn. Cell Metab. 2007;5(5):371–381.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17488639</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mastick CC, Saltiel AR. Insulin-stimulated tyrosine phosphorylation of caveolin is specific for the differentiated adipocyte phenotype in 3T3-L1 cells. J Biol Chem. 1997;272(33):20706–20714.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9252391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yamada E, Pessin JE, Kurland IJ, et al. Fyn-dependent regulation of energy expenditure and body weight is mediated by tyrosine phosphorylation of LKB1. Cell Metab. 2010;11(2):113–124.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2830006</ArticleId>
+            <ArticleId IdType="pubmed">20142099</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mkaddem SB, Murua A, Flament H, et al. Lyn and Fyn function as molecular switches that control immunoreceptors to direct homeostasis or inflammation. Nat Commun. 2017;8(1):246.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5557797</ArticleId>
+            <ArticleId IdType="pubmed">28811476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen Z, Tao Q, Qiao B, et al. Silencing of LINC01116 suppresses the development of oral squamous cell carcinoma by up-regulating microRNA-136 to inhibit FN1. Cancer Manag Res. 2019;11:6043–6059.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6613355</ArticleId>
+            <ArticleId IdType="pubmed">31308744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berger E, Héraud S, Mojallal A, et al. Pathways commonly dysregulated in mouse and human obese adipose tissue: FAT/CD36 modulates differentiation and lipogenesis. Adipocyte. 2015;4(3):161–180.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4496979</ArticleId>
+            <ArticleId IdType="pubmed">26257990</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang S, Dai H, Hu W, et al. Association between circulating follistatin-like-1 and metabolic syndrome in middle-aged and old population: a cross-sectional study. Diabetes Metab Res Rev. 2020;37(2):e3373.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32592413</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Münzberg H, Morrison CD. Structure, production and signaling of leptin. Metab Clin Exp. 2015;64(1):13–23.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4267896</ArticleId>
+            <ArticleId IdType="pubmed">25305050</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang F, Chen Y, Heiman M, et al. Leptin: structure, function and biology. Vitam Horm. 2005;71:345–372.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16112274</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rehman K, Akash MSH, Alina Z. Leptin: a new therapeutic target for treatment of diabetes mellitus. J Cell Biochem. 2018;119(7):5016‐5027.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29236298</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lo KA, Huang S, Walet ACE, et al. Adipocyte long-noncoding RNA transcriptome analysis of obese mice identified Lnc-Leptin, which regulates Leptin. Diabetes. 2018;67(6):1045–1056.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29519872</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Izquierdo AG, Crujeiras AB, Casanueva FF, et al. Leptin, obesity, and leptin resistance: where are we 25 years later?
+Nutrients. 2019;11(11):2704.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6893721</ArticleId>
+            <ArticleId IdType="pubmed">31717265</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Szyszka M, Paschke L, Tyczewska M, et al. Analysis of transcriptome, selected intracellular signaling pathways, proliferation and apoptosis of LNCaP cells exposed to high leptin concentrations. Int J Mol Sci. 2019;20(21):5412.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6861914</ArticleId>
+            <ArticleId IdType="pubmed">31671654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun P, Zhang Y, Wei Z, et al. Effect of Qing’e Decoction on Leptin/Leptin receptor and bone metabolism in naturally Aging Rats. Evid Based Complement Alternat Med. 2020;2020:2532081.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7520685</ArticleId>
+            <ArticleId IdType="pubmed">33014100</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Weisgraber KH, Rall SC, Mahley RW. Human E apoprotein heterogeneity. Cysteine-arginine interchanges in the amino acid sequence of the apo-E isoforms. J Biol Chem. 1981;256(17):9077–9083.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7263700</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wilkins HM, Wang X, Menta BW, et al. Bioenergetic and inflammatory systemic phenotypes in Alzheimer’s disease APOE ε4-carriers. Aging Cell. 2021;20(5):e13356.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8135087</ArticleId>
+            <ArticleId IdType="pubmed">33939248</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gonzalez-Aldaco K, Roman S, Torres-Reyes LA, et al. Association of apolipoprotein e2 Allele with Insulin resistance and risk of type 2 diabetes mellitus among an admixed population of Mexico. Diabetes Metab Syndr Obes. 2020;13:3527–3534.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7547770</ArticleId>
+            <ArticleId IdType="pubmed">33116704</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang W, Lu J, Weng J, et al. Prevalence of diabetes among men and women in China. N Engl J Med. 2010;362(12):1090–1101.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20335585</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mooyaart AL, Valk EJ, van Es LA, et al. Genetic associations in diabetic nephropathy: a meta-analysis. Diabetologia. 2011;54(3):544–553.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3034040</ArticleId>
+            <ArticleId IdType="pubmed">21127830</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taylor F, Huffman MD, Macedo AF, et al. Statins for the primary prevention of cardiovascular disease. Cochrane Database Syst Rev. 2013; (1):CD004816. DOI:10.1002/14651858.CD004816.pub5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/14651858.CD004816.pub5</ArticleId>
+            <ArticleId IdType="pmc">PMC6481400</ArticleId>
+            <ArticleId IdType="pubmed">23440795</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

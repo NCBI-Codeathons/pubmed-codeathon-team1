@@ -1,0 +1,446 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35440493</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>21</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>07</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2575-1077</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>5</Volume>
+            <Issue>8</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Life science alliance</Title>
+          <ISOAbbreviation>Life Sci Alliance</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>LuminoCell: a versatile and affordable platform for real-time monitoring of luciferase-based reporters.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">e202201421</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.26508/lsa.202201421</ELocationID>
+        <Abstract>
+          <AbstractText>Luciferase reporter assays represent a simple and sensitive experimental system in cell and molecular biology to study multiple biological processes. However, the application of these assays is often limited by the costs of conventional luminometer instruments and the versatility of their use in different experimental conditions. Therefore, we aimed to develop a small, affordable luminometer allowing continuous measurement of luciferase activity, designed for inclusion into various kinds of tissue culture incubators. Here, we introduce LuminoCell-an open-source platform for the construction of an affordable, sensitive, and portable luminometer capable of real-time monitoring in-cell luciferase activity. The LuminoCell costs $40, requires less than 1 h to assemble, and it is capable of performing real-time sensitive detection of both magnitude and duration of the activity of major signalling pathways in cell cultures, including receptor tyrosine kinases (EGF and FGF), WNT/β-catenin, and NF-κB. In addition, we show that the LuminoCell is suitable to be used in cytotoxicity assays as well as for monitoring periodic circadian gene expression.</AbstractText>
+          <CopyrightInformation>© 2022 Weissová et al.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Weissová</LastName>
+            <ForeName>Kamila</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Histology and Embryology, Faculty of Medicine, Masaryk University, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fafílek</LastName>
+            <ForeName>Bohumil</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Animal Physiology and Genetics of the Czech Academy of Sciences, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Biology, Faculty of Medicine, Masaryk University, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>International Clinical Research Center, St. Anne's University Hospital, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Radaszkiewicz</LastName>
+            <ForeName>Tomasz</ForeName>
+            <Initials>T</Initials>
+            <Identifier Source="ORCID">0000-0003-4850-9933</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Experimental Biology, Faculty of Science, Masaryk University, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Celiker</LastName>
+            <ForeName>Canan</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Histology and Embryology, Faculty of Medicine, Masaryk University, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Macháčková</LastName>
+            <ForeName>Petra</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cellular Imaging Core Facility, Central European Institute of Technology (CEITEC), Masaryk University, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Čechová</LastName>
+            <ForeName>Tamara</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biology, Faculty of Medicine, Masaryk University, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>International Clinical Research Center, St. Anne's University Hospital, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Šebestíková</LastName>
+            <ForeName>Jana</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Histology and Embryology, Faculty of Medicine, Masaryk University, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Experimental Biology, Faculty of Science, Masaryk University, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hampl</LastName>
+            <ForeName>Aleš</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Histology and Embryology, Faculty of Medicine, Masaryk University, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>International Clinical Research Center, St. Anne's University Hospital, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bryja</LastName>
+            <ForeName>Vítězslav</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Experimental Biology, Faculty of Science, Masaryk University, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Krejčí</LastName>
+            <ForeName>Pavel</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Animal Physiology and Genetics of the Czech Academy of Sciences, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Biology, Faculty of Medicine, Masaryk University, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>International Clinical Research Center, St. Anne's University Hospital, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bárta</LastName>
+            <ForeName>Tomáš</ForeName>
+            <Initials>T</Initials>
+            <Identifier Source="ORCID">0000-0003-0703-066X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Histology and Embryology, Faculty of Medicine, Masaryk University, Brno, Czech Republic tbarta@med.muni.cz.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Experimental Biology, Faculty of Science, Masaryk University, Brno, Czech Republic.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>04</Month>
+          <Day>19</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Life Sci Alliance</MedlineTA>
+        <NlmUniqueID>101728869</NlmUniqueID>
+        <ISSNLinking>2575-1077</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 1.13.12.-</RegistryNumber>
+          <NameOfSubstance UI="D008156">Luciferases</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D008156" MajorTopicYN="N">Luciferases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016328" MajorTopicYN="Y">NF-kappa B</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="Y">Signal Transduction</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare that they have no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>8</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>8</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>20</Day>
+          <Hour>5</Hour>
+          <Minute>27</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35440493</ArticleId>
+        <ArticleId IdType="pmc">PMC9018015</ArticleId>
+        <ArticleId IdType="doi">10.26508/lsa.202201421</ArticleId>
+        <ArticleId IdType="pii">5/8/e202201421</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Balek L, Gudernova I, Vesela I, Hampl M, Oralova V, Bosakova MK, Varecha M, Nemec P, Hall T, Abbadessa G, et al.  (2017) ARQ 087 inhibits FGFR signaling and rescues aberrant cell proliferation and differentiation in experimental models of craniosynostoses and chondrodysplasias caused by activating mutations in FGFR1, FGFR2 and FGFR3. Bone
+105: 57–66. 10.1016/j.bone.2017.08.016</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bone.2017.08.016</ArticleId>
+            <ArticleId IdType="pubmed">28826843</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Balsalobre A, Damiola F, Schibler U (1998) A serum shock induces circadian gene expression in mammalian tissue culture cells. Cell
+93: 929–937. 10.1016/s0092-8674(00)81199-x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0092-8674(00)81199-x</ArticleId>
+            <ArticleId IdType="pubmed">9635423</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bennett CN, Ross SE, Longo KA, Bajnok L, Hemati N, Johnson KW, Harrison SD, MacDougald OA (2002) Regulation of Wnt signaling during adipogenesis. J Biol Chem
+277: 30998–31004. 10.1074/jbc.M204527200</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.M204527200</ArticleId>
+            <ArticleId IdType="pubmed">12055200</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brown SA, Fleury-Olela F, Nagoshi E, Hauser C, Juge C, Meier CA, Chicheportiche R, Dayer JM, Albrecht U, Schibler U (2005) The period length of fibroblast circadian gene expression varies widely among human individuals. PLoS Biol
+3: e338. 10.1371/journal.pbio.0030338</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pbio.0030338</ArticleId>
+            <ArticleId IdType="pmc">PMC1233413</ArticleId>
+            <ArticleId IdType="pubmed">16167846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chapman PB, Hauschild A, Robert C, Haanen JB, Ascierto P, Larkin J, Dummer R, Garbe C, Testori A, Maio M, et al.  (2011) Improved survival with vemurafenib in melanoma with BRAF V600E mutation. N Engl J Med
+364: 2507–2516. 10.1056/NEJMoa1103782</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa1103782</ArticleId>
+            <ArticleId IdType="pmc">PMC3549296</ArticleId>
+            <ArticleId IdType="pubmed">21639808</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cornelissen G (2014) Cosinor-based rhythmometry. Theor Biol Med Model
+11: 16. 10.1186/1742-4682-11-16</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1742-4682-11-16</ArticleId>
+            <ArticleId IdType="pmc">PMC3991883</ArticleId>
+            <ArticleId IdType="pubmed">24725531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Droujko J, Molnar P (2022) Open-source, low-cost, in-situ turbidity sensor for river network monitoring. 10.21203/rs.3.rs-1181854/v1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.21203/rs.3.rs-1181854/v1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>England CG, Ehlerding EB, Cai W (2016) NanoLuc: A small luciferase is brightening up the field of bioluminescence. Bioconjug Chem
+27: 1175–1187. 10.1021/acs.bioconjchem.6b00112</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acs.bioconjchem.6b00112</ArticleId>
+            <ArticleId IdType="pmc">PMC4871753</ArticleId>
+            <ArticleId IdType="pubmed">27045664</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Enomoto T, Kubota H, Mori K, Shimogawara M, Yoshita M, Ohmiya Y, Akiyama H (2018) Absolute bioluminescence imaging at the single-cell level with a light signal at the Attowatt level. BioTechniques
+64: 270–274. 10.2144/btn-2018-0043</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2144/btn-2018-0043</ArticleId>
+            <ArticleId IdType="pubmed">29939087</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Flaherty KT, Puzanov I, Kim KB, Ribas A, McArthur GA, Sosman JA, O’Dwyer PJ, Lee RJ, Grippo JF, Nolop K, et al.  (2010) Inhibition of mutated, activated BRAF in metastatic melanoma. N Engl J Med
+363: 809–819. 10.1056/NEJMoa1002011</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa1002011</ArticleId>
+            <ArticleId IdType="pmc">PMC3724529</ArticleId>
+            <ArticleId IdType="pubmed">20818844</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gil JS, Machado HB, Herschman HR (2012) A method to rapidly and accurately compare the relative efficacies of non-invasive imaging reporter genes in a mouse model and its application to luciferase reporters. Mol Imaging Biol
+14: 462–471. 10.1007/s11307-011-0515-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11307-011-0515-1</ArticleId>
+            <ArticleId IdType="pmc">PMC3813453</ArticleId>
+            <ArticleId IdType="pubmed">21850545</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gudernova I, Foldynova-Trantirkova S, Ghannamova BE, Fafilek B, Varecha M, Balek L, Hruba E, Jonatova L, Jelinkova I, Kunova Bosakova M, et al.  (2017) One reporter for in-cell activity profiling of majority of protein kinase oncogenes. Elife
+6: e21536. 10.7554/eLife.21536</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.21536</ArticleId>
+            <ArticleId IdType="pmc">PMC5310841</ArticleId>
+            <ArticleId IdType="pubmed">28199182</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Haferkamp S, Borst A, Adam C, Becker TM, Motschenbacher S, Windhövel S, Hufnagel AL, Houben R, Meierjohann S (2013) Vemurafenib induces senescence features in melanoma cells. J Invest Dermatol
+133: 1601–1609. 10.1038/jid.2013.6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/jid.2013.6</ArticleId>
+            <ArticleId IdType="pubmed">23321925</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kucerova L, Skolekova S, Demkova L, Bohovic R, Matuskova M (2014) Long-term efficiency of mesenchymal stromal cell-mediated CD-MSC/5FC therapy in human melanoma xenograft model. Gene Ther
+21: 874–887. 10.1038/gt.2014.66</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/gt.2014.66</ArticleId>
+            <ArticleId IdType="pubmed">25056607</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mossine VV, Waters JK, Hannink M, Mawhinney TP (2013) piggyBac transposon plus insulators overcome epigenetic silencing to provide for stable signaling pathway reporter cell lines. PLoS One
+8: e85494. 10.1371/journal.pone.0085494</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0085494</ArticleId>
+            <ArticleId IdType="pmc">PMC3869926</ArticleId>
+            <ArticleId IdType="pubmed">24376882</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peng U, Wang Z, Pei S, Ou Y, Hu P, Liu W, Song J (2017) ACY-1215 accelerates vemurafenib induced cell death of BRAF-mutant melanoma cells via induction of ER stress and inhibition of ERK activation. Oncol Rep
+37: 1270–1276. 10.3892/or.2016.5340</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3892/or.2016.5340</ArticleId>
+            <ArticleId IdType="pubmed">28035401</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peskova L, Cerna K, Oppelt J, Mraz M, Barta T (2019) Oct4-mediated reprogramming induces embryonic-like microRNA expression signatures in human fibroblasts. Sci Rep
+9: 15759. 10.1038/s41598-019-52294-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-019-52294-3</ArticleId>
+            <ArticleId IdType="pmc">PMC6823439</ArticleId>
+            <ArticleId IdType="pubmed">31673026</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peskova L, Jurcikova D, Vanova T, Krivanek J, Capandova M, Sramkova Z, Sebestikova J, Kolouskova M, Kotasova H, Streit L, et al.  (2020) miR-183/96/182 cluster is an important morphogenetic factor targeting PAX6 expression in differentiating human retinal organoids. Stem Cells
+38: 1557–1567. 10.1002/stem.3272</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/stem.3272</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schütze S, Potthoff K, Machleidt T, Berkovic D, Wiegmann K, Krönke M (1992) TNF activates NF-kappa B by phosphatidylcholine-specific phospholipase C-induced “acidic” sphingomyelin breakdown. Cell
+71: 765–776. 10.1016/0092-8674(92)90553-o</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0092-8674(92)90553-o</ArticleId>
+            <ArticleId IdType="pubmed">1330325</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smale ST (2010) Luciferase assay. Cold Spring Harb Protoc
+2010: pdb.prot5421. 10.1101/pdb.prot5421</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/pdb.prot5421</ArticleId>
+            <ArticleId IdType="pubmed">20439408</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Su Y, Ko ME, Cheng H, Zhu R, Xue M, Wang J, Lee JW, Frankiw L, Xu A, Wong S, et al.  (2020) Multi-omic single-cell snapshots reveal multiple independent trajectories to drug tolerance in a melanoma cell line. Nat Commun
+11: 2345. 10.1038/s41467-020-15956-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-020-15956-9</ArticleId>
+            <ArticleId IdType="pmc">PMC7214418</ArticleId>
+            <ArticleId IdType="pubmed">32393797</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu Q, Wang Y, Dabdoub A, Smallwood PM, Williams J, Woods C, Kelley MW, Jiang L, Tasman W, Zhang K, et al.  (2004) Vascular development in the retina and inner ear: Control by norrin and frizzled-4, a high-affinity ligand-receptor pair. Cell
+116: 883–895. 10.1016/s0092-8674(04)00216-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0092-8674(04)00216-8</ArticleId>
+            <ArticleId IdType="pubmed">15035989</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yue J, López JM (2020) Understanding MAPK signaling pathways in apoptosis. Int J Mol Sci
+21: E2346. 10.3390/ijms21072346</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/ijms21072346</ArticleId>
+            <ArticleId IdType="pmc">PMC7177758</ArticleId>
+            <ArticleId IdType="pubmed">32231094</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zielinski T, Moore AM, Troup E, Halliday KJ, Millar AJ (2014) Strengths and limitations of period estimation methods for circadian data. PLoS One
+9: e96462. 10.1371/journal.pone.0096462</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0096462</ArticleId>
+            <ArticleId IdType="pmc">PMC4014635</ArticleId>
+            <ArticleId IdType="pubmed">24809473</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,370 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35448968</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>25</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2730-6844</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>23</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Apr</Month>
+              <Day>21</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>BMC genomic data</Title>
+          <ISOAbbreviation>BMC Genom Data</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Whole genome sequencing and taxonomic profiling of two Pantoea sp. isolated from environmental samples in Israel.</ArticleTitle>
+        <Pagination>
+          <StartPage>31</StartPage>
+          <MedlinePgn>31</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">31</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12863-022-01049-7</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE">As part of a research aiming at the isolation of bacteria secreting growth inhibiting compounds, cultures of Francisella tularensis were implanted in environmental samples and monitored for inhibition zones on agar. Two antibiotic-like secreting bacteria were isolated, their genomic sequence was deciphered and taxonomic profiling analysis classified them as belonging to the Pantoea genus.</AbstractText>
+          <AbstractText Label="DATA DESCRIPTION">Two bacterial isolates exhibiting growth inhibition zones to F. tularensis (LVS) were analyzed using the Oxford Nanopore Technology (ONT). Preliminary de novo assembly of the reads was performed, followed by taxonomic profiling based on Multi Locus Sequence Analysis (MLSA) and implementation of the Average Nucleotide Identity (ANI) measure. The genomic sequences resulted in the identification of two different Pantoea species, denoted EnvD and EnvH. Subsequent de novo genome assembly generated 5 and 10 contigs for EnvD and EnvH, respectively. The largest contig (4,008,183 bps and 3,740,753 bps for EnvD and EnvH, respectively), overlaps to a major extent to the chromosome of closely related Pantoea species. ANI values calculated for both isolates revealed two apparently new species of the Pantoea genus. Our study deciphered the identity of two bacteria producing antibiotic-like compounds, and the genomic sequence revealed they represent distinct Pantoea species.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Guedj-Dana</LastName>
+            <ForeName>Yehoudit</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Genetics, Israel Institute for Biological Research, Ness Ziona, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cohen-Gihon</LastName>
+            <ForeName>Inbar</ForeName>
+            <Initials>I</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Genetics, Israel Institute for Biological Research, Ness Ziona, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Israeli</LastName>
+            <ForeName>Ofir</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Genetics, Israel Institute for Biological Research, Ness Ziona, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shifman</LastName>
+            <ForeName>Ohad</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Genetics, Israel Institute for Biological Research, Ness Ziona, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Aminov</LastName>
+            <ForeName>Tamar</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Genetics, Israel Institute for Biological Research, Ness Ziona, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rotem</LastName>
+            <ForeName>Shahar</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Genetics, Israel Institute for Biological Research, Ness Ziona, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ber</LastName>
+            <ForeName>Raphael</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Genetics, Israel Institute for Biological Research, Ness Ziona, Israel.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zvi</LastName>
+            <ForeName>Anat</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0003-3743-9642</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biochemistry and Molecular Genetics, Israel Institute for Biological Research, Ness Ziona, Israel. anatz@iibr.gov.il.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <DataBankList CompleteYN="Y">
+          <DataBank>
+            <DataBankName>figshare</DataBankName>
+            <AccessionNumberList>
+              <AccessionNumber>10.6084/m9.figshare.15111765.v1</AccessionNumber>
+              <AccessionNumber>10.6084/m9.figshare.15105198.v1</AccessionNumber>
+              <AccessionNumber>10.6084/m9.figshare.19204658.v2</AccessionNumber>
+              <AccessionNumber>10.6084/m9.figshare.15111588.v3</AccessionNumber>
+            </AccessionNumberList>
+          </DataBank>
+        </DataBankList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>04</Month>
+          <Day>21</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>BMC Genom Data</MedlineTA>
+        <NlmUniqueID>101775394</NlmUniqueID>
+        <ISSNLinking>2730-6844</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000900" MajorTopicYN="N">Anti-Bacterial Agents</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007557" MajorTopicYN="N" Type="Geographic">Israel</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020636" MajorTopicYN="Y">Pantoea</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000073336" MajorTopicYN="N">Whole Genome Sequencing</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">De novo assembly</Keyword>
+        <Keyword MajorTopicYN="Y">Environmental samples</Keyword>
+        <Keyword MajorTopicYN="Y">Oxford nanopore</Keyword>
+        <Keyword MajorTopicYN="Y">Pantoea</Keyword>
+        <Keyword MajorTopicYN="Y">Taxonomy</Keyword>
+        <Keyword MajorTopicYN="Y">Whole genome sequencing</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>31</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>6</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>22</Day>
+          <Hour>5</Hour>
+          <Minute>5</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35448968</ArticleId>
+        <ArticleId IdType="pmc">PMC9022320</ArticleId>
+        <ArticleId IdType="doi">10.1186/s12863-022-01049-7</ArticleId>
+        <ArticleId IdType="pii">10.1186/s12863-022-01049-7</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Tambong JT. Taxogenomics and systematics of the genus Pantoea. Front Microbiol. 2019;10:2463. doi: 10.3389/fmicb.2019.02463.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fmicb.2019.02463</ArticleId>
+            <ArticleId IdType="pmc">PMC6831937</ArticleId>
+            <ArticleId IdType="pubmed">31736906</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Agarwal G, Choudhary D, Stice SP, MyersGitaitis BKRD, Venter SN, et al.  Pan-genome-wide analysis of Pantoea ananatis identified genes linked to pathogenicity in onion. Front Microbiol. 2021;12:684756. doi: 10.3389/fmicb.2021.684756.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fmicb.2021.684756</ArticleId>
+            <ArticleId IdType="pmc">PMC8417944</ArticleId>
+            <ArticleId IdType="pubmed">34489883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Agarwal G, Gitaitis RD, Dutta B. Pan-Genome of novel Pantoea stewartii subsp indologenes reveals genes involved in onion pathogenicity and evidence of lateral gene transfer. Microorganisms. 2021;9(8):1761. doi: 10.3390/microorganisms9081761.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/microorganisms9081761</ArticleId>
+            <ArticleId IdType="pmc">PMC8399035</ArticleId>
+            <ArticleId IdType="pubmed">34442840</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stice SP, Shin GY, De Armas S, Koirala S, Galvan GA, Siri MI, et al.  The distribution of onion virulence gene clusters among Pantoea spp. Front Plant Sci. 2021;12:643787. doi: 10.3389/fpls.2021.643787.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fpls.2021.643787</ArticleId>
+            <ArticleId IdType="pmc">PMC7988079</ArticleId>
+            <ArticleId IdType="pubmed">33777079</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Data file 1: Sequencing and assembly metrics. Figshare: 10.6084/m9.figshare.15111765.v1 (2021).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kolmogorov M, Bickhart DM, Behsaz B, Gurevich A, Rayko M, Shin SB, et al.  metaFlye: scalable long-read metagenome assembly using repeat graphs. Nat Methods. 2020;17(11):1103–1110. doi: 10.1038/s41592-020-00971-x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41592-020-00971-x</ArticleId>
+            <ArticleId IdType="pubmed">33020656</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ. Basic local alignment search tool. J Mol Biol. 1990;215(3):403–410. doi: 10.1016/S0022-2836(05)80360-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0022-2836(05)80360-2</ArticleId>
+            <ArticleId IdType="pubmed">2231712</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Darling AC, Mau B, Blattner FR, Perna NT. Mauve: multiple alignment of conserved genomic sequence with rearrangements. Genome Res. 2004;14(7):1394–1403. doi: 10.1101/gr.2289704.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gr.2289704</ArticleId>
+            <ArticleId IdType="pmc">PMC442156</ArticleId>
+            <ArticleId IdType="pubmed">15231754</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Data file 2: Alignment of contigs to a reference genome. Figshare: 10.6084/m9.figshare.15105198.v1 (2021).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Figueras MJ, Beaz-Hidalgo R, Hossain MJ, Liles MR. Taxonomic affiliation of new genomes should be verified using average nucleotide identity and multilocus phylogenetic analysis. Genome Announc. 2014;2(6):e00927–14. doi: 10.1128/genomeA.00927-14.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/genomeA.00927-14</ArticleId>
+            <ArticleId IdType="pmc">PMC4256179</ArticleId>
+            <ArticleId IdType="pubmed">25477398</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arahal DR. Whole-genome analyses: Average Nucleotide Identity. Methods in Microbiology. 2014;41:103–22.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jain C, Rodriguez RL, Phillippy AM, Konstantinidis KT, Aluru S. High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries. Nat Commun. 2018;9(1):5114. doi: 10.1038/s41467-018-07641-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-018-07641-9</ArticleId>
+            <ArticleId IdType="pmc">PMC6269478</ArticleId>
+            <ArticleId IdType="pubmed">30504855</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Konstantinidis KT, Tiedje JM. Genomic insights that advance the species definition for prokaryotes. Proc Natl Acad Sci U S A. 2005;102(7):2567–2572. doi: 10.1073/pnas.0409727102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0409727102</ArticleId>
+            <ArticleId IdType="pmc">PMC549018</ArticleId>
+            <ArticleId IdType="pubmed">15701695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goris J, Konstantinidis KT, Klappenbach JA, Coenye T, Vandamme P, Tiedje JM. DNA-DNA hybridization values and their relationship to whole-genome sequence similarities. Int J Syst Evol Microbiol. 2007;57(Pt 1):81–91. doi: 10.1099/ijs.0.64483-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/ijs.0.64483-0</ArticleId>
+            <ArticleId IdType="pubmed">17220447</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Data file 3: Table of ANI scores for Pantoea sp. EnvD and Pantoea sp. EnvH. Figshare: 10.6084/m9.figshare.19204658.v2 (2022).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Richter M, Rossello-Mora R. Shifting the genomic gold standard for the prokaryotic species definition. Proc Natl Acad Sci U S A. 2009;106(45):19126–19131. doi: 10.1073/pnas.0906412106.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0906412106</ArticleId>
+            <ArticleId IdType="pmc">PMC2776425</ArticleId>
+            <ArticleId IdType="pubmed">19855009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tambong JT, Xu R, Kaneza CA, Nshogozabahizi JC. An in-depth analysis of a multilocus phylogeny identifies leuS As a reliable phylogenetic marker for the genus Pantoea. Evol Bioinform Online. 2014;10:115–125. doi: 10.4137/EBO.S15738.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4137/EBO.S15738</ArticleId>
+            <ArticleId IdType="pmc">PMC4125426</ArticleId>
+            <ArticleId IdType="pubmed">25125967</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Deletoile A, Decre D, Courant S, Passet V, Audo J, Grimont P, et al.  Phylogeny and identification of Pantoea species and typing of Pantoea agglomerans strains by multilocus gene sequencing. J Clin Microbiol. 2009;47(2):300–310. doi: 10.1128/JCM.01916-08.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.01916-08</ArticleId>
+            <ArticleId IdType="pmc">PMC2643697</ArticleId>
+            <ArticleId IdType="pubmed">19052179</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Katoh K, Standley DM. MAFFT: iterative refinement and additional methods. Methods Mol Biol. 2014;1079:131–146. doi: 10.1007/978-1-62703-646-7_8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-1-62703-646-7_8</ArticleId>
+            <ArticleId IdType="pubmed">24170399</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guindon S, Dufayard JF, Lefort V, Anisimova M, Hordijk W, Gascuel O. New algorithms and methods to estimate maximum-likelihood phylogenies: assessing the performance of PhyML 3.0. Syst Biol. 2010;59(3):307–21. doi: 10.1093/sysbio/syq010.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/sysbio/syq010</ArticleId>
+            <ArticleId IdType="pubmed">20525638</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lemoine F, Correia D, Lefort V, Doppelt-Azeroual O, Mareuil F, Cohen-Boulakia S, et al. NGPhylogeny.fr: new generation phylogenetic services for non-specialists. Nucleic Acids Res. 2019;47(W1):W260–5.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Data file 4: Phylogenetics analyses. Figshare: 10.6084/m9.figshare.15111588.v3 (2021).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>National Center for Biotechnology Information. Sequence Read Archive. https://trace.ncbi.nlm.nih.gov/Traces/sra/?study=SRP316834 (2021).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>National Center for Biotechnology Information. Assembly. https://www.ncbi.nlm.nih.gov/Traces/wgs/JAGTWO01?display=contigs (2021).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>National Center for Biotechnology Information. Assembly. https://www.ncbi.nlm.nih.gov/Traces/wgs/JAGTWN01?display=contigs (2021).</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

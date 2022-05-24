@@ -1,0 +1,971 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35507662</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2375-2548</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>8</Volume>
+            <Issue>18</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>06</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Science advances</Title>
+          <ISOAbbreviation>Sci Adv</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Phase coding of spatial representations in the human entorhinal cortex.</ArticleTitle>
+        <Pagination>
+          <StartPage>eabm6081</StartPage>
+          <MedlinePgn>eabm6081</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">eabm6081</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1126/sciadv.abm6081</ELocationID>
+        <Abstract>
+          <AbstractText>The grid-like activity pattern of cells in the mammalian entorhinal cortex provides an internal reference frame for allocentric self-localization. The same neurons maintain robust phase couplings with local field oscillations. We found that neurons of the human entorhinal cortex display consistent spatial and temporal phase locking between spikes and slow gamma band local field potentials (LFPs) during virtual navigation. The phase locking maintained an environment-specific map over time. The phase tuning of spikes to the slow gamma band LFP revealed spatially periodic phase grids with environment-dependent scaling and consistent alignment with the environment. Using a Bayesian decoding model, we could predict the avatar's position with near perfect accuracy and, to a lesser extent, that of heading direction as well. These results imply that the phase of spikes relative to spatially modulated gamma oscillations encode allocentric spatial positions. We posit that a joint spatiotemporal phase code can implement the combined neural representation of space and time in the human entorhinal cortex.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Nadasdy</LastName>
+            <ForeName>Zoltan</ForeName>
+            <Initials>Z</Initials>
+            <Identifier Source="ORCID">0000-0002-6515-9683</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Zeto Inc., Santa Clara, CA 95054, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Psychology, The University of Texas at Austin at Austin, Austin, TX 78712, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Cognitive Psychology, Eötvös Loránd University, 1064 Budapest, Hungary.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Howell</LastName>
+            <ForeName>Daniel H P</ForeName>
+            <Initials>DHP</Initials>
+            <Identifier Source="ORCID">0000-0003-2765-9529</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Psychology, The University of Texas at Austin at Austin, Austin, TX 78712, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neuroscience, The University of Texas at Austin, Austin, TX 78712, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Török</LastName>
+            <ForeName>Ágoston</ForeName>
+            <Initials>Á</Initials>
+            <Identifier Source="ORCID">0000-0002-1550-7969</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Systems and Control Laboratory, Institute for Computer Science and Control, Hungarian Academy of Sciences, 1111 Budapest, Hungary.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nguyen</LastName>
+            <ForeName>T Peter</ForeName>
+            <Initials>TP</Initials>
+            <Identifier Source="ORCID">0000-0002-2883-2138</Identifier>
+            <AffiliationInfo>
+              <Affiliation>School of Medicine, Baylor College of Medicine, Houston, TX 77030, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shen</LastName>
+            <ForeName>Jason Y</ForeName>
+            <Initials>JY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Seton Brain and Spine Institute, Austin, TX 78701, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurology, Dell Medical School, The University of Texas at Austin, Austin, TX 78712, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Briggs</LastName>
+            <ForeName>Deborah E</ForeName>
+            <Initials>DE</Initials>
+            <Identifier Source="ORCID">0000-0001-6638-0016</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Seton Brain and Spine Institute, Austin, TX 78701, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurology, Dell Medical School, The University of Texas at Austin, Austin, TX 78712, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Modur</LastName>
+            <ForeName>Pradeep N</ForeName>
+            <Initials>PN</Initials>
+            <AffiliationInfo>
+              <Affiliation>Seton Brain and Spine Institute, Austin, TX 78701, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurology, Dell Medical School, The University of Texas at Austin, Austin, TX 78712, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Buchanan</LastName>
+            <ForeName>Robert J</ForeName>
+            <Initials>RJ</Initials>
+            <Identifier Source="ORCID">0000-0001-5179-0020</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Psychology, The University of Texas at Austin at Austin, Austin, TX 78712, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Seton Brain and Spine Institute, Austin, TX 78701, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Surgery, Dell Medical School, The University of Texas at Austin, Austin, TX 78712, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Psychiatry, Dell Medical School, The University of Texas at Austin, Austin, TX 78712, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>04</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Sci Adv</MedlineTA>
+        <NlmUniqueID>101653440</NlmUniqueID>
+        <ISSNLinking>2375-2548</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>4</Day>
+          <Hour>14</Hour>
+          <Minute>5</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35507662</ArticleId>
+        <ArticleId IdType="pmc">PMC9067922</ArticleId>
+        <ArticleId IdType="doi">10.1126/sciadv.abm6081</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Squire L. R., 
+Memory and the hippocampus: A synthesis from findings with rats, monkeys, and humans. Psychol. Rev.
+99, 
+195–231 (1992).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1594723</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hafting T., Fyhn M., Molden S., Moser M.-B., Moser E. I., 
+Microstructure of a spatial map in the entorhinal cortex. Nature
+436, 
+801–806 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15965463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ekstrom A. D., Caplan J. B., Ho E., Shattuck K., Fried I., Kahana M. J., 
+Human hippocampal theta activity during virtual navigation. Hippocampus
+15, 
+881–889 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16114040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jacobs J., Weidemann C. T., Miller J. F., Solway A., Burke J. F., Wei X. X., Suthana N., Sperling M. R., Sharan A. D., Fried I., Kahana M. J., 
+Direct recordings of grid-like neuronal activity in human spatial navigation. Nat. Neurosci.
+16, 
+1188–1190 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3767317</ArticleId>
+            <ArticleId IdType="pubmed">23912946</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shrager Y., Kirwan C. B., Squire L. R., 
+Neural basis of the cognitive map: Path integration does not require hippocampus or entorhinal cortex. Proc. Natl. Acad. Sci.
+105, 
+12034–12038 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2575247</ArticleId>
+            <ArticleId IdType="pubmed">18687893</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nadasdy Z., Nguyen T. P., Török Á., Shen J. Y., Briggs D. E., Modur P. N., Buchanan R. J., 
+Context-dependent spatially periodic activity in the human entorhinal cortex. Proc. Natl. Acad. Sci. U.S.A.
+114, 
+E3516–E3525 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5410836</ArticleId>
+            <ArticleId IdType="pubmed">28396399</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Keefe J., Dostrovsky J., 
+The hippocampus as a spatial map. Preliminary evidence from unit activity in the freely-moving rat. Brain Res.
+34, 
+171–175 (1971).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">5124915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taube J. S., Muller R. U., Ranck J. B., 
+Head-direction cells recorded from the postsubiculum in freely moving rats. II. Effects of environmental manipulations. J. Neurosci.
+10, 
+436–447 (1990).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6570161</ArticleId>
+            <ArticleId IdType="pubmed">2303852</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Solstad T., Boccara C. N., Kropff E., Moser M.-B., Moser E. I., 
+Representation of geometric borders in the entorhinal cortex. Science
+322, 
+1865–1868 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19095945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tsao A., Sugar J., Lu L., Wang C., Knierim J. J., Moser M. B., Moser E. I., 
+Integrating time from experience in the lateral entorhinal cortex. Nature
+561, 
+57–62 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30158699</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Giocomo L. M., Stensola T., Bonnevie T., van Cauter T., Moser M. B., Moser E. I., 
+Topography of head direction cells in medial entorhinal cortex. Curr. Biol.
+24, 
+252–262 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24440398</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kraus B. J., Brandon M. P., Robinson R. J. II, Connerney M. A., Hasselmo M. E., Eichenbaum H., 
+During running in place, grid cells integrate elapsed time and distance run. Neuron
+88, 
+578–589 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4635558</ArticleId>
+            <ArticleId IdType="pubmed">26539893</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nadasdy Z., Török Á., Nguyen T. P., Shen J. Y., Briggs D. E., Modur P. N., Buchanan R. J., 
+Phase of neuronal activity encodes 2-dimensional space in the human entorhinal cortex. bioRxiv , 
+352815 (2018).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Giocomo L. M., Zilli E. A., Fransen E., Hasselmo M. E., 
+Temporal frequency of subthreshold oscillations scales with entorhinal grid cell field spacing. Science
+315, 
+1719–1722 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2950607</ArticleId>
+            <ArticleId IdType="pubmed">17379810</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Engel T. A., Schimansky-Geier L., Herz A. V. M., Schreiber S., Erchova I., 
+Subthreshold membrane-potential resonances shape spike-train patterns in the entorhinal cortex. J. Neurophysiol.
+100, 
+1576–1589 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2544463</ArticleId>
+            <ArticleId IdType="pubmed">18450582</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lu C. B., Jefferys J. G. R., Toescu E. C., Vreugdenhil M., 
+In vitro hippocampal gamma oscillation power as an index of in vivo CA3 gamma oscillation strength and spatial reference memory. Neurobiol. Learn. Mem.
+95, 
+221–230 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21093596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BuzsÁki G., 
+Theta oscillations in the hippocampus. Neuron
+33, 
+325–340 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11832222</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jacobs J., 
+Hippocampal theta oscillations are slower in humans than in rodents: Implications for models of spatial navigation and memory. Philos. Trans. R. Soc. Lond. B Biol. Sci.
+369, 
+20130304 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3866455</ArticleId>
+            <ArticleId IdType="pubmed">24366145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang H., Jacobs J., 
+Traveling theta waves in the human hippocampus. J. Neurosci.
+35, 
+12477–12487 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4563037</ArticleId>
+            <ArticleId IdType="pubmed">26354915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cornwell B. R., Johnson L. L., Holroyd T., Carver F. W., Grillon C., 
+Human hippocampal and parahippocampal theta during goal-directed spatial navigation predicts performance on a virtual Morris water maze. J. Neurosci.
+28, 
+5983–5990 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2584780</ArticleId>
+            <ArticleId IdType="pubmed">18524903</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aghajan Z. M., Schuette P., Fields T. A., Tran M. E., Siddiqui S. M., Hasulak N. R., Tcheng T. K., Eliashiv D., Mankin E. A., Stern J., Fried I., Suthana N., 
+Theta oscillations in the human medial temporal lobe during real-world ambulatory movement. Curr. Biol.
+27, 
+3743–3751.e3 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5937848</ArticleId>
+            <ArticleId IdType="pubmed">29199073</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>White D. J., Congedo M., Ciorciari J., Silberstein R. B., 
+Brain oscillatory activity during spatial navigation:theta and gamma activity link medial temporal and parietal regions. J. Cogn. Neurosci.
+24, 
+686–697 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21812639</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brandon M. P., Bogaard A. R., Libby C. P., Connerney M. A., Gupta K., Hasselmo M. E., 
+Reduction of theta rhythm dissociates grid cell spatial periodicity from directional tuning. Science
+332, 
+595–599 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3252766</ArticleId>
+            <ArticleId IdType="pubmed">21527714</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koenig J., Linder A. N., Leutgeb J. K., Leutgeb S., 
+The spatial periodicity of grid cells is not sustained during reduced theta oscillations. Science
+332, 
+592–595 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21527713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hinman J. R., Brandon M. P., Climer J. R., Chapman G. W., Hasselmo M. E., 
+Multiple running speed signals in medial entorhinal cortex. Neuron
+91, 
+666–679 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4976037</ArticleId>
+            <ArticleId IdType="pubmed">27427460</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>FernÁndez-Ruiz A., Oliva A., Soula M., Rocha-Almeida F., Nagy G. A., Martin-Vazquez G., BuzsÁki G., 
+Gamma rhythm communication between entorhinal cortex and dentate gyrus neuronal assemblies. Science
+372, 
+eabf3119 (2021).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8285088</ArticleId>
+            <ArticleId IdType="pubmed">33795429</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bragin A., Jando G., Nadasdy Z., Hetke J., Wise K., Buzsaki G., 
+Gamma (40-100 Hz) oscillation in the hippocampus of the behaving rat. J. Neurosci.
+15, 
+47–60 (1995).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6578273</ArticleId>
+            <ArticleId IdType="pubmed">7823151</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Colgin L. L., Denninger T., Fyhn M., Hafting T., Bonnevie T., Jensen O., Moser M. B., Moser E. I., 
+Frequency of gamma oscillations routes flow of information in the hippocampus. Nature
+462, 
+353–357 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19924214</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Axmacher N., Henseler M. M., Jensen O., Weinreich I., Elger C. E., Fell J., 
+Cross-frequency coupling supports multi-item working memory in the human hippocampus. Proc. Natl. Acad. Sci. U.S.A.
+107, 
+3228–3233 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2840289</ArticleId>
+            <ArticleId IdType="pubmed">20133762</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mormann F., Fell J., Axmacher N., Weber B., Lehnertz K., Elger C. E., FernÁndez G., 
+Phase/amplitude reset and theta-gamma interaction in the human medial temporal lobe during a continuous word recognition memory task. Hippocampus
+15, 
+890–900 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16114010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hasselmo M., Bodelon C., Wyble B., 
+A proposed function for hippocampal theta rhythm: Separate phases of encoding and retrieval enhance reversal of prior learning. Neural Comput.
+14, 
+793–817 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11936962</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rutishauser U., Ross I. B., Mamelak A. N., Schuman E. M., 
+Human memory strength is predicted by theta-frequency phase-locking of single neurons. Nature
+464, 
+903–907 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20336071</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heusser A. C., Poeppel D., Ezzyat Y., Davachi L., 
+Episodic sequence memory is supported by a theta-gamma phase code. Nat. Neurosci.
+19, 
+1374–1380 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5039104</ArticleId>
+            <ArticleId IdType="pubmed">27571010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yartsev M. M., Witter M. P., Ulanovsky N., 
+Grid cells without theta oscillations in the entorhinal cortex of bats. Nature
+479, 
+103–107 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22051680</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Killian N. J., Jutras M. J., Buffalo E. A., 
+A map of visual space in the primate entorhinal cortex. Nature
+491, 
+761–764 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3565234</ArticleId>
+            <ArticleId IdType="pubmed">23103863</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alonso A., LlinÁs R. R., 
+Subthreshold Na+-dependent theta-like rhythmicity in stellate cells of entorhinal cortex layer II. Nature
+342, 
+175–177 (1989).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2812013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Llinas R. R., Grace A. A., Yarom Y., 
+In vitro neurons in mammalian cortical layer 4 exhibit intrinsic oscillatory activity in the 10- to 50-Hz frequency range. Proc. Natl. Acad. Sci. U.S.A.
+88, 
+897–901 (1991).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC50921</ArticleId>
+            <ArticleId IdType="pubmed">1992481</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Okun M., Naim A., Lampl I., 
+The subthreshold relation between cortical local field potential and neuronal firing unveiled by intracellular recordings in awake rats. J. Neurosci.
+30, 
+4440–4448 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6634481</ArticleId>
+            <ArticleId IdType="pubmed">20335480</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ness T. V., Remme M. W. H., Einevoll G. T., 
+Active subthreshold dendritic conductances shape the local field potential. J. Physiol.
+594, 
+3809–3825 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4897029</ArticleId>
+            <ArticleId IdType="pubmed">27079755</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Telenczuk B., Dehghani N., Le Van Quyen M., Cash S. S., Halgren E., Hatsopoulos N. G., Destexhe A., 
+Local field potentials primarily reflect inhibitory neuron activity in human and monkey cortex. Sci. Rep.
+7, 
+40211 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5225490</ArticleId>
+            <ArticleId IdType="pubmed">28074856</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burgess N., Barry C., O’Keefe J., 
+An oscillatory interference model of grid cell firing. Hippocampus
+17, 
+801–812 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2678278</ArticleId>
+            <ArticleId IdType="pubmed">17598147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burgess N., 
+Grid cells and theta as oscillatory interference: Theory and predictions. Hippocampus
+18, 
+1157–1174 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3196519</ArticleId>
+            <ArticleId IdType="pubmed">19021256</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Climer J. R., Newman E. L., Hasselmo M. E., 
+Phase coding by grid cells in unconstrained environments: Two-dimensional phase precession. Eur. J. Neurosci.
+38, 
+2526–2541 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3912569</ArticleId>
+            <ArticleId IdType="pubmed">23718553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jeewajee A., Barry C., Douchamps V., Manson D., Lever C., Burgess N., 
+Theta phase precession of grid and place cell firing in open environments. Philos. Trans. R. Soc. B Biol. Sci.
+369, 
+20120532 (2014).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nadasdy Z., 
+Information encoding and reconstruction from the phase of action potentials. Front. Syst. Neurosci.
+3, 
+6 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2722907</ArticleId>
+            <ArticleId IdType="pubmed">19668700</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Keefe J., Recce M. L., 
+Phase relationship between hippocampal place units and the EEG theta rhythm. Hippocampus
+3, 
+317–330 (1993).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8353611</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tingley D., BuzsÁki G., 
+Transformation of a spatial map across the hippocampal-lateral septal circuit. Neuron
+98, 
+1229–1242.e5 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6605060</ArticleId>
+            <ArticleId IdType="pubmed">29779942</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Monaco J. D., De Guzman R. M., Blair H. T., Zhang K., 
+Spatial synchronization codes from coupled rate-phase neurons. PLoS Comput. Biol.
+15, 
+e1006741 (2019).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6364943</ArticleId>
+            <ArticleId IdType="pubmed">30682012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hafting T., Fyhn M., Bonnevie T., Moser M. B., Moser E. I., 
+Hippocampus-independent phase precession in entorhinal grid cells. Nature
+453, 
+1248–1252 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18480753</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reifenstein E. T., Kempter R., Schreiber S., Stemmler M. B., Herz A. V. M., 
+Grid cells in rat entorhinal cortex encode physical space with independent firing fields and phase precession at the single-trial level. Proc. Natl. Acad. Sci. U.S.A.
+109, 
+6301–6306 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3341055</ArticleId>
+            <ArticleId IdType="pubmed">22474395</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Magee J. C., 
+Dendritic mechanisms of phase precession in hippocampal CA1 pyramidal neurons. J. Neurophysiol.
+86, 
+528–532 (2001).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11431530</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maurer A. P., McNaughton B. L., 
+Network and intrinsic cellular mechanisms underlying theta phase precession of hippocampal neurons. Trends Neurosci.
+30, 
+325–333 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17532482</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Burgess N., O’Keefe J., 
+Models of place and grid cell firing and theta rhythmicity. Curr. Opin. Neurobiol.
+21, 
+734–744 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3223517</ArticleId>
+            <ArticleId IdType="pubmed">21820895</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kamondi A., AcsÁdy L., Wang X. J., BuzsÁki G., 
+Theta oscillations in somata and dendrites of hippocampal pyramidal cells in vivo: Activity-dependent phase-precession of action potentials. Hippocampus
+8, 
+244–261 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9662139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pastalkova E., Itskov V., Amarasingham A., BuzsÁki G., 
+Internally generated cell assembly sequences in the rat hippocampus. Science
+321, 
+1322–1327 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2570043</ArticleId>
+            <ArticleId IdType="pubmed">18772431</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harvey C. D., Collman F., Dombeck D. A., Tank D. W., 
+Intracellular dynamics of hippocampal place cells during virtual navigation. Nature
+461, 
+941–946 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2771429</ArticleId>
+            <ArticleId IdType="pubmed">19829374</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jensen O., Lisman J. E., 
+Position reconstruction from an ensemble of hippocampal place cells: Contribution of theta phase coding. J. Neurophysiol.
+83, 
+2602–2609 (2000).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10805660</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huxter J. R., Senior T. J., Allen K., Csicsvari J., 
+Theta phase-specific codes for two-dimensional position, trajectory and heading in the hippocampus. Nat. Neurosci.
+11, 
+587–594 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18425124</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guger C., Gener T., Pennartz C. M. A., Brotons-Mas J. R., Edlinger G., Bermúdez i Badia S., Verschure P., Schaffelhofer S., Sanchez-Vives M. V., 
+Real-time position reconstruction with hippocampal place cells. Front. Neurosci.
+5, 
+85 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3129134</ArticleId>
+            <ArticleId IdType="pubmed">21808603</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schomburg E. W., FernÁndez-Ruiz A., Mizuseki K., Berényi A., Anastassiou C. A., Koch C., BuzsÁki G., 
+Theta phase segregation of input-specific gamma patterns in entorhinal-hippocampal networks. Neuron
+84, 
+470–485 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4253689</ArticleId>
+            <ArticleId IdType="pubmed">25263753</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bender F., Gorbati M., Cadavieco M. C., Denisova N., Gao X., Holman C., Korotkova T., Ponomarenko A., 
+Theta oscillations regulate the speed of locomotion via a hippocampus to lateral septum pathway. Nat. Commun.
+6, 
+8521 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4633825</ArticleId>
+            <ArticleId IdType="pubmed">26455912</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ahmed O. J., Mehta M. R., 
+Running speed alters the frequency of hippocampal gamma oscillations. J. Neurosci.
+32, 
+7373–7383 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3366345</ArticleId>
+            <ArticleId IdType="pubmed">22623683</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Watrous A. J., Fried I., Ekstrom A. D., 
+Behavioral correlates of human hippocampal delta and theta oscillations during navigation. J. Neurophysiol.
+105, 
+1747–1755 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21289136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garthwaite P. H., Elfadaly F. G., Crawford J. R., 
+Modified confidence intervals for the Mahalanobis distance. Stat. Probab. Lett.
+127, 
+131–137 (2017).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Qasim S. E., Fried I., Jacobs J., 
+Phase precession in the human hippocampus and entorhinal cortex. Cell
+184, 
+3242–3255.e10 (2021).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8195854</ArticleId>
+            <ArticleId IdType="pubmed">33979655</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vinck M., Lima B., Womelsdorf T., Oostenveld R., Singer W., Neuenschwander S., Fries P., 
+Gamma-phase shifting in awake monkey visual cortex. J. Neurosci.
+30, 
+1250–1257 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6633799</ArticleId>
+            <ArticleId IdType="pubmed">20107053</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Besserve M., Lowe S. C., Logothetis N. K., Schölkopf B., Panzeri S., 
+Shifts of gamma phase across primary visual cortical sites reflect dynamic stimulus-modulated information transfer. PLoS Biol.
+13, 
+e1002257 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4579086</ArticleId>
+            <ArticleId IdType="pubmed">26394205</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Siegel M., Warden M. R., Miller E. K., 
+Phase-dependent neuronal coding of objects in short-term memory. Proc. Natl. Acad. Sci. U.S.A.
+106, 
+21341–21346 (2009).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2779828</ArticleId>
+            <ArticleId IdType="pubmed">19926847</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pesaran B., Pezaris J. S., Sahani M., Mitra P. P., Andersen R. A., 
+Temporal structure in neuronal activity during working memory in macaque parietal cortex. Nat. Neurosci.
+5, 
+805–811 (2002).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12134152</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Skaggs W. E., McNaughton B. L., Wilson M. A., Barnes C. A., 
+Theta phase precession in hippocampal neuronal populations and the compression of temporal sequences. Hippocampus
+6, 
+149–172 (1996).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8797016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reifenstein E., Stemmler M., Herz A. V. M., Kempter R., Schreiber S., 
+Movement dependence and layer specificity of entorhinal phase precession in two-dimensional environments. PLOS ONE
+9, 
+e100638 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4069107</ArticleId>
+            <ArticleId IdType="pubmed">24959748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Watrous A. J., Miller J., Qasim S. E., Fried I., Jacobs J., 
+Phase-tuned neuronal firing encodes human contextual representations for navigational goals. eLife
+7, 
+e32554 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6040884</ArticleId>
+            <ArticleId IdType="pubmed">29932417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bahramisharif A., van Gerven M. A. J., Aarnoutse E. J., Mercier M. R., Schwartz T. H., Foxe J. J., Ramsey N. F., Jensen O., 
+Propagating neocortical gamma bursts are coordinated by traveling alpha waves. J. Neurosci.
+33, 
+18849–18854 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4262700</ArticleId>
+            <ArticleId IdType="pubmed">24285891</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nadasdy Z., 
+Binding by asynchrony: The neuronal phase code. Front. Neurosci.
+4, 
+51 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2940453</ArticleId>
+            <ArticleId IdType="pubmed">20859525</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sargolini F., Fyhn M., Hafting T., McNaughton B. L., Witter M. P., Moser M. B., Moser E. I., 
+Conjunctive representation of position, direction, and velocity in entorhinal cortex. Science
+312, 
+758–762 (2006).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16675704</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Quiroga R. Q., Nadasdy Z., Ben-Shaul Y., 
+Unsupervised spike detection and sorting with wavelets and superparamagnetic clustering. Neural Comput.
+16, 
+1661–1687 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15228749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wild J., Prekopcsak Z., Sieger T., Novak D., Jech R., 
+Performance comparison of extracellular spike sorting algorithms for single-channel recordings. J. Neurosci. Methods
+203, 
+369–376 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22037595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berens P., 
+CircStat: A MATLAB toolbox for circular statistics. J. Stat. Softw.
+31, 
+1–21 (2009).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>S. R. Jammalamadaka, A. SenGupta, Topics in Circular Statistics [electronic resource] (World Scientific, 2001).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fisher N. I., Lee A. J., 
+A correlation coefficient for circular data. Biometrika
+70, 
+327–332 (1983).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Barry C., Bush D., 
+From A to Z: A potential role for grid cells in spatial navigation. Neural Syst. Circuits
+2, 
+6 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3423065</ArticleId>
+            <ArticleId IdType="pubmed">22647296</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krupic J., Burgess N., O’Keefe J., 
+Neural representations of location composed of spatially periodic bands. Science
+337, 
+853–857 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4576732</ArticleId>
+            <ArticleId IdType="pubmed">22904012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>R. C. Gonzalez, R. E. Woods, S. L. Eddins, in Digital Image Processing Using Matlab (Gonzalez Woods &amp; Eddins, 2004), vol. 624, pp. 609.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Migliore M., Morse T. M., Davison A. P., Marenco L., Shepherd G. M., Hines M. L., 
+ModelDB: Making models publicly accessible to support computational neuroscience. Neuroinformatics
+1, 
+135–140 (2003).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3728921</ArticleId>
+            <ArticleId IdType="pubmed">15055399</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hines M. L., Morse T., Migliore M., Carnevale N. T., Shepherd G. M., 
+ModelDB: A database to support computational neuroscience. J. Comput. Neurosci.
+17, 
+7–11 (2004).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3732827</ArticleId>
+            <ArticleId IdType="pubmed">15218350</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

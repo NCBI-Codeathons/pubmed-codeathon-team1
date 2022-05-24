@@ -1,0 +1,637 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35463319</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>29</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Print">2234-943X</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>12</Volume>
+            <PubDate>
+              <Year>2022</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Frontiers in oncology</Title>
+          <ISOAbbreviation>Front Oncol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Prediction and Identification of GPCRs Targeting for Drug Repurposing in Osteosarcoma.</ArticleTitle>
+        <Pagination>
+          <StartPage>828849</StartPage>
+          <MedlinePgn>828849</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">828849</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3389/fonc.2022.828849</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="UNASSIGNED">Osteosarcoma (OS) is a malignant bone tumor common in children and adolescents. The 5-year survival rate is only 67-69% and there is an urgent need to explore novel drugs effective for the OS. G protein-coupled receptors (GPCRs) are the common drug targets and have been found to be associated with the OS, but have been seldom used in OS.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="UNASSIGNED">The GPCRs were obtained from GPCRdb, and the GPCRs expression profile of the OS was downloaded from the UCSC Xena platform including clinical data. 10-GPCRs model signatures related to OS risk were identified by risk model analysis with R software. The predictive ability and pathological association of the signatures in OS were explored by bio-informatics analysis. The therapeutic effect of the target was investigated, followed by the investigation of the targeting drug by the colony formation experiment were.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="UNASSIGNED">We screened out 10 representative GPCRs from 50 GPCRs related to OS risk and established a 10-GPCRs prognostic model (with CCR4, HCRTR2, DRD2, HTR1A, GPR158, and GPR3 as protective factors, and HTR1E, OPN3, GRM4, and GPR144 as risk factors). We found that the low-risk group of the model was significantly associated with the higher survival probability, with the area under the curve (AUC) of the ROC greater than 0.9, conforming with the model. Moreover, both risk-score and metastasis were the independent risk factor of the OS, and the risk score was positively associated with the metastatic. Importantly, the CD8 T-cells were more aggregated in the low-risk group, in line with the predict survival rate of the model. Finally, we found that DRD2 was a novel target with approved drugs (cabergoline and bromocriptine), and preliminarily proved the therapeutic effects of the drugs on OS. These novel findings might facilitate the development of OS drugs.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="UNASSIGNED">This study offers a satisfactory 10-GPCRs model signature to predict the OS prognostic, and based on the model signature, candidate targets with approved drugs were provided.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Tan, Gao, Ru, He, Zhao and Zheng.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Tan</LastName>
+            <ForeName>Manli</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Guangxi Engineering Center in Biomedical Materials for Tissue and Organ Regeneration, The First Affiliated Hospital of Guangxi Medical University, Nanning, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gao</LastName>
+            <ForeName>Shangzhi</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Collaborative Innovation Center of Regenerative Medicine and Medical Biological Resources Development and Application of Guangxi Medical University, Nanning, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ru</LastName>
+            <ForeName>Xiao</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Collaborative Innovation Center of Regenerative Medicine and Medical Biological Resources Development and Application of Guangxi Medical University, Nanning, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>He</LastName>
+            <ForeName>Maolin</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Collaborative Innovation Center of Regenerative Medicine and Medical Biological Resources Development and Application of Guangxi Medical University, Nanning, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Jinmin</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Guangxi Engineering Center in Biomedical Materials for Tissue and Organ Regeneration, The First Affiliated Hospital of Guangxi Medical University, Nanning, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Orthopaedics Trauma and Hand Surgery, The First Affiliated Hospital of Guangxi Medical University, Nanning, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Guangxi Key Laboratory of Regenerative Medicine, The First Affiliated Hospital of Guangxi Medical University, Nanning, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zheng</LastName>
+            <ForeName>Li</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Guangxi Engineering Center in Biomedical Materials for Tissue and Organ Regeneration, The First Affiliated Hospital of Guangxi Medical University, Nanning, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Guangxi Key Laboratory of Regenerative Medicine, The First Affiliated Hospital of Guangxi Medical University, Nanning, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>04</Month>
+          <Day>07</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Front Oncol</MedlineTA>
+        <NlmUniqueID>101568867</NlmUniqueID>
+        <ISSNLinking>2234-943X</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">G protein-coupled receptors (GPCRs)</Keyword>
+        <Keyword MajorTopicYN="N">bioinformatics analysis</Keyword>
+        <Keyword MajorTopicYN="N">drug targets</Keyword>
+        <Keyword MajorTopicYN="N">osteosarcoma</Keyword>
+        <Keyword MajorTopicYN="N">risk model</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>9</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>25</Day>
+          <Hour>5</Hour>
+          <Minute>19</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35463319</ArticleId>
+        <ArticleId IdType="pmc">PMC9021700</ArticleId>
+        <ArticleId IdType="doi">10.3389/fonc.2022.828849</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>
+Siegel RL, Miller KD, Jemal A. Cancer Statistics, 2020. CA: Cancer J Clin (2020) 70:7–30. doi: 10.3322/caac.21590
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3322/caac.21590</ArticleId>
+            <ArticleId IdType="pubmed">31912902</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Whelan JS, Davis LE. Osteosarcoma, Chondrosarcoma, and Chordoma. J Clin Oncol (2018) 36:188–93. doi: 10.1200/JCO.2017.75.1743
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1200/JCO.2017.75.1743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lagmay JP, Krailo MD, Dang H, Kim A, Hawkins DS, Beaty O, III, et al. . Outcome of Patients With Recurrent Osteosarcoma Enrolled in Seven Phase II Trials Through Children’s Cancer Group, Pediatric Oncology Group, and Children’s Oncology Group: Learning From the Past to Move Forward. J Clin Oncol (2016) 34:3031. doi: 10.1200/JCO.2015.65.5381
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1200/JCO.2015.65.5381</ArticleId>
+            <ArticleId IdType="pmc">PMC5012712</ArticleId>
+            <ArticleId IdType="pubmed">27400942</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Palmerini E, Jones RL, Marchesi E, Paioli A, Cesari M, Longhi A, et al. . Gemcitabine and Docetaxel in Relapsed and Unresectable High-Grade Osteosarcoma and Spindle Cell Sarcoma of Bone. BMC Cancer (2016) 16:1–8. doi: 10.1186/s12885-016-2312-3
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12885-016-2312-3</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Inaba H, Khan R, Laningham F, Crews K, Pui C-H, Daw NC. Clinical and Radiological Characteristics of Methotrexate-Induced Acute Encephalopathy in Pediatric Patients With Cancer. Ann Oncol (2008) 19:178–84. doi: 10.1093/annonc/mdm466
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/annonc/mdm466</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Luo J, Sun P, Siwko S, Liu M, Xiao J. The Role of GPCRs in Bone Diseases and Dysfunctions. Bone Res (2019) 7:1–19. doi: 10.1038/s41413-019-0059-6
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41413-019-0059-6</ArticleId>
+            <ArticleId IdType="pmc">PMC6315020</ArticleId>
+            <ArticleId IdType="pubmed">30622830</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Luo J, Zhou W, Zhou X, Li D, Weng J, Yi Z, et al. . Regulation of Bone Formation and Remodeling by G-Protein-Coupled Receptor 48. Development (2009) 136:2747–56. doi: 10.1242/dev.033571
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1242/dev.033571</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Luo J, Yang Z, Ma Y, Yue Z, Lin H, Qu G, et al. . LGR4 is a Receptor for RANKL and Negatively Regulates Osteoclast Differentiation and Bone Resorption. Nat Med (2016) 22:539–46. doi: 10.1038/nm.4076
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nm.4076</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Sharma N, Akhade AS, Qadri A. Sphingosine-1-Phosphate Suppresses TLR-Induced CXCL8 Secretion From Human T Cells. J Leukocyte Biol (2013) 93:521–8. doi: 10.1189/jlb.0712328
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1189/jlb.0712328</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Dorsam RT, Gutkind JS. G-Protein-Coupled Receptors and Cancer. Nat Rev Cancer (2007) 7:79–94. doi: 10.1038/nrc2069
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrc2069</ArticleId>
+            <ArticleId IdType="pubmed">17251915</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Chen Z, Gao P, Li Z. Expression of G Protein-Coupled Receptor 56 is an Unfavorable Prognostic Factor in Osteosarcoma Patients. Tohoku J Exp Med (2016) 239:203–11. doi: 10.1620/tjem.239.203
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1620/tjem.239.203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Liu Z, Zhang G, Zhao C, Li J. Clinical Significance of G Protein-Coupled Receptor 110 (GPR110) as a Novel Prognostic Biomarker in Osteosarcoma. Med Sci monitor: Int Med J Exp Clin Res (2018) 24:5216. doi: 10.12659/MSM.909555
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.12659/MSM.909555</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Sun C, Li S. PTHR1 in Osteosarcoma: Specific Molecular Mechanisms and Comprehensive Functional Perspective. J Cell Mol Med (2021) 25:3175–81. doi: 10.1111/jcmm.16420
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/jcmm.16420</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+McAuley JR, Bailey KM, Ekambaram P, Klei LR, Kang H, Hu D, et al. . MALT1 is a Critical Mediator of PAR1-Driven NF-κb Activation and Metastasis in Multiple Tumor Types. Oncogene (2019) 38:7384–98. doi: 10.1038/s41388-019-0958-4
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41388-019-0958-4</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Shen Y, Zhao S, Wang S, Pan X, Zhang Y, Xu J, et al. . S1P/S1PR3 Axis Promotes Aerobic Glycolysis by YAP/c-MYC/PGAM1 Axis in Osteosarcoma. EBioMedicine (2019) 40:210–23. doi: 10.1016/j.ebiom.2018.12.038
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ebiom.2018.12.038</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wang Z, Chen X, Zhao Y, Jin Y, Zheng J. G-Protein-Coupled Estrogen Receptor Suppresses the Migration of Osteosarcoma Cells via Post-Translational Regulation of Snail. J Cancer Res Clin Oncol (2019) 145:87–96. doi: 10.1007/s00432-018-2768-4
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00432-018-2768-4</ArticleId>
+            <ArticleId IdType="pubmed">30341688</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Iyer SV, Ranjan A, Elias HK, Parrales A, Sasaki H, Roy BC, et al. . Genome-Wide RNAi Screening Identifies TMIGD3 Isoform1 as a Suppressor of NF-κb and Osteosarcoma Progression. Nat Commun (2016) 7:1–13. doi: 10.1038/ncomms13561
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms13561</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Santos R, Ursu O, Gaulton A, Bento AP, Donadi RS, Bologa CG, et al. . A Comprehensive Map of Molecular Drug Targets. Nat Rev Drug Discovery (2017) 16:19–34. doi: 10.1038/nrd.2016.230
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrd.2016.230</ArticleId>
+            <ArticleId IdType="pmc">PMC6314433</ArticleId>
+            <ArticleId IdType="pubmed">27910877</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Hauser AS, Attwood MM, Rask-Andersen M, Schiöth HB, Gloriam DE. Trends in GPCR Drug Discovery: New Agents, Targets and Indications. Nat Rev Drug Discovery (2017) 16:829–42. doi: 10.1038/nrd.2017.178
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrd.2017.178</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Pushpakom S, Iorio F, Eyers PA, Escott KJ, Hopper S, Wells A, et al. . Drug Repurposing: Progress, Challenges and Recommendations. Nat Rev Drug Discovery (2019) 18:41–58. doi: 10.1038/nrd.2018.168
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrd.2018.168</ArticleId>
+            <ArticleId IdType="pubmed">30310233</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kooistra AJ, Mordalski S, Pándy-Szekeres G, Esguerra M, Mamyrbekov A, Munk C, et al. . GPCRdb in 2021: Integrating GPCR Sequence, Structure and Function. Nucleic Acids Res (2021) 49:D335–43. doi: 10.1093/nar/gkaa1080
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkaa1080</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Goldman MJ, Craft B, Hastie M, Repečka K, McDade F, Kamath A, et al. . Visualizing and Interpreting Cancer Genomics Data via the Xena Platform. Nat Biotechnol (2020) 38:675–8. doi: 10.1038/s41587-020-0546-8
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41587-020-0546-8</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Nagy Á, Munkácsy G, Győrffy B. Pancancer Survival Analysis of Cancer Hallmark Genes. Sci Rep (2021) 11:1–10. doi: 10.1038/s41598-021-84787-5
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-021-84787-5</ArticleId>
+            <ArticleId IdType="pmc">PMC7791137</ArticleId>
+            <ArticleId IdType="pubmed">33414495</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Newman AM, Liu CL, Green MR, Gentles AJ, Feng W, Xu Y, et al. . Robust Enumeration of Cell Subsets From Tissue Expression Profiles. Nat Methods (2015) 12:453–7. doi: 10.1038/nmeth.3337
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.3337</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mak MP, Tong P, Diao L, Cardnell RJ, Gibbons DL, William WN, et al. . Patient-Derived, Pan-Cancer EMT Signature Identifies Global Molecular Alterations and Immune Target Enrichment Following Epithelial-to-Mesenchymal Transition. Clin Cancer Res (2016) 22:609–20. doi: 10.1158/1078-0432.CCR-15-0876
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1078-0432.CCR-15-0876</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Chen H, Yao J, Bao R, Dong Y, Zhang T, Du Y, et al. . Cross-Talk of Four Types of RNA Modification Writers Defines Tumor Microenvironment and Pharmacogenomic Landscape in Colorectal Cancer. Mol Cancer (2021) 20:1–21. doi: 10.1186/s12943-021-01322-w
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12943-021-01322-w</ArticleId>
+            <ArticleId IdType="pmc">PMC7777397</ArticleId>
+            <ArticleId IdType="pubmed">33386068</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Stuart T, Butler A, Hoffman P, Hafemeister C, Papalexi E, Mauck WM, III, et al. . Comprehensive Integration of Single-Cell Data. Cell (2019) 177:1888–902.e1821. doi: 10.1016/j.cell.2019.05.031
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2019.05.031</ArticleId>
+            <ArticleId IdType="pmc">PMC6687398</ArticleId>
+            <ArticleId IdType="pubmed">31178118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zhou Y, Yang D, Yang Q, Lv X, Huang W, Zhou Z, et al. . Single-Cell RNA Landscape of Intratumoral Heterogeneity and Immunosuppressive Microenvironment in Advanced Osteosarcoma. Nat Commun (2020) 11:1–17. doi: 10.1038/s41467-020-20059-6
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-020-20059-6</ArticleId>
+            <ArticleId IdType="pmc">PMC6946686</ArticleId>
+            <ArticleId IdType="pubmed">31911652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Li H, Chen X, Zeng W, Zhou W, Zhou Q, Wang Z, et al. . Radiation-Enhanced Expression of CCL22 in Nasopharyngeal Carcinoma is Associated With CCR4+ CD8 T Cell Recruitment. Int J Radiat Oncol Biol Phys (2020) 108:126–39. doi: 10.1016/j.ijrobp.2020.05.001
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ijrobp.2020.05.001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Hu S, Niu J, Zhang R, Li X, Luo M, Sang T, et al. . Orexin A Associates With Inflammation by Interacting With OX1R/OX2R Receptor and Activating Prepro-Orexin in Cancer Tissues of Gastric Cancer Patients. Gastroenterología y Hepatología (English Edition) (2020) 43:240–7. doi: 10.1016/j.gastre.2019.10.009
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.gastre.2019.10.009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Misawa K, Imai A, Mochizuki D, Misawa Y, Endo S, Hosokawa S, et al. . Genes Encoding Neuropeptide Receptors are Epigenetic Markers in Patients With Head and Neck Cancer: A Site-Specific Analysis. Oncotarget (2017) 8:76318. doi: 10.18632/oncotarget.19356
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/oncotarget.19356</ArticleId>
+            <ArticleId IdType="pmc">PMC5652708</ArticleId>
+            <ArticleId IdType="pubmed">29100314</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Laburthe M, Voisin T, El Firar A. Orexins/hypocretins and Orexin Receptors in Apoptosis: A Mini-Review. Acta Physiol (2010) 198:393–402. doi: 10.1111/j.1748-1716.2009.02035.x
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1748-1716.2009.02035.x</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Anand A, Liu B, Giacobini JD, Maeda K, Rohde M, Jäättelä M. Cell Death Induced by Cationic Amphiphilic Drugs Depends on Lysosomal Ca2+ Release and Cyclic AMP. Mol Cancer Ther (2019) 18:1602–14. doi: 10.1158/1535-7163.MCT-18-1406
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1535-7163.MCT-18-1406</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mehlmann LM, Saeki Y, Tanaka S, Brennan TJ, Evsikov AV, Pendola FL, et al. . The Gs-Linked Receptor GPR3 Maintains Meiotic Arrest in Mammalian Oocytes. Science (2004) 306:1947–50. doi: 10.1126/science.1103974
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1103974</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Sulaiman P, Joseph B, Kaimal SB, Paulose CS. Decreased Hepatic 5-HT 1A Receptors During Liver Regeneration and Neoplasia in Rats. Neurochem Res (2008) 33:444–9. doi: 10.1007/s11064-007-9452-4
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11064-007-9452-4</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Henriksen R, Dizeyi N, Abrahamsson P-A. Expression of Serotonin Receptors 5-HT1A, 5-HT1B, 5-HT2B and 5-HT4 in Ovary and in Ovarian Tumours. Anticancer Res (2012) 32:1361–6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Oka D, Yamashita S, Tomioka T, Nakanishi Y, Kato H, Kaminishi M, et al. . The Presence of Aberrant DNA Methylation in Noncancerous Esophageal Mucosae in Association With Smoking History: A Target for Risk Diagnosis and Prevention of Esophageal Cancers. Cancer: Interdiscip Int J Am Cancer Soc (2009) 115:3412–26. doi: 10.1002/cncr.24394
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cncr.24394</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Li N, Zhang Y, Sidlauskas K, Ellis M, Evans I, Frankel P, et al. . Inhibition of GPR158 by microRNA-449a Suppresses Neural Lineage of Glioma Stem/Progenitor Cells and Correlates With Higher Glioma Grades. Oncogene (2018) 37:4313–33. doi: 10.1038/s41388-018-0277-1
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41388-018-0277-1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Tan Y, Sun R, Liu L, Yang D, Xiang Q, Li L, et al. . Tumor Suppressor DRD2 Facilitates M1 Macrophages and Restricts NF-κb Signaling to Trigger Pyroptosis in Breast Cancer. Theranostics (2021) 11:5214. doi: 10.7150/thno.58322
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7150/thno.58322</ArticleId>
+            <ArticleId IdType="pmc">PMC8039962</ArticleId>
+            <ArticleId IdType="pubmed">33859743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lee JM. The Role of Protein Elongation Factor Eef1a2 in Ovarian Cancer. Reprod Biol Endocrinol (2003) 1:1–5. doi: 10.21236/ADA431692
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.21236/ADA431692</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Yang J, Tang J, Li J, Cen Y, Chen J, Dai G. Effect of Activation of the Akt/mTOR Signaling Pathway by EEF1A2 on the Biological Behavior of Osteosarcoma. Ann Trans Med (2021) 9:158. doi: 10.21037/atm-20-7974
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.21037/atm-20-7974</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Peverelli E, Giardino E, Treppiedi D, Locatelli M, Vaira V, Ferrero S, et al. . Dopamine Receptor Type 2 (DRD2) Inhibits Migration and Invasion of Human Tumorous Pituitary Cells Through ROCK-Mediated Cofilin Inactivation. Cancer Lett (2016) 381:279–86. doi: 10.1016/j.canlet.2016.08.005
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.canlet.2016.08.005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Huang H, Wu K, Ma J, Du Y, Cao C, Nie Y. Dopamine D2 Receptor Suppresses Gastric Cancer Cell Invasion and Migration via Inhibition of EGFR/AKT/MMP-13 Pathway. Int Immunopharmacol (2016) 39:113–20. doi: 10.1016/j.intimp.2016.07.002
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.intimp.2016.07.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Li ZF, Yao YD, Zhao YY, Liu Y, Liu ZH, Hu P, et al. . Effects of PAK4/LIMK1/Cofilin-1 Signaling Pathway on Proliferation, Invasion, and Migration of Human Osteosarcoma Cells. J Clin Lab Anal (2020) 34:e23362. doi: 10.1002/jcla.23362
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jcla.23362</ArticleId>
+            <ArticleId IdType="pmc">PMC7521293</ArticleId>
+            <ArticleId IdType="pubmed">32463132</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Linder M, Glitzner E, Srivatsa S, Bakiri L, Matsuoka K, Shahrouzi P, et al. . EGFR is Required for FOS-Dependent Bone Tumor Development via RSK2/CREB Signaling. EMBO Mol Med (2018) 10:e9408. doi: 10.15252/emmm.201809408
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.15252/emmm.201809408</ArticleId>
+            <ArticleId IdType="pmc">PMC6220323</ArticleId>
+            <ArticleId IdType="pubmed">30361264</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Yang W, Maolin H, Jinmin Z, Zhe W. High Expression of Metabotropic Glutamate Receptor 4: Correlation With Clinicopathologic Characteristics and Prognosis of Osteosarcoma. J Cancer Res Clin Oncol (2014) 140:419–26. doi: 10.1007/s00432-013-1581-3
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00432-013-1581-3</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Xu C, Wang R, Yang Y, Xu T, Li Y, Xu J, et al. . Expression of OPN3 in Lung Adenocarcinoma Promotes Epithelial-Mesenchymal Transition and Tumor Metastasis. Thorac Cancer (2020) 11:286–94. doi: 10.1111/1759-7714.13254
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/1759-7714.13254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zeng W, Zhang W, Feng J, He X, Lu H. Expression of OPN3 in Acral Lentiginous Melanoma and its Associated With Clinicohistopathologic Features and Prognosis. Immunity Inflammation Dis (2021) 9:840–50. doi: 10.1002/iid3.438
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/iid3.438</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bayin N, Frenster J, Kane J, Rubenstein J, Modrek A, Baitalmal R, et al. . GPR133 (ADGRD1), an Adhesion G-Protein-Coupled Receptor, is Necessary for Glioblastoma Growth. Oncogenesis (2016) 5:e263–3. doi: 10.1038/oncsis.2016.63
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/oncsis.2016.63</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Tseng W-Y, Wu Y-JJ, Yang T-Y, Chiang N-Y, Tsai W-P, Gordon S, et al. . High Levels of Soluble GPR56/ADGRG1 are Associated With Positive Rheumatoid Factor and Elevated Tumor Necrosis Factor in Patients With Rheumatoid Arthritis. J Microbiol Immunol Infect (2018) 51:485–91. doi: 10.1016/j.jmii.2016.11.010
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jmii.2016.11.010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bayer H, Muller T, Myrtek D, Sorichter S, Ziegenhagen M, Norgauer J, et al. . Serotoninergic Receptors on Human Airway Epithelial Cells. Am J Respir Cell Mol Biol (2007) 36:85–93. doi: 10.1165/rcmb.2006-0151OC
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1165/rcmb.2006-0151OC</ArticleId>
+            <ArticleId IdType="pubmed">16873768</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Gross AC, Cam H, Phelps DA, Saraf AJ, Bid HK, Cam M, et al. . IL-6 and CXCL8 Mediate Osteosarcoma-Lung Interactions Critical to Metastasis. JCI Insight (2018) 3:e99791. doi: 10.1172/jci.insight.99791
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1172/jci.insight.99791</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Tang C, Sun R, Wen G, Zhong C, Yang J, Zhu J, et al. . Bromocriptine and Cabergoline Induce Cell Death in Prolactinoma Cells via the ERK/EGR1 and AKT/mTOR Pathway Respectively. Cell Death Dis (2019) 10:1–14. doi: 10.1038/s41419-019-1526-0
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41419-019-1526-0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Yang Y, Mamouni K, Li X, Chen Y, Kavuri S, Du Y, et al. . Repositioning Dopamine D2 Receptor Agonist Bromocriptine to Enhance Docetaxel Chemotherapy and Treat Bone Metastatic Prostate Cancer. Mol Cancer Ther (2018) 17:1859–70. doi: 10.1158/1535-7163.MCT-17-1176
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1535-7163.MCT-17-1176</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Platania CBM, Leggio GM, Drago F, Salomone S, Bucolo C. Regulation of Intraocular Pressure in Mice: Structural Analysis of Dopaminergic and Serotonergic Systems in Response to Cabergoline. Biochem Pharmacol (2013) 86:1347–56. doi: 10.1016/j.bcp.2013.08.010
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bcp.2013.08.010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Ericson E, Gebbia M, Heisler LE, Wildenhain J, Tyers M, Giaever G, et al. . Off-Target Effects of Psychoactive Drugs Revealed by Genome-Wide Assays in Yeast. PloS Genet (2008) 4:e1000151. doi: 10.1371/journal.pgen.1000151
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1000151</ArticleId>
+            <ArticleId IdType="pmc">PMC2483942</ArticleId>
+            <ArticleId IdType="pubmed">18688276</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

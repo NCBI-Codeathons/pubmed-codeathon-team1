@@ -1,0 +1,972 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">34730085</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>11</Month>
+        <Day>18</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>11</Month>
+        <Day>18</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2050-084X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>10</Volume>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Nov</Month>
+              <Day>03</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>eLife</Title>
+          <ISOAbbreviation>Elife</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Developmental emergence of two-stage nonlinear synaptic integration in cerebellar interneurons.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">e65954</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.7554/eLife.65954</ELocationID>
+        <Abstract>
+          <AbstractText>Synaptic transmission, connectivity, and dendritic morphology mature in parallel during brain development and are often disrupted in neurodevelopmental disorders. Yet how these changes influence the neuronal computations necessary for normal brain function are not well understood. To identify cellular mechanisms underlying the maturation of synaptic integration in interneurons, we combined patch-clamp recordings of excitatory inputs in mouse cerebellar stellate cells (SCs), three-dimensional reconstruction of SC morphology with excitatory synapse location, and biophysical modeling. We found that postnatal maturation of postsynaptic strength was homogeneously reduced along the somatodendritic axis, but dendritic integration was always sublinear. However, dendritic branching increased without changes in synapse density, leading to a substantial gain in distal inputs. Thus, changes in synapse distribution, rather than dendrite cable properties, are the dominant mechanism underlying the maturation of neuronal computation. These mechanisms favor the emergence of a spatially compartmentalized two-stage integration model promoting location-dependent integration within dendritic subunits.</AbstractText>
+          <CopyrightInformation>© 2021, Biane et al.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Biane</LastName>
+            <ForeName>Celia</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sorbonne Université et CNRS UMR 8256, Adaptation Biologique et Vieillissement, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rückerl</LastName>
+            <ForeName>Florian</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, Université de Paris, CNRS UMR 3571, Unit of Synapse and Circuit Dynamics, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Abrahamsson</LastName>
+            <ForeName>Therese</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, Université de Paris, CNRS UMR 3571, Unit of Synapse and Circuit Dynamics, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Saint-Cloment</LastName>
+            <ForeName>Cécile</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, Université de Paris, CNRS UMR 3571, Unit of Synapse and Circuit Dynamics, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mariani</LastName>
+            <ForeName>Jean</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sorbonne Université et CNRS UMR 8256, Adaptation Biologique et Vieillissement, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shigemoto</LastName>
+            <ForeName>Ryuichi</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">0000-0001-8761-9444</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Institute of Science and Technology Austria, Klosterneuburg, Austria.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>DiGregorio</LastName>
+            <ForeName>David A</ForeName>
+            <Initials>DA</Initials>
+            <Identifier Source="ORCID">0000-0002-6417-4566</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Institut Pasteur, Université de Paris, CNRS UMR 3571, Unit of Synapse and Circuit Dynamics, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sherrard</LastName>
+            <ForeName>Rachel M</ForeName>
+            <Initials>RM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Sorbonne Université et CNRS UMR 8256, Adaptation Biologique et Vieillissement, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cathala</LastName>
+            <ForeName>Laurence</ForeName>
+            <Initials>L</Initials>
+            <Identifier Source="ORCID">0000-0001-6253-1390</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Sorbonne Université et CNRS UMR 8256, Adaptation Biologique et Vieillissement, Paris, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Paris Brain Institute, CNRS UMR 7225 - Inserm U1127 - Sorbonne Université Groupe Hospitalier Pitié Salpêtrière, Paris, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>03</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Elife</MedlineTA>
+        <NlmUniqueID>101579614</NlmUniqueID>
+        <ISSNLinking>2050-084X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002531" MajorTopicYN="N">Cerebellum</DescriptorName>
+          <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007395" MajorTopicYN="N">Interneurons</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009435" MajorTopicYN="N">Synaptic Transmission</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">cerebellum</Keyword>
+        <Keyword MajorTopicYN="Y">dendritic integration</Keyword>
+        <Keyword MajorTopicYN="Y">development</Keyword>
+        <Keyword MajorTopicYN="Y">interneuron</Keyword>
+        <Keyword MajorTopicYN="Y">mouse</Keyword>
+        <Keyword MajorTopicYN="Y">neuronal computation</Keyword>
+        <Keyword MajorTopicYN="Y">neuroscience</Keyword>
+        <Keyword MajorTopicYN="Y">synaptic transmission</Keyword>
+      </KeywordList>
+      <CoiStatement>CB, FR, TA, CS, JM, RS, DD, RS, LC No competing interests declared</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>12</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>9</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>3</Day>
+          <Hour>8</Hour>
+          <Minute>44</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>4</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34730085</ArticleId>
+        <ArticleId IdType="pmc">PMC8565927</ArticleId>
+        <ArticleId IdType="doi">10.7554/eLife.65954</ArticleId>
+        <ArticleId IdType="pii">65954</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Abrahamsson T, Cathala L, Matsui K, Shigemoto R, Digregorio DA. Thin dendrites of cerebellar interneurons confer sublinear synaptic integration and a gradient of short-term plasticity. Neuron. 2012;73:1159–1172. doi: 10.1016/j.neuron.2012.01.027.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2012.01.027</ArticleId>
+            <ArticleId IdType="pubmed">22445343</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Akerman CJ, Cline HT. Refining the roles of GABAergic signaling during neural circuit formation. Trends in Neurosciences. 2007;30:382–389. doi: 10.1016/j.tins.2007.06.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tins.2007.06.002</ArticleId>
+            <ArticleId IdType="pubmed">17590449</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Akgül G, McBain CJ. AMPA receptor deletion in developing MGE-derived hippocampal interneurons causes a redistribution of excitatory synapses and attenuates postnatal network oscillatory activity. Scientific Reports. 2020;10:1333.  doi: 10.1038/s41598-020-58068-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-020-58068-6</ArticleId>
+            <ArticleId IdType="pmc">PMC6987165</ArticleId>
+            <ArticleId IdType="pubmed">31992779</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ango F, di Cristo G, Higashiyama H, Bennett V, Wu P, Huang ZJ. Ankyrin-based subcellular gradient of neurofascin, an immunoglobulin family protein, directs GABAergic innervation at purkinje axon initial segment. Cell. 2004;119:257–272. doi: 10.1016/j.cell.2004.10.004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2004.10.004</ArticleId>
+            <ArticleId IdType="pubmed">15479642</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Antoine MW, Langberg T, Schnepel P, Feldman DE. creased Excitation-Inhibition Ratio Stabilizes Synapse and Circuit Excitability in Four Autism Mouse Models. Neuron. 2019;101:648–661. doi: 10.1016/j.neuron.2018.12.026.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2018.12.026</ArticleId>
+            <ArticleId IdType="pmc">PMC6733271</ArticleId>
+            <ArticleId IdType="pubmed">30679017</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arlt C, Häusser M. Microcircuit Rules Governing Impact of Single Interneurons on Purkinje Cell Output In Vivo. Cell Reports. 2020;30:3020–3035. doi: 10.1016/j.celrep.2020.02.009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2020.02.009</ArticleId>
+            <ArticleId IdType="pmc">PMC7059114</ArticleId>
+            <ArticleId IdType="pubmed">32130904</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bats C, Soto D, Studniarczyk D, Farrant M, Cull-Candy SG. Channel properties reveal differential expression of TARPed and TARPless AMPARs in stargazer neurons. Nature Neuroscience. 2012;15:853–861. doi: 10.1038/nn.3107.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.3107</ArticleId>
+            <ArticleId IdType="pmc">PMC3427011</ArticleId>
+            <ArticleId IdType="pubmed">22581185</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beaulieu-Laroche L, Toloza EHS, van der Goes M-S, Lafourcade M, Barnagian D, Williams ZM, Eskandar EN, Frosch MP, Cash SS, Harnett MT. Enhanced Dendritic Compartmentalization in Human Cortical Neurons. Cell. 2018;175:643–651. doi: 10.1016/j.cell.2018.08.045.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2018.08.045</ArticleId>
+            <ArticleId IdType="pmc">PMC6197488</ArticleId>
+            <ArticleId IdType="pubmed">30340039</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ben-Ari Y. Excitatory actions of gaba during development: the nature of the nurture. Nature Reviews. Neuroscience. 2002;3:728–739. doi: 10.1038/nrn920.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn920</ArticleId>
+            <ArticleId IdType="pubmed">12209121</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blackman MP, Djukic B, Nelson SB, Turrigiano GG. A critical and cell-autonomous role for MeCP2 in synaptic scaling up. The Journal of Neuroscience. 2012;32:13529–13536. doi: 10.1523/JNEUROSCI.3077-12.2012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.3077-12.2012</ArticleId>
+            <ArticleId IdType="pmc">PMC3483036</ArticleId>
+            <ArticleId IdType="pubmed">23015442</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bloomfield SA, Hamos JE, Sherman SM. Passive cable properties and morphological correlates of neurones in the lateral geniculate nucleus of the cat. The Journal of Physiology. 1987;383:653–692. doi: 10.1113/jphysiol.1987.sp016435.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.1987.sp016435</ArticleId>
+            <ArticleId IdType="pmc">PMC1183096</ArticleId>
+            <ArticleId IdType="pubmed">3309260</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bloss EB, Cembrowski MS, Karsh B, Colonell J, Fetter RD, Spruston N. Single excitatory axons form clustered synapses onto CA1 pyramidal cell dendrites. Nature Neuroscience. 2018;21:353–363. doi: 10.1038/s41593-018-0084-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41593-018-0084-6</ArticleId>
+            <ArticleId IdType="pubmed">29459763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Branco T, Häusser M. Synaptic integration gradients in single cortical pyramidal cell dendrites. Neuron. 2011;69:885–892. doi: 10.1016/j.neuron.2011.02.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2011.02.006</ArticleId>
+            <ArticleId IdType="pmc">PMC6420135</ArticleId>
+            <ArticleId IdType="pubmed">21382549</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carter AG, Regehr WG. Prolonged synaptic currents and glutamate spillover at the parallel fiber to stellate cell synapse. The Journal of Neuroscience. 2000;20:4423–4434. doi: 10.1523/JNEUROSCI.20-12-04423.2000.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.20-12-04423.2000</ArticleId>
+            <ArticleId IdType="pmc">PMC6772456</ArticleId>
+            <ArticleId IdType="pubmed">10844011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carter AG, Regehr WG. Quantal events shape cerebellar interneuron firing. Nature Neuroscience. 2002;5:1309–1318. doi: 10.1038/nn970.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn970</ArticleId>
+            <ArticleId IdType="pubmed">12411959</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cathala L, Brickley S, Cull-Candy S, Farrant M. Maturation of EPSCs and intrinsic membrane properties enhances precision at a cerebellar synapse. The Journal of Neuroscience. 2003;23:6074–6085. doi: 10.1523/JNEUROSCI.23-14-06074.2003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.23-14-06074.2003</ArticleId>
+            <ArticleId IdType="pmc">PMC6740347</ArticleId>
+            <ArticleId IdType="pubmed">12853426</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cathala L, Holderith NB, Nusser Z, DiGregorio DA, Cull-Candy SG. Changes in synaptic structure underlie the developmental speeding of AMPA receptor-mediated EPSCs. Nature Neuroscience. 2005;8:1310–1318. doi: 10.1038/nn1534.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn1534</ArticleId>
+            <ArticleId IdType="pubmed">16172604</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cayco-Gajic NA, Clopath C, Silver RA. Sparse synaptic connectivity is required for decorrelation and pattern separation in feedforward networks. Nature Communications. 2017;8:1116.  doi: 10.1038/s41467-017-01109-y.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-017-01109-y</ArticleId>
+            <ArticleId IdType="pmc">PMC5653655</ArticleId>
+            <ArticleId IdType="pubmed">29061964</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cazé RD, Humphries M, Gutkin B. Passive dendrites enable single neurons to compute linearly non-separable functions. PLOS Computational Biology. 2013;9:e1002867.  doi: 10.1371/journal.pcbi.1002867.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1002867</ArticleId>
+            <ArticleId IdType="pmc">PMC3585427</ArticleId>
+            <ArticleId IdType="pubmed">23468600</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen C, Regehr WG. Developmental remodeling of the retinogeniculate synapse. Neuron. 2000;28:955–966. doi: 10.1016/s0896-6273(00)00166-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0896-6273(00)00166-5</ArticleId>
+            <ArticleId IdType="pubmed">11163279</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clark B.A, Cull-Candy SG. Activity-dependent recruitment of extrasynaptic NMDA receptor activation at an AMPA receptor-only synapse. The Journal of Neuroscience. 2002;22:4428–4436. doi: 10.1523/JNEUROSCI.22-11-04428.2002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.22-11-04428.2002</ArticleId>
+            <ArticleId IdType="pmc">PMC6758796</ArticleId>
+            <ArticleId IdType="pubmed">12040050</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cline HT. Dendrite developmentDendrites. Oxford University Press. 2016;1:77–94. doi: 10.1093/acprof:oso/9780198745273.001.0001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/acprof:oso/9780198745273.001.0001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diamond JS, Jahr CE. Transporters buffer synaptically released glutamate on a submillisecond time scale. The Journal of Neuroscience. 1997;17:4672–4687. doi: 10.1523/JNEUROSCI.17-12-04672.1997.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.17-12-04672.1997</ArticleId>
+            <ArticleId IdType="pmc">PMC6573331</ArticleId>
+            <ArticleId IdType="pubmed">9169528</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fortin DA, Tillo SE, Yang G, Rah J-C, Melander JB, Bai S, Soler-Cedeño O, Qin M, Zemelman BV, Guo C, Mao T, Zhong H. Live imaging of endogenous PSD-95 using ENABLED: a conditional strategy to fluorescently label endogenous proteins. The Journal of Neuroscience. 2014;34:16698–16712. doi: 10.1523/JNEUROSCI.3888-14.2014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.3888-14.2014</ArticleId>
+            <ArticleId IdType="pmc">PMC4261096</ArticleId>
+            <ArticleId IdType="pubmed">25505322</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Foster KA, Crowley JJ, Regehr WG. The influence of multivesicular release and postsynaptic receptor saturation on transmission at granule cell to Purkinje cell synapses. The Journal of Neuroscience. 2005;25:11655–11665. doi: 10.1523/JNEUROSCI.4029-05.2005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.4029-05.2005</ArticleId>
+            <ArticleId IdType="pmc">PMC6726039</ArticleId>
+            <ArticleId IdType="pubmed">16354924</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fricker D, Miles R. terneurons, spike timing, and perception. Neuron. 2001;32:771–774. doi: 10.1016/s0896-6273(01)00528-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0896-6273(01)00528-1</ArticleId>
+            <ArticleId IdType="pubmed">11738024</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gidon A, Zolnik TA, Fidzinski P, Bolduan F, Papoutsi A, Poirazi P, Holtkamp M, Vida I, Larkum ME. Dendritic action potentials and computation in human layer 2/3 cortical neurons. Science. 2020;367:83–87. doi: 10.1126/science.aax6239.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aax6239</ArticleId>
+            <ArticleId IdType="pubmed">31896716</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grillo FW, Neves G, Walker A, Vizcay-Barrena G, Fleck RA, Branco T, Burrone J. A Distance-Dependent Distribution of Presynaptic Boutons Tunes Frequency-Dependent Dendritic Integration. Neuron. 2018;99:275–282. doi: 10.1016/j.neuron.2018.06.015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2018.06.015</ArticleId>
+            <ArticleId IdType="pmc">PMC6078905</ArticleId>
+            <ArticleId IdType="pubmed">29983327</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gu Y, Tran T, Murase S, Borrell A, Kirkwood A, Quinlan EM. Neuregulin-Dependent Regulation of Fast-Spiking Interneuron Excitability Controls the Timing of the Critical Period. The Journal of Neuroscience. 2016;36:10285–10295. doi: 10.1523/JNEUROSCI.4242-15.2016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.4242-15.2016</ArticleId>
+            <ArticleId IdType="pmc">PMC5050326</ArticleId>
+            <ArticleId IdType="pubmed">27707966</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Häusser M, Clark BA. Tonic synaptic inhibition modulates neuronal output pattern and spatiotemporal synaptic integration. Neuron. 1997;19:665–678. doi: 10.1016/s0896-6273(00)80379-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0896-6273(00)80379-7</ArticleId>
+            <ArticleId IdType="pubmed">9331356</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hensch TK, Fagiolini M, Mataga N, Stryker MP, Baekkeskov S, Kash SF. Local GABA circuit control of experience-dependent plasticity in developing visual cortex. Science. 1998;282:1504–1508. doi: 10.1126/science.282.5393.1504.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.282.5393.1504</ArticleId>
+            <ArticleId IdType="pmc">PMC2851625</ArticleId>
+            <ArticleId IdType="pubmed">9822384</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hestrin S. Developmental regulation of NMDA receptor-mediated synaptic currents at a central synapse. Nature. 1992;357:686–689. doi: 10.1038/357686a0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/357686a0</ArticleId>
+            <ArticleId IdType="pubmed">1377360</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hines ML, Carnevale NT. The NEURON simulation environment. Neural Computation. 1997;9:1179–1209. doi: 10.1162/neco.1997.9.6.1179.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/neco.1997.9.6.1179</ArticleId>
+            <ArticleId IdType="pubmed">9248061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoehne A, McFadden MH, DiGregorio DA. Feed-forward recruitment of electrical synapses enhances synchronous spiking in the mouse cerebellar cortex. eLife. 2020;Vol. 9:e57344.  doi: 10.7554/eLife.57344.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.57344</ArticleId>
+            <ArticleId IdType="pmc">PMC7524550</ArticleId>
+            <ArticleId IdType="pubmed">32990593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hu H, Martina M, Jonas P. Dendritic mechanisms underlying rapid synaptic activation of fast-spiking hippocampal interneurons. Science. 2010;327:52–58. doi: 10.1126/science.1177876.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1177876</ArticleId>
+            <ArticleId IdType="pubmed">19965717</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hu H, Gan J, Jonas P. terneurons: Fast-spiking, parvalbumin GABAergic interneurons: from cellular design to microcircuit function. Science. 2014;345:1255263.  doi: 10.1126/science.1255263.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1255263</ArticleId>
+            <ArticleId IdType="pubmed">25082707</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ip JPK, Mellios N, Sur M. Rett syndrome: insights into genetic, molecular and circuit mechanisms. Nature Reviews Neuroscience. 2018;19:368–382. doi: 10.1038/s41583-018-0006-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41583-018-0006-3</ArticleId>
+            <ArticleId IdType="pmc">PMC6402579</ArticleId>
+            <ArticleId IdType="pubmed">29740174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Katz LC, Shatz CJ. Synaptic activity and the construction of cortical circuits. Science. 1996;274:1133–1138. doi: 10.1126/science.274.5290.1133.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.274.5290.1133</ArticleId>
+            <ArticleId IdType="pubmed">8895456</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Katz Y, Menon V, Nicholson DA, Geinisman Y, Kath WL, Spruston N. Synapse distribution suggests a two-stage model of dendritic integration in CA1 pyramidal neurons. Neuron. 2009;63:171–177. doi: 10.1016/j.neuron.2009.06.023.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2009.06.023</ArticleId>
+            <ArticleId IdType="pmc">PMC2921807</ArticleId>
+            <ArticleId IdType="pubmed">19640476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaufmann WE, Moser HW. Dendritic anomalies in disorders associated with mental retardation. Cerebral Cortex. 2000;10:981–991. doi: 10.1093/cercor/10.10.981.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/cercor/10.10.981</ArticleId>
+            <ArticleId IdType="pubmed">11007549</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim J, Lee S, Tsuda S, Zhang X, Asrican B, Gloss B, Feng G, Augustine GJ. Optogenetic Mapping of Cerebellar Inhibitory Circuitry Reveals Spatially Biased Coordination of Interneurons via Electrical Synapses. Cell Reports. 2014;7:1601–1613. doi: 10.1016/j.celrep.2014.04.047.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2014.04.047</ArticleId>
+            <ArticleId IdType="pmc">PMC4107211</ArticleId>
+            <ArticleId IdType="pubmed">24857665</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koike-Tani M, Saitoh N, Takahashi T. Mechanisms underlying developmental speeding in AMPA-EPSC decay time at the calyx of Held. The Journal of Neuroscience. 2005;25:199–207. doi: 10.1523/JNEUROSCI.3861-04.2005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.3861-04.2005</ArticleId>
+            <ArticleId IdType="pmc">PMC6725220</ArticleId>
+            <ArticleId IdType="pubmed">15634782</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kwon HB, Sabatini BL. Glutamate induces de novo growth of functional spines in developing cortex. Nature. 2011;474:100–104. doi: 10.1038/nature09986.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature09986</ArticleId>
+            <ArticleId IdType="pmc">PMC3107907</ArticleId>
+            <ArticleId IdType="pubmed">21552280</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Larkum ME, Nevian T, Sandler M, Polsky A, Schiller J. Synaptic integration in tuft dendrites of layer 5 pyramidal neurons: a new unifying principle. Science. 2009;325:756–760. doi: 10.1126/science.1171958.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1171958</ArticleId>
+            <ArticleId IdType="pubmed">19661433</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lawrence JJ, Trussell LO. Long-term specification of AMPA receptor properties after synapse formation. The Journal of Neuroscience. 2000;20:4864–4870. doi: 10.1523/JNEUROSCI.20-13-04864.2000.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.20-13-04864.2000</ArticleId>
+            <ArticleId IdType="pmc">PMC6772288</ArticleId>
+            <ArticleId IdType="pubmed">10864943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Le Magueresse C, Monyer H. GABAergic interneurons shape the functional maturation of the cortex. Neuron. 2013;77:388–405. doi: 10.1016/j.neuron.2013.01.011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2013.01.011</ArticleId>
+            <ArticleId IdType="pubmed">23395369</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li J, Erisir A, Cline H. vivo time-lapse imaging and serial section electron microscopy reveal developmental synaptic rearrangements. Neuron. 2011;69:273–286. doi: 10.1016/j.neuron.2010.12.022.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2010.12.022</ArticleId>
+            <ArticleId IdType="pmc">PMC3052740</ArticleId>
+            <ArticleId IdType="pubmed">21262466</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu G, Choi S, Tsien RW. Variability of neurotransmitter concentration and nonsaturation of postsynaptic AMPA receptors at synapses in hippocampal cultures and slices. Neuron. 1999;22:395–409. doi: 10.1016/s0896-6273(00)81099-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0896-6273(00)81099-5</ArticleId>
+            <ArticleId IdType="pubmed">10069344</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu SQ, Cull-Candy SG. Synaptic activity at calcium-permeable AMPA receptors induces a switch in receptor subtype. Nature. 2000;405:454–458. doi: 10.1038/35013064.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/35013064</ArticleId>
+            <ArticleId IdType="pubmed">10839540</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu SJ, Cull-Candy SG. Activity-dependent change in AMPA receptor properties in cerebellar stellate cells. The Journal of Neuroscience. 2002;22:3881–3889. doi: 10.1523/JNEUROSCI.22-10-03881.2002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.22-10-03881.2002</ArticleId>
+            <ArticleId IdType="pmc">PMC6757644</ArticleId>
+            <ArticleId IdType="pubmed">12019307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Llano I, Gerschenfeld HM. hibitory synaptic currents in stellate cells of rat cerebellar slices. The Journal of Physiology. 1993;468:177–200. doi: 10.1113/jphysiol.1993.sp019766.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.1993.sp019766</ArticleId>
+            <ArticleId IdType="pmc">PMC1143821</ArticleId>
+            <ArticleId IdType="pubmed">7504726</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Losonczy A, Magee JC. tegrative properties of radial oblique dendrites in hippocampal CA1 pyramidal neurons. Neuron. 2006;50:291–307. doi: 10.1016/j.neuron.2006.03.016.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2006.03.016</ArticleId>
+            <ArticleId IdType="pubmed">16630839</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Losonczy A, Makara JK, Magee JC. Compartmentalized dendritic plasticity and input feature storage in neurons. Nature. 2008;452:436–441. doi: 10.1038/nature06725.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature06725</ArticleId>
+            <ArticleId IdType="pubmed">18368112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Magee JC. Dendritic lh normalizes temporal summation in hippocampal CA1 neurons. Nature Neuroscience. 1999;2:508–514. doi: 10.1038/9158.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/9158</ArticleId>
+            <ArticleId IdType="pubmed">10448214</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Magee JC. Dendritic integration of excitatory synaptic input. Nature Reviews. Neuroscience. 2000;1:181–190. doi: 10.1038/35044552.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/35044552</ArticleId>
+            <ArticleId IdType="pubmed">11257906</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Magee JC, Cook EP. Somatic EPSP amplitude is independent of synapse location in hippocampal pyramidal neurons. Nature Neuroscience. 2000;3:895–903. doi: 10.1038/78800.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/78800</ArticleId>
+            <ArticleId IdType="pubmed">10966620</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marín O. Developmental timing and critical windows for the treatment of psychiatric disorders. Nature Medicine. 2016;22:1229–1238. doi: 10.1038/nm.4225.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nm.4225</ArticleId>
+            <ArticleId IdType="pubmed">27783067</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Masugi-Tokita M, Tarusawa E, Watanabe M, Molnár E, Fujimoto K, Shigemoto R. Number and density of AMPA receptors in individual synapses in the rat cerebellum as revealed by SDS-digested freeze-fracture replica labeling. The Journal of Neuroscience. 2007;27:2135–2144. doi: 10.1523/JNEUROSCI.2861-06.2007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.2861-06.2007</ArticleId>
+            <ArticleId IdType="pmc">PMC6673557</ArticleId>
+            <ArticleId IdType="pubmed">17314308</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McBride TJ, Rodriguez-Contreras A, Trinh A, Bailey R, Debello WM. Learning drives differential clustering of axodendritic contacts in the barn owl auditory system. The Journal of Neuroscience. 2008;28:6960–6973. doi: 10.1523/JNEUROSCI.1352-08.2008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.1352-08.2008</ArticleId>
+            <ArticleId IdType="pmc">PMC2581896</ArticleId>
+            <ArticleId IdType="pubmed">18596170</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McCormick DA, Prince DA. Post-natal development of electrophysiological properties of rat cerebral cortical pyramidal neurones. The Journal of Physiology. 1987;393:743–762. doi: 10.1113/jphysiol.1987.sp016851.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.1987.sp016851</ArticleId>
+            <ArticleId IdType="pmc">PMC1192421</ArticleId>
+            <ArticleId IdType="pubmed">2895811</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Menon V, Musial TF, Liu A, Katz Y, Kath WL, Spruston N, Nicholson DA. Balanced synaptic impact via distance-dependent synapse distribution and complementary expression of AMPARs and NMDARs in hippocampal dendrites. Neuron. 2013;80:1451–1463. doi: 10.1016/j.neuron.2013.09.027.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2013.09.027</ArticleId>
+            <ArticleId IdType="pmc">PMC3873729</ArticleId>
+            <ArticleId IdType="pubmed">24360547</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mittmann W, Koch U, Häusser M. Feed-forward inhibition shapes the spike output of cerebellar Purkinje cells. The Journal of Physiology. 2005;563:369–378. doi: 10.1113/jphysiol.2004.075028.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2004.075028</ArticleId>
+            <ArticleId IdType="pmc">PMC1665592</ArticleId>
+            <ArticleId IdType="pubmed">15613376</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Molineux ML, Fernandez FR, Mehaffey WH, Turner RW. A-type and T-type currents interact to produce a novel spike latency-voltage relationship in cerebellar stellate cells. The Journal of Neuroscience. 2005;25:10863–10873. doi: 10.1523/JNEUROSCI.3436-05.2005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.3436-05.2005</ArticleId>
+            <ArticleId IdType="pmc">PMC6725871</ArticleId>
+            <ArticleId IdType="pubmed">16306399</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Myoga MH, Beierlein M, Regehr WG. Somatic spikes regulate dendritic signaling in small neurons in the absence of backpropagating action potentials. The Journal of Neuroscience. 2009;29:7803–7814. doi: 10.1523/JNEUROSCI.0030-09.2009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.0030-09.2009</ArticleId>
+            <ArticleId IdType="pmc">PMC2840263</ArticleId>
+            <ArticleId IdType="pubmed">19535592</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nevian T, Larkum ME, Polsky A, Schiller J. Properties of basal dendrites of layer 5 pyramidal neurons: a direct patch-clamp recording study. Nature Neuroscience. 2007;10:206–214. doi: 10.1038/nn1826.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn1826</ArticleId>
+            <ArticleId IdType="pubmed">17206140</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nicholson DA, Trana R, Katz Y, Kath WL, Spruston N, Geinisman Y. Distance-dependent differences in synapse number and AMPA receptor expression in hippocampal CA1 pyramidal neurons. Neuron. 2006;50:431–442. doi: 10.1016/j.neuron.2006.03.022.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2006.03.022</ArticleId>
+            <ArticleId IdType="pubmed">16675397</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pelkey KA, Barksdale E, Craig MT, Yuan X, Sukumaran M, Vargish GA, Mitchell RM, Wyeth MS, Petralia RS, Chittajallu R, Karlsson RM, Cameron HA, Murata Y, Colonnese MT, Worley PF, McBain CJ. Pentraxins coordinate excitatory synapse maturation and circuit integration of parvalbumin interneurons. Neuron. 2015;85:1257–1272. doi: 10.1016/j.neuron.2015.02.020.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2015.02.020</ArticleId>
+            <ArticleId IdType="pmc">PMC4368480</ArticleId>
+            <ArticleId IdType="pubmed">25754824</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peng Y, Lu Z, Li G, Piechowicz M, Anderson M, Uddin Y, Wu J, Qiu S. The autism-associated MET receptor tyrosine kinase engages early neuronal growth mechanism and controls glutamatergic circuits development in the forebrain. Molecular Psychiatry. 2016;21:925–935. doi: 10.1038/mp.2015.182.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/mp.2015.182</ArticleId>
+            <ArticleId IdType="pmc">PMC4914424</ArticleId>
+            <ArticleId IdType="pubmed">26728565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Penzes P, Cahill ME, Jones KA, VanLeeuwen JE, Woolfrey KM. Dendritic spine pathology in neuropsychiatric disorders. Nature Neuroscience. 2011;14:285–293. doi: 10.1038/nn.2741.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.2741</ArticleId>
+            <ArticleId IdType="pmc">PMC3530413</ArticleId>
+            <ArticleId IdType="pubmed">21346746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poirazi P, Mel BW. Impact of active dendrites and structural plasticity on the memory capacity of neural tissue. Neuron. 2001;29:779–796. doi: 10.1016/S0896-6273(01)00252-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0896-6273(01)00252-5</ArticleId>
+            <ArticleId IdType="pubmed">11301036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Polsky A, Mel BW, Schiller J. Computational subunits in thin dendrites of pyramidal cells. Nature Neuroscience. 2004;7:621–627. doi: 10.1038/nn1253.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn1253</ArticleId>
+            <ArticleId IdType="pubmed">15156147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pouille F, Scanziani M. Enforcement of Temporal Fidelity in Pyramidal Cells by Somatic Feed-Forward Inhibition. Science. 2001;293:1159–1163. doi: 10.1126/science.1060342.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1060342</ArticleId>
+            <ArticleId IdType="pubmed">11498596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rall W. Distinguishing theoretical synaptic potentials computed for different soma-dendritic distributions of synaptic input. Journal of Neurophysiology. 1967;30:1138–1168. doi: 10.1152/jn.1967.30.5.1138.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.1967.30.5.1138</ArticleId>
+            <ArticleId IdType="pubmed">6055351</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rieubland S, Roth A, Häusser M. Structured Connectivity in Cerebellar Inhibitory Networks. Neuron. 2014;81:913–929. doi: 10.1016/j.neuron.2013.12.029.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2013.12.029</ArticleId>
+            <ArticleId IdType="pmc">PMC3988957</ArticleId>
+            <ArticleId IdType="pubmed">24559679</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rodriguez A, Ehlenberger DB, Dickstein DL, Hof PR, Wearne SL. Automated three-dimensional detection and shape classification of dendritic spines from fluorescence microscopy images. PLOS ONE. 2008;3:e1997.  doi: 10.1371/journal.pone.0001997.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0001997</ArticleId>
+            <ArticleId IdType="pmc">PMC2292261</ArticleId>
+            <ArticleId IdType="pubmed">18431482</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rothman JS, Silver RA. NeuroMatic: An Integrated Open-Source Software Toolkit for Acquisition, Analysis and Simulation of Electrophysiological Data. Frontiers in Neuroinformatics. 2018;12:14.  doi: 10.3389/fninf.2018.00014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fninf.2018.00014</ArticleId>
+            <ArticleId IdType="pmc">PMC5893720</ArticleId>
+            <ArticleId IdType="pubmed">29670519</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rückerl F. Unit-of-Synapse-and-Circuit-Dynamics. 04b0c50GitHub. 2021 https://github.com/Unit-of-Synapse-and-Circuit-Dynamics/DevNonlinSynIntCIN</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sanes DH. The development of synaptic function and integration in the central auditory system. The Journal of Neuroscience. 1993;13:2627–2637. doi: 10.1523/JNEUROSCI.13-06-02627.1993.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.13-06-02627.1993</ArticleId>
+            <ArticleId IdType="pmc">PMC6576502</ArticleId>
+            <ArticleId IdType="pubmed">8501528</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schiller J, Major G, Koester HJ, Schiller Y. NMDA spikes in basal dendrites of cortical pyramidal neurons. Nature. 2000;404:285–289. doi: 10.1038/35005094.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/35005094</ArticleId>
+            <ArticleId IdType="pubmed">10749211</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scholl B, Wilson DE, Fitzpatrick D. Local Order within Global Disorder: Synaptic Architecture of Visual Space. Neuron. 2017;96:1127–1138. doi: 10.1016/j.neuron.2017.10.017.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2017.10.017</ArticleId>
+            <ArticleId IdType="pmc">PMC5868972</ArticleId>
+            <ArticleId IdType="pubmed">29103806</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sigler A, Oh WC, Imig C, Altas B, Kawabe H, Cooper BH, Kwon H-B, Rhee J-S, Brose N. Formation and Maintenance of Functional Spines in the Absence of Presynaptic Glutamate Release. Neuron. 2017;94:304–311. doi: 10.1016/j.neuron.2017.03.029.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2017.03.029</ArticleId>
+            <ArticleId IdType="pmc">PMC5418202</ArticleId>
+            <ArticleId IdType="pubmed">28426965</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Silver RA. Estimation of nonuniform quantal parameters with multiple-probability fluctuation analysis: theory, application and limitations. Journal of Neuroscience Methods. 2003;130:127–141. doi: 10.1016/j.jneumeth.2003.09.030.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jneumeth.2003.09.030</ArticleId>
+            <ArticleId IdType="pubmed">14667542</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Silver RA. Neuronal arithmetic. Nature Reviews. Neuroscience. 2010;11:474–489. doi: 10.1038/nrn2864.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn2864</ArticleId>
+            <ArticleId IdType="pmc">PMC4750293</ArticleId>
+            <ArticleId IdType="pubmed">20531421</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Soler-Llavina GJ, Sabatini BL. Synapse-specific plasticity and compartmentalized signaling in cerebellar stellate cells. Nature Neuroscience. 2006;9:798–806. doi: 10.1038/nn1698.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn1698</ArticleId>
+            <ArticleId IdType="pubmed">16680164</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Soto D, Coombs ID, Kelly L, Farrant M, Cull-Candy SG. Stargazin attenuates intracellular polyamine block of calcium-permeable AMPA receptors. Nature Neuroscience. 2007;10:1260–1267. doi: 10.1038/nn1966.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn1966</ArticleId>
+            <ArticleId IdType="pmc">PMC2430330</ArticleId>
+            <ArticleId IdType="pubmed">17873873</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Szoboszlay M, Lőrincz A, Lanore F, Vervaeke K, Silver RA, Nusser Z. Functional Properties of Dendritic Gap Junctions in Cerebellar Golgi Cells. Neuron. 2016;90:1043–1056. doi: 10.1016/j.neuron.2016.03.029.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2016.03.029</ArticleId>
+            <ArticleId IdType="pmc">PMC4893164</ArticleId>
+            <ArticleId IdType="pubmed">27133465</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taschenberger H, von Gersdorff H. Fine-tuning an auditory synapse for speed and fidelity: developmental changes in presynaptic waveform, EPSC kinetics, and synaptic plasticity. The Journal of Neuroscience. 2000;20:9162–9173. doi: 10.1523/JNEUROSCI.20-24-09162.2000.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.20-24-09162.2000</ArticleId>
+            <ArticleId IdType="pmc">PMC6773022</ArticleId>
+            <ArticleId IdType="pubmed">11124994</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tia S, Wang JF, Kotchabhakdi N, Vicini S. Developmental Changes of Inhibitory Synaptic Currents in Cerebellar Granule Neurons: Role of GABA A Receptor α6 Subunit. The Journal of Neuroscience. 1996;16:3630–3640. doi: 10.1523/JNEUROSCI.16-11-03630.1996.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.16-11-03630.1996</ArticleId>
+            <ArticleId IdType="pmc">PMC6578841</ArticleId>
+            <ArticleId IdType="pubmed">8642407</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tran-Van-Minh A, Cazé RD, Abrahamsson T, Cathala L, Gutkin BS, DiGregorio DA. Contribution of sublinear and supralinear dendritic integration to neuronal computations. Frontiers in Cellular Neuroscience. 2015;9:67.  doi: 10.3389/fncel.2015.00067.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncel.2015.00067</ArticleId>
+            <ArticleId IdType="pmc">PMC4371705</ArticleId>
+            <ArticleId IdType="pubmed">25852470</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tran-Van-Minh A, Abrahamsson T, Cathala L, DiGregorio DA. Differential Dendritic Integration of Synaptic Potentials and Calcium in Cerebellar Interneurons. Neuron. 2016;91:837–850. doi: 10.1016/j.neuron.2016.07.029.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2016.07.029</ArticleId>
+            <ArticleId IdType="pubmed">27537486</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tzilivaki A, Kastellakis G, Poirazi P. Challenging the point neuron dogma: FS basket cells as 2-stage nonlinear integrators. Nature Communications. 2019;10:1–14. doi: 10.1038/s41467-019-11537-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-019-11537-7</ArticleId>
+            <ArticleId IdType="pmc">PMC6694133</ArticleId>
+            <ArticleId IdType="pubmed">31413258</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vervaeke K, Lorincz A, Nusser Z, Silver RA. Gap junctions compensate for sublinear dendritic integration in an inhibitory network. Science. 2012;335:1624–1628. doi: 10.1126/science.1215101.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1215101</ArticleId>
+            <ArticleId IdType="pmc">PMC3587282</ArticleId>
+            <ArticleId IdType="pubmed">22403180</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vlasits AL, Morrie RD, Tran-Van-Minh A, Bleckert A, Gainer CF, DiGregorio DA, Feller MB. A Role for Synaptic Input Distribution in a Dendritic Computation of Motion Direction in the Retina. Neuron. 2016;89:1317–1330. doi: 10.1016/j.neuron.2016.02.020.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2016.02.020</ArticleId>
+            <ArticleId IdType="pmc">PMC4883118</ArticleId>
+            <ArticleId IdType="pubmed">26985724</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wei W, Hamby AM, Zhou K, Feller MB. Development of asymmetric inhibition underlying direction selectivity in the retina. Nature. 2011;469:402–406. doi: 10.1038/nature09600.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature09600</ArticleId>
+            <ArticleId IdType="pmc">PMC3974627</ArticleId>
+            <ArticleId IdType="pubmed">21131947</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Williams SR, Stuart GJ. Dependence of EPSP efficacy on synapse location in neocortical pyramidal neurons. Science. 2002;295:1907–1910. doi: 10.1126/science.1067903.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1067903</ArticleId>
+            <ArticleId IdType="pubmed">11884759</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wilms CD, Häusser M. Reading out a spatiotemporal population code by imaging neighbouring parallel fibre axons in vivo. Nature Communications. 2015;6:6464.  doi: 10.1038/ncomms7464.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms7464</ArticleId>
+            <ArticleId IdType="pmc">PMC4366501</ArticleId>
+            <ArticleId IdType="pubmed">25751648</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu N, Harnett MT, Williams SR, Huber D, O’Connor DH, Svoboda K, Magee JC. Nonlinear dendritic integration of sensory and motor input during an active sensing task. Nature. 2012;492:247–251. doi: 10.1038/nature11601.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature11601</ArticleId>
+            <ArticleId IdType="pubmed">23143335</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yamashita T, Ishikawa T, Takahashi T. Developmental increase in vesicular glutamate content does not cause saturation of AMPA receptors at the calyx of held synapse. The Journal of Neuroscience. 2003;23:3633–3638. doi: 10.1523/JNEUROSCI.23-09-03633.2003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.23-09-03633.2003</ArticleId>
+            <ArticleId IdType="pmc">PMC6742176</ArticleId>
+            <ArticleId IdType="pubmed">12736334</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yamazaki M, Le Pichon CE, Jackson AC, Cerpas M, Sakimura K, Scearce-Levie K, Nicoll RA. Relative contribution of TARPs γ-2 and γ-7 to cerebellar excitatory synaptic transmission and motor behavior. PNAS. 2015;112:E371–E379. doi: 10.1073/pnas.1423670112.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1423670112</ArticleId>
+            <ArticleId IdType="pmc">PMC4313851</ArticleId>
+            <ArticleId IdType="pubmed">25583485</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Z. Maturation of layer V pyramidal neurons in the rat prefrontal cortex: intrinsic properties and synaptic function. Journal of Neurophysiology. 2004;91:1171–1182. doi: 10.1152/jn.00855.2003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.00855.2003</ArticleId>
+            <ArticleId IdType="pubmed">14602839</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

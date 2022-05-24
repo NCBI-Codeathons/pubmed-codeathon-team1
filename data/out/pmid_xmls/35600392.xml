@@ -1,0 +1,688 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35600392</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Print">2234-943X</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>12</Volume>
+            <PubDate>
+              <Year>2022</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Frontiers in oncology</Title>
+          <ISOAbbreviation>Front Oncol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>SOCS3 Acts as an Onco-immunological Biomarker With Value in Assessing the Tumor Microenvironment, Pathological Staging, Histological Subtypes, Therapeutic Effect, and Prognoses of Several Types of Cancer.</ArticleTitle>
+        <Pagination>
+          <StartPage>881801</StartPage>
+          <MedlinePgn>881801</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">881801</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3389/fonc.2022.881801</ELocationID>
+        <Abstract>
+          <AbstractText>The suppressor of cytokine signaling (<i>SOCS</i>) family contains eight members, including <i>SOCS1-7</i> and <i>CIS</i>, and <i>SOCS3</i> has been shown to inhibit cytokine signal transduction in various signaling pathways. Although several studies have currently shown the correlations between <i>SOCS3</i> and several types of cancer, no pan-cancer analysis is available to date. We used various computational tools to explore the expression and pathogenic roles of <i>SOCS3</i> in several types of cancer, assessing its potential role in the pathogenesis of cancer, in tumor immune infiltration, tumor progression, immune evasion, therapeutic response, and prognostic. The results showed that <i>SOCS3</i> was downregulated in most The Cancer Genome Atlas (TCGA) cancer datasets but was highly expressed in brain tumors, breast cancer, esophageal cancer, colorectal cancer, and lymphoma. High <i>SOCS3</i> expression in glioblastoma multiforme (GBM) and brain lower-grade glioma (LGG) were verified through immunohistochemical experiments. GEPIA and Kaplan-Meier Plotter were used, and this bioinformatics analysis showed that high <i>SOCS3</i> expression was associated with a poor prognosis in the majority of cancers, including LGG and GBM. Our analysis also indicated that <i>SOCS3</i> may be involved in tumor immune evasion <i>via</i> immune cell infiltration or T-cell exclusion across different types of cancer. In addition, <i>SOCS3</i> methylation was negatively correlated with <i>mRNA</i> expression levels, worse prognoses, and dysfunctional T-cell phenotypes in various types of cancer. Next, different analytical methods were used to select genes related to <i>SOCS3</i> gene alterations and carcinogenic characteristics, such as <i>STAT3</i>, <i>SNAI1</i>, <i>NFKBIA</i>, <i>BCL10</i>, <i>TK1</i>, <i>PGS1</i>, <i>BIRC5</i>, <i>TMC8</i>, and <i>AFMID</i>, and several biological functions were identified between them. We found that <i>SOCS3</i> was involved in cancer development primarily through the <i>JAK/STAT</i> signaling pathway and cytokine receptor activity. Furthermore, <i>SOCS3</i> expression levels were associated with immunotherapy or chemotherapy for numerous types of cancer. In conclusion, this study showed that <i>SOCS3</i> is an immune-oncogenic molecule that may possess value as a biomarker for diagnosis, treatment, and prognosis of several types of cancer in the future.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Dai, Tao, Shi, Liang, Hu, Xing, Zhou, Guo, Fu and Wang.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Dai</LastName>
+            <ForeName>Lirui</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Neuroscience, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Henan International Joint Laboratory of Glioma Metabolism and Microenvironment Research, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tao</LastName>
+            <ForeName>Yiran</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Neuroscience, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Henan International Joint Laboratory of Glioma Metabolism and Microenvironment Research, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shi</LastName>
+            <ForeName>Zimin</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Neuroscience, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Henan International Joint Laboratory of Glioma Metabolism and Microenvironment Research, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liang</LastName>
+            <ForeName>Wulong</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Henan International Joint Laboratory of Glioma Metabolism and Microenvironment Research, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Weihua</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Henan International Joint Laboratory of Glioma Metabolism and Microenvironment Research, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xing</LastName>
+            <ForeName>Zhe</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Neuroscience, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Henan International Joint Laboratory of Glioma Metabolism and Microenvironment Research, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Shaolong</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Neuroscience, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Guo</LastName>
+            <ForeName>Xuyang</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Neuroscience, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Henan International Joint Laboratory of Glioma Metabolism and Microenvironment Research, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fu</LastName>
+            <ForeName>Xudong</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Neuroscience, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Henan International Joint Laboratory of Glioma Metabolism and Microenvironment Research, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Xinjun</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Neuroscience, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurosurgery, The Fifth Affiliated Hospital of Zhengzhou University, Zhengzhou University, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Henan International Joint Laboratory of Glioma Metabolism and Microenvironment Research, Zhengzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>06</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Front Oncol</MedlineTA>
+        <NlmUniqueID>101568867</NlmUniqueID>
+        <ISSNLinking>2234-943X</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">SOCS3</Keyword>
+        <Keyword MajorTopicYN="N">biomarker</Keyword>
+        <Keyword MajorTopicYN="N">chemotherapy</Keyword>
+        <Keyword MajorTopicYN="N">gene expression profiling</Keyword>
+        <Keyword MajorTopicYN="N">genetic and epigenetic alterations</Keyword>
+        <Keyword MajorTopicYN="N">immune-cell infiltration</Keyword>
+        <Keyword MajorTopicYN="N">immuno-oncology</Keyword>
+        <Keyword MajorTopicYN="N">immunotherapy</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest. The handling editor YZ declared a shared parent affiliation with the authors at the time of review.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>28</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>23</Day>
+          <Hour>3</Hour>
+          <Minute>53</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35600392</ArticleId>
+        <ArticleId IdType="pmc">PMC9122507</ArticleId>
+        <ArticleId IdType="doi">10.3389/fonc.2022.881801</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>
+Sung H, Ferlay J, Siegel R, Laversanne M, Soerjomataram I, Jemal A, et al. . Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin (2021) 71(3):209–49. doi: 10.3322/caac.21660
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3322/caac.21660</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Dawson MA, Kouzarides T. Cancer Epigenetics: From Mechanism to Therapy. Cell (2012) 150(1):12–27. doi: 10.1016/j.cell.2012.06.013
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2012.06.013</ArticleId>
+            <ArticleId IdType="pubmed">22770212</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Sadikovic B, Al-Romaih K, Squire J, Zielenska M. Cause and Consequences of Genetic and Epigenetic Alterations in Human Cancer. Curr Genomics (2008) 9(6):394–408. doi: 10.2174/138920208785699580
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2174/138920208785699580</ArticleId>
+            <ArticleId IdType="pmc">PMC2691666</ArticleId>
+            <ArticleId IdType="pubmed">19506729</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Arneth B. Tumor Microenvironment. Med (Kaunas) (2019) 56(1):15–36. doi: 10.3390/medicina56010015
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/medicina56010015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Hao X, Sun G, Zhang Y, Kong X, Rong D, Song J, et al. . Targeting Immune Cells in the Tumor Microenvironment of HCC: New Opportunities and Challenges. Front Cell Dev Biol (2021) 9. doi: 10.3389/fcell.2021.775462
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fcell.2021.775462</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zhou J, Nefedova Y, Lei A, Gabrilovich D. Neutrophils and PMN-MDSC: Their Biological Role and Interaction With Stromal Cells. Semin Immunol (2018) 35:19–28. doi: 10.1016/j.smim.2017.12.004
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.smim.2017.12.004</ArticleId>
+            <ArticleId IdType="pmc">PMC5866202</ArticleId>
+            <ArticleId IdType="pubmed">29254756</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Monteran L, Erez N. The Dark Side of Fibroblasts: Cancer-Associated Fibroblasts as Mediators of Immunosuppression in the Tumor Microenvironment. Front Immunol (2019) 10:1835. doi: 10.3389/fimmu.2019.01835
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fimmu.2019.01835</ArticleId>
+            <ArticleId IdType="pmc">PMC6688105</ArticleId>
+            <ArticleId IdType="pubmed">31428105</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wargo JA, Reddy SM, Reuben A, Sharma P. Monitoring Immune Responses in the Tumor Microenvironment. Curr Opin Immunol (2016) 41:23–31. doi: 10.1016/j.coi.2016.05.006
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.coi.2016.05.006</ArticleId>
+            <ArticleId IdType="pmc">PMC5257261</ArticleId>
+            <ArticleId IdType="pubmed">27240055</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Baker BJ, Akhtar LN, Benveniste EN. SOCS1 and SOCS3 in the Control of CNS Immunity. Trends Immunol (2009) 30(8):392–400. doi: 10.1016/j.it.2009.07.001
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.it.2009.07.001</ArticleId>
+            <ArticleId IdType="pmc">PMC2836122</ArticleId>
+            <ArticleId IdType="pubmed">19643666</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Dai L, Li Z, Tao Y, Liang W, Hu W, Zhou S, et al. . Emerging Roles of Suppressor of Cytokine Signaling 3 in Human Cancers. Biomed Pharmacother (2021) 144:112262. doi: 10.1016/j.biopha.2021.112262
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.biopha.2021.112262</ArticleId>
+            <ArticleId IdType="pubmed">34607102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+McFarland BC, Gray GK, Nozell SE, Hong SW, Benveniste EN. Activation of the NF-kappaB Pathway by the STAT3 Inhibitor JSI-124 in Human Glioblastoma Cells. Mol Cancer Res (2013) 11(5):494–505. doi: 10.1158/1541-7786.MCR-12-0528
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1541-7786.MCR-12-0528</ArticleId>
+            <ArticleId IdType="pmc">PMC3656973</ArticleId>
+            <ArticleId IdType="pubmed">23386688</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Demircan Tan B, Turan T, Yucel B, Kara SA, Yilmaz SS, Yildirim A, et al. . Aberrant SOCS3 Promoter Methylation as a Noninvasive Diagnostic Biomarker for Locally Advanced Prostate Cancer. Medeni Med J (2020) 35(2):99–105. doi: 10.5222/MMJ.2020.58708
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.5222/MMJ.2020.58708</ArticleId>
+            <ArticleId IdType="pmc">PMC7384502</ArticleId>
+            <ArticleId IdType="pubmed">32733758</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Xu C, Liu Y, Xiao L, Chen L, Zheng S, Zeng E, et al. . Silencing microRNA-221/222 Cluster Suppresses Glioblastoma Angiogenesis by Suppressor of Cytokine Signaling-3-Dependent JAK/STAT Pathway. J Cell Physiol (2019) 234(12):22272–84. doi: 10.1002/jcp.28794
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jcp.28794</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Rhodes D, Yu J, Shanker K, Deshpande N, Varambally R, Ghosh D, et al. . ONCOMINE: A Cancer Microarray Database and Integrated Data-Mining Platform. Neoplasia (2004) 6(1):1–6. doi: 10.1016/S1476-5586(04)80047-2
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1476-5586(04)80047-2</ArticleId>
+            <ArticleId IdType="pmc">PMC1635162</ArticleId>
+            <ArticleId IdType="pubmed">15068665</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Li T, Fu J, Zeng Z, Cohen D, Li J, Chen Q, et al. . TIMER2.0 for Analysis of Tumor-Infiltrating Immune Cells. Nucleic Acids Res (2020) 48:W509–14. doi: 10.1093/nar/gkaa407
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkaa407</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Tang Z, Li C, Kang B, Gao G, Li C, Zhang Z, et al. . GEPIA: A Web Server for Cancer and Normal Gene Expression Profiling and Interactive Analyses. Nucleic Acids Res (2017) 45:W98–W102. doi: 10.1093/nar/gkx247
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkx247</ArticleId>
+            <ArticleId IdType="pmc">PMC5570223</ArticleId>
+            <ArticleId IdType="pubmed">28407145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Chandrashekar D, Bashel B, Balasubramanya S, Creighton C, Ponce-Rodriguez I, Chakravarthi B, et al. . UALCAN: A Portal for Facilitating Tumor Subgroup Gene Expression and Survival Analyses. Neoplasia (2017) 19(8):649–58. doi: 10.1016/j.neo.2017.05.002
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neo.2017.05.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lánczky A, Nagy Á, Bottai G, Munkácsy G, Szabó A, Santarpia L, et al. . Mirpower: A Web-Tool to Validate Survival-Associated miRNAs Utilizing Expression Data From 2178 Breast Cancer Patients. Breast Cancer Res Treat (2016) 160(3):439–46. doi: 10.1007/s10549-016-4013-7
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10549-016-4013-7</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Li T, Fan J, Wang B, Traugh N, Chen Q, Liu J, et al. . TIMER: A Web Server for Comprehensive Analysis of Tumor-Infiltrating Immune Cells. Cancer Res (2017) 77(21):e108–10. doi: 10.1158/0008-5472.CAN-17-0307
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-17-0307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Fu J, Li K, Zhang W, Wan C, Zhang J, Jiang P, et al. . Large-Scale Public Data Reuse to Model Immunotherapy Response and Resistance. Genome Med (2020) 12(1):21. doi: 10.1186/s13073-020-0721-z
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13073-020-0721-z</ArticleId>
+            <ArticleId IdType="pmc">PMC7045518</ArticleId>
+            <ArticleId IdType="pubmed">32102694</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Jiang P, Gu S, Pan D, Fu J, Sahu A, Hu X, et al. . Signatures of T Cell Dysfunction and Exclusion Predict Cancer Immunotherapy Response. Nat Med (2018) 24(10):1550–8. doi: 10.1038/s41591-018-0136-1
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41591-018-0136-1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Cerami E, Gao J, Dogrusoz U, Gross B, Sumer S, Aksoy B, et al. . The Cbio Cancer Genomics Portal: An Open Platform for Exploring Multidimensional Cancer Genomics Data. Cancer Discov (2012) 2(5):401–4. doi: 10.1158/2159-8290.CD-12-0095
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/2159-8290.CD-12-0095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Shinawi T, Hill V, Krex D, Schackert G, Gentle D, Morris M, et al. . DNA Methylation Profiles of Long- and Short-Term Glioblastoma Survivors. Epigenetics (2013) 8(2):149–56. doi: 10.4161/epi.23398
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4161/epi.23398</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Men C, Chai H, Song X, Li Y, Du H, Ren Q, et al. . Identification of DNA Methylation Associated Gene Signatures in Endometrial Cancer via Integrated Analysis of DNA Methylation and Gene Expression Systematically. J Gynecol Oncol (2017) 28(6):. doi: 10.3802/jgo.2017.28.e83
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3802/jgo.2017.28.e83</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Fahey M, Bennett M, Mahon C, Jäger S, Pache L, Kumar D, et al. . GPS-Prot: A Web-Based Visualization Platform for Integrating Host-Pathogen Interaction Data. BMC Bioinformatics (2011) 12:298. doi: 10.1186/1471-2105-12-298
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2105-12-298</ArticleId>
+            <ArticleId IdType="pmc">PMC3213248</ArticleId>
+            <ArticleId IdType="pubmed">21777475</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kong X, Liu C, Lu P, Guo Y, Zhao C, Yang Y, et al. . Combination of UPLC-Q-TOF/MS and Network Pharmacology to Reveal the Mechanism of Qizhen Decoction in the Treatment of Colon Cancer. ACS Omega (2021) 6(22):14341–60. doi: 10.1021/acsomega.1c01183
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acsomega.1c01183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bardou P, Mariette J, Escudié F, Djemiel C, Klopp C. Jvenn: An Interactive Venn Diagram Viewer. BMC Bioinformatics (2014) 15:293. doi: 10.1186/1471-2105-15-293
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2105-15-293</ArticleId>
+            <ArticleId IdType="pmc">PMC4261873</ArticleId>
+            <ArticleId IdType="pubmed">25176396</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Huang D, Sherman B, Tan Q, Kir J, Liu D, Bryant D, et al. . DAVID Bioinformatics Resources: Expanded Annotation Database and Novel Algorithms to Better Extract Biology From Large Gene Lists. Nucleic Acids Res (2007) 35:W169–75. doi: 10.1093/nar/gkm415
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkm415</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Fekete J, Győrffy B. ROCplot.org: Validating Predictive Biomarkers of Chemotherapy/Hormonal Therapy/Anti-HER2 Therapy Using Transcriptomic Data of 3,104 Breast Cancer Patients. Int J Cancer (2019) 145(11):3140–51. doi: 10.1002/ijc.32369
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/ijc.32369</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Song Q, Bian Q, Liang T, Zhang Y, Zhang K, et al. . Identification of Immune-Related Genes and Susceptible Population of Pulmonary Tuberculosis by Constructing TF-miRNA-mRNA Regulatory Network. Tuberculosis (Edinb) (2021) 131:102139. doi: 10.1016/j.tube.2021.102139
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tube.2021.102139</ArticleId>
+            <ArticleId IdType="pubmed">34740018</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wu SY, Lin KC, Lawal B, Wu AT, Wu CZ, et al. . MXD3 as an Onco-Immunological Biomarker Encompassing the Tumor Microenvironment, Disease Staging, Prognoses, and Therapeutic Responses in Multiple Cancer Types. Comput Struct Biotechnol J (2021) 19:4970–83. doi: 10.1016/j.csbj.2021.08.047
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.csbj.2021.08.047</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Cui X, Zhang X, Liu M, Zhao C, Zhang N, Ren Y, et al. . A Pan-Cancer Analysis of the Oncogenic Role of Staphylococcal Nuclease Domain-Containing Protein 1 (SND1) in Human Tumors. Genomics (2020) 112(6):3958–67. doi: 10.1016/j.ygeno.2020.06.044
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ygeno.2020.06.044</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Martini M, Pallini R, Luongo G, Cenci T, Lucantoni C, Larocca L, et al. . Prognostic Relevance of SOCS3 Hypermethylation in Patients With Glioblastoma Multiforme. Int J Cancer (2008) 123(12):2955–60. doi: 10.1002/ijc.23805
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/ijc.23805</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lindemann C, Hachmann O, Delic S, Schmidt N, Reifenberger G, Riemenschneider M, et al. . SOCS3 Promoter Methylation is Mutually Exclusive to EGFR Amplification in Gliomas and Promotes Glioma Cell Invasion Through STAT3 and FAK Activation. Acta Neuropathol (2011) 122(2):241–51. doi: 10.1007/s00401-011-0832-0
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00401-011-0832-0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Sutherland K, Lindeman G, Choong D, Wittlin S, Brentzell L, Phillips W, et al. . Differential Hypermethylation of SOCS Genes in Ovarian and Breast Carcinomas. Oncogene (2004) 23(46):7726–33. doi: 10.1038/sj.onc.1207787
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/sj.onc.1207787</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Cai Q, Zhu M, Duan J, Wang H, Chen J, Xiao Y, et al. . Comprehensive Analysis of Immune-Related Prognosis of TK1 in Hepatocellular Carcinoma. Front Oncol (2021) 11:786873. doi: 10.3389/fonc.2021.786873
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fonc.2021.786873</ArticleId>
+            <ArticleId IdType="pmc">PMC8814100</ArticleId>
+            <ArticleId IdType="pubmed">35127491</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Xu JZ, Shao CC, Wang XJ, Zhao X, Chen JQ, Ouyang YX, et al. . Circtada2as Suppress Breast Cancer Progression and Metastasis via Targeting miR-203a-3p/SOCS3 Axis. Cell Death Dis (2019) 10(3):175. doi: 10.1038/s41419-019-1382-y
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41419-019-1382-y</ArticleId>
+            <ArticleId IdType="pmc">PMC6382814</ArticleId>
+            <ArticleId IdType="pubmed">30787278</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Shang A, Wu J, Bi F, Zhang YJ, Xu LR, Li LL, et al. . Relationship Between HER2 and JAK/STAT-SOCS3 Signaling Pathway and Clinicopathological Features and Prognosis of Ovarian Cancer. Cancer Biol Ther (2017) 18(5):314–22. doi: 10.1080/15384047.2017.1310343
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/15384047.2017.1310343</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Huang L, Hu B, Ni J, Wu J, Jiang W, Chen C, et al. . Transcriptional Repression of SOCS3 Mediated by IL-6/STAT3 Signaling via DNMT1 Promotes Pancreatic Cancer Growth and Metastasis. J Exp Clin Cancer Res (2016) 35:27. doi: 10.1186/s13046-016-0301-7
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13046-016-0301-7</ArticleId>
+            <ArticleId IdType="pmc">PMC4743194</ArticleId>
+            <ArticleId IdType="pubmed">26847351</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Meacham CE, Morrison SJ. Tumour Heterogeneity and Cancer Cell Plasticity. Nature (2013) 501(7467):328–37. doi: 10.1038/nature12624
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature12624</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Borrebaeck CA. Precision Diagnostics: Moving Towards Protein Biomarker Signatures of Clinical Utility in Cancer. Nat Rev Cancer (2017) 17(3):199–204. doi: 10.1038/nrc.2016.153
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrc.2016.153</ArticleId>
+            <ArticleId IdType="pubmed">28154374</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Yabe M, Ishibashi K, Onagi A, Tanji R, Honda-Takinami R, Koguchi T, et al. . Suppression of SOCS3 Enhances TRAIL-Induced Cell Growth Inhibition Through the Upregulation of DR4 Expression in Renal Cell Carcinoma Cells. Oncotarget (2018) 9(60):31697–708. doi: 10.18632/oncotarget.25851
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/oncotarget.25851</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lawal B, Lin LC, Lee JC, Chen JH, Bekaii-Saab T, Wu A, et al. . Multi-Omics Data Analysis of Gene Expressions and Alterations, Cancer-Associated Fibroblast and Immune Infiltrations, Reveals the Onco-Immune Prognostic Relevance of STAT3/CDK2/4/6 in Human Malignancies. Cancers (Basel) (2021) 13(5):954–76. doi: 10.3390/cancers13050954
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cancers13050954</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Yu G, Chiang D, Song S, Hoyte E, Huang J, Vanishsarn C, et al. . Regulatory T Cell Dysfunction in Subjects With Common Variable Immunodeficiency Complicated by Autoimmune Disease. Clin Immunol (2009) 131(2):240–53. doi: 10.1016/j.clim.2008.12.006
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.clim.2008.12.006</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Man YG, Stojadinovic A, Mason J, Avital I, Bilchik A, Bruecher B, et al. . Tumor-Infiltrating Immune Cells Promoting Tumor Invasion and Metastasis: Existing Theories. J Cancer (2013) 4(1):84–95. doi: 10.7150/jca.5482
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7150/jca.5482</ArticleId>
+            <ArticleId IdType="pmc">PMC3564249</ArticleId>
+            <ArticleId IdType="pubmed">23386907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Komohara Y, Fujiwara Y, Ohnishi K, Takeya M. Tumor-Associated Macrophages: Potential Therapeutic Targets for Anti-Cancer Therapy. Adv Drug Delivery Rev (2016) 99(Pt B):180–5. doi: 10.1016/j.addr.2015.11.009
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.addr.2015.11.009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Garnis C, Buys TP, Lam WL. Genetic Alteration and Gene Expression Modulation During Cancer Progression. Mol Cancer (2004) 3:9. doi: 10.1186/1476-4598-3-9
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1476-4598-3-9</ArticleId>
+            <ArticleId IdType="pmc">PMC408463</ArticleId>
+            <ArticleId IdType="pubmed">15035667</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Blakely CM, Watkins TB, Wu W, Gini B, Chabon JJ, McCoach CE, et al. . Evolution and Clinical Impact of Co-Occurring Genetic Alterations in Advanced-Stage EGFR-Mutant Lung Cancers. Nat Genet (2017) 49(12):1693–704. doi: 10.1038/ng.3990
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ng.3990</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Chen M, Zeng J, Chen S, Li J, Wu H, Dong X, et al. . SPTBN1 Suppresses the Progression of Epithelial Ovarian Cancer via SOCS3-Mediated Blockade of the JAK/STAT3 Signaling Pathway. Aging (Albany NY) (2020) 12(11):10896–911. doi: 10.18632/aging.103303
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/aging.103303</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wan J, Che Y, Kang N, Wu W. SOCS3 Blocks HIF-1α Expression to Inhibit Proliferation and Angiogenesis of Human Small Cell Lung Cancer by Downregulating Activation of Akt, But Not STAT3. Mol Med Rep (2015) 12(1):83–92. doi: 10.3892/mmr.2015.3368
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3892/mmr.2015.3368</ArticleId>
+            <ArticleId IdType="pmc">PMC4438922</ArticleId>
+            <ArticleId IdType="pubmed">25695729</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Makuku R, Khalili N, Razi S, Keshavarz-Fathi M, Rezazi N. Current and Future Perspectives of PD-1/PDL-1 Blockade in Cancer Immunotherapy. J Immunol Res (2021) 2021:6661406. doi: 10.1155/2021/6661406
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2021/6661406</ArticleId>
+            <ArticleId IdType="pmc">PMC7925068</ArticleId>
+            <ArticleId IdType="pubmed">33681388</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

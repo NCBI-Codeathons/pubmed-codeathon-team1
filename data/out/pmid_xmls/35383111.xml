@@ -1,0 +1,609 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35383111</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>07</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2575-1077</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>5</Volume>
+            <Issue>7</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jul</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Life science alliance</Title>
+          <ISOAbbreviation>Life Sci Alliance</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Intensive single-cell analysis reveals immune-cell diversity among healthy individuals.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">e202201398</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.26508/lsa.202201398</ELocationID>
+        <Abstract>
+          <AbstractText>Immune responses are different between individuals and personal health histories and unique environmental conditions should collectively determine the present state of immune cells. However, the molecular systems underlying such heterogeneity remain elusive. Here, we conducted a systematic time-lapse single-cell analysis, using 171 single-cell libraries and 30 mass cytometry datasets intensively for seven healthy individuals. We found substantial diversity in immune-cell profiles between different individuals. These patterns showed daily fluctuations even within the same individual. Similar diversities were also observed for the T-cell and B-cell receptor repertoires. Detailed immune-cell profiles at healthy statuses should give essential background information to understand their immune responses, when the individual is exposed to various environmental conditions. To demonstrate this idea, we conducted the similar analysis for the same individuals on the vaccination of influenza and SARS-CoV-2. In fact, we detected distinct responses to vaccines between individuals, although key responses are common. Single-cell immune-cell profile data should make fundamental data resource to understand variable immune responses, which are unique to each individual.</AbstractText>
+          <CopyrightInformation>© 2022 Kashima et al.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Kashima</LastName>
+            <ForeName>Yukie</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kaneko</LastName>
+            <ForeName>Keiya</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Reteng</LastName>
+            <ForeName>Patrick</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Division of Collaboration and Education, International Institute for Zoonosis Control, Hokkaido University, Sapporo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yoshitake</LastName>
+            <ForeName>Nina</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Runtuwene</LastName>
+            <ForeName>Lucky Ronald</ForeName>
+            <Initials>LR</Initials>
+            <AffiliationInfo>
+              <Affiliation>AIDS Research Center, National Institute of Infectious Disease, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nagasawa</LastName>
+            <ForeName>Satoi</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0003-3967-7644</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Division of Breast and Endocrine Surgery, Department of Surgery, St. Marianna University School of Medicine, Kawasaki, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Onishi</LastName>
+            <ForeName>Masaya</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Seki</LastName>
+            <ForeName>Masahide</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Suzuki</LastName>
+            <ForeName>Ayako</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sugano</LastName>
+            <ForeName>Sumio</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute of Kashiwa-no-ha Omics Gate, Kashiwa, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Future Medicine Education and Research Organization at Chiba University, Chiba-city, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sakata-Yanagimoto</LastName>
+            <ForeName>Mamiko</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Hematology, Faculty of Medicine, University of Tsukuba, Tsukuba, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Imai</LastName>
+            <ForeName>Yumiko</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Laboratory of Regulation for Intractable Infectious Diseases, National Institutes of Biomedical Innovation, Health and Nutrition (NIBIOHN), Osaka, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nakayama-Hosoya</LastName>
+            <ForeName>Kaori</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>AIDS Research Center, National Institute of Infectious Disease, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kawana-Tachikawa</LastName>
+            <ForeName>Ai</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>AIDS Research Center, National Institute of Infectious Disease, Tokyo, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mizutani</LastName>
+            <ForeName>Taketoshi</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Suzuki</LastName>
+            <ForeName>Yutaka</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">0000-0002-7559-5139</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Computational Biology and Medical Sciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Japan ysuzuki@k.u-tokyo.ac.jp.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>04</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Life Sci Alliance</MedlineTA>
+        <NlmUniqueID>101728869</NlmUniqueID>
+        <ISSNLinking>2575-1077</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000086663">COVID-19 Vaccines</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000086382" MajorTopicYN="Y">COVID-19</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086663" MajorTopicYN="N">COVID-19 Vaccines</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086402" MajorTopicYN="N">SARS-CoV-2</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059010" MajorTopicYN="Y">Single-Cell Analysis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014611" MajorTopicYN="N">Vaccination</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare that they have no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>3</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>6</Day>
+          <Hour>5</Hour>
+          <Minute>23</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35383111</ArticleId>
+        <ArticleId IdType="pmc">PMC8983398</ArticleId>
+        <ArticleId IdType="doi">10.26508/lsa.202201398</ArticleId>
+        <ArticleId IdType="pii">5/7/e202201398</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Adams NM, Grassmann S, Sun JC (2020) Clonal expansion of innate and adaptive lymphocytes. Nat Rev Immunol
+20: 694–707. 10.1038/s41577-020-0307-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41577-020-0307-4</ArticleId>
+            <ArticleId IdType="pubmed">32424244</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aran D, Looney AP, Liu L, Wu E, Fong V, Hsu A, Chak S, Naikawadi RP, Wolters PJ, Abate AR, et al.  (2019) Reference-based analysis of lung single-cell sequencing reveals a transitional profibrotic macrophage. Nat Immunol
+20: 163–172. 10.1038/s41590-018-0276-y</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41590-018-0276-y</ArticleId>
+            <ArticleId IdType="pmc">PMC6340744</ArticleId>
+            <ArticleId IdType="pubmed">30643263</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barash A, Machluf Y, Ariel I, Dekel Y (2020) The pursuit of COVID-19 biomarkers: Putting the spotlight on ACE2 and TMPRSS2 regulatory sequences. Front Med (Lausanne)
+7: 582793. 10.3389/fmed.2020.582793</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fmed.2020.582793</ArticleId>
+            <ArticleId IdType="pmc">PMC7661736</ArticleId>
+            <ArticleId IdType="pubmed">33195331</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Borcherding N, Bormann NL, Kraus G (2020) scRepertoire: An R-based toolkit for single-cell immune receptor analysis. F1000Res
+9: 47. 10.12688/f1000research.22139.2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.12688/f1000research.22139.2</ArticleId>
+            <ArticleId IdType="pmc">PMC7400693</ArticleId>
+            <ArticleId IdType="pubmed">32789006</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bunyavanich S, Grant C, Vicencio A (2020) Racial/ethnic variation in nasal gene expression of transmembrane serine protease 2 (TMPRSS2). JAMA
+324: 1567–1568. 10.1001/jama.2020.17386</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1001/jama.2020.17386</ArticleId>
+            <ArticleId IdType="pmc">PMC7489401</ArticleId>
+            <ArticleId IdType="pubmed">32910146</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carr EJ, Dooley J, Garcia-Perez JE, Lagou V, Lee JC, Wouters C, Meyts I, Goris A, Boeckxstaens G, Linterman MA, et al.  (2016) The cellular composition of the human immune system is shaped by age and cohabitation. Nat Immunol
+17: 461–468. 10.1038/ni.3371</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ni.3371</ArticleId>
+            <ArticleId IdType="pmc">PMC4890679</ArticleId>
+            <ArticleId IdType="pubmed">26878114</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>De Kouchkovsky I, Abdul-Hay M (2016) Acute myeloid leukemia: A comprehensive review and 2016 update. Blood Cancer J
+6: e441. 10.1038/bcj.2016.50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/bcj.2016.50</ArticleId>
+            <ArticleId IdType="pmc">PMC5030376</ArticleId>
+            <ArticleId IdType="pubmed">27367478</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>El-Khatib Z, Jacobs GB, Ikomey GM, Neogi U (2020) The disproportionate effect of COVID-19 mortality on ethnic minorities: Genetics or health inequalities?
+EClinicalMedicine
+23: 100430. 10.1016/j.eclinm.2020.100430</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eclinm.2020.100430</ArticleId>
+            <ArticleId IdType="pmc">PMC7301807</ArticleId>
+            <ArticleId IdType="pubmed">32572393</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ewer KJ, Barrett JR, Belij-Rammerstorfer S, Sharpe H, Makinson R, Morter R, Flaxman A, Wright D, Bellamy D, Bittaye M, et al.  (2021) T cell and antibody responses induced by a single dose of ChAdOx1 nCoV-19 (AZD1222) vaccine in a phase 1/2 clinical trial. Nat Med
+27: 270–278. 10.1038/s41591-020-01194-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41591-020-01194-5</ArticleId>
+            <ArticleId IdType="pubmed">33335323</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gielis S, Moris P, Bittremieux W, De Neuter N, Ogunjimi B, Laukens K, Meysman P (2019) Detection of enriched T cell epitope specificity in full T cell receptor sequence repertoires. Front Immunol
+10: 2820. 10.3389/fimmu.2019.02820</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fimmu.2019.02820</ArticleId>
+            <ArticleId IdType="pmc">PMC6896208</ArticleId>
+            <ArticleId IdType="pubmed">31849987</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hao Y, Hao S, Andersen-Nissen E, Mauck WM, Zheng S, Butler A, Lee MJ, Wilk AJ, Darby C, Zager M, et al.  (2021) Integrated analysis of multimodal single-cell data. Cell
+184: 3573–3587.e29. 10.1016/j.cell.2021.04.048</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2021.04.048</ArticleId>
+            <ArticleId IdType="pmc">PMC8238499</ArticleId>
+            <ArticleId IdType="pubmed">34062119</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hayes MP, Berrebi GA, Henkart PA (1989) Induction of target cell DNA release by the cytotoxic T lymphocyte granule protease granzyme A. J Exp Med
+170: 933–946. 10.1084/jem.170.3.933</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1084/jem.170.3.933</ArticleId>
+            <ArticleId IdType="pmc">PMC2189452</ArticleId>
+            <ArticleId IdType="pubmed">2788710</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hou Y, Zhao J, Martin W, Kallianpur A, Chung MK, Jehi L, Sharifi N, Erzurum S, Eng C, Cheng F (2020) New insights into genetic susceptibility of COVID-19: An ACE2 and TMPRSS2 polymorphism analysis. BMC Med
+18: 216. 10.1186/s12916-020-01673-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12916-020-01673-z</ArticleId>
+            <ArticleId IdType="pmc">PMC7360473</ArticleId>
+            <ArticleId IdType="pubmed">32664879</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hu Y, Ranganathan M, Shu C, Liang X, Ganesh S, Osafo-Addo A, Yan C, Zhang X, Aouizerat BE, Krystal JH, et al.  (2020) Single-cell transcriptome mapping identifies common and cell-type specific genes affected by acute delta9-tetrahydrocannabinol in humans. Sci Rep
+10: 3450. 10.1038/s41598-020-59827-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-020-59827-1</ArticleId>
+            <ArticleId IdType="pmc">PMC7044203</ArticleId>
+            <ArticleId IdType="pubmed">32103029</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang Z, Chen B, Liu X, Li H, Xie L, Gao Y, Duan R, Li Z, Zhang J, Zheng Y, et al.  (2021) Effects of sex and aging on the immune cell landscape as assessed by single-cell transcriptomic analysis. Proc Natl Acad Sci U S A
+118: e2023216118. 10.1073/pnas.2023216118</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.2023216118</ArticleId>
+            <ArticleId IdType="pmc">PMC8379935</ArticleId>
+            <ArticleId IdType="pubmed">34385315</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>June CH, O’Connor RS, Kawalekar OU, Ghassemi S, Milone MC (2018) CAR T cell immunotherapy for human cancer. Science
+359: 1361–1365. 10.1126/science.aar6711</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aar6711</ArticleId>
+            <ArticleId IdType="pubmed">29567707</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Klein SL, Flanagan KL (2016) Sex differences in immune responses. Nat Rev Immunol
+16: 626–638. 10.1038/nri.2016.90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nri.2016.90</ArticleId>
+            <ArticleId IdType="pubmed">27546235</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lakshmikanth T, Muhammad SA, Olin A, Chen Y, Mikes J, Fagerberg L, Gummesson A, Bergström G, Uhlen M, Brodin P (2020) Human immune system variation during 1 year. Cell Rep
+32: 107923. 10.1016/j.celrep.2020.107923</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2020.107923</ArticleId>
+            <ArticleId IdType="pubmed">32697987</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee IH, Lee JW, Kong SW (2020) A survey of genetic variants in SARS-CoV-2 interacting domains of ACE2, TMPRSS2 and TLR3/7/8 across populations. Infect Genet Evol
+85: 104507. 10.1016/j.meegid.2020.104507</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.meegid.2020.104507</ArticleId>
+            <ArticleId IdType="pmc">PMC7448771</ArticleId>
+            <ArticleId IdType="pubmed">32858233</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martos SN, Campbell MR, Lozoya OA, Wang X, Bennett BD, Thompson IJB, Wan M, Pittman GS, Bell DA (2020) Single-cell analyses identify dysfunctional CD16+ CD8 T cells in smokers. Cell Rep Med
+1: 100054. 10.1016/j.xcrm.2020.100054</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.xcrm.2020.100054</ArticleId>
+            <ArticleId IdType="pmc">PMC7644053</ArticleId>
+            <ArticleId IdType="pubmed">33163982</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Minervina A, Pogorelyy M, Mamedov I (2019) T-cell receptor and B-cell receptor repertoire profiling in adaptive immunity. Transpl Int
+32: 1111–1123. 10.1111/tri.13475</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/tri.13475</ArticleId>
+            <ArticleId IdType="pubmed">31250479</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Monaco G, Lee B, Xu W, Mustafah S, Hwang YY, Carré C, Burdin N, Visan L, Ceccarelli M, Poidinger M, et al.  (2019) RNA-seq signatures normalized by mRNA abundance allow absolute deconvolution of human immune cell types. Cell Rep
+26: 1627–1640.e7. 10.1016/j.celrep.2019.01.041</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2019.01.041</ArticleId>
+            <ArticleId IdType="pmc">PMC6367568</ArticleId>
+            <ArticleId IdType="pubmed">30726743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nicholson LB (2016) The immune system. Essays Biochem
+60: 275–301. 10.1042/EBC20160017</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/EBC20160017</ArticleId>
+            <ArticleId IdType="pmc">PMC5091071</ArticleId>
+            <ArticleId IdType="pubmed">27784777</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Olson TL, Cheon H, Xing JC, Olson KC, Paila U, Hamele CE, Neelamraju Y, Shemo BC, Schmachtenberg MW, Sundararaman SK, et al.  (2021) Frequent somatic TET2 mutations in chronic NK-LGL leukemia with distinct patterns of cytopenias. Blood
+138: 662–673. 10.1182/blood.2020005831</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1182/blood.2020005831</ArticleId>
+            <ArticleId IdType="pmc">PMC8394905</ArticleId>
+            <ArticleId IdType="pubmed">33786584</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Osińska I, Popko K, Demkow U (2014) Perforin: An important player in immune response. Cent Eur J Immunol
+39: 109–115. 10.5114/ceji.2014.42135</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.5114/ceji.2014.42135</ArticleId>
+            <ArticleId IdType="pmc">PMC4439970</ArticleId>
+            <ArticleId IdType="pubmed">26155110</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shelton JF, Shastri AJ, Ye C, Weldon CH, Filshtein-Sonmez T, Coker D, Symons A, Esparza-Gordillo J, Aslibekyan S, et al. 23andMe COVID-19 Team , (2021) Trans-ancestry analysis reveals genetic and nongenetic associations with COVID-19 susceptibility and severity. Nat Genet
+53: 801–808. 10.1038/s41588-021-00854-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41588-021-00854-7</ArticleId>
+            <ArticleId IdType="pubmed">33888907</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shi L, Kraut RP, Aebersold R, Greenberg AH (1992) A natural killer cell granule protein that induces DNA fragmentation and apoptosis. J Exp Med
+175: 553–566. 10.1084/jem.175.2.553</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1084/jem.175.2.553</ArticleId>
+            <ArticleId IdType="pmc">PMC2119135</ArticleId>
+            <ArticleId IdType="pubmed">1732416</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shugay M, Bagaev DV, Zvyagin IV, Vroomans RM, Crawford JC, Dolton G, Komech EA, Sycheva AL, Koneva AE, Egorov ES, et al.  (2018) VDJdb: A curated database of T-cell receptor sequences with known antigen specificity. Nucleic Acids Res
+46: D419–D427. 10.1093/nar/gkx760</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkx760</ArticleId>
+            <ArticleId IdType="pmc">PMC5753233</ArticleId>
+            <ArticleId IdType="pubmed">28977646</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Spitzer MH, Nolan GP (2016) Mass cytometry: Single cells, many features. Cell
+165: 780–791. 10.1016/j.cell.2016.04.019</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2016.04.019</ArticleId>
+            <ArticleId IdType="pmc">PMC4860251</ArticleId>
+            <ArticleId IdType="pubmed">27153492</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stuart T, Butler A, Hoffman P, Hafemeister C, Papalexi E, Mauck WM, Hao Y, Stoeckius M, Smibert P, Satija R (2019) Comprehensive integration of single-cell data. Cell
+177: 1888–1902.e21. 10.1016/j.cell.2019.05.031</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2019.05.031</ArticleId>
+            <ArticleId IdType="pmc">PMC6687398</ArticleId>
+            <ArticleId IdType="pubmed">31178118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stubbington MJT, Rozenblatt-Rosen O, Regev A, Teichmann SA (2017) Single-cell transcriptomics to explore the immune system in health and disease. Science
+358: 58–63. 10.1126/science.aan6828</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aan6828</ArticleId>
+            <ArticleId IdType="pmc">PMC5654495</ArticleId>
+            <ArticleId IdType="pubmed">28983043</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Szabo PA, Levitin HM, Miron M, Snyder ME, Senda T, Yuan J, Cheng YL, Bush EC, Dogra P, Thapa P, et al.  (2019) Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease. Nat Commun
+10: 4706. 10.1038/s41467-019-12464-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-019-12464-3</ArticleId>
+            <ArticleId IdType="pmc">PMC6797728</ArticleId>
+            <ArticleId IdType="pubmed">31624246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sze S, Pan D, Nevill CR, Gray LJ, Martin CA, Nazareth J, Minhas JS, Divall P, Khunti K, Abrams KR, et al.  (2020) Ethnicity and clinical outcomes in COVID-19: A systematic review and meta-analysis. EClinicalMedicine
+29: 100630. 10.1016/j.eclinm.2020.100630</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eclinm.2020.100630</ArticleId>
+            <ArticleId IdType="pmc">PMC7658622</ArticleId>
+            <ArticleId IdType="pubmed">33200120</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tian Y, Grifoni A, Sette A, Weiskopf D (2019) Human T cell response to dengue virus infection. Front Immunol
+10: 2125. 10.3389/fimmu.2019.02125</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fimmu.2019.02125</ArticleId>
+            <ArticleId IdType="pmc">PMC6737489</ArticleId>
+            <ArticleId IdType="pubmed">31552052</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation> Verhoeckx K, Cotter P, López-Expósito I, Kleiveland C, Lea T, Mackie A, Requena T, Swiatecka D, Wichers H (eds.) (2015) . In The Impact of Food Bioactives on Health. Verhoeckx K, Cotter P, López-Expósito I, Kleiveland C, Lea T, Mackie A, Requena T, Swiatecka D, Wichers H (eds.). Cham: Springer International Publishing.  http://link.springer.com/10.1007/978-3-319-16104-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-3-319-16104-4</ArticleId>
+            <ArticleId IdType="pubmed">29787039</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vivier E, Tomasello E, Baratin M, Walzer T, Ugolini S (2008) Functions of natural killer cells. Nat Immunol
+9: 503–510. 10.1038/ni1582</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ni1582</ArticleId>
+            <ArticleId IdType="pubmed">18425107</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Weese D, Holtgrewe M, Reinert K (2012) RazerS 3: Faster, fully sensitive read mapping. Bioinformatics
+28: 2592–2599. 10.1093/bioinformatics/bts505</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/bts505</ArticleId>
+            <ArticleId IdType="pubmed">22923295</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang JY, Wang XM, Xing X, Xu Z, Zhang C, Song JW, Fan X, Xia P, Fu JL, Wang SY, et al.  (2020) Single-cell landscape of immunological responses in patients with COVID-19. Nat Immunol
+21: 1107–1118. 10.1038/s41590-020-0762-x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41590-020-0762-x</ArticleId>
+            <ArticleId IdType="pubmed">32788748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao J, Zhang S, Liu Y, He X, Qu M, Xu G, Wang H, Huang M, Pan J, Liu Z, et al.  (2020) Single-cell RNA sequencing reveals the heterogeneity of liver-resident immune cells in human. Cell Discov
+6: 22. 10.1038/s41421-020-0157-z</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41421-020-0157-z</ArticleId>
+            <ArticleId IdType="pmc">PMC7186229</ArticleId>
+            <ArticleId IdType="pubmed">32351704</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

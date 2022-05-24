@@ -1,0 +1,135 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">35569405</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1532-3072</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>76</Volume>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>07</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Tissue &amp; cell</Title>
+          <ISOAbbreviation>Tissue Cell</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Automatic microscopic diagnosis of diseases using an improved UNet++ architecture.</ArticleTitle>
+        <Pagination>
+          <StartPage>101816</StartPage>
+          <MedlinePgn>101816</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.tice.2022.101816</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0040-8166(22)00088-X</ELocationID>
+        <Abstract>
+          <AbstractText>Anthrax is a severe infectious disease caused by the Bacillus anthracis bacterium. This paper aims to design and implement a fast and reliable system based on microscopic image processing of patient tissue samples for the automatic diagnosis of anthrax and other tissues diseases, metastasis detection, patient prognosis, etc. An improved UNet++ architecture is proposed to segment microscopic images of patient tissue samples. The proposed model combines multi-scale features by adding skip connections in two paths; the forward path from the encoder to the decoder and the decoder path to the output. These new connections improve the performance of the UNet++. Integration of the squeeze and excitation-inception blocks in the new skip connections provides the network with features at different scales with different kernel sizes. Several convolutional networks are used as the backbone to extract powerful representations in the encoder section. The use of batch normalization, dropout technique, and LRelu activation function in this model accelerates convergence and increases the generalization power of the model. To overcome the problem of data imbalance of different classes, a weighted hybrid loss function is proposed, which further improved segmentation efficiency. The semantic segmentation results are converted to the instance segmentation using the marker-based watershed algorithm. Experimental results show that despite many challenges of microscopic image analysis, the proposed model is a reliable system for the automatic diagnosis of anthrax and other tissues diseases. It produces better results than state-of-the-art architectures.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hoorali</LastName>
+            <ForeName>Fatemeh</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Electrical Engineering, Shahrood University of Technology, Daneshgah Blvd., P.O. Box: 3619995161, Shahrood, Iran. Electronic address: hourali.f@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Khosravi</LastName>
+            <ForeName>Hossein</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Electrical Engineering, Shahrood University of Technology, Daneshgah Blvd., P.O. Box: 3619995161, Shahrood, Iran. Electronic address: hosseinkhosravi@shahroodut.ac.ir.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moradi</LastName>
+            <ForeName>Bagher</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Esfarayen Faculty of Medical Sciences, Esfarayen, Iran. Electronic address: moradib901@gmail.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>07</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Scotland</Country>
+        <MedlineTA>Tissue Cell</MedlineTA>
+        <NlmUniqueID>0214745</NlmUniqueID>
+        <ISSNLinking>0040-8166</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Anthrax disease</Keyword>
+        <Keyword MajorTopicYN="N">Deep learning</Keyword>
+        <Keyword MajorTopicYN="N">Improved UNet++</Keyword>
+        <Keyword MajorTopicYN="N">Instance segmentation</Keyword>
+        <Keyword MajorTopicYN="N">Tissues diseases</Keyword>
+        <Keyword MajorTopicYN="N">UNet++</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>9</Month>
+          <Day>7</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>4</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>15</Day>
+          <Hour>18</Hour>
+          <Minute>21</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35569405</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.tice.2022.101816</ArticleId>
+        <ArticleId IdType="pii">S0040-8166(22)00088-X</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

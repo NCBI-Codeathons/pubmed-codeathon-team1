@@ -1,0 +1,728 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35309989</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>22</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Print">2296-4185</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>10</Volume>
+            <PubDate>
+              <Year>2022</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Frontiers in bioengineering and biotechnology</Title>
+          <ISOAbbreviation>Front Bioeng Biotechnol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>The Origin of Vasomotion and Stochastic Resonance in Vasomotion.</ArticleTitle>
+        <Pagination>
+          <StartPage>819716</StartPage>
+          <MedlinePgn>819716</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">819716</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3389/fbioe.2022.819716</ELocationID>
+        <Abstract>
+          <AbstractText>Vasomotion is the spontaneous time-dependent contraction and relaxation of micro arteries and the oscillating frequency is about 0.01-0.1 Hz. The physiological mechanism of vasomotion has not been thoroughly understood. From the dynamics point of view, the heartbeat is the only external loading exerted on the vascular system. We speculate that the nonlinear vascular system and the variable period of the heartbeat might induce the low-frequency vasomotion. In this study, the laser Doppler flowmeter is used to measure the time series of radial artery blood flow and reconstructed modified time series that has the same period as the measured time series but different heartbeat curves. We measured the time series of radial artery blood flow in different conditions by adding different noise disturbances on the forearm, and we decomposed the experiment pulse signal by Hilbert-Huang transform. The wavelet spectral analyses showed that the low-frequency components were induced by the variable period but independent of the shape of the heartbeat curve. Furthermore, we simulated the linear flow in a single pipe and the nonlinear flow in a piping network and found that the nonlinear flow would generate low-frequency components. From the results, we could deduce that the variable period of heartbeat and the nonlinearity of the vascular system induce vasomotion. The noise has effects on the blood signals related to the respiratory activities (∼0.3 Hz) but little influence on that related to the cardiac activities (∼1 Hz). Adding white noise and then stopping would induce an SNR increase in the frequency band related to vasomotion (∼0.1 Hz).</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Liu, Zhao and Liu.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Shuhong</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Centre for Fluid-Structure Interactions, Department of Mechanical Engineering, The Hong Kong Polytechnic University, Hung Hom, Hong Kong SAR, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Liangjing</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Centre for Fluid-Structure Interactions, Department of Mechanical Engineering, The Hong Kong Polytechnic University, Hung Hom, Hong Kong SAR, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Yang</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, Kowloon, Hong Kong SAR, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>02</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Front Bioeng Biotechnol</MedlineTA>
+        <NlmUniqueID>101632513</NlmUniqueID>
+        <ISSNLinking>2296-4185</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">origin of vasomotion</Keyword>
+        <Keyword MajorTopicYN="N">simulation</Keyword>
+        <Keyword MajorTopicYN="N">spectral analysis</Keyword>
+        <Keyword MajorTopicYN="N">stochastic resonance (SR) noise</Keyword>
+        <Keyword MajorTopicYN="N">vasomotion</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>21</Day>
+          <Hour>8</Hour>
+          <Minute>57</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35309989</ArticleId>
+        <ArticleId IdType="pmc">PMC8924506</ArticleId>
+        <ArticleId IdType="doi">10.3389/fbioe.2022.819716</ArticleId>
+        <ArticleId IdType="pii">819716</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>
+Bollinger A., Hoffmann U., Franzeck U. K. (1991). Evaluation of Flux Motion in Man by the Laser Doppler Technique. J. Vascular Res.
+28 (Suppl. 1), 21–26. 10.1159/000158916
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1159/000158916</ArticleId>
+            <ArticleId IdType="pubmed">1834254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bollinger A., Yanar A., Hoffmann U., Franzeck U. (1993). “Is High-Frequency Flux Motion Due to Respiration or to Vasomotion Activity,” in Vasomotion and Flow Motion (Karger Publishers; ), 52–58. 10.1159/000422452
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1159/000422452</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bracic M., Stefanovska A. (1998). Wavelet-based Analysis of Human Blood-Flow Dynamics. Bull. Math. Biol.
+60 (5), 919–935. 10.1006/bulm.1998.0047
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/bulm.1998.0047</ArticleId>
+            <ArticleId IdType="pubmed">9739620</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Carr R. T., Lacoin M. (2000). Nonlinear Dynamics of Microvascular Blood Flow. Ann. Biomed. Eng.
+28 (6), 641–652. 10.1114/1.1306346
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1114/1.1306346</ArticleId>
+            <ArticleId IdType="pubmed">10983710</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Cracowski J.-L., Minson C. T., Salvat-Melis M., Halliwill J. R. (2006). Methodological Issues in the Assessment of Skin Microvascular Endothelial Function in Humans. Trends Pharmacol. Sci.
+27 (9), 503–508. 10.1016/j.tips.2006.07.008
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tips.2006.07.008</ArticleId>
+            <ArticleId IdType="pubmed">16876881</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Daversin-Catty C., Gjerde I. G., Rognes M. E. (2021). Geometrically Reduced Modelling of Pulsatile Flow in Perivascular Networks. 10.48550/arXiv.2111.12451
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.48550/arXiv.2111.12451</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+de Boer M. P., Wijnstok N. J., Serné E. H., Eringa E. C., Stehouwer C. D. A., Flyvbjerg A., et al.  (2014). Body Mass index Is Related to Microvascular Vasomotion, This Is Partly Explained by Adiponectin. Eur. J. Clin. Invest.
+44 (7), 660–667. 10.1111/eci.12284
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/eci.12284</ArticleId>
+            <ArticleId IdType="pubmed">24854850</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+De Ciuceis C. (2020). “Microvascular Alterations in Diabetes: Focus on Small Resistance Arteries,” in Microcirculation in Cardiovascular Diseases (Cham: Springer; ), 149–164. 10.1007/978-3-030-47801-8_12
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-3-030-47801-8_12</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Fonseca D. A., Antunes P. E., Antunes M. J., Cotrim M. D. (2018). Vasomotion as an Oscillatory Sign of Functional Impairment in the Human Internal Thoracic Artery: A Study Based on Risk Factors and Vessel Reactivity. Exp. Physiol.
+103 (7), 1030–1038. 10.1113/ep087002
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/ep087002</ArticleId>
+            <ArticleId IdType="pubmed">29714043</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Fredriksson I., Larsson M., Strömberg T., Iredahl F. (2021). Vasomotion Analysis of Speed Resolved Perfusion, Oxygen Saturation, Red Blood Cell Tissue Fraction, and Vessel Diameter: Novel Microvascular Perspectives. Skin Res. Tech.
+28 (1), 142–152. 10.1111/srt.13106
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/srt.13106</ArticleId>
+            <ArticleId IdType="pubmed">34758168</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Fu K., Qu J., Chai Y., Dong Y. (2014). Classification of Seizure Based on the Time-Frequency Image of EEG Signals Using HHT and SVM. Biomed. Signal Process. Control.
+13, 15–22. 10.1016/j.bspc.2014.03.007
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bspc.2014.03.007</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Gammaitoni L., Hänggi P., Jung P., Marchesoni F. (1998). Stochastic Resonance. Rev. Mod. Phys.
+70 (1), 223–287. 10.1103/revmodphys.70.223
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1103/revmodphys.70.223</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Gustafsson H., Mulvany M. J., Nilsson H. (1993). Rhythmic Contractions of Isolated Small Arteries from Rat: Influence of the Endothelium. Acta Physiol.
+148 (2), 153–163. 10.1111/j.1748-1716.1993.tb09545.x
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1748-1716.1993.tb09545.x</ArticleId>
+            <ArticleId IdType="pubmed">8352027</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Hänggi P. (2002). Stochastic Resonance in Biology How Noise Can Enhance Detection of Weak Signals and Help Improve Biological Information Processing. ChemPhysChem
+3 (3), 285–290. 10.1002/1439-7641(20020315)3:3&lt;285::AID-CPHC285&gt;3.0.CO;2-A
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/1439-7641(20020315)3:3&lt;285::AID-CPHC285&gt;3.0.CO;2-A</ArticleId>
+            <ArticleId IdType="pubmed">12503175</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Harmer G. P., Davis B. R., Abbott D. (2002). A Review of Stochastic Resonance: Circuits and Measurement. IEEE Trans. Instrum. Meas.
+51 (2), 299–309. 10.1109/19.997828
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/19.997828</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Hayashi C. (1953). Subharmonic Oscillations in Nonlinear Systems. J. Appl. Phys.
+24 (5), 521–529. 10.1063/1.1721322
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1063/1.1721322</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Hidaka I., Nozaki D., Yamamoto Y. (2000). Functional Stochastic Resonance in the Human Brain: Noise Induced Sensitization of Baroreflex System. Phys. Rev. Lett.
+85 (17), 3740–3743. 10.1103/physrevlett.85.3740
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1103/physrevlett.85.3740</ArticleId>
+            <ArticleId IdType="pubmed">11030995</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Holowatz L. A., Thompson-Torgerson C. S., Kenney W. L. (2008). The Human Cutaneous Circulation as a Model of Generalized Microvascular Function. J. Appl. Physiol. (1985)
+105 (1), 370–372. 10.1152/japplphysiol.00858.2007
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/japplphysiol.00858.2007</ArticleId>
+            <ArticleId IdType="pubmed">17932300</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Hsiu H., Hu H.-F., Tsai H.-C. (2018). Differences in Laser-Doppler Indices between Skin-Surface Measurement Sites in Subjects with Diabetes. Microvasc. Res.
+115, 1–7. 10.1016/j.mvr.2017.07.004
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.mvr.2017.07.004</ArticleId>
+            <ArticleId IdType="pubmed">28751169</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Huang N. E., Attoh-Okine N. O. (2005). The Hilbert-Huang Transform: Method and its applications to geophysical studies. Rev. Geophysics
+46 (2). 10.1029/2007RG000228
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1029/2007RG000228</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Huang N. E. (2014). “Introduction to the Hilbert-huang Transform and its Related Mathematical Problems,” in Hilbert-huang Transform and its Applications, 1–26. 10.1142/9789814508247_0001
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1142/9789814508247_0001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Huang N. E., Wu Z. (2008). A Review on Hilbert‐Huang Transform: Method and its Applications to Geophysical Studies. Rev. Geophys.
+46 (2). 10.1029/2007rg000228
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1029/2007rg000228</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Huang N. E. (2014). Introduction to the Hilbert-huang Transform and its Related Mathematical Problems. World Scientific, 1–26. 10.1142/9789814508247_0001
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1142/9789814508247_0001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Huang N. E., Long S. R., Shen Z. (1996). The Mechanism for Frequency Downshift in Nonlinear Wave Evolution. Adv. Appl. Mech.
+32, 59–117C. 10.1016/s0065-2156(08)70076-0
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0065-2156(08)70076-0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Huang N. E., Shen Z., Long S. R. (1999). A New View of Nonlinear Water Waves: the Hilbert Spectrum. Annu. Rev. Fluid Mech.
+31 (1), 417–457. 10.1146/annurev.fluid.31.1.417
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev.fluid.31.1.417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Huang N. E., Shen Z., Long S. R., Wu M. C., Shih H. H., Zheng Q., et al.  (1998). The Empirical Mode Decomposition and the Hilbert Spectrum for Nonlinear and Non-stationary Time Series Analysis. Proc. R. Soc. Lond. A.
+454, 903–995. 10.1098/rspa.1998.0193
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1098/rspa.1998.0193</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Huang Y., Erdogmus D., Hild K., Pavel M., Mathan S. (2009). Mixed Effects Models for Single-Trial ERP Detection in Noninvasive Brain Computer Interface Design. Recent Adv. Biomed. Signal Process., 171–180. 10.2174/978160805218911101010171
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2174/978160805218911101010171</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Huang Y., Erdogmus D., Pavel M., Mathan S. (2008). “Mixed Effects Models for EEG Evoked Response Detection,” in 2008 IEEE Workshop on Machine Learning for Signal Processing, 91–96. (IEEE; ). </Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Jones W. (1852). Discovery that the Veins of the Bats’ Wing Are Enlowed with Rhythmical Contractility , and that the Onward Flow of Blood is Accelerated by Such Contraction. Edinb. Med. Surg. J.
+79 (195), 367–373. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5807718</ArticleId>
+            <ArticleId IdType="pubmed">30331241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Karemaker J. M. (2009). Counterpoint: Respiratory Sinus Arrhythmia Is Due to the Baroreflex Mechanism. J. Appl. Physiol.
+106 (5), 1742–1743. 10.1152/japplphysiol.91107.2008a
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/japplphysiol.91107.2008a</ArticleId>
+            <ArticleId IdType="pubmed">19414625</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Koenigsberger M., Sauser R., Bény J.-L., Meister J.-J. (2006). Effects of Arterial wall Stress on Vasomotion. Biophysical J.
+91 (5), 1663–1674. 10.1529/biophysj.106.083311
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1529/biophysj.106.083311</ArticleId>
+            <ArticleId IdType="pmc">PMC1544282</ArticleId>
+            <ArticleId IdType="pubmed">16751242</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kubota T., Chishaki H., Yoshida T., Sunagawa K., Takeshita A., Nose Y. (1992). How to Encode Arterial Pressure into Carotid Sinus Nerve to Invoke Natural Baroreflex. Am. J. Physiology-Heart Circulatory Physiol.
+263 (1), H307–H313. 10.1152/ajpheart.1992.263.1.h307
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.1992.263.1.h307</ArticleId>
+            <ArticleId IdType="pubmed">1636769</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lamb F. S., Myers J. H., Hamlin M. N., Webb R. C. (1985). Oscillatory Contractions in Tail Arteries from Genetically Hypertensive Rats. Hypertension
+7 (3 Pt 2), I25–I30. 10.1161/01.hyp.7.3_pt_2.i25
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.hyp.7.3_pt_2.i25</ArticleId>
+            <ArticleId IdType="pubmed">3997233</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lehrer P., Vaschillo E. (2008). The Future of Heart Rate Variability Biofeedback. Biofeedback
+36 (1). 11–14. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Li G., Liang J.-M., Li P.-W., Yao X., Pei P. Z., Li W., et al.  (2011). Physiology and Cell Biology of Acupuncture Observed in Calcium Signaling Activated by Acoustic Shear Wave. Pflugers Arch. - Eur. J. Physiol.
+462 (4), 587–597. 10.1007/s00424-011-0993-7
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00424-011-0993-7</ArticleId>
+            <ArticleId IdType="pmc">PMC3170465</ArticleId>
+            <ArticleId IdType="pubmed">21796340</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lin C.-F., Zhu J.-D. (2012). Hilbert-huang Transformation-Based Time-Frequency Analysis Methods in Biomedical Signal Applications. Proc. Inst. Mech. Eng. H
+226 (3), 208–216. 10.1177/0954411911434246
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/0954411911434246</ArticleId>
+            <ArticleId IdType="pubmed">22558835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mauban J. R. H., Wier W. G. (2004). Essential Role of EDHF in the Initiation and Maintenance of Adrenergic Vasomotion in Rat Mesenteric Arteries. Am. J. Physiology-Heart Circulatory Physiol.
+287 (2), H608–H616. 10.1152/ajpheart.01084.2003
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.01084.2003</ArticleId>
+            <ArticleId IdType="pubmed">15059779</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mayhew J. E. W., Askew S., Zheng Y., Porrill J., Westby G. W. M., Redgrave P., et al.  (1996). Cerebral Vasomotion: a 0.1-Hz Oscillation in Reflected Light Imaging of Neural Activity. Neuroimage
+4 (3), 183–193. 10.1006/nimg.1996.0069
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/nimg.1996.0069</ArticleId>
+            <ArticleId IdType="pubmed">9345508</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+McDonnell M. D., Abbott D. (2009). What Is Stochastic Resonance? Definitions, Misconceptions, Debates, and its Relevance to Biology. Plos Comput. Biol.
+5 (5), e1000348. 10.1371/journal.pcbi.1000348
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1000348</ArticleId>
+            <ArticleId IdType="pmc">PMC2660436</ArticleId>
+            <ArticleId IdType="pubmed">19562010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mills C. J., Gabe I. T., Gault J. H., Mason D. T., Ross J., Braunwald E., et al.  (1970). Pressure-flow Relationships and Vascular Impedance in Man. Cardiovasc. Res.
+4 (4), 405–417. 10.1093/cvr/4.4.405
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/cvr/4.4.405</ArticleId>
+            <ArticleId IdType="pubmed">5533085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mizeva I., Zharkikh E., Dremin V., Zherebtsov E., Makovik I., Potapova E., et al.  (2018). Spectral Analysis of the Blood Flow in the Foot Microvascular Bed during thermal Testing in Patients with Diabetes Mellitus. Microvasc. Res.
+120, 13–20. 10.1016/j.mvr.2018.05.005
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.mvr.2018.05.005</ArticleId>
+            <ArticleId IdType="pubmed">29802880</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mück-Weymann M. E., Albrecht H. P., Hager D., Hiller D., Hornstein O. P., Bauer R. D. (1996). Respiratory-dependent Laser-Doppler Flux Motion in Different Skin Areas and its Meaning to Autonomic Nervous Control of the Vessels of the Skin. Microvasc. Res.
+52 (1), 69–78. 10.1006/mvre.1996.0044
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/mvre.1996.0044</ArticleId>
+            <ArticleId IdType="pubmed">8812759</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Newman J. M. B., Dwyer R. M., St-Pierre P., Richards S. M., Clark M. G., Rattigan S. (2009). Decreased Microvascular Vasomotion and Myogenic Response in Rat Skeletal Muscle in Association with Acute Insulin Resistance. J. Physiol.
+587 (11), 2579–2588. 10.1113/jphysiol.2009.169011
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2009.169011</ArticleId>
+            <ArticleId IdType="pmc">PMC2714022</ArticleId>
+            <ArticleId IdType="pubmed">19403615</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Nilsson G. E., Tenland T., Oberg P. A. (1980). A New Instrument for Continuous Measurement of Tissue Blood Flow by Light Beating Spectroscopy. IEEE Trans. Biomed. Eng.
+BME-27 (1), 12–19. 10.1109/tbme.1980.326686
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/tbme.1980.326686</ArticleId>
+            <ArticleId IdType="pubmed">6444619</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Paul S. A. (2017). The Illustrated Wavelet Transform Handbook: Introductory Theory and Applications in Science, Engineering, Medicine and Finance. Second edition. Boca Raton: CRC Press. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Porret C. A., Stergiopulos N., Hayoz D., Brunner H. R., Meister J. J. (1995). Simultaneous Ipsilateral and Contralateral Measurements of Vasomotion in Conduit Arteries of Human Upper Limbs. Am. J. Physiology-Heart Circulatory Physiol.
+269 (6), H1852–H1858. 10.1152/ajpheart.1995.269.6.h1852
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.1995.269.6.h1852</ArticleId>
+            <ArticleId IdType="pubmed">8594892</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Rajan V., Varghese B., van Leeuwen T. G., Steenbergen W. (2009). Review of Methodological Developments in Laser Doppler Flowmetry. Lasers Med. Sci.
+24 (2), 269–283. 10.1007/s10103-007-0524-0
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10103-007-0524-0</ArticleId>
+            <ArticleId IdType="pubmed">18236103</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Rajendra Acharya U., Paul Joseph K., Kannathal N., Lim C. M., Suri J. S. (2006). Heart Rate Variability: a Review. Med. Bio Eng. Comput.
+44 (12), 1031–1051. 10.1007/s11517-006-0119-0
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11517-006-0119-0</ArticleId>
+            <ArticleId IdType="pubmed">17111118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Rossi M., Carpi A., Di Maria C., Galetta F., Santoro G. (2006). Spectral Analysis of Laser Doppler Skin Blood Flow Oscillations in Human Essential Arterial Hypertension. Microvasc. Res.
+72 (1-2), 34–41. 10.1016/j.mvr.2006.04.001
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.mvr.2006.04.001</ArticleId>
+            <ArticleId IdType="pubmed">16797604</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Schabauer A. M., Rooke T. W. (1994). Cutaneous Laser Doppler Flowmetry: Applications and Findings. Mayo Clinic Proc.
+69 (6), 564–574. 10.1016/s0025-6196(12)62249-6
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0025-6196(12)62249-6</ArticleId>
+            <ArticleId IdType="pubmed">8189763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Schmidt J. A., Borgström P., Firestone G. P., Wichert P. v., Intaglietta M., Fronek A. (1993). Periodic Hemodynamics (Flow Motion) in Peripheral Arterial Occlusive Disease. J. Vasc. Surg.
+18 (2), 207–215. 10.1016/0741-5214(93)90600-q
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0741-5214(93)90600-q</ArticleId>
+            <ArticleId IdType="pubmed">8350429</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Schmiedel O., Schroeter M. L., Harvey J. N. (2007). Microalbuminuria in Type 2 Diabetes Indicates Impaired Microvascular Vasomotion and Perfusion. Am. J. Physiology-Heart Circulatory Physiol.
+293 (6), H3424–H3431. 10.1152/ajpheart.00558.2007
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.00558.2007</ArticleId>
+            <ArticleId IdType="pubmed">17933972</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Shaffer F., Ginsberg J. P. (2017). An Overview of Heart Rate Variability Metrics and Norms. Front. Public Health
+5, 258. 10.3389/fpubh.2017.00258
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fpubh.2017.00258</ArticleId>
+            <ArticleId IdType="pmc">PMC5624990</ArticleId>
+            <ArticleId IdType="pubmed">29034226</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Shaffer F., McCraty R., Zerr C. L. (2014). A Healthy Heart Is Not a Metronome: an Integrative Review of the Heart's Anatomy and Heart Rate Variability. Front. Psychol.
+5, 1040. 10.3389/fpsyg.2014.01040
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fpsyg.2014.01040</ArticleId>
+            <ArticleId IdType="pmc">PMC4179748</ArticleId>
+            <ArticleId IdType="pubmed">25324790</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Siegel G. (1983). “Principles of Vascular Rhythmogenesis,” in Vasomotion and Quantitative Capillaroscopy (Basel, Switzerland:  : Karger Publishers; ), Vol. 3, 40–62. 10.1159/000409285
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1159/000409285</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Smith J. F. (2020). An Investigation of the Underlying Mechanisms of Arterial Vasomotion. Doctoral dissertation. Oxford: University of Oxford. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Söderström T., Stefanovska A., Veber M., Svensson H. (2003). Involvement of Sympathetic Nerve Activity in Skin Blood Flow Oscillations in Humans. Am. J. Physiol. Heart Circ. Physiol.
+284 (5), H1638–H1646. 10.1152/ajpheart.00826.2000
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpheart.00826.2000</ArticleId>
+            <ArticleId IdType="pubmed">12679328</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Stefanovska A., Bracic M., Kvernmo H. D. (1999). Wavelet Analysis of Oscillations in the Peripheral Blood Circulation Measured by Laser Doppler Technique. IEEE Trans. Biomed. Eng.
+46 (10), 1230–1239. 10.1109/10.790500
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/10.790500</ArticleId>
+            <ArticleId IdType="pubmed">10513128</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Stork M., Mayer D., Hrusak J. (2006). High Resolution Analog-Digital Converter and Digital Polynomial Filter Applications. WSEAS Trans. signal Process.
+3, 351–356. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Stork M., Trefny Z. (2010). New Seismocardiographic Measuring System with Separate QRS Detection. Latest Trends Syst.
+1, 176–180. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Torrence C., Compo G. P. (1998). A Practical Guide to Wavelet Analysis. Bull. Amer. Meteorol. Soc.
+79 (1), 61–78. 10.1175/1520-0477(1998)079&lt;0061:apgtwa&gt;2.0.co;2
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1175/1520-0477(1998)079&lt;0061:apgtwa&gt;2.0.co;2</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Triedman J. K., Saul J. P. (1994). Blood Pressure Modulation by central Venous Pressure and Respiration. Buffering Effects of the Heart Rate Reflexes. Circulation
+89 (1), 169–179. 10.1161/01.cir.89.1.169
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1161/01.cir.89.1.169</ArticleId>
+            <ArticleId IdType="pubmed">8281644</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wellens T., Shatokhin V., Buchleitner A. (2003). Stochastic Resonance. Rep. Prog. Phys.
+67 (1), 45–105. 10.1088/0034-4885/67/1/r02
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/0034-4885/67/1/r02</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Yamamoto Y., Hughson R. L. (1994). On the Fractal Nature of Heart Rate Variability in Humans: Effects of Data Length and Beta-Adrenergic Blockade. Am. J. Physiology-Regulatory, Integr. Comp. Physiol.
+266 (1), R40–R49. 10.1152/ajpregu.1994.266.1.r40
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/ajpregu.1994.266.1.r40</ArticleId>
+            <ArticleId IdType="pubmed">7905719</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Yamamoto Y., Soma R., Kitajo K., Safonov L. A., Yamanaka K., Kidaka L., et al.  (2005). “Functional Roles of Noise and Fluctuations in the Human Brain,” in AIP Conference Proceedings. (College Park, MD: American Institute of Physics; ) Vol. 780, 535–540. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+YouTube. (2021a). Avaliable at: https://www.youtube.com/watch?v=d-L8EQ_ps_I (accessed April 21, 2021).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+YouTube. (2021b). AvaliableAt: https://www.youtube.com/watch?v=WJ9Go1PnAVA (accessed April 21, 2021).</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

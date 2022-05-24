@@ -1,0 +1,563 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35450328</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">2055-7434</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>8</Volume>
+            <PubDate>
+              <Year>2022</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Microsystems &amp; nanoengineering</Title>
+          <ISOAbbreviation>Microsyst Nanoeng</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Patient-derived pancreatic cancer-on-a-chip recapitulates the tumor microenvironment.</ArticleTitle>
+        <Pagination>
+          <StartPage>36</StartPage>
+          <MedlinePgn>36</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">36</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41378-022-00370-6</ELocationID>
+        <Abstract>
+          <AbstractText>The patient population suffering from pancreatic ductal adenocarcinoma (PDAC) presents, as a whole, with a high degree of molecular tumor heterogeneity. The heterogeneity of PDAC tumor composition has complicated treatment and stalled success in clinical trials. Current in vitro techniques insufficiently replicate the intricate stromal components of PDAC tumor microenvironments (TMEs) and fail to model a given tumor's unique genetic phenotype. The development of patient-derived organoids (PDOs) has opened the door for improved personalized medicine since PDOs are derived directly from patient tumors, thus preserving the tumors' unique behaviors and genetic phenotypes. This study developed a tumor-chip device engineered to mimic the PDAC TME by incorporating PDOs and stromal cells, specifically pancreatic stellate cells and macrophages. Establishing PDOs in a multicellular microfluidic chip device prolongs cellular function and longevity and successfully establishes a complex organotypic tumor environment that incorporates desmoplastic stroma and immune cells. When primary cancer cells in monoculture were subjected to stroma-depleting agents, there was no effect on cancer cell viability. However, targeting stroma in our tumor-chip model resulted in a significant increase in the chemotherapy effect on cancer cells, thus validating the use of this tumor-chip device for drug testing.</AbstractText>
+          <CopyrightInformation>© The Author(s) 2022.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Haque</LastName>
+            <ForeName>Muhammad R</ForeName>
+            <Initials>MR</Initials>
+            <Identifier Source="ORCID">0000-0002-7487-2667</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Digestive Diseases, Rush Center for Integrated Microbiome &amp; Chronobiology Research, Rush University Medical Center, Chicago, IL 60612 USA.</Affiliation>
+              <Identifier Source="GRID">grid.240684.c</Identifier>
+              <Identifier Source="ISNI">0000 0001 0705 3621</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wessel</LastName>
+            <ForeName>Caitlin R</ForeName>
+            <Initials>CR</Initials>
+            <AffiliationInfo>
+              <Affiliation>University of Louisville School of Medicine, Louisville, KY 40202 USA.</Affiliation>
+              <Identifier Source="GRID">grid.266623.5</Identifier>
+              <Identifier Source="ISNI">0000 0001 2113 1622</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Leary</LastName>
+            <ForeName>Daniel D</ForeName>
+            <Initials>DD</Initials>
+            <Identifier Source="ORCID">0000-0002-9480-2973</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Digestive Diseases, Rush Center for Integrated Microbiome &amp; Chronobiology Research, Rush University Medical Center, Chicago, IL 60612 USA.</Affiliation>
+              <Identifier Source="GRID">grid.240684.c</Identifier>
+              <Identifier Source="ISNI">0000 0001 0705 3621</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Chengyao</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, Illinois Institute of Technology, Chicago, IL 60616 USA.</Affiliation>
+              <Identifier Source="GRID">grid.62813.3e</Identifier>
+              <Identifier Source="ISNI">0000 0004 1936 7806</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bhushan</LastName>
+            <ForeName>Abhinav</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0002-8861-9005</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, Illinois Institute of Technology, Chicago, IL 60616 USA.</Affiliation>
+              <Identifier Source="GRID">grid.62813.3e</Identifier>
+              <Identifier Source="ISNI">0000 0004 1936 7806</Identifier>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bishehsari</LastName>
+            <ForeName>Faraz</ForeName>
+            <Initials>F</Initials>
+            <Identifier Source="ORCID">0000-0001-5644-2586</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Division of Digestive Diseases, Rush Center for Integrated Microbiome &amp; Chronobiology Research, Rush University Medical Center, Chicago, IL 60612 USA.</Affiliation>
+              <Identifier Source="GRID">grid.240684.c</Identifier>
+              <Identifier Source="ISNI">0000 0001 0705 3621</Identifier>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>31</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Microsyst Nanoeng</MedlineTA>
+        <NlmUniqueID>101695458</NlmUniqueID>
+        <ISSNLinking>2055-7434</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Engineering</Keyword>
+        <Keyword MajorTopicYN="N">Materials science</Keyword>
+      </KeywordList>
+      <CoiStatement>Conflict of interestThe authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>19</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>40</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35450328</ArticleId>
+        <ArticleId IdType="pmc">PMC8971446</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41378-022-00370-6</ArticleId>
+        <ArticleId IdType="pii">370</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Siegel RL, Miller KD, Fuchs HE, Jemal A. Cancer statistics, 2021. CA Cancer J. Clin. 2021;71:7–33.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33433946</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rahib L, Wehner MR, Matrisian LM, Nead KT. Estimated projection of US cancer incidence and death to 2040. JAMA Netw. Open. 2021;4:e214708.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8027914</ArticleId>
+            <ArticleId IdType="pubmed">33825840</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Siegel RL, Miller KD, Jemal A. Cancer statistics, 2020. CA Cancer J. Clin. 2020;70:7–30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31912902</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vincent A, Herman J, Schulick R, Hruban RH, Goggins M. Pancreatic cancer. Lancet. 2011;378:607–620.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3062508</ArticleId>
+            <ArticleId IdType="pubmed">21620466</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Conroy T, et al.  FOLFIRINOX versus gemcitabine for metastatic pancreatic cancer. N. Engl. J. Med. 2011;364:1817–1825.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21561347</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Conroy T, et al.  FOLFIRINOX or gemcitabine as adjuvant therapy for pancreatic cancer. N. Engl. J. Med. 2018;379:2395–2406.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30575490</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Haque, M. R. et al. Organ-chip models: opportunities for precision medicine in pancreatic cancer. Cancers10.3390/cancers13174487 (2021).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8430573</ArticleId>
+            <ArticleId IdType="pubmed">34503294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Drost J, Clevers H. Organoids in cancer research. Nat. Rev. Cancer. 2018;18:407–418.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29692415</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Armstrong, A. et al. Multiplex patient-based drug response assay in pancreatic ductal adenocarcinoma. Biomedicines10.3390/biomedicines9070705 (2021).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8301364</ArticleId>
+            <ArticleId IdType="pubmed">34201419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thomas D, Radhakrishnan P. Tumor-stromal crosstalk in pancreatic cancer and tissue fibrosis. Mol. Cancer. 2019;18:14.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6341551</ArticleId>
+            <ArticleId IdType="pubmed">30665410</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neesse A, et al.  Stromal biology and therapy in pancreatic cancer: ready for clinical translation? Gut. 2019;68:159–171.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30177543</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feig C, et al.  The pancreas cancer microenvironment. Clin. Cancer Res. 2012;18:4266–4276.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3442232</ArticleId>
+            <ArticleId IdType="pubmed">22896693</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang S, Liu Q, Liao Q. Tumor-associated macrophages in pancreatic ductal adenocarcinoma: origin, polarization, function, and reprogramming. Front. Cell Dev. Biol. 2020;8:607209.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7829544</ArticleId>
+            <ArticleId IdType="pubmed">33505964</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Salnikov AV, et al.  Targeting of cancer stem cell marker EpCAM by bispecific antibody EpCAMxCD3 inhibits pancreatic carcinoma. J. Cell Mol. Med. 2009;13:4023–4033.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4516549</ArticleId>
+            <ArticleId IdType="pubmed">20196789</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mi K, et al.  Influence of a self-assembling peptide, RADA16, compared with collagen I and Matrigel on the malignant phenotype of human breast-cancer cells in 3D cultures and in vivo. Macromol. Biosci. 2009;9:437–443.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19165822</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cavo M, et al.  A new cell-laden 3D Alginate-Matrigel hydrogel resembles human breast cancer cell malignant morphology, spread and invasion capability observed "in vivo". Sci. Rep. 2018;8:5333.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5871779</ArticleId>
+            <ArticleId IdType="pubmed">29593247</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Collisson EA, et al.  A central role for RAF-&gt;MEK-&gt;ERK signaling in the genesis of pancreatic ductal adenocarcinoma. Cancer Disco. 2012;2:685–693.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3425446</ArticleId>
+            <ArticleId IdType="pubmed">22628411</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jayasingam SD, et al.  Evaluating the polarization of tumor-associated macrophages into M1 and M2 phenotypes in human cancer tissue: technicalities and challenges in routine clinical practice. Front. Oncol. 2019;9:1512.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6992653</ArticleId>
+            <ArticleId IdType="pubmed">32039007</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu J, et al.  Cancer-associated fibroblasts provide a stromal niche for liver cancer organoids that confers trophic effects and therapy resistance. Cell Mol. Gastroenterol. Hepatol. 2021;11:407–431.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7788239</ArticleId>
+            <ArticleId IdType="pubmed">32932015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vlachogiannis G, et al.  Patient-derived organoids model treatment response of metastatic gastrointestinal cancers. Science. 2018;359:920–926.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6112415</ArticleId>
+            <ArticleId IdType="pubmed">29472484</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen WJ, et al.  Cancer-associated fibroblasts regulate the plasticity of lung cancer stemness via paracrine signalling. Nat. Commun. 2014;5:3472.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24668028</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ebbing EA, et al.  Stromal-derived interleukin 6 drives epithelial-to-mesenchymal transition and therapy resistance in esophageal adenocarcinoma. Proc. Natl Acad. Sci. USA. 2019;116:2237–2242.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6369811</ArticleId>
+            <ArticleId IdType="pubmed">30670657</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lai Benjamin, F. L. et al. Recapitulating pancreatic tumor microenvironment through synergistic use of patient organoids and organ-on-a-chip vasculature. Adv. Funct. Mater.10.1002/adfm.202000545 (2020).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7939064</ArticleId>
+            <ArticleId IdType="pubmed">33692660</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ohlund D, et al.  Distinct populations of inflammatory fibroblasts and myofibroblasts in pancreatic cancer. J. Exp. Med. 2017;214:579–596.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5339682</ArticleId>
+            <ArticleId IdType="pubmed">28232471</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hamson EJ, Keane FM, Tholen S, Schilling O, Gorrell MD. Understanding fibroblast activation protein (FAP): substrates, activities, expression and targeting for cancer therapy. Proteom. Clin. Appl. 2014;8:454–463.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24470260</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cui R, et al.  Targeting tumor-associated macrophages to combat pancreatic cancer. Oncotarget. 2016;7:50735–50754.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5226617</ArticleId>
+            <ArticleId IdType="pubmed">27191744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Amit M, Gil Z. Macrophages increase the resistance of pancreatic adenocarcinoma cells to gemcitabine by upregulating cytidine deaminase. Oncoimmunology. 2013;2:e27231.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3912006</ArticleId>
+            <ArticleId IdType="pubmed">24498570</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bishehsari F, et al.  KRAS mutation and epithelial-macrophage interplay in pancreatic neoplastic transformation. Int J. Cancer. 2018;143:1994–2007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6128758</ArticleId>
+            <ArticleId IdType="pubmed">29756386</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Friedl P, Wolf K. Tumour-cell invasion and migration: diversity and escape mechanisms. Nat. Rev. Cancer. 2003;3:362–374.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12724734</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ozdemir BC, et al.  Depletion of carcinoma-associated fibroblasts and fibrosis induces immunosuppression and accelerates pancreas cancer with reduced survival. Cancer Cell. 2014;25:719–734.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4180632</ArticleId>
+            <ArticleId IdType="pubmed">24856586</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rhim AD, et al.  Stromal elements act to restrain, rather than support, pancreatic ductal adenocarcinoma. Cancer Cell. 2014;25:735–747.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4096698</ArticleId>
+            <ArticleId IdType="pubmed">24856585</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>De Wever O, et al.  Tenascin-C and SF/HGF produced by myofibroblasts in vitro provide convergent pro-invasive signals to human colon cancer cells through RhoA and Rac. FASEB J. 2004;18:1016–1018.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15059978</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Orimo A, et al.  Stromal fibroblasts present in invasive human breast carcinomas promote tumor growth and angiogenesis through elevated SDF-1/CXCL12 secretion. Cell. 2005;121:335–348.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15882617</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gaggioli C, et al.  Fibroblast-led collective invasion of carcinoma cells with differing roles for RhoGTPases in leading and following cells. Nat. Cell Biol. 2007;9:1392–1400.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18037882</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goetz JG, et al.  Biomechanical remodeling of the microenvironment by stromal caveolin-1 favors tumor invasion and metastasis. Cell. 2011;146:148–163.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3244213</ArticleId>
+            <ArticleId IdType="pubmed">21729786</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Labernadie A, et al.  A mechanically active heterotypic E-cadherin/N-cadherin adhesion enables fibroblasts to drive cancer cell invasion. Nat. Cell Biol. 2017;19:224–237.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5831988</ArticleId>
+            <ArticleId IdType="pubmed">28218910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mierke CT. Role of the endothelium during tumor cell metastasis: is the endothelium a barrier or a promoter for cell invasion and metastasis? J. Biophys. 2008;2008:183516.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2809021</ArticleId>
+            <ArticleId IdType="pubmed">20107573</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shian SG, Kao YR, Wu FY, Wu CW. Inhibition of invasion and angiogenesis by zinc-chelating agent disulfiram. Mol. Pharm. 2003;64:1076–1084.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14573756</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tran TA, et al.  Non-anti-mitotic concentrations of taxol reduce breast cancer cell invasiveness. Biochem. Biophys. Res. Commun. 2009;379:304–308.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19111674</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bradney MJ, Venis SM, Yang Y, Konieczny SF, Han B. A biomimetic tumor model of heterogeneous invasion in pancreatic ductal adenocarcinoma. Small. 2020;16:e1905500.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7069790</ArticleId>
+            <ArticleId IdType="pubmed">31997571</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nguyen DT, et al.  A biomimetic pancreatic cancer on-chip reveals endothelial ablation via ALK7 signaling. Sci. Adv. 2019;5:eaav6789.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6713506</ArticleId>
+            <ArticleId IdType="pubmed">31489365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Beer M, et al.  A novel microfluidic 3D platform for culturing pancreatic ductal adenocarcinoma cells: comparison with in vitro cultures and in vivo xenografts. Sci. Rep. 2017;7:1325.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5430997</ArticleId>
+            <ArticleId IdType="pubmed">28465513</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Drifka CR, Eliceiri KW, Weber SM, Kao WJ. A bioengineered heterotypic stroma-cancer microenvironment model to study pancreatic ductal adenocarcinoma. Lab Chip. 2013;13:3965–3975.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3834588</ArticleId>
+            <ArticleId IdType="pubmed">23959166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Froeling FE, et al.  Retinoic acid-induced pancreatic stellate cell quiescence reduces paracrine Wnt-beta-catenin signaling to slow tumor progression. Gastroenterology. 2011;141:1486–1497.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21704588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kocher HM, et al.  Phase I clinical trial repurposing all-trans retinoic acid as a stromal targeting agent for pancreatic cancer. Nat. Commun. 2020;11:4841.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7518421</ArticleId>
+            <ArticleId IdType="pubmed">32973176</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Griesmann H, et al.  Pharmacological macrophage inhibition decreases metastasis formation in a genetic model of pancreatic cancer. Gut. 2017;66:1278–1285.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27013602</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pandol SJ, Edderkaoui M. What are the macrophages and stellate cells doing in pancreatic adenocarcinoma? Front. Physiol. 2015;6:125.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4432577</ArticleId>
+            <ArticleId IdType="pubmed">26029109</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gomez-Sjoberg R, Leyrat AA, Houseman BT, Shokat K, Quake SR. Biocompatibility and reduced drug absorption of sol-gel-treated poly(dimethyl siloxane) for microfluidic cell culture applications. Anal. Chem. 2010;82:8954–8960.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3032040</ArticleId>
+            <ArticleId IdType="pubmed">20936785</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang JD, Douville NJ, Takayama S, ElSayed M. Quantitative analysis of molecular absorption into PDMS microfluidic channels. Ann. Biomed. Eng. 2012;40:1862–1873.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22484830</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wishart DS, et al.  DrugBank 5.0: a major update to the DrugBank database for 2018. Nucleic Acids Res. 2018;46:D1074–D1082.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5753335</ArticleId>
+            <ArticleId IdType="pubmed">29126136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Galon J, Bruni D. Approaches to treat immune hot, altered and cold tumours with combination immunotherapies. Nat. Rev. Drug Disco. 2019;18:197–218.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30610226</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang C, Dang T, Baste J, Anil Joshi A, Bhushan A. A novel standalone microfluidic device for local control of oxygen tension for intestinal-bacteria interactions. FASEB J. 2021;35:e21291.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33506497</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang C, Tanataweethum N, Karnik S, Bhushan A. Novel microfluidic colon with an extracellular matrix membrane. ACS Biomater. Sci. Eng. 2018;4:1377–1385.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33418668</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Passmore JS, Lukey PT, Ress SR. The human macrophage cell line U937 as an in vitro model for selective evaluation of mycobacterial antigen-specific cytotoxic T-cell function. Immunology. 2001;102:146–156.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1783164</ArticleId>
+            <ArticleId IdType="pubmed">11260319</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Justus, C. R., Leffler, N., Ruiz-Echevarria, M. &amp; Yang, L. V. In vitro cell migration and invasion assays. J. Vis. Exp. 10.3791/51046 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4186330</ArticleId>
+            <ArticleId IdType="pubmed">24962652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hegde M, et al.  Dynamic interplay of flow and collagen stabilizes primary hepatocytes culture in a microfluidic platform. Lab Chip. 2014;14:2033–2039.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4036071</ArticleId>
+            <ArticleId IdType="pubmed">24770663</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tanataweethum N, et al.  Towards an insulin resistant adipose model on a chip. Cell Mol. Bioeng. 2021;14:89–99.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7878591</ArticleId>
+            <ArticleId IdType="pubmed">33643468</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zaman MH, et al.  Migration of tumor cells in 3D matrices is governed by matrix stiffness along with cell-matrix adhesion and proteolysis. Proc. Natl Acad. Sci. USA. 2006;103:10889–10894.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1544144</ArticleId>
+            <ArticleId IdType="pubmed">16832052</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aykul S, Martinez-Hackert E. Determination of half-maximal inhibitory concentration using biosensor-based protein interaction analysis. Anal. Biochem. 2016;508:97–103.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4955526</ArticleId>
+            <ArticleId IdType="pubmed">27365221</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

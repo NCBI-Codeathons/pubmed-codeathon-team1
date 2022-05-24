@@ -1,0 +1,954 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">34609265</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1933-6942</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>16</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Fly</Title>
+          <ISOAbbreviation>Fly (Austin)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Mathematical modeling of Notch dynamics in <i>Drosophila</i> neural development.</ArticleTitle>
+        <Pagination>
+          <StartPage>24</StartPage>
+          <EndPage>36</EndPage>
+          <MedlinePgn>24-36</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1080/19336934.2021.1953363</ELocationID>
+        <Abstract>
+          <AbstractText>Notch signalling is a well-conserved signalling pathway that regulates cell fate through cell-cell communication. A typical feature of Notch signalling is 'lateral inhibition', whereby two neighbouring cells of equivalent state of differentiation acquire different cell fates. Recently, mathematical and computational approaches have addressed the Notch dynamics in <i>Drosophila</i> neural development. Typical examples of lateral inhibition are observed in the specification of neural stem cells in the embryo and sensory organ precursors in the thorax. In eye disc development, Notch signalling cooperates with other signalling pathways to define the evenly spaced positioning of the photoreceptor cells. The interplay between Notch and epidermal growth factor receptor signalling regulates the timing of neural stem cell differentiation in the optic lobe. In this review, we summarize the theoretical studies that have been conducted to elucidate the Notch dynamics in these systems and discuss the advantages of combining mathematical models with biological experiments.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Yasugi</LastName>
+            <ForeName>Tetsuo</ForeName>
+            <Initials>T</Initials>
+            <Identifier Source="ORCID">0000-0003-3528-5125</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Mathematical Neuroscience Unit, Institute for Frontier Science Initiative, Kanazawa University, Kanazawa, Ishikawa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sato</LastName>
+            <ForeName>Makoto</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Mathematical Neuroscience Unit, Institute for Frontier Science Initiative, Kanazawa University, Kanazawa, Ishikawa, Japan.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Laboratory of Developmental Neurobiology, Graduate School of Medical Sciences, Kanazawa University, Kanazawa, Ishikawa, Japan.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Fly (Austin)</MedlineTA>
+        <NlmUniqueID>101470897</NlmUniqueID>
+        <ISSNLinking>1933-6934</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D029721">Drosophila Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D008565">Membrane Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D051880">Receptors, Notch</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002454" MajorTopicYN="N">Cell Differentiation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004330" MajorTopicYN="Y">Drosophila</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D029721" MajorTopicYN="Y">Drosophila Proteins</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008565" MajorTopicYN="N">Membrane Proteins</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008962" MajorTopicYN="N">Models, Theoretical</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051880" MajorTopicYN="N">Receptors, Notch</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Notch signalling</Keyword>
+        <Keyword MajorTopicYN="Y">eye development</Keyword>
+        <Keyword MajorTopicYN="Y">lateral inhibition</Keyword>
+        <Keyword MajorTopicYN="Y">mathematical modelling</Keyword>
+        <Keyword MajorTopicYN="Y">neuroblasts</Keyword>
+        <Keyword MajorTopicYN="Y">proneural wave</Keyword>
+        <Keyword MajorTopicYN="Y">sensory organ precursors</Keyword>
+      </KeywordList>
+      <CoiStatement>No potential conflict of interest was reported by the authors.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>5</Day>
+          <Hour>12</Hour>
+          <Minute>16</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34609265</ArticleId>
+        <ArticleId IdType="pmc">PMC8496537</ArticleId>
+        <ArticleId IdType="doi">10.1080/19336934.2021.1953363</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Lai EC.
+Notch signaling: control of cell communication and cell fate. Development. 2004;131(5):965–973.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14973298</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Artavanis-Tsakonas S, Rand MD, Lake RJ. Notch signaling: cell fate control and signal integration in development. Science. 1999;284(5415):770–776.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10221902</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morgan TH. The Theory of the Gene. Am Nat. 1917;51(609):513–544.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Simpson P. Lateral inhibition and the development of the sensory bristles of the adult peripheral nervous system of Drosophila. Development. 1990;109(3):509–519.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2205467</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Doe CQ, Goodman CS. Early events in insect neurogenesis. I. Development and segmental differences in the pattern of neuronal precursor cells. Dev Biol. 1985;111(1):193–205.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">4029506</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Doe CQ, Goodman CS. Early events in insect neurogenesis. II. The role of cell interactions and cell lineage in the determination of neuronal precursor cells. Dev Biol. 1985;111(1):206–219.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">4029507</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Siebel C, Lendahl U. Notch Signaling in Development, Tissue Homeostasis, and Disease. Physiol Rev. 2017;97(4):1235–1294.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28794168</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang R, Engler A, Taylor V. Notch: an interactive player in neurogenesis and disease. Cell Tissue Res. 2018;371(1):73–89.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28620760</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bahrampour S, Thor S. The Five Faces of Notch Signalling During Drosophila melanogaster Embryonic CNS Development. Adv Exp Med Biol. 2020;1218:39–58.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32060870</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guruharsha KG, Kankel MW, Artavanis-Tsakonas S. The Notch signalling system: recent insights into the complexity of a conserved pathway. Nat Rev Genet. 2012;13(9):654–666.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4369923</ArticleId>
+            <ArticleId IdType="pubmed">22868267</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Borggrefe T, Oswald F. The Notch signaling pathway: transcriptional regulation at Notch target genes. Cell Mol Life Sci. 2009;66(10):1631–1646.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19165418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hori K, Sen A, Artavanis-Tsakonas S. Notch signaling at a glance. J Cell Sci. 2013;126:2135–2140.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3672934</ArticleId>
+            <ArticleId IdType="pubmed">23729744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kopan R, Ilagan MX. The canonical Notch signaling pathway: unfolding the activation mechanism. Cell. 2009;137(2):216–233.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2827930</ArticleId>
+            <ArticleId IdType="pubmed">19379690</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bray SJ. Notch signalling in context. Nat Rev Mol Cell Biol. 2016;17(11):722–735.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27507209</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wharton KA, Johansen KM, Xu T, et al. Nucleotide sequence from the neurogenic locus notch implies a gene product that shares homology with proteins containing EGF-like repeats. Cell. 1985;43(3):567–581.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3935325</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fleming RJ, Scottgale TN, Diederich RJ, et al. The gene Serrate encodes a putative EGF-like transmembrane protein essential for proper ectodermal development in Drosophila melanogaster. Genes Dev. 1990;4(12a):2188–2201.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2125287</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thomas U, Speicher SA, Knust E. The Drosophila gene Serrate encodes an EGF-like transmembrane protein with a complex expression pattern in embryos and wing discs. Development. 1991;111(3):749–761.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1840519</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vassin H, Campos-Ortega JA. Genetic Analysis of Delta, a Neurogenic Gene of Drosophila melanogaster. Genetics. 1987;116(3):433–445.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1203155</ArticleId>
+            <ArticleId IdType="pubmed">17246393</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fortini ME. Gamma-secretase-mediated proteolysis in cell-surface-receptor signalling. Nat Rev Mol Cell Biol. 2002;3(9):673–684.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12209127</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lecourtois M, Schweisguth F. The neurogenic suppressor of hairless DNA-binding protein mediates the transcriptional activation of the enhancer of split complex genes triggered by Notch signaling. Genes Dev. 1995;9(21):2598–2608.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7590238</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schweisguth F, Posakony JW. Suppressor of Hairless, the Drosophila homolog of the mouse recombination signal-binding protein gene, controls sensory organ cell fates. Cell. 1992;69(7):1199–1212.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1617730</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Petcherski AG, Kimble J. Mastermind is a putative activator for Notch. Curr Biol. 2000;10(13):R471–3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10898989</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu L, Aster JC, Blacklow SC, et al. MAML1, a human homologue of Drosophila mastermind, is a transcriptional co-activator for NOTCH receptors. Nat Genet. 2000;26(4):484–489.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11101851</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jennings B, Preiss A, Delidakis C, et al. The Notch signalling pathway is required for Enhancer of split bHLH protein expression during neurogenesis in the Drosophila embryo. Development. 1994;120(12):3537–3548.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7821220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bailey AM, Posakony JW. Suppressor of hairless directly activates transcription of enhancer of split complex genes in response to Notch receptor activity. Genes Dev. 1995;9(21):2609–2622.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7590239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nakao K, Campos-Ortega JA. Persistent expression of genes of the enhancer of split complex suppresses neural development in Drosophila. Neuron. 1996;16(2):275–286.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8789943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oellers N, Dehio M, Knust E. bHLH proteins encoded by the Enhancer of split complex of Drosophila negatively interfere with transcriptional activation mediated by proneural genes. Mol Gen Genet. 1994;244(5):465–473.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8078474</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kunisch M, Haenlin M, Campos-Ortega JA. Lateral inhibition mediated by the Drosophila neurogenic gene delta is enhanced by proneural proteins. Proc Natl Acad Sci U S A. 1994;91(21):10139–10143.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC44973</ArticleId>
+            <ArticleId IdType="pubmed">7937851</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miller AC, Lyons EL, Herman TG. cis-Inhibition of Notch by endogenous Delta biases the outcome of lateral inhibition. Curr Biol. 2009;19(16):1378–1383.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2761761</ArticleId>
+            <ArticleId IdType="pubmed">19631544</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Del Alamo D, Schweisguth F. Notch signalling: receptor cis-inhibition to achieve directionality. Curr Biol. 2009;19:R683–4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19706274</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sprinzak D, Lakhanpal A, Lebon L, et al. Cis-interactions between Notch and Delta generate mutually exclusive signalling states. Nature. 2010;465(7294):86–90.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2886601</ArticleId>
+            <ArticleId IdType="pubmed">20418862</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>de Celis JF, Bray S. Feed-back mechanisms affecting Notch activation at the dorsoventral boundary in the Drosophila wing. Development. 1997;124(17):3241–3251.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9310319</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Micchelli CA, Rulifson EJ, Blair SS. The function and regulation of cut expression on the wing margin of Drosophila: notch, Wingless and a dominant negative role for Delta and Serrate. Development. 1997;124(8):1485–1495.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9108365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bocci F, Onuchic JN, Jolly MK. Understanding the Principles of Pattern Formation Driven by Notch Signaling by Integrating Experiments and Theoretical Models. Front Physiol. 2020;11:929.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7411240</ArticleId>
+            <ArticleId IdType="pubmed">32848867</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sato M, Suzuki T, Nakai Y. Waves of differentiation in the fly visual system. Dev Biol. 2013;380(1):1–11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23603492</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Treisman JE. Retinal differentiation in Drosophila. Wiley Interdiscip Rev Dev Biol. 2013;2(4):545–557.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3909661</ArticleId>
+            <ArticleId IdType="pubmed">24014422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sato M, Yasugi T. Regulation of Proneural Wave Propagation Through a Combination of Notch-Mediated Lateral Inhibition and EGF-Mediated Reaction Diffusion. Adv Exp Med Biol. 2020;1218:77–91.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32060872</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Skeath JB, Carroll SB. Regulation of proneural gene expression and cell fate during neuroblast segregation in the Drosophila embryo. Development. 1992;114(4):939–946.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1618155</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cabrera CV, Martinez-Arias A, Bate M. The expression of three members of the achaete-scute gene complex correlates with neuroblast segregation in Drosophila. Cell. 1987;50(3):425–433.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3607875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Martin-Bermudo MD, Martinez C, Rodriguez A, et al. Distribution and function of the lethal of scute gene product during early neurogenesis in Drosophila. Development. 1991;113(2):445–454.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1782859</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Artavanis-Tsakonas S, Simpson P. Choosing a cell fate: a view from the Notch locus. Trends Genet. 1991;7(1):403–408.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1668193</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hassan B, Vaessin H. Regulatory interactions during early neurogenesis in Drosophila. Dev Genet. 1996;18(1):18–27.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8742831</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Campos-Ortega JA, Jan YN. Genetic and molecular bases of neurogenesis in Drosophila melanogaster. Annu Rev Neurosci. 1991;14(1):399–420.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1903242</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tanemura M, Honda H, Yoshida A. Distribution of differentiated cells in a cell sheet under the lateral inhibition rule of differentiation. J Theor Biol. 1991;153(3):287–300.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1798334</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Honda H, Tanemura M, Yoshida A. Estimation of neuroblast numbers in insect neurogenesis using the lateral inhibition hypothesis of cell differentiation. Development. 1990;110(4):1349–1352.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2100267</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marnellos G, Mjolsness E. A gene network approach to modeling early neurogenesis in Drosophila. Pac Symp Biocomput. 1998;30–41.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9697169</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lehotzky D, Zupanc GKH. Cellular Automata Modeling of Stem-Cell-Driven Development of Tissue in the Nervous System. Dev Neurobiol. 2019;79(5):497–517.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31102334</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Collier JR, Monk NA, Maini PK, et al. Pattern formation by lateral inhibition with feedback: a mathematical model of delta-notch intercellular signalling. J Theor Biol. 1996;183:429–446.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9015458</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rozante LC, Gubitoso MD, Matioli SR. A framework for modeling of juxtacrine signaling systems. Genet Mol Res. 2007;6:821–845.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18058706</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Plahte E. Pattern formation in discrete cell lattices. J Math Biol. 2001;43(5):411–445.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11767205</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sprinzak D, Lakhanpal A, LeBon L, et al. Mutual inactivation of Notch receptors and ligands facilitates developmental patterning. PLoS Comput Biol. 2011;7(6):e1002069.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3111533</ArticleId>
+            <ArticleId IdType="pubmed">21695234</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Corson F, Couturier L, Rouault H, et al. Self-organized Notch dynamics generate stereotyped sensory organ patterns in Drosophila. Science. 2017;356.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28386027</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cohen M, Georgiou M, Stevenson NL, et al. Dynamic filopodia transmit intermittent Delta-Notch signaling to drive pattern refinement during lateral inhibition. Dev Cell. 2010;19(1):78–89.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20643352</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ready DF, Hanson TE, Benzer S. Development of the Drosophila retina, a neurocrystalline lattice. Dev Biol. 1976;53(2):217–240.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">825400</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wolff T, Ready DF. The beginning of pattern formation in the Drosophila compound eye: the morphogenetic furrow and the second mitotic wave. Development. 1991;113(3):841–850.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1726564</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heberlein U, Wolff T, Rubin GM. The TGF beta homolog dpp and the segment polarity gene hedgehog are required for propagation of a morphogenetic wave in the Drosophila retina. Cell. 1993;75(5):913–926.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8252627</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ma C, Zhou Y, Beachy PA, et al. The segment polarity gene hedgehog is required for progression of the morphogenetic furrow in the developing Drosophila eye. Cell. 1993;75(5):927–938.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8252628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heberlein U, Moses K. Mechanisms of Drosophila retinal morphogenesis: the virtues of being progressive. Cell. 1995;81(7):987–990.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7600585</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Frankfort BJ, Mardon G. R8 development in the Drosophila eye: a paradigm for neural selection and differentiation. Development. 2002;129(6):1295–1306.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11880339</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jarman AP, Grell EH, Ackerman L, et al. Atonal is the proneural gene for Drosophila photoreceptors. Nature. 1994;369(6479):398–400.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8196767</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jarman AP, Sun Y, Jan LY, et al. Role of the proneural gene, atonal, in formation of Drosophila chordotonal organs and photoreceptors. Development. 1995;121:2019–2030.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7635049</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dominguez M. Dual role for Hedgehog in the regulation of the proneural gene atonal during ommatidia development. Development. 1999;126(11):2345–2353.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10225994</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Greenwood S, Struhl G. Progression of the morphogenetic furrow in the Drosophila eye: the roles of Hedgehog, Decapentaplegic and the Raf pathway. Development. 1999;126(24):5795–5808.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10572054</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Borod ER, Heberlein U. Mutual regulation of decapentaplegic and hedgehog during the initiation of differentiation in the Drosophila retina. Dev Biol. 1998;197(2):187–197.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9630745</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dominguez M, Hafen E. Hedgehog directly controls initiation and propagation of retinal differentiation in the Drosophila eye. Genes Dev. 1997;11:3254–3264.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC316756</ArticleId>
+            <ArticleId IdType="pubmed">9389656</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baker NE, Yu SY. Proneural function of neurogenic genes in the developing Drosophila eye. Curr Biol. 1997;7(2):122–132.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9016706</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baonza A, Freeman M. Notch signalling and the initiation of neural development in the Drosophila eye. Development. 2001;128(20):3889–3898.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11641214</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ligoxygakis P, Yu SY, Delidakis C, et al. A subset of notch functions during Drosophila eye development require Su(H) and the E(spl) gene complex. Development. 1998;125(15):2893–2900.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9655811</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li Y, Baker NE. Proneural enhancement by Notch overcomes Suppressor-of-Hairless repressor function in the developing Drosophila eye. Curr Biol. 2001;11(5):330–338.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11267869</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cagan RL, Ready DF. Notch is required for successive cell decisions in the developing Drosophila retina. Genes Dev. 1989;3(8):1099–1112.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2792755</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baker NE, Zitron AE. Drosophila eye development: notch and Delta amplify a neurogenic pattern conferred on the morphogenetic furrow by scabrous. Mech Dev. 1995;49(3):173–189.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7734391</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baker NE, Yu S, Han D. Evolution of proneural atonal expression during distinct regulatory phases in the developing Drosophila eye. Curr Biol. 1996;6(10):1290–1301.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8939576</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baker NE, Mlodzik M, Rubin GM. Spacing differentiation in the developing Drosophila eye: a fibrinogen-related lateral inhibitor encoded by scabrous. Science. 1990;250(4986):1370–1377.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2175046</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mlodzik M, Baker NE, Rubin GM. Isolation and expression of scabrous, a gene regulating neurogenesis in Drosophila. Genes Dev. 1990;4(11):1848–1861.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2125959</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee EC, Hu X, Yu SY, et al. The scabrous gene encodes a secreted glycoprotein dimer and regulates proneural development in Drosophila eyes. Mol Cell Biol. 1996;16(3):1179–1188.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC231100</ArticleId>
+            <ArticleId IdType="pubmed">8622662</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ellis MC, Weber U, Wiersdorff V, et al. Confrontation of scabrous expressing and non-expressing cells is essential for normal ommatidial spacing in the Drosophila eye. Development. 1994;120(7):1959–1969.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7925001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Powell PA, Wesley C, Spencer S, et al. Scabrous complexes with Notch to mediate boundary formation. Nature. 2001;409(6820):626–630.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11214322</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Singson A, Leviten MW, Bang AG, et al. Direct downstream targets of proneural activators in the imaginal disc include genes involved in lateral inhibitory signaling. Genes Dev. 1994;8(17):2058–2071.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7958878</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baonza A, Casci T, Freeman M. A primary role for the epidermal growth factor receptor in ommatidial spacing in the Drosophila eye. Curr Biol. 2001;11(6):396–404.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11301250</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang L, Baker NE. Role of the EGFR/Ras/Raf pathway in specification of photoreceptor cells in the Drosophila retina. Development. 2001;128(7):1183–1191.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11245584</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baker NE, Bhattacharya A, Firth LC. Regulation of Hh signal transduction as Drosophila eye differentiation progresses. Dev Biol. 2009;335(2):356–366.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2846834</ArticleId>
+            <ArticleId IdType="pubmed">19761763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rogers EM, Brennan CA, Mortimer NT, et al. Pointed regulates an eye-specific transcriptional enhancer in the Drosophila hedgehog gene, which is required for the movement of the morphogenetic furrow. Development. 2005;132(21):4833–4843.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16207753</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Frankfort BJ, Nolo R, Zhang Z, et al. senseless repression of rough is required for R8 photoreceptor differentiation in the developing Drosophila eye. Neuron. 2001;32(3):403–414.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3122332</ArticleId>
+            <ArticleId IdType="pubmed">11709152</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pennington MW, Lubensky DK. Switch and template pattern formation in a discrete reaction-diffusion system inspired by the Drosophila eye. Eur Phys J E Soft Matter. 2010;33(2):129–148.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3031135</ArticleId>
+            <ArticleId IdType="pubmed">20862598</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lubensky DK, Pennington MW, Shraiman BI, et al. A dynamical model of ommatidial crystal formation. Proc Natl Acad Sci U S A. 2011;108(27):11145–11150.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3131319</ArticleId>
+            <ArticleId IdType="pubmed">21690337</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhu H, Owen MR, Mao Y. The spatiotemporal order of signaling events unveils the logic of development signaling. Bioinformatics. 2016;32(15):2313–2320.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4965629</ArticleId>
+            <ArticleId IdType="pubmed">27153573</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Contreras EG, Sierralta J, Oliva C. Novel Strategies for the Generation of Neuronal Diversity: lessons From the Fly Visual System. Front Mol Neurosci. 2019;12:140.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6554424</ArticleId>
+            <ArticleId IdType="pubmed">31213980</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Egger B, Gold KS, Brand AH. Regulating the balance between symmetric and asymmetric stem cell division in the developing brain. Fly (Austin). 2011;5(3):237–241.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21502820</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yasugi T, Nishimura T. Temporal regulation of the generation of neuronal diversity in Drosophila. Dev Growth Differ. 2016;58(1):73–87.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26690868</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neriec N, Desplan C. From the Eye to the Brain: development of the Drosophila Visual System. Curr Top Dev Biol. 2016;116:247–271.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5174189</ArticleId>
+            <ArticleId IdType="pubmed">26970623</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sato M, Yasugi T, Trush O. Temporal patterning of neurogenesis and neural wiring in the fly visual system. Neurosci Res. 2019;138:49–58.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30227165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Apitz H, Salecker I. A Challenge of Numbers and Diversity: neurogenesis in the Drosophila Optic Lobe. J Neurogenet. 2014;28(3–4):233–249.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24912777</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lanet E, Gould AP, Maurange C. Protection of neuronal diversity at the expense of neuronal numbers during nutrient restriction in the Drosophila visual system. Cell Rep. 2013;3(3):587–594.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3617362</ArticleId>
+            <ArticleId IdType="pubmed">23478023</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Egger B, Boone JQ, Stevens NR, et al. Regulation of spindle orientation and neural stem cell fate in the Drosophila optic lobe. Neural Dev. 2007;2(1):1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1779784</ArticleId>
+            <ArticleId IdType="pubmed">17207270</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yasugi T, Umetsu D, Murakami S, et al. Drosophila optic lobe neuroblasts triggered by a wave of proneural gene expression that is negatively regulated by JAK/STAT. Development. 2008;135(8):1471–1480.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18339672</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Orihara-Ono M, Toriya M, Nakao K, et al. Downregulation of Notch mediates the seamless transition of individual Drosophila neuroepithelial progenitors into optic medullar neuroblasts during prolonged G1. Dev Biol. 2011;351(1):163–175.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21215740</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Egger B, Gold KS, Brand AH. Notch regulates the switch from symmetric to asymmetric neural stem cell division in the Drosophila optic lobe. Development. 2010;137(18):2981–2987.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2926952</ArticleId>
+            <ArticleId IdType="pubmed">20685734</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yasugi T, Sugie A, Umetsu D, et al. Coordinated sequential action of EGFR and Notch signaling pathways regulates proneural wave progression in the Drosophila optic lobe. Development. 2010;137(19):3193–3203.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20724446</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reddy BV, Rauskolb C, Irvine KD. Influence of Fat-Hippo and Notch signaling on the proliferation and differentiation of Drosophila optic neuroepithelia. Development. 2010;137(14):2397–2408.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2889606</ArticleId>
+            <ArticleId IdType="pubmed">20570939</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Contreras EG, Egger B, Gold KS, et al. Dynamic Notch signalling regulates neural stem cell state progression in the Drosophila optic lobe. Neural Dev. 2018;13(1):25.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6251220</ArticleId>
+            <ArticleId IdType="pubmed">30466475</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ngo KT, Wang J, Junker M, et al. Concomitant requirement for Notch and Jak/Stat signaling during neuro-epithelial differentiation in the Drosophila optic lobe. Dev Biol. 2010;346(2):284–295.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3551593</ArticleId>
+            <ArticleId IdType="pubmed">20692248</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang W, Liu W, Wang Y, et al. Notch signaling regulates neuroepithelial stem cell maintenance and neuroblast formation in Drosophila optic lobe development. Dev Biol. 2011;350(2):414–428.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21146517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Weng M, Haenfler JM, Lee CY. Changes in Notch signaling coordinates maintenance and differentiation of the Drosophila larval optic lobe neuroepithelia. Dev Neurobiol. 2012;72(11):1376–1390.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3407541</ArticleId>
+            <ArticleId IdType="pubmed">22038743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang M, Han X, Liu C, et al. Intracellular trafficking of Notch orchestrates temporal dynamics of Notch activity in the fly brain. Nat Commun. 2021;12(1):2083.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8027629</ArticleId>
+            <ArticleId IdType="pubmed">33828096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang W, Li Y, Zhou L, et al. Role of JAK/STAT signaling in neuroepithelial stem cell maintenance and proliferation in the Drosophila optic lobe. Biochem Biophys Res Commun. 2011;410(4):714–720.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21651897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kawamori H, Tai M, Sato M, et al. Fat/Hippo pathway regulates the progress of neural differentiation signaling in the Drosophila optic lobe. Dev Growth Differ. 2011;53(5):653–667.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21671914</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Richter C, Oktaba K, Steinmann J, et al. The tumour suppressor L(3)mbt inhibits neuroepithelial proliferation and acts on insulator elements. Nat Cell Biol. 2011;13(9):1029–1039.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3173870</ArticleId>
+            <ArticleId IdType="pubmed">21857667</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jorg DJ, Caygill EE, Hakes AE, et al. The proneural wave in the Drosophila optic lobe is driven by an excitable reaction-diffusion mechanism. Elife. 2019;8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6386523</ArticleId>
+            <ArticleId IdType="pubmed">30794154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ei SI, Ishii H, Sato M, et al. A continuation method for spatially discretized models with nonlocal interactions conserving size and shape of cells and lattices. J Math Biol. 2020;81(4–5):981–1028.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7560951</ArticleId>
+            <ArticleId IdType="pubmed">32959067</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tanaka Y, Yasugi T, Nagayama M, et al. JAK/STAT guarantees robust neural stem cell differentiation by shutting off biological noise. Sci Rep. 2018;8(1):12484.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6102247</ArticleId>
+            <ArticleId IdType="pubmed">30127451</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sato M, Yasugi T, Minami Y, et al. Notch-mediated lateral inhibition regulates proneural wave propagation when combined with EGF-mediated reaction diffusion. Proc Natl Acad Sci U S A. 2016;113(35):E5153–62.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5024646</ArticleId>
+            <ArticleId IdType="pubmed">27535937</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wiley HS, Shvartsman SY, Lauffenburger DA . Computational modeling of the EGF-receptor system: a paradigm for systems biology. Trends Cell Biol. 2003;13(1):43–50.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12480339</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>de Celis JF, Garcia-Bellido A. Roles of the Notch gene in Drosophila wing morphogenesis. Mech Dev. 1994;46(2):109–122.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7918096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diaz-Benjumea FJ, Cohen SM. Serrate signals through Notch to establish a Wingless-dependent organizer at the dorsal/ventral compartment boundary of the Drosophila wing. Development. 1995;121(12):4215–4225.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8575321</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim J, Irvine KD, Carroll SB. Cell recognition, signal induction, and symmetrical gene activation at the dorsal-ventral boundary of the developing Drosophila wing. Cell. 1995;82(5):795–802.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7671307</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rulifson EJ, Blair SS. Notch regulates wingless expression and is not required for reception of the paracrine wingless signal during wing margin neurogenesis in Drosophila. Development. 1995;121(9):2813–2824.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7555709</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huppert SS, Jacobsen TL, Muskavitch MA. Feedback regulation is central to Delta-Notch signalling required for Drosophila wing vein morphogenesis. Development. 1997;124(17):3283–3291.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9310323</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang H, Chen X, He T, et al. Evidence for Tissue-Specific JAK/STAT Target Genes in Drosophila Optic Lobe Development. Genetics. 2013;195(4):1291–1306.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3832274</ArticleId>
+            <ArticleId IdType="pubmed">24077308</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Benedito R, Roca C, Sorensen I, et al. The notch ligands Dll4 and Jagged1 have opposing effects on angiogenesis. Cell. 2009;137(6):1124–1135.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19524514</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nandagopal N, Santat LA, Elowitz MB. Cis-activation in the Notch signaling pathway. Elife. 2019;8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6345567</ArticleId>
+            <ArticleId IdType="pubmed">30628888</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaya O, Sprinzak D. From Notch signaling to fine-grained patterning: modeling meets experiments. Curr Opin Genet Dev. 2011;21(6):732–739.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21862316</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Binshtok U, Sprinzak D. Modeling the Notch Response. Adv Exp Med Biol. 2018;1066:79–98.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6879322</ArticleId>
+            <ArticleId IdType="pubmed">30030823</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pourquie O. Vertebrate segmentation: from cyclic gene networks to scoliosis. Cell. 2011;145(5):650–663.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3164975</ArticleId>
+            <ArticleId IdType="pubmed">21620133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oates AC, Morelli LG, Ares S. Patterning embryos with oscillations: structure, function and dynamics of the vertebrate segmentation clock. Development. 2012;139(4):625–639.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22274695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoshioka-Kobayashi K, Matsumiya M, Niino Y, et al. Coupling delay controls synchronized oscillation in the segmentation clock. Nature. 2020;580(7801):119–123.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31915376</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang YJ, Aerne BL, Smithers L, et al. Notch signalling and the synchronization of the somite segmentation clock. Nature. 2000;408(6811):475–479.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11100729</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cooke J, Zeeman EC. A clock and wavefront model for control of the number of repeated structures during animal morphogenesis. J Theor Biol. 1976;58(2):455–476.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">940335</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

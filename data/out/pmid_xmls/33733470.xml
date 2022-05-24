@@ -1,0 +1,461 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">33733470</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>06</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1476-5381</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>179</Volume>
+            <Issue>11</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>British journal of pharmacology</Title>
+          <ISOAbbreviation>Br J Pharmacol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Optogenetic tools for manipulation of cyclic nucleotides functionally coupled to cyclic nucleotide-gated channels.</ArticleTitle>
+        <Pagination>
+          <StartPage>2519</StartPage>
+          <EndPage>2537</EndPage>
+          <MedlinePgn>2519-2537</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/bph.15445</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND AND PURPOSE" NlmCategory="OBJECTIVE">The cyclic nucleotides cAMP and cGMP are ubiquitous second messengers regulating numerous biological processes. Malfunctional cNMP signalling is linked to diseases and thus is an important target in pharmaceutical research. The existing optogenetic toolbox in Caenorhabditis elegans is restricted to soluble adenylyl cyclases, the membrane-bound Blastocladiella emersonii CyclOp and hyperpolarizing rhodopsins; yet missing are membrane-bound photoactivatable adenylyl cyclases and hyperpolarizers based on K<sup>+</sup> currents.</AbstractText>
+          <AbstractText Label="EXPERIMENTAL APPROACH" NlmCategory="METHODS">For the characterization of photoactivatable nucleotidyl cyclases, we expressed the proteins alone or in combination with cyclic nucleotide-gated channels in muscle cells and cholinergic motor neurons. To investigate the extent of optogenetic cNMP production and the ability of the systems to depolarize or hyperpolarize cells, we performed behavioural analyses, measured cNMP content in vitro, and compared in vivo expression levels.</AbstractText>
+          <AbstractText Label="KEY RESULTS" NlmCategory="RESULTS">We implemented Catenaria CyclOp as a new tool for cGMP production, allowing fine-control of cGMP levels. We established photoactivatable membrane-bound adenylyl cyclases, based on mutated versions ("A-2x") of Blastocladiella and Catenaria ("Be," "Ca") CyclOp, as N-terminal YFP fusions, enabling more efficient and specific cAMP signalling compared to soluble bPAC, despite lower overall cAMP production. For hyperpolarization of excitable cells by two-component optogenetics, we introduced the cAMP-gated K<sup>+</sup> -channel SthK from Spirochaeta thermophila and combined it with bPAC, BeCyclOp(A-2x), or YFP-BeCyclOp(A-2x). As an alternative, we implemented the B. emersonii cGMP-gated K<sup>+</sup> -channel BeCNG1 together with BeCyclOp.</AbstractText>
+          <AbstractText Label="CONCLUSION AND IMPLICATIONS" NlmCategory="CONCLUSIONS">We established a comprehensive suite of optogenetic tools for cNMP manipulation, applicable in many cell types, including sensory neurons, and for potent hyperpolarization.</AbstractText>
+          <AbstractText Label="LINKED ARTICLES" NlmCategory="BACKGROUND">This article is part of a themed issue on cGMP Signalling in Cell Growth and Survival. To view the other articles in this section visit http://onlinelibrary.wiley.com/doi/10.1111/bph.v179.11/issuetoc.</AbstractText>
+          <CopyrightInformation>© 2021 The Authors. British Journal of Pharmacology published by John Wiley &amp; Sons Ltd on behalf of British Pharmacological Society.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Henß</LastName>
+            <ForeName>Thilo</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute of Biophysical Chemistry, Goethe University, Frankfurt, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nagpal</LastName>
+            <ForeName>Jatin</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute of Biophysical Chemistry, Goethe University, Frankfurt, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>APC Microbiome Ireland, University College Cork, Cork, Ireland.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gao</LastName>
+            <ForeName>Shiqiang</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0001-6190-9443</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurophysiology, Institute of Physiology, Biocentre, Julius-Maximilians-University, Würzburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Scheib</LastName>
+            <ForeName>Ulrike</ForeName>
+            <Initials>U</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute for Biology, Experimental Biophysics, Humboldt-Universität zu Berlin, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Lead Discovery, Protein Technology, NUVISAN ICB GmbH, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pieragnolo</LastName>
+            <ForeName>Alessia</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Faculty of Pharmacy, University of Padova, Padova, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hirschhäuser</LastName>
+            <ForeName>Alexander</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute of Biophysical Chemistry, Goethe University, Frankfurt, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute for Physiology and Pathophysiology, Department of Molecular Cell Physiology, Philipps-University Marburg, Marburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Schneider-Warme</LastName>
+            <ForeName>Franziska</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>University Heart Center, Medical Center - University of Freiburg and Faculty of Medicine, Institute for Experimental Cardiovascular Medicine, Freiburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hegemann</LastName>
+            <ForeName>Peter</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institute for Biology, Experimental Biophysics, Humboldt-Universität zu Berlin, Berlin, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nagel</LastName>
+            <ForeName>Georg</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurophysiology, Institute of Physiology, Biocentre, Julius-Maximilians-University, Würzburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gottschalk</LastName>
+            <ForeName>Alexander</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0002-1197-6119</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Buchmann Institute for Molecular Life Sciences, Goethe University, Frankfurt, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Institute of Biophysical Chemistry, Goethe University, Frankfurt, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>05</Month>
+          <Day>06</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Br J Pharmacol</MedlineTA>
+        <NlmUniqueID>7502536</NlmUniqueID>
+        <ISSNLinking>0007-1188</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D054815">Cyclic Nucleotide-Gated Cation Channels</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D009712">Nucleotides, Cyclic</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 4.6.1.1</RegistryNumber>
+          <NameOfSubstance UI="D000262">Adenylyl Cyclases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>FYY3R43WGO</RegistryNumber>
+          <NameOfSubstance UI="D008911">Minocycline</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>H2D2X058MU</RegistryNumber>
+          <NameOfSubstance UI="D006152">Cyclic GMP</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000262" MajorTopicYN="N">Adenylyl Cyclases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017173" MajorTopicYN="N">Caenorhabditis elegans</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006152" MajorTopicYN="N">Cyclic GMP</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D054815" MajorTopicYN="N">Cyclic Nucleotide-Gated Cation Channels</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008911" MajorTopicYN="N">Minocycline</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009712" MajorTopicYN="Y">Nucleotides, Cyclic</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D062308" MajorTopicYN="Y">Optogenetics</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Caenorhabditis elegans</Keyword>
+        <Keyword MajorTopicYN="N">adenylyl cyclases</Keyword>
+        <Keyword MajorTopicYN="N">cyclic nucleotide-gated channels</Keyword>
+        <Keyword MajorTopicYN="N">guanylyl cyclases</Keyword>
+        <Keyword MajorTopicYN="N">neuromuscular system</Keyword>
+        <Keyword MajorTopicYN="N">optogenetics</Keyword>
+        <Keyword MajorTopicYN="N">rhodopsin</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>10</Month>
+          <Day>7</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>3</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>3</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>3</Month>
+          <Day>18</Day>
+          <Hour>7</Hour>
+          <Minute>5</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">33733470</ArticleId>
+        <ArticleId IdType="doi">10.1111/bph.15445</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>REFERENCES</Title>
+        <Reference>
+          <Citation>Alexander, S. P. H., Fabbro, D., Kelly, E., Mathie, A., Peters, J. A., Veale, E. L., Armstrong, J. F., Faccenda, E., Harding, S. D., Pawson, A. J., Sharman, J. L., Southan, C., Davies, J. A., &amp; CGTP Collaborators. (2019). THE CONCISE GUIDE TO PHARMACOLOGY 2019/20: Enzymes. British Journal of Pharmacology, 176, S297-S396. https://doi.org/10.1111/bph.14752</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Alexander, S. P. H., Mathie, A., Peters, J. A., Veale, E. L., Striessnig, J., Kelly, E., Armstrong, J. F., Faccenda, E., Harding, S. D., Pawson, A. J., Sharman, J. L., Southan, C., Davies, J. A., &amp; CGTP Collaborators. (2019). THE CONCISE GUIDE TO PHARMACOLOGY 2019/20: Ion channels. British Journal of Pharmacology, 176, S142-S228. https://doi.org/10.1111/bph.14749</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Avelar, G. M., Glaser, T., Leonard, G., Richards, T. A., Ulrich, H., &amp; Gomes, S. L. (2015). A cyclic GMP-dependent K+ channel in the blastocladiomycete fungus Blastocladiella emersonii. Eukaryotic Cell, 14, 958-963. https://doi.org/10.1128/EC.00087-15</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Avelar, G. M., Schumacher, R. I., Zaini, P. A., Leonard, G., Richards, T. A., &amp; Gomes, S. L. (2014). A rhodopsin-guanylyl cyclase gene fusion functions in visual perception in a fungus. Current Biology, 24, 1234-1240. https://doi.org/10.1016/j.cub.2014.04.009</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bargmann, C. I. (2006). Chemosensation in C. elegans. WormBook.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bargmann, C. I., &amp; Horvitz, H. R. (1991). Control of larval development by chemosensory neurons in Caenorhabditis elegans. Science, 251, 1243-1246. https://doi.org/10.1126/science.2006412</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Beck, S., Yu-Strzelczyk, J., Pauls, D., Constantin, O. M., Gee, C. E., Ehmann, N., Kittel, R. J., Nagel, G., &amp; Gao, S. (2018). Synthetic light-activated ion channels for optogenetic activation and inhibition. Frontiers in Neuroscience, 12, 643. https://doi.org/10.3389/fnins.2018.00643</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bergs, A., Schultheis, C., Fischer, E., Tsunoda, S. P., Erbguth, K., Husson, S. J., Govorunova, E., Spudich, J. L., Nagel, G., Gottschalk, A., &amp; Liewald, J. F. (2018). Rhodopsin optogenetic toolbox v2.0 for light-sensitive excitation and inhibition in Caenorhabditis elegans. PLoS One, 13, e0191802. https://doi.org/10.1371/journal.pone.0191802</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bernal Sierra, Y. A., Rost, B. R., Pofahl, M., Fernandes, A. M., Kopton, R. A., Moser, S., Holtkamp, D., Masala, N., Beed, P., Tukker, J. J., Oldani, S., Bönigk, W., Kohl, P., Baier, H., Schneider-Warme, F., Hegemann, P., Beck, H., Seifert, R., &amp; Schmitz, D. (2018). Potassium channel-based optogenetic silencing. Nature Communications, 9, 4611. https://doi.org/10.1038/s41467-018-07038-8</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Birnby, D. A., Link, E. M., Vowels, J. J., Tian, H., Colacurcio, P. L., &amp; Thomas, J. H. (2000). A transmembrane Guanylyl cyclase (DAF-11) and Hsp90 (DAF-21) regulate a common set of chemosensory behaviors in Caenorhabditis elegans. Genetics, 155, 85-104.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bock, A., Annibale, P., Konrad, C., Hannawacker, A., Anton, S. E., Maiellaro, I., Zabel, U., Sivaramakrishnan, S., Falcke, M., &amp; Lohse, M. J. (2020). Optical mapping of cAMP signaling at the nanometer scale. Cell, 182, 1519, e1517-1530.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Brams, M., Kusch, J., Spurny, R., Benndorf, K., &amp; Ulens, C. (2014). Family of prokaryote cyclic nucleotide-modulated ion channels. Proceedings of the National Academy of Sciences of the United States of America, 111, 7855-7860. https://doi.org/10.1073/pnas.1401917111</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Brenner, S. (1974). The genetics of Caenorhabditis elegans. Genetics, 77, 71-94. https://doi.org/10.1093/genetics/77.1.71</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Buck, J., Sinclair, M. L., Schapal, L., Cann, M. J., &amp; Levin, L. R. (1999). Cytosolic adenylyl cyclase defines a unique signaling molecule in mammals. PNAS, 96, 79-84. https://doi.org/10.1073/pnas.96.1.79</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chow, B. Y., Han, X., Dobry, A. S., Qian, X., Chuong, A. S., Li, M., Henninger, M. A., Belfort, G. M., Lin, Y., Monahan, P. E., &amp; Boyden, E. S. (2010). High-performance genetically targetable optical neural silencing by light-driven proton pumps. Nature, 463, 98-102. https://doi.org/10.1038/nature08652</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chuong, A. S., Miri, M. L., Busskamp, V., Matthews, G. A. C., Acker, L. C., Sørensen, A. T., Young, A., Klapoetke, N. C., Henninger, M. A., Kodandaramaiah, S. B., Ogawa, M., Ramanlal, S. B., Bandler, R. C., Allen, B. D., Forest, C. R., Chow, B. Y., Han, X., Lin, Y., Tye, K. M., … Boyden, E. S. (2014). Noninvasive optical inhibition with a red-shifted microbial rhodopsin. Nature Neuroscience, 17, 1123-1129. https://doi.org/10.1038/nn.3752</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cooper, D. M., &amp; Tabbasum, V. G. (2014). Adenylate cyclase-centred microdomains. The Biochemical Journal, 462, 199-213. https://doi.org/10.1042/BJ20140560</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cooper, D. M. F. (2003). Regulation and organization of adenylyl cyclases and cAMP. The Biochemical Journal, 375, 517-529. https://doi.org/10.1042/bj20031061</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cosentino, C., Alberio, L., Gazzarrini, S., Aquila, M., Romano, E., Cermenati, S., Zuccolini, P., Petersen, J., Beltrame, M., van Etten, J., Christie, J. M., Thiel, G., &amp; Moroni, A. (2015). Optogenetics engineering of a light-gated potassium channel. Science, 348, 707-710. https://doi.org/10.1126/science.aaa2787</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Curtis, M. J., Alexander, S., Cirino, G., Docherty, J. R., George, C. H., Giembycz, M. A., Hoyer, D., Insel, P. A., Izzo, A. A., Ji, Y., MacEwan, D. J., Sobey, C. G., Stanford, S. C., Teixeira, M. M., Wonnacott, S., &amp; Ahluwalia, A. (2018). Experimental design and analysis and their reporting II: Updated and simplified guidance for authors and peer reviewers. BJP, 175, 987-993. https://doi.org/10.1111/bph.14153</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Edwards, S. L., Charlie, N. K., Milfort, M. C., Brown, B. S., Gravlin, C. N., Knecht, J. E., &amp; Miller, K. G. (2008). A novel molecular solution for ultraviolet light detection in Caenorhabditis elegans. PLoS Biology, 6, 0060198.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Etzl, S., Lindner, R., Nelson, M. D., &amp; Winkler, A. (2018). Structure-guided design and functional characterization of an artificial red light-regulated guanylate/adenylate cyclase for optogenetic applications. The Journal of Biological Chemistry, 293, 9078-9089. https://doi.org/10.1074/jbc.RA118.003069</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fielenbach, N., &amp; Antebi, A. (2008). C. elegans dauer formation and the molecular basis of plasticity. Genes &amp; Development, 22, 2149-2165. https://doi.org/10.1101/gad.1701508</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fire, A. (1986). Integrative transformation of Caenorhabditis elegans. The EMBO Journal, 5, 2673-2680. https://doi.org/10.1002/j.1460-2075.1986.tb04550.x</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fischer, E., Gottschalk, A., &amp; Schuler, C. (2017). An optogenetic arrhythmia model to study catecholaminergic polymorphic ventricular tachycardia mutations. Scientific Reports, 7, 17514. https://doi.org/10.1038/s41598-017-17819-8</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gao, S., Nagpal, J., Schneider, M. W., Kozjak-Pavlovic, V., Nagel, G., &amp; Gottschalk, A. (2015). Optogenetic manipulation of cGMP in cells and animals by the tightly light-regulated guanylyl-cyclase opsin CyclOp. Nature Communications, 6, 1-12.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Han, X., Qian, X., Bernstein, J. G., Zhou, H.-H., Franzesi, G. T., Stern, P., Bronson, R. T., Graybiel, A. M., Desimone, R., &amp; Boyden, E. S. (2009). Millisecond-timescale optical control of neural dynamics in the nonhuman primate brain. Neuron, 62, 191-198. https://doi.org/10.1016/j.neuron.2009.03.011</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Houslay, M. D. (2010). Underpinning compartmentalised cAMP signalling through targeted cAMP breakdown. Trends in Biochemical Sciences, 35, 91-100. https://doi.org/10.1016/j.tibs.2009.09.007</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Husson, S. J., Costa, W. S., Wabnig, S., Stirman, J. N., Watson, J. D., Spencer, W. C., Akerboom, J., Looger, L. L., Treinin, M., Miller, D. M. III, Lu, H., &amp; Gottschalk, A. (2012). Optogenetic analysis of a nociceptor neuron and network reveals ion channels acting downstream of primary sensors. Current Biology, 22, 743-752. https://doi.org/10.1016/j.cub.2012.02.066</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Husson, S. J., Liewald, J. F., Schultheis, C., Stirman, J. N., Lu, H., &amp; Gottschalk, A. (2012). Microbial light-activatable proton pumps as neuronal inhibitors to functionally dissect neuronal networks in C. elegans. PLoS One, 7, e40937. https://doi.org/10.1371/journal.pone.0040937</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kesters, D., Brams, M., Nys, M., Wijckmans, E., Spurny, R., Voets, T., Tytgat, J., Kusch, J., &amp; Ulens, C. (2015). Structure of the SthK carboxy-terminal region reveals a gating mechanism for cyclic nucleotide-modulated ion channels. PLoS One, 10, e0116369. https://doi.org/10.1371/journal.pone.0116369</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Klapoetke, N. C., Murata, Y., Kim, S. S., Pulver, S. R., Birdsey-Benson, A., Cho, Y. K., Morimoto, T. K., Chuong, A. S., Carpenter, E. J., Tian, Z., Wang, J., Xie, Y., Yan, Z., Zhang, Y., Chow, B. Y., Surek, B., Melkonian, M., Jayaraman, V., Constantine-Paton, M., … Boyden, E. S. (2014). Independent optical excitation of distinct neural populations. Nature Methods, 11, 338-346. https://doi.org/10.1038/nmeth.2836</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Knopfel, T., Lin, M. Z., Levskaya, A., Tian, L., Lin, J. Y., &amp; Boyden, E. S. (2010). Toward the second generation of optogenetic tools. The Journal of Neuroscience, 30, 14998-15004. https://doi.org/10.1523/JNEUROSCI.4190-10.2010</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Komatsu, H., Jin, Y.-H., L'Etoile, N., Mori, I., Bargmann, C. I., Akaike, N., &amp; Ohshima, Y. (1999). Functional reconstitution of a heteromeric cyclic nucleotide-gated channel of Caenorhabditis elegans in cultured cells. Brain Research, 821, 160-168. https://doi.org/10.1016/S0006-8993(99)01111-7</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liewald, J. F., Brauner, M., Stephens, G. J., Bouhours, M., Schultheis, C., Zhen, M., &amp; Gottschalk, A. (2008). Optogenetic analysis of synaptic function. Nature Methods, 5, 895-902. https://doi.org/10.1038/nmeth.1252</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Linder, J. U. (2005). Substrate selection by class III adenylyl cyclases and guanylyl cyclases. IUBMB Life, 57, 797-803. https://doi.org/10.1080/15216540500415636</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lucas, K. A., Pitari, G. M., Kazerounian, S., Ruiz-Stewart, I., Park, J., Schulz, S., Chepenik, K. P., &amp; Waldman, S. A. (2000). Guanylyl cyclases and signaling by cyclic GMP. Pharmacological Reviews, 52, 375-413.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Oranth, A., Schultheis, C., Tolstenkov, O., Erbguth, K., Nagpal, J., Hain, D., Brauner, M., Wabnig, S., Costa, W. S., McWhirter, R. D., Zels, S., Palumbos, S., Miller Iii, D. M., Beets, I., &amp; Gottschalk, A. (2018). Food sensation modulates locomotion by dopamine and neuropeptide signaling in a distributed neuronal network. Neuron, 100, 1414, e1410-1428. https://doi.org/10.1016/j.neuron.2018.10.024</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Podda, M. V., &amp; Grassi, C. (2014). New perspectives in cyclic nucleotide-mediated functions in the CNS: The emerging role of cyclic nucleotide-gated (CNG) channels. Pflügers Archiv, 466, 1241-1257. https://doi.org/10.1007/s00424-013-1373-2</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ramot, D., MacInnis, B., &amp; Goodman, M. (2008). Bidirectional temperature-sensing by a single thermosensory neuron in C. elegans. Nature Neuroscience, 11, 908-915. https://doi.org/10.1038/nn.2157</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rost, B. R., Schneider-Warme, F., Schmitz, D., &amp; Hegemann, P. (2017). Optogenetic tools for subcellular applications in neuroscience. Neuron, 96, 572-603. https://doi.org/10.1016/j.neuron.2017.09.047</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ryu, M.-H., Kang, I.-H., Nelson, M. D., Jensen, T. M., Lyuksyutova, A. I., Siltberg-Liberles, J., Raizen, D. M., &amp; Gomelsky, M. (2014). Engineering adenylate cyclases regulated by near-infrared window light. Proceedings of the National Academy of Sciences of the United States of America, 111, 10167-10172. https://doi.org/10.1073/pnas.1324301111</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ryu, M.-H., Moskvin, O. V., Siltberg-Liberles, J., &amp; Gomelsky, M. (2010). Natural and engineered photoactivated nucleotidyl cyclases for optogenetic applications. The Journal of Biological Chemistry, 285, 41501-41508. https://doi.org/10.1074/jbc.M110.177600</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Scheib, U., Broser, M., Constantin, O. M., Yang, S., Gao, S., Mukherjee, S., Stehfest, K., Nagel, G., Gee, C. E., &amp; Hegemann, P. (2018). Rhodopsin-cyclases for photocontrol of cGMP/cAMP and 2.3 Å structure of the adenylyl cyclase domain. Nature Communications, 9, 2046. https://doi.org/10.1038/s41467-018-04428-w</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Scheib, U., Stehfest, K., Gee, C. E., Korschen, H. G., Fudim, R., Oertner, T. G., &amp; Hegemann, P. (2015). The rhodopsin-guanylyl cyclase of the aquatic fungus Blastocladiella emersonii enables fast optical control of cGMP signaling. Science Signaling, 8, rs8. https://doi.org/10.1126/scisignal.aab0611</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schmidpeter, P. A. M., Gao, X., Uphadyay, V., Rheinberger, J., &amp; Nimigean, C. M. (2018). Ligand binding and activation properties of the purified bacterial cyclic nucleotide-gated channel SthK. The Journal of General Physiology, 150, 821-834. https://doi.org/10.1085/jgp.201812023</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schroder-Lang, S., Schwarzel, M., Seifert, R., Strunker, T., Kateriya, S., Looser, J., Watanabe, M., Kaupp, U. B., Hegemann, P., &amp; Nagel, G. (2007). Fast manipulation of cellular cAMP level by light in vivo. Nature Methods, 4, 39-42. https://doi.org/10.1038/nmeth975</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schuler, C., Fischer, E., Shaltiel, L., Steuer Costa, W., &amp; Gottschalk, A. (2015). Arrhythmogenic effects of mutated L-type Ca2+-channels on an optogenetically paced muscular pump in Caenorhabditis elegans. Scientific Reports, 5, 14427. https://doi.org/10.1038/srep14427</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schultheis, C., Liewald, J. F., Bamberg, E., Nagel, G., &amp; Gottschalk, A. (2011). Optogenetic long-term manipulation of behavior and animal development. PLoS One, 6, e18766. https://doi.org/10.1371/journal.pone.0018766</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Steuer Costa, W., Yu, S.-C., Liewald, J. F., &amp; Gottschalk, A. (2017). Fast cAMP modulation of neurotransmission via neuropeptide signals and vesicle loading. Current Biology: CB, 27, 495-507. https://doi.org/10.1016/j.cub.2016.12.055</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Stierl, M., Stumpf, P., Udwari, D., Gueta, R., Hagedorn, R., Losi, A., Gärtner, W., Petereit, L., Efetova, M., Schwarzel, M., Oertner, T. G., Nagel, G., &amp; Hegemann, P. (2011). Light modulation of cellular cAMP by a small bacterial photoactivated adenylyl cyclase, bPAC, of the soil bacterium Beggiatoa. The Journal of Biological Chemistry, 286, 1181-1188. https://doi.org/10.1074/jbc.M110.185496</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Stirman, J. N., Crane, M. M., Husson, S. J., Wabnig, S., Schultheis, C., Gottschalk, A., &amp; Lu, H. (2011). Real-time multimodal optical control of neurons and muscles in freely behaving Caenorhabditis elegans. Nature Methods, 8, 153-158. https://doi.org/10.1038/nmeth.1555</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sunahara, R. K., Beuve, A., Tesmer, J. J. G., Sprang, S. R., Garbers, D. L., &amp; Gilman, A. G. (1998). Exchange of substrate and inhibitor specificities between adenylyl and guanylyl cyclases. The Journal of Biological Chemistry, 273, 16332-16338. https://doi.org/10.1074/jbc.273.26.16332</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tanwar, M., Sharma, K., Moar, P., &amp; Kateriya, S. (2018). Biochemical characterization of the engineered soluble photoactivated guanylate cyclases from microbes expands optogenetic tools. Applied Biochemistry and Biotechnology, 185, 1014-1028. https://doi.org/10.1007/s12010-018-2710-x</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Trieu, M. M., Devine, E. L., Lamarche, L. B., Ammerman, A. E., Greco, J. A., Birge, R. R., Theobald, D. L., &amp; Oprian, D. D. (2017). Expression, purification, and spectral tuning of RhoGC, a retinylidene/guanylyl cyclase fusion protein and optogenetics tool from the aquatic fungus Blastocladiella emersonii. The Journal of Biological Chemistry, 292, 10379-10389. https://doi.org/10.1074/jbc.M117.789636</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Warr, W. A. (2012). Scientific workflow systems: Pipeline pilot and KNIME. Journal of Computer-Aided Molecular Design, 26, 801-804. https://doi.org/10.1007/s10822-012-9577-7</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Weissenberger, S., Schultheis, C., Liewald, J. F., Erbguth, K., Nagel, G., &amp; Gottschalk, A. (2011). PACα-An optogenetic tool for in vivo manipulation of cellular cAMP levels, neurotransmitter release, and behavior in Caenorhabditis elegans. Journal of Neurochemistry, 116, 616-625. https://doi.org/10.1111/j.1471-4159.2010.07148.x</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Woldemariam, S., Nagpal, J., Hill, T., Li, J., Schneider, M. W., Shankar, R., Futey, M., Varshney, A., Ali, N., Mitchell, J., Andersen, K., Barsi-Rhyne, B., Tran, A., Costa, W. S., Krzyzanowski, M. C., Yu, Y. V., Brueggemann, C., Hamilton, O. S., Ferkey, D. M., … L'Etoile, N. (2019). Using a robust and sensitive GFP-based cGMP sensor for real-time imaging in intact Caenorhabditis elegans. Genetics, 213, 59-77. https://doi.org/10.1534/genetics.119.302392</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yizhar, O., Fenno, L. E., Davidson, T. J., Mogri, M., &amp; Deisseroth, K. (2011). Optogenetics in neural systems. Neuron, 71, 9-34. https://doi.org/10.1016/j.neuron.2011.06.004</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Zhang, F., Wang, L.-P., Brauner, M., Liewald, J. F., Kay, K., Watzke, N., Wood, P. G., Bamberg, E., Nagel, G., Gottschalk, A., &amp; Deisseroth, K. (2007). Multimodal fast optical interrogation of neural circuitry. Nature, 446, 633-639. https://doi.org/10.1038/nature05744</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

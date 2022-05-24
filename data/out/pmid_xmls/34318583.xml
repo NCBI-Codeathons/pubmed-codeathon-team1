@@ -1,0 +1,846 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">34318583</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>10</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1755-3768</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>100</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Acta ophthalmologica</Title>
+          <ISOAbbreviation>Acta Ophthalmol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Vitreous proteomics, a gateway to improved understanding and stratification of diverse uveitis aetiologies.</ArticleTitle>
+        <Pagination>
+          <StartPage>403</StartPage>
+          <EndPage>413</EndPage>
+          <MedlinePgn>403-413</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/aos.14993</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The vitreous proteome might provide an attractive gateway to discriminate between various uveitis aetiologies and gain novel insights into the underlying pathophysiological processes. Here, we investigated 180 vitreous proteins to discover novel biomarkers and broaden disease insights by comparing (1). primary vitreoretinal lymphoma ((P)VRL) versus other aetiologies, (2). sarcoid uveitis versus tuberculosis (TB)-associated uveitis and (3). granulomatous (sarcoid and TB) uveitis versus other aetiologies.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Vitreous protein levels were determined by proximity extension assay in 47 patients with intraocular inflammation and a prestudy diagnosis (cohort 1; training) and 22 patients with a blinded diagnosis (cohort 2; validation). Differentially expressed proteins identified by t-tests on cohort 1 were used to calculate Youden's indices. Pathway and network analysis was performed by ingenuity pathway analysis. A random forest classifier was trained to predict the diagnosis of blinded patients.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">For (P)VRL stratification, the previously reported combined diagnostic value of IL-10 and IL-6 was confirmed. Additionally, CD70 was identified as potential novel marker for (P)VRL. However, the classifier trained on the entire cohort (cohort 1 and 2) relied primarily on the interleukin score for intraocular lymphoma diagnosis (ISOLD) or IL-10/IL-6 ratio and only showed a supportive role for CD70. Furthermore, sarcoid uveitis displayed increased levels of vitreous CCL17 as compared to TB-associated uveitis.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">We underline the previously reported value of the ISOLD and the IL-10/IL-6 ratio for (P)VRL identification and present CD70 as a potentially valuable target for (P)VRL stratification. Finally, we also show that increased CCL17 levels might help to distinguish sarcoid uveitis from TB-associated uveitis.</AbstractText>
+          <CopyrightInformation>© 2021 The Authors. Acta Ophthalmologica published by John Wiley &amp; Sons Ltd on behalf of Acta Ophthalmologica Scandinavica Foundation.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Schrijver</LastName>
+            <ForeName>Benjamin</ForeName>
+            <Initials>B</Initials>
+            <Identifier Source="ORCID">0000-0002-6427-6765</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Immunology, Laboratory Medical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kolijn</LastName>
+            <ForeName>P Martijn</ForeName>
+            <Initials>PM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Immunology, Laboratory Medical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ten Berge</LastName>
+            <ForeName>Josianne C E M</ForeName>
+            <Initials>JCEM</Initials>
+            <Identifier Source="ORCID">0000-0003-4610-4991</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Ophthalmology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nagtzaam</LastName>
+            <ForeName>Nicole M A</ForeName>
+            <Initials>NMA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Immunology, Laboratory Medical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van Rijswijk</LastName>
+            <ForeName>Angelique L C T</ForeName>
+            <Initials>ALCT</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Immunology, Laboratory Medical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Swagemakers</LastName>
+            <ForeName>Sigrid M A</ForeName>
+            <Initials>SMA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Bioinformatics, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van der Spek</LastName>
+            <ForeName>Peter J</ForeName>
+            <Initials>PJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Bioinformatics, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Missotten</LastName>
+            <ForeName>Tom O A R</ForeName>
+            <Initials>TOAR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Uveitis Service, Rotterdam Eye Hospital, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van Velthoven</LastName>
+            <ForeName>Mirjam E J</ForeName>
+            <Initials>MEJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Uveitis Service, Rotterdam Eye Hospital, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>de Hoog</LastName>
+            <ForeName>Joeri</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Ophthalmology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van Hagen</LastName>
+            <ForeName>P Martin</ForeName>
+            <Initials>PM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Immunology, Laboratory Medical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Internal Medicine, Section Clinical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Langerak</LastName>
+            <ForeName>Anton W</ForeName>
+            <Initials>AW</Initials>
+            <Identifier Source="ORCID">0000-0002-2078-3220</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Immunology, Laboratory Medical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dik</LastName>
+            <ForeName>Willem A</ForeName>
+            <Initials>WA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Immunology, Laboratory Medical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>07</Month>
+          <Day>28</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Acta Ophthalmol</MedlineTA>
+        <NlmUniqueID>101468102</NlmUniqueID>
+        <ISSNLinking>1755-375X</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D015850">Interleukin-6</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>130068-27-8</RegistryNumber>
+          <NameOfSubstance UI="D016753">Interleukin-10</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005134" MajorTopicYN="Y">Eye Neoplasms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016753" MajorTopicYN="N">Interleukin-10</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015850" MajorTopicYN="N">Interleukin-6</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D064090" MajorTopicYN="Y">Intraocular Lymphoma</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D040901" MajorTopicYN="N">Proteomics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019572" MajorTopicYN="Y">Retinal Neoplasms</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014605" MajorTopicYN="Y">Uveitis</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014822" MajorTopicYN="N">Vitreous Body</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">(P)VRL</Keyword>
+        <Keyword MajorTopicYN="N">intraocular</Keyword>
+        <Keyword MajorTopicYN="N">proteomics</Keyword>
+        <Keyword MajorTopicYN="N">proximity extension assay</Keyword>
+        <Keyword MajorTopicYN="N">sarcoidosis</Keyword>
+        <Keyword MajorTopicYN="N">tuberculosis</Keyword>
+        <Keyword MajorTopicYN="N">uveitis</Keyword>
+        <Keyword MajorTopicYN="N">vitreous</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>6</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>56</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34318583</ArticleId>
+        <ArticleId IdType="doi">10.1111/aos.14993</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>References</Title>
+        <Reference>
+          <Citation>Bertrand P, Maingonnat C, Penther D et al. (2013): The costimulatory molecule CD70 is regulated by distinct molecular mechanisms and is associated with overall survival in diffuse large B-cell lymphoma. Genes Chromosomes Cancer 52: 764-774.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Caraballo JN, Snyder MR, Johnston PB, Bp ON, Raja H, Balsanek JG, Peters BE &amp; Pulido JS (2014): Vitreoretinal lymphoma versus uveitis: cytokine profile and correlations. Ocul Immunol Inflamm 22: 34-41.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Carbonell D, Mahajan S, Chee SP et al. (2021): Consensus recommendations for the diagnosis of vitreoretinal lymphoma. Ocul Immunol Inflamm 1-14.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cassoux N, Giron A, Bodaghi B et al. (2007): IL-10 measurement in aqueous humor for screening patients with suspicion of primary intraocular lymphoma. Invest Ophthalmol Vis Sci 48: 3253-3259.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Costopoulos M, Touitou V, Golmard JL et al. (2016): ISOLD: A new highly sensitive interleukin score for intraocular lymphoma diagnosis. Ophthalmology 123: 1626-1628.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cunningham ET, London NJS &amp; Rathinam SR (2010): Uveitis: a global view. Expert Rev Ophthalmol 5: 113-114.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>da Silva MV, Tiburcio MG, Machado JR, Silva DA, Rodrigues DB, Rodrigues V &amp; Oliveira CJ (2015): Complexity and controversies over the cytokine profiles of t helper cell subpopulations in tuberculosis. J Immunol Res 2015: 639107.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dao D, Caplash S, Gangaputra S, Vitale S, Jabs DA, McCoy JP &amp; Sen HN &amp; MR Group (2020): Hierarchical cluster analysis of serum and vitreous cytokines in intermediate, posterior and panuveitis. Invest Ophthalmol Visual Sci 61: 3655.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>de Hoog J, Dik WA, Lu L et al. (2019): Combined cellular and soluble mediator analysis for improved diagnosis of vitreoretinal lymphoma. Acta Ophthalmol 97: 626-632.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>de Miranda NF, Georgiou K, Chen L et al. (2014): Exome sequencing reveals novel mutation targets in diffuse large B-cell lymphomas derived from Chinese patients. Blood 124: 2544-2553.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Evans S, Butler JR, Mattila JT &amp; Kirschner DE (2020): Systems biology predicts that fibrosis in tuberculous granulomas may arise through macrophage-to-myofibroblast transformation. PLOS Comput Biol 16: e1008520.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fisson S, Ouakrim H, Touitou V et al. (2013): Cytokine profile in human eyes: contribution of a new cytokine combination for differential diagnosis between intraocular lymphoma or uveitis. PLoS One 8: e52385.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Friedman SL (2004): Mechanisms of disease: Mechanisms of hepatic fibrosis and therapeutic implications. Nat Clin Pract Gastroenterol Hepatol 1: 98-105.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Grunewald J, Grutters JC, Arkema EV, Saketkoo LA, Moller DR &amp; Müller-Quernheim J (2019): Sarcoidosis (Primer). Nat Rev Dis Primers 5(1): 45.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hou S, Li N, Liao X, Kijlstra A &amp; Yang P (2020): Uveitis genetics. Exp Eye Res 190: 107853.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Israel BF, Gulley M, Elmore S, Ferrini S, Feng WH &amp; Kenney SC (2005): Anti-CD70 antibodies: a potential treatment for EBV+ CD70-expressing lymphomas. Mol Cancer Ther 4: 2037-2044.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kalogeropoulos D, Vartholomatos G, Mitra A et al. (2019): Primary vitreoretinal lymphoma. Saudi J Ophthalmol 33: 66-80.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kasudhan KS, Sarkar S, Gupta V, Gupta A &amp; Chakraborti A (2018): Identification of unique proteins in vitreous fluid of patients with noninfectious uveitis. Acta Ophthalmol 96: e989-e1003.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Krishna U, Ajanaku D, Denniston AK &amp; Gkika T (2017): Uveitis: a sight-threatening disease which can impact all systems. Postgrad Med J 93: 766-773.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kuiper J, ten Dam-van Loon N, Domanian A, Schellekens P, Nierkens S, Radstake T &amp; de Boer J (2015): Correlation between measurement of IL-10 and IL-6 in paired aqueous humour and vitreous fluid in primary vitreoretinal lymphoma. Acta Ophthalmol 93: e680-e681.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kuo DE, Wei MM, Knickelbein JE, Armbrust KR, Yeung IYL, Lee AY, Chan CC &amp; Sen HN (2020): Logistic regression classification of primary vitreoretinal lymphoma versus uveitis by interleukin 6 and interleukin 10 levels. Ophthalmology 127: 956-962.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Li C &amp; Yang CW (2009): The pathogenesis and treatment of chronic allograft nephropathy. Nat Rev Nephrol 5: 513-519.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>London NJ, Rathinam SR &amp; Cunningham ET Jr (2010): The epidemiology of uveitis in developing countries. Int Ophthalmol Clin 50: 1-17.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Max Kuhn JW, Weston S, Williams A et al. (2020): Classification and Regression Training. R package version 6.0-86.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mohanty V, Pinto SM, Subbannayya Y, Najar MA, Murthy KB, Prasad TSK &amp; Murthy KR (2020): Digging deeper for the eye proteome in vitreous substructures: a high-resolution proteome map of the normal human vitreous base. OMICS J Integr Biol 24: 379-389.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Moller DR (2003): Treatment of sarcoidosis - from a basic science point of view. J Intern Med 253: 31-40.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ness T &amp; Virchow JC. (2001): [Posterior uveitis: sarcoidosis or tuberculosis] Posteriore Uveitis: Sarkoidose oder Tuberkulose. Ophthalmologe 98: 207-211.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nguyen CTH, Kambe N, Ueda-Hayakawa I, Kishimoto I, Ly NTM, Mizuno K &amp; Okamoto H (2018): TARC expression in the circulation and cutaneous granulomas correlates with disease severity and indicates Th2-mediated progression in patients with sarcoidosis. Allergol Int 67: 487-495.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park YG, Park WK, Kim RY, Kim M &amp; Park YH (2020): Serial changes in the aqueous IL-10 level after intravitreal methotrexate injection as an indicator of primary vitreoretinal lymphoma recurrence. Sci Rep 10: 15992.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Phillips T, Barr PM, Park SI et al. (2019): A phase 1 trial of SGN-CD70A in patients with CD70-positive diffuse large B cell lymphoma and mantle cell lymphoma. Invest New Drugs 37: 297-306.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Read RW, Zamir E &amp; Rao NA (2002): Neoplastic masquerade syndromes. Surv Ophthalmol 47: 81-124.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ritz SA, Cundall MJ, Gajewska BU et al. (2004): The lung cytokine microenvironment influences molecular events in the lymph nodes during Th1 and Th2 respiratory mucosal sensitization to antigen in vivo. Clin Exp Immunol 138: 213-220.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sagoo MS, Mehta H, Swampillai AJ, Cohen VM, Amin SZ, Plowman PN &amp; Lightman S (2014): Primary intraocular lymphoma. Surv Ophthalmol 59: 503-516.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Saleh M, Nikolitch K, Bourcier T, Speeg C &amp; Gaucher D (2012): Repeated IL-10 measurement in aqueous humor and OCT imaging are valuable tools to monitor intraocular lymphoma treated with intravitreal injections of methotrexate. Graefes Arch Clin Exp Ophthalmol 250: 761-764.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schrijver B, Hardjosantoso H, Ten Berge J, Schreurs MWJ, Van Hagen PM, Brooimans RA, Rothova A &amp; Dik WA (2020): No Evidence for circulating retina specific autoreactive T-cells in latent tuberculosis-associated uveitis and sarcoid uveitis. Ocul Immunol Inflamm 1-7. Online ahead of print.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Seve P, Cacoub P, Bodaghi B et al. (2017): Uveitis: Diagnostic work-up. A literature review and recommendations from an expert committee. Autoimmun Rev 16: 1254-1264.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Solier C &amp; Langen H (2014): Antibody-based proteomics and biomarker research - current status and limitations. Proteomics 14: 774-783.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Team RC (2020): A language and environment for statistical computing.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tsunemi Y, Saeki H, Nakamura K et al. (2006): CCL17 transgenic mice show an enhanced Th2-type response to both allergic and non-allergic stimuli. Eur J Immunol 36: 2116-2127.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Varma D, Anand S, Reddy AR, Das A, Watson JP, Currie DC, Sutcliffe I &amp; Backhouse OC (2006): Tuberculosis: an under-diagnosed aetiological agent in uveitis with an effective treatment. Eye (Lond) 20: 1068-1073.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Velez G, Roybal CN, Colgan D, Tsang SH, Bassuk AG &amp; Mahajan VB (2016): Precision medicine: personalized proteomics for the diagnosis and treatment of idiopathic inflammatory disease. JAMA Ophthalmol 134: 444-448.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Venkatesh R, Bavaharan B, Mahendradas P &amp; Yadav NK (2019): Primary vitreoretinal lymphoma: prevalence, impact, and management challenges. Clin Ophthalmol 13: 353-364.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang C, Zhou J, Wang J, Li S, Fukunaga A, Yodoi J &amp; Tian H (2020): Progress in the mechanism and targeted drug therapy for COPD. Signal Transduct Target Ther 5: 248.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wickham H (2016): ggplot2: Elegant Graphics for Data Analysis. New York: Springer-Verlag.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">34318583</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>10</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1755-3768</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>100</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Acta ophthalmologica</Title>
+          <ISOAbbreviation>Acta Ophthalmol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Vitreous proteomics, a gateway to improved understanding and stratification of diverse uveitis aetiologies.</ArticleTitle>
+        <Pagination>
+          <StartPage>403</StartPage>
+          <EndPage>413</EndPage>
+          <MedlinePgn>403-413</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/aos.14993</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The vitreous proteome might provide an attractive gateway to discriminate between various uveitis aetiologies and gain novel insights into the underlying pathophysiological processes. Here, we investigated 180 vitreous proteins to discover novel biomarkers and broaden disease insights by comparing (1). primary vitreoretinal lymphoma ((P)VRL) versus other aetiologies, (2). sarcoid uveitis versus tuberculosis (TB)-associated uveitis and (3). granulomatous (sarcoid and TB) uveitis versus other aetiologies.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Vitreous protein levels were determined by proximity extension assay in 47 patients with intraocular inflammation and a prestudy diagnosis (cohort 1; training) and 22 patients with a blinded diagnosis (cohort 2; validation). Differentially expressed proteins identified by t-tests on cohort 1 were used to calculate Youden's indices. Pathway and network analysis was performed by ingenuity pathway analysis. A random forest classifier was trained to predict the diagnosis of blinded patients.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">For (P)VRL stratification, the previously reported combined diagnostic value of IL-10 and IL-6 was confirmed. Additionally, CD70 was identified as potential novel marker for (P)VRL. However, the classifier trained on the entire cohort (cohort 1 and 2) relied primarily on the interleukin score for intraocular lymphoma diagnosis (ISOLD) or IL-10/IL-6 ratio and only showed a supportive role for CD70. Furthermore, sarcoid uveitis displayed increased levels of vitreous CCL17 as compared to TB-associated uveitis.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">We underline the previously reported value of the ISOLD and the IL-10/IL-6 ratio for (P)VRL identification and present CD70 as a potentially valuable target for (P)VRL stratification. Finally, we also show that increased CCL17 levels might help to distinguish sarcoid uveitis from TB-associated uveitis.</AbstractText>
+          <CopyrightInformation>© 2021 The Authors. Acta Ophthalmologica published by John Wiley &amp; Sons Ltd on behalf of Acta Ophthalmologica Scandinavica Foundation.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Schrijver</LastName>
+            <ForeName>Benjamin</ForeName>
+            <Initials>B</Initials>
+            <Identifier Source="ORCID">0000-0002-6427-6765</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Immunology, Laboratory Medical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kolijn</LastName>
+            <ForeName>P Martijn</ForeName>
+            <Initials>PM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Immunology, Laboratory Medical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ten Berge</LastName>
+            <ForeName>Josianne C E M</ForeName>
+            <Initials>JCEM</Initials>
+            <Identifier Source="ORCID">0000-0003-4610-4991</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Ophthalmology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nagtzaam</LastName>
+            <ForeName>Nicole M A</ForeName>
+            <Initials>NMA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Immunology, Laboratory Medical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van Rijswijk</LastName>
+            <ForeName>Angelique L C T</ForeName>
+            <Initials>ALCT</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Immunology, Laboratory Medical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Swagemakers</LastName>
+            <ForeName>Sigrid M A</ForeName>
+            <Initials>SMA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Bioinformatics, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van der Spek</LastName>
+            <ForeName>Peter J</ForeName>
+            <Initials>PJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Bioinformatics, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Missotten</LastName>
+            <ForeName>Tom O A R</ForeName>
+            <Initials>TOAR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Uveitis Service, Rotterdam Eye Hospital, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van Velthoven</LastName>
+            <ForeName>Mirjam E J</ForeName>
+            <Initials>MEJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Uveitis Service, Rotterdam Eye Hospital, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>de Hoog</LastName>
+            <ForeName>Joeri</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Ophthalmology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van Hagen</LastName>
+            <ForeName>P Martin</ForeName>
+            <Initials>PM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Immunology, Laboratory Medical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Internal Medicine, Section Clinical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Langerak</LastName>
+            <ForeName>Anton W</ForeName>
+            <Initials>AW</Initials>
+            <Identifier Source="ORCID">0000-0002-2078-3220</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Immunology, Laboratory Medical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dik</LastName>
+            <ForeName>Willem A</ForeName>
+            <Initials>WA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Immunology, Laboratory Medical Immunology, Erasmus MC University Medical Center Rotterdam, Rotterdam, the Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>07</Month>
+          <Day>28</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Acta Ophthalmol</MedlineTA>
+        <NlmUniqueID>101468102</NlmUniqueID>
+        <ISSNLinking>1755-375X</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D015850">Interleukin-6</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>130068-27-8</RegistryNumber>
+          <NameOfSubstance UI="D016753">Interleukin-10</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005134" MajorTopicYN="Y">Eye Neoplasms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016753" MajorTopicYN="N">Interleukin-10</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015850" MajorTopicYN="N">Interleukin-6</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D064090" MajorTopicYN="Y">Intraocular Lymphoma</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D040901" MajorTopicYN="N">Proteomics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019572" MajorTopicYN="Y">Retinal Neoplasms</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014605" MajorTopicYN="Y">Uveitis</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014822" MajorTopicYN="N">Vitreous Body</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">(P)VRL</Keyword>
+        <Keyword MajorTopicYN="N">intraocular</Keyword>
+        <Keyword MajorTopicYN="N">proteomics</Keyword>
+        <Keyword MajorTopicYN="N">proximity extension assay</Keyword>
+        <Keyword MajorTopicYN="N">sarcoidosis</Keyword>
+        <Keyword MajorTopicYN="N">tuberculosis</Keyword>
+        <Keyword MajorTopicYN="N">uveitis</Keyword>
+        <Keyword MajorTopicYN="N">vitreous</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>6</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>56</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34318583</ArticleId>
+        <ArticleId IdType="doi">10.1111/aos.14993</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Title>References</Title>
+        <Reference>
+          <Citation>Bertrand P, Maingonnat C, Penther D et al. (2013): The costimulatory molecule CD70 is regulated by distinct molecular mechanisms and is associated with overall survival in diffuse large B-cell lymphoma. Genes Chromosomes Cancer 52: 764-774.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Caraballo JN, Snyder MR, Johnston PB, Bp ON, Raja H, Balsanek JG, Peters BE &amp; Pulido JS (2014): Vitreoretinal lymphoma versus uveitis: cytokine profile and correlations. Ocul Immunol Inflamm 22: 34-41.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Carbonell D, Mahajan S, Chee SP et al. (2021): Consensus recommendations for the diagnosis of vitreoretinal lymphoma. Ocul Immunol Inflamm 1-14.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cassoux N, Giron A, Bodaghi B et al. (2007): IL-10 measurement in aqueous humor for screening patients with suspicion of primary intraocular lymphoma. Invest Ophthalmol Vis Sci 48: 3253-3259.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Costopoulos M, Touitou V, Golmard JL et al. (2016): ISOLD: A new highly sensitive interleukin score for intraocular lymphoma diagnosis. Ophthalmology 123: 1626-1628.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Cunningham ET, London NJS &amp; Rathinam SR (2010): Uveitis: a global view. Expert Rev Ophthalmol 5: 113-114.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>da Silva MV, Tiburcio MG, Machado JR, Silva DA, Rodrigues DB, Rodrigues V &amp; Oliveira CJ (2015): Complexity and controversies over the cytokine profiles of t helper cell subpopulations in tuberculosis. J Immunol Res 2015: 639107.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dao D, Caplash S, Gangaputra S, Vitale S, Jabs DA, McCoy JP &amp; Sen HN &amp; MR Group (2020): Hierarchical cluster analysis of serum and vitreous cytokines in intermediate, posterior and panuveitis. Invest Ophthalmol Visual Sci 61: 3655.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>de Hoog J, Dik WA, Lu L et al. (2019): Combined cellular and soluble mediator analysis for improved diagnosis of vitreoretinal lymphoma. Acta Ophthalmol 97: 626-632.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>de Miranda NF, Georgiou K, Chen L et al. (2014): Exome sequencing reveals novel mutation targets in diffuse large B-cell lymphomas derived from Chinese patients. Blood 124: 2544-2553.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Evans S, Butler JR, Mattila JT &amp; Kirschner DE (2020): Systems biology predicts that fibrosis in tuberculous granulomas may arise through macrophage-to-myofibroblast transformation. PLOS Comput Biol 16: e1008520.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fisson S, Ouakrim H, Touitou V et al. (2013): Cytokine profile in human eyes: contribution of a new cytokine combination for differential diagnosis between intraocular lymphoma or uveitis. PLoS One 8: e52385.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Friedman SL (2004): Mechanisms of disease: Mechanisms of hepatic fibrosis and therapeutic implications. Nat Clin Pract Gastroenterol Hepatol 1: 98-105.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Grunewald J, Grutters JC, Arkema EV, Saketkoo LA, Moller DR &amp; Müller-Quernheim J (2019): Sarcoidosis (Primer). Nat Rev Dis Primers 5(1): 45.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hou S, Li N, Liao X, Kijlstra A &amp; Yang P (2020): Uveitis genetics. Exp Eye Res 190: 107853.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Israel BF, Gulley M, Elmore S, Ferrini S, Feng WH &amp; Kenney SC (2005): Anti-CD70 antibodies: a potential treatment for EBV+ CD70-expressing lymphomas. Mol Cancer Ther 4: 2037-2044.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kalogeropoulos D, Vartholomatos G, Mitra A et al. (2019): Primary vitreoretinal lymphoma. Saudi J Ophthalmol 33: 66-80.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kasudhan KS, Sarkar S, Gupta V, Gupta A &amp; Chakraborti A (2018): Identification of unique proteins in vitreous fluid of patients with noninfectious uveitis. Acta Ophthalmol 96: e989-e1003.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Krishna U, Ajanaku D, Denniston AK &amp; Gkika T (2017): Uveitis: a sight-threatening disease which can impact all systems. Postgrad Med J 93: 766-773.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kuiper J, ten Dam-van Loon N, Domanian A, Schellekens P, Nierkens S, Radstake T &amp; de Boer J (2015): Correlation between measurement of IL-10 and IL-6 in paired aqueous humour and vitreous fluid in primary vitreoretinal lymphoma. Acta Ophthalmol 93: e680-e681.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kuo DE, Wei MM, Knickelbein JE, Armbrust KR, Yeung IYL, Lee AY, Chan CC &amp; Sen HN (2020): Logistic regression classification of primary vitreoretinal lymphoma versus uveitis by interleukin 6 and interleukin 10 levels. Ophthalmology 127: 956-962.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Li C &amp; Yang CW (2009): The pathogenesis and treatment of chronic allograft nephropathy. Nat Rev Nephrol 5: 513-519.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>London NJ, Rathinam SR &amp; Cunningham ET Jr (2010): The epidemiology of uveitis in developing countries. Int Ophthalmol Clin 50: 1-17.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Max Kuhn JW, Weston S, Williams A et al. (2020): Classification and Regression Training. R package version 6.0-86.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mohanty V, Pinto SM, Subbannayya Y, Najar MA, Murthy KB, Prasad TSK &amp; Murthy KR (2020): Digging deeper for the eye proteome in vitreous substructures: a high-resolution proteome map of the normal human vitreous base. OMICS J Integr Biol 24: 379-389.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Moller DR (2003): Treatment of sarcoidosis - from a basic science point of view. J Intern Med 253: 31-40.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ness T &amp; Virchow JC. (2001): [Posterior uveitis: sarcoidosis or tuberculosis] Posteriore Uveitis: Sarkoidose oder Tuberkulose. Ophthalmologe 98: 207-211.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nguyen CTH, Kambe N, Ueda-Hayakawa I, Kishimoto I, Ly NTM, Mizuno K &amp; Okamoto H (2018): TARC expression in the circulation and cutaneous granulomas correlates with disease severity and indicates Th2-mediated progression in patients with sarcoidosis. Allergol Int 67: 487-495.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park YG, Park WK, Kim RY, Kim M &amp; Park YH (2020): Serial changes in the aqueous IL-10 level after intravitreal methotrexate injection as an indicator of primary vitreoretinal lymphoma recurrence. Sci Rep 10: 15992.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Phillips T, Barr PM, Park SI et al. (2019): A phase 1 trial of SGN-CD70A in patients with CD70-positive diffuse large B cell lymphoma and mantle cell lymphoma. Invest New Drugs 37: 297-306.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Read RW, Zamir E &amp; Rao NA (2002): Neoplastic masquerade syndromes. Surv Ophthalmol 47: 81-124.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ritz SA, Cundall MJ, Gajewska BU et al. (2004): The lung cytokine microenvironment influences molecular events in the lymph nodes during Th1 and Th2 respiratory mucosal sensitization to antigen in vivo. Clin Exp Immunol 138: 213-220.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sagoo MS, Mehta H, Swampillai AJ, Cohen VM, Amin SZ, Plowman PN &amp; Lightman S (2014): Primary intraocular lymphoma. Surv Ophthalmol 59: 503-516.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Saleh M, Nikolitch K, Bourcier T, Speeg C &amp; Gaucher D (2012): Repeated IL-10 measurement in aqueous humor and OCT imaging are valuable tools to monitor intraocular lymphoma treated with intravitreal injections of methotrexate. Graefes Arch Clin Exp Ophthalmol 250: 761-764.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Schrijver B, Hardjosantoso H, Ten Berge J, Schreurs MWJ, Van Hagen PM, Brooimans RA, Rothova A &amp; Dik WA (2020): No Evidence for circulating retina specific autoreactive T-cells in latent tuberculosis-associated uveitis and sarcoid uveitis. Ocul Immunol Inflamm 1-7. Online ahead of print.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Seve P, Cacoub P, Bodaghi B et al. (2017): Uveitis: Diagnostic work-up. A literature review and recommendations from an expert committee. Autoimmun Rev 16: 1254-1264.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Solier C &amp; Langen H (2014): Antibody-based proteomics and biomarker research - current status and limitations. Proteomics 14: 774-783.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Team RC (2020): A language and environment for statistical computing.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tsunemi Y, Saeki H, Nakamura K et al. (2006): CCL17 transgenic mice show an enhanced Th2-type response to both allergic and non-allergic stimuli. Eur J Immunol 36: 2116-2127.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Varma D, Anand S, Reddy AR, Das A, Watson JP, Currie DC, Sutcliffe I &amp; Backhouse OC (2006): Tuberculosis: an under-diagnosed aetiological agent in uveitis with an effective treatment. Eye (Lond) 20: 1068-1073.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Velez G, Roybal CN, Colgan D, Tsang SH, Bassuk AG &amp; Mahajan VB (2016): Precision medicine: personalized proteomics for the diagnosis and treatment of idiopathic inflammatory disease. JAMA Ophthalmol 134: 444-448.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Venkatesh R, Bavaharan B, Mahendradas P &amp; Yadav NK (2019): Primary vitreoretinal lymphoma: prevalence, impact, and management challenges. Clin Ophthalmol 13: 353-364.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang C, Zhou J, Wang J, Li S, Fukunaga A, Yodoi J &amp; Tian H (2020): Progress in the mechanism and targeted drug therapy for COPD. Signal Transduct Target Ther 5: 248.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wickham H (2016): ggplot2: Elegant Graphics for Data Analysis. New York: Springer-Verlag.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

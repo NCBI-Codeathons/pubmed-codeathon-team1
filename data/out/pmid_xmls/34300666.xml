@@ -1,0 +1,557 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">34300666</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>07</Month>
+        <Day>27</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>07</Month>
+        <Day>29</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1424-8220</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>21</Volume>
+            <Issue>14</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Jul</Month>
+              <Day>20</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Sensors (Basel, Switzerland)</Title>
+          <ISOAbbreviation>Sensors (Basel)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Deep-Learning-Based Multimodal Emotion Classification for Music Videos.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">4927</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/s21144927</ELocationID>
+        <Abstract>
+          <AbstractText>Music videos contain a great deal of visual and acoustic information. Each information source within a music video influences the emotions conveyed through the audio and video, suggesting that only a multimodal approach is capable of achieving efficient affective computing. This paper presents an affective computing system that relies on music, video, and facial expression cues, making it useful for emotional analysis. We applied the audio-video information exchange and boosting methods to regularize the training process and reduced the computational costs by using a separable convolution strategy. In sum, our empirical findings are as follows: (1) Multimodal representations efficiently capture all acoustic and visual emotional clues included in each music video, (2) the computational cost of each neural network is significantly reduced by factorizing the standard 2D/3D convolution into separate channels and spatiotemporal interactions, and (3) information-sharing methods incorporated into multimodal representations are helpful in guiding individual information flow and boosting overall performance. We tested our findings across several unimodal and multimodal networks against various evaluation metrics and visual analyzers. Our best classifier attained 74% accuracy, an f1-score of 0.73, and an area under the curve score of 0.926.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Pandeya</LastName>
+            <ForeName>Yagya Raj</ForeName>
+            <Initials>YR</Initials>
+            <Identifier Source="ORCID">0000-0002-9842-8704</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Computer Science and Engineering, Jeonbuk National University, Jeonju-City 54896, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bhattarai</LastName>
+            <ForeName>Bhuwan</ForeName>
+            <Initials>B</Initials>
+            <Identifier Source="ORCID">0000-0001-7014-4868</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Computer Science and Engineering, Jeonbuk National University, Jeonju-City 54896, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Joonwhoan</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Computer Science and Engineering, Jeonbuk National University, Jeonju-City 54896, Korea.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>07</Month>
+          <Day>20</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Sensors (Basel)</MedlineTA>
+        <NlmUniqueID>101204366</NlmUniqueID>
+        <ISSNLinking>1424-8220</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000077321" MajorTopicYN="Y">Deep Learning</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004644" MajorTopicYN="N">Emotions</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005149" MajorTopicYN="N">Facial Expression</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009146" MajorTopicYN="Y">Music</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016571" MajorTopicYN="N">Neural Networks, Computer</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">channel and filter separable convolution</Keyword>
+        <Keyword MajorTopicYN="N">end-to-end emotion classification</Keyword>
+        <Keyword MajorTopicYN="N">unimodal and multimodal</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>24</Day>
+          <Hour>1</Hour>
+          <Minute>8</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34300666</ArticleId>
+        <ArticleId IdType="pmc">PMC8309938</ArticleId>
+        <ArticleId IdType="doi">10.3390/s21144927</ArticleId>
+        <ArticleId IdType="pii">s21144927</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Yang Y.H., Chen H.H. Machine Recognition of Music Emotion: A Review. ACM Trans. Intell. Syst. Technol. 2012 doi: 10.1145/2168752.2168754.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1145/2168752.2168754</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Juslin P.N., Laukka P. Expression, Perception, and Induction of Musical Emotions: A Review and a Questionnaire Study of Everyday Listening. J. New Music Res. 2004;33:217–238. doi: 10.1080/0929821042000317813.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/0929821042000317813</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Elvers P., Fischinger T., Steffens J. Music Listening as Self-enhancement: Effects of Empowering Music on Momentary Explicit and Implicit Self-esteem. Psychol. Music. 2018;46:307–325. doi: 10.1177/0305735617707354.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/0305735617707354</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Raglio A., Attardo L., Gontero G., Rollino S., Groppo E., Granieri E. Effects of Music and Music Therapy on Mood in Neurological Patients. World J. Psychiatry. 2015;5:68–78. doi: 10.5498/wjp.v5.i1.68.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.5498/wjp.v5.i1.68</ArticleId>
+            <ArticleId IdType="pmc">PMC4369551</ArticleId>
+            <ArticleId IdType="pubmed">25815256</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Patricia E.B. Music as a Mood Modulator. Retrospective Theses and Dissertations, 1992, 17311.  [(accessed on 7 June 2017)]; Available online:  https://lib.dr.iastate.edu/rtd/17311.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Eerola T., Peltola H.R. Memorable Experiences with Sad Music—Reasons, Reactions and Mechanisms of Three Types of Experiences. PLoS ONE. 2016;11:e0157444.  doi: 10.1371/journal.pone.0157444.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0157444</ArticleId>
+            <ArticleId IdType="pmc">PMC4907454</ArticleId>
+            <ArticleId IdType="pubmed">27300268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bogt T., Canale N., Lenzi M., Vieno A., Eijnden R. Sad Music Depresses Sad Adolescents: A Listener’s Profile. Psychol. Music. 2019;49:257–272. doi: 10.1177/0305735619849622.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/0305735619849622</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pannese A., Rappaz M.A., Grandjean G. Metaphor and Music Emotion: Ancient Views and Future Directions. Conscious. Cogn. 2016;44:61–71. doi: 10.1016/j.concog.2016.06.015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.concog.2016.06.015</ArticleId>
+            <ArticleId IdType="pubmed">27362475</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Siles I., Segura-Castillo A., Sancho M., Solís-Quesada R. Genres as Social Affect: Cultivating Moods and Emotions through Playlists on Spotify. Soc. Media Soc. 2019;5:2056305119847514. doi: 10.1177/2056305119847514.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/2056305119847514</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schriewer K., Bulaj G. Music Streaming Services as Adjunct Therapies for Depression, Anxiety, and Bipolar Symptoms: Convergence of Digital Technologies, Mobile Apps, Emotions, and Global Mental Health. Front. Public Health. 2016;4:217. doi: 10.3389/fpubh.2016.00217.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fpubh.2016.00217</ArticleId>
+            <ArticleId IdType="pmc">PMC5043262</ArticleId>
+            <ArticleId IdType="pubmed">27747209</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pandeya Y.R., Kim D., Lee J. Domestic Cat Sound Classification Using Learned Features from Deep Neural Nets. Appl. Sci. 2018;8:1949.  doi: 10.3390/app8101949.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/app8101949</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pandeya Y.R., Bhattarai B., Lee J. Visual Object Detector for Cow Sound Event Detection. IEEE Access. 2020;8:162625–162633. doi: 10.1109/ACCESS.2020.3022058.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/ACCESS.2020.3022058</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pandeya Y.R., Lee J. Domestic Cat Sound Classification Using Transfer Learning. Int. J. Fuzzy Log. Intell. Syst. 2018;18:154–160. doi: 10.5391/IJFIS.2018.18.2.154.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.5391/IJFIS.2018.18.2.154</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pandeya Y.R., Bhattarai B., Lee J. Sound Event Detection in Cowshed using Synthetic Data and Convolutional Neural Network; Proceedings of the 2020 International Conference on Information and Communication Technology Convergence (ICTC); Jeju Island, Korea. 21–23 October 2020; pp. 273–276.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bhattarai B., Pandeya Y.R., Lee J. Parallel Stacked Hourglass Network for Music Source Separatio. IEEE Access. 2020;8:206016–206027. doi: 10.1109/ACCESS.2020.3037773.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/ACCESS.2020.3037773</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pandeya Y.R., Lee J. Deep Learning-based Late Fusion of Multimodal Information for Emotion Classification of Music Video. Multimed. Tools Appl. 2020;80:2887–2905. doi: 10.1007/s11042-020-08836-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11042-020-08836-3</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feichtenhofer C., Fan H., Malik J., He K. SlowFast Networks for Video Recognition; Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV); Seoul, Korea. 27 October 2019–2 November 2019.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Joze H.R.V., Shaban A., Iuzzolino M.L., Koishida K. MMTM: Multimodal Transfer Module for CNN Fusion; Proceedings of the CVPR 2020; Seattle, WA, USA. 13–19 June 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hu J., Shen L., Albanie S., Sun G., Wu E. Squeeze-and-Excitation Networks; Proceedings of the CVPR 2018; Salt Lake City, UT, USA. 18–22 June 2018; pp. 7132–7141.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lopes P., Liapis A., Yannakakis G.N. Modelling Affect for Horror Soundscapes. IEEE Trans. Affect. Comput. 2019;10:209–222. doi: 10.1109/TAFFC.2017.2695460.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TAFFC.2017.2695460</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Naoki N., Katsutoshi I., Hiromasa F., Goto M., Ogata T., Okuno H.G. A Musical Mood Trajectory Estimation Method Using Lyrics and Acoustic Features; Proceedings of the 1st international ACM workshop on Music information retrieval with user-centered and multimodal strategies; Scottsdale, AZ, USA. 28 November 2011–1 December 2011; pp. 51–56.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Song Y., Dixon S., Pearce M. Evaluation of Musical Features for Music Emotion Classification; Proceedings of the 13th International Society for Music Information Retrieval Conference (ISMIR); Porto, Portugal. 8–12 October 2012; pp. 523–528.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lin C., Liu M., Hsiung W., Jhang J. Music Emotion Recognition Based on Two-level Support Vector Classification; Proceedings of the 2016 International Conference on Machine Learning and Cybernetics (ICMLC); Jeju Island, Korea. 10–13 July 2016; pp. 375–389.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Han K.M., Zin T., Tun H.M. Extraction of Audio Features for Emotion Recognition System Based on Music. Int. J. Sci. Technol. Res. 2016;5:53–56.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Panda R., Malheiro R., Paiva R.P. Novel Audio Features for Music Emotion Recognition. IEEE Trans. Affect. Comput. 2020;11:614–626. doi: 10.1109/TAFFC.2018.2820691.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TAFFC.2018.2820691</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aljanaki A., Yang Y.H., Soleymani M. Developing a Benchmark for Emotional Analysis of Music. PLoS ONE. 2017;12:e0173392.  doi: 10.1371/journal.pone.0173392.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0173392</ArticleId>
+            <ArticleId IdType="pmc">PMC5345802</ArticleId>
+            <ArticleId IdType="pubmed">28282400</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Malik M., Adavanne A., Drossos K., Virtanen T., Ticha D., Jarina R. Stacked Convolutional and Recurrent Neural Networks for Music Emotion Recognition.  [(accessed on 7 June 2017)];arXiv. 2017  Available online:  https://arxiv.org/abs/1706.02292.1706.02292v1</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Jakubik J., Kwaśnicka H. Music Emotion Analysis using Semantic Embedding Recurrent Neural Networks; Proceedings of the 2017 IEEE International Conference on INnovations in Intelligent SysTems and Applications (INISTA); Gdynia, Poland. 3–5 July 2017; pp. 271–276.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liu X., Chen Q., Wu X., Yan L., Yang L. CNN Based Music Emotion Classification.  [(accessed on 19 April 2017)];arXiv. 2017  Available online:  https://arxiv.org/abs/1704.05665.1704.05665</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tsunoo E., Akase T., Ono N., Sagayama S. Music mood classification by rhythm and bass-line unit pattern analysis; Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing; Dallas, TX, USA. 14–19 March 2010; pp. 265–268.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Turnbull D., Barrington L., Torres D., Lanckriet G. Towards musical query-by-semantic description using the cal500 data set; Proceedings of the ACM SIGIR; Amsterdam, The Netherlands. 23–27 July 2007; pp. 439–446.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Li S., Huang L. Music Emotions Recognition Based on Feature Analysis; Proceedings of the 2018 11th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI); Beijing, China. 13–15 October 2018; pp. 1–5.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang S., Wang J., Yang Y., Wang H. Towards time-varying music auto-tagging based on cal500 expansion; Proceedings of the IEEE International Conference on Multimedia and Expo (ICME); Chengdu, China. 14–18 July 2014; pp. 1–6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Berardinis J., Cangelosi A., Coutinho E. The Multiple Voices of Music Emotions: Source Separation for Improving Music Emotion Recognition Models and Their Interpretability; Proceedings of the ISMIR 2020; Montréal, QC, Canada. 11–16 October 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Chaki S., Doshi P., Bhattacharya S., Patnaik P. Explaining Perceived Emotions in Music: An Attentive Approach; Proceedings of the ISMIR 2020; Montréal, QC, Canada. 11–16 October 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Orjesek R., Jarina R., Chmulik M., Kuba M. DNN Based Music Emotion Recognition from Raw Audio Signal; Proceedings of the 29th International Conference Radioelektronika (RADIOELEKTRONIKA); Pardubice, Czech Republic. 16–18 April 2019; pp. 1–4.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Choi W., Kim M., Chung J., Lee D., Jung S. Investigating U-nets with Various Intermediate blocks for Spectrogram-Based Singing Voice Separation; Proceedings of the ISMIR2020; Montréal, QC, Canada. 11–16 October 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yin D., Luo C., Xiong Z., Zeng W. Phasen: A phase-and-harmonics-aware speech enhancement network.  [(accessed on 12 November 2019)];arXiv. 2019  Available online:  https://www.isca-speech.org/archive/Interspeech_2018/abstracts/1773.html.1911.04697</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Takahashi N., Agrawal P., Goswami N., Mitsufuji Y. Phasenet: Discretized phase modeling with deep neural networks for audio source separation. Interspeech. 2018:2713–2717. doi: 10.21437/Interspeech.2018-1773.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.21437/Interspeech.2018-1773</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang H., Xu M. Modeling temporal information using discrete fourier transform for recognizing emotions in user-generated videos; Proceedings of the 2016 IEEE International Conference on Image Processing (ICIP); Phoenix, AZ, USA. 25–28 September 2016; pp. 629–633.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xu B., Fu Y., Jiang Y., Li B., Sigal L. Heterogeneous Knowledge Transfer in Video Emotion Recognition, Attribution and Summarization. IEEE Trans. Affect. Comput. 2018;9:255–270. doi: 10.1109/TAFFC.2016.2622690.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TAFFC.2016.2622690</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tu G., Fu Y., Li B., Gao J., Jiang Y., Xue X. A Multi-Task Neural Approach for Emotion Attribution, Classification, and Summarization. IEEE Trans. Multimed. 2020;22:148–159. doi: 10.1109/TMM.2019.2922129.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TMM.2019.2922129</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee J., Kim S., Kiim S., Sohn K. Spatiotemporal Attention Based Deep Neural Networks for Emotion Recognition; Proceedings of the 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP); Calgary, AB, Canada. 15–20 April 2018; pp. 1513–1517.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sun M., Hsu S., Yang M., Chien J. Context-aware Cascade Attention-based RNN for Video Emotion Recognition; Proceedings of the 2018 First Asian Conference on Affective Computing and Intelligent Interaction (ACII Asia); Beijing, China. 20–22 May 2018; pp. 1–6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xu B., Zheng Y., Ye H., Wu C., Wang H., Sun G. Video Emotion Recognition with Concept Selection; Proceedings of the 2019 IEEE International Conference on Multimedia and Expo (ICME); Shanghai, China. 8–12 July 2019; pp. 406–411.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Irie G., Satou T., Kojima A., Yamasaki T., Aizawa K. Affective Audio-Visual Words and Latent Topic Driving Model for Realizing Movie Affective Scene Classification. IEEE Trans. Multimedia. 2010;12:523–535. doi: 10.1109/TMM.2010.2051871.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TMM.2010.2051871</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mo S., Niu J., Su Y., Das S.K. A Novel Feature Set for Video Emotion Recognition. Neurocomputing. 2018;291:11–20. doi: 10.1016/j.neucom.2018.02.052.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neucom.2018.02.052</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaya H., Gürpınar F., Salah A.A. Video-based Emotion Recognition in the Wild using Deep Transfer Learning and Score Fusion. Image Vis. Comput. 2017;65:66–75. doi: 10.1016/j.imavis.2017.01.012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.imavis.2017.01.012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li H., Kumar N., Chen R., Georgiou P. A Deep Reinforcement Learning Framework for Identifying Funny Scenes in Movies; Proceedings of the 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP); Calgary, AB, Canada. 15–20 April 2018; pp. 3116–3120.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ekman P., Friesen W.V. Constants Across Cultures in the Face and Emotion. J. Pers. Soc. Psychol. 1971;17:124.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">5542557</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pantic M., Rothkrantz L.J.M. Automatic Analysis of Facial Expressions: The State of the art. IEEE Trans. Pattern Anal. Mach. Intell. 2000;22:1424–1445. doi: 10.1109/34.895976.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/34.895976</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li S., Deng W. Deep Facial Expression Recognition: A Survey. IEEE Trans. Affect. Comput. 2020 doi: 10.1109/TAFFC.2020.2981446.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TAFFC.2020.2981446</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Majumder A., Behera L., Subramanian V.K. Automatic Facial Expression Recognition System Using Deep Network-Based Data Fusion. IEEE Trans. Cybern. 2018;48:103–114. doi: 10.1109/TCYB.2016.2625419.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TCYB.2016.2625419</ArticleId>
+            <ArticleId IdType="pubmed">27875237</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kuo C., Lai S., Sarkis M. A Compact Deep Learning Model for Robust Facial Expression Recognition; Proceedings of the 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW); Salt Lake City, UT, USA. 18–22 June 2018; pp. 2202–22028.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nanda A., Im W., Choi K.S., Yang H.S. Combined Center Dispersion Loss Function for Deep Facial Expression Recognition. Pattern Recognit. Lett. 2021;141:8–15. doi: 10.1016/j.patrec.2020.11.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.patrec.2020.11.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tao F., Busso C. End-to-End Audiovisual Speech Recognition System with Multitask Learning. IEEE Trans. Multimed. 2021;23:1–11. doi: 10.1109/TMM.2020.2975922.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TMM.2020.2975922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Eskimez S.E., Maddox R.K., Xu C., Duan Z. Noise-Resilient Training Method for Face Landmark Generation from Speech; Proceedings of the IEEE/ACM Transactions on Audio, Speech, and Language Processing; Los Altos, CA, USA. 16 October 2019; pp. 27–38.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.21437/Interspeech.2018-1773</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zeng H., Wang X., Wu A., Wang Y., Li Q., Endert A., Qu H. EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos. IEEE Trans. Vis. Comput. Graph. 2020;26:927–937. doi: 10.1109/TVCG.2019.2934656.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TVCG.2019.2934656</ArticleId>
+            <ArticleId IdType="pubmed">31443002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seanglidet Y., Lee B.S., Yeo C.K. Mood prediction from facial video with music “therapy” on a smartphone; Proceedings of the 2016 Wireless Telecommunications Symposium (WTS); London, UK. 18–20 April 2016; pp. 1–5.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kostiuk B., Costa Y.M.G., Britto A.S., Hu X., Silla C.N. Multi-label Emotion Classification in Music Videos Using Ensembles of Audio and Video Features; Proceedings of the 2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI); Portland, OR, USA. 4–6 November 2019; pp. 517–523.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Acar E., Hopfgartner F., Albayrak S. Understanding Affective Content of Music Videos through Learned Representations; Proceedings of the International Conference on Multimedia Modeling; Dublin, Ireland. 10–18 January 2014.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ekman P.  Basic Emotions in Handbook of Cognition and Emotion. Wiley; Hoboken, NJ, USA: 1999. pp. 45–60.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Russell J.A. A Circumplex Model of Affect. J. Personal. Soc. Psychol. 1980;39:1161–1178. doi: 10.1037/h0077714.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1037/h0077714</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thayer R.E.  The Biopsychology of Mood and Arousal. Oxford University Press; Oxford, UK: 1989. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Plutchik R.  A General Psychoevolutionary Theory of Emotion in Theories of Emotion. 4th ed. Academic Press; Cambridge, MA, USA: 1980. pp. 3–33.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Skodras E., Fakotakis N., Ebrahimi T. Multimedia Content Analysis for Emotional Characterization of Music Video Clips. EURASIP J. Image Video Process. 2013;2013:26.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gómez-Cañón J.S., Cano E., Herrera P., Gómez E. Joyful for You and Tender for Us: The Influence of Individual Characteristics and Language on Emotion Labeling and Classification; Proceedings of the ISMIR 2020; Montréal, QC, Canada. 11–16 October 2020.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Eerola T., Vuoskoski J.K. A comparison of the discrete and dimensional models of emotion in music. Psychol. Music. 2011;39:18–49. doi: 10.1177/0305735610362821.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/0305735610362821</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Makris D., Kermanidis K.L., Karydis I. The Greek Audio Dataset; Proceedings of the IFIP International Conference on Artificial Intelligence Applications and Innovations; Rhodes, Greece. 19–21 September 2014.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Aljanaki A., Wiering F., Veltkamp R.C. Studying emotion induced by music through a crowdsourcing game. Inf. Process. Manag. 2016;52:115–128. doi: 10.1016/j.ipm.2015.03.004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ipm.2015.03.004</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Y.H., Lin Y.C., Su Y.F., Chen H.H. A Regression Approach to Music Emotion Recognition. IEEE Trans. Audio Speech Lang. Process. 2008;16:448–457. doi: 10.1109/TASL.2007.911513.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TASL.2007.911513</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Livingstone S.R., Russo R.A. The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): A dynamic, multimodal set of facial and vocal expressions in North American English. PLoS ONE. 2018;13:e0196391.  doi: 10.1371/journal.pone.0196391.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0196391</ArticleId>
+            <ArticleId IdType="pmc">PMC5955500</ArticleId>
+            <ArticleId IdType="pubmed">29768426</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee J., Kim S., Kim S., Park J., Sohn K. Context-Aware Emotion Recognition Networks; Proceedings of the IEEE International Conference on Computer Vision (ICCV); Seoul, Korea. 27 October–2 November 2019.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Malandrakis N., Potamianos A., Evangelopoulos G., Zlatintsi A. A supervised approach to movie emotion tracking; Proceedings of the 2011 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP); Prague, Czech Republic. 22–27 May 2011; pp. 2376–2379.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Baveye Y., Dellandrea E., Chamaret C., Chen L. LIRIS-ACCEDE: A video database for affective content analysis. IEEE Trans. Affect. Comput. 2015;6:43–55. doi: 10.1109/TAFFC.2015.2396531.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TAFFC.2015.2396531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Y.H., Chen H.H.  Music Emotion Recognition. CRC Press; Boca Raton, FL, USA: 2011. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Geirhos R., Jacobsen J.H., Michaelis C., Zemel R., Brendel W., Bethge M., Wichmann F.A. Shortcut Learning in Deep Neural Networks.  [(accessed on 16 April 2020)];arXiv. 2021  doi: 10.1038/s42256-020-00257-z. Available online:  https://arxiv.org/abs/2004.07780.2004.07780v4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s42256-020-00257-z</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>CJ-Moore B.  An Introduction to the Psychology of Hearing. Brill; Leiden, The Netherlands: 2012. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tran D., Bourdev L., Fergus R., Torresani L., Paluri M. Learning Spatiotemporal Features with 3D Convolutional Networks; Proceedings of the 2015 IEEE International Conference on Computer Vision (ICCV); Santiago, Chile. 7–13 December 2015; pp. 4489–4497.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Carreira J., Zisserman A. Quo vadis, action recognition? A new model and the kinetics dataset. arXiv. 20181705.07750v3</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Du T., Heng W., Lorenzo T., Matt F. Video Classification with Channel-Separated Convolutional Networks.  [(accessed on 4 April 2019)];arXiv. 2019  Available online:  https://arxiv.org/abs/1904.02811.1904.02811v4</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Tran D., Wang H., Torresani L., Ray J., LeCun Y., Paluri M. A Closer Look at Spatiotemporal Convolutions for Action Recognition; Proceedings of the 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition; Salt Lake City, UT, USA. 18–23 June 2018; pp. 6450–6459.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pons J., Lidy T., Serra X. Experimenting with musically motivated convolutional neural networks; Proceedings of the 2016 14th International Workshop on Content-Based Multimedia Indexing (CBMI); Bucharest, Romania. 15–17 June 2016; pp. 1–6.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Karpathy A., Toderici G., Shetty S., Leung T., Sukthankar R., Fei-Fei L. Large-Scale Video Classification with Convolutional Neural Networks; Proceedings of the 2014 IEEE Conference on Computer Vision and Pattern Recognition; Columbus, OH, USA. 23–28 June 2014; pp. 1725–1732.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Poria S., Cambria E., Bajpai R., Hussain A. A review of Affective Computing: From Unimodal Analysis to Multimodal Fusion. Inf. Fusion. 2017;37:98–125. doi: 10.1016/j.inffus.2017.02.003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.inffus.2017.02.003</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morris J.D., Boone M.A. The Effects of Music on Emotional Response, Brand Attitude, and Purchase Intent in an Emotional Advertising Condition. Adv. Consum. Res. 1998;25:518–526.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park J., Park J., Park J. The Effects of User Engagements for User and Company Generated Videos on Music Sales: Empirical Evidence from YouTube. Front. Psychol. 2018;9:1880. doi: 10.3389/fpsyg.2018.01880.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fpsyg.2018.01880</ArticleId>
+            <ArticleId IdType="pmc">PMC6182083</ArticleId>
+            <ArticleId IdType="pubmed">30344501</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Abolhasani M., Oakes S., Oakes H. Music in advertising and consumer identity: The search for Heideggerian authenticity. Mark. Theory. 2017;17:473–490. doi: 10.1177/1470593117692021.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1470593117692021</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

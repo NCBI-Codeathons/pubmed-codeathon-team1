@@ -1,0 +1,422 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">32694989</PMID>
+      <DateRevised>
+        <Year>2020</Year>
+        <Month>09</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Print">1662-5188</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>14</Volume>
+            <PubDate>
+              <Year>2020</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Frontiers in computational neuroscience</Title>
+          <ISOAbbreviation>Front Comput Neurosci</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Neurons as Canonical Correlation Analyzers.</ArticleTitle>
+        <Pagination>
+          <StartPage>55</StartPage>
+          <MedlinePgn>55</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">55</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3389/fncom.2020.00055</ELocationID>
+        <Abstract>
+          <AbstractText>Normative models of neural computation offer simplified yet lucid mathematical descriptions of murky biological phenomena. Previously, online Principal Component Analysis (PCA) was used to model a network of single-compartment neurons accounting for weighted summation of upstream neural activity in the soma and Hebbian/anti-Hebbian synaptic learning rules. However, synaptic plasticity in biological neurons often depends on the integration of synaptic currents over a dendritic compartment rather than total current in the soma. Motivated by this observation, we model a pyramidal neuronal network using online Canonical Correlation Analysis (CCA). Given two related datasets represented by distal and proximal dendritic inputs, CCA projects them onto the subspace which maximizes the correlation between their projections. First, adopting a normative approach and starting from a single-channel CCA objective function, we derive an online gradient-based optimization algorithm whose steps can be interpreted as the operation of a pyramidal neuron. To model networks of pyramidal neurons, we introduce a novel multi-channel CCA objective function, and derive from it an online gradient-based optimization algorithm whose steps can be interpreted as the operation of a pyramidal neuron network including its architecture, dynamics, and synaptic learning rules. Next, we model a neuron with more than two dendritic compartments by deriving its operation from a known objective function for multi-view CCA. Finally, we confirm the functionality of our networks via numerical simulations. Overall, our work presents a simplified but informative abstraction of learning in a pyramidal neuron network, and demonstrates how such networks can integrate multiple sources of inputs.</AbstractText>
+          <CopyrightInformation>Copyright © 2020 Pehlevan, Zhao, Sengupta and Chklovskii.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Pehlevan</LastName>
+            <ForeName>Cengiz</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>John A. Paulson School of Engineering and Applied Sciences and Center for Brain Science, Harvard University, Cambridge, MA, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Xinyuan</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Neural Science, New York University, New York, NY, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sengupta</LastName>
+            <ForeName>Anirvan M</ForeName>
+            <Initials>AM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Rutgers, The State University of New Jersey, New Brunswick, NJ, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chklovskii</LastName>
+            <ForeName>Dmitri</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Computational Biology, Flatiron Institute, New York, NY, United States.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Langone Medical Center, New York University, New York, NY, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>06</Month>
+          <Day>30</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Front Comput Neurosci</MedlineTA>
+        <NlmUniqueID>101477956</NlmUniqueID>
+        <ISSNLinking>1662-5188</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Canonical Correlation Analysis (CCA)</Keyword>
+        <Keyword MajorTopicYN="N">Hebbian plasticity</Keyword>
+        <Keyword MajorTopicYN="N">biologically plausible learning</Keyword>
+        <Keyword MajorTopicYN="N">neural networks</Keyword>
+        <Keyword MajorTopicYN="N">pyramidal neuron</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2019</Year>
+          <Month>12</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>5</Month>
+          <Day>18</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>7</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>7</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2020</Year>
+          <Month>7</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32694989</ArticleId>
+        <ArticleId IdType="pmc">PMC7338892</ArticleId>
+        <ArticleId IdType="doi">10.3389/fncom.2020.00055</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Alemi A., Machens C., Denéve S., Slotine J.-J. (2017). Learning arbitrary dynamics in efficient, balanced spiking networks using local plasticity rules. arXiv preprint arXiv:1705.08026.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arora R., Cotter A., Livescu K., Srebro N. (2012). Stochastic optimization for PCA and PLS, in Allerton Conference on Communication, Control, and Computing, 861–868. 10.1109/Allerton.2012.6483308</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/Allerton.2012.6483308</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arora R., Marinov T. V., Mianjy P., Srebro N. (2017). Stochastic approximation for canonical correlation analysis, in Advances in Neural Information Processing Systems, 4775–4784.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bittner K. C., Grienberger C., Vaidya S. P., Milstein A. D., Macklin J. J., Suh J., et al. . (2015). Conjunctive input processing drives feature selectivity in hippocampal CA1 neurons. Nat. Neurosci. 18:1133. 10.1038/nn.4062</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.4062</ArticleId>
+            <ArticleId IdType="pmc">PMC4888374</ArticleId>
+            <ArticleId IdType="pubmed">26167906</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bittner K. C., Milstein A. D., Grienberger C., Romani S., Magee J. C. (2017). Behavioral time scale synaptic plasticity underlies ca1 place fields. Science
+357, 1033–1036. 10.1126/science.aan3846</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aan3846</ArticleId>
+            <ArticleId IdType="pmc">PMC7289271</ArticleId>
+            <ArticleId IdType="pubmed">28883072</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chechik G., Globerson A., Tishby N., Weiss Y. (2005). Information bottleneck for Gaussian variables. J. Mach. Learn. Res. 6, 165–188.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Diamantaras K., Kung S. (1996). Principal Component Neural Networks: Theory and Applications. New York, NY: John Wiley &amp; Sons, Inc.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Földiak P. (1989). Adaptive network for optimal linear feature extraction, in International Joint Conference on Neural Networks, 401–405. 10.1109/IJCNN.1989.118615</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/IJCNN.1989.118615</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ge R., Jin C., Netrapalli P., Sidford A., et al.  (2016). Efficient algorithms for large-scale generalized eigenvector computation and canonical correlation analysis, in International Conference on Machine Learning, 2741–2750.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Golding N. L., Staff N. P., Spruston N. (2002). Dendritic spikes as a mechanism for cooperative long-term potentiation. Nature
+418, 326–331. 10.1038/nature00854</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature00854</ArticleId>
+            <ArticleId IdType="pubmed">12124625</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guerguiev J., Lillicrap T. P., Richards B. A. (2017). Towards deep learning with segregated dendrites. eLife
+6:e22901. 10.7554/eLife.22901.027</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.22901.027</ArticleId>
+            <ArticleId IdType="pmc">PMC5716677</ArticleId>
+            <ArticleId IdType="pubmed">29205151</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Haga T., Fukai T. (2017). Dendritic processing of spontaneous neuronal sequences for one-shot learning. bioRxiv
+165613. 10.1101/165613</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/165613</ArticleId>
+            <ArticleId IdType="pmc">PMC6181986</ArticleId>
+            <ArticleId IdType="pubmed">30310112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Horn R. A., Johnson C. R. (1991). Topics in Matrix Analysis. Cambridge: Cambridge University Press. 10.1017/CBO9780511840371</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1017/CBO9780511840371</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hotelling H. (1992). Relations between two sets of variates, in Breakthroughs in Statistics. Springer Series in Statistics (Perspectives in Statistics), eds Kotz S., Johnson N. L. (New York, NY: Springer; ), 162–190. 10.1007/978-1-4612-4380-9_14</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-1-4612-4380-9_14</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jadi M. P., Behabadi B. F., Poleg-Polsky A., Schiller J., Mel B. W. (2014). An augmented two-layer model captures nonlinear analog spatial integration effects in pyramidal neuron dendrites. Proc. IEEE
+102, 782–798. 10.1109/JPROC.2014.2312671</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/JPROC.2014.2312671</ArticleId>
+            <ArticleId IdType="pmc">PMC4279447</ArticleId>
+            <ArticleId IdType="pubmed">25554708</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kettenring J. R. (1971). Canonical analysis of several sets of variables. Biometrika
+58, 433–451. 10.1093/biomet/58.3.433</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/biomet/58.3.433</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kushner H. J., Clark D. S. (1978). Stochastic Approximation Methods for Constrained and Unconstrained Systems. New York, NY: Springer-Verlag; 
+10.1007/978-1-4684-9352-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-1-4684-9352-8</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lai P. L., Fyfe C. (1999). A neural implementation of canonical correlation analysis. Neural Netw. 12, 1391–1397. 10.1016/S0893-6080(99)00075-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0893-6080(99)00075-1</ArticleId>
+            <ArticleId IdType="pubmed">12662622</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Larkum M. (2013). A cellular mechanism for cortical associations: an organizing principle for the cerebral cortex. Trends Neurosci. 36, 141–151. 10.1016/j.tins.2012.11.006</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tins.2012.11.006</ArticleId>
+            <ArticleId IdType="pubmed">23273272</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Larkum M. E., Nevian T., Sandler M., Polsky A., Schiller J. (2009). Synaptic integration in tuft dendrites of layer 5 pyramidal neurons: a new unifying principle. Science
+325, 756–760. 10.1126/science.1171958</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1171958</ArticleId>
+            <ArticleId IdType="pubmed">19661433</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>LeCun Y. (1998). The MNIST Database of Handwritten Digits. Available online at: http://yann.lecun.com/exdb/mnist/</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Magee J. C., Grienberger C. (2020). Synaptic plasticity forms and functions. Annu. Rev. Neurosci. 43, 95–117. 10.1146/annurev-neuro-090919-022842</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-neuro-090919-022842</ArticleId>
+            <ArticleId IdType="pubmed">32075520</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oja E. (1982). Simplified neuron model as a principal component analyzer. J. Math. Biol. 15, 267–273. 10.1007/BF00275687</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/BF00275687</ArticleId>
+            <ArticleId IdType="pubmed">7153672</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oja E. (1992). Principal components, minor components, and linear neural networks. Neural Netw. 5, 927–935. 10.1016/S0893-6080(05)80089-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0893-6080(05)80089-9</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Painsky A., Tishby N. (2017). Gaussian lower bound for the information bottleneck limit. J. Mach. Learn. Res. 18, 7908–7936.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Parise C. V., Ernst M. O. (2016). Correlation detection as a general mechanism for multisensory integration. Nat. Commun. 7:11543. 10.1038/ncomms11543</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms11543</ArticleId>
+            <ArticleId IdType="pmc">PMC4897755</ArticleId>
+            <ArticleId IdType="pubmed">27265526</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pehlevan C., Hu T., Chklovskii D. B. (2015). A hebbian/anti-hebbian neural network for linear subspace learning: a derivation from multidimensional scaling of streaming data. Neural Comput. 27, 1461–1495. 10.1162/NECO_a_00745</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/NECO_a_00745</ArticleId>
+            <ArticleId IdType="pubmed">25973548</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pezeshki A., Azimi-Sadjadi M. R., Scharf L. L. (2003). A network for recursive extraction of canonical coordinates. Neural Netw. 16, 801–808. 10.1016/S0893-6080(03)00112-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0893-6080(03)00112-6</ArticleId>
+            <ArticleId IdType="pubmed">12850037</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poirazi P., Brannon T., Mel B. W. (2003). Pyramidal neuron as two-layer neural network. Neuron
+37, 989–999. 10.1016/S0896-6273(03)00149-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0896-6273(03)00149-1</ArticleId>
+            <ArticleId IdType="pubmed">12670427</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poirazi P., Mel B. W. (2001). Impact of active dendrites and structural plasticity on the memory capacity of neural tissue. Neuron
+29, 779–796. 10.1016/S0896-6273(01)00252-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0896-6273(01)00252-5</ArticleId>
+            <ArticleId IdType="pubmed">11301036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Polsky A., Mel B. W., Schiller J. (2004). Computational subunits in thin dendrites of pyramidal cells. Nat. Neurosci. 7:621. 10.1038/nn1253</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn1253</ArticleId>
+            <ArticleId IdType="pubmed">15156147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rubner J., Tavan P. (1989). A self-organizing network for principal-component analysis. EPL
+10:693
+10.1209/0295-5075/10/7/015</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1209/0295-5075/10/7/015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rupnik J., Shawe-Taylor J. (2010). Multi-view canonical correlation analysis, in Conference on Data Mining and Data Warehouses (SiKDD 2010), 1–4.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sacramento J., Costa R. P., Bengio Y., Senn W. (2018). Dendritic cortical microcircuits approximate the backpropagation algorithm, in Advances in Neural Information Processing Systems, 8721–8732.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sanger T. (1989). Optimal unsupervised learning in a single-layer linear feedforward neural network. Neural Netw. 2, 459–473. 10.1016/0893-6080(89)90044-0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0893-6080(89)90044-0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Snoek C. G., Worring M., Van Gemert J. C., Geusebroek J.-M., Smeulders A. W. (2006). The challenge problem for automated detection of 101 semantic concepts in multimedia, in Proceedings of the 14th ACM International Conference on Multimedia (ACM: ), 421–430. 10.1145/1180639.1180727</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1145/1180639.1180727</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Spratling M. W., Johnson M. H. (2004). A feedback model of visual attention. J. Cogn. Neurosci. 16, 219–237. 10.1162/089892904322984526</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/089892904322984526</ArticleId>
+            <ArticleId IdType="pubmed">15068593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Spruston N. (2008). Pyramidal neurons: dendritic structure and synaptic integration. Nat. Rev. Neurosci. 9:206. 10.1038/nrn2286</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn2286</ArticleId>
+            <ArticleId IdType="pubmed">18270515</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stein B. E., Stanford T. R. (2008). Multisensory integration: current issues from the perspective of the single neuron. Nat. Rev. Neurosci. 9:255. 10.1038/nrn2331</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn2331</ArticleId>
+            <ArticleId IdType="pubmed">18354398</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stuart G., Spruston N., Sakmann B., Häusser M. (1997). Action potential initiation and backpropagation in neurons of the mammalian CNS. Trends Neurosci. 20, 125–131. 10.1016/S0166-2236(96)10075-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0166-2236(96)10075-8</ArticleId>
+            <ArticleId IdType="pubmed">9061867</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Urbanczik R., Senn W. (2014). Learning by the dendritic prediction of somatic spiking. Neuron
+81, 521–528. 10.1016/j.neuron.2013.11.030</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2013.11.030</ArticleId>
+            <ArticleId IdType="pubmed">24507189</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vía J., Santamaría I., Pérez J. (2007). A learning algorithm for adaptive canonical correlation analysis of several data sets. Neural Netw. 20, 139–152. 10.1016/j.neunet.2006.09.011</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neunet.2006.09.011</ArticleId>
+            <ArticleId IdType="pubmed">17113263</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu N.-l., Harnett M. T., Williams S. R., Huber D., O'Connor D. H., Svoboda K., et al. . (2012). Nonlinear dendritic integration of sensory and motor input during an active sensing task. Nature
+492:247. 10.1038/nature11601</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature11601</ArticleId>
+            <ArticleId IdType="pubmed">23143335</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang X., Weifeng L., Liu W., Tao D. (2019). A survey on canonical correlation analysis. IEEE Trans. Knowl. Data Eng. 10.1109/TKDE.2019.2958342</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TKDE.2019.2958342</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

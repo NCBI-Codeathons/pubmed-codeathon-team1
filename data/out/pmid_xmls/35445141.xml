@@ -1,0 +1,540 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35445141</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">2329-423X</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>9</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Oct</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Neurophotonics</Title>
+          <ISOAbbreviation>Neurophotonics</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Comparing synthetic refocusing to deconvolution for the extraction of neuronal calcium transients from light fields.</ArticleTitle>
+        <Pagination>
+          <StartPage>041404</StartPage>
+          <MedlinePgn>041404</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">041404</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1117/1.NPh.9.4.041404</ELocationID>
+        <Abstract>
+          <AbstractText><b>Significance:</b> Light-field microscopy (LFM) enables fast, light-efficient, volumetric imaging of neuronal activity with calcium indicators. Calcium transients differ in temporal signal-to-noise ratio (tSNR) and spatial confinement when extracted from volumes reconstructed by different algorithms. <b>Aim:</b> We evaluated the capabilities and limitations of two light-field reconstruction algorithms for calcium fluorescence imaging. <b>Approach:</b> We acquired light-field image series from neurons either bulk-labeled or filled intracellularly with the red-emitting calcium dye CaSiR-1 in acute mouse brain slices. We compared the tSNR and spatial confinement of calcium signals extracted from volumes reconstructed with synthetic refocusing and Richardson-Lucy three-dimensional deconvolution with and without total variation regularization. <b>Results:</b> Both synthetic refocusing and Richardson-Lucy deconvolution resolved calcium signals from single cells and neuronal dendrites in three dimensions. Increasing deconvolution iteration number improved spatial confinement but reduced tSNR compared with synthetic refocusing. Volumetric light-field imaging did not decrease calcium signal tSNR compared with interleaved, widefield image series acquired in matched planes. <b>Conclusions:</b> LFM enables high-volume rate, volumetric imaging of calcium transients in single cell somata (bulk-labeled) and dendrites (intracellularly loaded). The trade-offs identified for tSNR, spatial confinement, and computational cost indicate which of synthetic refocusing or deconvolution can better realize the scientific requirements of future LFM calcium imaging applications.</AbstractText>
+          <CopyrightInformation>© 2022 The Authors.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Howe</LastName>
+            <ForeName>Carmel L</ForeName>
+            <Initials>CL</Initials>
+            <Identifier Source="ORCID">0000-0002-5827-8705</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Imperial College London, Department of Bioengineering, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Imperial College London, Centre for Neurotechnology, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Quicke</LastName>
+            <ForeName>Peter</ForeName>
+            <Initials>P</Initials>
+            <Identifier Source="ORCID">0000-0003-2289-6672</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Imperial College London, Department of Bioengineering, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Imperial College London, Centre for Neurotechnology, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Song</LastName>
+            <ForeName>Pingfan</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Imperial College London, Centre for Neurotechnology, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Imperial College London, Department of Electrical and Electronic Engineering, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Verinaz-Jadan</LastName>
+            <ForeName>Herman</ForeName>
+            <Initials>H</Initials>
+            <Identifier Source="ORCID">0000-0003-1391-3426</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Imperial College London, Centre for Neurotechnology, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Imperial College London, Department of Electrical and Electronic Engineering, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dragotti</LastName>
+            <ForeName>Pier Luigi</ForeName>
+            <Initials>PL</Initials>
+            <Identifier Source="ORCID">0000-0002-6073-2807</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Imperial College London, Centre for Neurotechnology, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Imperial College London, Department of Electrical and Electronic Engineering, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Foust</LastName>
+            <ForeName>Amanda J</ForeName>
+            <Initials>AJ</Initials>
+            <Identifier Source="ORCID">0000-0002-4895-0502</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Imperial College London, Department of Bioengineering, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Imperial College London, Centre for Neurotechnology, London, United Kingdom.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>03</Month>
+          <Day>11</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Neurophotonics</MedlineTA>
+        <NlmUniqueID>101632875</NlmUniqueID>
+        <ISSNLinking>2329-423X</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">calcium imaging</Keyword>
+        <Keyword MajorTopicYN="N">deconvolution</Keyword>
+        <Keyword MajorTopicYN="N">fluorescence imaging</Keyword>
+        <Keyword MajorTopicYN="N">light-field microscopy</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>3</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>7</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>21</Day>
+          <Hour>5</Hour>
+          <Minute>45</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35445141</ArticleId>
+        <ArticleId IdType="pmc">PMC8922050</ArticleId>
+        <ArticleId IdType="doi">10.1117/1.NPh.9.4.041404</ArticleId>
+        <ArticleId IdType="pii">21036SSR</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Ali F., Kwan A. C., “Interpreting in vivo calcium signals from neuronal cell bodies, axons, and dendrites: a review,” Neurophotonics
+7(1), 011402 (2019).10.1117/1.NPh.7.1.011402</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1117/1.NPh.7.1.011402</ArticleId>
+            <ArticleId IdType="pmc">PMC6664352</ArticleId>
+            <ArticleId IdType="pubmed">31372367</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dana H., et al. , “Sensitive red protein calcium indicators for imaging neural activity,” Elife
+5, e12727 (2016).10.7554/eLife.12727</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.12727</ArticleId>
+            <ArticleId IdType="pmc">PMC4846379</ArticleId>
+            <ArticleId IdType="pubmed">27011354</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin M. Z., Schnitzer M. J., “Genetically encoded indicators of neuronal activity,” Nat. Neurosci.
+19(9), 1142 (2016).NANEFN10.1038/nn.4359</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.4359</ArticleId>
+            <ArticleId IdType="pmc">PMC5557009</ArticleId>
+            <ArticleId IdType="pubmed">27571193</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Platisa J., Pieribone V. A., “Genetically encoded fluorescent voltage indicators: are we there yet?” Curr. Opin. Neurobiol.
+50, 146–153 (2018).COPUEN10.1016/j.conb.2018.02.006</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.conb.2018.02.006</ArticleId>
+            <ArticleId IdType="pmc">PMC5984684</ArticleId>
+            <ArticleId IdType="pubmed">29501950</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grenier V., et al. , “Spying on neuronal membrane potential with genetically targetable voltage indicators,” J. Am. Chem. Soc.
+141(3), 1349–1358 (2019).JACSAT10.1021/jacs.8b11997</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/jacs.8b11997</ArticleId>
+            <ArticleId IdType="pmc">PMC6475477</ArticleId>
+            <ArticleId IdType="pubmed">30628785</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Popovic M. A., et al. , “Electrical behaviour of dendritic spines as revealed by voltage imaging,” Nat. Commun.
+6, 8436 (2015).NCAOBW10.1038/ncomms9436</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms9436</ArticleId>
+            <ArticleId IdType="pmc">PMC4594633</ArticleId>
+            <ArticleId IdType="pubmed">26436431</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Levoy M., et al. , “Light field microscopy,” in ACM SIGGRAPH 2006 Papers on - SIGGRAPH ’06, p. 924 (2006).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Broxton M., et al. , “Wave optics theory and 3-D deconvolution for the light field microscope,” Opt. Express
+21(21), 25418 (2013).OPEXFF10.1364/OE.21.025418</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/OE.21.025418</ArticleId>
+            <ArticleId IdType="pmc">PMC3867103</ArticleId>
+            <ArticleId IdType="pubmed">24150383</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Quicke P., et al. , “Calculation of high numerical aperture lightfield microscope point spread functions,” in Comput. Opt. Sens. and Imaging, Optical Society of America, p. CW4A-2 (2019).10.1364/COSI.2019.CW4A.2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/COSI.2019.CW4A.2</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Richardson W. H., “Bayesian-based iterative method of image restoration,” J. Opt. Soc. Am.
+62, 55 (1972).JOSAAH10.1364/JOSA.62.000055</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/JOSA.62.000055</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lucy L. B., “An iterative technique for the rectification of observed distributions,” Astron. J.
+79, 745 (1974).ANJOAA10.1086/111605</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1086/111605</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Daube-Witherspoon M. E., Muehllehner G., “An iterative image space reconstruction algorithm suitable for volume ECT,” IEEE Trans. Med. Imaging
+5, 61–66 (1986).ITMID410.1109/TMI.1986.4307748</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TMI.1986.4307748</ArticleId>
+            <ArticleId IdType="pubmed">18243988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bertero M., Boccacci P., Ruggiero V., Inverse Imaging with Poisson Data, IOP Publishing, Bristol:  (2018).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Prevedel R., et al. , “Simultaneous whole-animal 3D imaging of neuronal activity using light-field microscopy,” Nat. Methods
+11(7), 727–730 (2014).10.1038/nmeth.2964</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.2964</ArticleId>
+            <ArticleId IdType="pmc">PMC4100252</ArticleId>
+            <ArticleId IdType="pubmed">24836920</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pégard N. C., et al. , “Compressive light-field microscopy for 3D neural activity recording,” Optica
+3(5), 517 (2016).10.1364/OPTICA.3.000517</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/OPTICA.3.000517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cong L., et al. , “Rapid whole brain imaging of neural activity in freely behaving larval zebrafish (Danio rerio),” eLife
+6, e28158 (2017).10.7554/eLife.28158</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.28158</ArticleId>
+            <ArticleId IdType="pmc">PMC5644961</ArticleId>
+            <ArticleId IdType="pubmed">28930070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taylor M. A., et al. , “Brain-wide 3D light-field imaging of neuronal activity with speckle-enhanced resolution,” Optica
+5(4), 345–353 (2018).10.1364/OPTICA.5.000345</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/OPTICA.5.000345</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aimon S., et al. , “Fast near-whole–brain imaging in adult drosophila during responses to stimuli and behavior,” PLoS Biol.
+17(2), e2006732 (2019).10.1371/journal.pbio.2006732</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pbio.2006732</ArticleId>
+            <ArticleId IdType="pmc">PMC6395010</ArticleId>
+            <ArticleId IdType="pubmed">30768592</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Z., et al. , “Real-time volumetric reconstruction of biological dynamics with light-field microscopy and deep learning,” Nat. Methods
+18(5), 551–556 (2021).10.1038/s41592-021-01058-x</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41592-021-01058-x</ArticleId>
+            <ArticleId IdType="pmc">PMC8107123</ArticleId>
+            <ArticleId IdType="pubmed">33574612</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nöbauer T., et al. , “Video rate volumetric Ca2+ imaging across cortex using seeded iterative demixing (SID) microscopy,” Nat. Methods
+14(8), 811–818 (2017).10.1038/nmeth.4341</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nmeth.4341</ArticleId>
+            <ArticleId IdType="pubmed">28650477</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grosenick L., et al. , “Identification of cellular-activity dynamics across large tissue volumes in the mammalian brain,” bioRxiv, 132688 (2017).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Skocek O., et al. , “High-speed volumetric imaging of neuronal activity in freely moving rodents,” Nat. Methods
+15(6), 429–432 (2018).10.1038/s41592-018-0008-0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41592-018-0008-0</ArticleId>
+            <ArticleId IdType="pmc">PMC7990085</ArticleId>
+            <ArticleId IdType="pubmed">29736000</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Egawa T., et al. , “Development of a far-red to near-infrared fluorescence probe for calcium ion and its application to multicolor neuronal imaging,” J. Am. Chem. Soc.
+133(36), 14157–14159 (2011).JACSAT10.1021/ja205809h</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/ja205809h</ArticleId>
+            <ArticleId IdType="pubmed">21827169</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Howe C. L., et al. , “Comparing wide field to 3D light field for imaging red calcium transients in mammalian brain,” in Opt. and the Brain, Optical Society of America, p. BTu2C-4 (2020).10.1364/BRAIN.2020.BTu2C.4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/BRAIN.2020.BTu2C.4</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Z., A Practical Introduction to Light Field Microscopy, pp. 1–15, Computer Graphics Laboratory. Electrical Engineering, Stanford University;  (2010).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Ting J. T., et al. , “A robust ex vivo experimental platform for molecular-genetic dissection of adult human neocortical cell types and circuits,” Sci. Rep.
+8(1), 8407 (2018).SRCEC310.1038/s41598-018-26803-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-018-26803-9</ArticleId>
+            <ArticleId IdType="pmc">PMC5976666</ArticleId>
+            <ArticleId IdType="pubmed">29849137</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Franconville R., et al. , “Somatic calcium level reports integrated spiking activity of cerebellar interneurons in vitro and in vivo,” J. Neurophysiol.
+106(4), 1793–1805 (2011).JONEA410.1152/jn.00133.2011</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.00133.2011</ArticleId>
+            <ArticleId IdType="pubmed">21734102</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Edelstein A. D., et al. , “Advanced methods of microscope control using μ manager software,” J. Biol. Methods
+1(2), e10 (2014).10.14440/jbm.2014.36</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.14440/jbm.2014.36</ArticleId>
+            <ArticleId IdType="pmc">PMC4297649</ArticleId>
+            <ArticleId IdType="pubmed">25606571</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ng R., et al. , “Light field photography with a hand-held plenoptic camera – Stanford Tech Report CTSR 2005-02,” Technical Report (2005).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dey N., et al. , “Richardson-Lucy algorithm with total variation regularization for 3D confocal microscope deconvolution,” Microsc. Res. Tech.
+69(4), 260–266 (2006).MRTEEO10.1002/jemt.20294</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jemt.20294</ArticleId>
+            <ArticleId IdType="pubmed">16586486</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Virtanen P., et al. , “SciPy 1.0: fundamental algorithms for scientific computing in Python,” Nat. Methods
+17, 261–272 (2020).10.1038/s41592-019-0686-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41592-019-0686-2</ArticleId>
+            <ArticleId IdType="pmc">PMC7056644</ArticleId>
+            <ArticleId IdType="pubmed">32015543</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>White R. L., “Image restoration using the damped Richardson-Lucy method,” Proc. SPIE
+2198, 1342–1348 (1994).PSISDG10.1117/12.176819</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1117/12.176819</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vizcaíno J. P., et al. , “Learning to reconstruct confocal microscopy stacks from single light field images,” IEEE Trans. Comp. Imaging
+7, 775–788 (2021).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Llavador A., et al. , “Resolution improvements in integral microscopy with Fourier plane recording,” Opt. Express
+24(18), 20792–20798 (2016).OPEXFF10.1364/OE.24.020792</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/OE.24.020792</ArticleId>
+            <ArticleId IdType="pubmed">27607682</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo C., et al. , “Fourier light-field microscopy,” Opt. Express
+27, 25573–25594 (2019).OPEXFF10.1364/OE.27.025573</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/OE.27.025573</ArticleId>
+            <ArticleId IdType="pmc">PMC6825611</ArticleId>
+            <ArticleId IdType="pubmed">31510428</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stefanoiu A., et al. , “What about computational super-resolution in fluorescence Fourier light field microscopy?” Opt. Express
+28(11), 16554–16568 (2020).OPEXFF10.1364/OE.391189</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/OE.391189</ArticleId>
+            <ArticleId IdType="pubmed">32549475</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu F. L., et al. , “Fourier diffuserscope: single-shot 3D Fourier light field microscopy with a diffuser,” Opt. Express
+28(20), 28969–28986 (2020).OPEXFF10.1364/OE.400876</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/OE.400876</ArticleId>
+            <ArticleId IdType="pubmed">33114805</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Akerboom J., et al. , “Genetically encoded calcium indicators for multi-color neural activity imaging and combination with optogenetics,” Front. Mol. Neurosci.
+6, 2 (2013).10.3389/fnmol.2013.00002</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fnmol.2013.00002</ArticleId>
+            <ArticleId IdType="pmc">PMC3586699</ArticleId>
+            <ArticleId IdType="pubmed">23459413</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Soor N. S., et al. , “All-optical crosstalk-free manipulation and readout of chronos-expressing neurons,” J. Phys. D: Appl. Phys.
+52(10), 104002 (2019).JPAPBE10.1088/1361-6463/aaf944</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/1361-6463/aaf944</ArticleId>
+            <ArticleId IdType="pmc">PMC6466639</ArticleId>
+            <ArticleId IdType="pubmed">31057183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oheim M., et al. , “New red-fluorescent calcium indicators for optogenetics, photoactivation and multi-color imaging,” Biochim. Biophys. Acta-Mol. Cell Res.
+1843(10), 2284–2306 (2014).10.1016/j.bbamcr.2014.03.010</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.bbamcr.2014.03.010</ArticleId>
+            <ArticleId IdType="pubmed">24681159</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Song P., et al. , “3D localization for light-field microscopy via convolutional sparse coding on epipolar images,” IEEE Trans. Comput. Imaging
+6, 1017–1032 (2020).10.1109/TCI.2020.2997301</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TCI.2020.2997301</ArticleId>
+            <ArticleId IdType="pmc">PMC7442043</ArticleId>
+            <ArticleId IdType="pubmed">32851121</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Song P., et al. , “Model-inspired deep learning for light-field microscopy with application to neuron localization,” in ICASSP 2021-2021 IEEE Int. Conf. Acoust., Speech and Signal Process. (ICASSP), IEEE, pp. 8087–8091 (2021).10.1109/ICASSP39728.2021.9414236</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/ICASSP39728.2021.9414236</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Verinaz-Jadan H., et al. , “Deep learning for light field microscopy using physics-based models,” in IEEE 18th Int. Symp. Biomed. Imaging (ISBI), IEEE, pp. 1091–1094 (2021).10.1109/ISBI48211.2021.9434004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/ISBI48211.2021.9434004</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Z., et al. , “Imaging volumetric dynamics at high speed in mouse and zebrafish brain with confocal light field microscopy,” Nat. Biotechnol.
+39, 74–83 (2020).NABIF910.1038/s41587-020-0628-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41587-020-0628-7</ArticleId>
+            <ArticleId IdType="pubmed">32778840</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Truong T. V., et al. , “High-contrast, synchronous volumetric imaging with selective volume illumination microscopy,” Commun. Biol.
+3(1), 74 (2020).10.1038/s42003-020-0787-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s42003-020-0787-6</ArticleId>
+            <ArticleId IdType="pmc">PMC7021898</ArticleId>
+            <ArticleId IdType="pubmed">32060411</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Madaan S., et al. , “Single-objective selective-volume illumination microscopy enables high-contrast light-field imaging,” Opt. Lett.
+46(12), 2860–2863 (2021).OPLEDP10.1364/OL.413849</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1364/OL.413849</ArticleId>
+            <ArticleId IdType="pubmed">34129559</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Quicke P., et al. , “Subcellular resolution three-dimensional light-field imaging with genetically encoded voltage indicators,” Neurophotonics
+7(3), 035006 (2020).10.1117/1.NPh.7.3.035006</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1117/1.NPh.7.3.035006</ArticleId>
+            <ArticleId IdType="pmc">PMC7456658</ArticleId>
+            <ArticleId IdType="pubmed">32904628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Quicke P., et al. , “Single-neuron level one-photon voltage imaging with sparsely targeted genetically encoded voltage indicators,” Front. Cell. Neurosci.
+13, 39 (2019).10.3389/fncel.2019.00039</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncel.2019.00039</ArticleId>
+            <ArticleId IdType="pmc">PMC6413708</ArticleId>
+            <ArticleId IdType="pubmed">30890919</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

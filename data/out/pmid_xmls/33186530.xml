@@ -1,0 +1,1656 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">33186530</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>05</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>11</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1097-4172</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>183</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>Nov</Month>
+              <Day>12</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Cell</Title>
+          <ISOAbbreviation>Cell</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Integrated Morphoelectric and Transcriptomic Classification of Cortical GABAergic Cells.</ArticleTitle>
+        <Pagination>
+          <StartPage>935</StartPage>
+          <EndPage>953.e19</EndPage>
+          <MedlinePgn>935-953.e19</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cell.2020.09.057</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S0092-8674(20)31254-X</ELocationID>
+        <Abstract>
+          <AbstractText>Neurons are frequently classified into distinct types on the basis of structural, physiological, or genetic attributes. To better constrain the definition of neuronal cell types, we characterized the transcriptomes and intrinsic physiological properties of over 4,200 mouse visual cortical GABAergic interneurons and reconstructed the local morphologies of 517 of those neurons. We find that most transcriptomic types (t-types) occupy specific laminar positions within visual cortex, and, for most types, the cells mapping to a t-type exhibit consistent electrophysiological and morphological properties. These properties display both discrete and continuous variation among t-types. Through multimodal integrated analysis, we define 28 met-types that have congruent morphological, electrophysiological, and transcriptomic properties and robust mutual predictability. We identify layer-specific axon innervation pattern as a defining feature distinguishing different met-types. These met-types represent a unified definition of cortical GABAergic interneuron types, providing a systematic framework to capture existing knowledge and bridge future analyses across different modalities.</AbstractText>
+          <CopyrightInformation>Copyright © 2020 Elsevier Inc. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Gouwens</LastName>
+            <ForeName>Nathan W</ForeName>
+            <Initials>NW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA. Electronic address: nathang@alleninstitute.org.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sorensen</LastName>
+            <ForeName>Staci A</ForeName>
+            <Initials>SA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA. Electronic address: stacis@alleninstitute.org.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Baftizadeh</LastName>
+            <ForeName>Fahimeh</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Budzillo</LastName>
+            <ForeName>Agata</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Brian R</ForeName>
+            <Initials>BR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jarsky</LastName>
+            <ForeName>Tim</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alfiler</LastName>
+            <ForeName>Lauren</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Baker</LastName>
+            <ForeName>Katherine</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Barkan</LastName>
+            <ForeName>Eliza</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Berry</LastName>
+            <ForeName>Kyla</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bertagnolli</LastName>
+            <ForeName>Darren</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bickley</LastName>
+            <ForeName>Kris</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bomben</LastName>
+            <ForeName>Jasmine</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Braun</LastName>
+            <ForeName>Thomas</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Byte Physics, Schwarzastraße 9, Berlin 12055, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brouner</LastName>
+            <ForeName>Krissy</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Casper</LastName>
+            <ForeName>Tamara</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Crichton</LastName>
+            <ForeName>Kirsten</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Daigle</LastName>
+            <ForeName>Tanya L</ForeName>
+            <Initials>TL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dalley</LastName>
+            <ForeName>Rachel</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>de Frates</LastName>
+            <ForeName>Rebecca A</ForeName>
+            <Initials>RA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dee</LastName>
+            <ForeName>Nick</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Desta</LastName>
+            <ForeName>Tsega</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Samuel Dingman</ForeName>
+            <Initials>SD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dotson</LastName>
+            <ForeName>Nadezhda</ForeName>
+            <Initials>N</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Egdorf</LastName>
+            <ForeName>Tom</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ellingwood</LastName>
+            <ForeName>Lauren</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Enstrom</LastName>
+            <ForeName>Rachel</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Esposito</LastName>
+            <ForeName>Luke</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Farrell</LastName>
+            <ForeName>Colin</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Feng</LastName>
+            <ForeName>David</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fong</LastName>
+            <ForeName>Olivia</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gala</LastName>
+            <ForeName>Rohan</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gamlin</LastName>
+            <ForeName>Clare</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gary</LastName>
+            <ForeName>Amanda</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Glandon</LastName>
+            <ForeName>Alexandra</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goldy</LastName>
+            <ForeName>Jeff</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gorham</LastName>
+            <ForeName>Melissa</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Graybuck</LastName>
+            <ForeName>Lucas</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gu</LastName>
+            <ForeName>Hong</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hadley</LastName>
+            <ForeName>Kristen</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hawrylycz</LastName>
+            <ForeName>Michael J</ForeName>
+            <Initials>MJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Henry</LastName>
+            <ForeName>Alex M</ForeName>
+            <Initials>AM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hill</LastName>
+            <ForeName>DiJon</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hupp</LastName>
+            <ForeName>Madie</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kebede</LastName>
+            <ForeName>Sara</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Tae Kyung</ForeName>
+            <Initials>TK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Lisa</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kroll</LastName>
+            <ForeName>Matthew</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lee</LastName>
+            <ForeName>Changkyu</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Link</LastName>
+            <ForeName>Katherine E</ForeName>
+            <Initials>KE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mallory</LastName>
+            <ForeName>Matthew</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mann</LastName>
+            <ForeName>Rusty</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Maxwell</LastName>
+            <ForeName>Michelle</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McGraw</LastName>
+            <ForeName>Medea</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McMillen</LastName>
+            <ForeName>Delissa</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mukora</LastName>
+            <ForeName>Alice</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ng</LastName>
+            <ForeName>Lindsay</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ng</LastName>
+            <ForeName>Lydia</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ngo</LastName>
+            <ForeName>Kiet</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nicovich</LastName>
+            <ForeName>Philip R</ForeName>
+            <Initials>PR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Oldre</LastName>
+            <ForeName>Aaron</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Park</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Peng</LastName>
+            <ForeName>Hanchuan</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Penn</LastName>
+            <ForeName>Osnat</ForeName>
+            <Initials>O</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pham</LastName>
+            <ForeName>Thanh</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Pom</LastName>
+            <ForeName>Alice</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Popović</LastName>
+            <ForeName>Zoran</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Center for Game Science, Paul G. Allen School of Computer Science and Engineering, University of Washington, Seattle, WA 98195, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Potekhina</LastName>
+            <ForeName>Lydia</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rajanbabu</LastName>
+            <ForeName>Ramkumar</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ransford</LastName>
+            <ForeName>Shea</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Reid</LastName>
+            <ForeName>David</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rimorin</LastName>
+            <ForeName>Christine</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Robertson</LastName>
+            <ForeName>Miranda</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ronellenfitch</LastName>
+            <ForeName>Kara</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ruiz</LastName>
+            <ForeName>Augustin</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sandman</LastName>
+            <ForeName>David</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Smith</LastName>
+            <ForeName>Kimberly</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sulc</LastName>
+            <ForeName>Josef</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sunkin</LastName>
+            <ForeName>Susan M</ForeName>
+            <Initials>SM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Szafer</LastName>
+            <ForeName>Aaron</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tieu</LastName>
+            <ForeName>Michael</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Torkelson</LastName>
+            <ForeName>Amy</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Trinh</LastName>
+            <ForeName>Jessica</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tung</LastName>
+            <ForeName>Herman</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wakeman</LastName>
+            <ForeName>Wayne</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ward</LastName>
+            <ForeName>Katelyn</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Williams</LastName>
+            <ForeName>Grace</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Zhi</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ting</LastName>
+            <ForeName>Jonathan T</ForeName>
+            <Initials>JT</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Arkhipov</LastName>
+            <ForeName>Anton</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sümbül</LastName>
+            <ForeName>Uygar</ForeName>
+            <Initials>U</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lein</LastName>
+            <ForeName>Ed S</ForeName>
+            <Initials>ES</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Koch</LastName>
+            <ForeName>Christof</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yao</LastName>
+            <ForeName>Zizhen</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tasic</LastName>
+            <ForeName>Bosiljka</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Berg</LastName>
+            <ForeName>Jim</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Murphy</LastName>
+            <ForeName>Gabe J</ForeName>
+            <Initials>GJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA. Electronic address: gabem@alleninstitute.org.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zeng</LastName>
+            <ForeName>Hongkui</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Allen Institute for Brain Science, Seattle, WA 98109, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 EY023173</GrantID>
+            <Acronym>EY</Acronym>
+            <Agency>NEI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>U01 MH105982</GrantID>
+            <Acronym>MH</Acronym>
+            <Agency>NIMH NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Cell</MedlineTA>
+        <NlmUniqueID>0413066</NlmUniqueID>
+        <ISSNLinking>0092-8674</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D007473">Ion Channels</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D009419">Nerve Tissue Proteins</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Cell. 2020 Nov 12;183(4):845-847</RefSource>
+          <PMID Version="1">33186526</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002540" MajorTopicYN="N">Cerebral Cortex</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055724" MajorTopicYN="Y">Electrophysiological Phenomena</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059330" MajorTopicYN="N">GABAergic Neurons</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006624" MajorTopicYN="N">Hippocampus</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007473" MajorTopicYN="N">Ion Channels</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009419" MajorTopicYN="N">Nerve Tissue Proteins</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059467" MajorTopicYN="N">Transcriptome</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">GABAergic interneurons</Keyword>
+        <Keyword MajorTopicYN="Y">Patch-seq</Keyword>
+        <Keyword MajorTopicYN="Y">multimodal</Keyword>
+        <Keyword MajorTopicYN="Y">neuronal cell type</Keyword>
+        <Keyword MajorTopicYN="Y">parvalbumin</Keyword>
+        <Keyword MajorTopicYN="Y">somatostatin</Keyword>
+        <Keyword MajorTopicYN="Y">taxonomy</Keyword>
+        <Keyword MajorTopicYN="Y">transcriptomics</Keyword>
+        <Keyword MajorTopicYN="Y">visual cortex</Keyword>
+      </KeywordList>
+      <CoiStatement>Declaration of Interests The authors declare no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2020</Year>
+          <Month>2</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2020</Year>
+          <Month>7</Month>
+          <Day>6</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>11</Month>
+          <Day>13</Day>
+          <Hour>20</Hour>
+          <Minute>8</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>11</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">33186530</ArticleId>
+        <ArticleId IdType="mid">NIHMS1640606</ArticleId>
+        <ArticleId IdType="pmc">PMC7781065</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.cell.2020.09.057</ArticleId>
+        <ArticleId IdType="pii">S0092-8674(20)31254-X</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Ascoli GA, Alonso-Nanclares L, Anderson SA, Barrionuevo G, Benavides-Piccione R, Burkhalter A, Buzsáki G, Cauli B, Defelipe J, Fairén A, et al. (2008). Petilla terminology: nomenclature of features of GABAergic interneurons of the cerebral cortex. Nat Rev Neurosci
+9, 557–568.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2868386</ArticleId>
+            <ArticleId IdType="pubmed">18568015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Becht E, McInnes L, Healy J, Dutertre CA, Kwok IWH, Ng LG, Ginhoux F, and Newell EW (2018). Dimensionality reduction for visualizing single-cell data using UMAP. Nat Biotechnol
+37, 38–44.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30531897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berger JO, Bernardo JM, and Sun D (2009). The Formal Definition of Reference Priors. The Annals of Statistics
+37, 905–938.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bortone DS, Olsen SR, and Scanziani M (2014). Translaminar inhibitory cells recruited by layer 6 corticothalamic neurons suppress visual cortex. Neuron
+82, 474–485.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4068343</ArticleId>
+            <ArticleId IdType="pubmed">24656931</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bria A, Iannello G, Onofri L, and Peng H (2016). TeraFly: real-time three-dimensional visualization and annotation of terabytes of multidimensional volumetric images. Nat Methods
+13, 192–194.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26914202</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cadwell CR, Palasantza A, Jiang X, Berens P, Deng Q, Yilmaz M, Reimer J, Shen S, Bethge M, Tolias KF, et al. (2016). Electrophysiological, transcriptomic and morphologic profiling of single neurons using Patch-seq. Nat Biotechnol
+34, 199–203.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4840019</ArticleId>
+            <ArticleId IdType="pubmed">26689543</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cembrowski MS, and Spruston N (2019). Heterogeneity within classical cell types is the rule: lessons from hippocampal pyramidal neurons. Nat Rev Neurosci
+20, 193–204.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30778192</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen KH, Boettiger AN, Moffitt JR, Wang S, and Zhuang X (2015). RNA imaging. Spatially resolved, highly multiplexed RNA profiling in single cells. Science
+348, aaa6090.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4662681</ArticleId>
+            <ArticleId IdType="pubmed">25858977</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Codeluppi S, Borm LE, Zeisel A, La MG, van LJA, Svensson CI, and Linnarsson S (2018). Spatial organization of the somatosensory cortex revealed by osmFISH. Nat Methods
+15, 932–935.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30377364</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Coskun AF, and Cai L (2016). Dense transcript profiling in single cells by image correlation decoding. Nat Methods
+13, 657–660.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4965285</ArticleId>
+            <ArticleId IdType="pubmed">27271198</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Costa M, Manton JD, Ostrovsky AD, Prohaska S, and Jefferis GS (2016). NBLAST: Rapid, Sensitive Comparison of Neuronal Structure and Construction of Neuron Family Databases. Neuron
+91, 293–311.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4961245</ArticleId>
+            <ArticleId IdType="pubmed">27373836</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Daigle TL, Madisen L, Hage TA, Valley MT, Knoblich U, Larsen RS, Takeno MM, Huang L, Gu H, Larsen R, et al. (2018) . A Suite of Transgenic Driver and Reporter Mouse Lines with Enhanced Brain-Cell-Type Targeting and Functionality. Cell
+174, 465–480.e22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6086366</ArticleId>
+            <ArticleId IdType="pubmed">30007418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>DeFelipe J, López-Cruz PL, Benavides-Piccione R, Bielza C, Larrañaga P, Anderson S, Burkhalter A, Cauli B, Fairén A, Feldmeyer D, et al. (2013). New insights into the classification and nomenclature of cortical GABAergic interneurons. Nat Rev Neurosci
+14, 202–216.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3619199</ArticleId>
+            <ArticleId IdType="pubmed">23385869</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Deitcher Y, Eyal G, Kanari L, Verhoog MB, Atenekeng KGA, Mansvelder HD, de Koch CPJ, and Segev I (2017). Comprehensive Morpho-Electrotonic Analysis Shows 2 Distinct Classes of L2 and L3 Pyramidal Neurons in Human Temporal Cortex. Cereb Cortex
+27, 5398–5414.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5939232</ArticleId>
+            <ArticleId IdType="pubmed">28968789</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dhillon H, Zigman JM, Ye C, Lee CE, McGovern RA, Tang V, Kenny CD, Christiansen LM, White RD, Edelstein EA, et al. (2006). Leptin directly activates SF1 neurons in the VMH, and this action by leptin is required for normal body-weight homeostasis. Neuron
+49, 191–203.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16423694</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dobin A, Davis CA, Schlesinger F, Drenkow J, Zaleski C, Jha S, Batut P, Chaisson M, and Gingeras TR (2013). STAR: ultrafast universal RNA-seq aligner. Bioinformatics
+29, 15–21.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3530905</ArticleId>
+            <ArticleId IdType="pubmed">23104886</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Egger V, Nevian T, and Bruno RM (2008). Subcolumnar dendritic and axonal organization of spiny stellate and star pyramid neurons within a barrel in rat somatosensory cortex. Cereb Cortex
+18, 876–889.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17656622</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Frandolig JE, Matney CJ, Lee K, Kim J, Chevée M, Kim SJ, Bickert AA, and Brown SP (2019). The Synaptic Organization of Layer 6 Circuits Reveals Inhibition as a Major Output of a Neocortical Sublamina. Cell Rep
+28, 3131–3143.e5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6941480</ArticleId>
+            <ArticleId IdType="pubmed">31533036</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fuzik J, Zeisel A, Máté Z, Calvigioni D, Yanagawa Y, Szabó G, Linnarsson S, and Harkany T (2016). Integration of electrophysiological recordings with single-cell RNA-seq data identifies neuronal subtypes. Nat Biotechnol
+34, 175–183.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4745137</ArticleId>
+            <ArticleId IdType="pubmed">26689544</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Földy C, Darmanis S, Aoto J, Malenka RC, Quake SR, and Südhof TC (2016). Single-cell RNAseq reveals cell adhesion molecule profiles in electrophysiologically defined neurons. Proc Natl Acad Sci U S A
+113, E5222–31.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5024636</ArticleId>
+            <ArticleId IdType="pubmed">27531958</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gerfen CR, Paletzki R, and Heintz N (2013). GENSAT BAC cre-recombinase driver lines to study the functional organization of cerebral cortical and basal ganglia circuits. Neuron
+80, 1368–1383.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3872013</ArticleId>
+            <ArticleId IdType="pubmed">24360541</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gong S, Doughty M, Harbaugh CR, Cummins A, Hatten ME, Heintz N, and Gerfen CR (2007). Targeting Cre recombinase to specific neuron populations with bacterial artificial chromosome constructs. J Neurosci
+27, 9817–9823.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6672645</ArticleId>
+            <ArticleId IdType="pubmed">17855595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gouwens NW, Sorensen SA, Berg J, Lee C, Jarsky T, Ting J, Sunkin SM, Feng D, Anastassiou CA, Barkan E, et al. (2019). Classification of electrophysiological and morphological neuron types in the mouse visual cortex. Nat Neurosci
+22, 1182–1195.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8078853</ArticleId>
+            <ArticleId IdType="pubmed">31209381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grimes WN, Seal RP, Oesch N, Edwards RH, and Diamond JS (2011). Genetic targeting and physiological features of VGLUT3+ amacrine cells. Vis Neurosci
+28, 381–392.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4150031</ArticleId>
+            <ArticleId IdType="pubmed">21864449</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harris JA, Hirokawa KE, Sorensen SA, Gu H, Mills M, Ng LL, Bohn P, Mortrud M, Ouellette B, Kidney J, et al. (2014). Anatomical characterization of Cre driver mice for neural circuit mapping and manipulation. Front Neural Circuits
+8, 76.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4091307</ArticleId>
+            <ArticleId IdType="pubmed">25071457</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harris KD, Hochgerner H, Skene NG, Magno L, Katona L, Bengtsson GC, Somogyi P, Kessaris N, Linnarsson S, and Hjerling-Leffler J (2018). Classes and continua of hippocampal CA1 inhibitory neurons revealed by single-cell transcriptomics. PLoS Biol
+16, e2006387.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6029811</ArticleId>
+            <ArticleId IdType="pubmed">29912866</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>He M, Tucciarone J, Lee S, Nigro MJ, Kim Y, Levine JM, Kelly SM, Krugikov I, Wu P, Chen Y, et al. (2016). Strategies and Tools for Combinatorial Targeting of GABAergic Neurons in Mouse Cerebral Cortex. Neuron
+92, 555.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27764676</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hilscher MM, Leão RN, Edwards SJ, Leão KE, and Kullander K (2017). Chrna2-Martinotti Cells Synchronize Layer 5 Type A Pyramidal Cells via Rebound Excitation.. PLoS Biol
+15, e2001392.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5300109</ArticleId>
+            <ArticleId IdType="pubmed">28182735</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hippenmeyer S, Vrieseling E, Sigrist M, Portmann T, Laengle C, Ladle DR, and Arber S (2005). A developmental switch in the response of DRG neurons to ETS transcription factor signaling. PLoS Biol
+3, e159.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1084331</ArticleId>
+            <ArticleId IdType="pubmed">15836427</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hodge RD, Bakken TE, Miller JA, Smith KA, Barkan ER, Graybuck LT, Close JL, Long B, Johansen N, Penn O, et al. (2019). Conserved cell types with divergent features in human versus mouse cortex. Nature
+573, 61–68.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6919571</ArticleId>
+            <ArticleId IdType="pubmed">31435019</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang ZJ, and Paul A (2019). The diversity of GABAergic neurons and neural communication elements. Nat Rev Neurosci
+20, 563–572.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31222186</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Inan M, and Anderson SA (2014). The chandelier cell, form and function.. Curr Opin Neurobiol
+26, 142–148.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4024324</ArticleId>
+            <ArticleId IdType="pubmed">24556285</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang X, Shen S, Cadwell CR, Berens P, Sinz F, Ecker AS, Patel S, and Tolias AS (2015). Principles of connectivity among morphologically defined cell types in adult neocortex. Science
+350, aac9462–aac9462.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4809866</ArticleId>
+            <ArticleId IdType="pubmed">26612957</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang X, Wang G, Lee AJ, Stornetta RL, and Zhu JJ (2013). The organization of two new cortical interneuronal circuits.. Nat Neurosci
+16, 210–218.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3589105</ArticleId>
+            <ArticleId IdType="pubmed">23313910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kawaguchi Y, and Kubota Y (1996). Physiological and morphological identification of somatostatin- or vasoactive intestinal polypeptide-containing cells among GABAergic cell subtypes in rat frontal cortex. J Neurosci
+16, 2701–2715.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6578756</ArticleId>
+            <ArticleId IdType="pubmed">8786446</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kebschull JM, Garcia da S.P., Reid AP, Peikon ID, Albeanu DF, and Zador AM (2016). High-Throughput Mapping of Single-Neuron Projections by Sequencing of Barcoded RNA. Neuron
+91, 975–987.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6640135</ArticleId>
+            <ArticleId IdType="pubmed">27545715</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim EJ, Zhang Z, Huang L, Ito-Cole T, Jacobs MW, Juavinett AL, Senturk G, Hu M, Ku M, Ecker JR, et al. (2020). Extraction of Distinct Neuronal Cell Types from within a Genetically Continuous Population.. Neuron.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7381365</ArticleId>
+            <ArticleId IdType="pubmed">32396852</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Klausberger T, and Somogyi P (2008). Neuronal diversity and temporal dynamics: the unity of hippocampal circuit operations. Science
+321, 53–57.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4487503</ArticleId>
+            <ArticleId IdType="pubmed">18599766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kohl J, Ostrovsky AD, Frechter S, and Jefferis GS (2013). A bidirectional circuit switch reroutes pheromone signals in male and female brains. Cell
+155, 1610–1623.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3898676</ArticleId>
+            <ArticleId IdType="pubmed">24360281</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kuan L, Li Y, Lau C, Feng D, Bernard A, Sunkin SM, Zeng H, Dang C, Hawrylycz M, and Ng L (2015). Neuroinformatics of the Allen Mouse Brain Connectivity Atlas. Methods
+73, 4–17.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25536338</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lawrence M, Huber W, Pagès H, Aboyoun P, Carlson M, Gentleman R, Morgan MT, and Carey VJ (2013). Software for computing and annotating genomic ranges. PLoS Comput Biol
+9, e1003118.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3738458</ArticleId>
+            <ArticleId IdType="pubmed">23950696</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee JH, Daugharthy ER, Scheiman J, Kalhor R, Yang JL, Ferrante TC, Terry R, Jeanty SS, Li C, Amamoto R, et al. (2014). Highly multiplexed subcellular RNA sequencing in situ. Science
+343, 1360–1363.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4140943</ArticleId>
+            <ArticleId IdType="pubmed">24578530</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ma Y, Hu H, Berrebi AS, Mathers PH, and Agmon A (2006). Distinct subtypes of somatostatin-containing neocortical interneurons revealed in transgenic mice.. J Neurosci
+26, 5069–5082.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2020857</ArticleId>
+            <ArticleId IdType="pubmed">16687498</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Madisen L, Garner AR, Shimaoka D, Chuong AS, Klapoetke NC, Li L, van der B.A., Niino Y, Egolf L, Monetti C, et al. (2015) . Transgenic mice for intersectional targeting of neural sensors and effectors with high specificity and performance. Neuron
+85, 942–958.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4365051</ArticleId>
+            <ArticleId IdType="pubmed">25741722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Madisen L, Zwingman TA, Sunkin SM, Oh SW, Zariwala HA, Gu H, Ng LL, Palmiter RD, Hawrylycz MJ, Jones AR, et al. (2010). A robust and high-throughput Cre reporting and characterization system for the whole mouse brain. Nat Neurosci
+13, 133–140.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2840225</ArticleId>
+            <ArticleId IdType="pubmed">20023653</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Markram H, Muller E, Ramaswamy S, Reimann MW, Abdellah M, Sanchez CA, Ailamaki A, Alonso-Nanclares L, Antille N, Arsever S, et al. (2015). Reconstruction and Simulation of Neocortical Microcircuitry. Cell
+163, 456–492.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26451489</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McGarry LM, Packer AM, Fino E, Nikolenko V, Sippy T, and Yuste R (2010). Quantitative classification of somatostatin-positive neocortical interneurons identifies three interneuron subtypes. Front Neural Circuits
+4, 12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2896209</ArticleId>
+            <ArticleId IdType="pubmed">20617186</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moffitt JR, Bambah-Mukku D, Eichhorn SW, Vaughn E, Shekhar K, Perez JD, Rubinstein ND, Hao J, Regev A, Dulac C, et al. (2018). Molecular, spatial, and functional single-cell profiling of the hypothalamic preoptic region. Science
+362.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6482113</ArticleId>
+            <ArticleId IdType="pubmed">30385464</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muñoz W, Tremblay R, Levenstein D, and Rudy B (2017). Layer-specific modulation of neocortical dendritic inhibition during active wakefulness. Science
+355, 954–959.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28254942</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Naka A, Veit J, Shababo B, Chance RK, Risso D, Stafford D, Snyder B, Egladyous A, Chu D, Sridharan S, et al. (2019). Complementary networks of cortical somatostatin interneurons enforce layer specific control. Elife
+8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6422636</ArticleId>
+            <ArticleId IdType="pubmed">30883329</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neher E (1992). Correction for liquid junction potentials in patch clamp experiments. Methods Enzymol
+207, 123–131.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1528115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nigro MJ, Hashikawa-Yamasaki Y, and Rudy B (2018). Diversity and Connectivity of Layer 5 Somatostatin-Expressing Interneurons in the Mouse Barrel Cortex. J Neurosci
+38, 1622–1633.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5815450</ArticleId>
+            <ArticleId IdType="pubmed">29326172</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Paul A, Crow M, Raudales R, He M, Gillis J, and Huang ZJ (2017). Transcriptional Architecture of Synaptic Communication Delineates GABAergic Neuron Identity. Cell
+171, 522–539.e20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5772785</ArticleId>
+            <ArticleId IdType="pubmed">28942923</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pedregosa F, Varoquaux G, Gramfort A, Michel V, Thirion B, Grisel O, Blondel M, Prettenhofer P, Weiss R, Dubourg V, et al. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research
+12, 2825–2830.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Peng H, Bria A, Zhou Z, Iannello G, and Long F (2014). Extensible visualization and analysis for multidimensional images using Vaa3D. Nat Protoc
+9, 193–208.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24385149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peng H, Ruan Z, Long F, Simpson JH, and Myers EW (2010). V3D enables real-time 3D visualization and quantitative analysis of large-scale biological image data sets. Nat Biotechnol
+28, 348–353.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2857929</ArticleId>
+            <ArticleId IdType="pubmed">20231818</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Peters A, and Kara DA (1985). The neuronal composition of area 17 of rat visual cortex. II. The nonpyramidal cells.. J Comp Neurol
+234, 242–263.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3988984</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poulin JF, Caronia G, Hofer C, Cui Q, Helm B, Ramakrishnan C, Chan CS, Dombeck DA, Deisseroth K, and Awatramani R (2018). Mapping projections of molecularly defined dopamine neuron subtypes using intersectional genetic approaches. Nat Neurosci
+21, 1260–1271.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6342021</ArticleId>
+            <ArticleId IdType="pubmed">30104732</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Prönneke A, Scheuer B, Wagener RJ, Möck M, Witte M, and Staiger JF (2015). Characterizing VIP Neurons in the Barrel Cortex of VIPcre/tdTomato Mice Reveals Layer-Specific Differences. Cereb Cortex
+25, 4854–4868.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4635925</ArticleId>
+            <ArticleId IdType="pubmed">26420784</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Que L, Lukacsovich D, and Földy C (2020). Transcriptomic homogeneity and an age-dependent onset of hemoglobin expression characterize morphological PV types. bioRxiv doi: 10.1101/2020.01.21.913103.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/2020.01.21.913103</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roskams J, and Popović Z (2016). Power to the People: Addressing Big Data Challenges in Neuroscience by Creating a New Cadre of Citizen Neuroscientists. Neuron
+92, 658–664.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27810012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rossi J, Balthasar N, Olson D, Scott M, Berglund E, Lee CE, Choi MJ, Lauzon D, Lowell BB, and Elmquist JK (2011). Melanocortin-4 receptors expressed by cholinergic neurons regulate energy balance and glucose homeostasis. Cell Metab
+13, 195–204.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3033043</ArticleId>
+            <ArticleId IdType="pubmed">21284986</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saunders A, Macosko EZ, Wysoker A, Goldman M, Krienen FM, de RH, Bien E, Baum M, Bortolin L, Wang S, et al. (2018). Molecular Diversity and Specializations among the Cells of the Adult Mouse Brain. Cell
+174, 1015–1030.e16.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6447408</ArticleId>
+            <ArticleId IdType="pubmed">30096299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scala F, Kobak D, Bernabucci M, Bernaerts Y, Cadwell CR, Castro JR, Hartmanis L, Jiang X, Laturnus S, Miranda E, et al. (2020) . Phenotypic variation within and across transcriptomic cell types in mouse motor cortex. bioRxiv doi: 10.1101/2020.02.03.929158.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/2020.02.03.929158</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scala F, Kobak D, Shan S, Bernaerts Y, Laturnus S, Cadwell CR, Hartmanis L, Froudarakis E, Castro JR, Tan ZH, et al. (2019). Layer 4 of mouse neocortex differs in cell types and circuit organization between sensory areas. Nat Commun
+10, 4174.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6744474</ArticleId>
+            <ArticleId IdType="pubmed">31519874</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schuman B, Machold RP, Hashikawa Y, Fuzik J, Fishell GJ, and Rudy B (2019). Four Unique Interneuron Populations Reside in Neocortical Layer 1.. J Neurosci
+39, 125–139.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6325270</ArticleId>
+            <ArticleId IdType="pubmed">30413647</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scorcioni R, Polavaram S, and Ascoli GA (2008). L-Measure: a web-accessible tool for the analysis, comparison and search of digital reconstructions of neuronal morphologies. Nat Protoc
+3, 866–876.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4340709</ArticleId>
+            <ArticleId IdType="pubmed">18451794</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shekhar K, Lapan SW, Whitney IE, Tran NM, Macosko EZ, Kowalczyk M, Adiconis X, Levin JZ, Nemesh J, Goldman M, et al. (2016) . Comprehensive Classification of Retinal Bipolar Neurons by Single-Cell Transcriptomics. Cell
+166, 1308–1323.e30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5003425</ArticleId>
+            <ArticleId IdType="pubmed">27565351</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stanley G, Gokce O, Malenka RC, Südhof TC, and Quake SR (2020). Continuous and Discrete Neuron Types of the Adult Murine Striatum.. Neuron
+105, 688–699.e8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31813651</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taniguchi H, He M, Wu P, Kim S, Paik R, Sugino K, Kvitsiani D, Fu Y, Lu J, Lin Y, et al. (2011). A resource of Cre driver lines for genetic targeting of GABAergic neurons in cerebral cortex. Neuron
+71, 995–1013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3779648</ArticleId>
+            <ArticleId IdType="pubmed">21943598</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Taniguchi H, Lu J, and Huang ZJ (2013). The spatial and temporal origin of chandelier cells in mouse neocortex.. Science
+339, 70–74.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4017638</ArticleId>
+            <ArticleId IdType="pubmed">23180771</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tasic B, Menon V, Nguyen TN, Kim TK, Jarsky T, Yao Z, Levi B, Gray LT, Sorensen SA, Dolbeare T, et al. (2016). Adult mouse cortical cell taxonomy revealed by single cell transcriptomics. Nature Neuroscience
+19, 335–346.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4985242</ArticleId>
+            <ArticleId IdType="pubmed">26727548</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tasic B, Yao Z, Graybuck LT, Smith KA, Nguyen TN, Bertagnolli D, Goldy J, Garren E, Economo MN, Viswanathan S, et al. (2018). Shared and distinct transcriptomic cell types across neocortical areas. Nature
+563, 72–78.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6456269</ArticleId>
+            <ArticleId IdType="pubmed">30382198</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tebaykin D, Tripathy SJ, Binnion N, Li B, Gerkin RC, and Pavlidis P (2018) . Modeling sources of interlaboratory variability in electrophysiological properties of mammalian neurons. J Neurophysiol
+119, 1329–1339.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5966732</ArticleId>
+            <ArticleId IdType="pubmed">29357465</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tong Q, Ye CP, Jones JE, Elmquist JK, and Lowell BB (2008). Synaptic release of GABA by AgRP neurons is required for normal regulation of energy balance. Nat Neurosci
+11, 998–1000.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2662585</ArticleId>
+            <ArticleId IdType="pubmed">19160495</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Traag VA, Waltman L, and van Eck NJ (2019). From Louvain to Leiden: guaranteeing well-connected communities.. Sci Rep
+9, 5233.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6435756</ArticleId>
+            <ArticleId IdType="pubmed">30914743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tremblay R, Lee S, and Rudy B (2016). GABAergic Interneurons in the Neocortex: From Cellular Properties to Circuits. Neuron
+91, 260–292.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4980915</ArticleId>
+            <ArticleId IdType="pubmed">27477017</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tripathy SJ, Toker L, Bomkamp C, Mancarci BO, Belmadani M, and Pavlidis P (2018). Assessing Transcriptome Quality in Patch-Seq Datasets. Front Mol Neurosci
+11, 363.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6187980</ArticleId>
+            <ArticleId IdType="pubmed">30349457</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vong L, Ye C, Yang Z, Choi B, Chua SJ, and Lowell BB (2011). Leptin action on GABAergic neurons prevents obesity and reduces inhibitory tone to POMC neurons. Neuron
+71, 142–154.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3134797</ArticleId>
+            <ArticleId IdType="pubmed">21745644</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Q, Ding SL, Li Y, Royall J, Feng D, Lesnar P, Graddis N, Naeemi M, Facer B, Ho A, et al. (2020). The Allen Mouse Brain Common Coordinate Framework: A 3D Reference Atlas. Cell
+181, 936–953.e20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8152789</ArticleId>
+            <ArticleId IdType="pubmed">32386544</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang Y, Toledo-Rodriguez M, Gupta A, Wu C, Silberberg G, Luo J, and Markram H (2004). Anatomical, physiological and molecular properties of Martinotti cells in the somatosensory cortex of the juvenile rat. J Physiol
+561, 65–90.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1665344</ArticleId>
+            <ArticleId IdType="pubmed">15331670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Woodruff A, and Yuste R (2008). Of mice and men, and chandeliers.. PLoS Biol
+6, e243.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2553849</ArticleId>
+            <ArticleId IdType="pubmed">18816168</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yao Z, Nguyen TN, Velthoven C.T.J. van, Goldy J, Sedeno-Cortes AE, Baftizadeh F, Bertagnolli D, Casper T, Crichton K, Ding S-L, et al. (2020). A taxonomy of transcriptomic cell types across the isocortex and hippocampal formation. bioRxiv doi: 10.1101/2020.03.30.015214.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/2020.03.30.015214</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zeisel A, Hochgerner H, Lönnerberg P, Johnsson A, Memic F, Zwan J. van der, Häring M, Braun E, Borm LE, Manno GL, et al. (2018). Molecular Architecture of the Mouse Nervous System. Cell
+174, 999–1014.e22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6086934</ArticleId>
+            <ArticleId IdType="pubmed">30096314</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zeisel A, Munoz-Manchado AB, Codeluppi S, Lonnerberg P, Manno GL, Jureus A, Marques S, Munguba H, He L, Betsholtz C, et al. (2015). Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq. Science
+347, 1138–1142.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25700174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zeng H, and Sanes JR (2017) . Neuronal cell-type classification: challenges, opportunities and the path forward. Nat Rev Neurosci
+18, 530–546.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28775344</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang M, Eichhorn SW, Zingg B, Yao Z, Zeng H, Dong H, and Zhuang X (2020). Molecular spatial and projection diversity of neurons in primary motor cortex revealed by in situ single-cell transcriptomics. bioRxiv doi: 10.1101/2020.06.04.105700.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/2020.06.04.105700</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou X, Mansori I, Fischer T, Witte M, and Staiger JF (2020). Characterizing the morphology of somatostatin-expressing interneurons and their synaptic innervation pattern in the barrel cortex of the GFP-expressing inhibitory neurons mouse. J Comp Neurol
+528, 244–260.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31407339</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou Z, Liu X, Long B, and Peng H (2016). TReMAP: Automatic 3D Neuron Reconstruction Based on Tracing, Reverse Mapping and Assembling of 2D Projections. Neuroinformatics
+14, 41–50.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26306866</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

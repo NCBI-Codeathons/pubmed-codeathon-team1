@@ -1,0 +1,224 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">34301476</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>19</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1476-5411</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>45</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Contact lens &amp; anterior eye : the journal of the British Contact Lens Association</Title>
+          <ISOAbbreviation>Cont Lens Anterior Eye</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Machine learning algorithm improves accuracy of ortho-K lens fitting in vision shaping treatment.</ArticleTitle>
+        <Pagination>
+          <StartPage>101474</StartPage>
+          <MedlinePgn>101474</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.clae.2021.101474</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S1367-0484(21)00096-5</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To construct a machine learning (ML)-based model for estimating the alignment curve (AC) curvature in orthokeratology lens fitting for vision shaping treatment (VST), which can minimize the number of lens trials, improving efficiency while maintaining accuracy, with regards to its improvement over a previous calculation method.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Data were retrospectively collected from the clinical case files of 1271 myopic subjects (1271 right eyes). The AC curvatures calculated with a previously published algorithm were used as the target data sets. Four kinds of machine learning algorithms were implemented in the experimental analyses to predict the targeted AC curvatures: robust linear regression models, support vector machine (SVM) regression models with linear kernel functions, bagging decision trees, and Gaussian processes. The previously published calculation method and the novel machine learning method were then compared to assess the final parameters of ordered lenses.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The linear SVM and Gaussian process machine learning models achieved the best performance. The input variables included sex, age, horizontal visible iris diameter (HVID), spherical refraction (SER), cylindrical refraction, eccentricity value (e value), flat K (K1) and steep K (K2) readings, anterior chamber depth (ACD), and axial length (AL). The R-squared values for the output AC1K1, AC1K2 and AC2K1 values were 0.91, 0.84, and 0.73, respectively. The previous calculation method and machine learning methods displayed excellent consistency, and the proposed methods performed best based on flat K reading and e values.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The ML model can provide practitioners with an efficient method for estimating the AC curvatures of VST lenses and reducing the probability of cross-infection originating from trial lenses, which is especially useful during pandemics, such as that for COVID-19.</AbstractText>
+          <CopyrightInformation>Copyright © 2021 British Contact Lens Association. Published by Elsevier Ltd. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Fan</LastName>
+            <ForeName>Yuzhuo</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Ophthalmology &amp; Clinical Center of Optometry, Peking University People's Hospital, Beijing 100044, China; College of Optometry, Peking University Health Science Center, Beijing, China; Eye Disease and Optometry Institute, Peking University People's Hospital, China; Beijing Key Laboratory of Diagnosis and Therapy of Retinal and Choroid Diseases, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yu</LastName>
+            <ForeName>Zekuan</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Academy for Engineering &amp; Technology, Fudan University, Shanghai 200433, China; Center for Shanghai Intelligent Imaging for Critical Brain Diseases Engineering &amp; Technology Research, Huashan Hospital, Fudan University, Shanghai 200040, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tang</LastName>
+            <ForeName>Tao</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Ophthalmology &amp; Clinical Center of Optometry, Peking University People's Hospital, Beijing 100044, China; College of Optometry, Peking University Health Science Center, Beijing, China; Eye Disease and Optometry Institute, Peking University People's Hospital, China; Beijing Key Laboratory of Diagnosis and Therapy of Retinal and Choroid Diseases, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Xiao</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Academy for Engineering &amp; Technology, Fudan University, Shanghai 200433, China; Center for Shanghai Intelligent Imaging for Critical Brain Diseases Engineering &amp; Technology Research, Huashan Hospital, Fudan University, Shanghai 200040, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Qiong</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Ophthalmology &amp; Clinical Center of Optometry, Peking University People's Hospital, Beijing 100044, China; College of Optometry, Peking University Health Science Center, Beijing, China; Eye Disease and Optometry Institute, Peking University People's Hospital, China; Beijing Key Laboratory of Diagnosis and Therapy of Retinal and Choroid Diseases, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Peng</LastName>
+            <ForeName>Zisu</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Ophthalmology &amp; Clinical Center of Optometry, Peking University People's Hospital, Beijing 100044, China; College of Optometry, Peking University Health Science Center, Beijing, China; Eye Disease and Optometry Institute, Peking University People's Hospital, China; Beijing Key Laboratory of Diagnosis and Therapy of Retinal and Choroid Diseases, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Yan</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Ophthalmology &amp; Clinical Center of Optometry, Peking University People's Hospital, Beijing 100044, China; College of Optometry, Peking University Health Science Center, Beijing, China; Eye Disease and Optometry Institute, Peking University People's Hospital, China; Beijing Key Laboratory of Diagnosis and Therapy of Retinal and Choroid Diseases, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Kai</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Ophthalmology &amp; Clinical Center of Optometry, Peking University People's Hospital, Beijing 100044, China; College of Optometry, Peking University Health Science Center, Beijing, China; Eye Disease and Optometry Institute, Peking University People's Hospital, China; Beijing Key Laboratory of Diagnosis and Therapy of Retinal and Choroid Diseases, China. Electronic address: wang_kai@263.net.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Qu</LastName>
+            <ForeName>Jia</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>College of Optometry, Peking University Health Science Center, Beijing, China; School of Ophthalmology and Optometry, Eye Hospital, Wenzhou Medical University, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Mingwei</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Ophthalmology &amp; Clinical Center of Optometry, Peking University People's Hospital, Beijing 100044, China; College of Optometry, Peking University Health Science Center, Beijing, China; Eye Disease and Optometry Institute, Peking University People's Hospital, China; Beijing Key Laboratory of Diagnosis and Therapy of Retinal and Choroid Diseases, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>07</Month>
+          <Day>21</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Cont Lens Anterior Eye</MedlineTA>
+        <NlmUniqueID>9712714</NlmUniqueID>
+        <ISSNLinking>1367-0484</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086382" MajorTopicYN="Y">COVID-19</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003261" MajorTopicYN="Y">Contact Lenses</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019781" MajorTopicYN="N">Corneal Topography</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000069550" MajorTopicYN="N">Machine Learning</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012029" MajorTopicYN="N">Refraction, Ocular</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Machine learning</Keyword>
+        <Keyword MajorTopicYN="N">Myopia</Keyword>
+        <Keyword MajorTopicYN="N">Orthokeratology</Keyword>
+        <Keyword MajorTopicYN="N">Rigid contact lens</Keyword>
+        <Keyword MajorTopicYN="N">Vision shaping treatment (VST)</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>2</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>6</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>25</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>7</Month>
+          <Day>24</Day>
+          <Hour>5</Hour>
+          <Minute>34</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34301476</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.clae.2021.101474</ArticleId>
+        <ArticleId IdType="pii">S1367-0484(21)00096-5</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

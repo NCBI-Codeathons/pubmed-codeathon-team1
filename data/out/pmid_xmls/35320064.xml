@@ -1,0 +1,565 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35320064</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>13</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2222-1751</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>11</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Emerging microbes &amp; infections</Title>
+          <ISOAbbreviation>Emerg Microbes Infect</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Peptide microarrays coupled to machine learning reveal individual epitopes from human antibody responses with neutralizing capabilities against SARS-CoV-2.</ArticleTitle>
+        <Pagination>
+          <StartPage>1037</StartPage>
+          <EndPage>1048</EndPage>
+          <MedlinePgn>1037-1048</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1080/22221751.2022.2057874</ELocationID>
+        <Abstract>
+          <AbstractText>The coronavirus SARS-CoV-2 is the causative agent for the disease COVID-19. To capture the IgA, IgG, and IgM antibody response of patients infected with SARS-CoV-2 at individual epitope resolution, we constructed planar microarrays of 648 overlapping peptides that cover the four major structural proteins S(pike), N(ucleocapsid), M(embrane), and E(nvelope). The arrays were incubated with sera of 67 SARS-CoV-2 positive and 22 negative control samples. Specific responses to SARS-CoV-2 were detectable, and nine peptides were associated with a more severe course of the disease. A random forest model disclosed that antibody binding to 21 peptides, mostly localized in the S protein, was associated with higher neutralization values in cellular anti-SARS-CoV-2 assays. For antibodies addressing the N-terminus of M, or peptides close to the fusion region of S, protective effects were proven by antibody depletion and neutralization assays. The study pinpoints unusual viral binding epitopes that might be suited as vaccine candidates<b>.</b></AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Hotop</LastName>
+            <ForeName>Sven-Kevin</ForeName>
+            <Initials>SK</Initials>
+            <AffiliationInfo>
+              <Affiliation>Helmholtz Centre for Infection Research, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Reimering</LastName>
+            <ForeName>Susanne</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Helmholtz Centre for Infection Research, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Braunschweig Integrated Centre of Systems Biology (BRICS), Technische Universität Braunschweig, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shekhar</LastName>
+            <ForeName>Aditya</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Helmholtz Centre for Infection Research, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Asgari</LastName>
+            <ForeName>Ehsaneddin</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Helmholtz Centre for Infection Research, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Braunschweig Integrated Centre of Systems Biology (BRICS), Technische Universität Braunschweig, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Partner Site Hannover-Braunschweig, German Centre for Infection Research (DZIF), Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Beutling</LastName>
+            <ForeName>Ulrike</ForeName>
+            <Initials>U</Initials>
+            <AffiliationInfo>
+              <Affiliation>Helmholtz Centre for Infection Research, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dahlke</LastName>
+            <ForeName>Christine</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0002-2056-9195</Identifier>
+            <AffiliationInfo>
+              <Affiliation>University Medical Centre Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Bernhard Nocht Institute for Tropical Medicine, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Partner Site Hamburg-Lübeck-Borstel-Riems, German Centre for Infection Research, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Fathi</LastName>
+            <ForeName>Anahita</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>University Medical Centre Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Bernhard Nocht Institute for Tropical Medicine, Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Partner Site Hamburg-Lübeck-Borstel-Riems, German Centre for Infection Research, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Khan</LastName>
+            <ForeName>Fawad</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Helmholtz Centre for Infection Research, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lütgehetmann</LastName>
+            <ForeName>Marc</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Partner Site Hamburg-Lübeck-Borstel-Riems, German Centre for Infection Research, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Center for Diagnostics, Institute of Medical Microbiology, Virology and Hygiene, University Medical Center Hamburg-Eppendorf (UKE), Hamburg, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Ballmann</LastName>
+            <ForeName>Rico</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institut für Biochemie, Biotechnologie du Bioinformatik, Abteilung Biotechnologie, Technische Universität Braunschweig, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gerstner</LastName>
+            <ForeName>Andreas</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Klinikum Braunschweig, Hals-, Nasen-, Ohrenklinik, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tegge</LastName>
+            <ForeName>Werner</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Helmholtz Centre for Infection Research, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cicin-Sain</LastName>
+            <ForeName>Luka</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Helmholtz Centre for Infection Research, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Partner Site Hannover-Braunschweig, German Centre for Infection Research (DZIF), Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bilitewski</LastName>
+            <ForeName>Ursula</ForeName>
+            <Initials>U</Initials>
+            <AffiliationInfo>
+              <Affiliation>Helmholtz Centre for Infection Research, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>McHardy</LastName>
+            <ForeName>Alice C</ForeName>
+            <Initials>AC</Initials>
+            <AffiliationInfo>
+              <Affiliation>Helmholtz Centre for Infection Research, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Braunschweig Integrated Centre of Systems Biology (BRICS), Technische Universität Braunschweig, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Partner Site Hannover-Braunschweig, German Centre for Infection Research (DZIF), Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brönstrup</LastName>
+            <ForeName>Mark</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Helmholtz Centre for Infection Research, Braunschweig, Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Partner Site Hannover-Braunschweig, German Centre for Infection Research (DZIF), Germany.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Biomolecular Drug Research Center (BMWZ), Hannover, Germany.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Emerg Microbes Infect</MedlineTA>
+        <NlmUniqueID>101594885</NlmUniqueID>
+        <ISSNLinking>2222-1751</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D057134">Antibodies, Neutralizing</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000914">Antibodies, Viral</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000939">Epitopes</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D010455">Peptides</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D064370">Spike Glycoprotein, Coronavirus</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C000657845">spike protein, SARS-CoV-2</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D057134" MajorTopicYN="N">Antibodies, Neutralizing</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000914" MajorTopicYN="N">Antibodies, Viral</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000917" MajorTopicYN="N">Antibody Formation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086382" MajorTopicYN="Y">COVID-19</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000939" MajorTopicYN="N">Epitopes</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000069550" MajorTopicYN="N">Machine Learning</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010455" MajorTopicYN="N">Peptides</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086402" MajorTopicYN="Y">SARS-CoV-2</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D064370" MajorTopicYN="N">Spike Glycoprotein, Coronavirus</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">COVID-19</Keyword>
+        <Keyword MajorTopicYN="N">SARS CoV-2</Keyword>
+        <Keyword MajorTopicYN="N">immunoassays</Keyword>
+        <Keyword MajorTopicYN="N">machine learning</Keyword>
+        <Keyword MajorTopicYN="N">neutralizing antibodies</Keyword>
+        <Keyword MajorTopicYN="N">peptide arrays</Keyword>
+        <Keyword MajorTopicYN="N">serology</Keyword>
+      </KeywordList>
+      <CoiStatement>No potential conflict of interest was reported by the author(s).</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>23</Day>
+          <Hour>17</Hour>
+          <Minute>14</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35320064</ArticleId>
+        <ArticleId IdType="pmc">PMC9009950</ArticleId>
+        <ArticleId IdType="doi">10.1080/22221751.2022.2057874</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Deeks JJ, Dinnes J, Takwoingi Y, et al. . 
+Antibody tests for identification of current and past infection with SARS-CoV-2. Cochrane Database Syst Rev. 2020;6:CD013652.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7387103</ArticleId>
+            <ArticleId IdType="pubmed">32584464</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kontou PI, Braliou GG, Dimou NL, et al. . 
+Antibody tests in detecting SARS-CoV-2 infection: a meta-analysis. Diagnostics (Basel). 2020;10(5):319.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7278002</ArticleId>
+            <ArticleId IdType="pubmed">32438677</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hotop SK, Abd El Wahed A, Beutling U.et al. . 
+Serological analysis of Herpes B virus at individual epitope resolution: from two-dimensional peptide arrays to multiplex bead flow assays. Anal Chem. 2019;91(17):11030–11037.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31365232</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heiss K, Heidepriem J, Fischer N, et al. . 
+Rapid response to pandemic threats: immunogenic epitope detection of pandemic pathogens for diagnostics and vaccine development using peptide microarrays. J Proteome Res. 2020;19(11):4339–4354.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7640972</ArticleId>
+            <ArticleId IdType="pubmed">32892628</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Szymczak LC, Kuo HY, Mrksich M.. 
+Peptide arrays: development and application. Anal Chem. 2018;90(1):266–282.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6526727</ArticleId>
+            <ArticleId IdType="pubmed">29135227</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang HW, Li Y, Zhang HN, et al. . 
+SARS-CoV-2 proteome microarray for global profiling of COVID-19 specific IgG and IgM responses. Nat Commun. 2020;11(1):3581.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7360742</ArticleId>
+            <ArticleId IdType="pubmed">32665645</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang H, Wu X, Zhang X, et al. . 
+SARS-CoV-2 proteome microarray for mapping COVID-19 antibody interactions at amino acid resolution. ACS Cent Sci. 2020;6(12):2238–2249.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7586461</ArticleId>
+            <ArticleId IdType="pubmed">33372199</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoshida S, Ono C, Hayashi H, et al. . 
+SARS-CoV-2-induced humoral immunity through B cell epitope analysis in COVID-19 infected individuals. Sci Rep. 2021;11(1):5934.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7960719</ArticleId>
+            <ArticleId IdType="pubmed">33723294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heidepriem J, Dahlke C, Kobbe R, et al. . 
+Longitudinal development of antibody responses in COVID-19 patients of different severity with ELISA, peptide, and glycan arrays: an immunological case series. Pathogens. 2021;10(4):438.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8067489</ArticleId>
+            <ArticleId IdType="pubmed">33917609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ladner JT, Henson SN, Boyle AS, et al. . 
+Epitope-resolved profiling of the SARS-CoV-2 antibody response identifies cross-reactivity with endemic human coronaviruses. Cell Rep Med. 2021;2(1):100189.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7816965</ArticleId>
+            <ArticleId IdType="pubmed">33495758</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mishra N, Huang X, Joshi S, et al. . 
+Immunoreactive peptide maps of SARS-CoV-2. Commun Biol. 2021;4(1):225.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7881038</ArticleId>
+            <ArticleId IdType="pubmed">33580175</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Holenya P, Lange PJ, Reimer U, et al. . 
+Peptide microarray-based analysis of antibody responses to SARS-CoV-2 identifies unique epitopes with potential for diagnostic test development. Eur J Immunol. 2021;51(7):1839–1849.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8250065</ArticleId>
+            <ArticleId IdType="pubmed">33772767</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poh CM, Carissimo G, Wang B, et al. . 
+Two linear epitopes on the SARS-CoV-2 spike protein that elicit neutralising antibodies in COVID-19 patients. Nat Commun. 2020;11(1):2806.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7264175</ArticleId>
+            <ArticleId IdType="pubmed">32483236</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li Y, Lai DY, Zhang HN, et al. . 
+Linear epitopes of SARS-CoV-2 spike protein elicit neutralizing antibodies in COVID-19 patients. Cell Mol Immunol. 2020;17(10):1095–1097.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7475724</ArticleId>
+            <ArticleId IdType="pubmed">32895485</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heffron AS, McIlwain SJ, Amjadi MF, et al. . 
+The landscape of antibody binding in SARS-CoV-2 infection. PLoS Biol. 2021;19(6):e3001265.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8245122</ArticleId>
+            <ArticleId IdType="pubmed">34143766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schwarz T, Heiss K, Mahendran Y, et al. . 
+SARS-CoV-2 proteome-wide analysis revealed significant epitope signatures in COVID-19 patients. Front Immunol. 2021;12:629185.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8021850</ArticleId>
+            <ArticleId IdType="pubmed">33833755</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Frank R.
+Spot-synthesis: an easy technique for the positionally addressable, parallel chemical synthesis on a membrane support. Tetrahedron. 1992;48(42):9217–9232.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dikmans AB U, Schmeisser E, Thiele S, et al. . 
+SC2: a novel process for manufacturing multipurpose high-density chemical microarrays. QSAR Comb Sci. 2006;25(11):1069–1080.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wang TT, Lien CZ, Liu S, et al.  Effective Heat Inactivation of SARS-CoV-2. medRxiv. 2020:2020.04.29.20085498.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Pettersen EF, Goddard TD, Huang CC, et al. . 
+UCSF chimera–a visualization system for exploratory research and analysis. J Comput Chem. 2004;25(13):1605–1612.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15264254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grifoni A, Weiskopf D, Ramirez SI, et al. . 
+Targets of T cell responses to SARS-CoV-2 coronavirus in humans with COVID-19 disease and unexposed individuals. Cell. 2020;181(7):1489–1501. e15.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7237901</ArticleId>
+            <ArticleId IdType="pubmed">32473127</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lopandic Z, Protic-Rosic I, Todorovic A, et al. . 
+IgM and IgG immunoreactivity of SARS-CoV-2 recombinant M protein. Int J Mol Sci. 2021;22(9):4951.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8125631</ArticleId>
+            <ArticleId IdType="pubmed">34066920</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Postler TS, Martinez-Navio JM, Yuste E, et al. . 
+Evidence against extracellular exposure of a highly immunogenic region in the C-terminal domain of the simian immunodeficiency virus gp41 transmembrane protein. J Virol. 2012;86(2):1145–1157.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3255797</ArticleId>
+            <ArticleId IdType="pubmed">22072749</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jespersen MC, Peters B, Nielsen M, et al. . 
+BepiPred-2.0: improving sequence-based B-cell epitope prediction using conformational epitopes. Nucleic Acids Res. 2017;45(W1):W24–W29.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5570230</ArticleId>
+            <ArticleId IdType="pubmed">28472356</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao P, Praissman JL, Grant OC, et al. . 
+Virus-receptor interactions of glycosylated SARS-CoV-2 spike and human ACE2 receptor. Cell Host Microbe. 2020;28(4):586–601 e6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7443692</ArticleId>
+            <ArticleId IdType="pubmed">32841605</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roltgen K, Boyd SD.. 
+Antibody and B cell responses to SARS-CoV-2 infection and vaccination. Cell Host Microbe. 2021;29(7):1063–1075.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8233571</ArticleId>
+            <ArticleId IdType="pubmed">34174992</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marot S, Malet I, Leducq V, et al. . 
+Rapid decline of neutralizing antibodies against SARS-CoV-2 among infected healthcare workers. Nat Commun. 2021;12(1):844.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7870823</ArticleId>
+            <ArticleId IdType="pubmed">33558507</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arbour N, Cote G, Lachance C, et al. . 
+Acute and persistent infection of human neural cell lines by human coronavirus OC43. J Virol. 1999;73(4):3338–3350.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC104098</ArticleId>
+            <ArticleId IdType="pubmed">10074188</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vibholm LK, Nielsen SSF, Pahus MH, et al. . 
+SARS-CoV-2 persistence is associated with antigen-specific CD8 T-cell responses. EBioMedicine. 2021;64:103230.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7847186</ArticleId>
+            <ArticleId IdType="pubmed">33530000</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Becker M, Strengert M, Junker D, et al. . 
+Exploring beyond clinical routine SARS-CoV-2 serology using MultiCoV-Ab to evaluate endemic coronavirus cross-reactivity. Nat Commun. 2021;12(1):1152.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7896075</ArticleId>
+            <ArticleId IdType="pubmed">33608538</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cook N, Xu L, Hegazy S, et al. . 
+Multiplex assessment of SARS-CoV-2 antibodies improves assay sensitivity and correlation with neutralizing antibodies. Clin Biochem. 2021;97:54–61.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8387133</ArticleId>
+            <ArticleId IdType="pubmed">34453893</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harvey WT, Carabelli AM, Jackson B, et al. . 
+SARS-CoV-2 variants, spike mutations and immune escape. Nat Rev Microbiol. 2021;19(7):409–424.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8167834</ArticleId>
+            <ArticleId IdType="pubmed">34075212</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,1202 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">35172670</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>07</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>07</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1525-6049</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>44</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Renal failure</Title>
+          <ISOAbbreviation>Ren Fail</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Identification of differentially expressed genes and pathways in kidney of ANCA-associated vasculitis by integrated bioinformatics analysis.</ArticleTitle>
+        <Pagination>
+          <StartPage>204</StartPage>
+          <EndPage>216</EndPage>
+          <MedlinePgn>204-216</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1080/0886022X.2022.2030755</ELocationID>
+        <Abstract>
+          <AbstractText>The antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV) is a systematic of relatively rare autoimmune diseases with unknown cause. Kidney involvement is one of the most common clinical manifestations, and the degree of renal damage is closely associated with the development and prognosis of AAV. In this study, we utilized the Robust Rank Aggreg (RRA) method in R to integrate GSE104948, GSE104954, GSE108109, GSE108112, and GSE108113 profile datasets loaded from Gene Expression Omnibus (GEO) database and identified a set of differentially expressed genes (DEGs) in kidney between AAV patients and living donors. Then, the results of gene ontology (GO) functional annotation showed that immunity and metabolism involved process of AAV both in glomerulus and tubulointerstitial. The Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analysis revealed that following pathways, such as complement and coagulation cascades pathway; <i>Staphylococcus aureus</i> infection; disease-COVID-19; and systemic lupus erythematosus (SLE) pathway play a crucial role in AAV. Next, the results analyzed by protein-protein interaction (PPI) network and Cytoscape software exhibited the hub genes ALB, TYROBP, and CYBB existed in both glomerular and tubulointerstitial compartments datasets. Finally, KEGG analysis using genes of two most important modules also further validated complement and coagulation cascades pathway and <i>S. aureus</i> infection existed both in glomerulus and tubulointerstitial compartments datasets. In conclusion, this study identified key genes and pathways involved in kidney of AAV, which was benefit to further uncover the mechanisms underlying the development and progress of AAV, biomarkers, and potential therapeutic targets as well.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Deng</LastName>
+            <ForeName>Xu</ForeName>
+            <Initials>X</Initials>
+            <Identifier Source="ORCID">0000-0001-5360-8974</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Nephrology, Children's Hospital of Nanjing Medical University, Nanjing, P. R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gao</LastName>
+            <ForeName>Junying</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Human Anantomy, Nanjing Medical University, Nanjing, P. R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Fei</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Nephrology, Children's Hospital of Nanjing Medical University, Nanjing, P. R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Ren Fail</MedlineTA>
+        <NlmUniqueID>8701128</NlmUniqueID>
+        <ISSNLinking>0886-022X</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D056648" MajorTopicYN="N">Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015972" MajorTopicYN="Y">Gene Expression Regulation, Neoplastic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D053263" MajorTopicYN="N">Gene Regulatory Networks</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D060066" MajorTopicYN="N">Protein Interaction Maps</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012984" MajorTopicYN="N">Software</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Antineutrophil cytoplasmic antibody-associated vasculitis</Keyword>
+        <Keyword MajorTopicYN="N">Gene Expression Omnibus database</Keyword>
+        <Keyword MajorTopicYN="N">differentially expressed genes</Keyword>
+        <Keyword MajorTopicYN="N">integrated bioinformatics analysis</Keyword>
+        <Keyword MajorTopicYN="N">kidney</Keyword>
+      </KeywordList>
+      <CoiStatement>No potential conflict of interest was reported by the author(s)</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>17</Day>
+          <Hour>5</Hour>
+          <Minute>28</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35172670</ArticleId>
+        <ArticleId IdType="pmc">PMC8856091</ArticleId>
+        <ArticleId IdType="doi">10.1080/0886022X.2022.2030755</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Furuta S, Jayne DR.. 
+Antineutrophil cytoplasm antibody-associated vasculitis: recent developments. Kidney Int. 2013;84(2):244–249.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23423257</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cornec D, Cornec-Le Gall E, Fervenza FC, et al. . 
+ANCA-associated vasculitis - clinical utility of using ANCA specificity to classify patients. Nat Rev Rheumatol. 2016;12(10):570–579.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27464484</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Falk RJ, Jennette JC.. 
+Anti-neutrophil cytoplasmic autoantibodies with specificity for myeloperoxidase in patients with systemic vasculitis and idiopathic necrotizing and crescentic glomerulonephritis. N Engl J Med. 1988;318(25):1651–1657.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2453802</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen M, Yu F, Zhang Y, et al. . 
+Characteristics of chinese patients with wegener's granulomatosis with anti-myeloperoxidase autoantibodies. Kidney Int. 2005;68(5):2225–2229.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16221222</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mohammad AJ, Jacobsson LT, Mahr AD, et al. . 
+Prevalence of wegener's granulomatosis, microscopic polyangiitis, polyarteritis nodosa and Churg-Strauss syndrome within a defined population in Southern Sweden. Rheumatology. 2007;46(8):1329–1337.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17553910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Watts RA, Mahr A, Mohammad AJ, et al. . 
+Classification, epidemiology and clinical subgrouping of antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis. Nephrol Dial Transplant. 2015;30 Suppl 1:i14–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25805746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berti A, Cornec D, Crowson CS, et al. . 
+The epidemiology of antineutrophil cytoplasmic autoantibody-associated vasculitis in Olmsted county, Minnesota: a twenty-year US population-based study. Arthritis Rheumatol. 2017;69(12):2338–2350.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5711593</ArticleId>
+            <ArticleId IdType="pubmed">28881446</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li J, Cui Z, Long JY, et al. . 
+The frequency of ANCA-associated vasculitis in a national database of hospitalized patients in China. Arthritis Res Ther. 2018;20(1):226.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6235226</ArticleId>
+            <ArticleId IdType="pubmed">30286799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ormerod AS, Cook MC.. 
+Epidemiology of primary systemic vasculitis in the Australian Capital Territory and South-Eastern New South Wales. Intern Med J. 2008;38(11):816–823.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18771432</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reinhold-Keller E, Zeidler A, Gutfleisch J, et al. . 
+Giant cell arteritis is more prevalent in urban than in rural populations: results of an epidemiological study of primary systemic vasculitides in Germany. Rheumatology. 2000;39(12):1396–1402.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11136884</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kobayashi S, Fujimoto S.. 
+Epidemiology of vasculitides: differences between Japan, Europe and North America. Clin Exp Nephrol. 2013;17(5):611–614.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3824199</ArticleId>
+            <ArticleId IdType="pubmed">23715862</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Knight A, Ekbom A, Brandt L, et al. . 
+Increasing incidence of Wegener's granulomatosis in Sweden, 1975-2001. J Rheumatol. 2006;33(10):2060–2063.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16960922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pearce FA, Lanyon PC, Grainge MJ, et al. . 
+Incidence of ANCA-associated vasculitis in a UK mixed ethnicity population. Rheumatology. 2016;55(9):1656–1663.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27274096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mohammad AJ.
+An update on the epidemiology of ANCA-associated vasculitis. Rheumatology. 2020;59(Suppl 3):iii42–iii50.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32348522</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shi L.
+Anti-neutrophil cytoplasmic antibody-associated vasculitis: prevalence, treatment, and outcomes. Rheumatol Int. 2017;37(11):1779–1788.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28956128</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Robson J, Doll H, Suppiah R, et al. . 
+Damage in the anca-associated vasculitides: long-term data from the European Vasculitis study group (EUVAS) therapeutic trials. Ann Rheum Dis. 2015;74(1):177–184.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24243925</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cohen CD, Frach K, Schlondorff D, et al. . 
+Quantitative gene expression analysis in renal biopsies: a novel protocol for a high-throughput multicenter application. Kidney Int. 2002;61(1):133–140.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11786093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grayson PC, Eddy S, Taroni JN, et al. . 
+Metabolic pathways and immunometabolism in rare kidney diseases. Ann Rheum Dis. 2018;77(8):1266–1233.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6045442</ArticleId>
+            <ArticleId IdType="pubmed">29724730</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu G, Wang LG, Han Y, et al. . 
+clusterProfiler: an R package for comparing biological themes among gene clusters. OMICS. 2012;16(5):284–287.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3339379</ArticleId>
+            <ArticleId IdType="pubmed">22455463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Szklarczyk D, Gable AL, Nastou KC, et al. . 
+The STRING database in 2021: customizable protein-protein networks, and functional characterization of user-uploaded gene/measurement sets. Nucleic Acids Res. 2021;49(D1):D605–D612.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7779004</ArticleId>
+            <ArticleId IdType="pubmed">33237311</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shannon P, Markiel A, Ozier O, et al. . 
+Cytoscape: a software environment for integrated models of biomolecular interaction networks. Genome Res. 2003;13(11):2498–2504.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC403769</ArticleId>
+            <ArticleId IdType="pubmed">14597658</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+ANCA-associated vasculitis. Nat Rev Dis Primers. 2020;6(1):72.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32855427</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Watts RA, Lane SE, Bentham G, et al. . 
+Epidemiology of systemic vasculitis: a ten-year study in the United Kingdom. Arthritis Rheum. 2000;43(2):414–419.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10693883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen YX, Chen N.. 
+Pathogenesis of rapidly progressive glomerulonephritis: what do we learn?
+Contrib Nephrol. 2013;181:207–215.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23689582</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen YX, Yu HJ, Zhang W, et al. . 
+Analyzing fatal cases of chinese patients with primary antineutrophil cytoplasmic antibodies-associated renal vasculitis: a 10-year retrospective study. Kidney Blood Press Res. 2008;31(5):343–349.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18946225</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jariwala M, Laxer RM.. 
+Childhood GPA, EGPA, and MPA. Clin Immunol. 2020;211:108325.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31837445</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Booth AD, Almond MK, Burns A, et al. . 
+Outcome of ANCA-associated renal vasculitis: a 5-year retrospective study. Am J Kidney Dis. 2003;41(4):776–784.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12666064</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen YX, Zhang W, Chen XN, et al. . 
+Clinical analysis of ANCA-associated renal vasculitis patients with chronic dialysis. Clin Exp Rheumatol. 2014;32(3 Suppl 82):S5–S10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24480250</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lionaki S, Blyth ER, Hogan SL, et al. . 
+Classification of antineutrophil cytoplasmic autoantibody vasculitides: the role of antineutrophil cytoplasmic autoantibody specificity for myeloperoxidase or proteinase 3 in disease recognition and prognosis. Arthritis Rheum. 2012;64(10):3452–3462.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3462364</ArticleId>
+            <ArticleId IdType="pubmed">23023777</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Novick TK, Chen M, Scott J, et al. . 
+Patient outcomes in renal-limited antineutrophil cytoplasmic antibody vasculitis with inactive histology. Kidney Int Rep. 2018;3(3):671–676.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5976815</ArticleId>
+            <ArticleId IdType="pubmed">29854975</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li ZY, Ma TT, Chen M, et al. . 
+The prevalence and management of anti-neutrophil cytoplasmic antibody-associated vasculitis in China. Kidney Dis. 2016;1(4):216–223.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4934806</ArticleId>
+            <ArticleId IdType="pubmed">27536681</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu J, Pei Y, Rong L, et al. . 
+Clinicopathological analysis of 34 cases of primary antineutrophil cytoplasmic antibody-associated vasculitis in Chinese children. Front Pediatr. 2021;9:656307.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8107380</ArticleId>
+            <ArticleId IdType="pubmed">33981654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mathern DR, Heeger PS.. 
+Molecules great and small: the complement system. Clin J Am Soc Nephrol. 2015;10(9):1636–1650.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4559511</ArticleId>
+            <ArticleId IdType="pubmed">25568220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kettritz R.
+With complements from ANCA mice. J Am Soc Nephrol. 2014;25(2):207–209.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3904575</ArticleId>
+            <ArticleId IdType="pubmed">24179172</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brilland B, Garnier AS, Chevailler A, et al. . 
+Complement alternative pathway in ANCA-associated vasculitis: Two decades from bench to bedside. Autoimmun Rev. 2020;19(1):102424.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31734405</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trivioli G, Vaglio A.. 
+The rise of complement in ANCA-associated vasculitis: from marginal player to target of modern therapy. Clin Exp Immunol. 2020;202(3):403–406.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7670158</ArticleId>
+            <ArticleId IdType="pubmed">32946609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moiseev S, Lee JM, Zykova A, et al. . 
+The alternative complement pathway in ANCA-associated vasculitis: further evidence and a meta-analysis. Clin Exp Immunol. 2020;202(3):394–402.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7670131</ArticleId>
+            <ArticleId IdType="pubmed">32691878</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chalkia A, Thomas K, Giannou P, et al. . 
+Hypocomplementemia is associated with more severe renal disease and worse renal outcomes in patients with ANCA-associated vasculitis: a retrospective cohort study. Ren Fail. 2020;42(1):845–852.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7472496</ArticleId>
+            <ArticleId IdType="pubmed">32787590</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen Z, Lin L, Yang W, et al. . 
+Clinical characteristics and prognostic risk factors of anti-neutrophil cytoplasmic antibody (ANCA)-associated vasculitides (AAV). Int Immunopharmacol. 2020;87:106819.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32717565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tesar V, Hruskova Z.. 
+Avacopan in the treatment of ANCA-associated vasculitis. Expert Opin Investig Drugs. 2018;27(5):491–496.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29718732</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Popa ER, Tervaert JW.. 
+The relation between Staphylococcus aureus and Wegener's granulomatosis: current knowledge and future directions. Intern Med. 2003;42(9):771–780.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14518661</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kakoullis L, Parperis K, Papachristodoulou E, et al. . 
+Infection-induced myeloperoxidase specific antineutrophil cytoplasmic antibody (MPO-ANCA) associated vasculitis: a systematic review. Clin Immunol. 2020;220:108595.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32961330</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Azar MM, Muse VV, Villalba JA, Turbett SE.. 
+Case 2-2020: a 64-year-old man with fever and respiratory failure. N Engl J Med. 2020;382(3):276–285.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31940703</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Izci Duran T, Turkmen E, Dilek M, et al. . 
+ANCA-associated vasculitis after COVID-19. Rheumatol Int. 2021;41(8):1523–1529.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8184057</ArticleId>
+            <ArticleId IdType="pubmed">34100115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sekar A, Campbell R, Tabbara J, et al. . 
+ANCA glomerulonephritis post moderna COVID-19 vaccination. Kidney Int. 2021;100(2):473–474.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8166044</ArticleId>
+            <ArticleId IdType="pubmed">34081948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Uppal NN, Kello N, Shah HH, et al. . 
+De novo ANCA-associated vasculitis with glomerulonephritis in COVID-19. Kidney Int Rep. 2020;5(11):2079–2083.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7439090</ArticleId>
+            <ArticleId IdType="pubmed">32839744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Powell WT, Campbell JA, Ross F, et al. . 
+Acute ANCA vasculitis and asymptomatic COVID-19. Pediatrics. 2021;147(4):e2020033092.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33472989</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu ZG, Li WL, Wang X, et al. . 
+Systemic lupus erythematosus and antineutrophil cytoplasmic antibody-associated vasculitis overlap syndrome in a 77-year-old man: a case report. World J Clin Cases. 2021;9(3):707–713.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7829731</ArticleId>
+            <ArticleId IdType="pubmed">33553412</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kato K, Kawamura T, Terashima R, et al. . 
+A case of systemic lupus erythematosus/antineutrophil cytoplasmic antibody-associated vasculitis overlap syndrome with dissociated pathological and immunological findings. Case Rep Nephrol. 2020;2020(5698708):5698708.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7246398</ArticleId>
+            <ArticleId IdType="pubmed">32509365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moon JS, Ahn SS, Park YB, et al. . 
+C-Reactive protein to serum albumin ratio is an independent predictor of all-cause mortality in patients with ANCA-Associated vasculitis. Yonsei Med J. 2018;59(7):865–871.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6082976</ArticleId>
+            <ArticleId IdType="pubmed">30091320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dietrich J, Cella M, Seiffert M, et al. . 
+Cutting edge: signal-regulatory protein beta 1 is a DAP12-associated activating receptor expressed in myeloid cells. J Immunol. 2000;164(1):9–12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10604985</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mulrooney TJ, Posch PE, Hurley CK.. 
+DAP12 impacts trafficking and surface stability of killer immunoglobulin-like receptors on natural killer cells. J Leukoc Biol. 2013;94(2):301–313.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4159499</ArticleId>
+            <ArticleId IdType="pubmed">23715743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bouchon A, Dietrich J, Colonna M.. 
+Cutting edge: inflammatory responses can be triggered by TREM-1, a novel receptor expressed on neutrophils and monocytes. J Immunol. 2000;164(10):4991–4995.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10799849</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bustamante J, Arias AA, Vogt G, et al. . 
+Germline CYBB mutations that selectively affect macrophages in kindreds with X-linked predisposition to tuberculous mycobacterial disease. Nat Immunol. 2011;12(3):213–221.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3097900</ArticleId>
+            <ArticleId IdType="pubmed">21278736</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lyons PA, Rayner TF, Trivedi S, et al. . 
+Genetically distinct subsets within ANCA-associated vasculitis. N Engl J Med. 2012;367(3):214–223.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3773907</ArticleId>
+            <ArticleId IdType="pubmed">22808956</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lyons PA, Peters JE, Alberici F, et al. . 
+Genome-wide association study of eosinophilic granulomatosis with polyangiitis reveals genomic loci stratified by ANCA status. Nat Commun. 2019;10(1):5120.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6851141</ArticleId>
+            <ArticleId IdType="pubmed">31719529</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luo H, Chen M, Yang R, et al. . 
+The association of HLA-DRB1 alleles with antineutrophil cytoplasmic antibody-associated systemic vasculitis in Chinese patients. Hum Immunol. 2011;72(5):422–425.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21354458</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu Z, Wu Q, Xu J, et al. . 
+HLA-DPB1 variant rs3117242 is associated with anti-neutrophil cytoplasmic antibody-associated vasculitides in a Han Chinese population. Int J Rheum Dis. 2017;20(8):1009–1015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26014903</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">35172670</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>07</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>07</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1525-6049</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>44</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Renal failure</Title>
+          <ISOAbbreviation>Ren Fail</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Identification of differentially expressed genes and pathways in kidney of ANCA-associated vasculitis by integrated bioinformatics analysis.</ArticleTitle>
+        <Pagination>
+          <StartPage>204</StartPage>
+          <EndPage>216</EndPage>
+          <MedlinePgn>204-216</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1080/0886022X.2022.2030755</ELocationID>
+        <Abstract>
+          <AbstractText>The antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis (AAV) is a systematic of relatively rare autoimmune diseases with unknown cause. Kidney involvement is one of the most common clinical manifestations, and the degree of renal damage is closely associated with the development and prognosis of AAV. In this study, we utilized the Robust Rank Aggreg (RRA) method in R to integrate GSE104948, GSE104954, GSE108109, GSE108112, and GSE108113 profile datasets loaded from Gene Expression Omnibus (GEO) database and identified a set of differentially expressed genes (DEGs) in kidney between AAV patients and living donors. Then, the results of gene ontology (GO) functional annotation showed that immunity and metabolism involved process of AAV both in glomerulus and tubulointerstitial. The Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analysis revealed that following pathways, such as complement and coagulation cascades pathway; <i>Staphylococcus aureus</i> infection; disease-COVID-19; and systemic lupus erythematosus (SLE) pathway play a crucial role in AAV. Next, the results analyzed by protein-protein interaction (PPI) network and Cytoscape software exhibited the hub genes ALB, TYROBP, and CYBB existed in both glomerular and tubulointerstitial compartments datasets. Finally, KEGG analysis using genes of two most important modules also further validated complement and coagulation cascades pathway and <i>S. aureus</i> infection existed both in glomerulus and tubulointerstitial compartments datasets. In conclusion, this study identified key genes and pathways involved in kidney of AAV, which was benefit to further uncover the mechanisms underlying the development and progress of AAV, biomarkers, and potential therapeutic targets as well.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Deng</LastName>
+            <ForeName>Xu</ForeName>
+            <Initials>X</Initials>
+            <Identifier Source="ORCID">0000-0001-5360-8974</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Nephrology, Children's Hospital of Nanjing Medical University, Nanjing, P. R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gao</LastName>
+            <ForeName>Junying</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Human Anantomy, Nanjing Medical University, Nanjing, P. R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhao</LastName>
+            <ForeName>Fei</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Nephrology, Children's Hospital of Nanjing Medical University, Nanjing, P. R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Ren Fail</MedlineTA>
+        <NlmUniqueID>8701128</NlmUniqueID>
+        <ISSNLinking>0886-022X</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D056648" MajorTopicYN="N">Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015972" MajorTopicYN="Y">Gene Expression Regulation, Neoplastic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D053263" MajorTopicYN="N">Gene Regulatory Networks</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D060066" MajorTopicYN="N">Protein Interaction Maps</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D012984" MajorTopicYN="N">Software</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Antineutrophil cytoplasmic antibody-associated vasculitis</Keyword>
+        <Keyword MajorTopicYN="N">Gene Expression Omnibus database</Keyword>
+        <Keyword MajorTopicYN="N">differentially expressed genes</Keyword>
+        <Keyword MajorTopicYN="N">integrated bioinformatics analysis</Keyword>
+        <Keyword MajorTopicYN="N">kidney</Keyword>
+      </KeywordList>
+      <CoiStatement>No potential conflict of interest was reported by the author(s)</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>17</Day>
+          <Hour>5</Hour>
+          <Minute>28</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>18</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35172670</ArticleId>
+        <ArticleId IdType="pmc">PMC8856091</ArticleId>
+        <ArticleId IdType="doi">10.1080/0886022X.2022.2030755</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Furuta S, Jayne DR.. 
+Antineutrophil cytoplasm antibody-associated vasculitis: recent developments. Kidney Int. 2013;84(2):244–249.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23423257</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cornec D, Cornec-Le Gall E, Fervenza FC, et al. . 
+ANCA-associated vasculitis - clinical utility of using ANCA specificity to classify patients. Nat Rev Rheumatol. 2016;12(10):570–579.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27464484</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Falk RJ, Jennette JC.. 
+Anti-neutrophil cytoplasmic autoantibodies with specificity for myeloperoxidase in patients with systemic vasculitis and idiopathic necrotizing and crescentic glomerulonephritis. N Engl J Med. 1988;318(25):1651–1657.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">2453802</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen M, Yu F, Zhang Y, et al. . 
+Characteristics of chinese patients with wegener's granulomatosis with anti-myeloperoxidase autoantibodies. Kidney Int. 2005;68(5):2225–2229.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16221222</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mohammad AJ, Jacobsson LT, Mahr AD, et al. . 
+Prevalence of wegener's granulomatosis, microscopic polyangiitis, polyarteritis nodosa and Churg-Strauss syndrome within a defined population in Southern Sweden. Rheumatology. 2007;46(8):1329–1337.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17553910</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Watts RA, Mahr A, Mohammad AJ, et al. . 
+Classification, epidemiology and clinical subgrouping of antineutrophil cytoplasmic antibody (ANCA)-associated vasculitis. Nephrol Dial Transplant. 2015;30 Suppl 1:i14–22.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25805746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Berti A, Cornec D, Crowson CS, et al. . 
+The epidemiology of antineutrophil cytoplasmic autoantibody-associated vasculitis in Olmsted county, Minnesota: a twenty-year US population-based study. Arthritis Rheumatol. 2017;69(12):2338–2350.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5711593</ArticleId>
+            <ArticleId IdType="pubmed">28881446</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li J, Cui Z, Long JY, et al. . 
+The frequency of ANCA-associated vasculitis in a national database of hospitalized patients in China. Arthritis Res Ther. 2018;20(1):226.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6235226</ArticleId>
+            <ArticleId IdType="pubmed">30286799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ormerod AS, Cook MC.. 
+Epidemiology of primary systemic vasculitis in the Australian Capital Territory and South-Eastern New South Wales. Intern Med J. 2008;38(11):816–823.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18771432</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reinhold-Keller E, Zeidler A, Gutfleisch J, et al. . 
+Giant cell arteritis is more prevalent in urban than in rural populations: results of an epidemiological study of primary systemic vasculitides in Germany. Rheumatology. 2000;39(12):1396–1402.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11136884</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kobayashi S, Fujimoto S.. 
+Epidemiology of vasculitides: differences between Japan, Europe and North America. Clin Exp Nephrol. 2013;17(5):611–614.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3824199</ArticleId>
+            <ArticleId IdType="pubmed">23715862</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Knight A, Ekbom A, Brandt L, et al. . 
+Increasing incidence of Wegener's granulomatosis in Sweden, 1975-2001. J Rheumatol. 2006;33(10):2060–2063.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16960922</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pearce FA, Lanyon PC, Grainge MJ, et al. . 
+Incidence of ANCA-associated vasculitis in a UK mixed ethnicity population. Rheumatology. 2016;55(9):1656–1663.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27274096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mohammad AJ.
+An update on the epidemiology of ANCA-associated vasculitis. Rheumatology. 2020;59(Suppl 3):iii42–iii50.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32348522</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shi L.
+Anti-neutrophil cytoplasmic antibody-associated vasculitis: prevalence, treatment, and outcomes. Rheumatol Int. 2017;37(11):1779–1788.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28956128</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Robson J, Doll H, Suppiah R, et al. . 
+Damage in the anca-associated vasculitides: long-term data from the European Vasculitis study group (EUVAS) therapeutic trials. Ann Rheum Dis. 2015;74(1):177–184.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24243925</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cohen CD, Frach K, Schlondorff D, et al. . 
+Quantitative gene expression analysis in renal biopsies: a novel protocol for a high-throughput multicenter application. Kidney Int. 2002;61(1):133–140.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11786093</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Grayson PC, Eddy S, Taroni JN, et al. . 
+Metabolic pathways and immunometabolism in rare kidney diseases. Ann Rheum Dis. 2018;77(8):1266–1233.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6045442</ArticleId>
+            <ArticleId IdType="pubmed">29724730</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu G, Wang LG, Han Y, et al. . 
+clusterProfiler: an R package for comparing biological themes among gene clusters. OMICS. 2012;16(5):284–287.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3339379</ArticleId>
+            <ArticleId IdType="pubmed">22455463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Szklarczyk D, Gable AL, Nastou KC, et al. . 
+The STRING database in 2021: customizable protein-protein networks, and functional characterization of user-uploaded gene/measurement sets. Nucleic Acids Res. 2021;49(D1):D605–D612.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7779004</ArticleId>
+            <ArticleId IdType="pubmed">33237311</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shannon P, Markiel A, Ozier O, et al. . 
+Cytoscape: a software environment for integrated models of biomolecular interaction networks. Genome Res. 2003;13(11):2498–2504.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC403769</ArticleId>
+            <ArticleId IdType="pubmed">14597658</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+ANCA-associated vasculitis. Nat Rev Dis Primers. 2020;6(1):72.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32855427</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Watts RA, Lane SE, Bentham G, et al. . 
+Epidemiology of systemic vasculitis: a ten-year study in the United Kingdom. Arthritis Rheum. 2000;43(2):414–419.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10693883</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen YX, Chen N.. 
+Pathogenesis of rapidly progressive glomerulonephritis: what do we learn?
+Contrib Nephrol. 2013;181:207–215.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23689582</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen YX, Yu HJ, Zhang W, et al. . 
+Analyzing fatal cases of chinese patients with primary antineutrophil cytoplasmic antibodies-associated renal vasculitis: a 10-year retrospective study. Kidney Blood Press Res. 2008;31(5):343–349.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18946225</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jariwala M, Laxer RM.. 
+Childhood GPA, EGPA, and MPA. Clin Immunol. 2020;211:108325.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31837445</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Booth AD, Almond MK, Burns A, et al. . 
+Outcome of ANCA-associated renal vasculitis: a 5-year retrospective study. Am J Kidney Dis. 2003;41(4):776–784.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12666064</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen YX, Zhang W, Chen XN, et al. . 
+Clinical analysis of ANCA-associated renal vasculitis patients with chronic dialysis. Clin Exp Rheumatol. 2014;32(3 Suppl 82):S5–S10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24480250</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lionaki S, Blyth ER, Hogan SL, et al. . 
+Classification of antineutrophil cytoplasmic autoantibody vasculitides: the role of antineutrophil cytoplasmic autoantibody specificity for myeloperoxidase or proteinase 3 in disease recognition and prognosis. Arthritis Rheum. 2012;64(10):3452–3462.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3462364</ArticleId>
+            <ArticleId IdType="pubmed">23023777</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Novick TK, Chen M, Scott J, et al. . 
+Patient outcomes in renal-limited antineutrophil cytoplasmic antibody vasculitis with inactive histology. Kidney Int Rep. 2018;3(3):671–676.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5976815</ArticleId>
+            <ArticleId IdType="pubmed">29854975</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li ZY, Ma TT, Chen M, et al. . 
+The prevalence and management of anti-neutrophil cytoplasmic antibody-associated vasculitis in China. Kidney Dis. 2016;1(4):216–223.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4934806</ArticleId>
+            <ArticleId IdType="pubmed">27536681</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu J, Pei Y, Rong L, et al. . 
+Clinicopathological analysis of 34 cases of primary antineutrophil cytoplasmic antibody-associated vasculitis in Chinese children. Front Pediatr. 2021;9:656307.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8107380</ArticleId>
+            <ArticleId IdType="pubmed">33981654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mathern DR, Heeger PS.. 
+Molecules great and small: the complement system. Clin J Am Soc Nephrol. 2015;10(9):1636–1650.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4559511</ArticleId>
+            <ArticleId IdType="pubmed">25568220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kettritz R.
+With complements from ANCA mice. J Am Soc Nephrol. 2014;25(2):207–209.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3904575</ArticleId>
+            <ArticleId IdType="pubmed">24179172</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brilland B, Garnier AS, Chevailler A, et al. . 
+Complement alternative pathway in ANCA-associated vasculitis: Two decades from bench to bedside. Autoimmun Rev. 2020;19(1):102424.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31734405</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trivioli G, Vaglio A.. 
+The rise of complement in ANCA-associated vasculitis: from marginal player to target of modern therapy. Clin Exp Immunol. 2020;202(3):403–406.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7670158</ArticleId>
+            <ArticleId IdType="pubmed">32946609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moiseev S, Lee JM, Zykova A, et al. . 
+The alternative complement pathway in ANCA-associated vasculitis: further evidence and a meta-analysis. Clin Exp Immunol. 2020;202(3):394–402.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7670131</ArticleId>
+            <ArticleId IdType="pubmed">32691878</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chalkia A, Thomas K, Giannou P, et al. . 
+Hypocomplementemia is associated with more severe renal disease and worse renal outcomes in patients with ANCA-associated vasculitis: a retrospective cohort study. Ren Fail. 2020;42(1):845–852.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7472496</ArticleId>
+            <ArticleId IdType="pubmed">32787590</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen Z, Lin L, Yang W, et al. . 
+Clinical characteristics and prognostic risk factors of anti-neutrophil cytoplasmic antibody (ANCA)-associated vasculitides (AAV). Int Immunopharmacol. 2020;87:106819.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32717565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tesar V, Hruskova Z.. 
+Avacopan in the treatment of ANCA-associated vasculitis. Expert Opin Investig Drugs. 2018;27(5):491–496.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29718732</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Popa ER, Tervaert JW.. 
+The relation between Staphylococcus aureus and Wegener's granulomatosis: current knowledge and future directions. Intern Med. 2003;42(9):771–780.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14518661</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kakoullis L, Parperis K, Papachristodoulou E, et al. . 
+Infection-induced myeloperoxidase specific antineutrophil cytoplasmic antibody (MPO-ANCA) associated vasculitis: a systematic review. Clin Immunol. 2020;220:108595.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32961330</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Azar MM, Muse VV, Villalba JA, Turbett SE.. 
+Case 2-2020: a 64-year-old man with fever and respiratory failure. N Engl J Med. 2020;382(3):276–285.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31940703</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Izci Duran T, Turkmen E, Dilek M, et al. . 
+ANCA-associated vasculitis after COVID-19. Rheumatol Int. 2021;41(8):1523–1529.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8184057</ArticleId>
+            <ArticleId IdType="pubmed">34100115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sekar A, Campbell R, Tabbara J, et al. . 
+ANCA glomerulonephritis post moderna COVID-19 vaccination. Kidney Int. 2021;100(2):473–474.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8166044</ArticleId>
+            <ArticleId IdType="pubmed">34081948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Uppal NN, Kello N, Shah HH, et al. . 
+De novo ANCA-associated vasculitis with glomerulonephritis in COVID-19. Kidney Int Rep. 2020;5(11):2079–2083.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7439090</ArticleId>
+            <ArticleId IdType="pubmed">32839744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Powell WT, Campbell JA, Ross F, et al. . 
+Acute ANCA vasculitis and asymptomatic COVID-19. Pediatrics. 2021;147(4):e2020033092.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33472989</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu ZG, Li WL, Wang X, et al. . 
+Systemic lupus erythematosus and antineutrophil cytoplasmic antibody-associated vasculitis overlap syndrome in a 77-year-old man: a case report. World J Clin Cases. 2021;9(3):707–713.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7829731</ArticleId>
+            <ArticleId IdType="pubmed">33553412</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kato K, Kawamura T, Terashima R, et al. . 
+A case of systemic lupus erythematosus/antineutrophil cytoplasmic antibody-associated vasculitis overlap syndrome with dissociated pathological and immunological findings. Case Rep Nephrol. 2020;2020(5698708):5698708.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7246398</ArticleId>
+            <ArticleId IdType="pubmed">32509365</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Moon JS, Ahn SS, Park YB, et al. . 
+C-Reactive protein to serum albumin ratio is an independent predictor of all-cause mortality in patients with ANCA-Associated vasculitis. Yonsei Med J. 2018;59(7):865–871.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6082976</ArticleId>
+            <ArticleId IdType="pubmed">30091320</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dietrich J, Cella M, Seiffert M, et al. . 
+Cutting edge: signal-regulatory protein beta 1 is a DAP12-associated activating receptor expressed in myeloid cells. J Immunol. 2000;164(1):9–12.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10604985</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mulrooney TJ, Posch PE, Hurley CK.. 
+DAP12 impacts trafficking and surface stability of killer immunoglobulin-like receptors on natural killer cells. J Leukoc Biol. 2013;94(2):301–313.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4159499</ArticleId>
+            <ArticleId IdType="pubmed">23715743</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bouchon A, Dietrich J, Colonna M.. 
+Cutting edge: inflammatory responses can be triggered by TREM-1, a novel receptor expressed on neutrophils and monocytes. J Immunol. 2000;164(10):4991–4995.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10799849</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bustamante J, Arias AA, Vogt G, et al. . 
+Germline CYBB mutations that selectively affect macrophages in kindreds with X-linked predisposition to tuberculous mycobacterial disease. Nat Immunol. 2011;12(3):213–221.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3097900</ArticleId>
+            <ArticleId IdType="pubmed">21278736</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lyons PA, Rayner TF, Trivedi S, et al. . 
+Genetically distinct subsets within ANCA-associated vasculitis. N Engl J Med. 2012;367(3):214–223.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3773907</ArticleId>
+            <ArticleId IdType="pubmed">22808956</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lyons PA, Peters JE, Alberici F, et al. . 
+Genome-wide association study of eosinophilic granulomatosis with polyangiitis reveals genomic loci stratified by ANCA status. Nat Commun. 2019;10(1):5120.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6851141</ArticleId>
+            <ArticleId IdType="pubmed">31719529</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luo H, Chen M, Yang R, et al. . 
+The association of HLA-DRB1 alleles with antineutrophil cytoplasmic antibody-associated systemic vasculitis in Chinese patients. Hum Immunol. 2011;72(5):422–425.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21354458</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu Z, Wu Q, Xu J, et al. . 
+HLA-DPB1 variant rs3117242 is associated with anti-neutrophil cytoplasmic antibody-associated vasculitides in a Han Chinese population. Int J Rheum Dis. 2017;20(8):1009–1015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26014903</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

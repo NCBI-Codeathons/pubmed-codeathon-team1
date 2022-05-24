@@ -1,0 +1,774 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35481646</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>09</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1469-896X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>31</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Protein science : a publication of the Protein Society</Title>
+          <ISOAbbreviation>Protein Sci</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Shape shifting: The multiple conformational substates of the PTEN N-terminal PIP<sub>2</sub> -binding domain.</ArticleTitle>
+        <Pagination>
+          <StartPage>e4308</StartPage>
+          <MedlinePgn>e4308</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">e4308</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1002/pro.4308</ELocationID>
+        <Abstract>
+          <AbstractText>The Phosphatase and TENsin homolog deleted on chromosome 10 (PTEN) is a chief regulator of a variety of cellular processes including cell proliferation, migration, growth, and death. It is also a major tumor suppressor gene that is frequently mutated or lost under cancerous conditions. PTEN encodes a dual-specificity (lipid and protein) phosphatase that negatively regulates the PI3K/AKT/mTOR signaling pathway where the PIP<sub>2</sub> -binding domain (PBD) regulates the lipid phosphatase function. Unfortunately, despite two decades of research, a full-length structure of PTEN remains elusive, leaving open questions regarding PTEN's disordered regions that mediate protein stability, post-translational modifications, protein-protein interactions, while also hindering the design of small molecules that can regulate PTEN's function. Here, we utilized a combination of crosslinking mass spectrometry, in silico predicted structural modeling (including AlphaFold2), molecular docking, molecular dynamics simulations, and residue interaction network modeling to obtain structural details and molecular insight into the behavior of the PBD of PTEN. Our study shows that the PBD exists in multiple conformations which suggests its ability to regulate PTEN's variety of functions. Studying how these specific conformational substates contribute to PTEN function is imperative to defining its function in disease pathogenesis, and to delineate ways to modulate its tumor suppressor activity.</AbstractText>
+          <CopyrightInformation>© 2022 The Authors. Protein Science published by Wiley Periodicals LLC on behalf of The Protein Society.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Dawson</LastName>
+            <ForeName>Jennifer E</ForeName>
+            <Initials>JE</Initials>
+            <Identifier Source="ORCID">0000-0002-8387-6109</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Cleveland Clinic Lerner College of Medicine, Case Western Reserve University, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Smith</LastName>
+            <ForeName>Iris Nira</ForeName>
+            <Initials>IN</Initials>
+            <Identifier Source="ORCID">0000-0001-5560-8871</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Cleveland Clinic Lerner College of Medicine, Case Western Reserve University, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Martin</LastName>
+            <ForeName>William</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Khan</LastName>
+            <ForeName>Krishnendu</ForeName>
+            <Initials>K</Initials>
+            <Identifier Source="ORCID">0000-0001-7666-1030</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cheng</LastName>
+            <ForeName>Feixiong</ForeName>
+            <Initials>F</Initials>
+            <Identifier Source="ORCID">0000-0002-1736-2847</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Cleveland Clinic Lerner College of Medicine, Case Western Reserve University, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Case Comprehensive Cancer Center, Case Western Reserve University School of Medicine, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Eng</LastName>
+            <ForeName>Charis</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0002-3693-5145</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Genomic Medicine Institute, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Cleveland Clinic Lerner College of Medicine, Case Western Reserve University, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Cardiovascular and Metabolic Sciences, Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Taussig Cancer Institute, Cleveland Clinic, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Genetics and Genome Sciences, Case Western Reserve University School of Medicine, Cleveland, Ohio, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Computational and Systems Biology, School of Medicine, University of Pittsburgh, Pittsburgh, Pennsylvania, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>1K99GM143552-01</GrantID>
+            <Acronym>GM</Acronym>
+            <Agency>NIGMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01AG066707</GrantID>
+            <Acronym>AG</Acronym>
+            <Agency>NIA NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>U01AG073323</GrantID>
+            <Acronym>AG</Acronym>
+            <Agency>NIA NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>1S10OD023436-01</GrantID>
+            <Acronym>NH</Acronym>
+            <Agency>NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Protein Sci</MedlineTA>
+        <NlmUniqueID>9211750</NlmUniqueID>
+        <ISSNLinking>0961-8368</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D008055">Lipids</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008055" MajorTopicYN="N">Lipids</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D062105" MajorTopicYN="N">Molecular Docking Simulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019869" MajorTopicYN="Y">Phosphatidylinositol 3-Kinases</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="Y">Signal Transduction</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">AlphaFold</Keyword>
+        <Keyword MajorTopicYN="Y">PTEN</Keyword>
+        <Keyword MajorTopicYN="Y">RoseTTAFold</Keyword>
+        <Keyword MajorTopicYN="Y">crosslinking mass spectrometry</Keyword>
+        <Keyword MajorTopicYN="Y">integrative structural modeling</Keyword>
+        <Keyword MajorTopicYN="Y">molecular docking</Keyword>
+        <Keyword MajorTopicYN="Y">molecular dynamics simulations</Keyword>
+        <Keyword MajorTopicYN="Y">residue interaction network</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>12</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>3</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>20</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>28</Day>
+          <Hour>8</Hour>
+          <Minute>48</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35481646</ArticleId>
+        <ArticleId IdType="pmc">PMC9004235</ArticleId>
+        <ArticleId IdType="doi">10.1002/pro.4308</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>
+Liu T, Wang Y, Wang Y, Chan AM. Multifaceted regulation of PTEN subcellular distributions and biological functions. Cancers (Basel). 2019;11(9):1247.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6770588</ArticleId>
+            <ArticleId IdType="pubmed">31454965</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Yehia L, Ngeow J, Eng C. PTEN‐opathies: From biological insights to evidence‐based precision medicine. J Clin Invest. 2019;129(2):452–464.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6355220</ArticleId>
+            <ArticleId IdType="pubmed">30614812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Carnero A, Paramio JM. The pten/pi3k/akt pathway in vivo, cancer mouse models. Front Oncol. 2014;4:252.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4172058</ArticleId>
+            <ArticleId IdType="pubmed">25295225</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Yin Y, Shen WH. Pten: A new guardian of the genome. Oncogene. 2008;27(41):5443–5453.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18794879</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Campbell RB, Liu F, Ross AH. Allosteric activation of pten phosphatase by phosphatidylinositol 4,5‐bisphosphate. J Biol Chem. 2003;278(36):33617–33620.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12857747</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Martin TF. Phosphoinositide lipids as signaling molecules: Common themes for signal transduction, cytoskeletal regulation, and membrane trafficking. Annu Rev Cell Dev Biol. 1998;14:231–264.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9891784</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Gil A, Rodriguez‐Escudero I, Stumpf M, Molina M, Cid VJ, Pulido R. A functional dissection of pten n‐terminus: Implications in pten subcellular targeting and tumor suppressor activity. PLoS One. 2015;10(4):e0119287.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4398541</ArticleId>
+            <ArticleId IdType="pubmed">25875300</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Duerr EM, Rollbrocker B, Hayashi Y, et al. Pten mutations in gliomas and glioneuronal tumors. Oncogene. 1998;16(17):2259–2264.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9619835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Das S, Dixon JE, Cho W. Membrane‐binding and activation mechanism of pten. Proc Natl Acad Sci USA. 2003;100(13):7491–7496.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC164614</ArticleId>
+            <ArticleId IdType="pubmed">12808147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Yeung T, Terebiznik M, Yu L, et al. Receptor activation alters inner surface potential during phagocytosis. Science. 2006;313(5785):347–351.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16857939</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+McConnachie G, Pass I, Walker SM, Downes CP. Interfacial kinetic analysis of the tumour suppressor phosphatase, pten: Evidence for activation by anionic phospholipids. Biochem J. 2003;371(Pt 3):947–955.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1223325</ArticleId>
+            <ArticleId IdType="pubmed">12534371</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Leslie NR, Batty IH, Maccario H, Davidson L, Downes CP. Understanding pten regulation: Pip2, polarity and protein stability. Oncogene. 2008;27(41):5464–5476.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18794881</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Johnston SB, Raines RT. Catalysis by the tumor‐suppressor enzymes pten and pten‐l. PLoS One. 2015;10(1):e0116898.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4301912</ArticleId>
+            <ArticleId IdType="pubmed">25607987</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Malaney P, Pathak RR, Xue B, Uversky VN, Dave V. Intrinsic disorder in pten and its interactome confers structural plasticity and functional versatility. Sci Rep. 2013;3:2035.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3687229</ArticleId>
+            <ArticleId IdType="pubmed">23783762</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Malaney P, Uversky VN, Dave V. Identification of intrinsically disordered regions in pten and delineation of its function via a network approach. Methods. 2015;77‐78:69–74.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25449897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lee CU, Hahne G, Hanske J, et al. Redox modulation of pten phosphatase activity by hydrogen peroxide and bisperoxidovanadium complexes. Angew Chem Int Ed Engl. 2015;54(46):13796–13800.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4648047</ArticleId>
+            <ArticleId IdType="pubmed">26418532</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lee JO, Yang H, Georgescu MM, et al. Crystal structure of the pten tumor suppressor: Implications for its phosphoinositide phosphatase activity and membrane association. Cell. 1999;99(3):323–334.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10555148</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Dempsey DR, Viennet T, Iwase R, et al. The structural basis of pten regulation by multi‐site phosphorylation. Nat Struct Mol Biol. 2021;28(10):858–868.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8549118</ArticleId>
+            <ArticleId IdType="pubmed">34625746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bullock JMA, Sen N, Thalassinos K, Topf M. Modeling protein complexes using restraints from crosslinking mass spectrometry. Structure. 2018;26(7):1015–1024.e1012.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6039719</ArticleId>
+            <ArticleId IdType="pubmed">29804821</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Braitbard M, Schneidman‐Duhovny D, Kalisman N. Integrative structure modeling: Overview and assessment. Annu Rev Biochem. 2019;88:113–135.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30830798</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Jang H, Smith IN, Eng C, Nussinov R. The mechanism of full activation of tumor suppressor pten at the phosphoinositide‐enriched membrane. iScience. 2021;24(5):102438.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8169795</ArticleId>
+            <ArticleId IdType="pubmed">34113810</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Yang J, Zhang Y. I‐tasser server: New development for protein structure and function predictions. Nucleic Acids Res. 2015;43(W1):W174–W181.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4489253</ArticleId>
+            <ArticleId IdType="pubmed">25883148</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zhang C, Freddolino PL, Zhang Y. Cofactor: Improved protein function prediction by combining structure, sequence and protein‐protein interaction information. Nucleic Acids Res. 2017;45(W1):W291–W299.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5793808</ArticleId>
+            <ArticleId IdType="pubmed">28472402</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Jumper J, Evans R, Pritzel A, et al. Highly accurate protein structure prediction with alphafold. Nature. 2021;596(7873):583–589.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8371605</ArticleId>
+            <ArticleId IdType="pubmed">34265844</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Varadi M, Anyango S, Deshpande M, et al. Alphafold protein structure database: Massively expanding the structural coverage of protein‐sequence space with high‐accuracy models. Nucleic Acids Res. 2021;50(D1):D439–D444.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8728224</ArticleId>
+            <ArticleId IdType="pubmed">34791371</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mirdita MSK, Moriwaki Y, Heo L, Ovchinnikov S, Steinegger M. Colabfold—making protein folding accessible to all. bioRxiv. 2021. 10.1101/2021.08.15.456425
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/2021.08.15.456425</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Baek M, DiMaio F, Anishchenko I, et al. Accurate prediction of protein structures and interactions using a three‐track neural network. Science. 2021;373(6557):871–876.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7612213</ArticleId>
+            <ArticleId IdType="pubmed">34282049</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Ashkenazy H, Abadi S, Martz E, et al. Consurf 2016: An improved methodology to estimate and visualize evolutionary conservation in macromolecules. Nucleic Acids Res. 2016;44(W1):W344–W350.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4987940</ArticleId>
+            <ArticleId IdType="pubmed">27166375</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Ashkenazy H, Erez E, Martz E, Pupko T, Ben‐Tal N. Consurf 2010: Calculating evolutionary conservation in sequence and structure of proteins and nucleic acids. Nucleic Acids Res. 2010;38:W529–W533.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2896094</ArticleId>
+            <ArticleId IdType="pubmed">20478830</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Glaser F, Pupko T, Paz I, et al. Consurf: Identification of functional regions in proteins by surface‐mapping of phylogenetic information. Bioinformatics. 2003;19(1):163–164.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12499312</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Landau M, Mayrose I, Rosenberg Y, et al. Consurf 2005: The projection of evolutionary conservation scores of residues on protein structures. Nucleic Acids Res. 2005;33:W299–W302.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1160131</ArticleId>
+            <ArticleId IdType="pubmed">15980475</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+de Vries SJ, Bonvin AM. Cport: A consensus interface predictor and its performance in prediction‐driven docking with haddock. PLoS One. 2011;6(3):e17695.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3064578</ArticleId>
+            <ArticleId IdType="pubmed">21464987</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kao A, Chiu CL, Vellucci D, et al. Development of a novel cross‐linking strategy for fast and accurate identification of cross‐linked peptides of protein complexes. Mol Cell Proteomics. 2011;10(1):M110, 002212.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3013449</ArticleId>
+            <ArticleId IdType="pubmed">20736410</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Gutierrez CB, Block SA, Yu C, et al. Development of a novel sulfoxide‐containing ms‐cleavable homobifunctional cysteine‐reactive cross‐linker for studying protein‐protein interactions. Anal Chem. 2018;90(12):7600–7607.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6037416</ArticleId>
+            <ArticleId IdType="pubmed">29792801</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Gutierrez CB, Yu C, Novitsky EJ, Huszagh AS, Rychnovsky SD, Huang L. Developing an acidic residue reactive and sulfoxide‐containing ms‐cleavable homobifunctional cross‐linker for probing protein‐protein interactions. Anal Chem. 2016;88(16):8315–8322.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4989248</ArticleId>
+            <ArticleId IdType="pubmed">27417384</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Gutierrez C, Chemmama IE, Mao H, et al. Structural dynamics of the human cop9 signalosome revealed by cross‐linking mass spectrometry and integrative modeling. Proc Natl Acad Sci U S A. 2020;117(8):4088–4098.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7049115</ArticleId>
+            <ArticleId IdType="pubmed">32034103</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Orban‐Nemeth Z, Beveridge R, Hollenstein DM, et al. Structural prediction of protein models using distance restraints derived from cross‐linking mass spectrometry data. Nat Protoc. 2018;13(3):478–494.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5999019</ArticleId>
+            <ArticleId IdType="pubmed">29419816</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bonvin A, Karaca E, Kastritis PL, Rodrigues J. Defining distance restraints in haddock. Nat Protoc. 2018;13(7):1503.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29942005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kahraman A, Herzog F, Leitner A, Rosenberger G, Aebersold R, Malmstrom L. Cross‐link guided molecular modeling with rosetta. PLoS One. 2013;8(9):e73411.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3775805</ArticleId>
+            <ArticleId IdType="pubmed">24069194</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lossl P, Kolbel K, Tanzler D, et al. Analysis of nidogen‐1/laminin gamma1 interaction by cross‐linking, mass spectrometry, and computational modeling reveals multiple binding modes. PLoS One. 2014;9(11):e112886.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4227867</ArticleId>
+            <ArticleId IdType="pubmed">25387007</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mintseris J, Gygi SP. High‐density chemical cross‐linking for modeling protein interactions. Proc Natl Acad Sci USA. 2020;117(1):93–102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6955236</ArticleId>
+            <ArticleId IdType="pubmed">31848235</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mercadante D, Grater F, Daday C. Conan: A tool to decode dynamical information from molecular interaction maps. Biophys J. 2018;114(6):1267–1273.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5883949</ArticleId>
+            <ArticleId IdType="pubmed">29590584</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Vishveshwara S, Ghosh A, Hansia P. Intra and inter‐molecular communications through protein structure network. Curr Protein Pept Sci. 2009;10(2):146–160.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19355982</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bode C, Kovacs IA, Szalay MS, Palotai R, Korcsmaros T, Csermely P. Network analysis of protein dynamics. FEBS Lett. 2007;581(15):2776–2782.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17531981</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Tompa P, Fuxreiter M. Fuzzy complexes: Polymorphism and structural disorder in protein‐protein interactions. Trends Biochem Sci. 2008;33(1):2–8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18054235</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Ferreiro DU, Hegler JA, Komives EA, Wolynes PG. Localizing frustration in native proteins and protein assemblies. Proc Natl Acad Sci U S A. 2007;104(50):19819–19824.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2148382</ArticleId>
+            <ArticleId IdType="pubmed">18077414</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Rausch AO, Freiberger MI, Leonetti CO, et al. Frustratometer: An r‐package to compute local frustration in protein structures, point mutants and md simulations. Bioinformatics. 2021;37(18):3038–3040.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33720293</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Gianni S, Freiberger MI, Jemth P, Ferreiro DU, Wolynes PG, Fuxreiter M. Fuzziness and frustration in the energy landscape of protein folding, function, and assembly. Acc Chem Res. 2021;54(5):1251–1259.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8023570</ArticleId>
+            <ArticleId IdType="pubmed">33550810</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Freiberger MI, Wolynes PG, Ferreiro DU, Fuxreiter M. Frustration in fuzzy protein complexes leads to interaction versatility. J Phys Chem B. 2021;125(10):2513–2520.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8041309</ArticleId>
+            <ArticleId IdType="pubmed">33667107</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Masrati G, Landau M, Ben‐Tal N, Lupas A, Kosloff M, Kosinski J. Integrative structural biology in the era of accurate structure prediction. J Mol Biol. 2021;433(20):167127.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34224746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mighell TL, Evans‐Dutson S, O'Roak BJ. A saturation mutagenesis approach to understanding pten lipid phosphatase activity and genotype‐phenotype relationships. Am J Hum Genet. 2018;102(5):943–955.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5986715</ArticleId>
+            <ArticleId IdType="pubmed">29706350</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Figer A, Kaplan A, Frydman M, et al. Germline mutations in the pten gene in israeli patients with bannayan‐riley‐ruvalcaba syndrome and women with familial breast cancer. Clin Genet. 2002;62(4):298–302.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12372056</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Post KL, Belmadani M, Ganguly P, et al. Multi‐model functionalization of disease‐associated pten missense mutations identifies multiple molecular mechanisms underlying protein dysfunction. Nat Commun. 2020;11(1):2073.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7190743</ArticleId>
+            <ArticleId IdType="pubmed">32350270</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Garcia‐Garcia MJ, Eggenschwiler JT, Caspary T, et al. Analysis of mouse embryonic patterning and morphogenesis by forward genetics. Proc Natl Acad Sci U S A. 2005;102(17):5913–5919.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1087930</ArticleId>
+            <ArticleId IdType="pubmed">15755804</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Nguyen HN, Yang JM, Miyamoto T, et al. Opening the conformation is a master switch for the dual localization and phosphatase activity of pten. Sci Rep. 2015;5:12600.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4517176</ArticleId>
+            <ArticleId IdType="pubmed">26216063</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mighell TL, Thacker S, Fombonne E, Eng C, O'Roak BJ. An integrated deep‐mutational‐scanning approach provides clinical insights on pten genotype‐phenotype relationships. Am J Hum Genet. 2020;106(6):818–829.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7273526</ArticleId>
+            <ArticleId IdType="pubmed">32442409</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Redfern RE, Redfern D, Furgason ML, Munson M, Ross AH, Gericke A. Pten phosphatase selectively binds phosphoinositides and undergoes structural changes. Biochemistry. 2008;47(7):2162–2171.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18220422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Johnston SB, Raines RT. Conformational stability and catalytic activity of pten variants linked to cancers and autism spectrum disorders. Biochemistry. 2015;54(7):1576–1582.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4372197</ArticleId>
+            <ArticleId IdType="pubmed">25647146</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Tunyasuvunakool K, Adler J, Wu Z, et al. Highly accurate protein structure prediction for the human proteome. Nature. 2021;596(7873):590–596.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8387240</ArticleId>
+            <ArticleId IdType="pubmed">34293799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mariani V, Biasini M, Barbato A, Schwede T. Lddt: A local superposition‐free score for comparing protein structures and models using distance difference tests. Bioinformatics. 2013;29(21):2722–2728.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3799472</ArticleId>
+            <ArticleId IdType="pubmed">23986568</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Khan K, Baleanu‐Gogonea C, Willard B, Gogonea V, Fox PL. 3‐Dimensional architecture of the human multi‐trna synthetase complex. Nucleic Acids Res. 2020;48(15):8740–8754.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7470956</ArticleId>
+            <ArticleId IdType="pubmed">32644155</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Khan K, Baleanu‐Gogonea C, Willard B, Gogonea V, Fox P. An optimized protocol for in vitro and in cellulo structural determination of the multi‐trna synthetase complex by cross‐linking mass spectrometry. Star Protoc. 2022;3:101201.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8914369</ArticleId>
+            <ArticleId IdType="pubmed">35284842</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Klykov O, Steigenberger B, Pektas S, Fasci D, Heck AJR, Scheltema RA. Efficient and robust proteome‐wide approaches for cross‐linking mass spectrometry. Nat Protoc. 2018;13(12):2964–2990.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30446747</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Honorato RV, Koukos PI, Jimenez‐Garcia B, et al. Structural biology in the clouds: The wenmr‐eosc ecosystem. Front Mol Biosci. 2021;8:729513.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8356364</ArticleId>
+            <ArticleId IdType="pubmed">34395534</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+van Zundert GCP, Rodrigues J, Trellet M, et al. The haddock2.2 web server: User‐friendly integrative modeling of biomolecular complexes. J Mol Biol. 2016;428(4):720–725.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26410586</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Song Y, DiMaio F, Wang RY, et al. High‐resolution comparative modeling with rosettacm. Structure. 2013;21(10):1735–1742.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3811137</ArticleId>
+            <ArticleId IdType="pubmed">24035711</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Abraham MJ, Murtola T, Schulz R, et al. Gromacs: High performance molecular simulations through multi‐level parallelism from laptops to supercomputers. SoftwareX. 2015;1–2:19–25.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Huang J, Rauscher S, Nawrocki G, et al. Charmm36m: An improved force field for folded and intrinsically disordered proteins. Nat Methods. 2017;14(1):71–73.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5199616</ArticleId>
+            <ArticleId IdType="pubmed">27819658</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Daura X, Gademann K, Juan B, Seebach D, van Gunsteren WF, Mark AE. Peptide folding: When simulation meets experiment. Angew Chem Int Ed. 1999;38:236–240.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Piovesan D, Minervini G, Tosatto SC. The ring 2.0 web server for high quality residue interaction networks. Nucleic Acids Res. 2016;44(W1):W367–W374.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4987896</ArticleId>
+            <ArticleId IdType="pubmed">27198219</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

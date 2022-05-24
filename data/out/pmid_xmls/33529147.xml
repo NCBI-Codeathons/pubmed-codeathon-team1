@@ -1,0 +1,1464 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">33529147</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>09</Month>
+        <Day>28</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>09</Month>
+        <Day>28</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">2057-5858</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>7</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Microbial genomics</Title>
+          <ISOAbbreviation>Microb Genom</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>From genotype to phenotype: adaptations of <i>Pseudomonas aeruginosa</i> to the cystic fibrosis environment.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">mgen000513</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1099/mgen.0.000513</ELocationID>
+        <Abstract>
+          <AbstractText><i>Pseudomonas aeruginosa</i> is one of the main microbial species colonizing the lungs of cystic fibrosis patients and is responsible for the decline in respiratory function. Despite the hostile pulmonary environment, <i>P. aeruginosa</i> is able to establish chronic infections thanks to its strong adaptive capacity. Various longitudinal studies have attempted to compare the strains of early infection with the adapted strains of chronic infection. Thanks to new '-omics' techniques, convergent genetic mutations, as well as transcriptomic and proteomic dysregulations have been identified. As a consequence of this evolution, the adapted strains of <i>P. aeruginosa</i> have particular phenotypes that promote persistent infection.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Camus</LastName>
+            <ForeName>Laura</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>CIRI - Centre International de Recherche en Infectiologie, Université de Lyon/Inserm U1111/Université Claude Bernard Lyon 1/CNRS UMR5308/ENS de Lyon, Lyon, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vandenesch</LastName>
+            <ForeName>François</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Institut des Agents Infectieux, Hospices Civils de Lyon, Lyon, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Centre National de Référence des Staphylocoques, Hospices Civils de Lyon, Lyon, France.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>CIRI - Centre International de Recherche en Infectiologie, Université de Lyon/Inserm U1111/Université Claude Bernard Lyon 1/CNRS UMR5308/ENS de Lyon, Lyon, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moreau</LastName>
+            <ForeName>Karen</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>CIRI - Centre International de Recherche en Infectiologie, Université de Lyon/Inserm U1111/Université Claude Bernard Lyon 1/CNRS UMR5308/ENS de Lyon, Lyon, France.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>02</Month>
+          <Day>02</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Microb Genom</MedlineTA>
+        <NlmUniqueID>101671820</NlmUniqueID>
+        <ISSNLinking>2057-5858</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000222" MajorTopicYN="Y">Adaptation, Physiological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003550" MajorTopicYN="N">Cystic Fibrosis</DescriptorName>
+          <QualifierName UI="Q000382" MajorTopicYN="Y">microbiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005838" MajorTopicYN="N">Genotype</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010641" MajorTopicYN="N">Phenotype</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011552" MajorTopicYN="N">Pseudomonas Infections</DescriptorName>
+          <QualifierName UI="Q000382" MajorTopicYN="Y">microbiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011550" MajorTopicYN="N">Pseudomonas aeruginosa</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Pseudomonas aeruginosa</Keyword>
+        <Keyword MajorTopicYN="Y">adaptation</Keyword>
+        <Keyword MajorTopicYN="Y">cystic fibrosis</Keyword>
+        <Keyword MajorTopicYN="Y">genomic</Keyword>
+        <Keyword MajorTopicYN="Y">phenotype</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that there are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>2</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>9</Month>
+          <Day>29</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>2</Month>
+          <Day>2</Day>
+          <Hour>17</Hour>
+          <Minute>12</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">33529147</ArticleId>
+        <ArticleId IdType="pmc">PMC8190622</ArticleId>
+        <ArticleId IdType="doi">10.1099/mgen.0.000513</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Moradali MF, Ghods S, Rehm BHA. 
+Pseudomonas aeruginosa lifestyle: a paradigm for adaptation, survival, and persistence. Front Cell Infect Microbiol. 2017;7:39.  doi: 10.3389/fcimb.2017.00039.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fcimb.2017.00039</ArticleId>
+            <ArticleId IdType="pmc">PMC5310132</ArticleId>
+            <ArticleId IdType="pubmed">28261568</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Elabed H, González-Tortuero E, Ibacache-Quiroga C, Bakhrouf A, Johnston P, et al.  Seawater salt-trapped Pseudomonas aeruginosa survives for years and gets primed for salinity tolerance. BMC Microbiol. 2019;19:142.  doi: 10.1186/s12866-019-1499-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12866-019-1499-2</ArticleId>
+            <ArticleId IdType="pmc">PMC6591848</ArticleId>
+            <ArticleId IdType="pubmed">31234794</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lewenza S, Abboud J, Poon K, Kobryn M, Humplik I, et al.  
+Pseudomonas aeruginosa displays a dormancy phenotype during long-term survival in water. PLoS One. 2018;13:e0198384.  doi: 10.1371/journal.pone.0198384.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0198384</ArticleId>
+            <ArticleId IdType="pmc">PMC6147739</ArticleId>
+            <ArticleId IdType="pubmed">30235203</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kung VL, Ozer EA, Hauser AR. The accessory genome of Pseudomonas aeruginosa
+. Microbiol Mol Biol Rev. 2010;74:621–641. doi: 10.1128/MMBR.00027-10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/MMBR.00027-10</ArticleId>
+            <ArticleId IdType="pmc">PMC3008168</ArticleId>
+            <ArticleId IdType="pubmed">21119020</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Parkins MD, Somayaji R, Waters VJ. Epidemiology, biology, and impact of clonal Pseudomonas aeruginosa infections in cystic fibrosis. Clin Microbiol Rev. 2018;31:e00019-18.  doi: 10.1128/CMR.00019-18.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/CMR.00019-18</ArticleId>
+            <ArticleId IdType="pmc">PMC6148191</ArticleId>
+            <ArticleId IdType="pubmed">30158299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith EE, Buckley DG, Wu Z, Saenphimmachak C, Hoffman LR, et al.  Genetic adaptation by Pseudomonas aeruginosa to the airways of cystic fibrosis patients. Proc Natl Acad Sci USA. 2006;103:8487–8492. doi: 10.1073/pnas.0602138103.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0602138103</ArticleId>
+            <ArticleId IdType="pmc">PMC1482519</ArticleId>
+            <ArticleId IdType="pubmed">16687478</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cramer N, Klockgether J, Wrasman K, Schmidt M, Davenport CF, et al.  Microevolution of the major common Pseudomonas aeruginosa clones C and PA14 in cystic fibrosis lungs. Environ Microbiol. 2011;13:1690–1704. doi: 10.1111/j.1462-2920.2011.02483.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1462-2920.2011.02483.x</ArticleId>
+            <ArticleId IdType="pubmed">21492363</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feliziani S, Marvig RL, Luján AM, Moyano AJ, Di Rienzo JA, et al.  Coexistence and within-host evolution of diversified lineages of hypermutable Pseudomonas aeruginosa in long-term cystic fibrosis infections. PLoS Genet. 2014;10:e1004651.  doi: 10.1371/journal.pgen.1004651.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1004651</ArticleId>
+            <ArticleId IdType="pmc">PMC4199492</ArticleId>
+            <ArticleId IdType="pubmed">25330091</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Markussen T, Marvig RL, Gómez-Lozano M, Aanæs K, Burleigh AE, et al.  Environmental heterogeneity drives within-host diversification and evolution of Pseudomonas aeruginosa
+. mBio. 2014;5:e01592-14.  doi: 10.1128/mBio.01592-14.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/mBio.01592-14</ArticleId>
+            <ArticleId IdType="pmc">PMC4172072</ArticleId>
+            <ArticleId IdType="pubmed">25227464</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bianconi I, Jeukens J, Freschi L, Alcalá-Franco B, Facchini M, et al.  Comparative genomics and biological characterization of sequential Pseudomonas aeruginosa isolates from persistent airways infection. BMC Genomics. 2015;16:1105.  doi: 10.1186/s12864-015-2276-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12864-015-2276-8</ArticleId>
+            <ArticleId IdType="pmc">PMC4696338</ArticleId>
+            <ArticleId IdType="pubmed">26714629</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bianconi I, D’Arcangelo S, Esposito A, Benedet M, Piffer E, et al.  Persistence and microevolution of Pseudomonas aeruginosa in the cystic fibrosis lung: a single-patient longitudinal genomic study. Front Microbiol. 2018;9:3242.  doi: 10.3389/fmicb.2018.03242.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fmicb.2018.03242</ArticleId>
+            <ArticleId IdType="pmc">PMC6340092</ArticleId>
+            <ArticleId IdType="pubmed">30692969</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>van Mansfeld R, de Been M, Paganelli F, Yang L, Bonten M, et al.  Within-host evolution of the Dutch high-prevalent Pseudomonas aeruginosa clone ST406 during chronic colonization of a patient with cystic fibrosis. PLoS One. 2016;11:e0158106.  doi: 10.1371/journal.pone.0158106.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0158106</ArticleId>
+            <ArticleId IdType="pmc">PMC4918941</ArticleId>
+            <ArticleId IdType="pubmed">27337151</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang L, Jelsbak L, Marvig RL, Damkiaer S, Workman CT, et al.  Evolutionary dynamics of bacteria in a human host environment. Proc Natl Acad Sci USA. 2011;108:7481–7486. doi: 10.1073/pnas.1018249108.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1018249108</ArticleId>
+            <ArticleId IdType="pmc">PMC3088582</ArticleId>
+            <ArticleId IdType="pubmed">21518885</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marvig RL, Johansen HK, Molin S, Jelsbak L. Genome analysis of a transmissible lineage of Pseudomonas aeruginosa reveals pathoadaptive mutations and distinct evolutionary paths of hypermutators. PLoS Genet. 2013;9:e1003741.  doi: 10.1371/journal.pgen.1003741.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1003741</ArticleId>
+            <ArticleId IdType="pmc">PMC3764201</ArticleId>
+            <ArticleId IdType="pubmed">24039595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wee BA, Tai AS, Sherrard LJ, Ben Zakour NL, Hanks KR, et al.  Whole genome sequencing reveals the emergence of a Pseudomonas aeruginosa shared strain sub-lineage among patients treated within a single cystic fibrosis centre. BMC Genomics. 2018;19:644.  doi: 10.1186/s12864-018-5018-x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12864-018-5018-x</ArticleId>
+            <ArticleId IdType="pmc">PMC6117919</ArticleId>
+            <ArticleId IdType="pubmed">30165811</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marvig RL, Sommer LM, Molin S, Johansen HK. Convergent evolution and adaptation of Pseudomonas aeruginosa within patients with cystic fibrosis. Nat Genet. 2015;47:57–64. doi: 10.1038/ng.3148.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ng.3148</ArticleId>
+            <ArticleId IdType="pubmed">25401299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Klockgether J, Cramer N, Fischer S, Wiehlmann L, Tümmler B. Long-term microevolution of Pseudomonas aeruginosa differs between mildly and severely affected cystic fibrosis lungs. Am J Respir Cell Mol Biol. 2018;59:246–256. doi: 10.1165/rcmb.2017-0356OC.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1165/rcmb.2017-0356OC</ArticleId>
+            <ArticleId IdType="pubmed">29470920</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marvig RL, Dolce D, Sommer LM, Petersen B, Ciofu O, et al.  Within-host microevolution of Pseudomonas aeruginosa in Italian cystic fibrosis patients. BMC Microbiol. 2015;15:218.  doi: 10.1186/s12866-015-0563-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12866-015-0563-9</ArticleId>
+            <ArticleId IdType="pmc">PMC4612410</ArticleId>
+            <ArticleId IdType="pubmed">26482905</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qiu X, Kulasekara BR, Lory S. Role of horizontal gene transfer in the evolution of Pseudomonas aeruginosa virulence. Genome Dyn. 2009;6:126–139. doi: 10.1159/000235767.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1159/000235767</ArticleId>
+            <ArticleId IdType="pubmed">19696498</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brockhurst MA, Buckling A, Rainey PB. The effect of a bacteriophage on diversification of the opportunistic bacterial pathogen, Pseudomonas aeruginosa
+. Proc Biol Sci. 2005;272:1385–1391. doi: 10.1098/rspb.2005.3086.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1098/rspb.2005.3086</ArticleId>
+            <ArticleId IdType="pmc">PMC1560335</ArticleId>
+            <ArticleId IdType="pubmed">16006335</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Winstanley C, Langille MGI, Fothergill JL, Kukavica-Ibrulj I, Paradis-Bleau C, et al.  Newly introduced genomic prophage islands are critical determinants of in vivo competitiveness in the Liverpool epidemic strain of Pseudomonas aeruginosa
+. Genome Res. 2009;19:12–23. doi: 10.1101/gr.086082.108.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gr.086082.108</ArticleId>
+            <ArticleId IdType="pmc">PMC2612960</ArticleId>
+            <ArticleId IdType="pubmed">19047519</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harrison EM, Carter MEK, Luck S, Ou H-Y, He X, et al.  Pathogenicity islands PAPI-1 and PAPI-2 contribute individually and synergistically to the virulence of Pseudomonas aeruginosa strain PA14. Infect Immun. 2010;78:1437–1446. doi: 10.1128/IAI.00621-09.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/IAI.00621-09</ArticleId>
+            <ArticleId IdType="pmc">PMC2849418</ArticleId>
+            <ArticleId IdType="pubmed">20123716</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dettman JR, Rodrigue N, Aaron SD, Kassen R. Evolutionary genomics of epidemic and nonepidemic strains of Pseudomonas aeruginosa
+. Proc Natl Acad Sci USA. 2013;110:21065–21070. doi: 10.1073/pnas.1307862110.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1307862110</ArticleId>
+            <ArticleId IdType="pmc">PMC3876195</ArticleId>
+            <ArticleId IdType="pubmed">24324153</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lemieux A-A, Jeukens J, Kukavica-Ibrulj I, Fothergill JL, Boyle B, et al.  Genes required for free phage production are essential for Pseudomonas aeruginosa chronic lung infections. J Infect Dis. 2016;213:395–402. doi: 10.1093/infdis/jiv415.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/infdis/jiv415</ArticleId>
+            <ArticleId IdType="pubmed">26268854</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Subedi D, Vijay AK, Kohli GS, Rice SA, Willcox M. Comparative genomics of clinical strains of Pseudomonas aeruginosa strains isolated from different geographic sites. Sci Rep. 2018;8:15668.  doi: 10.1038/s41598-018-34020-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-018-34020-7</ArticleId>
+            <ArticleId IdType="pmc">PMC6199293</ArticleId>
+            <ArticleId IdType="pubmed">30353070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qiu X, Gurkar AU, Lory S. Interstrain transfer of the large pathogenicity island (PAPI-1) of Pseudomonas aeruginosa
+. Proc Natl Acad Sci USA. 2006;103:19830–19835. doi: 10.1073/pnas.0606810104.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0606810104</ArticleId>
+            <ArticleId IdType="pmc">PMC1750864</ArticleId>
+            <ArticleId IdType="pubmed">17179047</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Klockgether J, Würdemann D, Reva O, Wiehlmann L, Tümmler B. Diversity of the abundant pKLC102/PAGI-2 family of genomic islands in Pseudomonas aeruginosa
+. J Bacteriol. 2007;189:2443–2459. doi: 10.1128/JB.01688-06.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JB.01688-06</ArticleId>
+            <ArticleId IdType="pmc">PMC1899365</ArticleId>
+            <ArticleId IdType="pubmed">17194795</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mathee K, Narasimhan G, Valdes C, Qiu X, Matewish JM, et al.  Dynamics of Pseudomonas aeruginosa genome evolution. Proc Natl Acad Sci USA. 2008;105:3100–3105. doi: 10.1073/pnas.0711982105.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0711982105</ArticleId>
+            <ArticleId IdType="pmc">PMC2268591</ArticleId>
+            <ArticleId IdType="pubmed">18287045</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carter MQ, Chen J, Lory S. The Pseudomonas aeruginosa pathogenicity island PAPI-1 is transferred via a novel type IV pilus. J Bacteriol. 2010;192:3249–3258. doi: 10.1128/JB.00041-10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JB.00041-10</ArticleId>
+            <ArticleId IdType="pmc">PMC2897670</ArticleId>
+            <ArticleId IdType="pubmed">20363934</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>James CE, Fothergill JL, Kalwij H, Hall AJ, Cottell J, et al.  Differential infection properties of three inducible prophages from an epidemic strain of Pseudomonas aeruginosa
+. BMC Microbiol. 2012;12:216.  doi: 10.1186/1471-2180-12-216.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2180-12-216</ArticleId>
+            <ArticleId IdType="pmc">PMC3544612</ArticleId>
+            <ArticleId IdType="pubmed">22998633</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rau MH, Marvig RL, Ehrlich GD, Molin S, Jelsbak L. Deletion and acquisition of genomic content during early stage adaptation of Pseudomonas aeruginosa to a human host environment. Environ Microbiol. 2012;14:2200–2211. doi: 10.1111/j.1462-2920.2012.02795.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1462-2920.2012.02795.x</ArticleId>
+            <ArticleId IdType="pubmed">22672046</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bezuidt OKI, Klockgether J, Elsen S, Attree I, Davenport CF, et al.  Intraclonal genome diversity of Pseudomonas aeruginosa clones CHA and TB. BMC Genomics. 2013;14:416.  doi: 10.1186/1471-2164-14-416.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2164-14-416</ArticleId>
+            <ArticleId IdType="pmc">PMC3697988</ArticleId>
+            <ArticleId IdType="pubmed">23799896</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sharma P, Gupta SK, Rolain J-M. Whole genome sequencing of bacteria in cystic fibrosis as a model for bacterial genome adaptation and evolution. Expert Rev Anti Infect Ther. 2014;12:343–355. doi: 10.1586/14787210.2014.887441.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1586/14787210.2014.887441</ArticleId>
+            <ArticleId IdType="pubmed">24502835</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fothergill JL, Mowat E, Ledson MJ, Walshaw MJ, Winstanley C. Fluctuations in phenotypes and genotypes within populations of Pseudomonas aeruginosa in the cystic fibrosis lung during pulmonary exacerbations. J Med Microbiol. 2010;59:472–481. doi: 10.1099/jmm.0.015875-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/jmm.0.015875-0</ArticleId>
+            <ArticleId IdType="pubmed">20019149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Römling U, Schmidt KD, Tümmler B. Large genome rearrangements discovered by the detailed analysis of 21 Pseudomonas aeruginosa clone C isolates found in environment and disease habitats. J Mol Biol. 1997;271:386–404. doi: 10.1006/jmbi.1997.1186.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/jmbi.1997.1186</ArticleId>
+            <ArticleId IdType="pubmed">9268667</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harmer C, Alnassafi K, Hu H, Elkins M, Bye P, et al.  Modulation of gene expression by Pseudomonas aeruginosa during chronic infection in the adult cystic fibrosis lung. Microbiology. 2013;159:2354–2363. doi: 10.1099/mic.0.066985-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/mic.0.066985-0</ArticleId>
+            <ArticleId IdType="pubmed">24014664</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Andersen SB, Ghoul M, Griffin AS, Petersen B, Johansen HK, et al.  Diversity, prevalence, and longitudinal occurrence of type II toxin-antitoxin systems of Pseudomonas aeruginosa infecting cystic fibrosis lungs. Front Microbiol. 2017;8:1180.  doi: 10.3389/fmicb.2017.01180.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fmicb.2017.01180</ArticleId>
+            <ArticleId IdType="pmc">PMC5481352</ArticleId>
+            <ArticleId IdType="pubmed">28690609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>England WE, Kim T, Whitaker RJ. Metapopulation structure of CRISPR-Cas immunity in Pseudomonas aeruginosa and its viruses. mSystems. 2018;3:e00075-18.  doi: 10.1128/mSystems.00075-18.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/mSystems.00075-18</ArticleId>
+            <ArticleId IdType="pmc">PMC6199469</ArticleId>
+            <ArticleId IdType="pubmed">30374457</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kresse AU, Dinesh SD, Larbig K, Römling U. Impact of large chromosomal inversions on the adaptation and evolution of Pseudomonas aeruginosa chronically colonizing cystic fibrosis lungs. Mol Microbiol. 2003;47:145–158. doi: 10.1046/j.1365-2958.2003.03261.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1046/j.1365-2958.2003.03261.x</ArticleId>
+            <ArticleId IdType="pubmed">12492860</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dorman CJ, Bogue MM. The interplay between DNA topology and accessory factors in site-specific recombination in bacteria and their bacteriophages. Sci Prog. 2016;99:420–437. doi: 10.3184/003685016X14811202974921.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3184/003685016X14811202974921</ArticleId>
+            <ArticleId IdType="pubmed">28742481</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Darch SE, McNally A, Harrison F, Corander J, Barr HL, et al.  Recombination is a key driver of genomic and phenotypic diversity in a Pseudomonas aeruginosa population during cystic fibrosis infection. Sci Rep. 2015;5:7649.  doi: 10.1038/srep07649.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/srep07649</ArticleId>
+            <ArticleId IdType="pmc">PMC4289893</ArticleId>
+            <ArticleId IdType="pubmed">25578031</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Williams D, Paterson S, Brockhurst MA, Winstanley C. Refined analyses suggest that recombination is a minor source of genomic diversity in Pseudomonas aeruginosa chronic cystic fibrosis infections. Microb Genom. 2016;2:e000051.  doi: 10.1099/mgen.0.000051.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/mgen.0.000051</ArticleId>
+            <ArticleId IdType="pmc">PMC5320575</ArticleId>
+            <ArticleId IdType="pubmed">28348847</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Darch SE, McNally A, Corander J, Diggle SP. Response to ‘Refined analyses suggest that recombination is a minor source of genomic diversity in Pseudomonas aeruginosa chronic cystic fibrosis infections’ by Williams et al. (2016) Microb Genom. 2016;2:e000054. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5320577</ArticleId>
+            <ArticleId IdType="pubmed">28348849</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oliver A. Mutators in cystic fibrosis chronic lung infection: prevalence, mechanisms, and consequences for antimicrobial therapy. Int J Med Microbiol. 2010;300:563–572. doi: 10.1016/j.ijmm.2010.08.009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ijmm.2010.08.009</ArticleId>
+            <ArticleId IdType="pubmed">20837399</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Colque CA, Albarracín Orio AG, Feliziani S, Marvig RL, Tobares AR, et al.  Hypermutator Pseudomonas aeruginosa exploits multiple genetic pathways to develop multidrug resistance during long-term infections in the airways of cystic fibrosis patients. Antimicrob Agents Chemother. 2020;64:e02142-19.  doi: 10.1128/AAC.02142-19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AAC.02142-19</ArticleId>
+            <ArticleId IdType="pmc">PMC7179616</ArticleId>
+            <ArticleId IdType="pubmed">32071060</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Winstanley C, O’Brien S, Brockhurst MA. 
+Pseudomonas aeruginosa evolutionary adaptation and diversification in cystic fibrosis chronic lung infections. Trends Microbiol. 2016;24:327–337. doi: 10.1016/j.tim.2016.01.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tim.2016.01.008</ArticleId>
+            <ArticleId IdType="pmc">PMC4854172</ArticleId>
+            <ArticleId IdType="pubmed">26946977</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clark ST, Guttman DS, Hwang DM. Diversification of Pseudomonas aeruginosa within the cystic fibrosis lung and its effects on antibiotic resistance. FEMS Microbiol Lett. 2018;365:fny026.  doi: 10.1093/femsle/fny026.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/femsle/fny026</ArticleId>
+            <ArticleId IdType="pubmed">29401362</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Davies EV, James CE, Brockhurst MA, Winstanley C. Evolutionary diversification of Pseudomonas aeruginosa in an artificial sputum model. BMC Microbiol. 2017;17:3.  doi: 10.1186/s12866-016-0916-z.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12866-016-0916-z</ArticleId>
+            <ArticleId IdType="pmc">PMC5216580</ArticleId>
+            <ArticleId IdType="pubmed">28056789</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mehta HH, Prater AG, Beabout K, Elworth RAL, Karavis M. The essential role of hypermutation in rapid adaptation to antibiotic stress. Antimicrob Agents Chemother. 2019;63:e00744-19.  doi: 10.1128/AAC.00744-19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AAC.00744-19</ArticleId>
+            <ArticleId IdType="pmc">PMC6591599</ArticleId>
+            <ArticleId IdType="pubmed">31036684</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cabot G, Zamorano L, Moyà B, Juan C, Navas A, et al.  Evolution of Pseudomonas aeruginosa antimicrobial resistance and fitness under low and high mutation rates. Antimicrob Agents Chemother. 2016;60:1767–1778. doi: 10.1128/AAC.02676-15.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AAC.02676-15</ArticleId>
+            <ArticleId IdType="pmc">PMC4775977</ArticleId>
+            <ArticleId IdType="pubmed">26729493</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Khil PP, Dulanto Chiang A, Ho J, Youn J-H, Lemon JK, et al.  Dynamic emergence of mismatch repair deficiency facilitates rapid evolution of ceftazidime-avibactam resistance in Pseudomonas aeruginosa acute infection. mBio. 2019;10:e01822-19.  doi: 10.1128/mBio.01822-19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/mBio.01822-19</ArticleId>
+            <ArticleId IdType="pmc">PMC6751058</ArticleId>
+            <ArticleId IdType="pubmed">31530672</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hall LMC, Henderson-Begg SK. Hypermutable bacteria isolated from humans – a critical analysis. Microbiology. 2006;152:2505–2514. doi: 10.1099/mic.0.29079-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/mic.0.29079-0</ArticleId>
+            <ArticleId IdType="pubmed">16946246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oliver A, Mena A. Bacterial hypermutation in cystic fibrosis, not only for antibiotic resistance. Clin Microbiol Infect. 2010;16:798–808. doi: 10.1111/j.1469-0691.2010.03250.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1469-0691.2010.03250.x</ArticleId>
+            <ArticleId IdType="pubmed">20880409</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rees VE, Deveson Lucas DS, López-Causapé C, Huang Y, Kotsimbos T. Characterization of hypermutator Pseudomonas aeruginosa isolates from patients with cystic osis in Australia. Antimicrob Agents Chemother. 2019;63:e02538-18.  doi: 10.1128/AAC.02538-18.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AAC.02538-18</ArticleId>
+            <ArticleId IdType="pmc">PMC6437500</ArticleId>
+            <ArticleId IdType="pubmed">30745381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Auerbach A, Kerem E, Assous MV, Picard E, Bar-Meir M. Is infection with hypermutable Pseudomonas aeruginosa clinically significant? J Cyst Fibros. 2015;14:347–352. doi: 10.1016/j.jcf.2014.09.011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jcf.2014.09.011</ArticleId>
+            <ArticleId IdType="pubmed">25308183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Waine DJ, Honeybourne D, Smith EG, Whitehouse JL, Dowson CG. Association between hypermutator phenotype, clinical variables, mucoid phenotype, and antimicrobial resistance in Pseudomonas aeruginosa
+. J Clin Microbiol. 2008;46:3491–3493. doi: 10.1128/JCM.00357-08.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.00357-08</ArticleId>
+            <ArticleId IdType="pmc">PMC2566124</ArticleId>
+            <ArticleId IdType="pubmed">18685006</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ferroni A, Guillemot D, Moumile K, Bernede C, Le Bourgeois M, et al.  Effect of mutator P. aeruginosa on antibiotic resistance acquisition and respiratory function in cystic fibrosis. Pediatr Pulmonol. 2009;44:820–825. doi: 10.1002/ppul.21076.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/ppul.21076</ArticleId>
+            <ArticleId IdType="pubmed">19598278</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang K, Chen Y-Q, Salido MM, Kohli GS, Kong J-L, et al.  The rapid in vivo evolution of Pseudomonas aeruginosa in ventilator-associated pneumonia patients leads to attenuated virulence. Open Biol. 2017;7:170029.  doi: 10.1098/rsob.170029.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1098/rsob.170029</ArticleId>
+            <ArticleId IdType="pmc">PMC5627047</ArticleId>
+            <ArticleId IdType="pubmed">28878043</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Persyn E, Sassi M, Aubry M, Broly M, Delanou S, et al.  Rapid genetic and phenotypic changes in Pseudomonas aeruginosa clinical strains during ventilator-associated pneumonia. Sci Rep. 2019;9:4720.  doi: 10.1038/s41598-019-41201-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-019-41201-5</ArticleId>
+            <ArticleId IdType="pmc">PMC6423012</ArticleId>
+            <ArticleId IdType="pubmed">30886315</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fischer S, Klockgether J, Morán Losada P, Chouvarine P, Cramer N, et al.  Intraclonal genome diversity of the major Pseudomonas aeruginosa clones C and PA14. Environ Microbiol Rep. 2016;8:227–234. doi: 10.1111/1758-2229.12372.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/1758-2229.12372</ArticleId>
+            <ArticleId IdType="pmc">PMC4819714</ArticleId>
+            <ArticleId IdType="pubmed">26711897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wiehlmann L, Wagner G, Cramer N, Siebert B, Gudowius P, et al.  Population structure of Pseudomonas aeruginosa
+. Proc Natl Acad Sci USA. 2007;104:8101–8106. doi: 10.1073/pnas.0609213104.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0609213104</ArticleId>
+            <ArticleId IdType="pmc">PMC1876578</ArticleId>
+            <ArticleId IdType="pubmed">17468398</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Damkiaer S, Yang L, Molin S, Jelsbak L. Evolutionary remodeling of global regulatory networks during long-term bacterial adaptation to human hosts. Proc Natl Acad Sci USA. 2013;110:7766–7771. doi: 10.1073/pnas.1221466110.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1221466110</ArticleId>
+            <ArticleId IdType="pmc">PMC3651418</ArticleId>
+            <ArticleId IdType="pubmed">23610385</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feltner JB, Wolter DJ, Pope CE, Groleau M-C, Smalley NE, et al.  LasR variant cystic fibrosis isolates reveal an adaptable quorum-sensing hierarchy in Pseudomonas aeruginosa
+. mBio. 2016;7:e01513-16.  doi: 10.1128/mBio.01513-16.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/mBio.01513-16</ArticleId>
+            <ArticleId IdType="pmc">PMC5050340</ArticleId>
+            <ArticleId IdType="pubmed">27703072</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen R, Déziel E, Groleau M-C, Schaefer AL, Greenberg EP. Social cheating in a Pseudomonas aeruginosa quorum-sensing variant. Proc Natl Acad Sci USA. 2019;116:7021–7026. doi: 10.1073/pnas.1819801116.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1819801116</ArticleId>
+            <ArticleId IdType="pmc">PMC6452681</ArticleId>
+            <ArticleId IdType="pubmed">30846553</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kostylev M, Kim DY, Smalley NE, Salukhe I, Greenberg EP, et al.  Evolution of the Pseudomonas aeruginosa quorum-sensing hierarchy. Proc Natl Acad Sci USA. 2019;116:7027–7032. doi: 10.1073/pnas.1819796116.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1819796116</ArticleId>
+            <ArticleId IdType="pmc">PMC6452656</ArticleId>
+            <ArticleId IdType="pubmed">30850547</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cruz RL, Asfahl KL, Van den Bossche S, Coenye T, Crabbé A. RhlR-regulated acyl-homoserine lactone quorum sensing in a cystic fibrosis isolate of Pseudomonas aeruginosa
+. mMBio. 2020;11:e00532-20.  doi: 10.1128/mBio.00532-20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/mBio.00532-20</ArticleId>
+            <ArticleId IdType="pmc">PMC7157775</ArticleId>
+            <ArticleId IdType="pubmed">32265330</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jorth P, Staudinger BJ, Wu X, Hisert KB, Hayden H, et al.  Regional isolation drives bacterial diversification within cystic fibrosis lungs. Cell Host Microbe. 2015;18:307–319. doi: 10.1016/j.chom.2015.07.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.chom.2015.07.006</ArticleId>
+            <ArticleId IdType="pmc">PMC4589543</ArticleId>
+            <ArticleId IdType="pubmed">26299432</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Williams D, Evans B, Haldenby S, Walshaw MJ, Brockhurst MA, et al.  Divergent, coexisting Pseudomonas aeruginosa lineages in chronic cystic fibrosis lung infections. Am J Respir Crit Care Med. 2015;191:775–785. doi: 10.1164/rccm.201409-1646OC.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1164/rccm.201409-1646OC</ArticleId>
+            <ArticleId IdType="pmc">PMC4407486</ArticleId>
+            <ArticleId IdType="pubmed">25590983</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Williams D, Fothergill JL, Evans B, Caples J, Haldenby S, et al.  Transmission and lineage displacement drive rapid population genomic flux in cystic fibrosis airway infections of a Pseudomonas aeruginosa epidemic strain. Microb Genom. 2018;4:000167.  doi: 10.1099/mgen.0.000167.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/mgen.0.000167</ArticleId>
+            <ArticleId IdType="pmc">PMC5885019</ArticleId>
+            <ArticleId IdType="pubmed">29547097</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anthony M, Rose B, Pegler MB, Elkins M, Service H, et al.  Genetic analysis of Pseudomonas aeruginosa isolates from the sputa of Australian adult cystic fibrosis patients. J Clin Microbiol. 2002;40:2772–2778. doi: 10.1128/JCM.40.8.2772-2778.2002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.40.8.2772-2778.2002</ArticleId>
+            <ArticleId IdType="pmc">PMC120616</ArticleId>
+            <ArticleId IdType="pubmed">12149328</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bragonzi A, Wiehlmann L, Klockgether J, Cramer N, Worlitzsch D, et al.  Sequence diversity of the mucABD locus in Pseudomonas aeruginosa isolates from patients with cystic fibrosis. Microbiology. 2006;152:3261–3269. doi: 10.1099/mic.0.29175-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/mic.0.29175-0</ArticleId>
+            <ArticleId IdType="pubmed">17074897</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ciofu O, Lee B, Johannesson M, Hermansen NO, Meyer P, et al.  Investigation of the algT operon sequence in mucoid and non-mucoid Pseudomonas aeruginosa isolates from 115 Scandinavian patients with cystic fibrosis and in 88 in vitro non-mucoid revertants. Microbiology. 2008;154:103–113. doi: 10.1099/mic.0.2007/010421-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/mic.0.2007/010421-0</ArticleId>
+            <ArticleId IdType="pubmed">18174130</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pulcrano G, Iula DV, Raia V, Rossano F, Catania MR. Different mutations in mucA gene of Pseudomonas aeruginosa mucoid strains in cystic fibrosis patients and their effect on algU gene expression. New Microbiol. 2012;35:295–305.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22842599</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Candido Caçador N, Paulino da Costa Capizzani C, Gomes Monteiro Marin Torres LA, Galetti R, Ciofu O, et al.  Adaptation of Pseudomonas aeruginosa to the chronic phenotype by mutations in the algTmucABD operon in isolates from Brazilian cystic fibrosis patients. PLoS One. 2018;13:e0208013.  doi: 10.1371/journal.pone.0208013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0208013</ArticleId>
+            <ArticleId IdType="pmc">PMC6264809</ArticleId>
+            <ArticleId IdType="pubmed">30496246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Panmanee W, Su S, Schurr MJ, Lau GW, Zhu X, et al.  The anti-sigma factor MucA of Pseudomonas aeruginosa: dramatic differences of a mucA22 vs. a ΔmucA mutant in anaerobic acidified nitrite sensitivity of planktonic and biofilm bacteria in vitro and during chronic murine lung infection. PLoS One. 2019;14:e0216401.  doi: 10.1371/journal.pone.0216401.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0216401</ArticleId>
+            <ArticleId IdType="pmc">PMC6546240</ArticleId>
+            <ArticleId IdType="pubmed">31158231</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brule CE, Grayhack EJ. Synonymous codons: choose wisely for expression. Trends Genet. 2017;33:283–297. doi: 10.1016/j.tig.2017.02.001.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tig.2017.02.001</ArticleId>
+            <ArticleId IdType="pmc">PMC5409834</ArticleId>
+            <ArticleId IdType="pubmed">28292534</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kristofich J, Morgenthaler AB, Kinney WR, Ebmeier CC, Snyder DJ, et al.  Synonymous mutations make dramatic contributions to fitness when growth is limited by a weak-link enzyme. PLoS Genet. 2018;14:e1007615.  doi: 10.1371/journal.pgen.1007615.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1007615</ArticleId>
+            <ArticleId IdType="pmc">PMC6128649</ArticleId>
+            <ArticleId IdType="pubmed">30148850</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bailey SF, Hinz A, Kassen R. Adaptive synonymous mutations in an experimentally evolved Pseudomonas fluorescens population. Nat Commun. 2014;5:4076.  doi: 10.1038/ncomms5076.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms5076</ArticleId>
+            <ArticleId IdType="pubmed">24912567</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lebeuf-Taylor E, McCloskey N, Bailey SF, Hinz A, Kassen R. The distribution of fitness effects among synonymous mutations in a gene under directional selection. Elife. 2019;8:e45952.  doi: 10.7554/eLife.45952.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.45952</ArticleId>
+            <ArticleId IdType="pmc">PMC6692132</ArticleId>
+            <ArticleId IdType="pubmed">31322500</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thorpe HA, Bayliss SC, Hurst LD, Feil EJ. Comparative analyses of selection operating on nontranslated intergenic regions of diverse bacterial species. Genetics. 2017;206:363–376. doi: 10.1534/genetics.116.195784.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1534/genetics.116.195784</ArticleId>
+            <ArticleId IdType="pmc">PMC5419481</ArticleId>
+            <ArticleId IdType="pubmed">28280056</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Khademi SMH, Sazinas P, Jelsbak L. Within-host adaptation mediated by intergenic evolution in Pseudomonas aeruginosa
+. Genome Biol Evol. 2019;11:1385–1397. doi: 10.1093/gbe/evz083.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/gbe/evz083</ArticleId>
+            <ArticleId IdType="pmc">PMC6505451</ArticleId>
+            <ArticleId IdType="pubmed">30980662</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ernst RK, D′Argenio DA, Ichikawa JK, Bangera MG, Selgrade S, et al.  Genome mosaicism is conserved but not unique in Pseudomonas aeruginosa isolates from the airways of young children with cystic fibrosis. Environ Microbiol. 2003;5:1341–1349. doi: 10.1111/j.1462-2920.2003.00518.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1462-2920.2003.00518.x</ArticleId>
+            <ArticleId IdType="pubmed">14641578</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huse HK, Kwon T, Zlosnik JEA, Speert DP, Marcotte EM, et al.  Parallel evolution in Pseudomonas aeruginosa over 39,000 generations in vivo. mBio. 2010;1:e00199-10.  doi: 10.1128/mBio.00199-10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/mBio.00199-10</ArticleId>
+            <ArticleId IdType="pmc">PMC2939680</ArticleId>
+            <ArticleId IdType="pubmed">20856824</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rau MH, Hansen SK, Johansen HK, Thomsen LE, Workman CT, et al.  Early adaptive developments of Pseudomonas aeruginosa after the transition from life in the environment to persistent colonization in the airways of human cystic fibrosis hosts. Environ Microbiol. 2010;12:1643–1658.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20406284</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee B, Schjerling CK, Kirkby N, Hoffmann N, Borup R, et al.  Mucoid Pseudomonas aeruginosa isolates maintain the biofilm formation capacity and the gene expression profiles during the chronic lung infection of CF patients. APMIS. 2011;119:263–274. doi: 10.1111/j.1600-0463.2011.02726.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1600-0463.2011.02726.x</ArticleId>
+            <ArticleId IdType="pubmed">21492226</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schuster M, Lostroh CP, Ogi T, Greenberg EP. Identification, timing, and signal specificity of Pseudomonas aeruginosa quorum-controlled genes: a transcriptome analysis. J Bacteriol. 2003;185:2066–2079. doi: 10.1128/JB.185.7.2066-2079.2003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JB.185.7.2066-2079.2003</ArticleId>
+            <ArticleId IdType="pmc">PMC151497</ArticleId>
+            <ArticleId IdType="pubmed">12644476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wagner VE, Bushnell D, Passador L, Brooks AI, Iglewski BH. Microarray analysis of Pseudomonas aeruginosa quorum-sensing regulons: effects of growth phase and environment. J Bacteriol. 2003;185:2080–2095. doi: 10.1128/JB.185.7.2080-2095.2003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JB.185.7.2080-2095.2003</ArticleId>
+            <ArticleId IdType="pmc">PMC151498</ArticleId>
+            <ArticleId IdType="pubmed">12644477</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Damron FH, Owings JP, Okkotsu Y, Varga JJ, Schurr JR, et al.  Analysis of the Pseudomonas aeruginosa regulon controlled by the sensor kinase KinB and sigma factor RpoN. J Bacteriol. 2012;194:1317–1330. doi: 10.1128/JB.06105-11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JB.06105-11</ArticleId>
+            <ArticleId IdType="pmc">PMC3294845</ArticleId>
+            <ArticleId IdType="pubmed">22210761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schultz A, Stick S. Early pulmonary inflammation and lung damage in children with cystic fibrosis: early inflammation and lung damage in CF. Respirology. 2015;20:569–578.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25823858</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gifford AH, Willger SD, Dolben EL, Moulton LA, Dorman DB, et al.  Use of a multiplex transcript method for analysis of Pseudomonas aeruginosa gene expression profiles in the cystic fibrosis lung. Infect Immun. 2016;84:2995–3006. doi: 10.1128/IAI.00437-16.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/IAI.00437-16</ArticleId>
+            <ArticleId IdType="pmc">PMC5038062</ArticleId>
+            <ArticleId IdType="pubmed">27481238</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rossi E, Falcone M, Molin S, Johansen HK. High-resolution in situ transcriptomics of Pseudomonas aeruginosa unveils genotype independent patho-phenotypes in cystic fibrosis lungs. Nat Commun. 2018;9:3459.  doi: 10.1038/s41467-018-05944-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-018-05944-5</ArticleId>
+            <ArticleId IdType="pmc">PMC6110831</ArticleId>
+            <ArticleId IdType="pubmed">30150613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cornforth DM, Dees JL, Ibberson CB, Huse HK, Mathiesen IH, et al.  
+Pseudomonas aeruginosa transcriptome during human infection. Proc Natl Acad Sci USA. 2018;115:E5125–E5134. doi: 10.1073/pnas.1717525115.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1717525115</ArticleId>
+            <ArticleId IdType="pmc">PMC5984494</ArticleId>
+            <ArticleId IdType="pubmed">29760087</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kordes A, Preusse M, Willger SD, Braubach P, Jonigk D, et al.  Genetically diverse Pseudomonas aeruginosa populations display similar transcriptomic profiles in a cystic fibrosis explanted lung. Nat Commun. 2019;10:3397.  doi: 10.1038/s41467-019-11414-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-019-11414-3</ArticleId>
+            <ArticleId IdType="pmc">PMC6667473</ArticleId>
+            <ArticleId IdType="pubmed">31363089</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kumar SS, Tandberg JI, Penesyan A, Elbourne LDH, Suarez-Bosche N, et al.  Dual transcriptomics of host-pathogen interaction of cystic fibrosis isolate Pseudomonas aeruginosa PASS1 with zebrafish. Front Cell Infect Microbiol. 2018;8:406.  doi: 10.3389/fcimb.2018.00406.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fcimb.2018.00406</ArticleId>
+            <ArticleId IdType="pmc">PMC6262203</ArticleId>
+            <ArticleId IdType="pubmed">30524971</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Damron FH, Oglesby-Sherrouse AG, Wilks A, Barbier M. Dual-seq transcriptomics reveals the battle for iron during Pseudomonas aeruginosa acute murine pneumonia. Sci Rep. 2016;16:39172.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5159919</ArticleId>
+            <ArticleId IdType="pubmed">27982111</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hare NJ, Cordwell SJ. Proteomics of bacterial pathogens: Pseudomonas aeruginosa infections in cystic fibrosis - a case study. Proteomics Clin Appl. 2010;4:228–248. doi: 10.1002/prca.200900144.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/prca.200900144</ArticleId>
+            <ArticleId IdType="pubmed">21137046</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kamath KS, Kumar SS, Kaur J, Venkatakrishnan V, Paulsen IT, et al.  Proteomics of hosts and pathogens in cystic fibrosis. Proteomics Clin Appl. 2015;9:134–146. doi: 10.1002/prca.201400122.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/prca.201400122</ArticleId>
+            <ArticleId IdType="pubmed">25418359</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Penesyan A, Kumar SS, Kamath K, Shathili AM, Venkatakrishnan V, et al.  Genetically and phenotypically distinct Pseudomonas aeruginosa cystic fibrosis isolates share a core proteomic signature. PLoS One. 2015;10:e0138527.  doi: 10.1371/journal.pone.0138527.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0138527</ArticleId>
+            <ArticleId IdType="pmc">PMC4592193</ArticleId>
+            <ArticleId IdType="pubmed">26431321</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kamath KS, Pascovici D, Penesyan A, Goel A, Venkatakrishnan V, et al.  
+Pseudomonas aeruginosa cell membrane protein expression from phenotypically diverse cystic fibrosis isolates demonstrates host-specific adaptations. J Proteome Res. 2016;15:2152–2163. doi: 10.1021/acs.jproteome.6b00058.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acs.jproteome.6b00058</ArticleId>
+            <ArticleId IdType="pubmed">27246823</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kamath KS, Krisp C, Chick J, Pascovici D, Gygi SP, et al.  
+Pseudomonas aeruginosa proteome under hypoxic stress conditions mimicking the cystic fibrosis lung. J Proteome Res. 2017;16:3917–3928. doi: 10.1021/acs.jproteome.7b00561.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acs.jproteome.7b00561</ArticleId>
+            <ArticleId IdType="pubmed">28832155</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu X, Siehnel RJ, Garudathri J, Staudinger BJ, Hisert KB, et al.  In vivo proteome of Pseudomonas aeruginosa in airways of cystic fibrosis patients. J Proteome Res. 2019;18:2601–2612. doi: 10.1021/acs.jproteome.9b00122.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acs.jproteome.9b00122</ArticleId>
+            <ArticleId IdType="pmc">PMC6750005</ArticleId>
+            <ArticleId IdType="pubmed">31060355</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hare NJ, Solis N, Harmer C, Marzook NB, Rose B, et al.  Proteomic profiling of Pseudomonas aeruginosa AES-1R, PAO1 and PA14 reveals potential virulence determinants associated with a transmissible cystic fibrosis-associated strain. BMC Microbiol. 2012;12:16.  doi: 10.1186/1471-2180-12-16.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2180-12-16</ArticleId>
+            <ArticleId IdType="pmc">PMC3398322</ArticleId>
+            <ArticleId IdType="pubmed">22264352</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hare NJ, Soe CZ, Rose B, Harbour C, Codd R, et al.  Proteomics of Pseudomonas aeruginosa Australian epidemic strain 1 (AES-1) cultured under conditions mimicking the cystic fibrosis lung reveals increased iron acquisition via the siderophore pyochelin. J Proteome Res. 2012;11:776–795. doi: 10.1021/pr200659h.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/pr200659h</ArticleId>
+            <ArticleId IdType="pubmed">22054071</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sousa AM, Pereira MO. 
+Pseudomonas aeruginosa diversification during infection development in cystic fibrosis lungs – a review. Pathogens. 2014;3:680–703. doi: 10.3390/pathogens3030680.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/pathogens3030680</ArticleId>
+            <ArticleId IdType="pmc">PMC4243435</ArticleId>
+            <ArticleId IdType="pubmed">25438018</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Klockgether J, Miethke N, Kubesch P, Bohn Y-S, Brockhausen I, et al.  Intraclonal diversity of the Pseudomonas aeruginosa cystic fibrosis airway isolates TBCF10839 and TBCF121838: distinct signatures of transcriptome, proteome, metabolome, adherence and pathogenicity despite an almost identical genome sequence. Environ Microbiol. 2013;15:191–210. doi: 10.1111/j.1462-2920.2012.02842.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1462-2920.2012.02842.x</ArticleId>
+            <ArticleId IdType="pubmed">22882573</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Faure E, Kwong K, Nguyen D. 
+Pseudomonas aeruginosa in chronic lung infections: how to adapt within the host? Front Immunol. 2018;9:2416.  doi: 10.3389/fimmu.2018.02416.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fimmu.2018.02416</ArticleId>
+            <ArticleId IdType="pmc">PMC6204374</ArticleId>
+            <ArticleId IdType="pubmed">30405616</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>La Rosa R, Johansen HK, Molin S. Adapting to the airways: metabolic requirements of Pseudomonas aeruginosa during the infection of cystic fibrosis patients. Metabolites. 2019;9:234.  doi: 10.3390/metabo9100234.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/metabo9100234</ArticleId>
+            <ArticleId IdType="pmc">PMC6835255</ArticleId>
+            <ArticleId IdType="pubmed">31623245</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Riquelme SA, Wong Fok Lung T, Prince A. Pulmonary pathogens adapt to immune signaling metabolites in the airway. Front Immunol. 2020;11:385.  doi: 10.3389/fimmu.2020.00385.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fimmu.2020.00385</ArticleId>
+            <ArticleId IdType="pmc">PMC7082326</ArticleId>
+            <ArticleId IdType="pubmed">32231665</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schick A, Kassen R. Rapid diversification of Pseudomonas aeruginosa in cystic fibrosis lung-like conditions. Proc Natl Acad Sci USA. 2018;115:10714–10719. doi: 10.1073/pnas.1721270115.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1721270115</ArticleId>
+            <ArticleId IdType="pmc">PMC6196507</ArticleId>
+            <ArticleId IdType="pubmed">30275334</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>La Rosa R, Johansen HK, Molin S. Convergent metabolic specialization through distinct evolutionary paths in Pseudomonas aeruginosa
+. mBio. 2018;9:e00269-18.  doi: 10.1128/mBio.00269-18.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/mBio.00269-18</ArticleId>
+            <ArticleId IdType="pmc">PMC5893872</ArticleId>
+            <ArticleId IdType="pubmed">29636437</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Palmer KL, Aye LM, Whiteley M. Nutritional cues control Pseudomonas aeruginosa multicellular behavior in cystic fibrosis sputum. J Bacteriol. 2007;189:8079–8087. doi: 10.1128/JB.01138-07.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JB.01138-07</ArticleId>
+            <ArticleId IdType="pmc">PMC2168676</ArticleId>
+            <ArticleId IdType="pubmed">17873029</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barth AL, Pitt TL. The high amino-acid content of sputum from cystic fibrosis patients promotes growth of auxotrophic Pseudomonas aeruginosa
+. J Med Microbiol. 1996;45:110–119. doi: 10.1099/00222615-45-2-110.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/00222615-45-2-110</ArticleId>
+            <ArticleId IdType="pubmed">8683546</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kumar SS, Penesyan A, Elbourne LDH, Gillings MR, Paulsen IT. Catabolism of nucleic acids by a cystic fibrosis Pseudomonas aeruginosa isolate: an adaptive pathway to cystic fibrosis sputum environment. Front Microbiol. 2019;10:1199.  doi: 10.3389/fmicb.2019.01199.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fmicb.2019.01199</ArticleId>
+            <ArticleId IdType="pmc">PMC6555301</ArticleId>
+            <ArticleId IdType="pubmed">31214142</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cramer N, Fischer S, Hedtfeld S, Dorda M, Tümmler B. Intraclonal competitive fitness of longitudinal cystic fibrosis Pseudomonas aeruginosa airway isolates in liquid cultures. Environ Microbiol. 2020;22:2536.  doi: 10.1111/1462-2920.14924.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/1462-2920.14924</ArticleId>
+            <ArticleId IdType="pubmed">31985137</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Evans TJ. Small colony variants of Pseudomonas aeruginosa in chronic bacterial infection of the lung in cystic fibrosis. Future Microbiol. 2015;10:231–239. doi: 10.2217/fmb.14.107.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2217/fmb.14.107</ArticleId>
+            <ArticleId IdType="pubmed">25689535</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mangiaterra G, Amiri M, Di Cesare A, Pasquaroli S, Manso E, et al.  Detection of viable but non-culturable Pseudomonas aeruginosa in cystic fibrosis by qPCR: a validation study. BMC Infect Dis. 2018;18:701.  doi: 10.1186/s12879-018-3612-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12879-018-3612-9</ArticleId>
+            <ArticleId IdType="pmc">PMC6307279</ArticleId>
+            <ArticleId IdType="pubmed">30587160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Al Ahmar R, Kirby BD, Yu HD. Culture of small colony variant of Pseudomonas aeruginosa and quantitation of its alginate. J Vis Exp. 2020;156:e60466.  doi: 10.3791/60466.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3791/60466</ArticleId>
+            <ArticleId IdType="pubmed">32150164</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>López-Causapé C, Cabot G, Del Barrio-Tofiño E, Oliver A. The versatile mutational resistome of Pseudomonas aeruginosa
+. Front Microbiol. 2018;9:685.  doi: 10.3389/fmicb.2018.00685.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fmicb.2018.00685</ArticleId>
+            <ArticleId IdType="pmc">PMC5897538</ArticleId>
+            <ArticleId IdType="pubmed">29681898</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Suresh M, Nithya N, Jayasree PR, Vimal KP, Manish Kumar PR. Mutational analyses of regulatory genes, mexR, nalC, nalD and mexZ of mexAB-oprM and mexXY operons, in efflux pump hyperexpressing multidrug-resistant clinical isolates of Pseudomonas aeruginosa
+. World J Microbiol Biotechnol. 2018;34:83. doi: 10.1007/s11274-018-2465-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11274-018-2465-0</ArticleId>
+            <ArticleId IdType="pubmed">29846800</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huszczynski SM, Lam JS, Khursigara CM. The role of Pseudomonas aeruginosa lipopolysaccharide in bacterial pathogenesis and physiology. Pathogens. 2019;9:6.  doi: 10.3390/pathogens9010006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/pathogens9010006</ArticleId>
+            <ArticleId IdType="pmc">PMC7168646</ArticleId>
+            <ArticleId IdType="pubmed">31861540</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maldonado RF, Sá-Correia I, Valvano MA. Lipopolysaccharide modification in Gram-negative bacteria during chronic infection. FEMS Microbiol Rev. 2016;40:480–493. doi: 10.1093/femsre/fuw007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/femsre/fuw007</ArticleId>
+            <ArticleId IdType="pmc">PMC4931227</ArticleId>
+            <ArticleId IdType="pubmed">27075488</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bricio-Moreno L, Sheridan VH, Goodhead I, Armstrong S, Wong JKL, et al.  Evolutionary trade-offs associated with loss of PmrB function in host-adapted Pseudomonas aeruginosa
+. Nat Commun. 2018;9:2635.  doi: 10.1038/s41467-018-04996-x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-018-04996-x</ArticleId>
+            <ArticleId IdType="pmc">PMC6035264</ArticleId>
+            <ArticleId IdType="pubmed">29980663</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poon KKH, Westman EL, Vinogradov E, Jin S, Lam JS. Functional characterization of MigA and WapR: putative rhamnosyltransferases involved in outer core oligosaccharide biosynthesis of Pseudomonas aeruginosa
+. J Bacteriol. 2008;190:1857–1865. doi: 10.1128/JB.01546-07.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JB.01546-07</ArticleId>
+            <ArticleId IdType="pmc">PMC2258888</ArticleId>
+            <ArticleId IdType="pubmed">18178733</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dößelmann B, Willmann M, Steglich M, Bunk B, Nübel U, et al.  Rapid and consistent evolution of colistin resistance in extensively drug-resistant Pseudomonas aeruginosa during morbidostat culture. Antimicrob Agents Chemother. 2017;61:e00043-17.  doi: 10.1128/AAC.00043-17.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AAC.00043-17</ArticleId>
+            <ArticleId IdType="pmc">PMC5571341</ArticleId>
+            <ArticleId IdType="pubmed">28630206</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cullen L, Weiser R, Olszak T, Maldonado RF, Moreira AS, et al.  Phenotypic characterization of an international Pseudomonas aeruginosa reference panel: strains of cystic fibrosis (CF) origin show less in vivo virulence than non-CF strains. Microbiology. 2015;161:1961–1977. doi: 10.1099/mic.0.000155.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1099/mic.0.000155</ArticleId>
+            <ArticleId IdType="pubmed">26253522</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Römling U, Fiedler B, Bosshammer J, Grothues D, Greipel J, et al.  Epidemiology of chronic Pseudomonas aeruginosa infections in cystic fibrosis. J Infect Dis. 1994;170:1616–1621. doi: 10.1093/infdis/170.6.1616.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/infdis/170.6.1616</ArticleId>
+            <ArticleId IdType="pubmed">7996008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ghoul M, West SA, Johansen HK, Molin S, Harrison OB, et al.  Bacteriocin-mediated competition in cystic fibrosis lung infections. Proc Biol Sci. 2015;282:20150972. doi: 10.1098/rspb.2015.0972.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1098/rspb.2015.0972</ArticleId>
+            <ArticleId IdType="pmc">PMC4571691</ArticleId>
+            <ArticleId IdType="pubmed">26311664</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Redero M, López-Causapé C, Aznar J, Oliver A, Blázquez J, et al.  Susceptibility to R-pyocins of Pseudomonas aeruginosa clinical isolates from cystic fibrosis patients. J Antimicrob Chemother. 2018;73:2770–2776. doi: 10.1093/jac/dky261.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/jac/dky261</ArticleId>
+            <ArticleId IdType="pubmed">30052973</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Franklin MJ, Nivens DE, Weadge JT, Howell PL. Biosynthesis of the Pseudomonas aeruginosa extracellular polysaccharides, alginate, Pel, and Psl. Front Microbiol. 2011;2:167.  doi: 10.3389/fmicb.2011.00167.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fmicb.2011.00167</ArticleId>
+            <ArticleId IdType="pmc">PMC3159412</ArticleId>
+            <ArticleId IdType="pubmed">21991261</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Colvin KM, Irie Y, Tart CS, Urbano R, Whitney JC, et al.  The Pel and Psl polysaccharides provide Pseudomonas aeruginosa structural redundancy within the biofilm matrix. Environ Microbiol. 2012;14:1913–1928. doi: 10.1111/j.1462-2920.2011.02657.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1462-2920.2011.02657.x</ArticleId>
+            <ArticleId IdType="pmc">PMC3840794</ArticleId>
+            <ArticleId IdType="pubmed">22176658</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Colvin KM, Gordon VD, Murakami K, Borlee BR, Wozniak DJ, et al.  The Pel polysaccharide can serve a structural and protective role in the biofilm matrix of Pseudomonas aeruginosa
+. PLoS Pathog. 2011;7:e1001264.  doi: 10.1371/journal.ppat.1001264.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1001264</ArticleId>
+            <ArticleId IdType="pmc">PMC3029257</ArticleId>
+            <ArticleId IdType="pubmed">21298031</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Billings N, Millan M, Caldara M, Rusconi R, Tarasova Y, et al.  The extracellular matrix component Psl provides fast-acting antibiotic defense in Pseudomonas aeruginosa biofilms. PLoS Pathog. 2013;9:e1003526.  doi: 10.1371/journal.ppat.1003526.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1003526</ArticleId>
+            <ArticleId IdType="pmc">PMC3738486</ArticleId>
+            <ArticleId IdType="pubmed">23950711</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harrison JJ, Almblad H, Irie Y, Wolter DJ, Eggleston HC, et al.  Elevated exopolysaccharide levels in Pseudomonas aeruginosa flagellar mutants have implications for biofilm growth and chronic infections. PLoS Genet. 2020;16:e1008848.  doi: 10.1371/journal.pgen.1008848.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pgen.1008848</ArticleId>
+            <ArticleId IdType="pmc">PMC7314104</ArticleId>
+            <ArticleId IdType="pubmed">32530919</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Starkey M, Hickman JH, Ma L, Zhang N, De Long S, et al.  
+Pseudomonas aeruginosa rugose small-colony variants have adaptations that likely promote persistence in the cystic fibrosis lung. J Bacteriol. 2009;191:3492–3503. doi: 10.1128/JB.00119-09.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JB.00119-09</ArticleId>
+            <ArticleId IdType="pmc">PMC2681918</ArticleId>
+            <ArticleId IdType="pubmed">19329647</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Henry RL, Mellis CM, Petrovic L. Mucoid Pseudomonas aeruginosa is a marker of poor survival in cystic fibrosis. Pediatr Pulmonol. 1992;12:158–161. doi: 10.1002/ppul.1950120306.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/ppul.1950120306</ArticleId>
+            <ArticleId IdType="pubmed">1641272</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Parad RB, Gerard CJ, Zurakowski D, Nichols DP, Pier GB. Pulmonary outcome in cystic fibrosis is influenced primarily by mucoid Pseudomonas aeruginosa infection and immune status and only modestly by genotype. Infect Immun. 1999;67:4744–4750. doi: 10.1128/IAI.67.9.4744-4750.1999.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/IAI.67.9.4744-4750.1999</ArticleId>
+            <ArticleId IdType="pmc">PMC96804</ArticleId>
+            <ArticleId IdType="pubmed">10456926</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hengzhuang W, Wu H, Ciofu O, Song Z, Høiby N. Pharmacokinetics/pharmacodynamics of colistin and imipenem on mucoid and nonmucoid Pseudomonas aeruginosa biofilms. Antimicrob Agents Chemother. 2011;55:4469–4474. doi: 10.1128/AAC.00126-11.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AAC.00126-11</ArticleId>
+            <ArticleId IdType="pmc">PMC3165294</ArticleId>
+            <ArticleId IdType="pubmed">21670181</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Malhotra S, Hayes D, Wozniak DJ. Mucoid Pseudomonas aeruginosa and regional inflammation in the cystic fibrosis lung. J Cyst Fibros. 2019;18:796–803. doi: 10.1016/j.jcf.2019.04.009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jcf.2019.04.009</ArticleId>
+            <ArticleId IdType="pmc">PMC6815243</ArticleId>
+            <ArticleId IdType="pubmed">31036488</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cornelis P, Dingemans J. 
+Pseudomonas aeruginosa adapts its iron uptake strategies in function of the type of infections. Front Cell Infect Microbiol. 2013;3:75.  doi: 10.3389/fcimb.2013.00075.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fcimb.2013.00075</ArticleId>
+            <ArticleId IdType="pmc">PMC3827675</ArticleId>
+            <ArticleId IdType="pubmed">24294593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Minandri F, Imperi F, Frangipani E, Bonchi C, Visaggio D, et al.  Role of iron uptake systems in Pseudomonas aeruginosa virulence and airway infection. Infect Immun. 2016;84:2324–2335. doi: 10.1128/IAI.00098-16.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/IAI.00098-16</ArticleId>
+            <ArticleId IdType="pmc">PMC4962624</ArticleId>
+            <ArticleId IdType="pubmed">27271740</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Marvig RL, Damkiær S, Khademi SMH, Markussen TM, Molin S, et al.  Within-host evolution of Pseudomonas aeruginosa reveals adaptation toward iron acquisition from hemoglobin. mBio. 2014;5:e00966-14.  doi: 10.1128/mBio.00966-14.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/mBio.00966-14</ArticleId>
+            <ArticleId IdType="pmc">PMC4010824</ArticleId>
+            <ArticleId IdType="pubmed">24803516</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ballarini A, Scalet G, Kos M, Cramer N, Wiehlmann L, et al.  Molecular typing and epidemiological investigation of clinical populations of Pseudomonas aeruginosa using an oligonucleotide-microarray. BMC Microbiol. 2012;12:152.  doi: 10.1186/1471-2180-12-152.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1471-2180-12-152</ArticleId>
+            <ArticleId IdType="pmc">PMC3431270</ArticleId>
+            <ArticleId IdType="pubmed">22840192</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shaver CM, Hauser AR. Relative contributions of Pseudomonas aeruginosa ExoU, ExoS, and ExoT to virulence in the lung. Infect Immun. 2004;72:6969–6977. doi: 10.1128/IAI.72.12.6969-6977.2004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/IAI.72.12.6969-6977.2004</ArticleId>
+            <ArticleId IdType="pmc">PMC529154</ArticleId>
+            <ArticleId IdType="pubmed">15557619</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sawa T, Shimizu M, Moriyama K, Wiener-Kronish JP. Association between Pseudomonas aeruginosa type III secretion, antibiotic resistance, and clinical outcome: a review. Crit Care. 2014;18:668. doi: 10.1186/s13054-014-0668-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13054-014-0668-9</ArticleId>
+            <ArticleId IdType="pmc">PMC4331484</ArticleId>
+            <ArticleId IdType="pubmed">25672496</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sarges EDSNF, Rodrigues YC, Furlaneto IP, de Melo MVH, Brabo GLDC, et al.  
+Pseudomonas aeruginosa type III secretion system virulotypes and their association with clinical features of cystic fibrosis patients. Infect Drug Resist. 2020;13:3771–3781. doi: 10.2147/IDR.S273759.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2147/IDR.S273759</ArticleId>
+            <ArticleId IdType="pmc">PMC7588269</ArticleId>
+            <ArticleId IdType="pubmed">33116695</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tognon M, Köhler T, Gdaniec BG, Hao Y, Lam JS, et al.  Co-evolution with Staphylococcus aureus leads to lipopolysaccharide alterations in Pseudomonas aeruginosa
+. ISME J. 2017;11:2233–2243. doi: 10.1038/ismej.2017.83.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ismej.2017.83</ArticleId>
+            <ArticleId IdType="pmc">PMC5607365</ArticleId>
+            <ArticleId IdType="pubmed">28548661</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao K, Du L, Lin J, Yuan Y, Wang X, et al.  
+Pseudomonas aeruginosa quorum-sensing and type vi secretion system can direct interspecific coexistence during evolution. Front Microbiol. 2018;9:2287.  doi: 10.3389/fmicb.2018.02287.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fmicb.2018.02287</ArticleId>
+            <ArticleId IdType="pmc">PMC6193480</ArticleId>
+            <ArticleId IdType="pubmed">30364310</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diggle SP, Griffin AS, Campbell GS, West SA. Cooperation and conflict in quorum-sensing bacterial populations. Nature. 2007;450:411–414. doi: 10.1038/nature06279.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature06279</ArticleId>
+            <ArticleId IdType="pubmed">18004383</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sandoz KM, Mitzimberg SM, Schuster M. Social cheating in Pseudomonas aeruginosa quorum sensing. Proc Natl Acad Sci USA. 2007;104:15876–15881. doi: 10.1073/pnas.0705653104.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0705653104</ArticleId>
+            <ArticleId IdType="pmc">PMC2000394</ArticleId>
+            <ArticleId IdType="pubmed">17898171</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dandekar AA, Chugani S, Greenberg EP. Bacterial quorum sensing and metabolic incentives to cooperate. Science. 2012;338:264–266. doi: 10.1126/science.1227289.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1227289</ArticleId>
+            <ArticleId IdType="pmc">PMC3587168</ArticleId>
+            <ArticleId IdType="pubmed">23066081</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tashiro Y, Yawata Y, Toyofuku M, Uchiyama H, Nomura N. Interspecies interaction between Pseudomonas aeruginosa and other microorganisms. Microbes Environ. 2013;28:13–24. doi: 10.1264/jsme2.ME12167.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1264/jsme2.ME12167</ArticleId>
+            <ArticleId IdType="pmc">PMC4070684</ArticleId>
+            <ArticleId IdType="pubmed">23363620</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sana TG, Berni B, Bleves S. The T6SSs of Pseudomonas aeruginosa strain PAO1 and their effectors: beyond bacterial-cell targeting. Front Cell Infect Microbiol. 2016;6:61.  doi: 10.3389/fcimb.2016.00061.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fcimb.2016.00061</ArticleId>
+            <ArticleId IdType="pmc">PMC4899435</ArticleId>
+            <ArticleId IdType="pubmed">27376031</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nguyen AT, Oglesby-Sherrouse AG. Interactions between Pseudomonas aeruginosa and Staphylococcus aureus during co-cultivations and polymicrobial infections. Appl Microbiol Biotechnol. 2016;100:6141–6148. doi: 10.1007/s00253-016-7596-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00253-016-7596-3</ArticleId>
+            <ArticleId IdType="pmc">PMC4916000</ArticleId>
+            <ArticleId IdType="pubmed">27236810</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hotterbeekx A, Kumar-Singh S, Goossens H, Malhotra-Kumar S. 
+In vivo and In vitro interactions between Pseudomonas aeruginosa and Staphylococcus spp. Front Cell Infect Microbiol. 2017;7:106.  doi: 10.3389/fcimb.2017.00106.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fcimb.2017.00106</ArticleId>
+            <ArticleId IdType="pmc">PMC5376567</ArticleId>
+            <ArticleId IdType="pubmed">28421166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fourie R, Pohl CH. 
+Beyond Antagonism: The Interaction Between Candida Species and Pseudomonas aeruginosa
+. J Fungi. 2019;5:34. doi: 10.3390/jof5020034.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/jof5020034</ArticleId>
+            <ArticleId IdType="pmc">PMC6617365</ArticleId>
+            <ArticleId IdType="pubmed">31010211</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baldan R, Cigana C, Testa F, Bianconi I, De Simone M, et al.  Adaptation of Pseudomonas aeruginosa in cystic fibrosis airways influences virulence of Staphylococcus aureus in vitro and murine models of co-infection. PLoS One. 2014;9:e89614.  doi: 10.1371/journal.pone.0089614.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0089614</ArticleId>
+            <ArticleId IdType="pmc">PMC3945726</ArticleId>
+            <ArticleId IdType="pubmed">24603807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Michelsen CF, Christensen A-MJ, Bojer MS, Høiby N, Ingmer H, et al.  
+Staphylococcus aureus alters growth activity, autolysis, and antibiotic tolerance in a human host-adapted Pseudomonas aeruginosa lineage. J Bacteriol. 2014;196:3903–3911. doi: 10.1128/JB.02006-14.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JB.02006-14</ArticleId>
+            <ArticleId IdType="pmc">PMC4248816</ArticleId>
+            <ArticleId IdType="pubmed">25182495</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Frydenlund Michelsen C, Hossein Khademi SM, Krogh Johansen H, Ingmer H, Dorrestein PC, et al.  Evolution of metabolic divergence in Pseudomonas aeruginosa during long-term infection facilitates a proto-cooperative interspecies interaction. ISME J. 2016;10:1323–1336. doi: 10.1038/ismej.2015.220.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ismej.2015.220</ArticleId>
+            <ArticleId IdType="pmc">PMC5029194</ArticleId>
+            <ArticleId IdType="pubmed">26684729</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Briaud P, Camus L, Bastien S, Doléans-Jordheim A, Vandenesch F, et al.  Coexistence with Pseudomonas aeruginosa alters Staphylococcus aureus transcriptome, antibiotic resistance and internalization into epithelial cells. Sci Rep. 2019;9:16564.  doi: 10.1038/s41598-019-52975-z.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41598-019-52975-z</ArticleId>
+            <ArticleId IdType="pmc">PMC6851120</ArticleId>
+            <ArticleId IdType="pubmed">31719577</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Camus L, Briaud P, Bastien S, Elsen S, Doléans-Jordheim A, et al.  Trophic cooperation promotes bacterial survival of Staphylococcus aureus and Pseudomonas aeruginosa
+. ISME J. 2020;14:3093–3105. doi: 10.1038/s41396-020-00741-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41396-020-00741-9</ArticleId>
+            <ArticleId IdType="pmc">PMC7784975</ArticleId>
+            <ArticleId IdType="pubmed">32814867</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Flynn JM, Cameron LC, Wiggen TD, Dunitz JM, Harcombe WR, et al.  Disruption of cross-feeding inhibits pathogen growth in the sputa of patients with cystic fibrosis. mSphere. 2020;5:e00343-20.  doi: 10.1128/mSphere.00343-20.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/mSphere.00343-20</ArticleId>
+            <ArticleId IdType="pmc">PMC7193046</ArticleId>
+            <ArticleId IdType="pubmed">32350096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scott JE, O’Toole GA. The yin and yang of Streptococcus lung infections in cystic fibrosis: a model for studying polymicrobial interactions. J Bacteriol. 2019;201:e00115-19.  doi: 10.1128/JB.00115-19.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JB.00115-19</ArticleId>
+            <ArticleId IdType="pmc">PMC6509657</ArticleId>
+            <ArticleId IdType="pubmed">30885933</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cigana C, Bianconi I, Baldan R, De Simone M, Riva C, et al.  
+Staphylococcus aureus impacts Pseudomonas aeruginosa chronic respiratory disease in murine models. J Infect Dis. 2018;217:933–942. doi: 10.1093/infdis/jix621.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/infdis/jix621</ArticleId>
+            <ArticleId IdType="pubmed">29216403</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Granchelli AM, Adler FR, Keogh RH, Kartsonaki C, Cox DR. Microbial interactions in the cystic fibrosis airway. J Clin Microbiol. 2018;56:e00354-18.  doi: 10.1128/JCM.00354-18.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JCM.00354-18</ArticleId>
+            <ArticleId IdType="pmc">PMC6062800</ArticleId>
+            <ArticleId IdType="pubmed">29769279</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

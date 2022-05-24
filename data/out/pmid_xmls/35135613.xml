@@ -1,0 +1,777 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35135613</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>10</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>02</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1756-3305</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>15</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Feb</Month>
+              <Day>08</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Parasites &amp; vectors</Title>
+          <ISOAbbreviation>Parasit Vectors</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Metagenomics of the midgut microbiome of Rhipicephalus microplus from China.</ArticleTitle>
+        <Pagination>
+          <StartPage>48</StartPage>
+          <MedlinePgn>48</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">48</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1186/s13071-022-05161-6</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Ticks, which are ectoparasites of animals, may carry multiple pathogens. The cattle tick Rhipicephalus microplus is an important bovine parasite in China. However, the midgut microbiome of R. microplus from China has not been characterized via metagenomic methods.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Rhipicephalus microplus were collected from cattle in the city of Changsha in Hunan province, China. The DNA of the midgut contents was extracted from fully engorged adult female R. microplus. A DNA library was constructed and sequenced using an Illumina HiSeq sequencing platform. SOAPdenovo software was used to assemble and analyze the clean data. The latent class analysis algorithm applied to system classification by MEGAN software was used to annotate the information on the species' sequences. DIAMOND software was used to compare unigenes with the Kyoto Encyclopedia of Genes and Genomes (KEGG) database, and functional annotation was carried out based on the results of the comparison.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">The dominant phyla in the five samples were Firmicutes, Proteobacteria, and Actinobacteria. Streptococcus, Mycobacterium, Anaplasma, Enterococcus, Shigella, Lactobacillus, Brachyspira, Pseudomonas, Enterobacter, Bacillus, and Lactococcus were the dominant genera in the five samples. The endosymbiotic bacterium Wolbachia was also detected in all of the samples. Mycobacterium malmesburyense, Streptococcus pneumoniae, Anaplasma phagocytophilum, Enterococcus faecium, Shigella sonnei, Enterococcus faecalis, Lactobacillus casei, Brachyspira hampsonii, Pseudomonas syringae, Enterobacter cloacae, and Lactococcus garvieae were the dominant species in the five samples. In addition to these bacterial species, we also detected some eukaryotes, such as Rhizophagus irregularis, Enterospora canceri, Smittium culicis, Zancudomyces culisetae, Trachipleistophora hominis, and viruses such as orf virus, human endogenous retrovirus type W, enzootic nasal tumor virus of goats, bovine retrovirus CH15, and galidia endogenous retrovirus in all of the samples at the species level. The results of the annotated KEGG pathway predictions for the gene functions of the midgut microflora of R. microplus indicated genes involved in lipid and amino acid metabolism, infectious diseases (e.g., Streptococcus pneumonia infection, human granulocytic anaplasmosis, Shigella sonnei infection, Salmonella enterica infection, and pathogenic Escherichia coli infection), and cancer.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our study revealed that the midgut microbiome of R. microplus is not only composed of a large number of bacteria, but that a portion also comprises eukaryotes and viruses. The data presented here enhance our understanding of this tick's midgut microbiome and provide fundamental information for the control of ticks and tick-borne diseases.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Xue-Ling</ForeName>
+            <Initials>XL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Center for Parasites &amp; Vectors, College of Veterinary Medicine, Hunan Agricultural University, Changsha, 410128, Hunan province, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Deng</LastName>
+            <ForeName>Yuan-Ping</ForeName>
+            <Initials>YP</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Center for Parasites &amp; Vectors, College of Veterinary Medicine, Hunan Agricultural University, Changsha, 410128, Hunan province, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yang</LastName>
+            <ForeName>Tian</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Center for Parasites &amp; Vectors, College of Veterinary Medicine, Hunan Agricultural University, Changsha, 410128, Hunan province, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Le-Yan</ForeName>
+            <Initials>LY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Center for Parasites &amp; Vectors, College of Veterinary Medicine, Hunan Agricultural University, Changsha, 410128, Hunan province, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cheng</LastName>
+            <ForeName>Tian-Yin</ForeName>
+            <Initials>TY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Center for Parasites &amp; Vectors, College of Veterinary Medicine, Hunan Agricultural University, Changsha, 410128, Hunan province, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Guo-Hua</ForeName>
+            <Initials>GH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Center for Parasites &amp; Vectors, College of Veterinary Medicine, Hunan Agricultural University, Changsha, 410128, Hunan province, China. liuguohua5202008@163.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Duan</LastName>
+            <ForeName>De-Yong</ForeName>
+            <Initials>DY</Initials>
+            <AffiliationInfo>
+              <Affiliation>Research Center for Parasites &amp; Vectors, College of Veterinary Medicine, Hunan Agricultural University, Changsha, 410128, Hunan province, China. kakayuan0980@163.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>08</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Parasit Vectors</MedlineTA>
+        <NlmUniqueID>101462774</NlmUniqueID>
+        <ISSNLinking>1756-3305</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000712" MajorTopicYN="Y">Anaplasmosis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002417" MajorTopicYN="N">Cattle</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002418" MajorTopicYN="Y">Cattle Diseases</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D056186" MajorTopicYN="N">Metagenomics</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D064307" MajorTopicYN="Y">Microbiota</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D048494" MajorTopicYN="Y">Rhipicephalus</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013984" MajorTopicYN="Y">Tick Infestations</DescriptorName>
+          <QualifierName UI="Q000662" MajorTopicYN="N">veterinary</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017282" MajorTopicYN="Y">Tick-Borne Diseases</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Gene function</Keyword>
+        <Keyword MajorTopicYN="N">Metagenomics</Keyword>
+        <Keyword MajorTopicYN="N">Microbiome</Keyword>
+        <Keyword MajorTopicYN="N">Midgut</Keyword>
+        <Keyword MajorTopicYN="N">Rhipicephalus microplus</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that they have no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>9</Day>
+          <Hour>5</Hour>
+          <Minute>39</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>11</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35135613</ArticleId>
+        <ArticleId IdType="pmc">PMC8822867</ArticleId>
+        <ArticleId IdType="doi">10.1186/s13071-022-05161-6</ArticleId>
+        <ArticleId IdType="pii">10.1186/s13071-022-05161-6</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>de Barros MNDL, Riet-Correa F, Azevedo SS, Labruna MB. Off-host development and survival of Rhipicephalus (Boophilus) microplus in the Brazilian semiarid. Vet Parasitol Reg Stud Reports. 2017;9:17–24.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31014836</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vesco U, Knap N, Labruna MB, Avsic-Zupanc T, Estrada-Pena A, Guglielmone AA, et al.  An integrated database on ticks and tick-borne zoonoses in the tropics and subtropics with special reference to developing and emerging countries. Exp Appl Acarol. 2011;54:65–83.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21153757</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Estrada-Peña A, García Z, Sánchez HF. The distribution and ecological preferences of Boophilus microplus (Acari: Ixodidae) in Mexico. Exp Appl Acarol. 2006;38:307–316.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16612672</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nava S, Mastropaolo M, Guglielmone AA, Mangold AJ. Effect of deforestation and introduction of exotic grasses as livestock forage on the population dynamics of the cattle tick Rhipicephalus (Boophilus) microplus (Acari: Ixodidae) in northern Argentina. Res Vet Sci. 2013;95:1046–1054.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24140239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen Z, Yang X, Bu F, Yang X, Yang X, Liu J. Ticks (acari: ixodoidea: argasidae, ixodidae) of China. Exp Appl Acarol. 2010;51:393–404.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20101443</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jongejan F, Uilenberg G. The global importance of ticks. Parasitology. 2004;129(Suppl):S3–14.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15938502</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jabbar A, Abbas T, Sandhu ZU, Saddiqi HA, Qamar MF, Gasser RB. Tick-borne diseases of bovines in Pakistan: major scope for future research and improved control. Parasit Vectors. 2015;8:283.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4443554</ArticleId>
+            <ArticleId IdType="pubmed">25994588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ceylan O, Byamukama B, Ceylan C, Galon EM, Liu M, Masatani T, et al.  Tick-borne hemoparasites of sheep: a molecular research in Turkey. Pathogens. 2021;10:162.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7913608</ArticleId>
+            <ArticleId IdType="pubmed">33546428</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Andreotti R, Pérez de León AA, Dowd SE, Guerrero FD, Bendele KG, Scoles GA. Assessment of bacterial diversity in the cattle tick Rhipicephalus (Boophilus) microplus through tag-encoded pyrosequencing. BMC Microbiol. 2011;11:6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3025832</ArticleId>
+            <ArticleId IdType="pubmed">21211038</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sungirai M, Baron S, Van der Merwe NA, Moyo DZ, De Clercq P, Maritz-Olivier C, et al.  Population structure and genetic diversity of Rhipicephalus microplus in Zimbabwe. Acta Trop. 2018;180:42–46.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29325969</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Misra BR, Kumar N, Kant R, Deval H, Singh R, Pandey AK, et al.  Abundance of ticks (Acari: Ixodidae) and presence of Rickettsia and Anaplasma in ticks infesting domestic animals from northern India. J Med Entomol. 2021;58:1370–1375.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33470412</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pesquera C, Portillo A, Palomar AM, Oteo JA. Investigation of tick-borne bacteria (Rickettsia spp., Anaplasma spp., Ehrlichia spp. and Borrelia spp.) in ticks collected from Andean tapirs, cattle and vegetation from a protected area in Ecuador. Parasit Vectors. 2015;8:46.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4307133</ArticleId>
+            <ArticleId IdType="pubmed">25616567</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yawa M, Nyangiwe N, Jaja IF, Kadzere CT, Marufu MC. Prevalence of serum antibodies of tick-borne diseases and the presence of Rhipicephalus microplus in communal grazing cattle in the north-eastern region of the Eastern Cape Province of South Africa. Parasitol Res. 2021;120:1183–1191.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33409632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fang LQ, Liu K, Li XL, Liang S, Yang Y, Yao HW, et al.  Emerging tick-borne infections in mainland China: an increasing public health threat. Lancet Infect Dis. 2015;15:1467–1479.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4870934</ArticleId>
+            <ArticleId IdType="pubmed">26453241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo WP, Zhang B, Wang YH, Xu G, Wang X, Ni X, et al.  Molecular identification and characterization of Anaplasma capra and Anaplasma platys-like in Rhipicephalus microplus in Ankang. Northwest China BMC Infect Dis. 2019;19:434.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6525361</ArticleId>
+            <ArticleId IdType="pubmed">31101084</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaur R, Yadav A, Rafiqi SI, Godara R, Sudan V, Chakraborty D, et al.  Epidemiology, haematology and molecular characterization of haemoprotozoon and rickettsial organisms causing infections in cattle of Jammu region. North India BMC Vet Res. 2021;17:219.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8207732</ArticleId>
+            <ArticleId IdType="pubmed">34130708</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Giglioti R, Okino CH, Azevedo BT, Wedy BCR, Gutmanis G, Veríssimo CJ, et al.  Semi-quantitative evaluation of Babesiabovis and B. bigemina infection levels estimated by HRM analysis. Ticks Tick Borne Dis. 2021;12:101753.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34134061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gao D, Cao W, Zhang X. Investigations on human Ehrlichia infectious people in Daxingan Mountains. Chin J Epidemiol. 2001;22:137–141.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11860865</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dong T, Qu Z, Zhang L. Detection of A. phagocytophilum and E. chaffeensis in patient and mouse blood and ticks by a duplex real-time PCR assay. PLoS ONE. 2013;8:e74796.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3762869</ArticleId>
+            <ArticleId IdType="pubmed">24023963</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tokarz R, Tagliafierro T, Sameroff S, Cucura DM, Oleynik A, Che X, et al.  Microbiome analysis of Ixodes scapularis ticks from New York and Connecticut. Ticks Tick Borne Dis. 2019;10:894–900.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31023629</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fischer SG, Lerman LS. DNA fragments differing by single base-pair substitutions are separated in denaturing gradient gels: correspondence with melting theory. Proc Natl Acad Sci USA. 1983;80:1579–1583.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC393645</ArticleId>
+            <ArticleId IdType="pubmed">6220406</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Muyzer G, de Waal EC, Uitterlinden AG. Profiling of complex microbial populations by denaturing gradient gel electrophoresis analysis of polymerase chain reaction-amplified genes coding for 16S rRNA. Appl Environ Microbiol. 1993;59:695–700.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC202176</ArticleId>
+            <ArticleId IdType="pubmed">7683183</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schabereiter-Gurtner C, Lubitz W, Rölleke S. Application of broad-range 16S rRNA PCR amplification and DGGE fingerprinting for detection of tick-infecting bacteria. J Microbiol Methods. 2003;52:251–260.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12459246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cheng TY, Li ZB, Zou AD, Liu GH. PCR-DGGE test for direct identification of intestinal bacterial flora in blood feeding ticks in China. Trop Biomed. 2016;33:663–667.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33579062</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu XL, Cheng TY, Yang H, Yan F. Identification of intestinal bacterial flora in Rhipicephalus microplus ticks by conventional methods and PCR-DGGE analysis. Exp Appl Acarol. 2015;66:257–268.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25784070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lima RAT, De Oliveira G, Souza AA, Lopes FAC, Santana RH, Istvan P, et al.  Functional and structural characterization of a novel GH3 beta-glucosidase from the gut metagenome of the Brazilian Cerrado termite Syntermes wheeleri. Int J Biol Macromol. 2020;165(Pt A):822–34.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33011259</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Segura JA, Isaza JP, Botero LE, Alzate JF, Gutiérrez LA. Assessment of bacterial diversity of Rhipicephalus microplus ticks from two livestock agroecosystems in Antioquia, Colombia. PloS ONE. 2020;15:e0234005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7329104</ArticleId>
+            <ArticleId IdType="pubmed">32609768</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bouquet J, Melgar M, Swei A, Delwart E, Lane RS, Chiu CY. Metagenomic-based surveillance of Pacific coast tick Dermacentor occidentalis identifies two novel bunyaviruses and an emerging human ricksettsial pathogen. Sci Rep. 2017;7:12234.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5612965</ArticleId>
+            <ArticleId IdType="pubmed">28947798</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carpi G, Cagnacci F, Wittekindt NE, Zhao F, Qi J, Tomsho LP, et al.  Metagenomic profile of the bacterial communities associated with Ixodes ricinus ticks. PLoS ONE. 2011;6:e25604.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3192763</ArticleId>
+            <ArticleId IdType="pubmed">22022422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Adegoke A, Kumar D, Bobo C, Rashid MI, Durrani AZ, Sajid MS, et al.  Tick-borne pathogens shape the native microbiome within tick vectors. Microorganisms. 2020;8:1299.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7563471</ArticleId>
+            <ArticleId IdType="pubmed">32854447</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luo R, Liu B, Xie Y, Li Z, Huang W, Yuan J, et al.  SOAPdenovo2: an empirically improved memory-efficient short-read de novo assembler. Gigascience. 2012;1:18.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3626529</ArticleId>
+            <ArticleId IdType="pubmed">23587118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qin N, Yang F, Li A, Prifti E, Chen Y, Shao L, et al.  Alterations of the human gut microbiome in liver cirrhosis. Nature. 2014;513:59–64.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25079328</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feng Q, Liang S, Jia H, Stadlmayr A, Tang L, Lan Z, et al.  Gut microbiome development along the colorectal adenoma-carcinoma sequence. Nat Commun. 2015;6:6528.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25758642</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scher JU, Sczesnak A, Longman RS, Segata N, Ubeda C, Bielski C, et al.  Expansion of intestinal Prevotella copri correlates with enhanced susceptibility to arthritis. Elife. 2013;2:e01202.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3816614</ArticleId>
+            <ArticleId IdType="pubmed">24192039</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brum JR, Ignacio-Espinoza JC, Roux S, Doulcier G, Acinas SG, Alberti A, et al.  Ocean plankton. Patterns and ecological drivers of ocean viral communities. Science. 2015;348:1261498.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25999515</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mende DR, Waller AS, Sunagawa S, Järvelin AI, Chan MM, Arumugam M, et al.  Assessment of metagenomic assembly using simulated next generation sequencing data. PloS ONE. 2012;7:e31386.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3285633</ArticleId>
+            <ArticleId IdType="pubmed">22384016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nielsen HB, Almeida M, Juncker AS, Rasmussen S, Li J, Sunagawa S, et al.  Identification and assembly of genomes and genetic elements in complex metagenomic samples without using reference genomes. Nat Biotechnol. 2014;32:822–828.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24997787</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qin J, Li R, Raes J, Arumugam M, Burgdorf KS, Manichanh C, et al.  A human gut microbial gene catalogue established by metagenomic sequencing. Nature. 2010;464:59–65.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3779803</ArticleId>
+            <ArticleId IdType="pubmed">20203603</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zeller G, Tap J, Voigt AY, Sunagawa S, Kultima JR, Costea PI, et al.  Potential of fecal microbiota for early-stage detection of colorectal cancer. Mol Syst Biol. 2014;10:766.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4299606</ArticleId>
+            <ArticleId IdType="pubmed">25432777</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li J, Jia H, Cai X, Zhong H, Feng Q, Sunagawa S, et al.  An integrated catalog of reference genes in the human gut microbiome. Nat Biotechnol. 2014;32:834–841.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24997786</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li W, Godzik A. Cd-hit: a fast program for clustering and comparing large sets of protein or nucleotide sequences. Bioinformatics. 2006;22:1658–1659.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16731699</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fu L, Niu B, Zhu Z, Wu S, Li W. Cd-hit: accelerated for clustering the next-generation sequencing data. Bioinformatics. 2012;28:3150–3152.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3516142</ArticleId>
+            <ArticleId IdType="pubmed">23060610</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sunagawa S, Coelho LP, Chaffron S, Kultima JR, Labadie K, Salazar G, et al.  Ocean plankton. Structure and function of the global ocean microbiome. Science. 2015;348:1261359.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25999513</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qin J, Li Y, Cai Z, Li S, Zhu J, Zhang F, et al.  A metagenome-wide association study of gut microbiota in type 2 diabetes. Nature. 2012;490:55–60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23023125</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Karlsson FH, Fåk F, Nookaew I, Tremaroli V, Fagerberg B, Petranovic D, et al.  Symptomatic atherosclerosis is associated with an altered gut metagenome. Nat Commun. 2012;3:1245.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3538954</ArticleId>
+            <ArticleId IdType="pubmed">23212374</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Villar E, Farrant GK, Follows M, Garczarek L, Speich S, Audic S, et al.  Ocean plankton. Environmental characteristics of Agulhas rings affect interocean plankton transport. Science. 2015;348:1261447.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25999514</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aron-Wisnewsky J, Prifti E, Belda E, Ichou F, Kayser BD, Dao MC, et al.  Major microbiota dysbiosis in severe obesity: fate after bariatric surgery. Gut. 2019;68:70–82.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7143256</ArticleId>
+            <ArticleId IdType="pubmed">29899081</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buchfink B, Xie C, Huson DH. Fast and sensitive protein alignment using DIAMOND. Nat Methods. 2015;12:59–60.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25402007</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oh J, Byrd AL, Deming C, Conlan S, Kong HH, Segre JA. Biogeography and individuality shape function in the human skin metagenome. Nature. 2014;514:59–64.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4185404</ArticleId>
+            <ArticleId IdType="pubmed">25279917</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huson DH, Mitra S, Ruscheweyh HJ, Weber N, Schuster SC. Integrative analysis of environmental sequences using MEGAN4. Genome Res. 2011;21:1552–1560.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3166839</ArticleId>
+            <ArticleId IdType="pubmed">21690186</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Karlsson FH, Tremaroli V, Nookaew I, Bergström G, Behre CJ, Fagerberg B, et al.  Gut metagenome in European women with normal, impaired and diabetic glucose control. Nature. 2013;498:99–103.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23719380</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kanehisa M, Goto S, Hattori M, Aoki-Kinoshita KF, Itoh M, Kawashima S, et al.  From genomics to chemical genomics new developments in KEGG. Nucleic Acids Res. 2006;34(Database issue):D354–7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1347464</ArticleId>
+            <ArticleId IdType="pubmed">16381885</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kanehisa M, Goto S, Sato Y, Kawashima M, Furumichi M, Tanabe M. Data, information, knowledge and principle: back to metabolism in KEGG. Nucleic Acids Res. 2014;42(Database issue):D199–205.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3965122</ArticleId>
+            <ArticleId IdType="pubmed">24214961</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bäckhed F, Roswall J, Peng Y, Feng Q, Jia H, Kovatcheva-Datchary P, et al.  Dynamics and stabilization of the human gut microbiome during the first year of life. Cell Host Microbe. 2015;17:852.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26308884</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Budachetri K, Browning RE, Adamson SW, Dowd SE, Chao CC, Ching WM, et al.  An insight into the microbiome of the Amblyomma maculatum (Acari: Ixodidae) J Med Entomol. 2014;51:119–129.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3956751</ArticleId>
+            <ArticleId IdType="pubmed">24605461</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Karim S, Budachetri K, Mukherjee N, Williams J, Kausar A, Hassan MJ, et al.  A study of ticks and tick-borne livestock pathogens in Pakistan. PLoS Negl Trop Dis. 2017;11:e0005681.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5501686</ArticleId>
+            <ArticleId IdType="pubmed">28650978</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Narasimhan S, Rajeevan N, Liu L, Zhao YO, Heisig J, Pan J, et al.  Gut microbiota of the tick vector Ixodes scapularis modulate colonization of the Lyme disease spirochete. Cell Host Microbe. 2014;15:58–71.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3905459</ArticleId>
+            <ArticleId IdType="pubmed">24439898</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Travanty NV, Ponnusamy L, Kakumanu ML, Nicholson WL, Apperson CS. Diversity and structure of the bacterial microbiome of the American dog tick, Dermacentor variabilis, is dominated by the endosymbiont Francisella. Symbiosis. 2019;79:239–250.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Xiang L, Poźniak B, Cheng TY. Bacteriological analysis of saliva from partially or fully engorged female adult Rhipicephalus microplus by next-generation sequencing. Antonie Van Leeuwenhoek. 2017;110:105–113.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27744637</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Toprak U, Musselman LP. From cellular biochemistry to systems physiology: new insights into insect lipid metabolism. Insect Biochem Mol Biol. 2021;133:103585.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33915290</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bakken JS, Krueth J, Tilden RL, Dumler JS, Kristiansen BE. Serological evidence of human granulocytic ehrlichiosis in Norway. Eur J Clin Microbiol Infect Dis. 1996;15:829–832.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8950565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Diaz-Cao JM, Adaszek L, Dziegiel B, Paniagua J, Caballero-Gomez J, Winiarczyk S, et al.  Prevalence of selected tick-borne pathogens in wild ungulates and ticks in southern Spain. Transbound Emerg Dis. 2021 doi: 10.1111/tbed.14065.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/tbed.14065</ArticleId>
+            <ArticleId IdType="pubmed">33686775</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kovryha N, Tsyhankova A, Zelenuchina O, Mashchak O, Terekhov R, Rogovskyy AS. Prevalence of Borrelia burgdorferi and Anaplasma phagocytophilum in ixodid ticks from southeastern Ukraine. Vector Borne Zoonotic Dis. 2021;21:242–246.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7997714</ArticleId>
+            <ArticleId IdType="pubmed">33475465</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Asman M, Witecka J, Korbecki J, Solarz K. The potential risk of exposure to Borrelia garinii, Anaplasma phagocytophilum and Babesia microti in the Wolinski National Park (north-western Poland) Sci Rep. 2021;11:4860.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7921447</ArticleId>
+            <ArticleId IdType="pubmed">33649467</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cabezas-Cruz A, Zweygarth E, Vancová M, Broniszewska M, Grubhoffer L, Passos LMF, et al.  Ehrlichia minasensis sp. nov., isolated from the tick Rhipicephalusmicroplus. Int J Syst Evol Microbiol. 2016;66:1426–30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26763978</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cicculli V, Masse S, Capai L, de Lamballerie X, Charrel R, Falchi A. First detection of Ehrlichia minasensis in Hyalomma marginatum ticks collected from cattle in Corsica, France. Vet Med Sci. 2019;5:243–248.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6498527</ArticleId>
+            <ArticleId IdType="pubmed">30663864</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Melo ALT, Luo T, Zhang X, Muraro LS, Pereira NA, Cabezas-Cruz A, et al.  Serological evidence of Ehrlichia minasensis infection in Brazilian dogs. Acta Trop. 2021;219:105931.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33901440</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mediannikov O, Nguyen TT, Bell-Sakyi L, Padmanabhan R, Fournier PE, Raoult D. High quality draft genome sequence and description of Occidentiamassiliensis gen. nov., sp nov, a new member of the family Rickettsiaceae. Stand Genomic Sci. 2014;9:9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4334944</ArticleId>
+            <ArticleId IdType="pubmed">25780502</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu XJ, Walker DH.  Family I. Rickettsiaceae. In: Yu XJ, Walker DH, editors. Bergeys’s manual of systematic bacteriology, (The Proteobacteria), part C (the Alpha-, Beta-, Delta-, and Epsilonproteobacteria) 2. New York: Springer; 2005. pp. 1–324.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hornok S, Kontschán J, Takács N, Chaber AL, Halajian A, Szekeres S, et al.  Rickettsiaceae in two reptile-associated tick species, Amblyomma exornatum and Africaniella transversale: first evidence of Occidentia massiliensis in hard ticks (Acari: Ixodidae) Ticks Tick Borne Dis. 2021;13:101830.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34624588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Caspi-Fluger A, Inbar M, Mozes-Daube N, Katzir N, Portnoy V, Belausov E, et al.  Horizontal transmission of the insect symbiont Rickettsia is plant-mediated. Proc Biol Sci. 2012;279:1791–1796.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3297456</ArticleId>
+            <ArticleId IdType="pubmed">22113034</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Landmann F. The Wolbachia endosymbionts. Microbiol Spectr. 2019;7:1–15.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30953430</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Himler AG, Adachi-Hagimori T, Bergen JE, Kozuch A, Kelly SE, Tabashnik BE, et al.  Rapid spread of a bacterial symbiont in an invasive whitefly is driven by fitness benefits and female bias. Science. 2011;332:254–256.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21474763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mikosza AS, Hampson DJ. Human intestinal spirochetosis: Brachyspira aalborgi and/or Brachyspira pilosicoli? Anim Health Res Rev. 2001;2:101–110.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11708739</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mappley LJ, La Ragione RM, Woodward MJ. Brachyspira and its role in avian intestinal spirochaetosis. Vet Microbiol. 2014;168:245–260.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24355534</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kaczmarek A, Boguś MI. Fungi of entomopathogenic potential in Chytridiomycota and Blastocladiomycota, and in fungal allies of the Oomycota and Microsporidia. IMA Fungus. 2021;12:29.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8504053</ArticleId>
+            <ArticleId IdType="pubmed">34635188</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Weber R, Bryan RT. Microsporidial infections in immunodeficient and immunocompetent patients. Clin Infect Dis. 1994;19:517–521.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7811872</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ghosh K, Weiss LM. Molecular diagnostic tests for Microsporidia. Interdiscip Perspect Infect Dis. 2009;2009:926521.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2719812</ArticleId>
+            <ArticleId IdType="pubmed">19657457</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Alencar YB, Rios-Velasquez CM, Lichtwardt RW, Hamada N. Trichomycetes (Zygomycota) in the digestive tract of arthropods in Amazonas, Brazil. Mem Inst Oswaldo Cruz. 2003;98:799–810.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14595459</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Büttner M, Rziha HJ. Parapoxviruses: from the lesion to the viral genome. J Vet Med B Infect Dis Vet Public Health. 2002;49:7–16.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11911596</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maclachlan NJ, Dubovi EJ, Maclachlan JN, Dubovi EJ, et al.   Fenner's veterinary virology. 4. San Diego: Elsevier; 2011. pp. 226–31.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Wise LM, Stuart GS, Jones NC, Fleming SB, Mercer AA. Orf virus IL-10 and VEGF-E act synergistically to enhance healing of cutaneous wounds in mice. J Clin Med. 2020;9:1085.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7231296</ArticleId>
+            <ArticleId IdType="pubmed">32290480</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Savory LJ, Stacker SA, Fleming SB, Niven BE, Mercer AA. Viral vascular endothelial growth factor plays a critical role in orf virus infection. J Virol. 2000;74:10699–10706.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC110944</ArticleId>
+            <ArticleId IdType="pubmed">11044114</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou Y, Guan J, Gao F, Li Z, Lan Y, Lu H, et al.  Orf virus ORF120 protein positively regulates the NF-κB pathway by interacting with G3BP1. J Virol. 2021;95:e0015321.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8428408</ArticleId>
+            <ArticleId IdType="pubmed">34287041</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nougairede A, Fossati C, Salez N, Cohen-Bacrie S, Ninove L, Michel F, et al.  Sheep-to-human transmission of orf virus during Eid al-Adha religious practices, France. Emerg Infect Dis. 2013;19:102–105.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3557981</ArticleId>
+            <ArticleId IdType="pubmed">23260031</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou Y, Liu L, Liu Y, Zhou P, Yan Q, Yu H, et al.  Implication of human endogenous retrovirus W family envelope in hepatocellular carcinoma promotes MEK/ERK-mediated metastatic invasiveness and doxorubicin resistance. Cell Death Discov. 2021;7:177.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8266889</ArticleId>
+            <ArticleId IdType="pubmed">34238921</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tamouza R, Meyer U, Foiselle M, Richard JR, Wu CL, Boukouaci W, et al.  Identification of inflammatory subgroups of schizophrenia and bipolar disorder patients with HERV-W ENV antigenemia by unsupervised cluster analysis. Transl Psychiatry. 2021;11:377.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8260666</ArticleId>
+            <ArticleId IdType="pubmed">34230451</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Perron H, Hamdani N, Faucard R, Lajnef M, Jamain S, Daban-Huard C, et al.  Molecular characteristics of human endogenous retrovirus type-W in schizophrenia and bipolar disorder. Transl Psychiatry. 2012;2:e201.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3565190</ArticleId>
+            <ArticleId IdType="pubmed">23212585</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Karlsson H, Schröder J, Bachmann S, Bottmer C, Yolken RH. HERV-W-related RNA detected in plasma from individuals with recent-onset schizophrenia or schizoaffective disorder. Mol Psychiatry. 2004;9:12–13.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14571258</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

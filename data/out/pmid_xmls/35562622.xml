@@ -1,0 +1,514 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">35562622</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>13</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1434-9949</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>13</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Clinical rheumatology</Title>
+          <ISOAbbreviation>Clin Rheumatol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Exploration of the pathogenesis of Sjögren's syndrome via DNA methylation and transcriptome analyses.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10067-022-06200-4</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Sjögren's syndrome (SS), a systemic autoimmune disorder, is characterized by dry mouth and eyes. However, SS pathogenesis is poorly understood. We performed bioinformatics analysis to investigate the potential targets and molecular pathogenesis of SS.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Gene expression profiles (GSE157159) and methylation data (GSE110007) associated with SS patients were obtained from the Gene Expression Omnibus (GEO) database. Differentially methylated positions (DMPs) and differentially expressed genes (DEGs) were identified by the R package limma. The potential biological functions of DEGs were determined using Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analyses. Key DMPs were selected by overlap and the shrunken centroid algorithm, and corresponding genes were identified as hub genes, with their diagnostic value assessed by receiver operating characteristic (ROC) curves. The potential molecular mechanisms of hub genes were analyzed by protein-protein interaction (PPI) networks and single-gene gene set enrichment analysis (GSEA). Peripheral blood mononuclear cells (PBMCs) were collected from control and SS patients at The Affiliated Hospital of Southwest Medical University and Dazhou Central Hospital. The mRNA levels of hub genes were verified by quantitative real-time polymerase chain reaction (qRT-PCR).</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">We identified 788 DMPs and 2457 DEGs between the two groups. Functional enrichment analysis suggested that the DEGs were significantly enriched in T cell activation, leukocyte cell-cell adhesion, and cytokine-cytokine receptor interaction. TSS200, TSS1500, and 1stExon were identified as highly enriched areas of differentially methylated promoter CpG islands (DMCIs). In total, 61 differentially methylated genes (DMGs) were identified by the overlap of 2457 DEGs and 507 genes related to DMPs (DMPGs), of which 21 genes located near TSS200, TSS1500, and 1stExon were selected. Then, three key DMPs and the corresponding hub genes (RUNX3, HLA-DPA1, and CD6) were screened by the shrunken centroid algorithm and calculated to have areas under the ROC curve of 1.000, 0.931, and 0.986, respectively, indicating good diagnostic value. The GSEA results suggested that all three hub genes were highly associated with the immune response. Finally, positive mRNA expression of the three hub genes in clinical SS samples was verified by qRT-PCR, consistent with the GSE157159 data.</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The identification of three hub genes provides novel insight into molecular mechanisms and therapeutic targets for SS. Key Points • Hub genes were screened by DNA methylation and transcriptome analyses. • The relative expression of hub genes in peripheral blood samples was verified by qRT-PCR. • HLA-DPA1 was correlated with the pathogenic mechanism of SS.</AbstractText>
+          <CopyrightInformation>© 2022. The Author(s), under exclusive licence to International League of Associations for Rheumatology (ILAR).</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Du</LastName>
+            <ForeName>Yu</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Rheumatology and Immunology, The Affiliated Hospital of Southwest Medical University, Luzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Jie</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Clinical Research Center, Dazhou Central Hospital, Dazhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Jianhong</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Rheumatology and Immunology, Dazhou Central Hospital, Dazhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zeng</LastName>
+            <ForeName>Fanxin</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Clinical Research Center, Dazhou Central Hospital, Dazhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>He</LastName>
+            <ForeName>Chengsong</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0003-4984-8814</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Rheumatology and Immunology, The Affiliated Hospital of Southwest Medical University, Luzhou, China. hcs0878@163.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>13</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Germany</Country>
+        <MedlineTA>Clin Rheumatol</MedlineTA>
+        <NlmUniqueID>8211469</NlmUniqueID>
+        <ISSNLinking>0770-3198</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Bioinformatics</Keyword>
+        <Keyword MajorTopicYN="N">DNA methylation</Keyword>
+        <Keyword MajorTopicYN="N">Hub genes</Keyword>
+        <Keyword MajorTopicYN="N">Sjögren’s syndrome (SS)</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>3</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>7</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>13</Day>
+          <Hour>23</Hour>
+          <Minute>29</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>14</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35562622</ArticleId>
+        <ArticleId IdType="doi">10.1007/s10067-022-06200-4</ArticleId>
+        <ArticleId IdType="pii">10.1007/s10067-022-06200-4</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Psianou K, Panagoulias I, Papanastasiou AD, de Lastic AL, Rodi M, Spantidea PI et al (2018) Clinical and immunological parameters of Sjogren’s syndrome. Autoimmun Rev 17(10):1053–1064</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30103041</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.autrev.2018.05.005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mariette X, Criswell LA (2018) Primary Sjögren’s syndrome. N Engl J Med 379(1):97</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29972746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qin B, Wang J, Yang Z, Yang M, Ma N, Huang F et al (2015) Epidemiology of primary Sjogren’s syndrome: a systematic review and meta-analysis. Ann Rheum Dis 74(11):1983–1989</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24938285</ArticleId>
+            <ArticleId IdType="doi">10.1136/annrheumdis-2014-205375</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guellec D, Cornec D, Jousse-Joulin S, Marhadour T, Marcorelles P, Pers JO et al (2013) Diagnostic value of labial minor salivary gland biopsy for Sjogren’s syndrome: a systematic review. Autoimmun Rev 12(3):416–420</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22889617</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.autrev.2012.08.001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramos-Casals M, Brito-Zeron P, Bombardieri S, Bootsma H, De Vita S, Dorner T et al (2020) EULAR recommendations for the management of Sjogren’s syndrome with topical and systemic therapies. Ann Rheum Dis 79(1):3–18</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31672775</ArticleId>
+            <ArticleId IdType="doi">10.1136/annrheumdis-2019-216114</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith ZD, Meissner A (2013) DNA methylation: roles in mammalian development. Nat Rev Genet 14(3):204–220</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23400093</ArticleId>
+            <ArticleId IdType="doi">10.1038/nrg3354</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jones PA (2012) Functions of DNA methylation: islands, start sites, gene bodies and beyond. Nat Rev Genet 13(7):484–492</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22641018</ArticleId>
+            <ArticleId IdType="doi">10.1038/nrg3230</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bansal A, Pinney SE (2017) DNA methylation and its role in the pathogenesis of diabetes. Pediatr Diabetes 18(3):167–177</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28401680</ArticleId>
+            <ArticleId IdType="pmc">5394941</ArticleId>
+            <ArticleId IdType="doi">10.1111/pedi.12521</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang IV, Lozupone CA, Schwartz DA (2017) The environment, epigenome, and asthma. J Allergy Clin Immunol 140(1):14–23</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28673400</ArticleId>
+            <ArticleId IdType="pmc">5673130</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jaci.2017.05.011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Long H, Yin H, Wang L, Gershwin ME, Lu Q (2016) The critical role of epigenetics in systemic lupus erythematosus and autoimmunity. J Autoimmun 74:118–138</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27396525</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jaut.2016.06.020</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miao L, Yin R-X, Zhang Q-H, Hu X-J, Huang F, Chen W-X et al (2019) Integrated DNA methylation and gene expression analysis in the pathogenesis of coronary artery disease. Aging (Albany NY) 11(5):1486–1500</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.18632/aging.101847</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Coit P, Kaushik P, Caplan L, Kerr GS, Walsh JA, Dubreuil M et al (2019) Genome-wide DNA methylation analysis in ankylosing spondylitis identifies HLA-B*27 dependent and independent DNA methylation changes in whole blood. J Autoimmun 102:126–132</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31128893</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jaut.2019.04.022</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lanata CM, Chung SA, Criswell LA (2018) DNA methylation 101: what is important to know about DNA methylation and its role in SLE risk and disease heterogeneity. Lupus Sci Med 5(1):e000285</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30094041</ArticleId>
+            <ArticleId IdType="pmc">6069928</ArticleId>
+            <ArticleId IdType="doi">10.1136/lupus-2018-000285</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nakano K, Whitaker JW, Boyle DL, Wang W, Firestein GS (2013) DNA methylome signature in rheumatoid arthritis. Ann Rheum Dis 72(1):110–117</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22736089</ArticleId>
+            <ArticleId IdType="doi">10.1136/annrheumdis-2012-201526</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Oyelakin A, Horeth E, Song E-AC, Min S, Che M, Marzullo B et al (2020) Transcriptomic and network analysis of minor salivary glands of patients with primary Sjögren’s syndrome. Front Immunol 11:606268</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33488608</ArticleId>
+            <ArticleId IdType="doi">10.3389/fimmu.2020.606268</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cole MB, Quach H, Quach D, Baker A, Taylor KE, Barcellos LF et al (2016) Epigenetic signatures of salivary gland inflammation in Sjogren’s syndrome. Arthritis Rheumatol 68(12):2936–2944</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27332624</ArticleId>
+            <ArticleId IdType="pmc">5132022</ArticleId>
+            <ArticleId IdType="doi">10.1002/art.39792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cook NR (2007) Use and misuse of the receiver operating characteristic curve in risk prediction. Circulation 115(7):928–935</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17309939</ArticleId>
+            <ArticleId IdType="doi">10.1161/CIRCULATIONAHA.106.672402</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shiboski CH, Shiboski SC, Seror R, Criswell LA, Labetoulle M, Lietman TM et al (2016) 2016 American College of Rheumatology/European league against rheumatism classification criteria for primary Sjögren’s syndrome: a consensus and data-driven methodology involving three international patient cohorts. Arthritis Rheumatol 69(1):35–45</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27785888</ArticleId>
+            <ArticleId IdType="pmc">5650478</ArticleId>
+            <ArticleId IdType="doi">10.1002/art.39859</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shiboski SC, Shiboski CH, Criswell LA, Baer AN, Challacombe S, Lanfranchi H et al (2012) American College of Rheumatology classification criteria for Sjögren’s syndrome: a data-driven, expert consensus approach in the Sjögren’s international collaborative clinical alliance cohort. Arthritis Care Res 64(4):475–487</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/acr.21591</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Patel R, Shahane A (2014) The epidemiology of Sjogren’s syndrome. Clin Epidemiol 6:247–255</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25114590</ArticleId>
+            <ArticleId IdType="pmc">4122257</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Segal B, Bowman SJ, Fox PC, Vivino FB, Murukutla N, Brodscholl J et al (2009) Primary Sjogren’s syndrome: health experiences and predictors of health quality among patients in the United States. Health Qual Life Outcomes 7:46</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19473510</ArticleId>
+            <ArticleId IdType="pmc">2693523</ArticleId>
+            <ArticleId IdType="doi">10.1186/1477-7525-7-46</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mougeot JL, Noll BD, Bahrani Mougeot FK (2019) Sjogren’s syndrome X-chromosome dose effect: an epigenetic perspective. Oral Dis 25(2):372–384</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29316023</ArticleId>
+            <ArticleId IdType="doi">10.1111/odi.12825</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Imgenberg-Kreuz J, Almlof JC, Leonard D, Sjowall C, Syvanen AC, Ronnblom L et al (2019) Shared and unique patterns of DNA methylation in systemic lupus erythematosus and primary Sjogren’s syndrome. Front Immunol 10:1686</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31428085</ArticleId>
+            <ArticleId IdType="pmc">6688520</ArticleId>
+            <ArticleId IdType="doi">10.3389/fimmu.2019.01686</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miceli-Richard C, Wang-Renault SF, Boudaoud S, Busato F, Lallemand C, Bethune K et al (2016) Overlap between differentially methylated DNA regions in blood B lymphocytes and genetic at-risk loci in primary Sjogren’s syndrome. Ann Rheum Dis 75(5):933–940</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26183421</ArticleId>
+            <ArticleId IdType="doi">10.1136/annrheumdis-2014-206998</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Altorok N, Coit P, Hughes T, Koelsch KA, Stone DU, Rasmussen A et al (2014) Genome-wide DNA methylation patterns in naive CD4+ T cells from patients with primary Sjogren’s syndrome. Arthritis Rheumatol 66(3):731–739</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24574234</ArticleId>
+            <ArticleId IdType="pmc">4009982</ArticleId>
+            <ArticleId IdType="doi">10.1002/art.38264</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Konsta OD, Le Dantec C, Charras A, Cornec D, Kapsogeorgou EK, Tzioufas AG et al (2016) Defective DNA methylation in salivary gland epithelial acini from patients with Sjogren’s syndrome is associated with SSB gene expression, anti-SSB/LA detection, and lymphocyte infiltration. J Autoimmun 68:30–38</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26725749</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jaut.2015.12.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thabet Y, Le Dantec C, Ghedira I, Devauchelle V, Cornec D, Pers JO et al (2013) Epigenetic dysregulation in salivary glands from patients with primary Sjogren’s syndrome may be ascribed to infiltrating B cells. J Autoimmun 41:175–181</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23478041</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jaut.2013.02.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Christodoulou MI, Kapsogeorgou EK, Moutsopoulos HM (2010) Characteristics of the minor salivary gland infiltrates in Sjögren’s syndrome. J Autoimmun 34(4):400–407</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19889514</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jaut.2009.10.004</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Du W, Han M, Zhu X, Xiao F, Huang E, Che N et al (2021) The multiple roles of B cells in the pathogenesis of Sjögren’s syndrome. Front Immunol 12:684999</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34168653</ArticleId>
+            <ArticleId IdType="pmc">8217880</ArticleId>
+            <ArticleId IdType="doi">10.3389/fimmu.2021.684999</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Corneth OBJ, de Bruijn MJW, Rip J, Asmawidjaja PS, Kil LP, Hendriks RW (2016) Enhanced expression of Bruton’s tyrosine kinase in B cells drives systemic autoimmunity by disrupting T cell homeostasis. J Immunol 197(1):58–67</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27226091</ArticleId>
+            <ArticleId IdType="doi">10.4049/jimmunol.1600208</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Verstappen GM, Meiners PM, Corneth OBJ, Visser A, Arends S, Abdulahad WH et al (2017) Attenuation of follicular helper T cell-dependent B cell hyperactivity by abatacept treatment in primary Sjögren’s syndrome. Arthritis Rheumatol (Hoboken, NJ) 69(9):1850–1861</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/art.40165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lavie F, Miceli-Richard C, Quillard J, Roux S, Leclerc P, Mariette X (2004) Expression of BAFF (BLyS) in T cells infiltrating labial salivary glands from patients with Sjögren’s syndrome. J Pathol 202(4):496–502</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15095277</ArticleId>
+            <ArticleId IdType="doi">10.1002/path.1533</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Roescher N, Tak PP, Illei GG (2009) Cytokines in Sjögren’s syndrome. Oral diseases 15(8):519–526</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19519622</ArticleId>
+            <ArticleId IdType="pmc">2762015</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1601-0825.2009.01582.x</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Abidi SM, Saifullah MK, Zafiropulos MD, Kaput C, Bowen MA, Cotton C et al (2006) CD166 expression, characterization, and localization in salivary epithelium: implications for function during sialoadenitis. J Clin Immunol 26(1):12–21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16418799</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10875-006-7119-6</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramos-Casals M, Font J, García-Carrasco M, Calvo J, Places L, Padilla O et al (2001) High circulating levels of soluble scavenger receptors (sCD5 and sCD6) in patients with primary Sjögren’s syndrome. Rheumatology (Oxford) 40(9):1056–1059</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/rheumatology/40.9.1056</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chalmers SA, Ayilam Ramachandran R, Garcia SJ, Der E, Herlitz L, Ampudia J et al (2022) The CD6/ALCAM pathway promotes lupus nephritis via T cell-mediated responses. J Clin Invest 132(1)</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Le Dantec C, Alonso R, Fali T, Montero E, Devauchelle V, Saraux A et al (2013) Rationale for treating primary Sjögren’s syndrome patients with an anti-CD6 monoclonal antibody (Itolizumab). Immunol Res 56(2-3):341–347</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23576060</ArticleId>
+            <ArticleId IdType="doi">10.1007/s12026-013-8423-x</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Soret P, Le Dantec C, Desvaux E, Foulquier N, Chassagnol B, Hubert S et al (2021) A new molecular classification to drive precision treatment strategies in primary Sjögren’s syndrome. Nat Commun 12(1):3523</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34112769</ArticleId>
+            <ArticleId IdType="pmc">8192578</ArticleId>
+            <ArticleId IdType="doi">10.1038/s41467-021-23472-7</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Imgenberg-Kreuz J, Sandling JK, Norheim KB, Johnsen SJA, Omdal R, Syvänen A-C et al (2021) DNA methylation-based interferon scores associate with sub-phenotypes in primary Sjögren’s syndrome. Frontiers Immunol 12:702037</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fimmu.2021.702037</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Djuretic IM, Levanon D, Negreanu V, Groner Y, Rao A, Ansel KM (2007) Transcription factors T-bet and Runx3 cooperate to activate Ifng and silence Il4 in T helper type 1 cells. Nat Immunol 8(2):145–153</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17195845</ArticleId>
+            <ArticleId IdType="doi">10.1038/ni1424</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Del Papa N, Minniti A, Lorini M, Carbonelli V, Maglione W, Pignataro F et al (2021) The role of interferons in the pathogenesis of Sjögren’s syndrome and future therapeutic perspectives. Biomolecules 11(2)</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Nezos A, Gravani F, Tassidou A, Kapsogeorgou EK, Voulgarelis M, Koutsilieris M et al (2015) Type I and II interferon signatures in Sjogren’s syndrome pathogenesis: contributions in distinct clinical phenotypes and Sjogren’s related lymphomagenesis. J Autoimmun 63:47–58</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26183766</ArticleId>
+            <ArticleId IdType="pmc">4564326</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jaut.2015.07.002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Men S, Yu Y, Zhang Y, Wang Y, Qian Q, Li W et al (2019) Methylation landscape of RUNX3 promoter region as a predictive marker for Th1/Th2 imbalance in bronchiolitis. Med Sci Monit 25:7795–7807</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31622282</ArticleId>
+            <ArticleId IdType="pmc">6820333</ArticleId>
+            <ArticleId IdType="doi">10.12659/MSM.917196</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arman M, Aguilera-Montilla N, Mas V, Puig-Kroger A, Pignatelli M, Guigo R et al (2009) The human CD6 gene is transcriptionally regulated by RUNX and Ets transcription factors in T cells. Mol Immunol 46(11-12):2226–2235</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19446338</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.molimm.2009.04.018</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gunnell A, Webb HM, Wood CD, McClellan MJ, Wichaidit B, Kempkes B et al (2016) RUNX super-enhancer control through the Notch pathway by Epstein-Barr virus transcription factors regulates B cell growth. Nucleic Acids Res 44(10):4636–4650</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26883634</ArticleId>
+            <ArticleId IdType="pmc">4889917</ArticleId>
+            <ArticleId IdType="doi">10.1093/nar/gkw085</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lauterbach N, Crivello P, Wieten L, Zito L, Groeneweg M, Voorter CE et al (2014) Allorecognition of HLA-DP by CD4+ T cells is affected by polymorphism in its alpha chain. Mol Immunol 59(1):19–29</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24462895</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.molimm.2013.12.006</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Anczurowski M, Hirano N (2018) Mechanisms of HLA-DP antigen processing and presentation revisited. Trends Immunol 39(12):960–964</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30416081</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.it.2018.10.008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thrane PS, Halstensen TS, Haanaes HR, Brandtzaeg P (1993) Increased epithelial expression of HLA-DQ and HLA-DP molecules in salivary glands from patients with Sjögren’s syndrome compared with obstructive sialadenitis. Clin Exp Immunol 92(2):256–262</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8485911</ArticleId>
+            <ArticleId IdType="pmc">1554793</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2249.1993.tb03389.x</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gupta S, Li D, Ostrov DA, Nguyen CQ (2022) Blocking IAg class II major histocompatibility complex by drug-like small molecules alleviated Sjögren’s syndrome in NOD mice. Life Sci 288:120182</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34843735</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.lfs.2021.120182</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang LY, Chen CF, Wu TW, Lai SK, Chu CC, Lin HH (2019) Response to hepatitis B vaccination is co-determined by HLA-DPA1 and -DPB1. Vaccine 37(43):6435–6440</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31515149</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.vaccine.2019.09.001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang J, Zhan W, Yang B, Tian A, Chen L, Liao Y et al (2017) Genetic polymorphisms of rs3077 and rs9277535 in HLA-DP associated with systemic lupus erythematosus in a Chinese population. Sci Rep 7:39757</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">28094303</ArticleId>
+            <ArticleId IdType="pmc">5240340</ArticleId>
+            <ArticleId IdType="doi">10.1038/srep39757</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gregersen JW, Erikstrup C, Ivarsen P, Glerup R, Krarup E, Keller KK et al (2019) PR3-ANCA-associated vasculitis is associated with a specific motif in the peptide-binding cleft of HLA-DP molecules. Rheumatol (Oxford) 58(11):1942–1949</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/rheumatology/kez111</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

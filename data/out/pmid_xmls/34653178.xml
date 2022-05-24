@@ -1,0 +1,956 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">34653178</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>12</Month>
+        <Day>13</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>12</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">1553-7358</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>17</Volume>
+            <Issue>10</Issue>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Oct</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>PLoS computational biology</Title>
+          <ISOAbbreviation>PLoS Comput Biol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>State transitions through inhibitory interneurons in a cortical network model.</ArticleTitle>
+        <Pagination>
+          <StartPage>e1009521</StartPage>
+          <MedlinePgn>e1009521</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">e1009521</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pcbi.1009521</ELocationID>
+        <Abstract>
+          <AbstractText>Inhibitory interneurons shape the spiking characteristics and computational properties of cortical networks. Interneuron subtypes can precisely regulate cortical function but the roles of interneuron subtypes for promoting different regimes of cortical activity remains unclear. Therefore, we investigated the impact of fast spiking and non-fast spiking interneuron subtypes on cortical activity using a network model with connectivity and synaptic properties constrained by experimental data. We found that network properties were more sensitive to modulation of the fast spiking population, with reductions of fast spiking excitability generating strong spike correlations and network oscillations. Paradoxically, reduced fast spiking excitability produced a reduction of global excitation-inhibition balance and features of an inhibition stabilised network, in which firing rates were driven by the activity of excitatory neurons within the network. Further analysis revealed that the synaptic interactions and biophysical features associated with fast spiking interneurons, in particular their rapid intrinsic response properties and short synaptic latency, enabled this state transition by enhancing gain within the excitatory population. Therefore, fast spiking interneurons may be uniquely positioned to control the strength of recurrent excitatory connectivity and the transition to an inhibition stabilised regime. Overall, our results suggest that interneuron subtypes can exert selective control over excitatory gain allowing for differential modulation of global network state.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Bryson</LastName>
+            <ForeName>Alexander</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0002-0033-8197</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Ion Channels and Disease Group, The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Australia.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Neurology, Austin Health, Heidelberg, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Berkovic</LastName>
+            <ForeName>Samuel F</ForeName>
+            <Initials>SF</Initials>
+            <Identifier Source="ORCID">0000-0003-4580-841X</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Epilepsy Research Centre, Department of Medicine, University of Melbourne, Austin Health, Heidelberg, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Petrou</LastName>
+            <ForeName>Steven</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0002-4960-6375</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Ion Channels and Disease Group, The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Grayden</LastName>
+            <ForeName>David B</ForeName>
+            <Initials>DB</Initials>
+            <Identifier Source="ORCID">0000-0002-5497-7234</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, University of Melbourne, Melbourne, Australia.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>15</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>PLoS Comput Biol</MedlineTA>
+        <NlmUniqueID>101238922</NlmUniqueID>
+        <ISSNLinking>1553-734X</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000200" MajorTopicYN="N">Action Potentials</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007395" MajorTopicYN="Y">Interneurons</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008959" MajorTopicYN="Y">Models, Neurological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009415" MajorTopicYN="Y">Nerve Net</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013003" MajorTopicYN="Y">Somatosensory Cortex</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>4</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>4</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>15</Day>
+          <Hour>17</Hour>
+          <Minute>13</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34653178</ArticleId>
+        <ArticleId IdType="pmc">PMC8550371</ArticleId>
+        <ArticleId IdType="doi">10.1371/journal.pcbi.1009521</ArticleId>
+        <ArticleId IdType="pii">PCOMPBIOL-D-21-00661</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Cardin JA. Functional flexibility in cortical circuits. Curr Opin Neurobiol. 2019;58: 175–180. doi: 10.1016/j.conb.2019.09.008
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.conb.2019.09.008</ArticleId>
+            <ArticleId IdType="pmc">PMC6981226</ArticleId>
+            <ArticleId IdType="pubmed">31585330</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cardin JA. Inhibitory Interneurons Regulate Temporal Precision and Correlations in Cortical Circuits. Trends Neurosci. 2018;41: 689–700. doi: 10.1016/j.tins.2018.07.015
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tins.2018.07.015</ArticleId>
+            <ArticleId IdType="pmc">PMC6173199</ArticleId>
+            <ArticleId IdType="pubmed">30274604</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tremblay R, Lee S, Rudy B. GABAergic Interneurons in the Neocortex: From Cellular Properties to Circuits. Neuron. 2016. pp. 260–292. doi: 10.1016/j.neuron.2016.06.033
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2016.06.033</ArticleId>
+            <ArticleId IdType="pmc">PMC4980915</ArticleId>
+            <ArticleId IdType="pubmed">27477017</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schevon CA, Weiss SA, McKhann G, Goodman RR, Yuste R, Emerson RG, et al.. Evidence of an inhibitory restraint of seizure activity in humans.
+Nat Commun.
+2012;3. doi: 10.1038/ncomms2056
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms2056</ArticleId>
+            <ArticleId IdType="pmc">PMC3658011</ArticleId>
+            <ArticleId IdType="pubmed">22968706</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Van Vreeswijk C, Sompolinsky H. Chaos in neuronal networks with balanced excitatory and inhibitory activity. Science (80-).
+1996;274: 1724–1726. doi: 10.1126/science.274.5293.1724
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.274.5293.1724</ArticleId>
+            <ArticleId IdType="pubmed">8939866</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kepecs A, Fishell G. Interneuron cell types are fit to function. Nature. 2014;505: 318–326. doi: 10.1038/nature12983
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature12983</ArticleId>
+            <ArticleId IdType="pmc">PMC4349583</ArticleId>
+            <ArticleId IdType="pubmed">24429630</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Renart A, De La Rocha J, Bartho P, Hollender L, Parga N, Reyes A, et al.. The asynchronous state in cortical circuits. Science (80-).
+2010;327: 587–590.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2861483</ArticleId>
+            <ArticleId IdType="pubmed">20110507</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brunel N.
+Dynamics of sparsely connected networks of excitatory and inhibitory spiking neurons. J Comput Neurosci. 2000; 183–208. doi: 10.1023/a:1008925309027
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1023/a:1008925309027</ArticleId>
+            <ArticleId IdType="pubmed">10809012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shew WL, Yang H, Yu S, Roy R, Plenz D. Information capacity and transmission are maximized in balanced cortical networks with neuronal avalanches. J Neurosci. 2011;31: 55–63. doi: 10.1523/JNEUROSCI.4637-10.2011
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.4637-10.2011</ArticleId>
+            <ArticleId IdType="pmc">PMC3082868</ArticleId>
+            <ArticleId IdType="pubmed">21209189</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Okun M, Lampl I. Instantaneous correlation of excitation and inhibition during ongoing and sensory-evoked activities. Nat Neurosci. 2008; 535–537. doi: 10.1038/nn.2105
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.2105</ArticleId>
+            <ArticleId IdType="pubmed">18376400</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Denève S, Machens CK. Efficient codes and balanced networks. Nature Neuroscience. 2016. pp. 375–382. doi: 10.1038/nn.4243
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.4243</ArticleId>
+            <ArticleId IdType="pubmed">26906504</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xue M, Atallah B V., Scanziani M. Equalizing excitation-inhibition ratios across visual cortical neurons. Nature. 2014; 596–600. doi: 10.1038/nature13321
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature13321</ArticleId>
+            <ArticleId IdType="pmc">PMC4117808</ArticleId>
+            <ArticleId IdType="pubmed">25043046</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kremkow J, Aertsen A, Kumar A. Gating of signal propagation in spiking neural networks by balanced and correlated excitation and inhibition. J Neurosci. 2010;30: 15760–15768. doi: 10.1523/JNEUROSCI.3874-10.2010
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.3874-10.2010</ArticleId>
+            <ArticleId IdType="pmc">PMC6633769</ArticleId>
+            <ArticleId IdType="pubmed">21106815</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tsodyks M V., Skaggs WE, McNaughton BL, Sejnowski TJ. Paradoxical effects of external modulation of inhibitory interneurons. J Neurosci. 1997;17: 4382–4388. doi: 10.1523/JNEUROSCI.17-11-04382.1997
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.17-11-04382.1997</ArticleId>
+            <ArticleId IdType="pmc">PMC6573545</ArticleId>
+            <ArticleId IdType="pubmed">9151754</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sadeh S, Clopath C. Inhibitory stabilization and cortical computation.
+Nat Rev Neurosci. 2021;22: 21–37. doi: 10.1038/s41583-020-00390-z
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41583-020-00390-z</ArticleId>
+            <ArticleId IdType="pubmed">33177630</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanzeni A, Akitake B, Goldbach HC, Leedy CE, Brunel N, Histed MH. Inhibition stabilization is a widespread property of cortical networks.
+Elife. 2020. doi: 10.7554/eLife.54875
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.54875</ArticleId>
+            <ArticleId IdType="pmc">PMC7324160</ArticleId>
+            <ArticleId IdType="pubmed">32598278</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ozeki H, Finn IM, Schaffer ES, Miller KD, Ferster D. Inhibitory stabilization of the cortical network underlies visual surround suppression. Neuron. 2009;62: 578–592. doi: 10.1016/j.neuron.2009.03.028
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2009.03.028</ArticleId>
+            <ArticleId IdType="pmc">PMC2691725</ArticleId>
+            <ArticleId IdType="pubmed">19477158</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li N, Chen S, Guo Z V, Chen H, Huo Y, Inagaki HK, et al.. Spatiotemporal constraints on optogenetic inactivation in cortical circuits.
+Elife. 2019;8. doi: 10.7554/eLife.48622
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.48622</ArticleId>
+            <ArticleId IdType="pmc">PMC6892606</ArticleId>
+            <ArticleId IdType="pubmed">31736463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ascoli G a, Alonso-Nanclares L, Anderson S a, Barrionuevo G, Benavides-Piccione R, Burkhalter A, et al.. Petilla terminology: nomenclature of features of GABAergic interneurons of the cerebral cortex. Nat Rev Neurosci. 2008;9: 557–568. doi: 10.1038/nrn2402
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn2402</ArticleId>
+            <ArticleId IdType="pmc">PMC2868386</ArticleId>
+            <ArticleId IdType="pubmed">18568015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Markram H, Toledo-rodriguez M, Wang Y, Gupta A. Interneurons of the neocortical inhibitory system.
+Nat Rev Neurosci.
+2004;5: 793–807. doi: 10.1038/nrn1519
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn1519</ArticleId>
+            <ArticleId IdType="pubmed">15378039</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Toledo-Rodriguez M, Blumenfeld B, Wu C, Luo J, Attali B, Goodman P, et al.. Correlation maps allow neuronal electrical properties to be predicted from single-cell gene expression profiles in rat neocortex. Cereb Cortex. 2004;14: 1310–1327. doi: 10.1093/cercor/bhh092
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/cercor/bhh092</ArticleId>
+            <ArticleId IdType="pubmed">15192011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hattori R, Kuchibhotla K V., Froemke RC, Komiyama T. Functions and dysfunctions of neocortical inhibitory neuron subtypes. Nature Neuroscience. 2017. pp. 1199–1208. doi: 10.1038/nn.4619
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.4619</ArticleId>
+            <ArticleId IdType="pmc">PMC7082034</ArticleId>
+            <ArticleId IdType="pubmed">28849791</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xiang Z, Huguenard JR, Prince DA. Cholinergic switching within neocortical inhibitory networks. Science (80-).
+1998;281: 985–988. doi: 10.1126/science.281.5379.985
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.281.5379.985</ArticleId>
+            <ArticleId IdType="pubmed">9703513</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Athilingam JC, Ben-Shalom R, Keeshen CM, Sohal VS, Bender KJ. Serotonin enhances excitability and gamma frequency temporal integration in mouse prefrontal fast-spiking interneurons.
+Elife. 2017. doi: 10.7554/eLife.31991
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.31991</ArticleId>
+            <ArticleId IdType="pmc">PMC5746342</ArticleId>
+            <ArticleId IdType="pubmed">29206101</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bryson A, Hatch RJ, Zandt B-J, Rossert C, Berkovic SF, Reid CA, et al.. GABA-mediated tonic inhibition differentially modulates gain in functional subtypes of cortical interneurons. Proc Natl Acad Sci. 2020;117: 3192–3202. doi: 10.1073/pnas.1906369117
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1906369117</ArticleId>
+            <ArticleId IdType="pmc">PMC7022204</ArticleId>
+            <ArticleId IdType="pubmed">31974304</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lefort S, Tomm C, Floyd Sarria JC, Petersen CCH. The Excitatory Neuronal Network of the C2 Barrel Column in Mouse Primary Somatosensory Cortex. Neuron. 2009;61: 301–316. doi: 10.1016/j.neuron.2008.12.020
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2008.12.020</ArticleId>
+            <ArticleId IdType="pubmed">19186171</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harris KD, Shepherd GMG. The neocortical circuit: Themes and variations. Nat Neurosci. 2015;18: 170–181. doi: 10.1038/nn.3917
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.3917</ArticleId>
+            <ArticleId IdType="pmc">PMC4889215</ArticleId>
+            <ArticleId IdType="pubmed">25622573</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Avermann M, Tomm C, Mateo C, Gerstner W, Petersen CCH. Microcircuits of excitatory and inhibitory neurons in layer 2/3 of mouse barrel cortex. J Neurophysiol. 2012. doi: 10.1152/jn.00917.2011
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.00917.2011</ArticleId>
+            <ArticleId IdType="pubmed">22402650</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fino E, Yuste R. Dense inhibitory connectivity in neocortex. Neuron. 2011;69: 1188–1203. doi: 10.1016/j.neuron.2011.02.025
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2011.02.025</ArticleId>
+            <ArticleId IdType="pmc">PMC3086675</ArticleId>
+            <ArticleId IdType="pubmed">21435562</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Markram H, Muller E, Ramaswamy S, Reimann MW, Defelipe J, Hill SL, et al.. Reconstruction and Simulation of Neocortical Microcircuitry. Cell. 2015;163: 456–92. doi: 10.1016/j.cell.2015.09.029
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2015.09.029</ArticleId>
+            <ArticleId IdType="pubmed">26451489</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Druckmann S, Berger TK, Schurmann F, Hill S, Markram H, Segev I. Effective Stimuli for Constructing Reliable Neuron Models.
+PLOS Comput Biol. 2011;7: 534–542. doi: 10.1371/journal.pcbi.1002133
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1002133</ArticleId>
+            <ArticleId IdType="pmc">PMC3158041</ArticleId>
+            <ArticleId IdType="pubmed">21876663</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hay E, Hill S, Schürmann F, Markram H, Segev I. Models of neocortical layer 5b pyramidal cells capturing a wide range of dendritic and perisomatic active properties.
+PLoS Comput Biol. 2011;7: e1002107. doi: 10.1371/journal.pcbi.1002107
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1002107</ArticleId>
+            <ArticleId IdType="pmc">PMC3145650</ArticleId>
+            <ArticleId IdType="pubmed">21829333</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Izhikevich EM. Simple model of spiking neurons. IEEE Trans Neural Networks. 2003;14: 1569–1572. doi: 10.1109/TNN.2003.820440
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TNN.2003.820440</ArticleId>
+            <ArticleId IdType="pubmed">18244602</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lytton WW, Dura-Bernal S. NEURON implementation of Izhikevich artificial neuron model. Includes modifications for use with conductance-change synapses in a biophysical model cell (personal communication, N.T. Carnevale; see comments in Izh.mod and discussion at https://www.neuron. 2004. Available: https://www.modeldb.yale.edu/39948</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Feldmeyer D, Lübke J, Silver RA, Sakmann B. Synaptic connections between layer 4 spiny neurone-layer 2/3 pyramidal cell pairs in juvenile rat barrel cortex: Physiology and anatomy of interlaminar signalling within a cortical column. J Physiol. 2002;538. doi: 10.1113/jphysiol.2001.012959
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2001.012959</ArticleId>
+            <ArticleId IdType="pmc">PMC2290091</ArticleId>
+            <ArticleId IdType="pubmed">11826166</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sarid L, Bruno R, Sakmann B, Segev I, Feldmeyer D. Modeling a layer 4-to-layer 2/3 module of a single column in rat neocortex: Interweaving in vitro and in vivo experimental observations. Proc Natl Acad Sci U S A. 2007;104. doi: 10.1073/pnas.0707853104
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0707853104</ArticleId>
+            <ArticleId IdType="pmc">PMC2000451</ArticleId>
+            <ArticleId IdType="pubmed">17913876</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Spruston N, Jonas P, Sakmann B. Dendritic glutamate receptor channels in rat hippocampal CA3 and CA1 pyramidal neurons. J Physiol. 1995;482. doi: 10.1113/jphysiol.1995.sp020521
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.1995.sp020521</ArticleId>
+            <ArticleId IdType="pmc">PMC1157732</ArticleId>
+            <ArticleId IdType="pubmed">7536248</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reyes A, Lujan R, Rozov A, Burnashev N, Somogyi P, Sakmann B. Target-cell-specific facilitation and depression in neocortical circuits. Nat Neurosci. 1998;1. doi: 10.1038/1092
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/1092</ArticleId>
+            <ArticleId IdType="pubmed">10195160</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Silberberg G, Markram H. Disynaptic Inhibition between Neocortical Pyramidal Cells Mediated by Martinotti Cells. Neuron. 2007;53: 735–746. doi: 10.1016/j.neuron.2007.02.012
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2007.02.012</ArticleId>
+            <ArticleId IdType="pubmed">17329212</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morishima M, Kobayashi K, Kato S, Kobayashi K, Kawaguchi Y. Segregated excitatoryinhibitory recurrent subnetworks in layer 5 of the rat frontal cortex. Cereb Cortex. 2017;27. doi: 10.1093/cercor/bhx276
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/cercor/bhx276</ArticleId>
+            <ArticleId IdType="pmc">PMC5905586</ArticleId>
+            <ArticleId IdType="pubmed">29045559</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Levy RB, Reyes AD. Spatial profile of excitatory and inhibitory synaptic connectivity in mouse primary auditory cortex. J Neurosci. 2012;32. doi: 10.1523/JNEUROSCI.5158-11.2012
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.5158-11.2012</ArticleId>
+            <ArticleId IdType="pmc">PMC3359703</ArticleId>
+            <ArticleId IdType="pubmed">22514322</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Duarte R, Morrison A. Leveraging heterogeneity for neural computation with fading memory in layer 2/3 cortical microcircuits.
+PLoS Comput Biol. 2019;15: e1006781. doi: 10.1371/journal.pcbi.1006781
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1006781</ArticleId>
+            <ArticleId IdType="pmc">PMC6504118</ArticleId>
+            <ArticleId IdType="pubmed">31022182</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Holmgren C, Harkany T, Svennenfors B, Zilberter Y. Pyramidal cell communication within local networks in layer 2/3 of rat neocortex. J Physiol. 2003;551: 139–153. doi: 10.1113/jphysiol.2003.044784
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2003.044784</ArticleId>
+            <ArticleId IdType="pmc">PMC2343144</ArticleId>
+            <ArticleId IdType="pubmed">12813147</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Petersen CCH, Crochet S. Synaptic Computation and Sensory Processing in Neocortical Layer 2/3. Neuron. 2013;78. doi: 10.1016/j.neuron.2013.03.020
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2013.03.020</ArticleId>
+            <ArticleId IdType="pubmed">23583106</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramaswamy S, Hill SL, King JG, Schürmann F, Wang Y, Markram H. Intrinsic morphological diversity of thick-tufted layer 5 pyramidal neurons ensures robust and invariant properties of in silico synaptic connections. J Physiol. 2012;590: 737–752. doi: 10.1113/jphysiol.2011.219576
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2011.219576</ArticleId>
+            <ArticleId IdType="pmc">PMC3381307</ArticleId>
+            <ArticleId IdType="pubmed">22083599</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Di Cristo G, Wu C, Chattopadhyaya B, Ango F, Knott G, Welker E, et al.. Subcellular domain-restricted GABAergic innervation in primary visual cortex in the absence of sensory and thalamic inputs. Nat Neurosci. 2004;7. doi: 10.1038/nn0104-7
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn0104-7</ArticleId>
+            <ArticleId IdType="pubmed">15475951</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kubota Y, Karube F, Nomura M, Kawaguchi Y. The diversity of cortical inhibitory synapses.
+Front Neural Circuits.
+2016;10. doi: 10.3389/fncir.2016.00027
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncir.2016.00027</ArticleId>
+            <ArticleId IdType="pmc">PMC4842771</ArticleId>
+            <ArticleId IdType="pubmed">27199670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramaswamy S, Markram H. Anatomy and physiology of the thick-tufted layer 5 pyramidal neuron. Front Cell Neurosci. 2015;9: 233. doi: 10.3389/fncel.2015.00233
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncel.2015.00233</ArticleId>
+            <ArticleId IdType="pmc">PMC4481152</ArticleId>
+            <ArticleId IdType="pubmed">26167146</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rudolph M, Pospischil M, Timofeev I, Destexhe A. Inhibition determines membrane potential dynamics and controls action potential generation in awake and sleeping cat cortex. J Neurosci. 2007;27: 5280–5290. doi: 10.1523/JNEUROSCI.4652-06.2007
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.4652-06.2007</ArticleId>
+            <ArticleId IdType="pmc">PMC6672346</ArticleId>
+            <ArticleId IdType="pubmed">17507551</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gentet LJ, Kremer Y, Taniguchi H, Huang ZJ, Staiger JF, Petersen CCH. Unique functional properties of somatostatin-expressing GABAergic neurons in mouse barrel cortex. Nat Neurosci. 2012;15: 607–613. doi: 10.1038/nn.3051
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.3051</ArticleId>
+            <ArticleId IdType="pubmed">22366760</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Barth AL, Poulet JFA. Experimental evidence for sparse firing in the neocortex. Trends Neurosci. 2012;35: 345–355. doi: 10.1016/j.tins.2012.03.008
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tins.2012.03.008</ArticleId>
+            <ArticleId IdType="pubmed">22579264</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crochet S, Poulet JFA, Kremer Y, Petersen CCH. Synaptic mechanisms underlying sparse coding of active touch. Neuron. 2011;69: 1160–1175. doi: 10.1016/j.neuron.2011.02.022
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2011.02.022</ArticleId>
+            <ArticleId IdType="pubmed">21435560</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dura-Bernal S, Suter BA, Gleeson P, Cantarelli M, Quintana A, Rodriguez F, et al.. NetpyNE, a tool for data-driven multiscale modeling of brain circuits. Elife. 2019;26. doi: 10.7554/eLife.44494
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.44494</ArticleId>
+            <ArticleId IdType="pmc">PMC6534378</ArticleId>
+            <ArticleId IdType="pubmed">31025934</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Litwin-Kumar A, Rosenbaum R, Doiron B. Inhibitory stabilization and visual coding in cortical circuits with multiple interneuron subtypes. J Neurophysiol. 2016;115: 1399–1409. doi: 10.1152/jn.00732.2015
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.00732.2015</ArticleId>
+            <ArticleId IdType="pmc">PMC4808082</ArticleId>
+            <ArticleId IdType="pubmed">26740531</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ermentrout B, Mahajan A. Simulating, Analyzing, and Animating Dynamical Systems: A Guide to XPPAUT for Researchers and Students. Appl Mech Rev. 2003;56: B53. doi: 10.1115/1.1579454</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1115/1.1579454</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>D’amour JA, Froemke RC. Inhibitory and excitatory spike-timing-dependent plasticity in the auditory cortex. Neuron. 2015. doi: 10.1016/j.neuron.2015.03.014
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2015.03.014</ArticleId>
+            <ArticleId IdType="pmc">PMC4409545</ArticleId>
+            <ArticleId IdType="pubmed">25843405</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bhatia A, Moza S, Bhalla US. Precise excitation-inhibition balance controls gain and timing in the hippocampus.
+Elife. 2019. doi: 10.7554/eLife.43415
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.43415</ArticleId>
+            <ArticleId IdType="pmc">PMC6517031</ArticleId>
+            <ArticleId IdType="pubmed">31021319</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ahmadian Y, Miller KD. What is the dynamical regime of cerebral cortex?
+arXiv. 2019.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34464597</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maimon G, Assad JA. Beyond Poisson: Increased Spike-Time Regularity across Primate Parietal Cortex. Neuron. 2009. doi: 10.1016/j.neuron.2009.03.021
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2009.03.021</ArticleId>
+            <ArticleId IdType="pmc">PMC2743683</ArticleId>
+            <ArticleId IdType="pubmed">19447097</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buzsáki G, Mizuseki K. The log-dynamic brain: How skewed distributions affect network operations.
+Nature Reviews Neuroscience. 2014. doi: 10.1038/nrn3687
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn3687</ArticleId>
+            <ArticleId IdType="pmc">PMC4051294</ArticleId>
+            <ArticleId IdType="pubmed">24569488</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Softky WR, Koch C. The highly irregular firing of cortical cells is inconsistent with temporal integration of random EPSPs. J Neurosci. 1993;13: 334–350. Available: http://www.ncbi.nlm.nih.gov/pubmed/8423479
+doi: 10.1523/JNEUROSCI.13-01-00334.1993
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.13-01-00334.1993</ArticleId>
+            <ArticleId IdType="pmc">PMC6576320</ArticleId>
+            <ArticleId IdType="pubmed">8423479</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Callaway EM. Inhibitory cell types, circuits and receptive fields in mouse visual cortex.
+Research and Perspectives in Neurosciences.
+2016. doi: 10.17712/nsj.2016.1.20150252
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.17712/nsj.2016.1.20150252</ArticleId>
+            <ArticleId IdType="pubmed">0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Atallah B V., Bruns W, Carandini M, Scanziani M. Parvalbumin-Expressing Interneurons Linearly Transform Cortical Responses to Visual Stimuli. Neuron. 2012;73: 159–170. doi: 10.1016/j.neuron.2011.12.013
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2011.12.013</ArticleId>
+            <ArticleId IdType="pmc">PMC3743079</ArticleId>
+            <ArticleId IdType="pubmed">22243754</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kvitsiani D, Ranade S, Hangya B, Taniguchi H, Huang JZ, Kepecs A. Distinct behavioural and network correlates of two interneuron types in prefrontal cortex. Nature. 2013;498: 363–366. doi: 10.1038/nature12176
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature12176</ArticleId>
+            <ArticleId IdType="pmc">PMC4349584</ArticleId>
+            <ArticleId IdType="pubmed">23708967</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pi HJ, Hangya B, Kvitsiani D, Sanders JI, Huang ZJ, Kepecs A. Cortical interneurons that specialize in disinhibitory control. Nature. 2013. doi: 10.1038/nature12676
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature12676</ArticleId>
+            <ArticleId IdType="pmc">PMC4017628</ArticleId>
+            <ArticleId IdType="pubmed">24097352</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sadeh S, Silver RA, Mrsic-Flogel TD, Muir DR. Assessing the Role of Inhibition in Stabilizing Neocortical Networks Requires Large-Scale Perturbation of the Inhibitory Population. J Neurosci. 2017. doi: 10.1523/JNEUROSCI.0963-17.2017
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.0963-17.2017</ArticleId>
+            <ArticleId IdType="pmc">PMC5719979</ArticleId>
+            <ArticleId IdType="pubmed">29074575</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rubin DB, VanHooser SD, Miller KD. The stabilized supralinear network: A unifying circuit motif underlying multi-input integration in sensory cortex. Neuron. 2015;85: 402–417. doi: 10.1016/j.neuron.2014.12.026
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2014.12.026</ArticleId>
+            <ArticleId IdType="pmc">PMC4344127</ArticleId>
+            <ArticleId IdType="pubmed">25611511</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Katzner S, Busse L, Carandini M. GABAA inhibition controls response gain in visual cortex. J Neurosci. 2011;31: 5931–5941. doi: 10.1523/JNEUROSCI.5753-10.2011
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.5753-10.2011</ArticleId>
+            <ArticleId IdType="pmc">PMC3083851</ArticleId>
+            <ArticleId IdType="pubmed">21508218</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ferguson KA, Cardin JA. Mechanisms underlying gain modulation in the cortex. Nature Reviews Neuroscience. 2020. doi: 10.1038/s41583-019-0253-y
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41583-019-0253-y</ArticleId>
+            <ArticleId IdType="pmc">PMC7408409</ArticleId>
+            <ArticleId IdType="pubmed">31911627</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Salinas E, Sejnowski TJ. Impact of correlated synaptic input on output firing rate and variability in simple neuronal models. J Neurosci. 2000. doi: 10.1523/JNEUROSCI.20-16-06193.2000
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.20-16-06193.2000</ArticleId>
+            <ArticleId IdType="pmc">PMC6772574</ArticleId>
+            <ArticleId IdType="pubmed">10934269</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Haider B, McCormick DA. Rapid Neocortical Dynamics: Cellular and Network Mechanisms. Neuron. 2009. pp. 171–189. doi: 10.1016/j.neuron.2009.04.008
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2009.04.008</ArticleId>
+            <ArticleId IdType="pmc">PMC3132648</ArticleId>
+            <ArticleId IdType="pubmed">19409263</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Engel TA, Steinmetz NA, Gieselmann MA, Thiele A, Moore T, Boahen K. Selective modulation of cortical state during spatial attention. Science (80-).
+2016. doi: 10.1126/science.aag1420
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aag1420</ArticleId>
+            <ArticleId IdType="pubmed">27934763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Polack PO, Friedman J, Golshani P. Cellular mechanisms of brain state-dependent gain modulation in visual cortex. Nat Neurosci. 2013;16: 1331–1339. doi: 10.1038/nn.3464
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.3464</ArticleId>
+            <ArticleId IdType="pmc">PMC3786578</ArticleId>
+            <ArticleId IdType="pubmed">23872595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Harris KD, Thiele A. Cortical state and attention. Nature Reviews Neuroscience. 2011. doi: 10.1038/nrn3084
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn3084</ArticleId>
+            <ArticleId IdType="pmc">PMC3324821</ArticleId>
+            <ArticleId IdType="pubmed">21829219</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Litwin-Kumar A, Doiron B. Slow dynamics and high variability in balanced cortical networks with clustered connections. Nat Neurosci. 2012;15: 1498–1505. doi: 10.1038/nn.3220
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.3220</ArticleId>
+            <ArticleId IdType="pmc">PMC4106684</ArticleId>
+            <ArticleId IdType="pubmed">23001062</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chance FS, Abbott LF, Reyes AD. Gain Modulation from Background Synaptic Input. Neuron. 2002;35: 773–782. doi: 10.1016/s0896-6273(02)00820-6
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0896-6273(02)00820-6</ArticleId>
+            <ArticleId IdType="pubmed">12194875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shu Y, Hasenstaub A, Badoual M, Bal T, McCormick DA. Barrages of synaptic activity control the gain and sensitivity of cortical neurons. J Neurosci. 2003;23: 10388–10401. Available: http://www.ncbi.nlm.nih.gov/pubmed/14614098
+doi: 10.1523/JNEUROSCI.23-32-10388.2003
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.23-32-10388.2003</ArticleId>
+            <ArticleId IdType="pmc">PMC6741011</ArticleId>
+            <ArticleId IdType="pubmed">14614098</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koch C, Rapp M, Segev I. A brief history of time (constants).
+Cereb Cortex. 1996;6: 93–101. doi: 10.1093/cercor/6.2.93
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/cercor/6.2.93</ArticleId>
+            <ArticleId IdType="pubmed">8670642</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hong S, Ratté S, Prescott SA, De Schutter E. Single neuron firing properties impact correlation-based population coding. J Neurosci. 2012;32: 1413–1428. doi: 10.1523/JNEUROSCI.3735-11.2012
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.3735-11.2012</ArticleId>
+            <ArticleId IdType="pmc">PMC3571732</ArticleId>
+            <ArticleId IdType="pubmed">22279226</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lundstrom BN, Famulare M, Sorensen LB, Spain WJ, Fairhall AL. Sensitivity of firing rate to input fluctuations depends on time scale separation between fast and slow variables in single neurons. J Comput Neurosci. 2009;27: 277–290. doi: 10.1007/s10827-009-0142-x
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10827-009-0142-x</ArticleId>
+            <ArticleId IdType="pubmed">19353260</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lien AD, Scanziani M. Tuned thalamic excitation is amplified by visual cortical circuits. Nat Neurosci. 2013;16: 1315–1323. doi: 10.1038/nn.3488
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.3488</ArticleId>
+            <ArticleId IdType="pmc">PMC3774518</ArticleId>
+            <ArticleId IdType="pubmed">23933748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Guo Z V., Inagaki HK, Daie K, Druckmann S, Gerfen CR, Svoboda K. Maintenance of persistent activity in a frontal thalamocortical loop. Nature. 2017;545: 181–186. doi: 10.1038/nature22324
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature22324</ArticleId>
+            <ArticleId IdType="pmc">PMC6431254</ArticleId>
+            <ArticleId IdType="pubmed">28467817</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krook-Magnuson E, Armstrong C, Oijala M, Soltesz I. On-demand optogenetic control of spontaneous seizures in temporal lobe epilepsy.
+Nat Commun.
+2013;4. doi: 10.1038/ncomms2376
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms2376</ArticleId>
+            <ArticleId IdType="pmc">PMC3562457</ArticleId>
+            <ArticleId IdType="pubmed">23340416</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Paz JT, Huguenard JR. Microcircuits and their interactions in epilepsy: Is the focus out of focus?
+Nat Neurosci. 2015;18: 351–359. doi: 10.1038/nn.3950
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.3950</ArticleId>
+            <ArticleId IdType="pmc">PMC4561622</ArticleId>
+            <ArticleId IdType="pubmed">25710837</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Aeed F, Shnitzer T, Talmon R, Schiller Y. Layer- and Cell-Specific Recruitment Dynamics during Epileptic Seizures In Vivo. Ann Neurol. 2020. doi: 10.1002/ana.25628
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/ana.25628</ArticleId>
+            <ArticleId IdType="pubmed">31657482</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang XJ. Macroscopic gradients of synaptic excitation and inhibition in the neocortex.
+Nat Rev Neurosci. 2020;21: 169–178. doi: 10.1038/s41583-020-0262-x
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41583-020-0262-x</ArticleId>
+            <ArticleId IdType="pmc">PMC7334830</ArticleId>
+            <ArticleId IdType="pubmed">32029928</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Spruston N.
+Pyramidal neurons: dendritic structure and synaptic integration. Nat Rev Neurosci. 2008;9: 206–221. doi: 10.1038/nrn2286
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn2286</ArticleId>
+            <ArticleId IdType="pubmed">18270515</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

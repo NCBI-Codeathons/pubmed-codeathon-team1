@@ -1,0 +1,519 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35214303</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>01</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>01</Day>
+      </DateRevised>
+      <Article PubModel="Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1424-8220</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>22</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Feb</Month>
+              <Day>11</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Sensors (Basel, Switzerland)</Title>
+          <ISOAbbreviation>Sensors (Basel)</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Damage Detection in Largely Unobserved Structures under Varying Environmental Conditions: An AutoRegressive Spectrum and Multi-Level Machine Learning Methodology.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">1400</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3390/s22041400</ELocationID>
+        <Abstract>
+          <AbstractText>Vibration-based damage detection in civil structures using data-driven methods requires sufficient vibration responses acquired with a sensor network. Due to technical and economic reasons, it is not always possible to deploy a large number of sensors. This limitation may lead to partial information being handled for damage detection purposes, under environmental variability. To address this challenge, this article proposes an innovative multi-level machine learning method by employing the autoregressive spectrum as the main damage-sensitive feature. The proposed method consists of three levels: (i) distance calculation by the log-spectral distance, to increase damage detectability and generate distance-based training and test samples; (ii) feature normalization by an improved factor analysis, to remove environmental variations; and (iii) decision-making for damage localization by means of the Jensen-Shannon divergence. The major contributions of this research are represented by the development of the aforementioned multi-level machine learning method, and by the proposal of the new factor analysis for feature normalization. Limited vibration datasets relevant to a truss structure and consisting of acceleration time histories induced by shaker excitation in a passive system, have been used to validate the proposed method and to compare it with alternate, state-of-the-art strategies.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Entezami</LastName>
+            <ForeName>Alireza</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0002-4864-2120</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Civil and Environmental Engineering, Politecnico di Milano, Piazza L. da Vinci 32, 20133 Milano, Italy.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Civil Engineering, Faculty of Engineering, Ferdowsi University of Mashhad, Mashhad 9177948944, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mariani</LastName>
+            <ForeName>Stefano</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0001-5111-9800</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Civil and Environmental Engineering, Politecnico di Milano, Piazza L. da Vinci 32, 20133 Milano, Italy.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shariatmadar</LastName>
+            <ForeName>Hashem</ForeName>
+            <Initials>H</Initials>
+            <Identifier Source="ORCID">0000-0001-5966-3317</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Civil Engineering, Faculty of Engineering, Ferdowsi University of Mashhad, Mashhad 9177948944, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>02</Month>
+          <Day>11</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Sensors (Basel)</MedlineTA>
+        <NlmUniqueID>101204366</NlmUniqueID>
+        <ISSNLinking>1424-8220</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000054" MajorTopicYN="Y">Acceleration</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000069550" MajorTopicYN="Y">Machine Learning</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D026741" MajorTopicYN="N">Physical Therapy Modalities</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014732" MajorTopicYN="N">Vibration</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Markov Chain Monte Carlo</Keyword>
+        <Keyword MajorTopicYN="N">environmental variability</Keyword>
+        <Keyword MajorTopicYN="N">factor analysis</Keyword>
+        <Keyword MajorTopicYN="N">limited sensors</Keyword>
+        <Keyword MajorTopicYN="N">spectral estimation</Keyword>
+        <Keyword MajorTopicYN="N">structural health monitoring</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>9</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>9</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>26</Day>
+          <Hour>1</Hour>
+          <Minute>2</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>27</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>3</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35214303</ArticleId>
+        <ArticleId IdType="pmc">PMC8963060</ArticleId>
+        <ArticleId IdType="doi">10.3390/s22041400</ArticleId>
+        <ArticleId IdType="pii">s22041400</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Entezami A., Sarmadi H., Behkamal B., Mariani S. Big data analytics and structural health monitoring: A statistical pattern recognition-based approach. Sensors. 2020;20:2328.  doi: 10.3390/s20082328.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s20082328</ArticleId>
+            <ArticleId IdType="pmc">PMC7219663</ArticleId>
+            <ArticleId IdType="pubmed">32325821</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sarmadi H. Investigation of Machine Learning Methods for Structural Safety Assessment under Variability in Data: Comparative Studies and New Approaches. J. Perform. Constr. Facil. 2021;35:04021090. doi: 10.1061/(ASCE)CF.1943-5509.0001664.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1061/(ASCE)CF.1943-5509.0001664</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kullaa J. Damage Detection and Localization under Variable Environmental Conditions Using Compressed and Reconstructed Bayesian Virtual Sensor Data. Sensors. 2022;22:306.  doi: 10.3390/s22010306.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s22010306</ArticleId>
+            <ArticleId IdType="pmc">PMC8749672</ArticleId>
+            <ArticleId IdType="pubmed">35009842</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ren P., Zhou Z. Two-Step Approach to Processing Raw Strain Monitoring Data for Damage Detection of Structures under Operational Conditions. Sensors. 2021;21:6887.  doi: 10.3390/s21206887.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s21206887</ArticleId>
+            <ArticleId IdType="pmc">PMC8539501</ArticleId>
+            <ArticleId IdType="pubmed">34696098</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Entezami A., Shariatmadar H., De Michele C. Non-parametric empirical machine learning for short-term and long-term structural health monitoring. Struct. Health Monit. 2022 
+in press
+.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Spencer B.F., Hoskere V., Narazaki Y. Advances in Computer Vision-Based Civil Infrastructure Inspection and Monitoring. Engineering. 2019;5:199–222. doi: 10.1016/j.eng.2018.11.030.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.eng.2018.11.030</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xu Y., Brownjohn J.M.W. Review of machine-vision based methodologies for displacement measurement in civil structures. J. Civ. Struct. Health Monit. 2018;8:91–110. doi: 10.1007/s13349-017-0261-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13349-017-0261-4</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schumacher T., Shariati A. Monitoring of Structures and Mechanical Systems Using Virtual Visual Sensors for Video Analysis: Fundamental Concept and Proof of Feasibility. Sensors. 2013;13:16551–16564. doi: 10.3390/s131216551.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s131216551</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ribeiro D., Calçada R., Ferreira J., Martins T. Non-contact measurement of the dynamic displacement of railway bridges using an advanced video-based system. Eng. Struct. 2014;75:164–180. doi: 10.1016/j.engstruct.2014.04.051.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.engstruct.2014.04.051</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sarmadi H., Entezami A., Ghalehnovi M. On model-based damage detection by an enhanced sensitivity function of modal flexibility and LSMR-Tikhonov method under incomplete noisy modal data. Eng. Comput. 2020 doi: 10.1007/s00366-020-01041-8. 
+in press
+.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00366-020-01041-8</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rezaiee-Pajand M., Sarmadi H., Entezami A. A hybrid sensitivity function and Lanczos bidiagonalization-Tikhonov method for structural model updating: Application to a full-scale bridge structure. Appl. Math. Model. 2021;89:860–884. doi: 10.1016/j.apm.2020.07.044.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.apm.2020.07.044</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Daneshvar M.H., Saffarian M., Jahangir H., Sarmadi H. Damage identification of structural systems by modal strain energy and an optimization-based iterative regularization method. Eng. Comput. 2022 doi: 10.1007/s00366-021-01567-5. 
+in press
+.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00366-021-01567-5</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Entezami A., Shariatmadar H., Ghalehnovi M. Damage detection by updating structural models based on linear objective functions. J. Civ. Struct. Health Monit. 2014;4:165–176. doi: 10.1007/s13349-014-0072-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13349-014-0072-9</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Azimi M., Eslamlou A.D., Pekcan G. Data-driven structural health monitoring and damage detection through deep learning: State-of-the-art review. Sensors. 2020;20:2778.  doi: 10.3390/s20102778.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s20102778</ArticleId>
+            <ArticleId IdType="pmc">PMC7294417</ArticleId>
+            <ArticleId IdType="pubmed">32414205</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Entezami A., Shariatmadar H., Karamodin A. Data-driven damage diagnosis under environmental and operational variability by novel statistical pattern recognition methods. Struct. Health Monit. 2019;18:1416–1443. doi: 10.1177/1475921718800306.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1475921718800306</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Entezami A., Shariatmadar H., Karamodin A. Improving feature extraction via time series modeling for structural health monitoring based on unsupervised learning methods. Sci. Iran. 2020;27:1001–1018.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Rezaiee-Pajand M., Entezami A., Shariatmadar H. An iterative order determination method for time-series modeling in structural health monitoring. Adv. Struct. Eng. 2017;21:300–314. doi: 10.1177/1369433217717118.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1369433217717118</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Farrar C.R., Worden K.  Structural Health Monitoring: A Machine Learning Perspective. John Wiley &amp; Sons Ltd.; Chichester, UK: 2013. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Amezquita-Sanchez J.P., Adeli H. Signal Processing Techniques for Vibration-Based Health Monitoring of Smart Structures. Arch. Comput. Methods Eng. 2016;23:1–15. doi: 10.1007/s11831-014-9135-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11831-014-9135-7</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sarmadi H., Karamodin A. A novel anomaly detection method based on adaptive Mahalanobis-squared distance and one-class kNN rule for structural health monitoring under environmental effects. Mech. Syst. Sig. Process. 2020;140:106495. doi: 10.1016/j.ymssp.2019.106495.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ymssp.2019.106495</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sarmadi H., Entezami A., Saeedi Razavi B., Yuen K.-V. Ensemble learning-based structural health monitoring by Mahalanobis distance metrics. Struct. Contr. Health Monit. 2021;28:e2663. doi: 10.1002/stc.2663.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/stc.2663</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sarmadi H., Entezami A., Daneshvar Khorram M. Energy-based damage localization under ambient vibration and non-stationary signals by ensemble empirical mode decomposition and Mahalanobis-squared distance. J. Vibrat. Control. 2020;26:1012–1027. doi: 10.1177/1077546319891306.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1077546319891306</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Entezami A., Shariatmadar H., Mariani S. Fast unsupervised learning methods for structural health monitoring with large vibration data from dense sensor networks. Struct. Health Monit. 2020;19:1685–1710. doi: 10.1177/1475921719894186.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1475921719894186</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yan W.-J., Chronopoulos D., Yuen K.-V., Zhu Y.-C. Structural anomaly detection based on probabilistic distance measures of transmissibility function and statistical threshold selection scheme. Mech. Syst. Sig. Process. 2022;162:108009. doi: 10.1016/j.ymssp.2021.108009.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ymssp.2021.108009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Entezami A., Shariatmadar H. Structural health monitoring by a new hybrid feature extraction and dynamic time warping methods under ambient vibration and non-stationary signals. Measurement. 2019;134:548–568. doi: 10.1016/j.measurement.2018.10.095.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.measurement.2018.10.095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Entezami A., Shariatmadar H. An unsupervised learning approach by novel damage indices in structural health monitoring for damage localization and quantification. Struct. Health Monit. 2018;17:325–345. doi: 10.1177/1475921717693572.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1475921717693572</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Daneshvar M.H., Gharighoran A., Zareei S.A., Karamodin A. Structural health monitoring using high-dimensional features from time series modeling by innovative hybrid distance-based methods. J. Civ. Struct. Health Monit. 2021;11:537–557. doi: 10.1007/s13349-020-00466-5.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13349-020-00466-5</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Entezami A., Sarmadi H., Behkamal B., Mariani S. Health Monitoring of Large-Scale Civil Structures: An Approach Based on Data Partitioning and Classical Multidimensional Scaling. Sensors. 2021;21:1646.  doi: 10.3390/s21051646.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/s21051646</ArticleId>
+            <ArticleId IdType="pmc">PMC7956361</ArticleId>
+            <ArticleId IdType="pubmed">33652995</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Entezami A., Sarmadi H., Salar M., De Michele C., Nadir Arslan A. A novel data-driven method for structural health monitoring under ambient vibration and high dimensional features by robust multidimensional scaling. Struct. Health Monit. :2021. doi: 10.1177/1475921720973953. 
+in press
+.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1475921720973953</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu Z., Yu Y., Liu G., Wang J., Mao X. Design of a wireless measurement system based on WSNs for large bridges. Measurement. 2014;50:324–330. doi: 10.1016/j.measurement.2014.01.013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.measurement.2014.01.013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Capellari G., Chatzi E., Mariani S., Azam S.E. Optimal design of sensor networks for damage detection. Procedia Eng. 2017;199:1864–1869. doi: 10.1016/j.proeng.2017.09.115.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.proeng.2017.09.115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Capellari G., Chatzi E., Mariani S. Cost-benefit optimization of sensor networks for SHM applications. Proceedings. 2018;2:132.  doi: 10.3390/ecsa-4-04891.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/ecsa-4-04891</ArticleId>
+            <ArticleId IdType="pmc">PMC6068495</ArticleId>
+            <ArticleId IdType="pubmed">29986433</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Das S., Saha P. A review of some advanced sensors used for health diagnosis of civil engineering structures. Measurement. 2018;129:68–90. doi: 10.1016/j.measurement.2018.07.008.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.measurement.2018.07.008</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang Y., Nagarajaiah S. Output-only modal identification with limited sensors using sparse component analysis. J. Sound Vib. 2013;332:4741–4765. doi: 10.1016/j.jsv.2013.04.004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jsv.2013.04.004</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lu W., Wen R., Teng J., Li X., Li C. Data correlation analysis for optimal sensor placement using a bond energy algorithm. Measurement. 2016;91:509–518. doi: 10.1016/j.measurement.2016.05.089.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.measurement.2016.05.089</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bagheri A., Zare Hosseinzadeh A., Rizzo P., Ghodrati Amiri G. Time domain damage localization and quantification in seismically excited structures using a limited number of sensors. J. Vibrat. Control. 2017;23:2942–2961. doi: 10.1177/1077546315625141.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1077546315625141</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nie Z., Lin J., Li J., Hao H., Ma H. Bridge condition monitoring under moving loads using two sensor measurements. Struct. Health Monit. 2020;19:917–937. doi: 10.1177/1475921719868930.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1475921719868930</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sarmadi H., Entezami A. Application of supervised learning to validation of damage detection. Arch. Appl. Mech. 2021;91:393–410. doi: 10.1007/s00419-020-01779-z.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00419-020-01779-z</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sarmadi H., Entezami A., Salar M., De Michele C. Bridge health monitoring in environmental variability by new clustering and threshold estimation methods. J. Civ. Struct. Health Monit. 2021;11:629–644. doi: 10.1007/s13349-021-00472-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13349-021-00472-1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Balsamo L., Betti R. Data-based structural health monitoring using small training data sets. Struct. Contr. Health Monit. 2015;22:1240–1264. doi: 10.1002/stc.1744.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/stc.1744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Castanié F.  Spectral Analysis: Parametric and Non-Parametric Digital Methods. John Wiley &amp; Sons; Hoboken, NJ, USA: 2013. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yao R., Pakzad S.N. Autoregressive statistical pattern recognition algorithms for damage detection in civil structures. Mech. Syst. Sig. Process. 2012;31:355–368. doi: 10.1016/j.ymssp.2012.02.014.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ymssp.2012.02.014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bos R., De Waele S., Broersen P.M. Autoregressive spectral estimation by application of the Burg algorithm to irregularly sampled data. IEEE Trans. Instrum. Meas. 2002;51:1289–1294. doi: 10.1109/TIM.2002.808031.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/TIM.2002.808031</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stoica P., Moses R.L.  Introduction to Spectral Analysis. Volume 1 Prentice Hall; Upper Saddle River, NJ, USA: 1997. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Entezami A., Shariatmadar H., Sarmadi H. Condition assessment of civil structures for structural health monitoring using supervised learning classification methods. Iran. J. Sci. Technol. Trans. Civ. Eng. 2020;44:51–66. doi: 10.1007/s40996-020-00463-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s40996-020-00463-0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Entezami A., Shariatmadar H., Mariani S. Structural health monitoring for condition assessment using efficient supervised learning techniques. Proceedings. 2020;42:17.  doi: 10.3390/ecsa-6-06538.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/ecsa-6-06538</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sarmadi H., Yuen K.-V. Early damage detection by an innovative unsupervised learning method based on kernel null space and peak-over-threshold. Comput. Aided Civ. Inf. 2021;36:1150–1167. doi: 10.1111/mice.12635.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/mice.12635</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rabiner L.R., Juang B.H.  Fundamentals of Speech Recognition. PTR Prentice Hall; Hoboken, NJ, USA: 1993. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Deza M.M., Deza E.  Encyclopedia of Distances. 3rd ed. Springer; Heidelberg, Germany: 2013. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mulaik S.A.  Foundations of Factor Analysis. CRC Press; Boca Raton, FL, USA: 2010. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Hashemi F., Naderi M., Jamalizadeh A., Bekker A. A flexible factor analysis based on the class of mean-mixture of normal distributions. Comput. Stat. Data Anal. 2021;157:107162. doi: 10.1016/j.csda.2020.107162.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.csda.2020.107162</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Van Ravenzwaaij D., Cassey P., Brown S.D. A simple introduction to Markov Chain Monte–Carlo sampling. Psychon. Bull. Rev. 2018;25:143–154. doi: 10.3758/s13423-016-1015-8.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3758/s13423-016-1015-8</ArticleId>
+            <ArticleId IdType="pmc">PMC5862921</ArticleId>
+            <ArticleId IdType="pubmed">26968853</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Neal R.M.  Handbook of Markov Chain Monte Carlo. CRC Press; Boca Raton, FL, USA: 2011. MCMC using Hamiltonian dynamics.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Gelman A., Rubin D.B. Inference from iterative simulation using multiple sequences. Stat. Sci. 1992;7:457–472. doi: 10.1214/ss/1177011136.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1214/ss/1177011136</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Song J., Belin T.R. Choosing an appropriate number of factors in factor analysis with incomplete data. Comput. Stat. Data Anal. 2008;52:3560–3569. doi: 10.1016/j.csda.2007.11.011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.csda.2007.11.011</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Reisen V.A., Sgrancio A.M., Lévy-Leduc C., Bondon P., Monte E.Z., Cotta H.H.A., Ziegelmann F.A. Robust factor modelling for high-dimensional time series: An application to air pollution data. Appl. Math. Comput. 2019;346:842–852. doi: 10.1016/j.amc.2018.09.062.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.amc.2018.09.062</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nanda A.K., Chowdhury S. Shannon’s Entropy and Its Generalisations Towards Statistical Inference in Last Seven Decades. Int. Stat. Rev. 2021;89:167–185. doi: 10.1111/insr.12374.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/insr.12374</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nielsen F. On a generalization of the Jensen–Shannon divergence and the Jensen–Shannon centroid. Entropy. 2020;22:221.  doi: 10.3390/e22020221.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/e22020221</ArticleId>
+            <ArticleId IdType="pmc">PMC7516653</ArticleId>
+            <ArticleId IdType="pubmed">33285995</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Scott D.W.  Multivariate Density Estimation: Theory, Practice, and Visualization. John Wiley &amp; Sons; Hobokken, NJ, USA: 2015. </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kullaa J. Distinguishing between sensor fault, structural damage, and environmental or operational effects in structural health monitoring. Mech. Syst. Sig. Process. 2011;25:2976–2989. doi: 10.1016/j.ymssp.2011.05.017.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ymssp.2011.05.017</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Giglioni V., García-Macías E., Venanzi I., Ierimonti L., Ubertini F. The use of receiver operating characteristic curves and precision-versus-recall curves as performance metrics in unsupervised structural damage classification under changing environment. Eng. Struct. 2021;246:113029. doi: 10.1016/j.engstruct.2021.113029.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.engstruct.2021.113029</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

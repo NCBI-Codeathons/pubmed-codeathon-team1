@@ -1,0 +1,496 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35445105</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>23</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">2297-3079</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>8</Volume>
+            <PubDate>
+              <Year>2022</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>Frontiers in Mechanical Engineering</Title>
+          <ISOAbbreviation>Front Mech Eng</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Modeling and Predicting Heavy-Duty Vehicle Engine-Out and Tailpipe Nitrogen Oxide (<i>NO</i> <sub><i>x</i></sub> ) Emissions Using Deep Learning.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3389/fmech.2022.840310</ELocationID>
+        <Abstract>
+          <AbstractText>As emissions regulations for transportation become stricter, it is increasingly important to develop accurate nitrogen oxide (<i>NO</i> <sub><i>x</i></sub> ) emissions models for heavy-duty vehicles. However, estimation of transient <i>NO</i> <sub><i>x</i></sub> emissions using physics-based models is challenging due to its highly dynamic nature, which arises from the complex interactions between power demand, engine operation, and exhaust aftertreatment efficiency. As an alternative to physics-based models, a multi-dimensional data-driven approach is proposed as a framework to estimate <i>NO</i> <sub><i>x</i></sub> emissions across an extensive set of representative engine and exhaust aftertreatment system operating conditions. This paper employs Deep Neural Networks (DNN) to develop two models, an engine-out <i>NO</i> <sub><i>x</i></sub> and a tailpipe <i>NO</i> <sub><i>x</i></sub> model, to predict heavy-duty vehicle <i>NO</i> <sub><i>x</i></sub> emissions. The DNN models were developed using variables that are available from On-board Diagnostics from two datasets, an engine dynamometer and a chassis dynamometer dataset. Results from trained DNN models using the engine dynamometer dataset showed that the proposed approach can predict <i>NO</i> <sub><i>x</i></sub> emissions with high accuracy, where <i>R</i> <sup>2</sup> scores are higher than 0.99 for both engine-out and tailpipe <i>NO</i> <sub><i>x</i></sub> models on cold/hot Federal Test Procedure (FTP) and Ramped Mode Cycle (RMC) data. Similarly, the engine-out and tailpipe <i>NO</i> <sub><i>x</i></sub> models using the chassis dynamometer dataset achieved <i>R</i> <sup>2</sup> scores of 0.97 and 0.93, respectively. All models developed in this study have a mean absolute error percentage of approximately 1% relative to maximum <i>NO</i> <sub><i>x</i></sub> in the datasets, which is comparable to that of physical <i>NO</i> <sub><i>x</i></sub> emissions measurement analyzers. The input feature importance studies conducted in this work indicate that high accuracy DNN models (<i>R</i> <sup>2</sup> = 0.92-0.95) could be developed by utilizing minimal significant engine and aftertreatment inputs. This study also demonstrates that DNN <i>NO</i> <sub><i>x</i></sub> emissions models can be very effective tools for fault detection in Selective Catalytic Reduction (SCR) systems.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Pillai</LastName>
+            <ForeName>Rinav</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, University of Michigan, Ann Arbor, MI, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Triantopoulos</LastName>
+            <ForeName>Vassilis</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, University of Michigan, Ann Arbor, MI, United States.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Plasma Science and Fusion Center, Massachusetts Institute of Technology, Cambridge, MA, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Berahas</LastName>
+            <ForeName>Albert S</ForeName>
+            <Initials>AS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Industrial and Operations Engineering, University of Michigan, Ann Arbor, MI, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brusstar</LastName>
+            <ForeName>Matthew</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Vehicle and Fuel Emissions Laboratory, U.S. EPA, Ann Arbor, MI, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sun</LastName>
+            <ForeName>Ruonan</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Vehicle and Fuel Emissions Laboratory, U.S. EPA, Ann Arbor, MI, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nevius</LastName>
+            <ForeName>Tim</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Horiba Instruments Inc., Saline, MI, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Boehman</LastName>
+            <ForeName>André L</ForeName>
+            <Initials>AL</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Mechanical Engineering, University of Michigan, Ann Arbor, MI, United States.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>EPA999999</GrantID>
+            <Acronym>ImEPA</Acronym>
+            <Agency>Intramural EPA</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Front Mech Eng</MedlineTA>
+        <NlmUniqueID>101753367</NlmUniqueID>
+        <ISSNLinking>2297-3079</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">artificial neural networks</Keyword>
+        <Keyword MajorTopicYN="N">data-driven modelling</Keyword>
+        <Keyword MajorTopicYN="N">deep learning</Keyword>
+        <Keyword MajorTopicYN="N">heavy-duty vehicles</Keyword>
+        <Keyword MajorTopicYN="N">nitrogen oxide emissions</Keyword>
+        <Keyword MajorTopicYN="N">optimization</Keyword>
+      </KeywordList>
+      <CoiStatement>Conflict of Interest: TN was employed by Horiba Instruments Inc. This study received funding from Horiba Instruments Inc. The funder was involved in resources, project administration and funding acquisition. The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>21</Day>
+          <Hour>5</Hour>
+          <Minute>45</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35445105</ArticleId>
+        <ArticleId IdType="mid">NIHMS1793367</ArticleId>
+        <ArticleId IdType="pmc">PMC9016636</ArticleId>
+        <ArticleId IdType="doi">10.3389/fmech.2022.840310</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Abadi M, Barham P, Chen J, Chen Z, Davis A, Dean J, et al. (2016). “Tensorflow: A System for Large-Scale Machine Learning,” in Proceeding of the 12th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 16), Savannah, GA, USA, November 2016, 265–283.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Abiodun OI, Jantan A, Omolara AE, Dada KV, Mohamed NA, and Arshad H (2018). State-of-the-art in Artificial Neural Network Applications: A Survey. Heliyon
+4, e00938. doi:10.1016/j.heliyon.2018.e00938</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.heliyon.2018.e00938</ArticleId>
+            <ArticleId IdType="pmc">PMC6260436</ArticleId>
+            <ArticleId IdType="pubmed">30519653</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Agarwal AK, Srivastava DK, Dhar A, Maurya RK, Shukla PC, and Singh AP (2013). Effect of Fuel Injection Timing and Pressure on Combustion, Emissions and Performance Characteristics of a Single cylinder Diesel Engine. Fuel
+111, 374–383. doi:10.1016/j.fuel.2013.03.016</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.fuel.2013.03.016</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Amodei D, Ananthanarayanan S, Anubhai R, Bai J, Battenberg E, Case C, et al. (2016). “Deep Speech 2: End-To-End Speech Recognition in English and Mandarin,” in Proceeding of the International conference on machine learning, June 2016 (Brookline, MA: PMLR; ), 173–182.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Arsie I, Cricchio A, De Cesare M, Pianese C, and Sorrentino M (2013). A Methodology to Enhance Design and On-Board Application of Neural Network Models for Virtual Sensing of Nox Emissions in Automotive Diesel Engines. SAE Tech. Pap
+6. doi:10.4271/2013-24-0138</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4271/2013-24-0138</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Askin AC, Barter GE, West TH, and Manley DK (2015). The Heavy-Duty Vehicle Future in the united states: A Parametric Analysis of Technology and Policy Tradeoffs. Energy Policy
+81, 1–13. doi:10.1016/j.enpol.2015.02.005</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.enpol.2015.02.005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bagheri S, Huang Y, Walker PD, Zhou JL, and Surawski NC (2021). Strategies for Improving the Emission Performance of Hybrid Electric Vehicles. Sci. Total Environ
+771, 144901. doi:10.1016/j.scitotenv.2020.144901</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.scitotenv.2020.144901</ArticleId>
+            <ArticleId IdType="pubmed">33524678</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Baldi P, and Sadowski PJ (2013). Understanding Dropout. Adv. Neural Inf. Process. Syst
+26, 2814–2822.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bellone M, Faghani E, and Karayiannidis Y (2020). Comparison of Cnn and Lstm for Modeling Virtual Sensors in an Engine. SAE Tech. Pap
+2, 2632–2639. doi:10.4271/2020-01-0735</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4271/2020-01-0735</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bengio Y (2012). Deep Learning of Representations for Unsupervised and Transfer Learning. JMLR: Workshop Conf. Proc
+27, 17–27.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Bishop CM (1994). Neural Networks and Their Applications. Rev. scientific Instr
+65, 1803–1832. doi:10.1063/1.1144830</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1063/1.1144830</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Boningari T, and Smirniotis PG (2016). Impact of Nitrogen Oxides on the Environment and Human Health: Mn-Based Materials for the NO X Abatement. Curr. Opin. Chem. Eng
+13, 133–141. doi:10.1016/j.coche.2016.09.004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.coche.2016.09.004</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bowman CT (1975). Kinetics of Pollutant Formation and Destruction in Combustion. Prog. Energ. Combustion Sci
+1, 33–45. doi:10.1016/0360-1285(75)90005-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0360-1285(75)90005-2</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brown AL, Fleming KL, and Safford HR (2020). Prospects for a Highly Electric Road Transportation Sector in the usa. Curr. Sustainable/Renewable Energ. Rep
+7, 1–10. doi:10.1007/s40518-020-00155-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s40518-020-00155-3</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Camporeale SM, Ciliberti PD, Carlucci A, and Ingrosso D (2017). Dynamic Validation and Sensitivity Analysis of a Nox Estimation Model Based on in-cylinder Pressure Measurement. Warrendale, PA: SAE International. doi:10.4271/2017-24-0131</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4271/2017-24-0131</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ciregan D, Meier U, and Schmidhuber J (2012). “Multi-column Deep Neural Networks for Image Classification,” in 2012 IEEE conference on computer vision and pattern recognition, Providence, RI, USA, June 2012 (IEEE; ), 3642–3649.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Clevert D-A, Unterthiner T, and Hochreiter S (2015). Fast and Accurate Deep Network Learning by Exponential Linear Units (Elus). arXiv preprint arXiv: 1511.07289.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Dahifale BS, and Patil AS (2017). “Diesel Engine Performance Improvement for Constant Speed Application Using Cfd,” in ASME International Mechanical Engineering Congress and Exposition (American Society of Mechanical Engineers), 1–11. doi:10.1115/imece2017-70012</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1115/imece2017-70012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Donateo T, and Filomena R (2020). “Real Time Estimation of Emissions in a Diesel Vehicle with Neural Networks,”. E3S Web of Conferences (EDP Sciences), 197, 06–20. doi:10.1051/e3sconf/202019706020</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1051/e3sconf/202019706020</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>EPA (2018). EPA Announces Largest Voluntary Recall of Medium- and Heavy-Duty Trucks. Available at: https://archive.epa.gov/epa/newsreleases/epa-announces-largest-voluntary-recall-medium-and-heavy-duty-trucks.html.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>EPA (2021a). CFR Title 40 Part 1065 - Engine Testing Procedures. Legal Information Institute. Available at: https://www.ecfr.gov/current/title-40/chapter-I/subchapter-U/part-1065.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>EPA (2021b). Regulations for Emissions from Vehicles and Engines. Available at: https://www.epa.gov/regulations-emissions-vehicles-and-engines/cleaner-trucks-initiative.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Fan FL, Xiong J, Li M, and Wang G (2021). On Interpretability of Artificial Neural Networks: A Survey. IEEE Trans. Radiat. Plasma Med. Sci
+6 (5), 741–760. doi:10.1109/trpms.2021.3066428</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/trpms.2021.3066428</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feurer M, and Hutter F (2019). “Hyperparameter Optimization,” in Automated Machine Learning (Cham: Springer; ), 3–33. doi:10.1007/978-3-030-05318-5_1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-3-030-05318-5_1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fischer M (2013). Transient Nox Estimation Using Artificial Neural Networks. IFAC Proc. Volumes
+46, 101–106. doi:10.3182/20130904-4-jp-2042.00006</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3182/20130904-4-jp-2042.00006</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ge R, Kakade SM, Kidambi R, and Netrapalli P (2019). The Step Decay Schedule: A Near Optimal, Geometrically Decaying Learning Rate Procedure for Least Squares. Adv. Neural Inf. Process. Syst
+32, 14977–14988.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Girard J, Snow R, Cavataio G, and Lambert C (2007). The Influence of Ammonia to Nox Ratio on Scr Performance. Warrendale, PA: SAE International. doi:10.4271/2007-01-1581</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4271/2007-01-1581</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gluck S, Glenn C, Logan T, Vu B, Walsh M, and Williams P (2003). Evaluation of Nox Flue Gas Analyzers for Accuracy and Their Applicability for Low-Concentration Measurements. J. Air Waste Manag. Assoc
+53, 749–758. doi:10.1080/10473289.2003.10466208</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/10473289.2003.10466208</ArticleId>
+            <ArticleId IdType="pubmed">12828335</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goodfellow I, Bengio Y, and Courville A (2016). Deep Learning. MIT press.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Heywood J (2019). Internal Combustion Engine Fundamentals. 2nd Edition. New York: McGraw-Hill.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Johri R, and Filipi Z (2014). Neuro-fuzzy Model Tree Approach to Virtual Sensing of Transient Diesel Soot and Nox Emissions. Int. J. Engine Res
+15, 918–927. doi:10.1177/1468087413492962</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1468087413492962</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Khair MK, and Majewski W (2006). Diesel Emissions and Their Control. Warrendale, PA: SAE International.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kingma DP, and Ba J (2014). Adam: A Method for Stochastic Optimization. arXiv preprint arXiv:1412.6980 </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Koebel M, Madia G, and Elsener M (2002). Selective Catalytic Reduction of No and No2 at Low Temperatures. Catal. Today
+73, 239–247. doi:10.1016/s0920-5861(02)00006-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/s0920-5861(02)00006-8</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kotsiantis SB, Kanellopoulos D, and Pintelas PE (2006). Data Preprocessing for Supervised Leaning. Int. J. Comput. Sci
+1, 111–117. doi:10.4304/jcp.1.4.30-37</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4304/jcp.1.4.30-37</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lavoie GA, Heywood JB, and Keck JC (1970). Experimental and Theoretical Study of Nitric Oxide Formation in Internal Combustion Engines. Combustion Sci. Tech
+1, 313–326. doi:10.1080/00102206908952211</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/00102206908952211</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>LeCun Y, Bengio Y, and Hinton G (2015). Deep Learning. Nature
+521, 436–444. doi:10.1038/nature14539</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature14539</ArticleId>
+            <ArticleId IdType="pubmed">26017442</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee S, Lee Y, Lee Y, Shin S, Kim M, Park J, et al. (2021). Proposal of a Methodology for Designing Engine Operating Variables Using Predicted Nox Emissions Based on Deep Neural Networks. J. Mech. Sci. Technol
+35, 1747–1756. doi:10.1007/s12206-021-0337-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s12206-021-0337-2</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maas AL, Hannun AY, and Ng AY (2013). “Rectifier Nonlinearities Improve Neural Network Acoustic Models,”. Proc. Icml (Citeseer) (CA 94305 USA: Computer Science Department, Stanford University; ), 30.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Mentink P, Seykens X, and Escobar Valdivieso D (2017). Development and Application of a Virtual Nox Sensor for Robust Heavy Duty Diesel Engine Emission Control. SAE Int. J. Engines
+10, 1297–1304. doi:10.4271/2017-01-0951</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4271/2017-01-0951</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Merryman EL, and Levy A (1975). Nitrogen Oxide Formation in Flames: The Roles of No2 and Fuel Nitrogen. Symp. (International) Combustion
+15, 1073–1083. doi:10.1016/S0082-0784(75)80372-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0082-0784(75)80372-9</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mobasheri R, Peng Z, and Mirsalim SM (2012). Analysis the Effect of Advanced Injection Strategies on Engine Performance and Pollutant Emissions in a Heavy Duty Di-diesel Engine by Cfd Modeling. Int. J. Heat Fluid Flow
+33, 59–69. doi:10.1016/j.ijheatfluidflow.2011.10.004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ijheatfluidflow.2011.10.004</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mohammad A, Rezaei R, Hayduk C, Delebinski TO, Shahpouri S, and Shahbakhti M (2021). Hybrid Physical and Machine Learning-Oriented Modeling Approach to Predict Emissions in a Diesel Compression Ignition Engine. SAE Tech. Paper, 1–13. doi:10.4271/2021-01-0496</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4271/2021-01-0496</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nair V, and Hinton GE (2010). “Rectified Linear Units Improve Restricted Boltzmann Machines,” in Proceedings of the 27th International Conference on International Conference on Machine Learning, June 2010, 807–814.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Panneer Selvam H, Shekhar S, and Northrop WF (2021). Prediction of Nox Emissions from Compression Ignition Engines Using Ensemble Learning-Based Models with Physical Interpretability. SAE Technical Paper. doi:10.4271/2021-24-0082</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4271/2021-24-0082</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pedregosa F, Varoquaux G, Gramfort A, Michel V, Thirion B, Grisel O, et al. (2011). Scikit-learn: Machine Learning in python. J. machine Learn. Res
+12, 2825–2830.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Provataris SA, Savva NS, Chountalas TD, and Hountalas DT (2017). Prediction of nox emissions for high speed di diesel engines using a semi-empirical, two-zone model. Energ. Convers. Manag
+153, 659–670. doi:10.1016/j.enconman.2017.10.007</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.enconman.2017.10.007</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Refaeilzadeh P, Tang L, and Liu H (2009). Cross-validation. Encyclopedia database Syst. 5, 532–538. doi:10.1007/978-0-387-39940-9_565</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-0-387-39940-9_565</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rumelhart DE, Hinton GE, and Williams RJ (1986). Learning Representations by Back-Propagating Errors. nature
+323, 533–536. doi:10.1038/323533a0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/323533a0</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sankararaman KA, De S, Xu Z, Huang WR, and Goldstein T (2020). “The Impact of Neural Network Overparameterization on Gradient Confusion and Stochastic Gradient Descent,” in International Conference on Machine Learning (Brookline, MA: PMLR; ), 8469–8479.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Shin S, Lee Y, Kim M, Park J, Lee S, and Min K (2020). Deep Neural Network Model with Bayesian Hyperparameter Optimization for Prediction of Nox at Transient Conditions in a Diesel Engine. Eng. Appl. Artif. Intelligence
+94, 103761. doi:10.1016/j.engappai.2020.103761</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.engappai.2020.103761</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Silver D, Huang A, Maddison CJ, Guez A, Sifre L, Van Den Driessche G, et al. (2016). Mastering the Game of Go with Deep Neural Networks and Tree Search. nature
+529, 484–489. doi:10.1038/nature16961</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature16961</ArticleId>
+            <ArticleId IdType="pubmed">26819042</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Smith LN (2018). A Disciplined Approach to Neural Network Hyper-Parameters: Part 1–learning Rate, Batch Size, Momentum, and Weight Decay. arXiv preprint arXiv:1803.09820.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Srivastava N, Hinton G, Krizhevsky A, Sutskever I, and Salakhutdinov R (2014). Dropout: A Simple Way to Prevent Neural Networks from Overfitting. J. Machine Learn. Res
+15, 1929–1958.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Stone M (1978). Cross-validation:a Review2. Ser. Stat
+9, 127–139. doi:10.1080/02331887808801414</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/02331887808801414</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun C, Shrivastava A, Singh S, and Gupta A (2017). “Revisiting Unreasonable Effectiveness of Data in Deep Learning Era,” in Proceedings of the IEEE international conference on computer vision, Venice, Italy, Oct. 2017 (IEEE; ), 843–852. doi:10.1109/iccv.2017.97</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/iccv.2017.97</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wan X (2019). Influence of Feature Scaling on Convergence of Gradient Iterative Algorithm. J. Phys. Conf. Ser
+1213, 032021. doi:10.1088/1742-6596/1213/3/032021</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/1742-6596/1213/3/032021</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Winkler S, Anderson J, Garza L, Ruona W, Vogt R, and Wallington T (2018). Vehicle Criteria Pollutant (Pm, No X, Co, Hcs) Emissions: How Low Should We Go. npj Clim. Atmos. Sci
+1, 1–5. doi:10.1038/s41612-018-0037-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41612-018-0037-5</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>You K, Long M, Wang J, and Jordan MI (2019). How Does Learning Rate Decay Help Modern Neural Networks. arXiv:1908.01878 (cs, stat).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Yu Y, Wang Y, Li J, Fu M, Shah AN, and He C (2021). A Novel Deep Learning Approach to Predict the Instantaneous NOₓ Emissions from Diesel Engine. IEEE Access
+9, 11002–11013. doi:10.1109/ACCESS.2021.3050165</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/ACCESS.2021.3050165</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Q, Pennycott A, Burke R, Akehurst S, and Brace C (2015). Predicting the Nitrogen Oxides Emissions of a Diesel Engine Using Neural Networks. Warrendale, PA: SAE International. doi:10.4271/2015-01-1626</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.4271/2015-01-1626</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

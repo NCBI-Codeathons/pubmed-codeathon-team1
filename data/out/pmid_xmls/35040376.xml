@@ -1,0 +1,378 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35040376</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>21</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>01</Month>
+        <Day>22</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1365-2060</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>54</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Annals of medicine</Title>
+          <ISOAbbreviation>Ann Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Automated recognition of functioning, activity and participation in COVID-19 from electronic patient records by natural language processing: a proof- of- concept.</ArticleTitle>
+        <Pagination>
+          <StartPage>235</StartPage>
+          <EndPage>243</EndPage>
+          <MedlinePgn>235-243</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1080/07853890.2021.2025418</ELocationID>
+        <Abstract>
+          <AbstractText Label="PURPOSE">To address the feasibility, reliability and internal validity of natural language processing (NLP) for automated functional assessment of hospitalised COVID-19 patients in key International Classification of Functioning, Disability and Health (ICF) categories and levels from unstructured text in electronic health records (EHR) from a large teaching hospital.</AbstractText>
+          <AbstractText Label="MATERIALS AND METHODS">Eight human annotators assigned four ICF categories to relevant sentences: Emotional functions, Exercise tolerance, Walking and Moving, Work and Employment and their ICF levels (Functional Ambulation Categories for Walking and Moving, metabolic equivalents for Exercise tolerance). A linguistic neural network-based model was trained on 80% of the annotated sentences; inter-annotator agreement (IAA, Cohen's kappa), a weighted score of precision and recall (F1) and RMSE for level detection were assessed for the remaining 20%.</AbstractText>
+          <AbstractText Label="RESULTS">In total 4112 sentences of non-COVID-19 and 1061 of COVID-19 patients were annotated. Average IAA was 0.81; F1 scores were 0.7 for Walking and Moving and Emotional functions; RMSE for Walking and Moving (5- level scale) was 1.17 for COVID-19 patients.</AbstractText>
+          <AbstractText Label="CONCLUSION">Using a limited amount of annotated EHR sentences, a proof-of-concept was obtained for automated functional assessment of COVID-19 patients in ICF categories and levels. This allows for instantaneous assessment of the functional consequences of new diseases like COVID-19 for large numbers of patients.Key messagesHospitalised Covid-19 survivors may persistently suffer from low physical and mental functioning and a reduction in overall quality of life requiring appropriate and personalised rehabilitation strategies.For this, assessment of functioning within multiple domains and categories of the International Classification of Function is required, which is cumbersome using structured data.We show a proof-of-concept using Natural Language Processing techniques to automatically derive the aforementioned information from free-text notes within the Electronic Health Record of a large academic teaching hospital.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Meskers</LastName>
+            <ForeName>Carel G M</ForeName>
+            <Initials>CGM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Rehabilitation Medicine, Amsterdam University Medical Centers, Amsterdam Movement Sciences, Amsterdam, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van der Veen</LastName>
+            <ForeName>Sabina</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Ethics, Law and Humanities, Amsterdam University Medical Centers, Amsterdam, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kim</LastName>
+            <ForeName>Jenia</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>Computational Lexicology and Terminology Lab, Faculty of Humanities, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Meskers</LastName>
+            <ForeName>Caroline J W</ForeName>
+            <Initials>CJW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Rehabilitation Medicine, Amsterdam University Medical Centers, Amsterdam Movement Sciences, Amsterdam, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Smit</LastName>
+            <ForeName>Quirine T S</ForeName>
+            <Initials>QTS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Computational Lexicology and Terminology Lab, Faculty of Humanities, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Verkijk</LastName>
+            <ForeName>Stella</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Computational Lexicology and Terminology Lab, Faculty of Humanities, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Geleijn</LastName>
+            <ForeName>Edwin</ForeName>
+            <Initials>E</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Rehabilitation Medicine, Amsterdam University Medical Centers, Amsterdam Movement Sciences, Amsterdam, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Widdershoven</LastName>
+            <ForeName>Guy A M</ForeName>
+            <Initials>GAM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Ethics, Law and Humanities, Amsterdam University Medical Centers, Amsterdam, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Vossen</LastName>
+            <ForeName>Piek T J M</ForeName>
+            <Initials>PTJM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Computational Lexicology and Terminology Lab, Faculty of Humanities, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>van der Leeden</LastName>
+            <ForeName>Marike</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Rehabilitation Medicine, Amsterdam University Medical Centers, Amsterdam Movement Sciences, Amsterdam, The Netherlands.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Ann Med</MedlineTA>
+        <NlmUniqueID>8906388</NlmUniqueID>
+        <ISSNLinking>0785-3890</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000086382" MajorTopicYN="Y">COVID-19</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004185" MajorTopicYN="N">Disability Evaluation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057286" MajorTopicYN="Y">Electronic Health Records</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009323" MajorTopicYN="N">Natural Language Processing</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011788" MajorTopicYN="N">Quality of Life</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086402" MajorTopicYN="N">SARS-CoV-2</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">COVID-19</Keyword>
+        <Keyword MajorTopicYN="Y">ICF</Keyword>
+        <Keyword MajorTopicYN="Y">electronic health record</Keyword>
+        <Keyword MajorTopicYN="Y">functioning</Keyword>
+        <Keyword MajorTopicYN="Y">natural language processing</Keyword>
+        <Keyword MajorTopicYN="Y">rehabilitation</Keyword>
+      </KeywordList>
+      <CoiStatement>No potential conflict of interest was reported by the author(s).</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>18</Day>
+          <Hour>8</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>19</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35040376</ArticleId>
+        <ArticleId IdType="pmc">PMC8774059</ArticleId>
+        <ArticleId IdType="doi">10.1080/07853890.2021.2025418</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Belli S, Balbi B, Prince I, et al. . 
+Low physical functioning and impaired performance of activities of daily life in COVID-19 patients who survived hospitalisation. Eur Respir J. 2020;56(4):2002096.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7411272</ArticleId>
+            <ArticleId IdType="pubmed">32764112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carfì A, Bernabei R, Landi F.. 
+Persistent symptoms in patients after acute COVID-19. Jama. 2020;324(6):603–605.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7349096</ArticleId>
+            <ArticleId IdType="pubmed">32644129</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garrigues E, Janvier P, Kherabi Y, et al. . 
+Post-discharge persistent symptoms and health-related quality of life after hospitalization for COVID-19. J Infect. 2020;81(6):e4–e6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7445491</ArticleId>
+            <ArticleId IdType="pubmed">32853602</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Van den Borst B, Peters JB, Brink M, et al. . 
+Comprehensive health assessment three months after recovery from acute COVID-19. Clin Inf Dis. 2020; 21:ciaa1750.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Huang C, Huang L, Wang Y, et al. . 
+6-month consequences of COVID-19 in patients discharged from hospital: a cohort study. Lancet. 2021;397(10270):220–232.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7833295</ArticleId>
+            <ArticleId IdType="pubmed">33428867</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Costanza A, Di Marco S, Burroni M, et al. . 
+Meaning in life and demoralization: a mental-health reading perspective of suicidality in the time of COVID-19. Acta Biomed. 2020;91:2020163.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7927501</ArticleId>
+            <ArticleId IdType="pubmed">33525223</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seeßle J, Waterboer T, Hippchen T, et al. . 
+Persistent symptoms in adult patients one year after COVID-19: a prospective cohort study. Clin Infect Dis. 2021:ciab611.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8394862</ArticleId>
+            <ArticleId IdType="pubmed">34223884</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Maestrini V, Birtolo LI, Francone M.. 
+Cardiac involvement in consecutive unselected hospitalized COVID-19 population: in-hospital evaluation and one-year follow-up. Int J Cardiol. 2021;339:235–242.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8253670</ArticleId>
+            <ArticleId IdType="pubmed">34224766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>World Health Organization. 
+International classification of functioning, disability and health: ICF. 2001. World Health Organization.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Halpin S, McIvor C, Whyatt G, et al. . 
+Postdischarge symptoms and rehabilitation needs in survivors of COVID-19 infection: a cross-sectional evaluation. J Med Virol. 2021;93(2):1013–1021.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32729939</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mahmoud R, El-Bendary N, Mokhtar HMO, et al. . 
+ICF based automation system for spinal cord injuries rehabilitation
+Proc 9th International Conference on Computer Engineering Systems (ICCES); 2014. p 192–197.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kreimeyer K, Foster M, Pandey A, et al. . 
+Natural language processing systems for capturing and standardizing unstructured clinical information: a systematic review. J Biomed Inform. 2017;73:14–29.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6864736</ArticleId>
+            <ArticleId IdType="pubmed">28729030</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Newman-Griffis D, Porcino J, Zirikly A, et al. . 
+Broadening horizons: the case for capturing function and the role of health informatics in its use. BMC Public Health. 2019;19(1):1288–1213.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6794808</ArticleId>
+            <ArticleId IdType="pubmed">31615472</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Krishnan GS, Kamath SS, et al. . 
+Hybrid text feature modeling for disease group prediction using unstructured physician notes. In: Krzhizhanovskaya V, editors. Computational Science -ICCS, Proceedings 20th International Conference, Amsterdam, The Netherlands. 2020. p. 321–333. Springer International Publishing.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Manabe S, Miura Y, Takemura T, et al. . 
+Development of ICF code selection tools for mental health care. Methods Inf Med. 2011;50(2):150–157.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21170470</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thieu T, Camacho J, Ho P, et al.  Inductive identification of functional status information and establishing a gold standard corpus: a case study on the Mobility domain. In: IEEE International Conference on Bioinformatics and Biomedicine (BIBM); 2017. p. 2319–2321.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Newman-Griffis D, Fossler-Lusier E. Automated Coding of Under-Studied Medical Concept Domains: Linking Physical Activity Reports to the International Classification of Functioning, Disability, and Health Front Digit Health; 2021.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8009547</ArticleId>
+            <ArticleId IdType="pubmed">33791684</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thieu T, Camacho Maldonado J, Ho PS, et al. . 
+A comprehensive study of mobility functioning information in clinical notes: entity hierarchy, corpus annotation, and sequence labeling. Int J Med Inform. 2021;147:104351.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8104034</ArticleId>
+            <ArticleId IdType="pubmed">33401169</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ahmed ZM, Khalil MF, Kohail AM, et al. . 
+The prevalence and predictors of post-stroke depression and anxiety during COVID-19 pandemic. Stroke Cerebrovasc Dis. 2020;29(12):105315.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7834239</ArticleId>
+            <ArticleId IdType="pubmed">32958396</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carda S, Invernizzi M, Bavikatte G, et al. . 
+COVID-19 pandemic. What should physical and rehabilitation medicine specialists do? A clinician's perspective. Eur J Phys Rehabil Med. 2020;56(4):515–524.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32434314</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vries WD, Cranenburgh AV, Bisazza A, et al. . 
+BERTje: a Dutch BERT model. ArXiv. 2019; :1912.09582.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Devlin J, Chang M, Lee K, et al.  Bert: pre-training of deep bidirectional transformers for language understanding. In: Proc Conf North Am Chapt Assoc for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), Minneapolis, MN, USA, 4171–4186.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kukafka R, Bales M, Burkhardt A, et al. . 
+Human and automated coding of rehabilitation discharge summaries according to the international classification of functioning, disability, and health. J Am Med Inform Assoc. 2006;13(5):508–515.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1561799</ArticleId>
+            <ArticleId IdType="pubmed">16799117</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lee J, Yoon W, Kim S, et al. . 
+BioBERT: a pre-trained biomedical language representation model for biomedical text mining. Bioinformatics. 2020;36(4):1234–1240.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7703786</ArticleId>
+            <ArticleId IdType="pubmed">31501885</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang K, Altosaar J, Ranganath R.. 
+ClinicalBERT: modeling clinical notes and predicting hospital readmission. arXiv Preprint arXiv. 2019; 1904.05342.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Liu Y, Ott M, Goyal N, et al. . 
+Roberta: a robustly optimized BERT pretraining approach. arXiv Preprint arXiv:1907.11692. 2019.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Verkijk S, Vossen PJTM.. 
+MedRoBERTa: a language model for Dutch electronic health records. Comp Linguistics Netherlands J. 2021;11.</Citation>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

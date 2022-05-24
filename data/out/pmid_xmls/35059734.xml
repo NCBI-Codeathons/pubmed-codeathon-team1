@@ -1,0 +1,576 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35059734</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>04</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>20</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1791-244X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>49</Volume>
+            <Issue>3</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Mar</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>International journal of molecular medicine</Title>
+          <ISOAbbreviation>Int J Mol Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>XBP1s promotes the development of lung adenocarcinoma via the p‑JNK MAPK pathway.</ArticleTitle>
+        <ELocationID EIdType="pii" ValidYN="Y">34</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.3892/ijmm.2022.5089</ELocationID>
+        <Abstract>
+          <AbstractText>Spliced X‑box binding protein 1 (XBP1s) has been reported to participate in the pathogenesis of numerous types of cancer; however, whether XBP1s plays a role in lung cancer remains to be elucidated. In the present study, bioinformatics analysis was performed to determine the mRNA expression level of XBP1 in lung cancer and adjacent normal tissues. Gene Ontology terms, pathway enrichment and Pearson's correlation analysis were performed to investigate the possible mechanism involved. Western blot and reverse transcription‑quantitative PCR were performed to quantify the protein and mRNA expression level of target proteins, respectively. Small interfering RNA or overexpression plasmid were used to knockdown or overexpress the expression level of XBP1s. EdU staining, colony formation, Cell Counting Kit‑8, Transwell and wound healing assays, and flow cytometry were performed to detect the proliferation, colony forming ability, cell viability, migration and invasion ability, and the apoptosis rate. The results showed that the mRNA and protein expression level of XBP1 was higher in tumor tissues compared with that in adjacent normal tissues using data from the TIMER2.0, ONCOMINE and UALCAN online databases. In addition, the mRNA expression level of XBP1 was also associated with clinical features, including age, smoking habit, individual cancer stage and nodal metastasis status. In the <i>in vitro</i> experiments, the mRNA and protein expression level of XBP1s was increased in the A549 cell line compared with that in the human bronchial epithelial (HBE), H1299, PC9 and H460 cell lines. Hypoxia further increased the protein expression level of XBP1s in the A549 cell line. Knockdown of XBP1s expression in the A549 cell line resulted in decreased proliferation, colony formation, cell viability, migration and invasion, and increased apoptosis. By contrast, overexpressing XBP1s in the HBE cell line led to the opposite results. To investigate the mechanism involved, proteins associated with XBP1 were analyzed using the LinkedOmics database. Pathway enrichment revealed the MAPK pathway to be the possible XBP1 downstream target. Furthermore, Pearson's correlation and western blot analyses verified that phosphorylated (p)‑JNK rather than p‑ERK or p‑p38 was the downstream effector of XBP1s. Phosphorylation of JNK was decreased when XBP1s expression was knocked down in the A549 cell line under normoxic and hypoxic conditions. Inhibiting p‑JNK with SP600125 reversed the increased prosurvival effects caused by XBP1s overexpression. The results from the present study suggest that XBP1s/p‑JNK function as a prosurvival factors in the A549 cell line and could be a potential target for the treatment of lung adenocarcinoma.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Jiang</LastName>
+            <ForeName>Hongxia</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pulmonary and Critical Care Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430030, P.R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jiang</LastName>
+            <ForeName>Qianqian</ForeName>
+            <Initials>Q</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pulmonary and Critical Care Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430030, P.R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>He</LastName>
+            <ForeName>Yuanzhou</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pulmonary and Critical Care Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430030, P.R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Xiaochen</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pulmonary and Critical Care Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430030, P.R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xu</LastName>
+            <ForeName>Yongjian</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pulmonary and Critical Care Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430030, P.R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Liu</LastName>
+            <ForeName>Xiansheng</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Pulmonary and Critical Care Medicine, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430030, P.R. China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>01</Month>
+          <Day>21</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Int J Mol Med</MedlineTA>
+        <NlmUniqueID>9810955</NlmUniqueID>
+        <ISSNLinking>1107-3756</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000071717">X-Box Binding Protein 1</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C000605543">XBP1 protein, human</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000077192" MajorTopicYN="Y">Adenocarcinoma of Lung</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002465" MajorTopicYN="N">Cell Movement</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015972" MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008175" MajorTopicYN="Y">Lung Neoplasms</DescriptorName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020935" MajorTopicYN="N">MAP Kinase Signaling System</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000071717" MajorTopicYN="Y">X-Box Binding Protein 1</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">A549</Keyword>
+        <Keyword MajorTopicYN="N">LUAD</Keyword>
+        <Keyword MajorTopicYN="N">MAPK</Keyword>
+        <Keyword MajorTopicYN="N">XBP1s</Keyword>
+        <Keyword MajorTopicYN="N">bioinformatic analysis</Keyword>
+        <Keyword MajorTopicYN="N">hypoxia</Keyword>
+        <Keyword MajorTopicYN="N">p‑JNK</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>14</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>16</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>29</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>1</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>5</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35059734</ArticleId>
+        <ArticleId IdType="pmc">PMC8815418</ArticleId>
+        <ArticleId IdType="doi">10.3892/ijmm.2022.5089</ArticleId>
+        <ArticleId IdType="pii">34</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2018;68:394–424. doi: 10.3322/caac.21492.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3322/caac.21492</ArticleId>
+            <ArticleId IdType="pubmed">30207593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Devesa SS, Bray F, Vizcaino AP, Parkin DM. International lung cancer trends by histologic type: Male:Female differences diminishing and adenocarcinoma rates rising. Int J Cancer. 2005;117:294–299. doi: 10.1002/ijc.21183.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/ijc.21183</ArticleId>
+            <ArticleId IdType="pubmed">15900604</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chan BA, Hughes BG. Targeted therapy for non-small cell lung cancer: Current standards and the promise of the future. Transl Lung Cancer Res. 2015;4:36–54.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4367711</ArticleId>
+            <ArticleId IdType="pubmed">25806345</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Senft D, Ronai ZA. UPR, autophagy, and mitochondria crosstalk underlies the ER stress response. Trends Biochem Sci. 2015;40:141–148. doi: 10.1016/j.tibs.2015.01.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tibs.2015.01.002</ArticleId>
+            <ArticleId IdType="pmc">PMC4340752</ArticleId>
+            <ArticleId IdType="pubmed">25656104</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brenning G, Simonsson B, Kallander C, Ahre A. Pretreatment serum beta 2-microglobulin in multiple myeloma. Br J Haematol. 1986;62:85–93. doi: 10.1111/j.1365-2141.1986.tb02903.x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1365-2141.1986.tb02903.x</ArticleId>
+            <ArticleId IdType="pubmed">3510657</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shinya S, Kadokura H, Imagawa Y, Inoue M, Yanagitani K, Kohno K. Reconstitution and characterization of the unconventional splicing of XBP1u mRNA in vitro. Nucleic Acids Res. 2011;39:5245–5254. doi: 10.1093/nar/gkr132.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkr132</ArticleId>
+            <ArticleId IdType="pmc">PMC3130286</ArticleId>
+            <ArticleId IdType="pubmed">21398633</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen S, Chen J, Hua X, Sun Y, Cui R, Sha J, Zhu X. The emerging role of XBP1 in cancer. Biomed Pharmacother. 2020;127:110069. doi: 10.1016/j.biopha.2020.110069.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.biopha.2020.110069</ArticleId>
+            <ArticleId IdType="pubmed">32294597</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sheng X, Nenseth HZ, Qu S, Kuzu OF, Frahnow T, Simon L, Greene S, Zeng Q, Fazli L, Rennie PS, et al.  IRE1α-XBP1s pathway promotes prostate cancer by activating c-MYC signaling. Nat Commun. 2019;10:323. doi: 10.1038/s41467-018-08152-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-018-08152-3</ArticleId>
+            <ArticleId IdType="pmc">PMC6345973</ArticleId>
+            <ArticleId IdType="pubmed">30679434</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Song M, Sandoval TA, Chae CS, Chopra S, Tan C, Rutkowski MR, Raundhal M, Chaurio RA, Payne KK, Konrad C, et al.  IRE1α-XBP1 controls T cell function in ovarian cancer by regulating mitochondrial activity. Nature. 2018;562:423–428. doi: 10.1038/s41586-018-0597-x.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-018-0597-x</ArticleId>
+            <ArticleId IdType="pmc">PMC6237282</ArticleId>
+            <ArticleId IdType="pubmed">30305738</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen X, Iliopoulos D, Zhang Q, Tang Q, Greenblatt MB, Hatziapostolou M, Lim E, Tam WL, Ni M, Chen Y, et al.  XBP1 promotes triple-negative breast cancer by controlling the HIF1α pathway. Nature. 2014;508:103–107. doi: 10.1038/nature13119.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature13119</ArticleId>
+            <ArticleId IdType="pmc">PMC4105133</ArticleId>
+            <ArticleId IdType="pubmed">24670641</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Luo Q, Shi W, Dou B, Wang J, Peng W, Liu X, Zhao D, Tang F, Wu Y, Li X, et al.  XBP1-IGFBP3 signaling pathway promotes NSCLC invasion and metastasis. Front Oncol. 2021;11:654995. doi: 10.3389/fonc.2021.654995.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fonc.2021.654995</ArticleId>
+            <ArticleId IdType="pmc">PMC8169999</ArticleId>
+            <ArticleId IdType="pubmed">34094948</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim EK, Choi EJ. Compromised MAPK signaling in human diseases: An update. Arch Toxicol. 2015;89:867–882. doi: 10.1007/s00204-015-1472-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00204-015-1472-2</ArticleId>
+            <ArticleId IdType="pubmed">25690731</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cicchini M, Buza EL, Sagal KM, Gudiel AA, Durham AC, Feldser DM. Context-dependent effects of amplified MAPK signaling during lung adenocarcinoma initiation and progression. Cell Rep. 2017;18:1958–1969. doi: 10.1016/j.celrep.2017.01.069.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2017.01.069</ArticleId>
+            <ArticleId IdType="pmc">PMC5405440</ArticleId>
+            <ArticleId IdType="pubmed">28228261</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stutvoet TS, Kol A, de Vries EG, de Bruyn M, Fehrmann RS, Terwisscha van Scheltinga AG, de Jong S. MAPK pathway activity plays a key role in PD-L1 expression of lung adenocarcinoma cells. J Pathol. 2019;249:52–64. doi: 10.1002/path.5280.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/path.5280</ArticleId>
+            <ArticleId IdType="pmc">PMC6767771</ArticleId>
+            <ArticleId IdType="pubmed">30972766</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cao X, Fang X, Malik WS, He Y, Li X, Xie M, Sun W, Xu Y, Liu X. TRB3 interacts with ERK and JNK and contributes to the proliferation, apoptosis, and migration of lung adenocarcinoma cells. J Cell Physiol. 2020;235:538–547. doi: 10.1002/jcp.28993.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jcp.28993</ArticleId>
+            <ArticleId IdType="pubmed">31256425</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Shen H, Liu J, Wang Y, Lian H, Wang J, Xing L, Yan X, Wang J, Zhang X. Aflatoxin G1-induced oxidative stress causes DNA damage and triggers apoptosis through MAPK signaling pathway in A549 cells. Food Chem Toxicol. 2013;62:661–669. doi: 10.1016/j.fct.2013.09.030.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.fct.2013.09.030</ArticleId>
+            <ArticleId IdType="pubmed">24090735</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Du X, Wang S, Liu X, He T, Lin X, Wu S, Wang D, Li J, Huang W, Yang H. MiR-1307-5p targeting TRAF3 upregulates the MAPK/NF-κB pathway and promotes lung adenocarcinoma proliferation. Cancer Cell Int. 2020;20:502. doi: 10.1186/s12935-020-01595-z.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12935-020-01595-z</ArticleId>
+            <ArticleId IdType="pmc">PMC7552495</ArticleId>
+            <ArticleId IdType="pubmed">33061854</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ong JY, Yong PV, Lim YM, Ho AS. 2-Methoxy-1,4-naphthoquinone (MNQ) induces apoptosis of A549 lung adenocarcinoma cells via oxidation-triggered JNK and p38 MAPK signaling pathways. Life Sci. 2015;135:158–164. doi: 10.1016/j.lfs.2015.03.019.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.lfs.2015.03.019</ArticleId>
+            <ArticleId IdType="pubmed">25896662</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hou XM, Zhang T, Da Z, Wu XA. CHPF promotes lung adenocarcinoma proliferation and anti-apoptosis via the MAPK pathway. Pathol Res Pract. 2019;215:988–994. doi: 10.1016/j.prp.2019.02.005.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.prp.2019.02.005</ArticleId>
+            <ArticleId IdType="pubmed">30826152</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen YY, Liu FC, Chou PY, Chien YC, Chang WS, Huang GJ, Wu CH, Sheu MJ. Ethanol extracts of fruiting bodies of Antrodia cinnamomea suppress CL1-5 human lung adenocarcinoma cells migration by inhibiting matrix metalloproteinase-2/9 through ERK, JNK, p38, and PI3K/Akt signaling pathways. Evid Based Complement Alternat Med. 2012;2012:378415.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3291113</ArticleId>
+            <ArticleId IdType="pubmed">22454661</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rhodes DR, Kalyana-Sundaram S, Mahavisno V, Varambally R, Yu J, Briggs BB, Barrette TR, Anstet MJ, Kincead-Beal C, Kulkarni P, et al.  Oncomine 3.0: Genes, pathways, and networks in a collection of 18,000 cancer gene expression profiles. Neoplasia. 2007;9:166–180. doi: 10.1593/neo.07112.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1593/neo.07112</ArticleId>
+            <ArticleId IdType="pmc">PMC1813932</ArticleId>
+            <ArticleId IdType="pubmed">17356713</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li T, Fan J, Wang B, Traugh N, Chen Q, Liu JS, Li B, Liu XS. TIMER: A web server for comprehensive analysis of tumor-infiltrating immune cells. Cancer Res. 2017;77:e108–e110. doi: 10.1158/0008-5472.CAN-17-0307.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-17-0307</ArticleId>
+            <ArticleId IdType="pmc">PMC6042652</ArticleId>
+            <ArticleId IdType="pubmed">29092952</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chandrashekar DS, Bashel B, Balasubramanya SAH, Creighton CJ, Ponce-Rodriguez I, Chakravarthi BVSK, Varambally S. UALCAN: A portal for facilitating tumor subgroup gene expression and survival analyses. Neoplasia. 2017;19:649–658. doi: 10.1016/j.neo.2017.05.002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neo.2017.05.002</ArticleId>
+            <ArticleId IdType="pmc">PMC5516091</ArticleId>
+            <ArticleId IdType="pubmed">28732212</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vasaikar SV, Straub P, Wang J, Zhang B. LinkedOmics: Analyzing multi-omics data within and across 32 cancer types. Nucleic Acids Res. 2018;46:D956–D963. doi: 10.1093/nar/gkx1090.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkx1090</ArticleId>
+            <ArticleId IdType="pmc">PMC5753188</ArticleId>
+            <ArticleId IdType="pubmed">29136207</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kanehisa M, Sato Y, Kawashima M. KEGG mapping tools for uncovering hidden features in biological data. Protein Sci. 2022;31:47–53. doi: 10.1002/pro.4172.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/pro.4172</ArticleId>
+            <ArticleId IdType="pmc">PMC8740838</ArticleId>
+            <ArticleId IdType="pubmed">34423492</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tang Z, Li C, Kang B, Gao G, Li C, Zhang Z. GEPIA: A web server for cancer and normal gene expression profiling and interactive analyses. Nucleic Acids Res. 2017;45:W98–W102. doi: 10.1093/nar/gkx247.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkx247</ArticleId>
+            <ArticleId IdType="pmc">PMC5570223</ArticleId>
+            <ArticleId IdType="pubmed">28407145</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Livak KJ, Schmittgen TD. Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T)) Method. Methods. 2001;25:402–408. doi: 10.1006/meth.2001.1262.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1006/meth.2001.1262</ArticleId>
+            <ArticleId IdType="pubmed">11846609</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoshida H, Matsui T, Yamamoto A, Okada T, Mori K. XBP1 mRNA is induced by ATF6 and spliced by IRE1 in response to ER stress to produce a highly active transcription factor. Cell. 2001;107:881–891. doi: 10.1016/S0092-8674(01)00611-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0092-8674(01)00611-0</ArticleId>
+            <ArticleId IdType="pubmed">11779464</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang CH, Chong KY, Lei KF. Analysis of the internal hypoxic environment in solid tumor tissue using a folding paper system. ACS Appl Mater Interfaces. 2021;13:33885–33893. doi: 10.1021/acsami.1c08857.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acsami.1c08857</ArticleId>
+            <ArticleId IdType="pubmed">34259499</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jin X, Zhai B, Fang T, Guo X, Xu L. FXR1 is elevated in colorectal cancer and acts as an oncogene. Tumour Biol. 2016;37:2683–2690. doi: 10.1007/s13277-015-4068-9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s13277-015-4068-9</ArticleId>
+            <ArticleId IdType="pubmed">26404134</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goldar S, Khaniani MS, Derakhshan SM, Baradaran B. Molecular mechanisms of apoptosis and roles in cancer development and treatment. Asian Pac J Cancer Prev. 2015;16:2129–2144. doi: 10.7314/APJCP.2015.16.6.2129.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7314/APJCP.2015.16.6.2129</ArticleId>
+            <ArticleId IdType="pubmed">25824729</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Drosten M, Barbacid M. Targeting the MAPK pathway in KRAS-Driven tumors. Cancer Cell. 2020;37:543–550. doi: 10.1016/j.ccell.2020.03.013.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ccell.2020.03.013</ArticleId>
+            <ArticleId IdType="pubmed">32289276</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Xia Z, Wu S, Wei X, Liao Y, Yi P, Liu Y, Liu J, Liu J. Hypoxic ER stress suppresses β-catenin expression and promotes cooperation between the transcription factors XBP1 and HIF1α for cell survival. J Biol Chem. 2019;294:13811–13821. doi: 10.1074/jbc.RA119.008353.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1074/jbc.RA119.008353</ArticleId>
+            <ArticleId IdType="pmc">PMC6746444</ArticleId>
+            <ArticleId IdType="pubmed">31350332</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cubillos-Ruiz JR, Silberman PC, Rutkowski MR, Chopra S, Perales-Puchalt A, Song M, Zhang S, Bettigole SE, Gupta D, Holcomb K, et al.  ER stress sensor XBP1 controls anti-tumor immunity by disrupting dendritic cell homeostasis. Cell. 2015;161:1527–1538. doi: 10.1016/j.cell.2015.05.025.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2015.05.025</ArticleId>
+            <ArticleId IdType="pmc">PMC4580135</ArticleId>
+            <ArticleId IdType="pubmed">26073941</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pommier A, Anaparthy N, Memos N, Kelley ZL, Gouronnec A, Yan R, Auffray C, Albrengues J, Egeblad M, Iacobuzio-Donahue CA, et al.  Unresolved endoplasmic reticulum stress engenders immune-resistant, latent pancreatic cancer metastases. Science. 2018;360:eaao4908. doi: 10.1126/science.aao4908.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aao4908</ArticleId>
+            <ArticleId IdType="pmc">PMC6547380</ArticleId>
+            <ArticleId IdType="pubmed">29773669</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sheng X, Arnoldussen YJ, Storm M, Tesikova M, Nenseth HZ, Zhao S, Fazli L, Rennie P, Risberg B, Wæhre H, et al.  Divergent androgen regulation of unfolded protein response pathways drives prostate cancer. EMBO Mol Med. 2015;7:788–801. doi: 10.15252/emmm.201404509.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.15252/emmm.201404509</ArticleId>
+            <ArticleId IdType="pmc">PMC4459818</ArticleId>
+            <ArticleId IdType="pubmed">25864123</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Niederreiter L, Fritz TM, Adolph TE, Krismer AM, Offner FA, Tschurtschenthaler M, Flak MB, Hosomi S, Tomczak MF, Kaneider NC, et al.  ER stress transcription factor Xbp1 suppresses intestinal tumorigenesis and directs intestinal stem cells. J Exp Med. 2013;210:2041–2056. doi: 10.1084/jem.20122341.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1084/jem.20122341</ArticleId>
+            <ArticleId IdType="pmc">PMC3782039</ArticleId>
+            <ArticleId IdType="pubmed">24043762</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lhomond S, Avril T, Dejeans N, Voutetakis K, Doultsinos D, McMahon M, Pineau R, Obacz J, Papadodima O, Jouan F, et al.  Dual IRE1 RNase functions dictate glioblastoma development. EMBO Mol Med. 2018;10:e7929. doi: 10.15252/emmm.201707929.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.15252/emmm.201707929</ArticleId>
+            <ArticleId IdType="pmc">PMC5840541</ArticleId>
+            <ArticleId IdType="pubmed">29311133</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao N, Cao J, Xu L, Tang Q, Dobrolecki LE, Lv X, Talukdar M, Lu Y, Wang X, Hu DZ, et al.  Pharmacological targeting of MYC-regulated IRE1/XBP1 pathway suppresses MYC-driven breast cancer. J Clin Invest. 2018;128:1283–1299. doi: 10.1172/JCI95873.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1172/JCI95873</ArticleId>
+            <ArticleId IdType="pmc">PMC5873887</ArticleId>
+            <ArticleId IdType="pubmed">29480818</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Clarke HJ, Chambers JE, Liniker E, Marciniak SJ. Endoplasmic reticulum stress in malignancy. Cancer Cell. 2014;25:563–573. doi: 10.1016/j.ccr.2014.03.015.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ccr.2014.03.015</ArticleId>
+            <ArticleId IdType="pubmed">24823636</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cubillos-Ruiz JR, Bettigole SE, Glimcher LH. Tumorigenic and immunosuppressive effects of endoplasmic reticulum stress in cancer. Cell. 2017;168:692–706. doi: 10.1016/j.cell.2016.12.004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2016.12.004</ArticleId>
+            <ArticleId IdType="pmc">PMC5333759</ArticleId>
+            <ArticleId IdType="pubmed">28187289</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang M, Kaufman RJ. The impact of the endoplasmic reticulum protein-folding environment on cancer development. Nat Rev Cancer. 2014;14:581–597. doi: 10.1038/nrc3800.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrc3800</ArticleId>
+            <ArticleId IdType="pubmed">25145482</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hetz C, Axten JM, Patterson JB. Pharmacological targeting of the unfolded protein response for disease intervention. Nat Chem Biol. 2019;15:764–775. doi: 10.1038/s41589-019-0326-2.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41589-019-0326-2</ArticleId>
+            <ArticleId IdType="pubmed">31320759</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mimura N, Fulciniti M, Gorgun G, Tai YT, Cirstea D, Santo L, Hu Y, Fabre C, Minami J, Ohguchi H, et al.  Blockade of XBP1 splicing by inhibition of IRE1alpha is a promising therapeutic option in multiple myeloma. Blood. 2012;119:5772–5781. doi: 10.1182/blood-2011-07-366633.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1182/blood-2011-07-366633</ArticleId>
+            <ArticleId IdType="pmc">PMC3382937</ArticleId>
+            <ArticleId IdType="pubmed">22538852</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu P, Wang H, Liang Y, Hu A, Xing R, Jiang L, Yi L, Dong J. LINC00852 promotes lung adenocarcinoma spinal metastasis by targeting S100A9. J Cancer. 2018;9:4139–4149. doi: 10.7150/jca.26897.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7150/jca.26897</ArticleId>
+            <ArticleId IdType="pmc">PMC6277606</ArticleId>
+            <ArticleId IdType="pubmed">30519313</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sato H, Schoenfeld AJ, Siau E, Lu YC, Tai H, Suzawa K, Kubota D, Lui AJW, Qeriqi B, Mattar M, et al.  mapk pathway alterations correlate with poor survival and drive resistance to therapy in patients with lung cancers driven by ROS1 fusions. Clin Cancer Res. 2020;26:2932–2945. doi: 10.1158/1078-0432.CCR-19-3321.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1078-0432.CCR-19-3321</ArticleId>
+            <ArticleId IdType="pmc">PMC8034819</ArticleId>
+            <ArticleId IdType="pubmed">32122926</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou Q, Gui S, Zhou Q, Wang Y. Melatonin inhibits the migration of human lung adenocarcinoma A549 cell lines involving JNK/MAPK pathway. PLoS One. 2014;9:e101132. doi: 10.1371/journal.pone.0101132.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0101132</ArticleId>
+            <ArticleId IdType="pmc">PMC4084631</ArticleId>
+            <ArticleId IdType="pubmed">24992189</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu T, Wu L, Wang D, Wang H, Chen J, Yang C, Bao J, Wu C. Role of reactive oxygen species-mediated MAPK and NF-κB activation in polygonatum cyrtonema lectin-induced apoptosis and autophagy in human lung adenocarcinoma A549 cells. J Biochem. 2016;160:315–324. doi: 10.1093/jb/mvw040.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/jb/mvw040</ArticleId>
+            <ArticleId IdType="pubmed">27318358</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>QuickGO: Term GO:0001934.   https://www.ebi.ac.uk/QuickGO/term/GO:0001934. Accessed July 20, 2021.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Urano F, Wang X, Bertolotti A, Zhang Y, Chung P, Harding HP, Ron D. Coupling of stress in the ER to activation of JNK protein kinases by transmembrane protein kinase IRE1. Science. 2000;287:664–666. doi: 10.1126/science.287.5453.664.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.287.5453.664</ArticleId>
+            <ArticleId IdType="pubmed">10650002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

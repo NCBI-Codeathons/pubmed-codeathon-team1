@@ -1,0 +1,541 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35601155</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">2314-6141</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>2022</Volume>
+            <PubDate>
+              <Year>2022</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>BioMed research international</Title>
+          <ISOAbbreviation>Biomed Res Int</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Characterization of Tumor Mutation Burden-Based Gene Signature and Molecular Subtypes to Assist Precision Treatment in Gastric Cancer.</ArticleTitle>
+        <Pagination>
+          <StartPage>4006507</StartPage>
+          <MedlinePgn>4006507</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">4006507</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1155/2022/4006507</ELocationID>
+        <Abstract>
+          <AbstractText Label="OBJECTIVE" NlmCategory="UNASSIGNED">Tumor mutation burden (TMB) represents a useful biomarker for predicting survival outcomes and immunotherapy response. Here, we aimed to conduct TMB-based gene signature and molecular subtypes in gastric cancer.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="UNASSIGNED">Based on differentially expressed genes (DEGs) between high- and low-TMB groups in TCGA, a LASSO model was developed for predicting overall survival (OS) and disease-free survival (DFS). The predictive performance was externally verified in the GSE84437 dataset. Molecular subtypes were conducted via consensus clustering approach based on TMB-related DEGs. The immune microenvironment was estimated by ESTIMATE and ssGSEA algorithms.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="UNASSIGNED">High-TMB patients had prolonged survival duration. TMB-related DEGs were distinctly enriched in cancer- (MAPK, P53, PI3K-Akt, and Wnt pathways) and immune-related pathways (T cell selection and differentiation). The TMB-based gene model was developed (including MATN3, UPK1B, GPX3, and RGS2), and high-risk score was predictive of poor prognosis and recurrence. ROC and multivariate analyses revealed the well predictive performance, which was confirmed in the external cohort. Furthermore, we established the nomogram containing the risk score, age, and stage for personalized prediction of OS and DFS. High-risk score was characterized by high stromal score, increased immune checkpoints, immune cell infiltrations, and enhanced sensitivity to gefitinib, vinorelbine, and gemcitabine. Three TMB-based molecular subtypes were conducted, characterized by distinct prognosis, immune microenvironment, and drug sensitivity.</AbstractText>
+          <AbstractText Label="CONCLUSION" NlmCategory="UNASSIGNED">Collectively, we established a prognostic signature and three distinct molecular subtypes based on TMB features for gastric cancer, which might be beneficial for prognostic prediction and clinical decision-making.</AbstractText>
+          <CopyrightInformation>Copyright © 2022 Cheng Wei et al.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Wei</LastName>
+            <ForeName>Cheng</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastrointestinal Surgery, Fujian Medical University Cancer Hospital, Fujian Cancer Hospital, Fuzhou 350014, Fujian, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Minzhe</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>General Surgery Department, Beijing Chao-Yang Hospital, Capital Medical University, Beijing 100020, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Lin</LastName>
+            <ForeName>Shaofeng</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Thoracic Surgery, Fujian Medical University Cancer Hospital, Fujian Cancer Hospital, Fuzhou 350014, Fujian, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Xiao</LastName>
+            <ForeName>Jun</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0002-7877-2460</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Gastrointestinal Surgery, Fujian Medical University Cancer Hospital, Fujian Cancer Hospital, Fuzhou 350014, Fujian, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>13</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Biomed Res Int</MedlineTA>
+        <NlmUniqueID>101600173</NlmUniqueID>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015972" MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019869" MajorTopicYN="N">Phosphatidylinositol 3-Kinases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013274" MajorTopicYN="Y">Stomach Neoplasms</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D059016" MajorTopicYN="N">Tumor Microenvironment</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement>The authors declare no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>2</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>4</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>23</Day>
+          <Hour>4</Hour>
+          <Minute>5</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35601155</ArticleId>
+        <ArticleId IdType="pmc">PMC9122698</ArticleId>
+        <ArticleId IdType="doi">10.1155/2022/4006507</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Bray F., Ferlay J., Soerjomataram I., Siegel R. L., Torre L. A., Jemal A. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. 
+CA: a Cancer Journal for Clinicians
+. 2018;68(6):394–424. doi: 10.3322/caac.21492.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3322/caac.21492</ArticleId>
+            <ArticleId IdType="pubmed">30207593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cordova-Delgado M., Pinto M. P., Retamal I. N., et al.  High proportion of potential candidates for immunotherapy in a chilean cohort of gastric cancer patients: results of the FORCE1 study. 
+Cancers (Basel)
+. 2019;11(9):p. 1275. doi: 10.3390/cancers11091275.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3390/cancers11091275</ArticleId>
+            <ArticleId IdType="pmc">PMC6770659</ArticleId>
+            <ArticleId IdType="pubmed">31480291</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang J. B., Li P., Liu X. L., et al.  An immune checkpoint score system for prognostic evaluation and adjuvant chemotherapy selection in gastric cancer. 
+Nature Communications
+. 2020;11(1):p. 6352. doi: 10.1038/s41467-020-20260-7.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-020-20260-7</ArticleId>
+            <ArticleId IdType="pmc">PMC7732987</ArticleId>
+            <ArticleId IdType="pubmed">33311518</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu Y., Wu J., Huang W., et al.  Development and validation of a hypoxia-immune-based microenvironment gene signature for risk stratification in gastric cancer. 
+Journal of Translational Medicine
+. 2020;18(1):p. 201. doi: 10.1186/s12967-020-02366-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12967-020-02366-0</ArticleId>
+            <ArticleId IdType="pmc">PMC7226948</ArticleId>
+            <ArticleId IdType="pubmed">32410620</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li Z., Gao X., Peng X., et al.  Multi-omics characterization of molecular features of gastric cancer correlated with response to neoadjuvant chemotherapy. 
+Science Advances
+. 2020;6(9) doi: 10.1126/sciadv.aay4211.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/sciadv.aay4211</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Joshi S. S., Badgwell B. D. Current treatment and recent progress in gastric cancer. 
+CA: A Cancer Journal for Clinicians
+. 2021;71(3):264–279. doi: 10.3322/caac.21657.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3322/caac.21657</ArticleId>
+            <ArticleId IdType="pubmed">33592120</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mishima S., Kawazoe A., Nakamura Y., et al.  Clinicopathological and molecular features of responders to nivolumab for patients with advanced gastric cancer. 
+Journal for Immunotherapy of Cancer
+. 2019;7(1):p. 24. doi: 10.1186/s40425-019-0514-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s40425-019-0514-3</ArticleId>
+            <ArticleId IdType="pmc">PMC6357506</ArticleId>
+            <ArticleId IdType="pubmed">30704511</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wang F., Wei X. L., Wang F. H., et al.  Safety, efficacy and tumor mutational burden as a biomarker of overall survival benefit in chemo-refractory gastric cancer treated with toripalimab, a PD-1 antibody in phase Ib/II clinical trial NCT02915432. 
+Annals of Oncology
+. 2019;30(9):1479–1486. doi: 10.1093/annonc/mdz197.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/annonc/mdz197</ArticleId>
+            <ArticleId IdType="pmc">PMC6771223</ArticleId>
+            <ArticleId IdType="pubmed">31236579</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wei X. L., Xu J. Y., Wang D. S., et al.  Baseline lesion number as an efficacy predictive and independent prognostic factor and its joint utility with TMB for PD-1 inhibitor treatment in advanced gastric cancer. 
+Ther Adv Med Oncol
+. 2021;13:p. 175883592198899. doi: 10.1177/1758835921988996.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1758835921988996</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kwon M., An M., Klempner S. J., et al.  Determinants of response and intrinsic resistance to PD-1 blockade in microsatellite instability-high gastric cancer. 
+Cancer Discovery
+. 2021;11(9):candisc.0219.2021–candisc.0219.2185. doi: 10.1158/2159-8290.Cd-21-0219.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/2159-8290.Cd-21-0219</ArticleId>
+            <ArticleId IdType="pubmed">33846173</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoon S. J., Park J., Shin Y., et al.  Deconvolution of diffuse gastric cancer and the suppression of CD34 on the BALB/c nude mice model. 
+BMC Cancer
+. 2020;20(1):p. 314. doi: 10.1186/s12885-020-06814-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12885-020-06814-4</ArticleId>
+            <ArticleId IdType="pmc">PMC7160933</ArticleId>
+            <ArticleId IdType="pubmed">32293340</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mayakonda A., Lin D. C., Assenov Y., Plass C., Koeffler H. P. Maftools: efficient and comprehensive analysis of somatic variants in cancer. 
+Genome Research
+. 2018;28(11):1747–1756. doi: 10.1101/gr.239244.118.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gr.239244.118</ArticleId>
+            <ArticleId IdType="pmc">PMC6211645</ArticleId>
+            <ArticleId IdType="pubmed">30341162</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ritchie M. E., Phipson B., Wu D., et al.  limma powers differential expression analyses for RNA-sequencing and microarray studies. 
+Nucleic Acids Research
+. 2015;43(7):p. e47. doi: 10.1093/nar/gkv007.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gkv007</ArticleId>
+            <ArticleId IdType="pmc">PMC4402510</ArticleId>
+            <ArticleId IdType="pubmed">25605792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lamb J., Crawford E. D., Peck D., et al.  The Connectivity Map: using gene-expression signatures to connect small molecules, genes, and disease. 
+Science
+. 2006;313(5795):1929–1935. doi: 10.1126/science.1132939.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1132939</ArticleId>
+            <ArticleId IdType="pubmed">17008526</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu G., Wang L. G., Han Y., He Q. Y. clusterProfiler: an R package for comparing biological themes among gene clusters. 
+Omics
+. 2012;16(5):284–287. doi: 10.1089/omi.2011.0118.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/omi.2011.0118</ArticleId>
+            <ArticleId IdType="pmc">PMC3339379</ArticleId>
+            <ArticleId IdType="pubmed">22455463</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Subramanian A., Tamayo P., Mootha V. K., et al.  Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. 
+Proceedings of the National Academy of Sciences of the United States of America
+. 2005;102(43):15545–15550. doi: 10.1073/pnas.0506580102.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.0506580102</ArticleId>
+            <ArticleId IdType="pmc">PMC1239896</ArticleId>
+            <ArticleId IdType="pubmed">16199517</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liberzon A., Birger C., Thorvaldsdóttir H., Ghandi M., Mesirov J. P., Tamayo P. The molecular signatures database hallmark gene set collection. 
+Cell Systems
+. 2015;1(6):417–425. doi: 10.1016/j.cels.2015.12.004.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cels.2015.12.004</ArticleId>
+            <ArticleId IdType="pmc">PMC4707969</ArticleId>
+            <ArticleId IdType="pubmed">26771021</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Engebretsen S., Bohlin J. Statistical predictions with glmnet. 
+Clinical Epigenetics
+. 2019;11(1):p. 123. doi: 10.1186/s13148-019-0730-1.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s13148-019-0730-1</ArticleId>
+            <ArticleId IdType="pmc">PMC6708235</ArticleId>
+            <ArticleId IdType="pubmed">31443682</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yoshihara K., Shahmoradgoli M., Martínez E., et al.  Inferring tumour purity and stromal and immune cell admixture from expression data. 
+Nature Communications
+. 2013;4(1):p. 2612. doi: 10.1038/ncomms3612.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ncomms3612</ArticleId>
+            <ArticleId IdType="pmc">PMC3826632</ArticleId>
+            <ArticleId IdType="pubmed">24113773</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang W., Soares J., Greninger P., et al.  Genomics of Drug Sensitivity in Cancer (GDSC): a resource for therapeutic biomarker discovery in cancer cells. 
+Nucleic Acids Research
+. 2013;41(Database issue):D955–D961. doi: 10.1093/nar/gks1111.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/nar/gks1111</ArticleId>
+            <ArticleId IdType="pmc">PMC3531057</ArticleId>
+            <ArticleId IdType="pubmed">23180760</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Geeleher P., Cox N., Huang R. S. pRRophetic: an R package for prediction of clinical chemotherapeutic response from tumor gene expression levels. 
+PLoS One
+. 2014;9(9, article e107468) doi: 10.1371/journal.pone.0107468.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0107468</ArticleId>
+            <ArticleId IdType="pmc">PMC4167990</ArticleId>
+            <ArticleId IdType="pubmed">25229481</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wilkerson M. D., Hayes D. N. ConsensusClusterPlus: a class discovery tool with confidence assessments and item tracking. 
+Bioinformatics
+. 2010;26(12):1572–1573. doi: 10.1093/bioinformatics/btq170.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1093/bioinformatics/btq170</ArticleId>
+            <ArticleId IdType="pmc">PMC2881355</ArticleId>
+            <ArticleId IdType="pubmed">20427518</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cai H., Jing C., Chang X., et al.  Mutational landscape of gastric cancer and clinical application of genomic profiling based on target next-generation sequencing. 
+Journal of Translational Medicine
+. 2019;17(1):p. 189. doi: 10.1186/s12967-019-1941-0.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12967-019-1941-0</ArticleId>
+            <ArticleId IdType="pmc">PMC6549266</ArticleId>
+            <ArticleId IdType="pubmed">31164161</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang L., Hu D., Huangfu S., et al.  DNA repair and replication-related gene signature based on tumor mutation burden reveals prognostic and immunotherapy response in gastric cancer. 
+Journal of Oncology
+. 2022;2022 doi: 10.1155/2022/6469523.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2022/6469523</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim H., Hong J. Y., Lee J., et al.  Clinical sequencing to assess tumor mutational burden as a useful biomarker to immunotherapy in various solid tumors. 
+Ther Adv Med Oncol
+. 2021;13:p. 175883592199299. doi: 10.1177/1758835921992992.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1758835921992992</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yu J., Zhang Q. Y., Wang M. C., et al.  Comprehensive analysis of tumor mutation burden and immune microenvironment in gastric cancer. 
+Bioscience Reports
+. 2021;41(2) doi: 10.1042/BSR20203336.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1042/BSR20203336</ArticleId>
+            <ArticleId IdType="pmc">PMC7921293</ArticleId>
+            <ArticleId IdType="pubmed">33492335</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu X., Gu Z., Chen Y., et al.  Application of PD-1 blockade in cancer immunotherapy. 
+Computational and Structural Biotechnology Journal
+. 2019;17:661–674. doi: 10.1016/j.csbj.2019.03.006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.csbj.2019.03.006</ArticleId>
+            <ArticleId IdType="pmc">PMC6558092</ArticleId>
+            <ArticleId IdType="pubmed">31205619</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang C., Liang Y., Ma M. H., Wu K. Z., Dai D. Q. KRT15, INHBA, MATN3, and AGT are aberrantly methylated and differentially expressed in gastric cancer and associated with prognosis. 
+Pathology, Research and Practice
+. 2019;215(5):893–899. doi: 10.1016/j.prp.2019.01.034.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.prp.2019.01.034</ArticleId>
+            <ArticleId IdType="pubmed">30718100</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y., Yuan Z., Shen R., et al.  Identification of biomarkers predicting the chemotherapeutic outcomes of capecitabine and oxaliplatin in patients with gastric cancer. 
+Oncology Letters
+. 2020;20(6):p. 1. doi: 10.3892/ol.2020.12153.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3892/ol.2020.12153</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhou C., Pan R., Li B., et al.  GPX3 hypermethylation in gastric cancer and its prognostic value in patients aged over 60. 
+Future Oncology
+. 2019;15(11):1279–1289. doi: 10.2217/fon-2018-0674.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.2217/fon-2018-0674</ArticleId>
+            <ArticleId IdType="pubmed">30924352</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li A., Li J., Lin J., Zhuo W., Si J. COL11A1 is overexpressed in gastric cancer tissues and regulates proliferation, migration and invasion of HGC-27 gastric cancer cells in vitro. 
+Oncology Reports
+. 2017;37(1):333–340. doi: 10.3892/or.2016.5276.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3892/or.2016.5276</ArticleId>
+            <ArticleId IdType="pubmed">28004111</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Topalian S. L., Hodi F. S., Brahmer J. R., et al.  Safety, activity, and immune correlates of anti-PD-1 antibody in cancer. 
+The New England Journal of Medicine
+. 2012;366(26):2443–2454. doi: 10.1056/NEJMoa1200690.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa1200690</ArticleId>
+            <ArticleId IdType="pmc">PMC3544539</ArticleId>
+            <ArticleId IdType="pubmed">22658127</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kono K., Nakajima S., Mimura K. Current status of immune checkpoint inhibitors for gastric cancer. 
+Gastric Cancer
+. 2020;23(4):565–578. doi: 10.1007/s10120-020-01090-4.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10120-020-01090-4</ArticleId>
+            <ArticleId IdType="pubmed">32468420</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sathe A., Grimes S. M., Lau B. T., et al.  Single-cell genomic characterization reveals the cellular reprogramming of the gastric tumor microenvironment. 
+Clinical Cancer Research
+. 2020;26(11):2640–2653. doi: 10.1158/1078-0432.CCR-19-3231.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/1078-0432.CCR-19-3231</ArticleId>
+            <ArticleId IdType="pmc">PMC7269843</ArticleId>
+            <ArticleId IdType="pubmed">32060101</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin C., He H., Liu H., et al.  Tumour-associated macrophages-derived CXCL8 determines immune evasion through autonomous PD-L1 expression in gastric cancer. 
+Gut
+. 2019;68(10):1764–1773. doi: 10.1136/gutjnl-2018-316324.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/gutjnl-2018-316324</ArticleId>
+            <ArticleId IdType="pubmed">30661053</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zeng D., Li M., Zhou R., et al.  Tumor microenvironment characterization in gastric cancer identifies prognostic and immunotherapeutically relevant gene signatures. 
+Cancer Immunology Research
+. 2019;7(5):737–750. doi: 10.1158/2326-6066.CIR-18-0436.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/2326-6066.CIR-18-0436</ArticleId>
+            <ArticleId IdType="pubmed">30842092</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ren Q., Zhu P., Zhang H., et al.  Identification and validation of stromal-tumor microenvironment-based subtypes tightly associated with PD-1/PD-L1 immunotherapy and outcomes in patients with gastric cancer. 
+Cancer Cell International
+. 2020;20(1):p. 92. doi: 10.1186/s12935-020-01173-3.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12935-020-01173-3</ArticleId>
+            <ArticleId IdType="pmc">PMC7092673</ArticleId>
+            <ArticleId IdType="pubmed">32226313</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li L., Wang X. Identification of gastric cancer subtypes based on pathway clustering. 
+NPJ Precis Oncol
+. 2021;5(1):p. 46. doi: 10.1038/s41698-021-00186-z.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41698-021-00186-z</ArticleId>
+            <ArticleId IdType="pmc">PMC8172826</ArticleId>
+            <ArticleId IdType="pubmed">34079012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

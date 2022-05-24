@@ -1,0 +1,988 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35315683</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>06</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>06</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1946-6242</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>14</Volume>
+            <Issue>643</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>04</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Science translational medicine</Title>
+          <ISOAbbreviation>Sci Transl Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Therapeutic treatment with an oral prodrug of the remdesivir parental nucleoside is protective against SARS-CoV-2 pathogenesis in mice.</ArticleTitle>
+        <Pagination>
+          <StartPage>eabm3410</StartPage>
+          <MedlinePgn>eabm3410</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">eabm3410</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1126/scitranslmed.abm3410</ELocationID>
+        <Abstract>
+          <AbstractText>The coronavirus disease 2019 (COVID-19) pandemic remains uncontrolled despite the rapid rollout of safe and effective severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) vaccines, underscoring the need to develop highly effective antivirals. In the setting of waning immunity from infection and vaccination, breakthrough infections are becoming increasingly common and treatment options remain limited. In addition, the emergence of SARS-CoV-2 variants of concern, with their potential to escape neutralization by therapeutic monoclonal antibodies, emphasizes the need to develop second-generation oral antivirals targeting highly conserved viral proteins that can be rapidly deployed to outpatients. Here, we demonstrate the in vitro antiviral activity and in vivo therapeutic efficacy of GS-621763, an orally bioavailable prodrug of GS-441524, the parent nucleoside of remdesivir, which targets the highly conserved virus RNA-dependent RNA polymerase. GS-621763 exhibited antiviral activity against SARS-CoV-2 in lung cell lines and two different human primary lung cell culture systems. GS-621763 was also potently antiviral against a genetically unrelated emerging coronavirus, Middle East respiratory syndrome CoV (MERS-CoV). The dose-proportional pharmacokinetic profile observed after oral administration of GS-621763 translated to dose-dependent antiviral activity in mice infected with SARS-CoV-2. Therapeutic GS-621763 administration reduced viral load and lung pathology; treatment also improved pulmonary function in COVID-19 mouse model. A direct comparison of GS-621763 with molnupiravir, an oral nucleoside analog antiviral that has recently received EUA approval, proved both drugs to be similarly efficacious in mice. These data support the exploration of GS-441524 oral prodrugs for the treatment of COVID-19.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Schäfer</LastName>
+            <ForeName>Alexandra</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0002-4760-4923</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Martinez</LastName>
+            <ForeName>David R</ForeName>
+            <Initials>DR</Initials>
+            <Identifier Source="ORCID">0000-0002-2940-8961</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Won</LastName>
+            <ForeName>John J</ForeName>
+            <Initials>JJ</Initials>
+            <Identifier Source="ORCID">0000-0002-5849-4993</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Meganck</LastName>
+            <ForeName>Rita M</ForeName>
+            <Initials>RM</Initials>
+            <Identifier Source="ORCID">0000-0003-2799-3754</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moreira</LastName>
+            <ForeName>Fernando R</ForeName>
+            <Initials>FR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Brown</LastName>
+            <ForeName>Ariane J</ForeName>
+            <Initials>AJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gully</LastName>
+            <ForeName>Kendra L</ForeName>
+            <Initials>KL</Initials>
+            <Identifier Source="ORCID">0000-0001-5742-2341</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zweigart</LastName>
+            <ForeName>Mark R</ForeName>
+            <Initials>MR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Conrad</LastName>
+            <ForeName>William S</ForeName>
+            <Initials>WS</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>May</LastName>
+            <ForeName>Samantha R</ForeName>
+            <Initials>SR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Dong</LastName>
+            <ForeName>Stephanie</ForeName>
+            <Initials>S</Initials>
+            <Identifier Source="ORCID">0000-0002-0318-5261</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kalla</LastName>
+            <ForeName>Rao</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Gilead Sciences Inc., Foster City, CA 94404, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chun</LastName>
+            <ForeName>Kwon</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Gilead Sciences Inc., Foster City, CA 94404, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Du Pont</LastName>
+            <ForeName>Venice</ForeName>
+            <Initials>V</Initials>
+            <AffiliationInfo>
+              <Affiliation>Gilead Sciences Inc., Foster City, CA 94404, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Babusis</LastName>
+            <ForeName>Darius</ForeName>
+            <Initials>D</Initials>
+            <Identifier Source="ORCID">0000-0001-5599-1671</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Gilead Sciences Inc., Foster City, CA 94404, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tang</LastName>
+            <ForeName>Jennifer</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0001-9491-5022</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Gilead Sciences Inc., Foster City, CA 94404, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Murakami</LastName>
+            <ForeName>Eisuke</ForeName>
+            <Initials>E</Initials>
+            <Identifier Source="ORCID">0000-0003-2315-2819</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Gilead Sciences Inc., Foster City, CA 94404, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Subramanian</LastName>
+            <ForeName>Raju</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Gilead Sciences Inc., Foster City, CA 94404, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Barrett</LastName>
+            <ForeName>Kimberly T</ForeName>
+            <Initials>KT</Initials>
+            <Identifier Source="ORCID">0000-0003-4128-8437</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Gilead Sciences Inc., Foster City, CA 94404, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bleier</LastName>
+            <ForeName>Blake J</ForeName>
+            <Initials>BJ</Initials>
+            <Identifier Source="ORCID">0000-0003-4440-3808</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Gilead Sciences Inc., Foster City, CA 94404, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bannister</LastName>
+            <ForeName>Roy</ForeName>
+            <Initials>R</Initials>
+            <Identifier Source="ORCID">0000-0002-6311-1440</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Gilead Sciences Inc., Foster City, CA 94404, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Feng</LastName>
+            <ForeName>Joy Y</ForeName>
+            <Initials>JY</Initials>
+            <Identifier Source="ORCID">0000-0003-4837-1911</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Gilead Sciences Inc., Foster City, CA 94404, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bilello</LastName>
+            <ForeName>John P</ForeName>
+            <Initials>JP</Initials>
+            <Identifier Source="ORCID">0000-0003-4327-1727</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Gilead Sciences Inc., Foster City, CA 94404, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cihlar</LastName>
+            <ForeName>Tomas</ForeName>
+            <Initials>T</Initials>
+            <AffiliationInfo>
+              <Affiliation>Gilead Sciences Inc., Foster City, CA 94404, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mackman</LastName>
+            <ForeName>Richard L</ForeName>
+            <Initials>RL</Initials>
+            <Identifier Source="ORCID">0000-0001-8861-7205</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Gilead Sciences Inc., Foster City, CA 94404, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Montgomery</LastName>
+            <ForeName>Stephanie A</ForeName>
+            <Initials>SA</Initials>
+            <Identifier Source="ORCID">0000-0001-8012-5302</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Pathology and Laboratory Medicine, University of North Carolina School of Medicine, Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Lineberger Comprehensive Cancer Center, University of North Carolina School of Medicine, Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Baric</LastName>
+            <ForeName>Ralph S</ForeName>
+            <Initials>RS</Initials>
+            <Identifier Source="ORCID">0000-0001-6827-8701</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Sheahan</LastName>
+            <ForeName>Timothy P</ForeName>
+            <Initials>TP</Initials>
+            <Identifier Source="ORCID">0000-0001-9181-2183</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Epidemiology, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>F32 AI152296</GrantID>
+            <Acronym>AI</Acronym>
+            <Agency>NIAID NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>T32 AI007151</GrantID>
+            <Acronym>AI</Acronym>
+            <Agency>NIAID NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>P30 CA016086</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>U19 AI142759</GrantID>
+            <Acronym>AI</Acronym>
+            <Agency>NIAID NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 AI132178</GrantID>
+            <Acronym>AI</Acronym>
+            <Agency>NIAID NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>04</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Sci Transl Med</MedlineTA>
+        <NlmUniqueID>101505086</NlmUniqueID>
+        <ISSNLinking>1946-6234</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C000719133">((2R,3R,4R,5R)-5-(4-aminopyrrolo(2,1-f)(1,2,4)triazin-7-yl)-5-cyano-3,4-bis(2-methylpropanoyloxy)tetrahydrofuran-2-yl)methyl 2-methylpropanoate</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000998">Antiviral Agents</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D009705">Nucleosides</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011355">Prodrugs</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>3QKI37EEHE</RegistryNumber>
+          <NameOfSubstance UI="C000606551">remdesivir</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>415SHH325A</RegistryNumber>
+          <NameOfSubstance UI="D000249">Adenosine Monophosphate</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>K72T3FS567</RegistryNumber>
+          <NameOfSubstance UI="D000241">Adenosine</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>OF5P57N2ZX</RegistryNumber>
+          <NameOfSubstance UI="D000409">Alanine</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <SupplMeshList>
+        <SupplMeshName Type="Protocol" UI="C000705127">COVID-19 drug treatment</SupplMeshName>
+        <SupplMeshName Type="Organism" UI="C000711908">SARS-CoV-2 variants</SupplMeshName>
+      </SupplMeshList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="UpdateOf">
+          <RefSource>bioRxiv. 2021 Sep 17;:</RefSource>
+          <PMID Version="1">34545367</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000241" MajorTopicYN="N">Adenosine</DescriptorName>
+          <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000249" MajorTopicYN="N">Adenosine Monophosphate</DescriptorName>
+          <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000409" MajorTopicYN="N">Alanine</DescriptorName>
+          <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000998" MajorTopicYN="N">Antiviral Agents</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086382" MajorTopicYN="Y">COVID-19</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D018352" MajorTopicYN="Y">Coronavirus Infections</DescriptorName>
+          <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009705" MajorTopicYN="N">Nucleosides</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010290" MajorTopicYN="N">Parents</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011355" MajorTopicYN="Y">Prodrugs</DescriptorName>
+          <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+          <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000086402" MajorTopicYN="N">SARS-CoV-2</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>7</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>22</Day>
+          <Hour>12</Hour>
+          <Minute>9</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35315683</ArticleId>
+        <ArticleId IdType="pmc">PMC8995034</ArticleId>
+        <ArticleId IdType="doi">10.1126/scitranslmed.abm3410</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>
+Zhou P., Yang X. L., Wang X. G., Hu B., Zhang L., Zhang W., Si H. R., Zhu Y., Li B., Huang C. L., Chen H. D., Chen J., Luo Y., Guo H., Jiang R. D., Liu M. Q., Chen Y., Shen X. R., Wang X., Zheng X. S., Zhao K., Chen Q. J., Deng F., Liu L. L., Yan B., Zhan F. X., Wang Y. Y., Xiao G. F., Shi Z. L., A pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature
+579, 270–273 (2020). 10.1038/s41586-020-2012-7
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-020-2012-7</ArticleId>
+            <ArticleId IdType="pmc">PMC7095418</ArticleId>
+            <ArticleId IdType="pubmed">32015507</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zhu N., Zhang D., Wang W., Li X., Yang B., Song J., Zhao X., Huang B., Shi W., Lu R., Niu P., Zhan F., Ma X., Wang D., Xu W., Wu G., Gao G. F., Tan W.; China Novel Coronavirus Investigating and Research Team , A Novel Coronavirus from Patients with Pneumonia in China, 2019. N. Engl. J. Med.
+382, 727–733 (2020). 10.1056/NEJMoa2001017
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa2001017</ArticleId>
+            <ArticleId IdType="pmc">PMC7092803</ArticleId>
+            <ArticleId IdType="pubmed">31978945</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+University J. H.. (2020).</Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Binagwaho A., Mathewos K., Davis S., Time for the ethical management of COVID-19 vaccines. Lancet Glob. Health
+9, e1169–e1171 (2021). 10.1016/S2214-109X(21)00180-7
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S2214-109X(21)00180-7</ArticleId>
+            <ArticleId IdType="pmc">PMC8096324</ArticleId>
+            <ArticleId IdType="pubmed">33961810</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Aryeetey E., Engebretsen E., Gornitzka Å., Maassen P., Stølen S., A step backwards in the fight against global vaccine inequities. Lancet
+397, 23–24 (2021). 10.1016/S0140-6736(20)32596-4
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0140-6736(20)32596-4</ArticleId>
+            <ArticleId IdType="pmc">PMC7834406</ArticleId>
+            <ArticleId IdType="pubmed">33308424</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Asundi A., O’Leary C., Bhadelia N., Global COVID-19 vaccine inequity: The scope, the impact, and the challenges. Cell Host Microbe
+29, 1036–1039 (2021). 10.1016/j.chom.2021.06.007
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.chom.2021.06.007</ArticleId>
+            <ArticleId IdType="pmc">PMC8279498</ArticleId>
+            <ArticleId IdType="pubmed">34265241</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Barrett J. R., Belij-Rammerstorfer S., Dold C., Ewer K. J., Folegatti P. M., Gilbride C., Halkerston R., Hill J., Jenkin D., Stockdale L., Verheul M. K., Aley P. K., Angus B., Bellamy D., Berrie E., Bibi S., Bittaye M., Carroll M. W., Cavell B., Clutterbuck E. A., Edwards N., Flaxman A., Fuskova M., Gorringe A., Hallis B., Kerridge S., Lawrie A. M., Linder A., Liu X., Madhavan M., Makinson R., Mellors J., Minassian A., Moore M., Mujadidi Y., Plested E., Poulton I., Ramasamy M. N., Robinson H., Rollier C. S., Song R., Snape M. D., Tarrant R., Taylor S., Thomas K. M., Voysey M., Watson M. E. E., Wright D., Douglas A. D., Green C. M., Hill A. V. S., Lambe T., Gilbert S., Pollard A. J.; Oxford COVID Vaccine Trial Group , Phase 1/2 trial of SARS-CoV-2 vaccine ChAdOx1 nCoV-19 with a booster dose induces multifunctional antibody responses. Nat. Med.
+27, 279–288 (2021). 10.1038/s41591-020-01179-4
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41591-020-01179-4</ArticleId>
+            <ArticleId IdType="pubmed">33335322</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Grein J., Ohmagari N., Shin D., Diaz G., Asperges E., Castagna A., Feldt T., Green G., Green M. L., Lescure F. X., Nicastri E., Oda R., Yo K., Quiros-Roldan E., Studemeister A., Redinski J., Ahmed S., Bernett J., Chelliah D., Chen D., Chihara S., Cohen S. H., Cunningham J., D’Arminio Monforte A., Ismail S., Kato H., Lapadula G., L’Her E., Maeno T., Majumder S., Massari M., Mora-Rillo M., Mutoh Y., Nguyen D., Verweij E., Zoufaly A., Osinusi A. O., DeZure A., Zhao Y., Zhong L., Chokkalingam A., Elboudwarej E., Telep L., Timbs L., Henne I., Sellers S., Cao H., Tan S. K., Winterbourne L., Desai P., Mera R., Gaggar A., Myers R. P., Brainard D. M., Childs R., Flanigan T., Compassionate Use of Remdesivir for Patients with Severe Covid-19. N. Engl. J. Med.
+382, 2327–2336 (2020). 10.1056/NEJMoa2007016
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa2007016</ArticleId>
+            <ArticleId IdType="pmc">PMC7169476</ArticleId>
+            <ArticleId IdType="pubmed">32275812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Beigel J. H., Tomashek K. M., Dodd L. E., Mehta A. K., Zingman B. S., Kalil A. C., Hohmann E., Chu H. Y., Luetkemeyer A., Kline S., Lopez de Castilla D., Finberg R. W., Dierberg K., Tapson V., Hsieh L., Patterson T. F., Paredes R., Sweeney D. A., Short W. R., Touloumi G., Lye D. C., Ohmagari N., Oh M. D., Ruiz-Palacios G. M., Benfield T., Fätkenheuer G., Kortepeter M. G., Atmar R. L., Creech C. B., Lundgren J., Babiker A. G., Pett S., Neaton J. D., Burgess T. H., Bonnett T., Green M., Makowski M., Osinusi A., Nayak S., Lane H. C.; ACTT-1 Study Group Members , Remdesivir for the Treatment of Covid-19 - Final Report. N. Engl. J. Med.
+383, 1813–1826 (2020). 10.1056/NEJMoa2007764
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa2007764</ArticleId>
+            <ArticleId IdType="pmc">PMC7262788</ArticleId>
+            <ArticleId IdType="pubmed">32445440</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Robbiani D. F., Gaebler C., Muecksch F., Lorenzi J. C. C., Wang Z., Cho A., Agudelo M., Barnes C. O., Gazumyan A., Finkin S., Hägglöf T., Oliveira T. Y., Viant C., Hurley A., Hoffmann H. H., Millard K. G., Kost R. G., Cipolla M., Gordon K., Bianchini F., Chen S. T., Ramos V., Patel R., Dizon J., Shimeliovich I., Mendoza P., Hartweger H., Nogueira L., Pack M., Horowitz J., Schmidt F., Weisblum Y., Michailidis E., Ashbrook A. W., Waltari E., Pak J. E., Huey-Tubman K. E., Koranda N., Hoffman P. R., West A. P. Jr., Rice C. M., Hatziioannou T., Bjorkman P. J., Bieniasz P. D., Caskey M., Nussenzweig M. C., Convergent antibody responses to SARS-CoV-2 in convalescent individuals. Nature
+584, 437–442 (2020). 10.1038/s41586-020-2456-9
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-020-2456-9</ArticleId>
+            <ArticleId IdType="pmc">PMC7442695</ArticleId>
+            <ArticleId IdType="pubmed">32555388</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zost S. J., Gilchuk P., Chen R. E., Case J. B., Reidy J. X., Trivette A., Nargi R. S., Sutton R. E., Suryadevara N., Chen E. C., Binshtein E., Shrihari S., Ostrowski M., Chu H. Y., Didier J. E., MacRenaris K. W., Jones T., Day S., Myers L., Eun-Hyung Lee F., Nguyen D. C., Sanz I., Martinez D. R., Rothlauf P. W., Bloyet L. M., Whelan S. P. J., Baric R. S., Thackray L. B., Diamond M. S., Carnahan R. H., Crowe J. E. Jr., Rapid isolation and profiling of a diverse panel of human monoclonal antibodies targeting the SARS-CoV-2 spike protein. Nat. Med.
+26, 1422–1427 (2020). 10.1038/s41591-020-0998-x
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41591-020-0998-x</ArticleId>
+            <ArticleId IdType="pmc">PMC8194108</ArticleId>
+            <ArticleId IdType="pubmed">32651581</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Pinto D., Park Y. J., Beltramello M., Walls A. C., Tortorici M. A., Bianchi S., Jaconi S., Culap K., Zatta F., De Marco A., Peter A., Guarino B., Spreafico R., Cameroni E., Case J. B., Chen R. E., Havenar-Daughton C., Snell G., Telenti A., Virgin H. W., Lanzavecchia A., Diamond M. S., Fink K., Veesler D., Corti D., Cross-neutralization of SARS-CoV-2 by a human monoclonal SARS-CoV antibody. Nature
+583, 290–295 (2020). 10.1038/s41586-020-2349-y
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-020-2349-y</ArticleId>
+            <ArticleId IdType="pubmed">32422645</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lundgren J. D., Grund B., Barkauskas C. E., Holland T. L., Gottlieb R. L., Sandkovsky U., Brown S. M., Knowlton K. U., Self W. H., Files D. C., Jain M. K., Benfield T., Bowdish M. E., Leshnower B. G., Baker J. V., Jensen J. U., Gardner E. M., Ginde A. A., Harris E. S., Johansen I. S., Markowitz N., Matthay M. A., Østergaard L., Chang C. C., Davey V. J., Goodman A., Higgs E. S., Murray D. D., Murray T. A., Paredes R., Parmar M. K. B., Phillips A. N., Reilly C., Sharma S., Dewar R. L., Teitelbaum M., Wentworth D., Cao H., Klekotka P., Babiker A. G., Gelijns A. C., Kan V. L., Polizzotto M. N., Thompson B. T., Lane H. C., Neaton J. D.; ACTIV-3/TICO LY-CoV555 Study Group , A Neutralizing Monoclonal Antibody for Hospitalized Patients with Covid-19. N. Engl. J. Med.
+384, 905–914 (2021). 10.1056/NEJMoa2033130
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa2033130</ArticleId>
+            <ArticleId IdType="pmc">PMC7781100</ArticleId>
+            <ArticleId IdType="pubmed">33356051</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+O’Brien M. P., Forleo-Neto E., Musser B. J., Isa F., Chan K. C., Sarkar N., Bar K. J., Barnabas R. V., Barouch D. H., Cohen M. S., Hurt C. B., Burwen D. R., Marovich M. A., Hou P., Heirman I., Davis J. D., Turner K. C., Ramesh D., Mahmood A., Hooper A. T., Hamilton J. D., Kim Y., Purcell L. A., Baum A., Kyratsous C. A., Krainson J., Perez-Perez R., Mohseni R., Kowal B., DiCioccio A. T., Stahl N., Lipsich L., Braunstein N., Herman G., Yancopoulos G. D., Weinreich D. M.; Covid-19 Phase 3 Prevention Trial Team , Subcutaneous REGEN-COV Antibody Combination to Prevent Covid-19. N. Engl. J. Med.
+385, 1184–1195 (2021). 10.1056/NEJMoa2109682
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa2109682</ArticleId>
+            <ArticleId IdType="pmc">PMC8362593</ArticleId>
+            <ArticleId IdType="pubmed">34347950</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Weinreich D. M., Sivapalasingam S., Norton T., Ali S., Gao H., Bhore R., Musser B. J., Soo Y., Rofail D., Im J., Perry C., Pan C., Hosain R., Mahmood A., Davis J. D., Turner K. C., Hooper A. T., Hamilton J. D., Baum A., Kyratsous C. A., Kim Y., Cook A., Kampman W., Kohli A., Sachdeva Y., Graber X., Kowal B., DiCioccio T., Stahl N., Lipsich L., Braunstein N., Herman G., Yancopoulos G. D.; Trial Investigators , REGN-COV2, a Neutralizing Antibody Cocktail, in Outpatients with Covid-19. N. Engl. J. Med.
+384, 238–251 (2021). 10.1056/NEJMoa2035002
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMoa2035002</ArticleId>
+            <ArticleId IdType="pmc">PMC7781102</ArticleId>
+            <ArticleId IdType="pubmed">33332778</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Chen R. E., Zhang X., Case J. B., Winkler E. S., Liu Y., VanBlargan L. A., Liu J., Errico J. M., Xie X., Suryadevara N., Gilchuk P., Zost S. J., Tahan S., Droit L., Turner J. S., Kim W., Schmitz A. J., Thapa M., Wang D., Boon A. C. M., Presti R. M., O’Halloran J. A., Kim A. H. J., Deepak P., Pinto D., Fremont D. H., Crowe J. E. Jr., Corti D., Virgin H. W., Ellebedy A. H., Shi P. Y., Diamond M. S., Resistance of SARS-CoV-2 variants to neutralization by monoclonal and serum-derived polyclonal antibodies. Nat. Med.
+27, 717–726 (2021). 10.1038/s41591-021-01294-w
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41591-021-01294-w</ArticleId>
+            <ArticleId IdType="pmc">PMC8058618</ArticleId>
+            <ArticleId IdType="pubmed">33664494</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wang P., Nair M. S., Liu L., Iketani S., Luo Y., Guo Y., Wang M., Yu J., Zhang B., Kwong P. D., Graham B. S., Mascola J. R., Chang J. Y., Yin M. T., Sobieszczyk M., Kyratsous C. A., Shapiro L., Sheng Z., Huang Y., Ho D. D., Antibody resistance of SARS-CoV-2 variants B.1.351 and B.1.1.7. Nature
+593, 130–135 (2021). 10.1038/s41586-021-03398-2
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-021-03398-2</ArticleId>
+            <ArticleId IdType="pubmed">33684923</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Martinez D. R., Schäfer A., Leist S. R., Li D., Gully K., Yount B., Feng J. Y., Bunyan E., Porter D. P., Cihlar T., Montgomery S. A., Haynes B. F., Baric R. S., Nussenzweig M. C., Sheahan T. P., Prevention and therapy of SARS-CoV-2 and the B.1.351 variant in mice. Cell Rep.
+36, 109450 (2021). 10.1016/j.celrep.2021.109450
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2021.109450</ArticleId>
+            <ArticleId IdType="pmc">PMC8270748</ArticleId>
+            <ArticleId IdType="pubmed">34289384</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Sheahan T. P., Sims A. C., Graham R. L., Menachery V. D., Gralinski L. E., Case J. B., Leist S. R., Pyrc K., Feng J. Y., Trantcheva I., Bannister R., Park Y., Babusis D., Clarke M. O., Mackman R. L., Spahn J. E., Palmiotti C. A., Siegel D., Ray A. S., Cihlar T., Jordan R., Denison M. R., Baric R. S., Broad-spectrum antiviral GS-5734 inhibits both epidemic and zoonotic coronaviruses. Sci. Transl. Med.
+9, eaal3653 (2017). 10.1126/scitranslmed.aal3653
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/scitranslmed.aal3653</ArticleId>
+            <ArticleId IdType="pmc">PMC5567817</ArticleId>
+            <ArticleId IdType="pubmed">28659436</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Sheahan T. P., Sims A. C., Leist S. R., Schäfer A., Won J., Brown A. J., Montgomery S. A., Hogg A., Babusis D., Clarke M. O., Spahn J. E., Bauer L., Sellers S., Porter D., Feng J. Y., Cihlar T., Jordan R., Denison M. R., Baric R. S., Comparative therapeutic efficacy of remdesivir and combination lopinavir, ritonavir, and interferon beta against MERS-CoV. Nat. Commun.
+11, 222 (2020). 10.1038/s41467-019-13940-6
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-019-13940-6</ArticleId>
+            <ArticleId IdType="pmc">PMC6954302</ArticleId>
+            <ArticleId IdType="pubmed">31924756</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Sheahan T. P., Sims A. C., Zhou S., Graham R. L., Pruijssers A. J., Agostini M. L., Leist S. R., Schäfer A., Dinnon K. H. 3rd, Stevens L. J., Chappell J. D., Lu X., Hughes T. M., George A. S., Hill C. S., Montgomery S. A., Brown A. J., Bluemling G. R., Natchus M. G., Saindane M., Kolykhalov A. A., Painter G., Harcourt J., Tamin A., Thornburg N. J., Swanstrom R., Denison M. R., Baric R. S., An orally bioavailable broad-spectrum antiviral inhibits SARS-CoV-2 in human airway epithelial cell cultures and multiple coronaviruses in mice. Sci. Transl. Med.
+12, eabb5883 (2020). 10.1126/scitranslmed.abb5883
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/scitranslmed.abb5883</ArticleId>
+            <ArticleId IdType="pmc">PMC7164393</ArticleId>
+            <ArticleId IdType="pubmed">32253226</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wahl A., Gralinski L. E., Johnson C. E., Yao W., Kovarova M., Dinnon K. H. 3rd, Liu H., Madden V. J., Krzystek H. M., De C., White K. K., Gully K., Schäfer A., Zaman T., Leist S. R., Grant P. O., Bluemling G. R., Kolykhalov A. A., Natchus M. G., Askin F. B., Painter G., Browne E. P., Jones C. D., Pickles R. J., Baric R. S., Garcia J. V., SARS-CoV-2 infection is effectively treated and prevented by EIDD-2801. Nature
+591, 451–457 (2021). 10.1038/s41586-021-03312-w
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-021-03312-w</ArticleId>
+            <ArticleId IdType="pmc">PMC7979515</ArticleId>
+            <ArticleId IdType="pubmed">33561864</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Fischer W., Eron J. J., Holman W., Cohen M. S., Fang L., Szewczyk L. J., Sheahan T. P., Baric R., Mollan K. R., Wolfe C. R., Duke E. R., Azizad M. M., Borroto-Esoda K., Wohl D. A., Loftis A. J., Alabanza P., Lipansky F., Painter W. P., Molnupiravir, an Oral Antiviral Treatment for COVID-19.
+medRxiv, (2021).10.1101/2021.06.17.21258639
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/2021.06.17.21258639</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Williamson B. N., Feldmann F., Schwarz B., Meade-White K., Porter D. P., Schulz J., van Doremalen N., Leighton I., Kwe Yinda C., Perez-Perez L., Okumura A., Lovaglio J., Hanley P. W., Saturday G., Bosio C. M., Anzick S., Barbian K., Cihlar T., Martens C., Scott D. P., Munster V. J., de Wit E., Clinical benefit of remdesivir in rhesus macaques infected with SARS-CoV-2.
+bioRxiv, (2020).10.1101/2020.04.15.043166
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/2020.04.15.043166</ArticleId>
+            <ArticleId IdType="pmc">PMC7486271</ArticleId>
+            <ArticleId IdType="pubmed">32516797</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Owen D. R., Allerton C. M. N., Anderson A. S., Aschenbrenner L., Avery M., Berritt S., Boras B., Cardin R. D., Carlo A., Coffman K. J., Dantonio A., Di L., Eng H., Ferre R., Gajiwala K. S., Gibson S. A., Greasley S. E., Hurst B. L., Kadar E. P., Kalgutkar A. S., Lee J. C., Lee J., Liu W., Mason S. W., Noell S., Novak J. J., Obach R. S., Ogilvie K., Patel N. C., Pettersson M., Rai D. K., Reese M. R., Sammons M. F., Sathish J. G., Singh R. S. P., Steppan C. M., Stewart A. E., Tuttle J. B., Updyke L., Verhoest P. R., Wei L., Yang Q., Zhu Y., An Oral SARS-CoV-2 M&lt;sup&gt;pro&lt;/sup&gt; Inhibitor Clinical Candidate for the Treatment of COVID-19.
+medRxiv, 2021.2007.2028.21261232 (2021).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">34726479</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Good S. S., Westover J., Jung K. H., Zhou X. J., Moussa A., La Colla P., Collu G., Canard B., Sommadossi J. P., AT-527, a Double Prodrug of a Guanosine Nucleotide Analog, Is a Potent Inhibitor of SARS-CoV-2 In Vitro and a Promising Oral Antiviral for Treatment of COVID-19. Antimicrob. Agents Chemother.
+65, e02479-20 (2021). 10.1128/AAC.02479-20
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/AAC.02479-20</ArticleId>
+            <ArticleId IdType="pmc">PMC8097421</ArticleId>
+            <ArticleId IdType="pubmed">33558299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Pruijssers A. J., George A. S., Schäfer A., Leist S. R., Gralinksi L. E., Dinnon K. H. 3rd, Yount B. L., Agostini M. L., Stevens L. J., Chappell J. D., Lu X., Hughes T. M., Gully K., Martinez D. R., Brown A. J., Graham R. L., Perry J. K., Du Pont V., Pitts J., Ma B., Babusis D., Murakami E., Feng J. Y., Bilello J. P., Porter D. P., Cihlar T., Baric R. S., Denison M. R., Sheahan T. P., Remdesivir Inhibits SARS-CoV-2 in Human Lung Cells and Chimeric SARS-CoV Expressing the SARS-CoV-2 RNA Polymerase in Mice. Cell Rep.
+32, 107940 (2020). 10.1016/j.celrep.2020.107940
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.celrep.2020.107940</ArticleId>
+            <ArticleId IdType="pmc">PMC7340027</ArticleId>
+            <ArticleId IdType="pubmed">32668216</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mackman R. L., Hui H. C., Perron M., Murakami E., Palmiotti C., Lee G., Stray K., Zhang L., Goyal B., Chun K., Byun D., Siegel D., Simonovich S., Du Pont V., Pitts J., Babusis D., Vijjapurapu A., Lu X., Kim C., Zhao X., Chan J., Ma B., Lye D., Vandersteen A., Wortman S., Barrett K. T., Toteva M., Jordan R., Subramanian R., Bilello J. P., Cihlar T., Prodrugs of a 1′-CN-4-Aza-7,9-dideazaadenosine C-Nucleoside Leading to the Discovery of Remdesivir (GS-5734) as a Potent Inhibitor of Respiratory Syncytial Virus with Efficacy in the African Green Monkey Model of RSV. J. Med. Chem.
+64, 5001–5017 (2021). 10.1021/acs.jmedchem.1c00071
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/acs.jmedchem.1c00071</ArticleId>
+            <ArticleId IdType="pubmed">33835812</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Hou Y. J., Okuda K., Edwards C. E., Martinez D. R., Asakura T., Dinnon K. H. 3rd, Kato T., Lee R. E., Yount B. L., Mascenik T. M., Chen G., Olivier K. N., Ghio A., Tse L. V., Leist S. R., Gralinski L. E., Schäfer A., Dang H., Gilmore R., Nakano S., Sun L., Fulcher M. L., Livraghi-Butrico A., Nicely N. I., Cameron M., Cameron C., Kelvin D. J., de Silva A., Margolis D. M., Markmann A., Bartelt L., Zumwalt R., Martinez F. J., Salvatore S. P., Borczuk A., Tata P. R., Sontake V., Kimple A., Jaspers I., O’Neal W. K., Randell S. H., Boucher R. C., Baric R. S., SARS-CoV-2 Reverse Genetics Reveals a Variable Infection Gradient in the Respiratory Tract. Cell
+182, 429–446.e14 (2020). 10.1016/j.cell.2020.05.042
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2020.05.042</ArticleId>
+            <ArticleId IdType="pmc">PMC7250779</ArticleId>
+            <ArticleId IdType="pubmed">32526206</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Xie X., Muruato A. E., Zhang X., Lokugamage K. G., Fontes-Garfias C. R., Zou J., Liu J., Ren P., Balakrishnan M., Cihlar T., Tseng C. K., Makino S., Menachery V. D., Bilello J. P., Shi P. Y., A nanoluciferase SARS-CoV-2 for rapid neutralization testing and screening of anti-infective drugs for COVID-19. Nat. Commun.
+11, 5214 (2020). 10.1038/s41467-020-19055-7
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-020-19055-7</ArticleId>
+            <ArticleId IdType="pmc">PMC7567097</ArticleId>
+            <ArticleId IdType="pubmed">33060595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Leist S. R., Dinnon K. H. 3rd, Schäfer A., Tse L. V., Okuda K., Hou Y. J., West A., Edwards C. E., Sanders W., Fritch E. J., Gully K. L., Scobey T., Brown A. J., Sheahan T. P., Moorman N. J., Boucher R. C., Gralinski L. E., Montgomery S. A., Baric R. S., A Mouse-Adapted SARS-CoV-2 Induces Acute Lung Injury and Mortality in Standard Laboratory Mice. Cell
+183, 1070–1085.e12 (2020). 10.1016/j.cell.2020.09.050
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2020.09.050</ArticleId>
+            <ArticleId IdType="pmc">PMC7510428</ArticleId>
+            <ArticleId IdType="pubmed">33031744</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Cox R. M., Wolf J. D., Lieber C. M., Sourimant J., Lin M. J., Babusis D., DuPont V., Chan J., Barrett K. T., Lye D., Kalla R., Chun K., Mackman R. L., Ye C., Cihlar T., Martinez-Sobrido L., Greninger A. L., Bilello J. P., Plemper R. K., Oral prodrug of remdesivir parent GS-441524 is efficacious against SARS-CoV-2 in ferrets. Nat. Commun.
+12, 6415 (2021). 10.1038/s41467-021-26760-4
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41467-021-26760-4</ArticleId>
+            <ArticleId IdType="pmc">PMC8571282</ArticleId>
+            <ArticleId IdType="pubmed">34741049</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Agostini M. L., Andres E. L., Sims A. C., Graham R. L., Sheahan T. P., Lu X., Smith E. C., Case J. B., Feng J. Y., Jordan R., Ray A. S., Cihlar T., Siegel D., Mackman R. L., Clarke M. O., Baric R. S., Denison M. R., Coronavirus Susceptibility to the Antiviral Remdesivir (GS-5734) Is Mediated by the Viral Polymerase and the Proofreading Exoribonuclease. mBio
+9, e00221-18 (2018). 10.1128/mBio.00221-18
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/mBio.00221-18</ArticleId>
+            <ArticleId IdType="pmc">PMC5844999</ArticleId>
+            <ArticleId IdType="pubmed">29511076</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Szemiel A. M., Merits A., Orton R. J., MacLean O. A., Pinto R. M., Wickenhagen A., Lieber G., Turnbull M. L., Wang S., Furnon W., Suarez N. M., Mair D., da Silva Filipe A., Willett B. J., Wilson S. J., Patel A. H., Thomson E. C., Palmarini M., Kohl A., Stewart M. E., In vitro selection of Remdesivir resistance suggests evolutionary predictability of SARS-CoV-2. PLOS Pathog.
+17, e1009929 (2021). 10.1371/journal.ppat.1009929
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1009929</ArticleId>
+            <ArticleId IdType="pmc">PMC8496873</ArticleId>
+            <ArticleId IdType="pubmed">34534263</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Graham R. L., Donaldson E. F., Baric R. S., A decade after SARS: Strategies for controlling emerging coronaviruses. Nat. Rev. Microbiol.
+11, 836–848 (2013). 10.1038/nrmicro3143
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrmicro3143</ArticleId>
+            <ArticleId IdType="pmc">PMC5147543</ArticleId>
+            <ArticleId IdType="pubmed">24217413</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Rosenbaum L., Escaping Catch-22 - Overcoming Covid Vaccine Hesitancy. N. Engl. J. Med.
+384, 1367–1371 (2021). 10.1056/NEJMms2101220
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1056/NEJMms2101220</ArticleId>
+            <ArticleId IdType="pubmed">33577150</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Adhikari B., Cheah P. Y., Vaccine hesitancy in the COVID-19 era. Lancet Infect. Dis.
+21, 1086 (2021). 10.1016/S1473-3099(21)00390-X
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1473-3099(21)00390-X</ArticleId>
+            <ArticleId IdType="pmc">PMC8248943</ArticleId>
+            <ArticleId IdType="pubmed">34217431</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wang Z., Schmidt F., Weisblum Y., Muecksch F., Barnes C. O., Finkin S., Schaefer-Babajew D., Cipolla M., Gaebler C., Lieberman J. A., Oliveira T. Y., Yang Z., Abernathy M. E., Huey-Tubman K. E., Hurley A., Turroja M., West K. A., Gordon K., Millard K. G., Ramos V., Da Silva J., Xu J., Colbert R. A., Patel R., Dizon J., Unson-O’Brien C., Shimeliovich I., Gazumyan A., Caskey M., Bjorkman P. J., Casellas R., Hatziioannou T., Bieniasz P. D., Nussenzweig M. C., mRNA vaccine-elicited antibodies to SARS-CoV-2 and circulating variants. Nature
+592, 616–622 (2021). 10.1038/s41586-021-03324-6
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-021-03324-6</ArticleId>
+            <ArticleId IdType="pmc">PMC8503938</ArticleId>
+            <ArticleId IdType="pubmed">33567448</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Brown A. J., Won J. J., Graham R. L., Dinnon K. H. 3rd, Sims A. C., Feng J. Y., Cihlar T., Denison M. R., Baric R. S., Sheahan T. P., Broad spectrum antiviral remdesivir inhibits human endemic and zoonotic deltacoronaviruses with a highly divergent RNA dependent RNA polymerase. Antiviral Res.
+169, 104541 (2019). 10.1016/j.antiviral.2019.104541
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.antiviral.2019.104541</ArticleId>
+            <ArticleId IdType="pmc">PMC6699884</ArticleId>
+            <ArticleId IdType="pubmed">31233808</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Harvey W. T., Carabelli A. M., Jackson B., Gupta R. K., Thomson E. C., Harrison E. M., Ludden C., Reeve R., Rambaut A., Peacock S. J., Robertson D. L.; COVID-19 Genomics UK (COG-UK) Consortium , SARS-CoV-2 variants, spike mutations and immune escape. Nat. Rev. Microbiol.
+19, 409–424 (2021). 10.1038/s41579-021-00573-0
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41579-021-00573-0</ArticleId>
+            <ArticleId IdType="pmc">PMC8167834</ArticleId>
+            <ArticleId IdType="pubmed">34075212</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Montefiori D. C., Acharya P., SnapShot: SARS-CoV-2 antibodies. Cell Host Microbe
+29, 1162–1162.e1 (2021). 10.1016/j.chom.2021.06.005
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.chom.2021.06.005</ArticleId>
+            <ArticleId IdType="pmc">PMC8279512</ArticleId>
+            <ArticleId IdType="pubmed">34265246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Martin R., Li J., Parvangada A., Perry J., Cihlar T., Mo H., Porter D., Svarovskaia E., Genetic conservation of SARS-CoV-2 RNA replication complex in globally circulating isolates and recently emerged variants from humans and minks suggests minimal pre-existing resistance to remdesivir. Antiviral Res.
+188, 105033 (2021). 10.1016/j.antiviral.2021.105033
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.antiviral.2021.105033</ArticleId>
+            <ArticleId IdType="pmc">PMC7862048</ArticleId>
+            <ArticleId IdType="pubmed">33549572</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>E. B. Hodcroft, “CoVariants: SARS-CoV-2 Mutations and Variants of Interest.” (2021). </Citation>
+        </Reference>
+        <Reference>
+          <Citation>
+Uehara T., Hayden F. G., Kawaguchi K., Omoto S., Hurt A. C., De Jong M. D., Hirotsu N., Sugaya N., Lee N., Baba K., Shishido T., Tsuchiya K., Portsmouth S., Kida H., Treatment-Emergent Influenza Variant Viruses With Reduced Baloxavir Susceptibility: Impact on Clinical and Virologic Outcomes in Uncomplicated Influenza. J. Infect. Dis.
+221, 346–355 (2020). 
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31309975</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Liu Y., Yan L. M., Wan L., Xiang T. X., Le A., Liu J. M., Peiris M., Poon L. L. M., Zhang W., Viral dynamics in mild and severe cases of COVID-19. Lancet Infect. Dis.
+20, 656–657 (2020). 10.1016/S1473-3099(20)30232-2
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S1473-3099(20)30232-2</ArticleId>
+            <ArticleId IdType="pmc">PMC7158902</ArticleId>
+            <ArticleId IdType="pubmed">32199493</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zheng S., Fan J., Yu F., Feng B., Lou B., Zou Q., Xie G., Lin S., Wang R., Yang X., Chen W., Wang Q., Zhang D., Liu Y., Gong R., Ma Z., Lu S., Xiao Y., Gu Y., Zhang J., Yao H., Xu K., Lu X., Wei G., Zhou J., Fang Q., Cai H., Qiu Y., Sheng J., Chen Y., Liang T., Viral load dynamics and disease severity in patients infected with SARS-CoV-2 in Zhejiang province, China, January-March 2020: Retrospective cohort study. BMJ
+369, m1443 (2020). 10.1136/bmj.m1443
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1136/bmj.m1443</ArticleId>
+            <ArticleId IdType="pmc">PMC7190077</ArticleId>
+            <ArticleId IdType="pubmed">32317267</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zhou F., Yu T., Du R., Fan G., Liu Y., Liu Z., Xiang J., Wang Y., Song B., Gu X., Guan L., Wei Y., Li H., Wu X., Xu J., Tu S., Zhang Y., Chen H., Cao B., Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: A retrospective cohort study. Lancet
+395, 1054–1062 (2020). 10.1016/S0140-6736(20)30566-3
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0140-6736(20)30566-3</ArticleId>
+            <ArticleId IdType="pmc">PMC7270627</ArticleId>
+            <ArticleId IdType="pubmed">32171076</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Hou Y. J., Chiba S., Halfmann P., Ehre C., Kuroda M., Dinnon K. H. 3rd, Leist S. R., Schafer A., Nakajima N., Takahashi K., Lee R. E., Mascenik T. M., Edwards C. E., Tse L. V., Boucher R. C., Randell S. H., Suzuki T., Gralinski L. E., Kawaoka Y., Baric R. S., SARS-CoV-2 D614G Variant Exhibits Enhanced Replication ex vivo and Earlier Transmission in vivo.
+bioRxiv, (2020).10.1101/2020.09.28.317685
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/2020.09.28.317685</ArticleId>
+            <ArticleId IdType="pmc">PMC7775736</ArticleId>
+            <ArticleId IdType="pubmed">33184236</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Li C., Bankhead A. 3rd, Eisfeld A. J., Hatta Y., Jeng S., Chang J. H., Aicher L. D., Proll S., Ellis A. L., Law G. L., Waters K. M., Neumann G., Katze M. G., McWeeney S., Kawaoka Y., Host regulatory network response to infection with highly pathogenic H5N1 avian influenza virus. J. Virol.
+85, 10955–10967 (2011). 10.1128/JVI.05792-11
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1128/JVI.05792-11</ArticleId>
+            <ArticleId IdType="pmc">PMC3194976</ArticleId>
+            <ArticleId IdType="pubmed">21865398</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Lu X., Wang L., Sakthivel S. K., Whitaker B., Murray J., Kamili S., Lynch B., Malapati L., Burke S. A., Harcourt J., Tamin A., Thornburg N. J., Villanueva J. M., Lindstrom S., US CDC Real-Time Reverse Transcription PCR Panel for Detection of Severe Acute Respiratory Syndrome Coronavirus 2. Emerg. Infect. Dis.
+26, 1654–1665 (2020). 10.3201/eid2608.201246
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3201/eid2608.201246</ArticleId>
+            <ArticleId IdType="pmc">PMC7392423</ArticleId>
+            <ArticleId IdType="pubmed">32396505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

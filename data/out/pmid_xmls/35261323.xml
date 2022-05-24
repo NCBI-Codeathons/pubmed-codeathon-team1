@@ -1,0 +1,560 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM" IndexingMethod="Automated">
+      <PMID Version="1">35261323</PMID>
+      <DateCompleted>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>21</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>03</Month>
+        <Day>21</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1365-2060</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>54</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Annals of medicine</Title>
+          <ISOAbbreviation>Ann Med</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Exhaled metabolic markers and relevant dysregulated pathways of lung cancer: a pilot study.</ArticleTitle>
+        <Pagination>
+          <StartPage>790</StartPage>
+          <EndPage>802</EndPage>
+          <MedlinePgn>790-802</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1080/07853890.2022.2048064</ELocationID>
+        <Abstract>
+          <AbstractText Label="INTRODUCTION">The clinical application of lung cancer detection based on breath test is still challenging due to lack of predictive molecular markers in exhaled breath. This study explored potential lung cancer biomarkers and their related pathways using a typical process for metabolomics investigation.</AbstractText>
+          <AbstractText Label="MATERIAL AND METHODS">Breath samples from 60 lung cancer patients and 176 healthy people were analyzed by GC-MS. The original data were GC-MS peak intensity removing background signal. Differential metabolites were selected after univariate statistical analysis and multivariate statistical analysis based on OPLS-DA and Spearman rank correlation analysis. A multivariate PLS-DA model was established based on differential metabolites for pattern recognition. Subsequently, pathway enrichment analysis was performed on differential metabolites.</AbstractText>
+          <AbstractText Label="RESULTS">The discriminant capability was assessed by ROC curve of whom the average AUC and average accuracy in 100-fold cross validations were 0.871 and 0.787, respectively. Eight potential biomarkers were involved in a total of 18 metabolic pathways. Among them, 11 metabolic pathways have <i>p</i>-value smaller than .1.</AbstractText>
+          <AbstractText Label="DISCUSSION">Some pathways among them are related to risk factors or therapies of lung cancer. However, more of them are dysregulated pathways of lung cancer reported in studies based on genome or transcriptome data.</AbstractText>
+          <AbstractText Label="CONCLUSION">We believe that it opens the possibility of using metabolomics methods to analyze data of exhaled breath and promotes involvement of knowledge dataset to cover more volatile metabolites.</AbstractText>
+          <AbstractText Label="CLINICAL SIGNIFICANCE">Although a series of related research reported diagnostic models with highly sensitive and specific prediction, the clinical application of lung cancer detection based on breath test is still challenging due to disease heterogeneity and lack of predictive molecular markers in exhaled breath. This study may promote the clinical application of this technique which is suitable for large-scale screening thanks to its low-cost and non-invasiveness. As a result, the mortality of lung cancer may be decreased in future.Key messagesIn the present study, 11 pathways involving 8 potential biomarkers were discovered to be dysregulated pathways of lung cancer.We found that it is possible to apply metabolomics methods in analysis of data from breath test, which is meaningful to discover convinced volatile markers with definite pathological and histological significance.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Zou</LastName>
+            <ForeName>Yingchang</ForeName>
+            <Initials>Y</Initials>
+            <Identifier Source="ORCID">0000-0001-5253-8273</Identifier>
+            <AffiliationInfo>
+              <Affiliation>School of Electronic Information and Electrical Engineering, Changsha University, Changsha, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Hunan Engineering Technology Research Center of Optoelectronic Health Detection, Changsha, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Yanjie</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Medicine, Zhejiang Sir Run Run Shaw Hospital, Zhejiang University, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jiang</LastName>
+            <ForeName>Zaile</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>Tianhe Culture Chain Technologies Co Ltd, Changsha, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Ying</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Electronic Information and Electrical Engineering, Changsha University, Changsha, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhou</LastName>
+            <ForeName>Yuan</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Electronic Information and Electrical Engineering, Changsha University, Changsha, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Zhiyou</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Electronic Information and Electrical Engineering, Changsha University, Changsha, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Hunan Engineering Technology Research Center of Optoelectronic Health Detection, Changsha, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wang</LastName>
+            <ForeName>Yu</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Zhijiang Lab, Research Center for Healthcare Data Science, Hangzhou, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jiang</LastName>
+            <ForeName>Guobao</ForeName>
+            <Initials>G</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Electronic Information and Electrical Engineering, Changsha University, Changsha, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Tan</LastName>
+            <ForeName>Zhiguang</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Electronic Information and Electrical Engineering, Changsha University, Changsha, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Hu</LastName>
+            <ForeName>Fangrong</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Electronic Information and Electrical Engineering, Changsha University, Changsha, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Hunan Engineering Technology Research Center of Optoelectronic Health Detection, Changsha, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Ann Med</MedlineTA>
+        <NlmUniqueID>8906388</NlmUniqueID>
+        <ISSNLinking>0785-3890</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+          <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D001944" MajorTopicYN="N">Breath Tests</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008401" MajorTopicYN="N">Gas Chromatography-Mass Spectrometry</DescriptorName>
+          <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008175" MajorTopicYN="Y">Lung Neoplasms</DescriptorName>
+          <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010865" MajorTopicYN="N">Pilot Projects</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">Exhaled metabolic markers</Keyword>
+        <Keyword MajorTopicYN="Y">lung cancer</Keyword>
+        <Keyword MajorTopicYN="Y">metabolomics</Keyword>
+        <Keyword MajorTopicYN="Y">pathway enrichment</Keyword>
+        <Keyword MajorTopicYN="Y">volatile organic compounds</Keyword>
+      </KeywordList>
+      <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>9</Day>
+          <Hour>8</Hour>
+          <Minute>42</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>10</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35261323</ArticleId>
+        <ArticleId IdType="pmc">PMC8920387</ArticleId>
+        <ArticleId IdType="doi">10.1080/07853890.2022.2048064</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Bray F, Ferlay J, Soerjomataram I, et al. . 
+Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2018;68(6):394–424.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30207593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Siegel RL, Miller KD, Jemal A.. 
+Cancer statistics, 2016. CA Cancer J Clin. 2016;66(1):7–30.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26742998</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rudnicka J, Kowalkowski T, Buszewski B.. 
+Searching for selected VOCs in human breath samples as potential markers of lung cancer. Lung Cancer. 2019;135:123–129.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31446984</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Tsou P-H, Lin Z-L, Pan Y-C, et al. . 
+Exploring volatile organic compounds in breath for high-accuracy prediction of lung cancer. Cancers. 2021;13(6):1431.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC8003836</ArticleId>
+            <ArticleId IdType="pubmed">33801001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen X, Muhammad KG, Madeeha C, et al. . 
+Calculated indices of volatile organic compounds (VOCs) in exhalation for lung cancer screening and early detection. Lung Cancer. 2021;154:197–205.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33653598</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ratiu IA, Ligor T, Bocos-Bintintan V, et al. . 
+Volatile organic compounds in exhaled breath as fingerprints of lung cancer, asthma and COPD. JCM. 2020;10(1):32.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7796324</ArticleId>
+            <ArticleId IdType="pubmed">33374433</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Janssens E, van Meerbeeck JP, Lamote KJCRiOH.. 
+Volatile organic compounds in human matrices as lung cancer biomarkers: a systematic review. Crit Rev Oncol/Hematol. 2020;153:103037.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">32771940</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gordon SM, Szidon JP, Krotoszynski BK, et al. . 
+Volatile organic compounds in exhaled air from patients with lung cancer. Clin Chem. 1985;31(8):1278–1282.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">4017231</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Amin AM, Mostafa H, Arif NH, et al. . 
+Metabolomics profiling and pathway analysis of human plasma and urine reveal further insights into the multifactorial nature of coronary artery disease. Clin Chim Acta. 2019;493:112–122.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30826371</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Liu X, Zhang M, Liu X, et al. . 
+Urine metabolomics for renal cell carcinoma (RCC) prediction: tryptophan metabolism as an important pathway in RCC. Front Oncol. 2019;9:663.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6653643</ArticleId>
+            <ArticleId IdType="pubmed">31380290</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Suarez-Diez M, Adam J, Adamski J, et al. . 
+Plasma and serum metabolite association networks: comparability within and between studies using NMR and MS profiling. J Proteome Res. 2017;16(7):2547–2559.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5645760</ArticleId>
+            <ArticleId IdType="pubmed">28517934</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jasbi P, Wang D, Cheng SL, et al. . 
+Breast cancer detection using targeted plasma metabolomics. J Chromatogr B Analyt Technol Biomed Life Sci. 2019;1105:26–37.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30562627</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vander Heiden M, Lunt SY, Dayton TL, et al. Metabolic pathway alterations that support cell proliferation. In: Cold Spring Harbor symposia on quantitative biology. Cold Spring Harbor: Cold Spring Harbor Laboratory Press; 2011.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22262476</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gonzalez-Riano C, Garcia A, Barbas C.. 
+Metabolomics studies in brain tissue: a review. J Pharm Biomed Anal. 2016;130:141–168.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27451335</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zou Y, Wang Y, Jiang Z, et al. . 
+Breath profile as composite biomarkers for lung cancer diagnosis. Lung Cancer. 2021;154:206–213.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">33563485</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wishart DS, Feunang YD, Marcu A, et al. . 
+HMDB 4.0: the human metabolome database for 2018. Nucleic Acids Res. 2018;46(D1):D608–D617.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5753273</ArticleId>
+            <ArticleId IdType="pubmed">29140435</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li W.
+Volcano plots in analyzing differential expressions with mRNA microarrays. J Bioinform Comput Biol. 2012;10(6):1231003.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23075208</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Källén B.
+Statistics for dummies. In: Drugs during pregnancy. New York, NY: Springer; 2016. p. 77–87.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>El Gaafary M, Hafner S, Lang SJ, et al. . 
+A novel polyhalogenated monoterpene induces cell cycle arrest and apoptosis in breast cancer cells. Mar Drugs. 2019;17(8):437.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6723102</ArticleId>
+            <ArticleId IdType="pubmed">31349625</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ponomarev KY, Suslov EV, Zakharenko AL, et al. . 
+Aminoadamantanes containing monoterpene-derived fragments as potent tyrosyl-DNA phosphodiesterase 1 inhibitors. Bioorg Chem. 2018;76:392–399.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29248742</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Qiu D, Zhou M, Chen J, et al. . 
+Hyperelodiones AC, monoterpenoid polyprenylated acylphoroglucinols from hypericum elodeoides, induce cancer cells apoptosis by targeting RXRα. Phytochemistry. 2020;170:112216.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31841782</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trang DT, Hoang TKV, Nguyen TTM, et al. . 
+Essential oils of lemongrass (Cymbopogon citratus Stapf) induces apoptosis and cell cycle arrest in A549 lung cancer cells. Biomed Res Int. 2020;2020:5924856.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7201560</ArticleId>
+            <ArticleId IdType="pubmed">32420353</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Galan DM, Ezeudu NE, Garcia J, et al. . 
+Eucalyptol (1, 8-cineole): an underutilized ally in respiratory disorders?
+J Essent Oil Res. 2020;32(2):103–110.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Sultana S,  Khan A, Safhi MM, et al. Cough suppressant herbal drugs: a review. Int J Pharm Sci Invent. 2016;5(5):15–28.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Brooks DR, Palmer JR, Strom BL, et al. . 
+Menthol cigarettes and risk of lung cancer. Am J Epidemiol. 2003;158(7):609–616.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14507595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blot WJ, Cohen SS, Aldrich M, et al. . 
+Lung cancer risk among smokers of menthol cigarettes. J Natl Cancer Inst. 2011;103(10):810–816.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3096798</ArticleId>
+            <ArticleId IdType="pubmed">21436064</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gaida A, Holz O, Nell C, et al. . 
+A dual center study to compare breath volatile organic compounds from smokers and non-smokers with and without COPD. J Breath Res. 2016;10(2):026006.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27082437</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gérin M, Siemiatycki J, Désy M, et al. . 
+Associations between several sites of cancer and occupational exposure to benzene, toluene, xylene, and styrene: results of a case–control study in Montreal. Am J Ind Med. 1998;34(2):144–156.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9651624</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Warden H, Richardson H, Richardson L, et al. . 
+Associations between occupational exposure to benzene, toluene and xylene and risk of lung cancer in Montréal. Occup Environ Med. 2018;75(10):696–702.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29764994</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gashimova E, Temerdashev A, Porkhanov V, et al. . 
+Investigation of different approaches for exhaled breath and tumor tissue analyses to identify lung cancer biomarkers. Heliyon. 2020;6(6):e04224.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC7305397</ArticleId>
+            <ArticleId IdType="pubmed">32577579</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O'Neill HJ, Gordon SM, O'Neill MH, et al. . 
+A computerized classification technique for screening for the presence of breath biomarkers in lung cancer. Clin Chem. 1988;34(8):1613–1618.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">3042190</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Poli D, Carbognani P, Corradi M, et al. . 
+Exhaled volatile organic compounds in patients with non-small cell lung cancer: cross sectional and nested short-term follow-up study. Respir Res. 2005;6(1):71–10.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1185565</ArticleId>
+            <ArticleId IdType="pubmed">16018807</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Song G, Qin T, Liu H, et al. . 
+Quantitative breath analysis of volatile organic compounds of lung cancer patients. Lung Cancer. 2010;67(2):227–231.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19409642</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Corradi M, Poli D, Banda I, et al. . 
+Exhaled breath analysis in suspected cases of non-small-cell lung cancer: a cross-sectional study. J Breath Res. 2015;9(2):027101.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25634546</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kamissoko A, Carré V, Schramm S, et al. . 
+Study of the mainstream cigarette smoke aerosols by Fourier transform ion cyclotron resonance mass spectrometry coupled to laser/desorption and electrospray ionization – additional insights on the heteroaromatic components. Rapid Commun Mass Spectrom. 2019;33(S1):95–108.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">30440095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Wu F, Yin Z, Yang L, et al. . 
+Smoking induced extracellular vesicles release and their distinct properties in non-small cell lung cancer. J Cancer. 2019;10(15):3435–3443.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6603414</ArticleId>
+            <ArticleId IdType="pubmed">31293647</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bao L, Zhang Y, Wang J, et al. . 
+Variations of chromosome 2 gene expressions among patients with lung cancer or non-cancer. Cell Biol Toxicol. 2016;32(5):419–435.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27301951</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Chen C, Fu X, Zhang D, et al. . 
+Varied pathways of stage IA lung adenocarcinomas discovered by integrated gene expression analysis. Int J Biol Sci. 2011;7(5):551–566.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3088877</ArticleId>
+            <ArticleId IdType="pubmed">21552421</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Asgari Y, Khosravi P, Zabihinpour Z, et al. . 
+Exploring candidate biomarkers for lung and prostate cancers using gene expression and flux variability analysis. Integr Biol (Camb). 2018;10(2):113–120.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">29349465</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lim YW, Evangelista JS, Schmieder R, et al. . 
+Clinical insights from metagenomic analysis of sputum samples from patients with cystic fibrosis. J Clin Microbiol. 2014;52(2):425–437.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC3911355</ArticleId>
+            <ArticleId IdType="pubmed">24478471</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Koukourakis MI, Giatromanolaki A, Sivridis E, Tumor and Angiogenesis Research Group, et al.. 
+Pyruvate dehydrogenase and pyruvate dehydrogenase kinase expression in non small cell lung cancer and tumor-associated stroma. Neoplasia. 2005;7(1):1–6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC1490315</ArticleId>
+            <ArticleId IdType="pubmed">15736311</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sellers K, Fox MP, Bousamra M, et al. . 
+Pyruvate carboxylase is critical for non-small-cell lung cancer proliferation . J Clin Invest. 2015;125(2):687–698.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4319441</ArticleId>
+            <ArticleId IdType="pubmed">25607840</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Feng H-M, Zhao Y, Zhang J-P, et al. . 
+Expression and potential mechanism of metabolism-related genes and CRLS1 in non-small cell lung cancer. Oncol Lett. 2018;15(2):2661–2668.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5777290</ArticleId>
+            <ArticleId IdType="pubmed">29434989</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kumar N, Shahjaman M, Mollah MNH, Bioinformatics Lab, Department of Statistics, Rajshahi University, Rajshahi, Bangladesh, et al.. 
+Serum and plasma metabolomic biomarkers for lung cancer. Bioinformation. 2017;13(06):202–208.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC5512859</ArticleId>
+            <ArticleId IdType="pubmed">28729763</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Campanella A, De Summa S, Tommasi S.. 
+Exhaled breath condensate biomarkers for lung cancer. J Breath Res. 2019;13(4):044002.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31282387</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zou Y, Wang L, Zhao C, et al. . 
+CEA, SCC and NSE levels in exhaled breath condensate—possible markers for early detection of lung cancer. J Breath Res. 2013;7(4):047101.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24185583</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bikov A, Hernadi M, Zita Korosi B, et al. . 
+Expiratory flow rate, breath hold and anatomic dead space influence electronic nose ability to detect lung cancer. BMC Pulmonary Med. 2014;14(1):1–9.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC4289562</ArticleId>
+            <ArticleId IdType="pubmed">25510554</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

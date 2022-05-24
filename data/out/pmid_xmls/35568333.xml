@@ -1,0 +1,174 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">35568333</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>14</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1567-7257</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>11</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases</Title>
+          <ISOAbbreviation>Infect Genet Evol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Engineering a novel immunogenic chimera protein utilizing bacterial infections associated with atherosclerosis to induce a deviation in adaptive immune responses via Immunoinformatics approaches.</ArticleTitle>
+        <Pagination>
+          <StartPage>105290</StartPage>
+          <MedlinePgn>105290</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.meegid.2022.105290</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S1567-1348(22)00087-9</ELocationID>
+        <Abstract>
+          <AbstractText>Recent studies have established the role of bacteria including Streptococcus pneumoniae, Helicobacter pylori, Chlamydia pneumonia, Mycobacterium tuberculosis, and Porphyromonas gingivalis in the development of atherosclerosis. These bacteria contribute to plaque formation via promoting Th1 immune responses and speeding up ox-LDL formation. Hence, we employed computational reverse vaccinology (RV) approaches to deviate immune response toward Th2 via engineering a novel immunogenic chimera protein. Prominent atherogenic antigens from related bacteria were identified. Then, machine learning-based servers were employed for predicting CTL and HTL epitopes. We selected epitopes from a wide variety of HLAs. Then, a chimeric protein sequence containing TAT peptide, adjuvant, IL-10 inducer, and linker-separated epitopes was designed. The conformational structure of the vaccine was built via multiple-template homology modelling using MODELLER. The initial structure was refined and validated by Ramachandran plot. The vaccine was also docked with TLR4. After that, molecular dynamics (MD) simulation of the docked vaccine-TLR4 was conducted. Finally, the immune simulation of the vaccine was conducted via the C-ImmSim server. A chimera protein with 629 amino acids was built and, classified as a non-allergenic probable antigen. An improved ERRAT score of 80.95 for the refined structure verified its stability. Additionally, validation via the Ramachandran plot showed 98.09% of the residues were located in the most favorable and permitted regions. MD simulations showed the vaccine-TLR4 complex reached a stable conformation. Also, RMS fluctuations analysis revealed no sign of protein denaturation or unfolding. Finally, immune response simulations indicated a promising response by innate and adaptive immunity. In summary, we built an immunogenic vaccine against atherosclerosis and demonstrated its favorable properties via advanced Immunoinformatics analyses. This study may pave the path for combat against atherosclerosis.</AbstractText>
+          <CopyrightInformation>Copyright © 2021. Published by Elsevier B.V.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Saleki</LastName>
+            <ForeName>Kiarash</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>Student Research Committee, Babol University of Medical Sciences, Babol, Iran; USERN Office, Babol University of Medical Sciences, Babol, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Alijanizade</LastName>
+            <ForeName>Parsa</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Student Research Committee, Babol University of Medical Sciences, Babol, Iran; USERN Office, Babol University of Medical Sciences, Babol, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Moradi</LastName>
+            <ForeName>Saead</ForeName>
+            <Initials>S</Initials>
+            <AffiliationInfo>
+              <Affiliation>Student Research Committee, Babol University of Medical Sciences, Babol, Iran; USERN Office, Babol University of Medical Sciences, Babol, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Rahmani</LastName>
+            <ForeName>Abolfazl</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Student Research Committee, Babol University of Medical Sciences, Babol, Iran; USERN Office, Babol University of Medical Sciences, Babol, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Banazadeh</LastName>
+            <ForeName>Mohammad</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Pharmaceutical Sciences and Cosmetic Products Research Center, Kerman University of Medical Sciences, Kerman, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Mohamadi</LastName>
+            <ForeName>Mohamad Hosein</ForeName>
+            <Initials>MH</Initials>
+            <AffiliationInfo>
+              <Affiliation>Student Research Committee, Sabzevar University of Medical Sciences, Sabzevar, Iran.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Shahabi</LastName>
+            <ForeName>Farzad</ForeName>
+            <Initials>F</Initials>
+            <AffiliationInfo>
+              <Affiliation>School of Engineering, University of South Florida, Tampa, FL, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Nouri</LastName>
+            <ForeName>Hamid Reza</ForeName>
+            <Initials>HR</Initials>
+            <AffiliationInfo>
+              <Affiliation>USERN Office, Babol University of Medical Sciences, Babol, Iran; Cellular and Molecular Biology Research Center, Health Research Institute, Babol University of Medical Sciences, Babol, Iran; Immunoregulation Research Center, Health Research Institute, Babol University of Medical Sciences, Babol, Iran. Electronic address: h.noori@mubabol.ac.ir.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>11</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Netherlands</Country>
+        <MedlineTA>Infect Genet Evol</MedlineTA>
+        <NlmUniqueID>101084138</NlmUniqueID>
+        <ISSNLinking>1567-1348</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Adaptive immunity</Keyword>
+        <Keyword MajorTopicYN="N">Atherosclerosis</Keyword>
+        <Keyword MajorTopicYN="N">Bioinformatics</Keyword>
+        <Keyword MajorTopicYN="N">Computational immunology</Keyword>
+        <Keyword MajorTopicYN="N">Vaccine design</Keyword>
+      </KeywordList>
+      <CoiStatement>Declaration of competing interest The authors declare that the research was performed in the absence of any commercial or financial relationships that could be construed as a possible competing interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>11</Month>
+          <Day>17</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>29</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>25</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>14</Day>
+          <Hour>19</Hour>
+          <Minute>36</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>15</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35568333</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.meegid.2022.105290</ArticleId>
+        <ArticleId IdType="pii">S1567-1348(22)00087-9</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

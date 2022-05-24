@@ -1,0 +1,663 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">31341276</PMID>
+      <DateCompleted>
+        <Year>2020</Year>
+        <Month>03</Month>
+        <Day>19</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>17</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1476-4687</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>572</Volume>
+            <Issue>7769</Issue>
+            <PubDate>
+              <Year>2019</Year>
+              <Month>Aug</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nature</Title>
+          <ISOAbbreviation>Nature</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Intercellular interaction dictates cancer cell ferroptosis via NF2-YAP signalling.</ArticleTitle>
+        <Pagination>
+          <StartPage>402</StartPage>
+          <EndPage>406</EndPage>
+          <MedlinePgn>402-406</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41586-019-1426-6</ELocationID>
+        <Abstract>
+          <AbstractText>Ferroptosis, a cell death process driven by cellular metabolism and iron-dependent lipid peroxidation, has been implicated in diseases such as ischaemic organ damage and cancer<sup>1,2</sup>. The enzyme glutathione peroxidase 4 (GPX4) is a central regulator of ferroptosis, and protects cells by neutralizing lipid peroxides, which are by-products of cellular metabolism. The direct inhibition of GPX4, or indirect inhibition by depletion of its substrate glutathione or the building blocks of glutathione (such as cysteine), can trigger ferroptosis<sup>3</sup>. Ferroptosis contributes to the antitumour function of several tumour suppressors such as p53, BAP1 and fumarase<sup>4-7</sup>. Counterintuitively, mesenchymal cancer cells-which are prone to metastasis, and often resistant to various treatments-are highly susceptible to ferroptosis<sup>8,9</sup>. Here we show that ferroptosis can be regulated non-cell-autonomously by cadherin-mediated intercellular interactions. In epithelial cells, such interactions mediated by E-cadherin suppress ferroptosis by activating the intracellular NF2 (also known as merlin) and Hippo signalling pathway. Antagonizing this signalling axis allows the proto-oncogenic transcriptional co-activator YAP to promote ferroptosis by upregulating several ferroptosis modulators, including ACSL4 and TFRC. This finding provides mechanistic insights into the observations that cancer cells with mesenchymal or metastatic property are highly sensitive to ferroptosis<sup>8</sup>. Notably, a similar mechanism also modulates ferroptosis in some non-epithelial cells. Finally, genetic inactivation of the tumour suppressor NF2, a frequent tumorigenic event in mesothelioma<sup>10,11</sup>, rendered cancer cells more sensitive to ferroptosis in an orthotopic mouse model of malignant mesothelioma. Our results demonstrate the role of intercellular interactions and intracellular NF2-YAP signalling in dictating ferroptotic death, and also suggest that malignant mutations in NF2-YAP signalling could predict the responsiveness of cancer cells to future ferroptosis-inducing therapies.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Wu</LastName>
+            <ForeName>Jiao</ForeName>
+            <Initials>J</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Translational Science Center for Molecular Medicine, Department of Cell Biology, School of Basic Medicine, Air Force Medical University, Xi'an, China.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Cell Biology Program, Memorial Sloan-Kettering Cancer Center, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y" EqualContrib="Y">
+            <LastName>Minikes</LastName>
+            <ForeName>Alexander M</ForeName>
+            <Initials>AM</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cell Biology Program, Memorial Sloan-Kettering Cancer Center, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>BCMB Allied Program, Weill Cornell Graduate School of Medical Sciences, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Gao</LastName>
+            <ForeName>Minghui</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cell Biology Program, Memorial Sloan-Kettering Cancer Center, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>The HIT Center for Life Sciences, School of Life Science and Technology, Harbin Institute of Technology, Harbin, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bian</LastName>
+            <ForeName>Huijie</ForeName>
+            <Initials>H</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Translational Science Center for Molecular Medicine, Department of Cell Biology, School of Basic Medicine, Air Force Medical University, Xi'an, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Yong</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Translational Science Center for Molecular Medicine, Department of Cell Biology, School of Basic Medicine, Air Force Medical University, Xi'an, China.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Stockwell</LastName>
+            <ForeName>Brent R</ForeName>
+            <Initials>BR</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Biological Sciences, Department of Chemistry, Columbia University, New York, NY, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Chen</LastName>
+            <ForeName>Zhi-Nan</ForeName>
+            <Initials>ZN</Initials>
+            <AffiliationInfo>
+              <Affiliation>National Translational Science Center for Molecular Medicine, Department of Cell Biology, School of Basic Medicine, Air Force Medical University, Xi'an, China. znchen@fmmu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Jiang</LastName>
+            <ForeName>Xuejun</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>Cell Biology Program, Memorial Sloan-Kettering Cancer Center, New York, NY, USA. jiangx@mskcc.org.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R35 CA209896</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>P30 CA008748</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>T32 GM008539</GrantID>
+            <Acronym>GM</Acronym>
+            <Agency>NIGMS NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R01 CA204232</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>P01 CA087497</GrantID>
+            <Acronym>CA</Acronym>
+            <Agency>NCI NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2019</Year>
+          <Month>07</Month>
+          <Day>24</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Nature</MedlineTA>
+        <NlmUniqueID>0410462</NlmUniqueID>
+        <ISSNLinking>0028-0836</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D048868">Adaptor Proteins, Signal Transducing</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D015703">Antigens, CD</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C068126">CD71 antigen</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D015820">Cadherins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C000632121">NF2 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D025581">Neurofibromin 2</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D011990">Receptors, Transferrin</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D000091102">YAP-Signaling Proteins</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="C088374">YAP1 protein, human</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+          <NameOfSubstance UI="D017346">Protein Serine-Threonine Kinases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 6.2.1.-</RegistryNumber>
+          <NameOfSubstance UI="D003066">Coenzyme A Ligases</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 6.2.1.3</RegistryNumber>
+          <NameOfSubstance UI="C019143">long-chain-fatty-acid-CoA ligase</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <CommentsCorrectionsList>
+        <CommentsCorrections RefType="ErratumIn">
+          <RefSource>Nature. 2019 Aug 2;:</RefSource>
+          <PMID Version="1">31371811</PMID>
+        </CommentsCorrections>
+        <CommentsCorrections RefType="CommentIn">
+          <RefSource>Nature. 2019 Aug;572(7769):314-315</RefSource>
+          <PMID Version="1">31406306</PMID>
+        </CommentsCorrections>
+      </CommentsCorrectionsList>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D048868" MajorTopicYN="N">Adaptor Proteins, Signal Transducing</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015703" MajorTopicYN="N">Antigens, CD</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015820" MajorTopicYN="N">Cadherins</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D002452" MajorTopicYN="N">Cell Count</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D003066" MajorTopicYN="N">Coenzyme A Ligases</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D004847" MajorTopicYN="N">Epithelial Cells</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000079403" MajorTopicYN="Y">Ferroptosis</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D045325" MajorTopicYN="N">HCT116 Cells</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000090683" MajorTopicYN="N">Hippo Signaling Pathway</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008654" MajorTopicYN="N">Mesothelioma</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+          <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D025581" MajorTopicYN="N">Neurofibromin 2</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D017346" MajorTopicYN="N">Protein Serine-Threonine Kinases</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011990" MajorTopicYN="N">Receptors, Transferrin</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="Y">Signal Transduction</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014157" MajorTopicYN="N">Transcription Factors</DescriptorName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D000091102" MajorTopicYN="N">YAP-Signaling Proteins</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2018</Year>
+          <Month>11</Month>
+          <Day>7</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2019</Year>
+          <Month>6</Month>
+          <Day>27</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2019</Year>
+          <Month>7</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2020</Year>
+          <Month>3</Month>
+          <Day>20</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2019</Year>
+          <Month>7</Month>
+          <Day>26</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">31341276</ArticleId>
+        <ArticleId IdType="mid">NIHMS1533155</ArticleId>
+        <ArticleId IdType="pmc">PMC6697195</ArticleId>
+        <ArticleId IdType="doi">10.1038/s41586-019-1426-6</ArticleId>
+        <ArticleId IdType="pii">10.1038/s41586-019-1426-6</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Stockwell BR
+et al.
+Ferroptosis: A Regulated Cell Death Nexus Linking Metabolism, Redox Biology, and Disease. Cell
+171, 273–285, doi:10.1016/j.cell.2017.09.021 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2017.09.021</ArticleId>
+            <ArticleId IdType="pmc">PMC5685180</ArticleId>
+            <ArticleId IdType="pubmed">28985560</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gao M &amp; Jiang X
+To eat or not to eat-the metabolic flavor of ferroptosis. Curr Opin Cell Biol
+51, 58–64, doi:10.1016/j.ceb.2017.11.001 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ceb.2017.11.001</ArticleId>
+            <ArticleId IdType="pmc">PMC5949249</ArticleId>
+            <ArticleId IdType="pubmed">29175614</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yang WS
+et al.
+Regulation of ferroptotic cancer cell death by GPX4. Cell
+156, 317–331, doi:10.1016/j.cell.2013.12.010 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2013.12.010</ArticleId>
+            <ArticleId IdType="pmc">PMC4076414</ArticleId>
+            <ArticleId IdType="pubmed">24439385</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gao M
+et al.
+Role of Mitochondria in Ferroptosis. Mol Cell
+73, 354–363 e353, doi:10.1016/j.molcel.2018.10.042 (2019).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2018.10.042</ArticleId>
+            <ArticleId IdType="pmc">PMC6338496</ArticleId>
+            <ArticleId IdType="pubmed">30581146</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jiang L
+et al.
+Ferroptosis as a p53-mediated activity during tumour suppression. Nature
+520, 57–62, doi:10.1038/nature14344 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature14344</ArticleId>
+            <ArticleId IdType="pmc">PMC4455927</ArticleId>
+            <ArticleId IdType="pubmed">25799988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Jennis M
+et al.
+An African-specific polymorphism in the TP53 gene impairs p53 tumor suppressor function in a mouse model. Genes Dev
+30, 918–930, doi:10.1101/gad.275891.115 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.275891.115</ArticleId>
+            <ArticleId IdType="pmc">PMC4840298</ArticleId>
+            <ArticleId IdType="pubmed">27034505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y
+et al.
+BAP1 links metabolic regulation of ferroptosis to tumour suppression. Nat Cell Biol
+20, 1181–1192, doi:10.1038/s41556-018-0178-0 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41556-018-0178-0</ArticleId>
+            <ArticleId IdType="pmc">PMC6170713</ArticleId>
+            <ArticleId IdType="pubmed">30202049</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Viswanathan VS
+et al.
+Dependency of a therapy-resistant state of cancer cells on a lipid peroxidase pathway. Nature
+547, 453–457, doi:10.1038/nature23007 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature23007</ArticleId>
+            <ArticleId IdType="pmc">PMC5667900</ArticleId>
+            <ArticleId IdType="pubmed">28678785</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hangauer MJ
+et al.
+Drug-tolerant persister cancer cells are vulnerable to GPX4 inhibition. Nature
+551, 247–250, doi:10.1038/nature24297 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature24297</ArticleId>
+            <ArticleId IdType="pmc">PMC5933935</ArticleId>
+            <ArticleId IdType="pubmed">29088702</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hmeljak J
+et al.
+Integrative Molecular Characterization of Malignant Pleural Mesothelioma. Cancer Discov
+8, 1548–1565, doi:10.1158/2159-8290.CD-18-0804 (2018).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1158/2159-8290.CD-18-0804</ArticleId>
+            <ArticleId IdType="pmc">PMC6310008</ArticleId>
+            <ArticleId IdType="pubmed">30322867</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bueno R
+et al.
+Comprehensive genomic analysis of malignant pleural mesothelioma identifies recurrent mutations, gene fusions and splicing alterations. Nat Genet
+48, 407–416, doi:10.1038/ng.3520 (2016).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/ng.3520</ArticleId>
+            <ArticleId IdType="pubmed">26928227</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Seiler A
+et al.
+Glutathione peroxidase 4 senses and translates oxidative stress into 12/15-lipoxygenase dependent- and AIF-mediated cell death. Cell Metab
+8, 237–248, doi:10.1016/j.cmet.2008.07.005 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cmet.2008.07.005</ArticleId>
+            <ArticleId IdType="pubmed">18762024</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schneider M
+et al.
+Absence of glutathione peroxidase 4 affects tumor angiogenesis through increased 12/15-lipoxygenase activity. Neoplasia
+12, 254–263 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC2838443</ArticleId>
+            <ArticleId IdType="pubmed">20234819</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Gao M, Monian P, Quadri N, Ramasamy R &amp; Jiang X
+Glutaminolysis and Transferrin Regulate Ferroptosis. Mol Cell
+59, 298–308, doi:10.1016/j.molcel.2015.06.011 (2015).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.molcel.2015.06.011</ArticleId>
+            <ArticleId IdType="pmc">PMC4506736</ArticleId>
+            <ArticleId IdType="pubmed">26166707</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>van Roy F &amp; Berx G
+The cell-cell adhesion molecule E-cadherin. Cell Mol Life Sci
+65, 3756–3788, doi:10.1007/s00018-008-8281-1 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00018-008-8281-1</ArticleId>
+            <ArticleId IdType="pubmed">18726070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim NG, Koh E, Chen X &amp; Gumbiner BM
+E-cadherin mediates contact inhibition of proliferation through Hippo signaling-pathway components. Proc Natl Acad Sci U S A
+108, 11930–11935, doi:10.1073/pnas.1103345108 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1103345108</ArticleId>
+            <ArticleId IdType="pmc">PMC3141988</ArticleId>
+            <ArticleId IdType="pubmed">21730131</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Okada T, Lopez-Lago M &amp; Giancotti FG
+Merlin/NF-2 mediates contact inhibition of growth by suppressing recruitment of Rac to the plasma membrane. J Cell Biol
+171, 361–371, doi:10.1083/jcb.200503165 (2005).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1083/jcb.200503165</ArticleId>
+            <ArticleId IdType="pmc">PMC2171182</ArticleId>
+            <ArticleId IdType="pubmed">16247032</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao B, Lei QY &amp; Guan KL
+The Hippo-YAP pathway: new connections between regulation of organ size and cancer. Curr Opin Cell Biol
+20, 638–646, doi:10.1016/j.ceb.2008.10.001 (2008).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ceb.2008.10.001</ArticleId>
+            <ArticleId IdType="pmc">PMC3296452</ArticleId>
+            <ArticleId IdType="pubmed">18955139</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Pan DJ
+The Hippo Signaling Pathway in Development and Cancer. Dev Cell
+19, 491–505, doi:10.1016/j.devcel.2010.09.011 (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.devcel.2010.09.011</ArticleId>
+            <ArticleId IdType="pmc">PMC3124840</ArticleId>
+            <ArticleId IdType="pubmed">20951342</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li W, Cooper J, Karajannis MA &amp; Giancotti FG
+Merlin: a tumour suppressor with functions at the cell cortex and in the nucleus. EMBO Rep
+13, 204–215, doi:10.1038/embor.2012.11 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/embor.2012.11</ArticleId>
+            <ArticleId IdType="pmc">PMC3323126</ArticleId>
+            <ArticleId IdType="pubmed">22482125</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Li W
+et al.
+Merlin/NF2 loss-driven tumorigenesis linked to CRL4(DCAF1)-mediated inhibition of the hippo pathway kinases Lats1 and 2 in the nucleus. Cancer Cell
+26, 48–60, doi:10.1016/j.ccr.2014.05.001 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ccr.2014.05.001</ArticleId>
+            <ArticleId IdType="pmc">PMC4126592</ArticleId>
+            <ArticleId IdType="pubmed">25026211</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dupont S
+et al.
+Role of YAP/TAZ in mechanotransduction. Nature
+474, 179–183, doi:10.1038/nature10137 (2011).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature10137</ArticleId>
+            <ArticleId IdType="pubmed">21654799</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Falk MH
+et al.
+Apoptosis in Burkitt lymphoma cells is prevented by promotion of cysteine uptake. Int J Cancer
+75, 620–625 (1998).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9466666</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Varelas X &amp; Wrana JL
+Coordinating developmental signaling: novel roles for the Hippo pathway. Trends Cell Biol
+22, 88–96, doi:10.1016/j.tcb.2011.10.002 (2012).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tcb.2011.10.002</ArticleId>
+            <ArticleId IdType="pubmed">22153608</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhao B
+et al.
+Inactivation of YAP oncoprotein by the Hippo pathway is involved in cell contact inhibition and tissue growth control. Genes Dev
+21, 2747–2761, doi:10.1101/gad.1602907 (2007).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1101/gad.1602907</ArticleId>
+            <ArticleId IdType="pmc">PMC2045129</ArticleId>
+            <ArticleId IdType="pubmed">17974916</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Doll S
+et al.
+ACSL4 dictates ferroptosis sensitivity by shaping cellular lipid composition. Nat Chem Biol
+13, 91–98, doi:10.1038/nchembio.2239 (2017).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nchembio.2239</ArticleId>
+            <ArticleId IdType="pmc">PMC5610546</ArticleId>
+            <ArticleId IdType="pubmed">27842070</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhang Y
+et al.
+Imidazole Ketone Erastin Induces Ferroptosis and Slows Tumor Growth in a Mouse Lymphoma Model. Cell Chem Biol, doi:10.1016/j.chembiol.2019.01.008 (2019).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.chembiol.2019.01.008</ArticleId>
+            <ArticleId IdType="pmc">PMC6525071</ArticleId>
+            <ArticleId IdType="pubmed">30799221</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dixon SJ
+et al.
+Pharmacological inhibition of cystine-glutamate exchange induces endoplasmic reticulum stress and ferroptosis. Elife
+3, e02523, doi:10.7554/eLife.02523 (2014).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.02523</ArticleId>
+            <ArticleId IdType="pmc">PMC4054777</ArticleId>
+            <ArticleId IdType="pubmed">24844246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dubey S
+et al.
+A phase II study of sorafenib in malignant mesothelioma: results of Cancer and Leukemia Group B 30307. J Thorac Oncol
+5, 1655–1661, doi:10.1097/JTO.0b013e3181ec18db (2010).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/JTO.0b013e3181ec18db</ArticleId>
+            <ArticleId IdType="pmc">PMC3823555</ArticleId>
+            <ArticleId IdType="pubmed">20736856</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Papa S
+et al.
+Phase 2 study of sorafenib in malignant mesothelioma previously treated with platinum-containing chemotherapy. J Thorac Oncol
+8, 783–787, doi:10.1097/JTO.0b013e31828c2b26 (2013).</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/JTO.0b013e31828c2b26</ArticleId>
+            <ArticleId IdType="pubmed">23571475</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

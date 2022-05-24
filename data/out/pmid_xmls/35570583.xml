@@ -1,0 +1,220 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+      <PMID Version="1">35570583</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>16</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1398-9995</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <PubDate>
+              <Year>2022</Year>
+              <Month>May</Month>
+              <Day>16</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Allergy</Title>
+          <ISOAbbreviation>Allergy</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>NTHi infection of pulmonary macrophages drives neutrophilic inflammation in severe asthma.</ArticleTitle>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1111/all.15375</ELocationID>
+        <Abstract>
+          <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Nontypeable Haemophilus influenzae (NTHi) is a respiratory tract pathobiont that chronically colonises the airways of asthma patients and is associated with severe, neutrophilic disease phenotypes. The mechanism of NTHi airway persistence is not well understood, but accumulating evidence suggests NTHi can persist within host airway immune cells such as macrophages. We hypothesised that NTHi infection of pulmonary macrophages drives neutrophilic inflammation in severe asthma.</AbstractText>
+          <AbstractText Label="METHODS" NlmCategory="METHODS">Bronchoalveolar lavage (BAL) samples from 25 severe asthma patients were assessed by fluorescence in situ hybridisation to quantify NTHi presence. Weighted gene correlation network analysis (WGCNA) was performed on RNASeq data from NTHi-infected monocyte-derived macrophages to identify transcriptomic networks associated with NTHi infection.</AbstractText>
+          <AbstractText Label="RESULTS" NlmCategory="RESULTS">NTHi was detected in 56% of BAL samples (NTHi+) and was associated with longer asthma duration (34 vs 22.5 years, p=0.0436) and higher sputum neutrophil proportion (67% vs 25%, p=0.0462). WGCNA identified a transcriptomic network of immune-related macrophage genes significantly associated with NTHi infection, including upregulation of T17 inflammatory mediators and neutrophil chemoattractants IL1B, IL8, IL23 and CCL20 (all p&lt;0.05). Macrophage network genes SGPP2 (p=0.0221), IL1B (p=0.0014) and GBP1 (p=0.0477) were more highly expressed in NTHi+ BAL and moderately correlated with asthma duration (IL1B; rho=0.41, p=0.041) and lower pre-bronchodilator FEV1/FVC% (GBP1; rho=-0.43, p=0.046 and IL1B; rho=-0.42, p=0.055).</AbstractText>
+          <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">NTHi persistence with pulmonary macrophages may contribute to chronic airway inflammation and T17 responses in severe asthma, which can lead to decreased lung function and reduced steroid-responsiveness. Identifying therapeutic strategies to reduce the burden of NTHi in asthma could improve patient outcomes.</AbstractText>
+          <CopyrightInformation>This article is protected by copyright. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Ackland</LastName>
+            <ForeName>Jodie</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0003-3120-3620</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Clinical and Experimental Sciences, University of Southampton Faculty of Medicine, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Barber</LastName>
+            <ForeName>Clair</ForeName>
+            <Initials>C</Initials>
+            <Identifier Source="ORCID">0000-0001-5335-5129</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Clinical and Experimental Sciences, University of Southampton Faculty of Medicine, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>NIHR Southampton Biomedical Research Centre, University Hospital Southampton NHS Foundation Trust, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Heinson</LastName>
+            <ForeName>Ashley</ForeName>
+            <Initials>A</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical and Experimental Sciences, University of Southampton Faculty of Medicine, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Azim</LastName>
+            <ForeName>Adnan</ForeName>
+            <Initials>A</Initials>
+            <Identifier Source="ORCID">0000-0001-5960-1159</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Clinical and Experimental Sciences, University of Southampton Faculty of Medicine, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>NIHR Southampton Biomedical Research Centre, University Hospital Southampton NHS Foundation Trust, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Cleary</LastName>
+            <ForeName>David W</ForeName>
+            <Initials>DW</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical and Experimental Sciences, University of Southampton Faculty of Medicine, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>NIHR Southampton Biomedical Research Centre, University Hospital Southampton NHS Foundation Trust, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Christodoulides</LastName>
+            <ForeName>Myron</ForeName>
+            <Initials>M</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical and Experimental Sciences, University of Southampton Faculty of Medicine, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kurukulaaratchy</LastName>
+            <ForeName>Ramesh J</ForeName>
+            <Initials>RJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical and Experimental Sciences, University of Southampton Faculty of Medicine, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>NIHR Southampton Biomedical Research Centre, University Hospital Southampton NHS Foundation Trust, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Howarth</LastName>
+            <ForeName>Peter</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical and Experimental Sciences, University of Southampton Faculty of Medicine, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>NIHR Southampton Biomedical Research Centre, University Hospital Southampton NHS Foundation Trust, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wilkinson</LastName>
+            <ForeName>Tom M A</ForeName>
+            <Initials>TMA</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical and Experimental Sciences, University of Southampton Faculty of Medicine, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Wessex Investigational Sciences Hub, University of Southampton Faculty of Medicine, Southampton General Hospital, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>NIHR Southampton Biomedical Research Centre, University Hospital Southampton NHS Foundation Trust, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Staples</LastName>
+            <ForeName>Karl J</ForeName>
+            <Initials>KJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Clinical and Experimental Sciences, University of Southampton Faculty of Medicine, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Wessex Investigational Sciences Hub, University of Southampton Faculty of Medicine, Southampton General Hospital, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>NIHR Southampton Biomedical Research Centre, University Hospital Southampton NHS Foundation Trust, Southampton, UK.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <CollectiveName>WATCH study investigators</CollectiveName>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2022</Year>
+          <Month>05</Month>
+          <Day>16</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>Denmark</Country>
+        <MedlineTA>Allergy</MedlineTA>
+        <NlmUniqueID>7804028</NlmUniqueID>
+        <ISSNLinking>0105-4538</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Asthma</Keyword>
+        <Keyword MajorTopicYN="N">Inflammation</Keyword>
+        <Keyword MajorTopicYN="N">Macrophage</Keyword>
+        <Keyword MajorTopicYN="N">NTHi</Keyword>
+        <Keyword MajorTopicYN="N">Neutrophil</Keyword>
+        <Keyword MajorTopicYN="N">T17 responses</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2022</Year>
+          <Month>3</Month>
+          <Day>22</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>2</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2022</Year>
+          <Month>4</Month>
+          <Day>13</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>16</Day>
+          <Hour>3</Hour>
+          <Minute>19</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>17</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>aheadofprint</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35570583</ArticleId>
+        <ArticleId IdType="doi">10.1111/all.15375</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

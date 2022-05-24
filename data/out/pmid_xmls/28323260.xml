@@ -1,0 +1,1370 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">28323260</PMID>
+      <DateCompleted>
+        <Year>2017</Year>
+        <Month>06</Month>
+        <Day>15</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>04</Month>
+        <Day>10</Day>
+      </DateRevised>
+      <Article PubModel="Print">
+        <Journal>
+          <ISSN IssnType="Electronic">1529-2916</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>18</Volume>
+            <Issue>4</Issue>
+            <PubDate>
+              <Year>2017</Year>
+              <Month>Mar</Month>
+              <Day>22</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Nature immunology</Title>
+          <ISOAbbreviation>Nat Immunol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Mechanisms and consequences of Jak-STAT signaling in the immune system.</ArticleTitle>
+        <Pagination>
+          <StartPage>374</StartPage>
+          <EndPage>384</EndPage>
+          <MedlinePgn>374-384</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1038/ni.3691</ELocationID>
+        <Abstract>
+          <AbstractText>Kinases of the Jak ('Janus kinase') family and transcription factors (TFs) of the STAT ('signal transducer and activator of transcription') family constitute a rapid membrane-to-nucleus signaling module that affects every aspect of the mammalian immune system. Research on this paradigmatic pathway has experienced breakneck growth in the quarter century since its discovery and has yielded a stream of basic and clinical insights that have profoundly influenced modern understanding of human health and disease, exemplified by the bench-to-bedside success of Jak inhibitors ('jakinibs') and pathway-targeting drugs. Here we review recent advances in Jak-STAT biology, focusing on immune cell function, disease etiology and therapeutic intervention, as well as broader principles of gene regulation and signal-dependent TFs.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Villarino</LastName>
+            <ForeName>Alejandro V</ForeName>
+            <Initials>AV</Initials>
+            <Identifier Source="ORCID">0000-0001-8068-2176</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Molecular Immunology and Inflammation Branch, National Institute of Arthritis, Musculoskeletal and Skin Diseases, National Institutes of Health, Bethesda, Maryland, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kanno</LastName>
+            <ForeName>Yuka</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>Molecular Immunology and Inflammation Branch, National Institute of Arthritis, Musculoskeletal and Skin Diseases, National Institutes of Health, Bethesda, Maryland, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>O'Shea</LastName>
+            <ForeName>John J</ForeName>
+            <Initials>JJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Molecular Immunology and Inflammation Branch, National Institute of Arthritis, Musculoskeletal and Skin Diseases, National Institutes of Health, Bethesda, Maryland, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D016454">Review</PublicationType>
+        </PublicationTypeList>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>United States</Country>
+        <MedlineTA>Nat Immunol</MedlineTA>
+        <NlmUniqueID>100941354</NlmUniqueID>
+        <ISSNLinking>1529-2908</ISSNLinking>
+      </MedlineJournalInfo>
+      <ChemicalList>
+        <Chemical>
+          <RegistryNumber>0</RegistryNumber>
+          <NameOfSubstance UI="D050791">STAT Transcription Factors</NameOfSubstance>
+        </Chemical>
+        <Chemical>
+          <RegistryNumber>EC 2.7.10.2</RegistryNumber>
+          <NameOfSubstance UI="D053612">Janus Kinases</NameOfSubstance>
+        </Chemical>
+      </ChemicalList>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D055106" MajorTopicYN="N">Genome-Wide Association Study</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D007107" MajorTopicYN="N">Immune System</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+          <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D053612" MajorTopicYN="N">Janus Kinases</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D058990" MajorTopicYN="N">Molecular Targeted Therapy</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005810" MajorTopicYN="N">Multigene Family</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D050791" MajorTopicYN="N">STAT Transcription Factors</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="Y">Signal Transduction</DescriptorName>
+          <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D057170" MajorTopicYN="N">Translational Research, Biomedical</DescriptorName>
+        </MeshHeading>
+      </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2016</Year>
+          <Month>12</Month>
+          <Day>21</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2017</Year>
+          <Month>1</Month>
+          <Day>23</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2017</Year>
+          <Month>3</Month>
+          <Day>22</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2017</Year>
+          <Month>3</Month>
+          <Day>23</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2017</Year>
+          <Month>6</Month>
+          <Day>16</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">28323260</ArticleId>
+        <ArticleId IdType="doi">10.1038/ni.3691</ArticleId>
+        <ArticleId IdType="pii">ni.3691</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Nat Immunol. 2015 Mar;16(3):286-95</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25642823</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 2010 Oct 22;330(6003):521-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20966256</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2011 Jul 28;118(4):1002-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21636857</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2008 Apr;28(4):477-87</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18400190</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2014 Jan 16;40(1):25-39</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24412612</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell. 2013 Jan 17;152(1-2):157-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23332752</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Biol Chem. 2005 Dec 9;280(49):40782-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16192273</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Genet. 2013 Feb;45(2):131-2</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23313954</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Structure. 2016 Jun 7;24(6):897-905</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27133025</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAKSTAT. 2014 Jan 1;3(1):e28087</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24778927</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2016 Nov 15;113(46):13015-13020</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27803324</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2002 Jun 11;99(12):8043-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12060750</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Immunol. 2014 Jan;14(1):36-49</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24362405</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2010 Sep 2;116(9):1548-58</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20508164</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2017 Jan 12;129(2):177-187</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27777238</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2004 Sep;5(9):891-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15311277</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Biol Cell. 2016 Jul 15;27(14):2301-16</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27193299</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Cell Biol. 1999 Mar;19(3):1910-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10022878</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell. 2014 Mar 27;157(1):227-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24679538</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Cell Biol. 2014 Feb;34(3):464-73</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24277936</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 1997 Apr 15;94(8):3801-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9108058</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAKSTAT. 2014 Jan 1;3(1):e28055</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24778925</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Struct Mol Biol. 2014 Jul;21(7):579-84</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24918548</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2011 Nov 23;35(5):792-805</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22118527</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Struct Mol Biol. 2014 May;21(5):443-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24704786</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nucleic Acids Res. 2016 Dec 1;44(21):10277-10291</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27694626</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 1994 Jun 3;264(5164):1415-21</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8197455</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2011 Mar;12(3):247-54</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21278738</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2016 Jan 19;44(1):103-15</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26795246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell. 2016 Dec 15;167(7):1883-1896.e15</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27984734</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 1996 Sep 20;273(5282):1717-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8781235</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Exp Med. 2004 Jul 5;200(1):79-87</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15238607</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Drug Discov. 2013 Aug;12(8):611-29</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23903221</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Biol Chem. 2004 Oct 1;279(40):41679-85</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15284232</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Exp Med. 2011 Sep 26;208(10 ):2055-67</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21893603</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2012 Apr 20;36(4):586-99</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22520852</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Immunol. 2013 Apr 1;190(7):3390-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23440411</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Methods. 2007 Aug;4(8):651-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17558387</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 1995 Sep 26;92(20):9097-101</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7568080</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 2014 May 16;344(6185):1249783</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24833397</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Exp Med. 2011 Jul 4;208(7):1359-66</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21690253</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2008 Apr;9(4):378-87</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18345002</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Signal. 2012 Jun 19;5(229):ra45</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22715468</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Cell Biol. 1992 Aug;12(8):3315-24</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1630447</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Annu Rev Med. 2015;66:311-28</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25587654</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2000 Jan;12(1):95-105</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10661409</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>EMBO J. 2016 Mar 15;35(6):618-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26903601</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Cell. 2012 Sep 14;47(5):810-22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22940246</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2015 Apr 23;520(7548):558-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25686607</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2012 Nov 1;120(18):3718-28</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22968462</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer Cell. 2012 Dec 11;22(6):796-811</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23238015</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell. 2008 Jun 13;133(6):1106-17</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18555785</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell. 2011 Feb 18;144(4):601-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21295337</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Struct Mol Biol. 2012 Aug;19(8):754-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22820988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Biol Chem. 2010 Sep 10;285(37):28731-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20624917</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Annu Rev Immunol. 1998;16:293-322</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9597132</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 1995 Sep 7;377(6544):65-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7659163</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2003 Dec;19(6):793-802</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14670297</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 1995 Nov 3;270(5237):797-800</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7481768</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Annu Rev Immunol. 2015;33:139-67</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25493332</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2013 Apr;14(4):364-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23435120</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Immunol. 2015 Jan 1;194(1):21-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25527793</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2012 Apr 20;36(4):503-14</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22520844</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 1996 Aug 9;273(5276):794-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8670419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2014 Oct 2;124(14):2252-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25150294</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2013 May 30;121(22):4541-50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23596048</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Exp Med. 2007 Jan 22;204(1):65-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17227909</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2013 Jul;14(7):732-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23727894</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Genes Dev. 2007 Jun 1;21(11):1396-408</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17510282</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2012 May 17;366(20):1905-13</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22591296</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Commun. 2015 Sep 29;6:8470</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26415585</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Interferon Cytokine Res. 1997 Mar;17(3):121-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9085936</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2015 Jan 22;125(4):668-79</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25428220</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nucleic Acids Res. 2016 Feb 18;44(3):1052-63</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26446995</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2009 Jun 9;106(23):9373-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19478064</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAKSTAT. 2013 Jan 1;2(1):e23060</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24058793</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Int Immunol. 1998 Nov;10(11):1747-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9846704</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2013 Sep 19;39(3):454-69</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24012417</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2003 Mar;18(3):415-28</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12648458</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Mol Biol. 2016 Nov 20;428(23 ):4651-4668</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27725180</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 1998 Feb 13;279(5353):1048-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9461439</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Exp Med. 2016 Apr 4;213(4):585-603</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27001747</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2009 Apr;10(4):356-60</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19295632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2007 May 15;109(10):4368-75</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17227828</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2014 May;15(5):449-56</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24681564</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2009 Dec 18;31(6):941-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20064451</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 1995 Jun;2(6):689-97</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7796300</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2010 Oct 7;116(14):2429-37</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20581310</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell Rep. 2016 Sep 20;16(12):3121-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27653678</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Interferon Cytokine Res. 2011 Jan;31(1):33-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21166594</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Cell. 2012 Jul 13;47(1):38-49</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22633955</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 2009 Jun 26;324(5935):1713-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19556508</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2007 Sep;8(9):967-74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17581537</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Immunol. 2010 Dec 1;185(11):6461-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20974984</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Genet. 2016 Aug;48(8):904-11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27376239</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Biol Chem. 1998 Nov 20;273(47):31222-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9813029</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Chem Biol. 2016 May;12(5):373-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27018889</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Genet. 2013 Feb;45(2):180-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23313952</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Med. 2005 Aug;11(8):845-52</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16041381</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2012 Sep 6;489(7414):155-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22820254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2002 Apr 15;99(8):2637-46</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11929748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2005 Jun;22(6):729-36</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15963787</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Exp Med. 2012 Feb 13;209(2):243-50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22271576</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Mol Cell Biol. 2002 Sep;3(9):651-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12209125</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Immunol. 2009 Feb;9(2):91-105</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19151746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2003 Dec;19(6):903-12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14670306</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2016 Aug 30;113(35):9852-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27516546</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2008 Apr 15;111(8):3931-40</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18160670</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 1996 Sep 26;383(6598):344-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8848048</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2014 Jul;15(7):638-45</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24880459</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Cell. 2005 Mar 18;17(6):761-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15780933</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2014 Dec 18;124(26):3924-31</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25352124</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Struct Mol Biol. 2011 Aug 14;18(9):971-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21841788</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell. 2012 Oct 12;151(2):289-303</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23021777</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAKSTAT. 2012 Jan 1;1(1):23-33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24058748</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2014 Apr;15(4):333-42</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24608040</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2012 Oct 11;120(15):3048-57</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22859607</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Genet. 2014 Apr;15(4):272-86</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24614317</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>N Engl J Med. 2005 Apr 28;352(17):1779-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15858187</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2013 Mar 21;38(3):514-27</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23453633</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2010 Jun 25;32(6):840-51</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20620946</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell. 2016 Jan 28;164(3):564-78</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26824662</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 1992 Nov 20;258(5086):1369-72</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1455233</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2015 Jul 28;112(30):9394-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26170288</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2012 Oct 25;490(7421):543-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22992523</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Exp Med. 2014 Aug 25;211(9):1807-19</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25073792</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2006 Jan 24;103(4):1000-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">16418296</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Signal. 2016 Mar 29;9(421):ra33</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27025877</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Immunol. 2007 Jun;7(6):454-65</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17525754</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Exp Med. 1995 May 1;181(5):1755-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7722452</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>EMBO J. 2016 Mar 15;35(6):580-94</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26702099</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Exp Med. 2007 Oct 1;204(10):2383-96</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17846149</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lancet. 2005 Mar 19-25;365(9464):1054-61</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15781101</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 2009 Feb 6;323(5915):793-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">19131594</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Commun. 2014 Aug 22;5:4732</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25145352</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Science. 2002 Sep 20;297(5589):2063-6</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12242445</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2007 Mar;26(3):371-81</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17363300</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 1999 Jan;10(1):39-49</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">10023769</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>EMBO J. 1995 Apr 3;14(7):1412-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7729418</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Immunol. 2012 Aug 14;3:234</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22912632</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2016 Sep 20;45(3):685-700</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27566939</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Structure. 2011 Jan 12;19(1):45-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21220115</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2008 Apr;28(4):509-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18342552</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2003 Jun;4(6):546-50</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12754506</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 1991 Mar 28;350(6316):359-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">1848923</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell. 2012 Nov 21;151(5):981-93</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23178119</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 2015 Mar 31;112(13):3985-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25767098</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2007 Jan 18;445(7125):324-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">17183270</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Trends Immunol. 2015 Dec;36(12 ):763-77</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26572555</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 1997 Nov;7(5):691-701</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">9390692</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2011 Feb 3;117(5):1565-73</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21127177</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2012 Apr 20;36(4):529-41</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22520846</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Proc Natl Acad Sci U S A. 1995 Mar 28;92(7):3041-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">7708771</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Elife. 2016 Mar 21;5:null</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26999798</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2014 Mar 20;40(3):367-77</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24631156</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2005 Apr 28;434(7037):1144-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15793561</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2003 Nov;19(5):645-55</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14614852</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell. 2016 Aug 11;166(4):920-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27499022</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2010 Jul 23;33(1):25-34</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20637660</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2015 Dec;16(12):1263-73</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">26479789</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2013 Jan 24;38(1):66-78</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23177319</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2008 Nov;9(11):1288-96</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">18820682</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2010 May 28;32(5):605-15</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20493732</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 1996 Oct 24;383(6602):726-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8878484</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Front Immunol. 2014 Feb 05;5:22</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24600447</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell Host Microbe. 2016 Jul 13;20(1):72-82</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27414498</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Protein Sci. 2003 Feb;12(2):361-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12538899</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Immunol. 2012 Aug;24(4):364-78</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22651901</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2003 Sep;19(3):425-36</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14499117</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nature. 2012 Apr 26;484(7395):514-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22466287</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2013 Dec 12;39(6):1057-69</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24315995</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell. 2016 Dec 15;167(7):1853-1866.e17</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27984732</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2001 Nov;15(5):787-99</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">11728340</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Exp Med. 2016 Aug 22;213(9):1779-98</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27503074</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cancer Cell. 2015 Apr 13;27(4):516-32</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25873174</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2010 Mar;11(3):257-64</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">20118929</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2011 Oct 30;12 (12 ):1212-20</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22037603</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>JAKSTAT. 2012 Oct 1;1(4):285-91</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24058785</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2011 Jan 28;34(1):39-49</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21215659</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2015 May 19;42(5):877-89</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25992861</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2014 Sep;15(9):866-74</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25029551</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>BMC Genomics. 2013 Jan 16;14:4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23324445</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell. 2016 Dec 1;167(6):1540-1554.e12</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27912061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2014 May 8;123(19):2978-87</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24632714</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>J Biol Chem. 2004 Feb 20;279(8):7339-45</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14660657</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2014 Feb;15(2):168-76</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24413774</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2012 Apr 20;36(4):515-28</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22520845</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Blood. 2014 Dec 4;124(24):3529-37</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">25472969</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Immunity. 2013 Feb 21;38(2):250-62</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23352233</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Curr Opin Immunol. 2016 Jun;40:96-102</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">27060634</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sci Signal. 2011 Dec 06;4(202):ra85</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">22155789</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Rev Immunol. 2003 Nov;3(11):900-11</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">14668806</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Struct Mol Biol. 2013 Oct;20(10):1221-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">24013208</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2003 Jun;4(6):540-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">12754505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cell Rep. 2013 Aug 15;4(3):437-44</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23933255</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Struct Mol Biol. 2013 Apr;20(4):469-76</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23454976</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Nat Immunol. 2011 Jun;12(6):551-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">21516110</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mol Cell Biol. 2013 Aug;33(15):2879-90</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">23716595</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

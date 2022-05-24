@@ -1,0 +1,417 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+      <PMID Version="1">35600315</PMID>
+      <DateRevised>
+        <Year>2022</Year>
+        <Month>05</Month>
+        <Day>24</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Print">1359-4338</ISSN>
+          <JournalIssue CitedMedium="Print">
+            <Volume>26</Volume>
+            <Issue>2</Issue>
+            <PubDate>
+              <Year>2022</Year>
+              <Month>Jun</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Virtual reality</Title>
+          <ISOAbbreviation>Virtual Real</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Enhancing Mirror Therapy via Scaling and Shared Control: A Novel Open-Source Virtual Reality Platform for Stroke Rehabilitation.</ArticleTitle>
+        <Pagination>
+          <StartPage>525</StartPage>
+          <EndPage>538</EndPage>
+          <MedlinePgn>525-538</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10055-021-00593-4</ELocationID>
+        <Abstract>
+          <AbstractText>Mirror therapy is increasingly used in stroke rehabilitation to improve functional movements of the affected limb. However, the extent of mirroring in conventional mirror therapy is typically fixed (1:1) and cannot be tailored based on the patient's impairment level. Further, the movements of the affected limb are not actively incorporated in the therapeutic process. To address these issues, we developed an immersive VR system using HTC Vive and Leap Motion, which communicates with our free and open-source software environment programmed using SteamVR and the Unity 3D gaming engine. The mirror therapy VR environment was incorporated with two novel features: (1) scalable mirroring and (2) shared control. In the scalable mirroring, mirror movements were programmed to be scalable between 0 and 1, where 0 represents no movements, 0.5 represents 50% mirroring, and 1 represents 100% mirroring. In shared control, the contribution of the mirroring limb to the movements was programmed to be scalable between 0 to 1, where 0 represents 100% contribution from the mirroring limb (i.e., no mirroring), 0.5 represents 50% of movements from the mirrored limb and 50% of movements from the mirroring limb, and 1 represents full mirroring (i.e., no shared movements). Validation experiments showed that these features worked appropriately. The proposed VR-based mirror therapy is the first fully developed system that is freely available to the rehabilitation science community. The scalable and shared control features can diversify mirror therapy and potentially augment the outcomes of rehabilitation, although this needs to be verified through future experiments.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Augenstein</LastName>
+            <ForeName>Thomas E</ForeName>
+            <Initials>TE</Initials>
+            <AffiliationInfo>
+              <Affiliation>Neuromuscular and Rehabilitation Robotics Laboratory (NeuRRo Lab), Department of Physical Medicine and Rehabilitation, Michigan Medicine, Ann Arbor, MI, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Robotics Institute, University of Michigan, Ann Arbor, MI, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Kortemeyer</LastName>
+            <ForeName>Daniel</ForeName>
+            <Initials>D</Initials>
+            <AffiliationInfo>
+              <Affiliation>Neuromuscular and Rehabilitation Robotics Laboratory (NeuRRo Lab), Department of Physical Medicine and Rehabilitation, Michigan Medicine, Ann Arbor, MI, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Glista</LastName>
+            <ForeName>Lawrence</ForeName>
+            <Initials>L</Initials>
+            <AffiliationInfo>
+              <Affiliation>Neuromuscular and Rehabilitation Robotics Laboratory (NeuRRo Lab), Department of Physical Medicine and Rehabilitation, Michigan Medicine, Ann Arbor, MI, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Electrical Engineering and Computer Science, University of Michigan, Ann Arbor, MI, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Krishnan</LastName>
+            <ForeName>Chandramouli</ForeName>
+            <Initials>C</Initials>
+            <AffiliationInfo>
+              <Affiliation>Neuromuscular and Rehabilitation Robotics Laboratory (NeuRRo Lab), Department of Physical Medicine and Rehabilitation, Michigan Medicine, Ann Arbor, MI, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Robotics Institute, University of Michigan, Ann Arbor, MI, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Biomedical Engineering, University of Michigan, Ann Arbor, MI, USA.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>School of Kinesiology, University of Michigan, Ann Arbor, MI, USA.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>R01 EB019834</GrantID>
+            <Acronym>EB</Acronym>
+            <Agency>NIBIB NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>15</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>Virtual Real</MedlineTA>
+        <NlmUniqueID>101518169</NlmUniqueID>
+        <ISSNLinking>1359-4338</ISSNLinking>
+      </MedlineJournalInfo>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">illusion</Keyword>
+        <Keyword MajorTopicYN="N">low cost</Keyword>
+        <Keyword MajorTopicYN="N">mirror neurons</Keyword>
+        <Keyword MajorTopicYN="N">motor control</Keyword>
+        <Keyword MajorTopicYN="N">telehealth</Keyword>
+        <Keyword MajorTopicYN="N">virtual rehabilitation</Keyword>
+      </KeywordList>
+      <CoiStatement>Declarations Conflicts of interest/Competing interests: The authors declare no conflicts of interest</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pmc-release">
+          <Year>2023</Year>
+          <Month>6</Month>
+          <Day>1</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>23</Day>
+          <Hour>3</Hour>
+          <Minute>52</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2022</Year>
+          <Month>5</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>1</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">35600315</ArticleId>
+        <ArticleId IdType="mid">NIHMS1777681</ArticleId>
+        <ArticleId IdType="pmc">PMC9119151</ArticleId>
+        <ArticleId IdType="doi">10.1007/s10055-021-00593-4</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Abbink DA, Mulder M, Boer ER (2012) Haptic shared control: Smoothly shifting control authority?
+Cogn Technol Work
+14:19–28. 10.1007/s10111-011-0192-5</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10111-011-0192-5</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arya KN, Pandian S (2013) Effect of task-based mirror therapy on motor recovery of the upper extremity in chronic stroke patients: A pilot study. Top Stroke Rehabil
+20:210–217. 10.1310/tscir2001-210</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1310/tscir2001-210</ArticleId>
+            <ArticleId IdType="pubmed">23841968</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arya KN, Pandian S, Kumar D, Puri V (2015) Task-Based Mirror Therapy Augmenting Motor Recovery in Poststroke Hemiparesis: A Randomized Controlled Trial. J Stroke Cerebrovasc Dis
+24:1738–1748. 10.1016/j.jstrokecerebrovasdis.2015.03.026</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jstrokecerebrovasdis.2015.03.026</ArticleId>
+            <ArticleId IdType="pubmed">26096318</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arya KN, Pandian S, Kumar V (2019) Effect of activity-based mirror therapy on lower limb motor-recovery and gait in stroke: A randomised controlled trial. Neuropsychol Rehabil
+29:1193–1210. 10.1080/09602011.2017.1377087</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/09602011.2017.1377087</ArticleId>
+            <ArticleId IdType="pubmed">28949281</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bai Z, Fong KNK, Zhang J, Hu Z (2020) Cortical mapping of mirror visual feedback training for unilateral upper extremity: A functional near-infrared spectroscopy study. Brain Behav
+10:. 10.1002/brb3.1489</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/brb3.1489</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Broderick P, Horgan F, Blake C, et al. (2018) Mirror therapy for improving lower limb motor function and mobility after stroke: A systematic review and meta-analysis. Gait Posture
+63:208–220. 10.1016/j.gaitpost.2018.05.017</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.gaitpost.2018.05.017</ArticleId>
+            <ArticleId IdType="pubmed">29775908</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Crosbie JH, Lennon S, Basford JR, McDonough SM (2007) Virtual reality in stroke rehabilitation: Still more virtual than real. Disabil Rehabil
+29:1139–1146. 10.1080/09638280600960909</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/09638280600960909</ArticleId>
+            <ArticleId IdType="pubmed">17613000</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Fritzsch C, Wang J, Dos Santos LF, et al. (2014) Different effects of the mirror illusion on motor and somatosensory processing. Restor Neurol Neurosci
+32:269–280. 10.3233/RNN-130343</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3233/RNN-130343</ArticleId>
+            <ArticleId IdType="pubmed">24240987</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Garry MI, Loftus A, Summers JJ (2005) Mirror, mirror on the wall: Viewing a mirror reflection of unilateral hand movements facilitates ipsilateral M1 excitability. Exp Brain Res
+163:118–122. 10.1007/s00221-005-2226-9</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00221-005-2226-9</ArticleId>
+            <ArticleId IdType="pubmed">15754176</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>González-Franco M, Pérez-Marcos D, Spanlang B, Slater M (2010) The contribution of real-time mirror reflections of motor actions on virtual body ownership in an immersive virtual environment. Proc - IEEE Virtual Real
+111–114. 10.1109/VR.2010.5444805</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1109/VR.2010.5444805</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Heinrich C, Cook M, Langlotz T, Regenbrecht H (2020) My hands? Importance of personalised virtual hands in a neurorehabilitation scenario. Virtual Real. 10.1007/s10055-020-00456-4</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10055-020-00456-4</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hoermann S, Ferreira Dos Santos L, Morkisch N, et al. (2017) Computerised mirror therapy with Augmented Reflection Technology for early stroke rehabilitation: clinical feasibility and integration as an adjunct therapy. Disabil Rehabil. 39(15):1503–1514. 10.1080/09638288.2017.1291765</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/09638288.2017.1291765</ArticleId>
+            <ArticleId IdType="pubmed">28478736</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>In T, Lee K, Song C (2016) Virtual Reality Reflection Therapy Improves Balance and Gait in Patients with Chronic Stroke: Randomized Controlled Trials. Med Sci Monit. 22: 4046–53. 10.12659/msm.898157</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.12659/msm.898157</ArticleId>
+            <ArticleId IdType="pmc">PMC5098932</ArticleId>
+            <ArticleId IdType="pubmed">27791207</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kang YJ, Park HK, Kim HJ, et al. (2012) Upper extremity rehabilitation of stroke: Facilitation of corticospinal excitability using virtual mirror paradigm. J Neuroeng Rehabil
+9:. 10.1186/1743-0003-9-71</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1743-0003-9-71</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kim K, Lee S, Kim D, et al. (2016) Effects of mirror therapy combined with motor tasks on upper extremity function and activities daily living of stroke patients. J Phys Ther Sci
+28:483–7. 10.1589/jpts.28.483</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1589/jpts.28.483</ArticleId>
+            <ArticleId IdType="pmc">PMC4792995</ArticleId>
+            <ArticleId IdType="pubmed">27065534</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kleim JA, Jones TA (2008) Principles of experience-dependent neural plasticity: Implications for rehabilitation after brain damage. J. Speech, Lang. Hear. Res
+51</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Lee D, Lee M, Lee K, Song C (2014) Asymmetric training using virtual reality reflection equipment and the enhancement of upper limb function in stroke patients: A randomized controlled trial. J Stroke Cerebrovasc Dis
+23:1319–1326. 10.1016/j.jstrokecerebrovasdis.2013.11.006</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jstrokecerebrovasdis.2013.11.006</ArticleId>
+            <ArticleId IdType="pubmed">24468068</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lu EC, Wang RH, Hebert D, et al. (2011) The development of an upper limb stroke rehabilitation robot: Identification of clinical practices and design requirements through a survey of therapists. Disabil Rehabil Assist Technol
+6:420–431. 10.3109/17483107.2010.544370</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/17483107.2010.544370</ArticleId>
+            <ArticleId IdType="pubmed">21184626</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morales-Rodriguez ML, Pavard B (2007) Design of an emotional and social interaction paradigm for the animation of 3D characters: The case of a therapy for brain injured people (the mirror neuron paradigm). Virtual Real
+11:175–184. 10.1007/s10055-006-0063-1</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10055-006-0063-1</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Morkisch N, Thieme H, Dohle C (2019) How to perform mirror therapy after stroke? Evidence from a meta-analysis. Restor Neurol Neurosci
+37:421–435. 10.3233/RNN-190935</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3233/RNN-190935</ArticleId>
+            <ArticleId IdType="pubmed">31424422</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>O’Sullivan N, de Bezenac C, Piovesan A, et al. (2018) I Am There … but Not Quite: An Unfaithful Mirror That Reduces Feelings of Ownership and Agency. Perception
+47:197–215. 10.1177/0301006617743392</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/0301006617743392</ArticleId>
+            <ArticleId IdType="pubmed">29161965</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Organization WH (2002) The world health report 2002: reducing risks, promoting healthy life </Citation>
+        </Reference>
+        <Reference>
+          <Citation>Park Y, Chang M, Kim K-M, An D-H (2015) The effects of mirror therapy with tasks on upper extremity function and self-care in stroke patients. J Phys Ther Sci
+27:1499–501. 10.1589/jpts.27.1499</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1589/jpts.27.1499</ArticleId>
+            <ArticleId IdType="pmc">PMC4483427</ArticleId>
+            <ArticleId IdType="pubmed">26157249</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramachandran VS, Rogers-Ramachandran D (2019) Mirror feedback assisted recovery from hemiparesis following stroke. in Reply to Morkisch et al.: How to perform mirror therapy after stroke? Evidence from a meta-analysis. Restor. Neurol. Neurosci
+37:437–443</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31594264</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ramachandran VS, Rogers-Ramachandran D, Cobb S (1995) Touching the phantom limb. Nature
+377:489–490. 10.1038/377489a0</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/377489a0</ArticleId>
+            <ArticleId IdType="pubmed">7566144</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ranganathan R (2017) Reorganization of finger coordination patterns through motor exploration in individuals after stroke. J Neuroeng Rehabil
+14:. 10.1186/s12984-017-0300-8</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/s12984-017-0300-8</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Samuelkamaleshkumar S, Reethajanetsureka S, Pauljebaraj P, et al. (2014) Mirror therapy enhances motor performance in the paretic upper limb after stroke: A pilot randomized controlled trial. Arch Phys Med Rehabil
+95:2000–2005. 10.1016/j.apmr.2014.06.020</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.apmr.2014.06.020</ArticleId>
+            <ArticleId IdType="pubmed">25064777</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sanchez-Vives MV, Slater M (2005) From presence to consciousness through virtual reality. Nat. Rev. Neurosci. 6:332–339</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">15803164</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Subramanian SK, Cross MK, Hirschhauser CS (2020) Virtual reality interventions to enhance upper limb motor improvement after a stroke: commonly used types of platform and outcomes. Disabil. Rehabil. Assist. Technol.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Subramanian SK, Levin MF (2011) Viewing medium affects arm motor performance in 3D virtual environments. J Neuroeng Rehabil
+8:. 10.1186/1743-0003-8-36</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/1743-0003-8-36</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Subramanian SK, Lourenço CB, Chilingaryan G, et al. (2013) Arm motor recovery using a virtual reality intervention in chronic stroke: Randomized control trial. Neurorehabil Neural Repair
+27:13–23. 10.1177/1545968312449695</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1177/1545968312449695</ArticleId>
+            <ArticleId IdType="pubmed">22785001</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Thieme H, Morkisch N, Mehrholz J, et al. (2018) Mirror therapy for improving motor function after stroke (Review) SUMMARY OF FINDINGS FOR THE MAIN COMPARIS1.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Kawakami K, Miyasaka H, Nonoyama S, et al.
+Randomized controlled comparative study on effect of training to improve lower limb motor paralysis. Cochrane Database Syst Rev
+1–182. 10.1002/14651858.CD008449.pub3.www.cochranelibrary.com</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/14651858.CD008449.pub3.www.cochranelibrary.com</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Virani SS, Alonso A, Benjamin EJ, et al. (2020) Heart disease and stroke statistics—2020 update: A report from the American Heart Association. Circulation
+E139–E596</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">31992061</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Weber LM, Nilsen DM, Gillen G, et al. (2019) Immersive Virtual Reality Mirror Therapy for Upper Limb Recovery after Stroke: A Pilot Study. Am J Phys Med Rehabil
+98:783–788. 10.1097/PHM.0000000000001190</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/PHM.0000000000001190</ArticleId>
+            <ArticleId IdType="pmc">PMC6697203</ArticleId>
+            <ArticleId IdType="pubmed">30964752</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Zhu M-H, Zeng M, Shi M-F, et al. (2020) Visual feedback therapy for restoration of upper limb function of stroke patients. Int J Nurs Sci
+7:170–178. 10.1016/j.ijnss.2020.04.004</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.ijnss.2020.04.004</ArticleId>
+            <ArticleId IdType="pmc">PMC7355201</ArticleId>
+            <ArticleId IdType="pubmed">32685613</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

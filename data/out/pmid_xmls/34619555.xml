@@ -1,0 +1,184 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">34619555</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>12</Month>
+        <Day>27</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>12</Month>
+        <Day>27</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1476-928X</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>95</Volume>
+            <PubDate>
+              <Year>2021</Year>
+              <Month>Dec</Month>
+            </PubDate>
+          </JournalIssue>
+          <Title>Computational biology and chemistry</Title>
+          <ISOAbbreviation>Comput Biol Chem</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Identifying cancer specific signaling pathways based on the dysregulation between genes.</ArticleTitle>
+        <Pagination>
+          <StartPage>107586</StartPage>
+          <MedlinePgn>107586</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.compbiolchem.2021.107586</ELocationID>
+        <ELocationID EIdType="pii" ValidYN="Y">S1476-9271(21)00156-0</ELocationID>
+        <Abstract>
+          <AbstractText>A large collection of studies has shown that the occurrence of cancer is related to the functional dysfunction of the pathways. Identification of cancer-related pathways could help researchers understand the mechanisms of complex diseases well. Whereas, most current signaling pathway analysis methods take no account of the gene interaction variations within pathways. Furthermore, considering that some pathways have connection with two or more cancer types, while some are likely to be cancer-type specific pathways. Identifying cancer-type specific pathways contributes to interpreting the different mechanisms of different cancer types. In this study, we first proposed a pathway analysis method named Pathway Analysis of Intergenic Regulation (PAIGR) to identify pathways with dysregulation between genes and compared the performance of this method with four existing methods on four colorectal cancer (CRC) datasets. The results showed that PAIGR could find cancer-related pathways more accurately. Moreover, in order to explore the relationship between the identified pathways and the cancer type, we constructed a pathway interaction network, in which nodes and edges represented pathways and interactions between pathways respectively. Highly connected pathways were considered to play a central role in an extensive range of biological processes, while sparsely connected pathways are considered to have certain specificity. Our results showed that pathways identified by PAIGR had a low nodal degree (i.e., a few numbers of interactions), which suggested that most of these pathways were cancer-type specific.</AbstractText>
+          <CopyrightInformation>Copyright © 2021 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Li</LastName>
+            <ForeName>Xiaohan</ForeName>
+            <Initials>X</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Lab of Bioelectronics, School of Biological Science and Medical Engineering, Southeast University, Nanjing, Jiangsu, 210096, China. Electronic address: lixh92@163.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Bing</ForeName>
+            <Initials>B</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Lab of Bioelectronics, School of Biological Science and Medical Engineering, Southeast University, Nanjing, Jiangsu, 210096, China. Electronic address: bzhang92@163.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Yu</LastName>
+            <ForeName>Kequan</ForeName>
+            <Initials>K</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Lab of Bioelectronics, School of Biological Science and Medical Engineering, Southeast University, Nanjing, Jiangsu, 210096, China. Electronic address: yukquan@126.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bao</LastName>
+            <ForeName>Zhenshen</ForeName>
+            <Initials>Z</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Lab of Bioelectronics, School of Biological Science and Medical Engineering, Southeast University, Nanjing, Jiangsu, 210096, China. Electronic address: bzsbao@163.com.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Zhang</LastName>
+            <ForeName>Weizhong</ForeName>
+            <Initials>W</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Ophthalmology, First Affiliated Hospital of Nanjing Medical University, Nanjing, China. Electronic address: weizhongzhang@njmu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Bai</LastName>
+            <ForeName>Yunfei</ForeName>
+            <Initials>Y</Initials>
+            <AffiliationInfo>
+              <Affiliation>State Key Lab of Bioelectronics, School of Biological Science and Medical Engineering, Southeast University, Nanjing, Jiangsu, 210096, China. Electronic address: whitecf@seu.edu.cn.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2021</Year>
+          <Month>09</Month>
+          <Day>28</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <Country>England</Country>
+        <MedlineTA>Comput Biol Chem</MedlineTA>
+        <NlmUniqueID>101157394</NlmUniqueID>
+        <ISSNLinking>1476-9271</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D015179" MajorTopicYN="N">Colorectal Neoplasms</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+          <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D030541" MajorTopicYN="N">Databases, Genetic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+          <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="N">Cancer-type specific pathway</Keyword>
+        <Keyword MajorTopicYN="N">Dysregulation between genes</Keyword>
+        <Keyword MajorTopicYN="N">Node degree</Keyword>
+        <Keyword MajorTopicYN="N">Pathway analysis</Keyword>
+      </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2021</Year>
+          <Month>5</Month>
+          <Day>7</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="revised">
+          <Year>2021</Year>
+          <Month>8</Month>
+          <Day>10</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2021</Year>
+          <Month>9</Month>
+          <Day>26</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>12</Month>
+          <Day>28</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>7</Day>
+          <Hour>20</Hour>
+          <Minute>26</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">34619555</ArticleId>
+        <ArticleId IdType="doi">10.1016/j.compbiolchem.2021.107586</ArticleId>
+        <ArticleId IdType="pii">S1476-9271(21)00156-0</ArticleId>
+      </ArticleIdList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

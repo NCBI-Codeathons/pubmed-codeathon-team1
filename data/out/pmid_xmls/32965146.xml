@@ -1,0 +1,604 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">32965146</PMID>
+      <DateCompleted>
+        <Year>2021</Year>
+        <Month>10</Month>
+        <Day>07</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2021</Year>
+        <Month>11</Month>
+        <Day>02</Day>
+      </DateRevised>
+      <Article PubModel="Print-Electronic">
+        <Journal>
+          <ISSN IssnType="Electronic">1522-1598</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>124</Volume>
+            <Issue>5</Issue>
+            <PubDate>
+              <Year>2020</Year>
+              <Month>Nov</Month>
+              <Day>01</Day>
+            </PubDate>
+          </JournalIssue>
+          <Title>Journal of neurophysiology</Title>
+          <ISOAbbreviation>J Neurophysiol</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Diverse coactive neurons encode stimulus-driven and stimulus-independent variables.</ArticleTitle>
+        <Pagination>
+          <StartPage>1505</StartPage>
+          <EndPage>1517</EndPage>
+          <MedlinePgn>1505-1517</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1152/jn.00431.2020</ELocationID>
+        <Abstract>
+          <AbstractText>Both experimenter-controlled stimuli and stimulus-independent variables impact cortical neural activity. A major hurdle to understanding neural representation is distinguishing between qualitatively different causes of the fluctuating population activity. We applied an unsupervised low-rank tensor decomposition analysis to the recorded population activity in the visual cortex of awake mice in response to repeated presentations of naturalistic visual stimuli. We found that neurons covaried largely independently of individual neuron stimulus response reliability and thus encoded both stimulus-driven and stimulus-independent variables. Importantly, a neuron's response reliability and the neuronal coactivation patterns substantially reorganized for different external visual inputs. Analysis of recurrent balanced neural network models revealed that both the stimulus specificity and the mixed encoding of qualitatively different variables can arise from clustered external inputs. These results establish that coactive neurons with diverse response reliability mediate a mixed representation of stimulus-driven and stimulus-independent variables in the visual cortex.<b>NEW &amp; NOTEWORTHY</b> V1 neurons covary largely independently of individual neuron's response reliability. A single neuron's response reliability imposes only a weak constraint on its encoding capabilities. Visual stimulus instructs a neuron's reliability and coactivation pattern. Network models revealed using clustered external inputs.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Xia</LastName>
+            <ForeName>Ji</ForeName>
+            <Initials>J</Initials>
+            <Identifier Source="ORCID">0000-0003-1349-9114</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Department of Physics, Washington University in St. Louis, St. Louis, Missouri.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Marks</LastName>
+            <ForeName>Tyler D</ForeName>
+            <Initials>TD</Initials>
+            <AffiliationInfo>
+              <Affiliation>Neuroscience Research Institute, University of California, Santa Barbara, California.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Goard</LastName>
+            <ForeName>Michael J</ForeName>
+            <Initials>MJ</Initials>
+            <Identifier Source="ORCID">0000-0002-5366-8501</Identifier>
+            <AffiliationInfo>
+              <Affiliation>Neuroscience Research Institute, University of California, Santa Barbara, California.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Molecular, Cellular, and Developmental Biology, University of California, Santa Barbara, California.</Affiliation>
+            </AffiliationInfo>
+            <AffiliationInfo>
+              <Affiliation>Department of Psychological &amp; Brain Sciences, University of California, Santa Barbara, California.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Wessel</LastName>
+            <ForeName>Ralf</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Department of Physics, Washington University in St. Louis, St. Louis, Missouri.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <GrantList CompleteYN="Y">
+          <Grant>
+            <GrantID>1707287</GrantID>
+            <Agency>National Science Foundation (NSF)</Agency>
+            <Country>International</Country>
+          </Grant>
+          <Grant>
+            <GrantID>R00 MH104259</GrantID>
+            <Acronym>MH</Acronym>
+            <Agency>NIMH NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+          <Grant>
+            <GrantID>1308159</GrantID>
+            <Agency>National Science Foundation (NSF)</Agency>
+            <Country>International</Country>
+          </Grant>
+          <Grant>
+            <GrantID>20181228</GrantID>
+            <Agency>Whitehall Foundation</Agency>
+            <Country>International</Country>
+          </Grant>
+          <Grant>
+            <GrantID>MH104259</GrantID>
+            <Agency>HHS | National Institutes of Health (NIH)</Agency>
+            <Country>International</Country>
+          </Grant>
+          <Grant>
+            <GrantID>K99 MH104259</GrantID>
+            <Acronym>MH</Acronym>
+            <Agency>NIMH NIH HHS</Agency>
+            <Country>United States</Country>
+          </Grant>
+        </GrantList>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+          <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2020</Year>
+          <Month>09</Month>
+          <Day>23</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>J Neurophysiol</MedlineTA>
+        <NlmUniqueID>0375404</NlmUniqueID>
+        <ISSNLinking>0022-3077</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008822" MajorTopicYN="N">Mice, Transgenic</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008959" MajorTopicYN="N">Models, Neurological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D016571" MajorTopicYN="N">Neural Networks, Computer</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D061848" MajorTopicYN="N">Optical Imaging</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D010775" MajorTopicYN="N">Photic Stimulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014793" MajorTopicYN="N">Visual Cortex</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D014796" MajorTopicYN="N">Visual Perception</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <KeywordList Owner="NOTNLM">
+        <Keyword MajorTopicYN="Y">neural encoding</Keyword>
+        <Keyword MajorTopicYN="Y">neural ensemble</Keyword>
+        <Keyword MajorTopicYN="Y">neuronal coactivation</Keyword>
+      </KeywordList>
+      <CoiStatement>No conflicts of interest, financial or otherwise, are declared by the authors.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>24</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2021</Year>
+          <Month>10</Month>
+          <Day>8</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2020</Year>
+          <Month>9</Month>
+          <Day>23</Day>
+          <Hour>12</Hour>
+          <Minute>11</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>ppublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">32965146</ArticleId>
+        <ArticleId IdType="pmc">PMC8356785</ArticleId>
+        <ArticleId IdType="doi">10.1152/jn.00431.2020</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>Allen WE, Chen MZ, Pichamoorthy N, Tien RH, Pachitariu M, Luo L, Deisseroth K. Thirst regulates motivated behavior through modulation of brainwide neural population dynamics. Science 364: 253, 2019. doi:10.1126/science.aav3932. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aav3932</ArticleId>
+            <ArticleId IdType="pmc">PMC6711472</ArticleId>
+            <ArticleId IdType="pubmed">30948440</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arandia-Romero I, Tanabe S, Drugowitsch J, Kohn A, Moreno-Bote R. Multiplicative and additive modulation of neuronal tuning with population activity affects encoded information. Neuron 89: 1305–1316, 2016. doi:10.1016/j.neuron.2016.01.044. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2016.01.044</ArticleId>
+            <ArticleId IdType="pmc">PMC5129626</ArticleId>
+            <ArticleId IdType="pubmed">26924437</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Arieli A, Sterkin A, Grinvald A, Aertsen A. Dynamics of ongoing activity: explanation of the large variability in evoked cortical responses. Science 273: 1868–1871, 1996. doi:10.1126/science.273.5283.1868. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.273.5283.1868</ArticleId>
+            <ArticleId IdType="pubmed">8791593</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Bashivan P, Kar K, DiCarlo JJ. Neural population control via deep image synthesis. Science 364: eaav9436, 2019. doi:10.1126/science.aav9436. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aav9436</ArticleId>
+            <ArticleId IdType="pubmed">31048462</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Brainard DH. The Psychophysics Toolbox. Spat Vis 10: 433–436, 1997. doi:10.1163/156856897X00357. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1163/156856897X00357</ArticleId>
+            <ArticleId IdType="pubmed">9176952</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Buzsáki G. Neural syntax: cell assemblies, synapsembles, and readers. Neuron 68: 362–385, 2010. doi:10.1016/j.neuron.2010.09.023. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2010.09.023</ArticleId>
+            <ArticleId IdType="pmc">PMC3005627</ArticleId>
+            <ArticleId IdType="pubmed">21040841</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Carrillo-Reid L, Han S, Yang W, Akrouh A, Yuste R. Controlling visually guided behavior by holographic recalling of cortical ensembles. Cell 178: 447–457.e5, 2019. doi:10.1016/j.cell.2019.05.045. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2019.05.045</ArticleId>
+            <ArticleId IdType="pmc">PMC6747687</ArticleId>
+            <ArticleId IdType="pubmed">31257030</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Cohen MR, Kohn A. Measuring and interpreting neuronal correlations. Nat Neurosci 14: 811–819, 2011. doi:10.1038/nn.2842. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.2842</ArticleId>
+            <ArticleId IdType="pmc">PMC3586814</ArticleId>
+            <ArticleId IdType="pubmed">21709677</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Dipoppa M, Ranson A, Krumin M, Pachitariu M, Carandini M, Harris KD. Vision and locomotion shape the interactions between neuron types in mouse visual cortex. Neuron 98: 602–615.e8, 2018. doi:10.1016/j.neuron.2018.03.037. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2018.03.037</ArticleId>
+            <ArticleId IdType="pmc">PMC5946730</ArticleId>
+            <ArticleId IdType="pubmed">29656873</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Doiron B, Litwin-Kumar A, Rosenbaum R, Ocker GK, Josić K. The mechanics of state-dependent neural correlations. Nat Neurosci 19: 383–393, 2016. doi:10.1038/nn.4242. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.4242</ArticleId>
+            <ArticleId IdType="pmc">PMC5477791</ArticleId>
+            <ArticleId IdType="pubmed">26906505</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Douglas RJ, Koch C, Mahowald M, Martin KA, Suarez HH. Recurrent excitation in neocortical circuits. Science 269: 981–985, 1995. doi:10.1126/science.7638624. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.7638624</ArticleId>
+            <ArticleId IdType="pubmed">7638624</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ecker AS, Berens P, Cotton RJ, Subramaniyan M, Denfield GH, Cadwell CR, Smirnakis SM, Bethge M, Tolias AS. State dependence of noise correlations in macaque primary visual cortex. Neuron 82: 235–248, 2014. doi:10.1016/j.neuron.2014.02.006. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2014.02.006</ArticleId>
+            <ArticleId IdType="pmc">PMC3990250</ArticleId>
+            <ArticleId IdType="pubmed">24698278</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Faisal AA, Selen LP, Wolpert DM. Noise in the nervous system. Nat Rev Neurosci 9: 292–303, 2008. doi:10.1038/nrn2258. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn2258</ArticleId>
+            <ArticleId IdType="pmc">PMC2631351</ArticleId>
+            <ArticleId IdType="pubmed">18319728</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Froudarakis E, Fahey PG, Reimer J, Smirnakis SM, Tehovnik EJ, Tolias AS. The visual cortex in context. Annu Rev Vis Sci 5: 317–339, 2019. doi:10.1146/annurev-vision-091517-034407. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev-vision-091517-034407</ArticleId>
+            <ArticleId IdType="pmc">PMC7485906</ArticleId>
+            <ArticleId IdType="pubmed">31525143</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goard M, Dan Y. Basal forebrain activation enhances cortical coding of natural scenes. Nat Neurosci 12: 1444–1449, 2009. doi:10.1038/nn.2402. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.2402</ArticleId>
+            <ArticleId IdType="pmc">PMC3576925</ArticleId>
+            <ArticleId IdType="pubmed">19801988</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Goris RLT, Movshon JA, Simoncelli EP. Partitioning neuronal variability. Nat Neurosci 17: 858–865, 2014. doi:10.1038/nn.3711. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.3711</ArticleId>
+            <ArticleId IdType="pmc">PMC4135707</ArticleId>
+            <ArticleId IdType="pubmed">24777419</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hirokawa J, Vaughan A, Masset P, Ott T, Kepecs A. Frontal cortex neuron types categorically encode single decision variables. Nature 576: 446–451, 2019. doi:10.1038/s41586-019-1816-9. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-019-1816-9</ArticleId>
+            <ArticleId IdType="pubmed">31801999</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Hofer SB, Ko H, Pichler B, Vogelstein J, Ros H, Zeng H, Lein E, Lesica NA, Mrsic-Flogel TD. Differential connectivity and response dynamics of excitatory and inhibitory neurons in visual cortex. Nat Neurosci 14: 1045–1052, 2011. doi:10.1038/nn.2876. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.2876</ArticleId>
+            <ArticleId IdType="pmc">PMC6370002</ArticleId>
+            <ArticleId IdType="pubmed">21765421</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Huang C, Ruff DA, Pyle R, Rosenbaum R, Cohen MR, Doiron B. Circuit models of low-dimensional shared variability in cortical networks. Neuron 101: 337–348.e4, 2019. doi:10.1016/j.neuron.2018.11.034. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2018.11.034</ArticleId>
+            <ArticleId IdType="pmc">PMC8238668</ArticleId>
+            <ArticleId IdType="pubmed">30581012</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Keemink SW, Machens CK. Decoding and encoding (de)mixed population responses. Curr Opin Neurobiol 58: 112–121, 2019. doi:10.1016/j.conb.2019.09.004. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.conb.2019.09.004</ArticleId>
+            <ArticleId IdType="pubmed">31563083</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ko H, Hofer SB, Pichler B, Buchanan KA, Sjöström PJ, Mrsic-Flogel TD. Functional specificity of local synaptic connections in neocortical networks. Nature 473: 87–91, 2011. doi:10.1038/nature09880. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature09880</ArticleId>
+            <ArticleId IdType="pmc">PMC3089591</ArticleId>
+            <ArticleId IdType="pubmed">21478872</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kobak D, Brendel W, Constantinidis C, Feierstein CE, Kepecs A, Mainen ZF, Qi X-L, Romo R, Uchida N, Machens CK. Demixed principal component analysis of neural population data. eLife 5: e10989, 2016. doi:10.7554/eLife.10989. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.7554/eLife.10989</ArticleId>
+            <ArticleId IdType="pmc">PMC4887222</ArticleId>
+            <ArticleId IdType="pubmed">27067378</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Kruskal JB. Three-way arrays: rank and uniqueness of trilinear decompositions, with application to arithmetic complexity and statistics. Linear Algebra Appl 18: 95–138, 1977. doi:10.1016/0024-3795(77)90069-6.</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0024-3795(77)90069-6</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Leavitt ML, Pieper F, Sachs AJ, Martinez-Trujillo JC. Correlated variability modifies working memory fidelity in primate prefrontal neuronal ensembles. Proc Natl Acad Sci USA 114: E2494–E2503, 2017. doi:10.1073/pnas.1619949114. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1619949114</ArticleId>
+            <ArticleId IdType="pmc">PMC5373382</ArticleId>
+            <ArticleId IdType="pubmed">28275096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Lin I-C, Okun M, Carandini M, Harris KD. The nature of shared cortical variability. Neuron 87: 644–656, 2015. doi:10.1016/j.neuron.2015.06.035. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2015.06.035</ArticleId>
+            <ArticleId IdType="pmc">PMC4534383</ArticleId>
+            <ArticleId IdType="pubmed">26212710</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Litwin-Kumar A, Doiron B. Slow dynamics and high variability in balanced cortical networks with clustered connections. Nat Neurosci 15: 1498–1505, 2012. doi:10.1038/nn.3220. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.3220</ArticleId>
+            <ArticleId IdType="pmc">PMC4106684</ArticleId>
+            <ArticleId IdType="pubmed">23001062</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>MacLean JN, Watson BO, Aaron GB, Yuste R. Internal dynamics determine the cortical response to thalamic stimulation. Neuron 48: 811–823, 2005. doi:10.1016/j.neuron.2005.09.035. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2005.09.035</ArticleId>
+            <ArticleId IdType="pubmed">16337918</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Madisen L, Garner AR, Shimaoka D, Chuong AS, Klapoetke NC, Li L, van der Bourg A, Niino Y, Egolf L, Monetti C, Gu H, Mills M, Cheng A, Tasic B, Nguyen TN, Sunkin SM, Benucci A, Nagy A, Miyawaki A, Helmchen F, Empson RM, Knöpfel T, Boyden ES, Reid RC, Carandini M, Zeng H. Transgenic mice for intersectional targeting of neural sensors and effectors with high specificity and performance. Neuron 85: 942–958, 2015. doi:10.1016/j.neuron.2015.02.022. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2015.02.022</ArticleId>
+            <ArticleId IdType="pmc">PMC4365051</ArticleId>
+            <ArticleId IdType="pubmed">25741722</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mainen ZF, Sejnowski TJ. Reliability of spike timing in neocortical neurons. Science 268: 1503–1506, 1995. doi:10.1126/science.7770778. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.7770778</ArticleId>
+            <ArticleId IdType="pubmed">7770778</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Mante V, Sussillo D, Shenoy KV, Newsome WT. Context-dependent computation by recurrent dynamics in prefrontal cortex. Nature 503: 78–84, 2013. doi:10.1038/nature12742. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature12742</ArticleId>
+            <ArticleId IdType="pmc">PMC4121670</ArticleId>
+            <ArticleId IdType="pubmed">24201281</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>McGinley MJ, David SV, McCormick DA. Cortical membrane potential signature of optimal states for sensory signal detection. Neuron 87: 179–192, 2015. doi:10.1016/j.neuron.2015.05.038. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2015.05.038</ArticleId>
+            <ArticleId IdType="pmc">PMC4631312</ArticleId>
+            <ArticleId IdType="pubmed">26074005</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Miller J-EK, Ayzenshtat I, Carrillo-Reid L, Yuste R. Visual stimuli recruit intrinsically generated cortical ensembles. Proc Natl Acad Sci USA 111: E4053–E4061, 2014. doi:10.1073/pnas.1406077111. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.1406077111</ArticleId>
+            <ArticleId IdType="pmc">PMC4183303</ArticleId>
+            <ArticleId IdType="pubmed">25201983</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Niell CM, Stryker MP. Modulation of visual responses by behavioral state in mouse visual cortex. Neuron 65: 472–479, 2010. doi:10.1016/j.neuron.2010.01.033. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2010.01.033</ArticleId>
+            <ArticleId IdType="pmc">PMC3184003</ArticleId>
+            <ArticleId IdType="pubmed">20188652</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Okun M, Yger P, Marguet SL, Gerard-Mercier F, Benucci A, Katzner S, Busse L, Carandini M, Harris KD. Population rate dynamics and multineuron firing patterns in sensory cortex. J Neurosci 32: 17108–17119, 2012. doi:10.1523/JNEUROSCI.1831-12.2012. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.1831-12.2012</ArticleId>
+            <ArticleId IdType="pmc">PMC3520056</ArticleId>
+            <ArticleId IdType="pubmed">23197704</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Olshausen BA, Field DJ. What is the other 85 percent of V1 doing? In: 23 Problems in Systems Neuroscience, edited by van Hemmen JL, Sejnowski TJ. Oxford, UK: Oxford University Press, 2006, p. 182–212.</Citation>
+        </Reference>
+        <Reference>
+          <Citation>Petreanu L, Gutnisky DA, Huber D, Xu N-L, O’Connor DH, Tian L, Looger L, Svoboda K. Activity in motor-sensory projections reveals distributed coding in somatosensation. Nature 489: 299–303, 2012. doi:10.1038/nature11321. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nature11321</ArticleId>
+            <ArticleId IdType="pmc">PMC3443316</ArticleId>
+            <ArticleId IdType="pubmed">22922646</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Ponce CR, Xiao W, Schade PF, Hartmann TS, Kreiman G, Livingstone MS. Evolving images for visual neurons using a deep generative network reveals coding principles and neuronal preferences. Cell 177: 999–1009.e10, 2019. doi:10.1016/j.cell.2019.04.005. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.cell.2019.04.005</ArticleId>
+            <ArticleId IdType="pmc">PMC6718199</ArticleId>
+            <ArticleId IdType="pubmed">31051108</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Renart A, de la Rocha J, Bartho P, Hollender L, Parga N, Reyes A, Harris KD. The asynchronous state in cortical circuits. Science 327: 587–590, 2010. doi:10.1126/science.1179850. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1179850</ArticleId>
+            <ArticleId IdType="pmc">PMC2861483</ArticleId>
+            <ArticleId IdType="pubmed">20110507</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Rikhye RV, Sur M. Spatial correlations in natural scenes modulate response reliability in mouse visual cortex. J Neurosci 35: 14661–14680, 2015. doi:10.1523/JNEUROSCI.1660-15.2015. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.1660-15.2015</ArticleId>
+            <ArticleId IdType="pmc">PMC4623231</ArticleId>
+            <ArticleId IdType="pubmed">26511254</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Safaai H, von Heimendahl M, Sorando JM, Diamond ME, Maravall M. Coordinated population activity underlying texture discrimination in rat barrel cortex. J Neurosci 33: 5843–5855, 2013. doi:10.1523/JNEUROSCI.3486-12.2013. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.3486-12.2013</ArticleId>
+            <ArticleId IdType="pmc">PMC6705064</ArticleId>
+            <ArticleId IdType="pubmed">23536096</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Saxena S, Cunningham JP. Towards the neural population doctrine. Curr Opin Neurobiol 55: 103–111, 2019. doi:10.1016/j.conb.2019.02.002. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.conb.2019.02.002</ArticleId>
+            <ArticleId IdType="pubmed">30877963</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Schölvinck ML, Saleem AB, Benucci A, Harris KD, Carandini M. Cortical state determines global variability and correlations in visual cortex. J Neurosci 35: 170–178, 2015. doi:10.1523/JNEUROSCI.4994-13.2015. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.4994-13.2015</ArticleId>
+            <ArticleId IdType="pmc">PMC4287140</ArticleId>
+            <ArticleId IdType="pubmed">25568112</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Softky WR, Koch C. The highly irregular firing of cortical cells is inconsistent with temporal integration of random EPSPs. J Neurosci 13: 334–350, 1993. doi:10.1523/JNEUROSCI.13-01-00334.1993. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.13-01-00334.1993</ArticleId>
+            <ArticleId IdType="pmc">PMC6576320</ArticleId>
+            <ArticleId IdType="pubmed">8423479</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stringer C, Pachitariu M, Steinmetz N, Carandini M, Harris KD. High-dimensional geometry of population responses in visual cortex. Nature 571: 361–365, 2019a. doi:10.1038/s41586-019-1346-5. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/s41586-019-1346-5</ArticleId>
+            <ArticleId IdType="pmc">PMC6642054</ArticleId>
+            <ArticleId IdType="pubmed">31243367</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Stringer C, Pachitariu M, Steinmetz N, Reddy CB, Carandini M, Harris KD. Spontaneous behaviors drive multidimensional, brainwide activity. Science 364: eaav7893, 2019b. doi:10.1126/science.aav7893. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.aav7893</ArticleId>
+            <ArticleId IdType="pmc">PMC6525101</ArticleId>
+            <ArticleId IdType="pubmed">31000656</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Sun W, Tan Z, Mensh BD, Ji N. Thalamus provides layer 4 of primary visual cortex with orientation- and direction-tuned inputs. Nat Neurosci 19: 308–315, 2016. doi:10.1038/nn.4196. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn.4196</ArticleId>
+            <ArticleId IdType="pmc">PMC4731241</ArticleId>
+            <ArticleId IdType="pubmed">26691829</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>van Vreeswijk C, Sompolinsky H. Chaos in neuronal networks with balanced excitatory and inhibitory activity. Science 274: 1724–1726, 1996. doi:10.1126/science.274.5293.1724. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.274.5293.1724</ArticleId>
+            <ArticleId IdType="pubmed">8939866</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>van Vreeswijk C, Sompolinsky H. Chaotic balanced state in a model of cortical circuits. Neural Comput 10: 1321–1371, 1998. doi:10.1162/089976698300017214. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/089976698300017214</ArticleId>
+            <ArticleId IdType="pubmed">9698348</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Vinck M, Batista-Brito R, Knoblich U, Cardin JA. Arousal and locomotion make distinct contributions to cortical activity patterns and visual encoding. Neuron 86: 740–754, 2015. doi:10.1016/j.neuron.2015.03.028. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2015.03.028</ArticleId>
+            <ArticleId IdType="pmc">PMC4425590</ArticleId>
+            <ArticleId IdType="pubmed">25892300</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Williams AH, Kim TH, Wang F, Vyas S, Ryu SI, Shenoy KV, Schnitzer M, Kolda TG, Ganguli S. Unsupervised discovery of demixed, low-dimensional neural dynamics across multiple timescales through tensor component analysis. Neuron 98: 1099–1115.e8, 2018. doi:10.1016/j.neuron.2018.05.015. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neuron.2018.05.015</ArticleId>
+            <ArticleId IdType="pmc">PMC6907734</ArticleId>
+            <ArticleId IdType="pubmed">29887338</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>Yuste R. From the neuron doctrine to neural networks. Nat Rev Neurosci 16: 487–497, 2015. doi:10.1038/nrn3962. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nrn3962</ArticleId>
+            <ArticleId IdType="pubmed">26152865</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>

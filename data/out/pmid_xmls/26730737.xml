@@ -1,0 +1,857 @@
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+  <PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+      <PMID Version="1">26730737</PMID>
+      <DateCompleted>
+        <Year>2016</Year>
+        <Month>07</Month>
+        <Day>20</Day>
+      </DateCompleted>
+      <DateRevised>
+        <Year>2019</Year>
+        <Month>02</Month>
+        <Day>22</Day>
+      </DateRevised>
+      <Article PubModel="Electronic-eCollection">
+        <Journal>
+          <ISSN IssnType="Electronic">1932-6203</ISSN>
+          <JournalIssue CitedMedium="Internet">
+            <Volume>11</Volume>
+            <Issue>1</Issue>
+            <PubDate>
+              <Year>2016</Year>
+            </PubDate>
+          </JournalIssue>
+          <Title>PloS one</Title>
+          <ISOAbbreviation>PLoS One</ISOAbbreviation>
+        </Journal>
+        <ArticleTitle>Interplay between Subthreshold Oscillations and Depressing Synapses in Single Neurons.</ArticleTitle>
+        <Pagination>
+          <StartPage>e0145830</StartPage>
+          <MedlinePgn>e0145830</MedlinePgn>
+        </Pagination>
+        <ELocationID EIdType="pii" ValidYN="Y">e0145830</ELocationID>
+        <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0145830</ELocationID>
+        <Abstract>
+          <AbstractText>In this paper we analyze the interplay between the subthreshold oscillations of a single neuron conductance-based model and the short-term plasticity of a dynamic synapse with a depressing mechanism. In previous research, the computational properties of subthreshold oscillations and dynamic synapses have been studied separately. Our results show that dynamic synapses can influence different aspects of the dynamics of neuronal subthreshold oscillations. Factors such as maximum hyperpolarization level, oscillation amplitude and frequency or the resulting firing threshold are modulated by synaptic depression, which can even make subthreshold oscillations disappear. This influence reshapes the postsynaptic neuron's resonant properties arising from subthreshold oscillations and leads to specific input/output relations. We also study the neuron's response to another simultaneous input in the context of this modulation, and show a distinct contextual processing as a function of the depression, in particular for detection of signals through weak synapses. Intrinsic oscillations dynamics can be combined with the characteristic time scale of the modulatory input received by a dynamic synapse to build cost-effective cell/channel-specific information discrimination mechanisms, beyond simple resonances. In this regard, we discuss the functional implications of synaptic depression modulation on intrinsic subthreshold dynamics.</AbstractText>
+        </Abstract>
+        <AuthorList CompleteYN="Y">
+          <Author ValidYN="Y">
+            <LastName>Latorre</LastName>
+            <ForeName>Roberto</ForeName>
+            <Initials>R</Initials>
+            <AffiliationInfo>
+              <Affiliation>Grupo de Neurocomputación Biológica, Dpto. de Ingeniería Informática, Escuela Politécnica Superior, Universidad Autónoma de Madrid, 28049, Madrid, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Torres</LastName>
+            <ForeName>Joaquín J</ForeName>
+            <Initials>JJ</Initials>
+            <AffiliationInfo>
+              <Affiliation>Departamento de Electromagnetismo y Física de la Materia, and Institute Carlos I for Theoretical and Computational Physics, University of Granada, Granada, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+          <Author ValidYN="Y">
+            <LastName>Varona</LastName>
+            <ForeName>Pablo</ForeName>
+            <Initials>P</Initials>
+            <AffiliationInfo>
+              <Affiliation>Grupo de Neurocomputación Biológica, Dpto. de Ingeniería Informática, Escuela Politécnica Superior, Universidad Autónoma de Madrid, 28049, Madrid, Spain.</Affiliation>
+            </AffiliationInfo>
+          </Author>
+        </AuthorList>
+        <Language>eng</Language>
+        <PublicationTypeList>
+          <PublicationType UI="D016428">Journal Article</PublicationType>
+          <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+        </PublicationTypeList>
+        <ArticleDate DateType="Electronic">
+          <Year>2016</Year>
+          <Month>01</Month>
+          <Day>05</Day>
+        </ArticleDate>
+      </Article>
+      <MedlineJournalInfo>
+        <MedlineTA>PLoS One</MedlineTA>
+        <NlmUniqueID>101285081</NlmUniqueID>
+        <ISSNLinking>1932-6203</ISSNLinking>
+      </MedlineJournalInfo>
+      <CitationSubset>IM</CitationSubset>
+      <MeshHeadingList>
+        <MeshHeading>
+          <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D053444" MajorTopicYN="Y">Inhibitory Postsynaptic Potentials</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D008959" MajorTopicYN="N">Models, Neurological</DescriptorName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+          <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+        <MeshHeading>
+          <DescriptorName UI="D013569" MajorTopicYN="N">Synapses</DescriptorName>
+          <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+        </MeshHeading>
+      </MeshHeadingList>
+      <CoiStatement><b>Competing Interests: </b>The authors have declared that no competing interests exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+      <History>
+        <PubMedPubDate PubStatus="received">
+          <Year>2015</Year>
+          <Month>9</Month>
+          <Day>15</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="accepted">
+          <Year>2015</Year>
+          <Month>11</Month>
+          <Day>3</Day>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="entrez">
+          <Year>2016</Year>
+          <Month>1</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="pubmed">
+          <Year>2016</Year>
+          <Month>1</Month>
+          <Day>6</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+        <PubMedPubDate PubStatus="medline">
+          <Year>2016</Year>
+          <Month>7</Month>
+          <Day>21</Day>
+          <Hour>6</Hour>
+          <Minute>0</Minute>
+        </PubMedPubDate>
+      </History>
+      <PublicationStatus>epublish</PublicationStatus>
+      <ArticleIdList>
+        <ArticleId IdType="pubmed">26730737</ArticleId>
+        <ArticleId IdType="pmc">PMC4701431</ArticleId>
+        <ArticleId IdType="doi">10.1371/journal.pone.0145830</ArticleId>
+        <ArticleId IdType="pii">PONE-D-15-40769</ArticleId>
+      </ArticleIdList>
+      <ReferenceList>
+        <Reference>
+          <Citation>
+Engel AK, Fries P, Singer W. Dynamic predictions: oscillations and synchrony in top-down processing. Nat Rev Neurosci. 2001. 
+October;2(10):704–716. 10.1038/35094565
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/35094565</ArticleId>
+            <ArticleId IdType="pubmed">11584308</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Hutcheon B, Yarom Y. Resonance, oscillation and the intrinsic frequency preferences of neurons. Trends Neurosci. 2000. 
+May;23(5):216–222. 10.1016/S0166-2236(00)01547-2
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0166-2236(00)01547-2</ArticleId>
+            <ArticleId IdType="pubmed">10782127</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Izhikevich EM, Desai NS, Walcott EC, Hoppensteadt FC. Bursts as a unit of neural information: selective communication via resonance. Trends in Neurosciences. 2003;26(3):161–167. 10.1016/S0166-2236(03)00034-1
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0166-2236(03)00034-1</ArticleId>
+            <ArticleId IdType="pubmed">12591219</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Rotstein HG. Frequency Preference Response to Oscillatory Inputs in Two-dimensional Neural Models: A Geometric Approach to Subthreshold Amplitude and Phase Resonance. J Math Neurosci. 2014;4:11
+10.1186/2190-8567-4-11
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1186/2190-8567-4-11</ArticleId>
+            <ArticleId IdType="pmc">PMC4014472</ArticleId>
+            <ArticleId IdType="pubmed">24872925</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Baroni F, Varona P. Subthreshold oscillations and neuronal input-output relationships. Neurocomputing. 2007;70(10–12):1611–1614. 10.1016/j.neucom.2006.10.042</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neucom.2006.10.042</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Baroni F, Torres JJ, Varona P. History-Dependent Excitability as a Single-Cell Substrate of Transient Memory for Information Discrimination. PLoS ONE. 2010. 
+December;5(12):e15023
+10.1371/journal.pone.0015023
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0015023</ArticleId>
+            <ArticleId IdType="pmc">PMC3010997</ArticleId>
+            <ArticleId IdType="pubmed">21203387</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Llinás R, Yarom Y. Oscillatory properties of guinea-pig inferior olivary neurones and their pharmacological modulation: an in vitro study. J Physiol. 1986. 
+July;376:163–182. 10.1113/jphysiol.1986.sp016147
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.1986.sp016147</ArticleId>
+            <ArticleId IdType="pmc">PMC1182792</ArticleId>
+            <ArticleId IdType="pubmed">3795074</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Desmaisons D, Vincent JD, Lledo PM. Control of action potential timing by intrinsic subthreshold oscillations in olfactory bulb output neurons. J Neurosci. 1999. 
+December;19(24):10727–10737. Available from: http://www.jneurosci.org/content/19/24/10727.abstract. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6784925</ArticleId>
+            <ArticleId IdType="pubmed">10594056</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Pike FG, Goddard RS, Suckling JM, Ganter P, Kasthuri N, Paulsen O. Distinct frequency preferences of different types of rat hippocampal neurones in response to oscillatory input currents. J Physiol. 2000;529(1):205–213. 10.1111/j.1469-7793.2000.00205.x
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1469-7793.2000.00205.x</ArticleId>
+            <ArticleId IdType="pmc">PMC2270176</ArticleId>
+            <ArticleId IdType="pubmed">11080262</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Llinás RR, Grace AA, Yarom Y. In vitro neurons in mammalian cortical layer 4 exhibit intrinsic oscillatory activity in the 10- to 50-Hz frequency range. Proc Natl Acad Sci U S A. 1991. 
+February;88(3):897–901. 10.1073/pnas.88.3.897
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.88.3.897</ArticleId>
+            <ArticleId IdType="pmc">PMC50921</ArticleId>
+            <ArticleId IdType="pubmed">1992481</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Tateno T, Harsch A, Robinson HPC. Threshold firing frequency-current relationships of neurons in rat somatosensory cortex: type 1 and type 2 dynamics. J Neurophysiol. 2004. 
+October;92(4):2283–2294. 10.1152/jn.00109.2004
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.00109.2004</ArticleId>
+            <ArticleId IdType="pubmed">15381746</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Giocomo LM, Zilli EA, Fransén E, Hasselmo ME. Temporal Frequency of Subthreshold Oscillations Scales with Entorhinal Grid Cell Field Spacing. Science. 2007;315(5819):1719–1722. 10.1126/science.1139207
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1139207</ArticleId>
+            <ArticleId IdType="pmc">PMC2950607</ArticleId>
+            <ArticleId IdType="pubmed">17379810</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Reboreda A, Sánchez E, Romero M, Lamas JA. Intrinsic spontaneous activity and subthreshold oscillations in neurones of the rat dorsal column nuclei in culture. J Physiol. 2003. 
+August;551(Pt 1):191–205. 10.1113/jphysiol.2003.039917
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.2003.039917</ArticleId>
+            <ArticleId IdType="pmc">PMC2343140</ArticleId>
+            <ArticleId IdType="pubmed">12844503</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Boehlen A, Henneberger C, Heinemann U, Erchova I. Contribution of near-threshold currents to intrinsic oscillatory activity in rat medial entorhinal cortex layer II stellate cells. J Neurophysiol. 2013. 
+January;109(2):445–463. 10.1152/jn.00743.2011
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.00743.2011</ArticleId>
+            <ArticleId IdType="pmc">PMC3545459</ArticleId>
+            <ArticleId IdType="pubmed">23076110</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Engel TA, Schimansky-Geier L, Herz AVM, Schreiber S, Erchova I. Subthreshold membrane-potential resonances shape spike-train patterns in the entorhinal cortex. J Neurophysiol. 2008. 
+September;100(3):1576–1589. 10.1152/jn.01282.2007
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.01282.2007</ArticleId>
+            <ArticleId IdType="pmc">PMC2544463</ArticleId>
+            <ArticleId IdType="pubmed">18450582</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Rotstein HG. Subthreshold amplitude and phase resonance in models of quadratic type: nonlinear effects generated by the interplay of resonant and amplifying currents. J Comput Neurosci. 2015;38(2):325–354. 10.1007/s10827-014-0544-2
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10827-014-0544-2</ArticleId>
+            <ArticleId IdType="pubmed">25586875</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Varona P, Aguirre C, Torres JJ, Abarbanel HDI, Rabinovich MI. Spatio-temporal patterns of network activity in the inferior olive. Neurocomputing. 2002;44–46(0):685–690. 10.1016/S0925-2312(02)00458-7</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0925-2312(02)00458-7</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Latorre R, Aguirre C, Rabinovich MI, Varona P. Transient dynamics and rhythm coordination of inferior olive spatio-temporal patterns. Front Neural Circuits. 2013;7:138
+10.3389/fncir.2013.00138
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncir.2013.00138</ArticleId>
+            <ArticleId IdType="pmc">PMC3763220</ArticleId>
+            <ArticleId IdType="pubmed">24046731</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Baroni F, Burkitt AN, Grayden DB. Interplay of Intrinsic and Synaptic Conductances in the Generation of High-Frequency Oscillations in Interneuronal Networks with Irregular Spiking. PLoS Comput Biol. 2014. 
+May;10(5):e1003574
+10.1371/journal.pcbi.1003574
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.1003574</ArticleId>
+            <ArticleId IdType="pmc">PMC4006709</ArticleId>
+            <ArticleId IdType="pubmed">24784237</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Brezina V, Orekhova IV, Weiss KR. Control of time-dependent biological processes by temporally patterned input. Proc Natl Acad Sci U S A. 1997. 
+September;94(19):10444–10449. 10.1073/pnas.94.19.10444
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.94.19.10444</ArticleId>
+            <ArticleId IdType="pmc">PMC23382</ArticleId>
+            <ArticleId IdType="pubmed">9294230</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mohan A, McDonnell MD, Stricker C. Interaction of short-term depression and firing dynamics in shaping single neuron encoding. Front Comput Neurosci. 2013;7:41
+10.3389/fncom.2013.00041
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncom.2013.00041</ArticleId>
+            <ArticleId IdType="pmc">PMC3630324</ArticleId>
+            <ArticleId IdType="pubmed">23626533</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Abbott LF, Varela JA, Sen K, Nelson SB. Synaptic depression and cortical gain control. Science. 1997. 
+January;275(5297):220–224. 10.1126/science.275.5297.221
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.275.5297.221</ArticleId>
+            <ArticleId IdType="pubmed">8985017</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Tsodyks MV, Markram H. The neural code between neocortical pyramidal neurons depends on neurotransmitter release probability. Proc Natl Acad Sci U S A. 1997. 
+January;94(2):719–723. 10.1073/pnas.94.2.719
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1073/pnas.94.2.719</ArticleId>
+            <ArticleId IdType="pmc">PMC19580</ArticleId>
+            <ArticleId IdType="pubmed">9012851</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Klug A, Borst JGG, Carlson BA, Kopp-Scheinpflug C, Klyachko VA, Xu-Friedman MA. How do short-term changes at synapses fine-tune information processing?
+J Neurosci. 2012. 
+October;32(41):14058–14063. 10.1523/JNEUROSCI.3348-12.2012
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.3348-12.2012</ArticleId>
+            <ArticleId IdType="pmc">PMC3488594</ArticleId>
+            <ArticleId IdType="pubmed">23055473</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Markram H, Tsodyks M. Redistribution of synaptic efficacy between neocortical pyramidal neurons. Nature. 1996. 
+August;382(6594):807–810. 10.1038/382807a0
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/382807a0</ArticleId>
+            <ArticleId IdType="pubmed">8752273</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Pieribone VA, Shupliakov O, Brodin L, Hilfiker-Rothenfluh S, Czernik AJ, Greengard P. Distinct pools of synaptic vesicles in neurotransmitter release. Nature. 1995. 
+June;375(6531):493–497. 10.1038/375493a0
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/375493a0</ArticleId>
+            <ArticleId IdType="pubmed">7777058</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zucker RS. Short-term synaptic plasticity. Annu Rev Neurosci. 1989;12:13–31. 10.1146/annurev.ne.12.030189.000305
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev.ne.12.030189.000305</ArticleId>
+            <ArticleId IdType="pubmed">2648947</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Zucker RS, Regehr WG. Short-term synaptic plasticity. Annu Rev Physiol. 2002;64:355–405. 10.1146/annurev.physiol.64.092501.114547
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev.physiol.64.092501.114547</ArticleId>
+            <ArticleId IdType="pubmed">11826273</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bertram R, Sherman A, Stanley EF. Single-domain/bound calcium hypothesis of transmitter release and facilitation. J Neurophysiol. 1996. 
+May;75(5):1919–1931. Available from: http://jn.physiology.org/content/75/5/1919.short. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pubmed">8734591</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wu S, Wong KYM, Tsodyks M. Neural information processing with dynamical synapses. Front Comput Neurosci. 2013;7:188
+10.3389/fncom.2013.00188
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncom.2013.00188</ArticleId>
+            <ArticleId IdType="pmc">PMC3872650</ArticleId>
+            <ArticleId IdType="pubmed">24421767</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Torres JJ, Kappen HJ. Emerging phenomena in neural networks with dynamic synapses and their computational implications. Front Comput Neurosci. 2013;7:30
+10.3389/fncom.2013.00030
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncom.2013.00030</ArticleId>
+            <ArticleId IdType="pmc">PMC3617396</ArticleId>
+            <ArticleId IdType="pubmed">23637657</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Natschläger T, Maass W, Zador A. Efficient temporal processing with biologically realistic dynamic synapses. Network. 2001. 
+February;12(1):75–87. 10.1080/net.12.1.75.87
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/net.12.1.75.87</ArticleId>
+            <ArticleId IdType="pubmed">11254083</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Liaw JS, Berger TW. Dynamic synapse: a new concept of neural representation and computation. Hippocampus. 1996;6(6):591–600. 10.1002/(SICI)1098-1063(1996)6:6&lt;591::AID-HIPO4&gt;3.0.CO;2-K
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/(SICI)1098-1063(1996)6:6&lt;591::AID-HIPO4&gt;3.0.CO;2-K</ArticleId>
+            <ArticleId IdType="pubmed">9034848</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bressloff PC. Mean-field theory of globally coupled integrate-and-fire neural oscillators with dynamic synapses. Phys Rev E. 1999. 
+August;60(2 Pt B):2160–2170. 10.1103/PhysRevE.60.2160</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1103/PhysRevE.60.2160</ArticleId>
+            <ArticleId IdType="pubmed">11970009</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kistler WM, van Hemmen JL. Short-term synaptic plasticity and network behavior. Neural Comput. 1999. 
+October;11(7):1579–1594. 10.1162/089976699300016151
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/089976699300016151</ArticleId>
+            <ArticleId IdType="pubmed">10490939</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Senn W, Wyler K, Streit J, Larkum M, r Lüscher H, Mey H, et al.
+Dynamics of random neural network with synaptic depression. Neural Netw. 1996;9:575–588. 10.1016/0893-6080(95)00109-3</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/0893-6080(95)00109-3</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Tsodyks M, Pawelzik K, Markram H. Neural networks with dynamic synapses. Neural Comput. 1998. 
+May;10(4):821–835. 10.1162/089976698300017502
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/089976698300017502</ArticleId>
+            <ArticleId IdType="pubmed">9573407</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Tsodyks M, Uziel A, Markram H. Synchrony generation in recurrent networks with frequency-dependent synapses. J Neurosci. 2000. 
+January;20(1):RC50
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6774142</ArticleId>
+            <ArticleId IdType="pubmed">10627627</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Romani S, Tsodyks M. Short-term plasticity based network model of place cells dynamics. Hippocampus. 2015;25(1):94–105. 10.1002/hipo.22355
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/hipo.22355</ArticleId>
+            <ArticleId IdType="pubmed">25155013</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Senn W, Segev I, Tsodyks M. Reading neuronal synchrony with depressing synapses. Neural Comput. 1998. 
+May;10(4):815–819. 10.1162/089976698300017494
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/089976698300017494</ArticleId>
+            <ArticleId IdType="pubmed">9573406</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Barak O, Tsodyks M. Persistent activity in neural networks with dynamic synapses. PLoS Comput Biol. 2007. 
+February;3(2):e35
+10.1371/journal.pcbi.0030035
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.0030035</ArticleId>
+            <ArticleId IdType="pmc">PMC1808024</ArticleId>
+            <ArticleId IdType="pubmed">17319739</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mongillo G, Barak O, Tsodyks M. Synaptic theory of working memory. Science. 2008. 
+March;319(5869):1543–1546. 10.1126/science.1150769
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1150769</ArticleId>
+            <ArticleId IdType="pubmed">18339943</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Pantic L, Torres JJ, Kappen HJ, Gielen SCAM. Associative memory with dynamic synapses. Neural Comput. 2002. 
+December;14(12):2903–2923. 10.1162/089976602760805331
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/089976602760805331</ArticleId>
+            <ArticleId IdType="pubmed">12487797</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Cortes JM, Garrido PL, Marro J, Torres JJ. Switching between memories in neural automata withsynaptic noise. Neurocomputing. 2004;58–60:67–71. 10.1016/j.neucom.2004.01.024</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neucom.2004.01.024</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Cortes JM, Torres JJ, Marro J, Garrido PL, Kappen HJ. Effects of fast presynaptic noise in attractor neural networks. Neural Comput. 2006. 
+March;18(3):614–633. Available from: 10.1162/089976606775623342. 10.1162/neco.2006.18.3.614
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/089976606775623342</ArticleId>
+            <ArticleId IdType="doi">10.1162/neco.2006.18.3.614</ArticleId>
+            <ArticleId IdType="pubmed">16483410</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Torres JJ, Cortes JM, Marro J, Kappen HJ. Competition between synaptic depression and facilitation in attractor neural networks. Neural Comput. 2007. 
+October;19(10):2739–2755. 10.1162/neco.2007.19.10.2739
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/neco.2007.19.10.2739</ArticleId>
+            <ArticleId IdType="pubmed">17716010</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Marro J, Torres JJ, Cortés JM. Chaotic hopping between attractors in neural networks. Neural Netw. 2007. 
+March;20(2):230–235. 10.1016/j.neunet.2006.11.005
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.neunet.2006.11.005</ArticleId>
+            <ArticleId IdType="pubmed">17196366</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Holcman D, Tsodyks M. The emergence of Up and Down states in cortical networks. PLoS Comput Biol. 2006. 
+March;2(3):e23
+10.1371/journal.pcbi.0020023
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.0020023</ArticleId>
+            <ArticleId IdType="pmc">PMC1409813</ArticleId>
+            <ArticleId IdType="pubmed">16557293</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Steriade M, Nuñez A, Amzica F. A novel slow (&lt; 1Hz) oscillation of neocortical neurons in vivo: depolarizing and hyperpolarizing components. J Neurosci. 1993. 
+August;13(8):3252–3265. Available from: http://www.jneurosci.org/content/13/8/3252.short. </Citation>
+          <ArticleIdList>
+            <ArticleId IdType="pmc">PMC6576541</ArticleId>
+            <ArticleId IdType="pubmed">8340806</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Steriade M, McCormick DA, Sejnowski TJ. Thalamocortical oscillations in the sleeping and aroused brain. Science. 1993. 
+October;262(5134):679–685. 10.1126/science.8235588
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.8235588</ArticleId>
+            <ArticleId IdType="pubmed">8235588</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Benita JM, Guillamon A, Deco G, Sanchez-Vives MV. Synaptic depression and slow oscillatory activity in a biophysical network model of the cerebral cortex. Front Comput Neurosci. 2012;6:64
+10.3389/fncom.2012.00064
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fncom.2012.00064</ArticleId>
+            <ArticleId IdType="pmc">PMC3428579</ArticleId>
+            <ArticleId IdType="pubmed">22973221</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Compte A, Sanchez-Vives MV, McCormick DA, Wang XJ. Cellular and network mechanisms of slow oscillatory activity (&lt; 1Hz) and wave propagations in a cortical network model. J Neurophysiol. 2003. 
+May;89(5):2707–2725. 10.1152/jn.00845.2002
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1152/jn.00845.2002</ArticleId>
+            <ArticleId IdType="pubmed">12612051</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Mejias JF, Torres JJ. Emergence of resonances in neural systems: the interplay between adaptive threshold and short-term synaptic plasticity. PLoS One. 2011;6(3):e17255
+10.1371/journal.pone.0017255
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0017255</ArticleId>
+            <ArticleId IdType="pmc">PMC3050837</ArticleId>
+            <ArticleId IdType="pubmed">21408148</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Torres JJ, Marro J, Mejias JF. Can intrinsic noise induce various resonant peaks?
+New J Phys. 2011;13:053014
+10.1088/1367-2630/13/5/053014</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1088/1367-2630/13/5/053014</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Pinamonti G, Marro J, Torres JJ. Stochastic resonance crossovers in complex networks. PLoS One. 2012;7(12):e51170
+10.1371/journal.pone.0051170
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0051170</ArticleId>
+            <ArticleId IdType="pmc">PMC3522682</ArticleId>
+            <ArticleId IdType="pubmed">23272090</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Destexhe A, Mainen ZF, Sejnowski TJ. An efficient method for computing synaptic conductances based on kinetic model of receptor binding. Neural Comput. 1994;6:14–18. 10.1162/neco.1994.6.1.14</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/neco.1994.6.1.14</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Clements JD, Lester RA, Tong G, Jahr CE, Westbrook GL. The time course of glutamate in the synaptic cleft. Science. 1992. 
+November;258(5087):1498–1501. 10.1126/science.1359647
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1126/science.1359647</ArticleId>
+            <ArticleId IdType="pubmed">1359647</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Colquhoun D, Jonas P, Sakmann B. Action of brief pulses of glutamate on AMPA/kainate receptors in patches from different neurones of rat hippocampal slices. J Physiol. 1992. 
+December;458:261–287. 10.1113/jphysiol.1992.sp019417
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.1992.sp019417</ArticleId>
+            <ArticleId IdType="pmc">PMC1175155</ArticleId>
+            <ArticleId IdType="pubmed">1338788</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Dudel J, Kuffler SW. Presynaptic inhibition at the crayfish neuromuscular junction. J Physiol. 1961. 
+March;155:543–562. 10.1113/jphysiol.1961.sp006646
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1113/jphysiol.1961.sp006646</ArticleId>
+            <ArticleId IdType="pmc">PMC1359874</ArticleId>
+            <ArticleId IdType="pubmed">13724752</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Dobrunz LE, Stevens CF. Heterogeneity of release probability, facilitation, and depletion at central synapses. Neuron. 1997. 
+June;18(6):995–1008. 10.1016/S0896-6273(00)80338-4
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0896-6273(00)80338-4</ArticleId>
+            <ArticleId IdType="pubmed">9208866</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Wang Y, Markram H, Goodman PH, Berger TK, Ma J, Goldman-Rakic PS. Heterogeneity in the pyramidal network of the medial prefrontal cortex. Nat Neurosci. 2006. 
+April;9(4):534–542. 10.1038/nn1670
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1038/nn1670</ArticleId>
+            <ArticleId IdType="pubmed">16547512</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+O’Donnell C, Nolan MF. Tuning of synaptic responses: an organizing principle for optimization of neural circuits. Trends in Neurosciences. 2011;34(2):51–60. 10.1016/j.tins.2010.10.003
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.tins.2010.10.003</ArticleId>
+            <ArticleId IdType="pubmed">21067825</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Gammaitoni L, Hänggi P, Jung P, Marchesoni F. Stochastic resonance. Rev Mod Phys. 1998. 
+January;70:223–287. 10.1103/RevModPhys.70.223</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1103/RevModPhys.70.223</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Moser EI, Kropff E, Moser MB. Place cells, grid cells, and the brain’s spatial representation system. Annu Rev Neurosci. 2008;31:69–89. 10.1146/annurev.neuro.31.061307.090723
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1146/annurev.neuro.31.061307.090723</ArticleId>
+            <ArticleId IdType="pubmed">18284371</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Fernandez FR, White JA. Artificial synaptic conductances reduce subthreshold oscillations and periodic firing in stellate cells of the entorhinal cortex. J Neurosci. 2008. 
+April;28(14):3790–3803. 10.1523/JNEUROSCI.5658-07.2008
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.5658-07.2008</ArticleId>
+            <ArticleId IdType="pmc">PMC6671103</ArticleId>
+            <ArticleId IdType="pubmed">18385337</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+De Zeeuw CI, Simpson JI, Hoogenraad CC, Galjart N, Koekkoek SK, Ruigrok TJ. Microcircuitry and function of the inferior olive. Trends Neurosci. 1998. 
+September;21(9):391–400. 10.1016/S0166-2236(98)01310-1
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/S0166-2236(98)01310-1</ArticleId>
+            <ArticleId IdType="pubmed">9735947</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Kilpatrick ZP, Bressloff PC. Spatially structured oscillations in a two-dimensional excitatory neuronal network with synaptic depression. J Comput Neurosci. 2010. 
+April;28(2):193–209. 10.1007/s10827-009-0199-6
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s10827-009-0199-6</ArticleId>
+            <ArticleId IdType="pubmed">19866351</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Bressloff P, Kilpatrick Z. Two-Dimensional Bumps in Piecewise Smooth Neural Fields with Synaptic Depression. SIAM J Appl Math. 2011;71(2):379–408. 10.1137/100799423</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1137/100799423</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Fung CCA, Wong KYM, Wang H, Wu S. Dynamical synapses enhance neural information processing: gracefulness, accuracy, and mobility. Neural Comput. 2012. 
+May;24(5):1147–1185. 10.1162/NECO_a_00269
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1162/NECO_a_00269</ArticleId>
+            <ArticleId IdType="pubmed">22295986</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+de la Rocha J, Parga N. Short-Term Synaptic Depression Causes a Non-Monotonic Response to Correlated Stimuli. The Journal of Neuroscience. 2005;25(37):8416–8431. Available from: http://www.jneurosci.org/content/25/37/8416.abstract. 10.1523/JNEUROSCI.0631-05.2005
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.0631-05.2005</ArticleId>
+            <ArticleId IdType="pmc">PMC6725676</ArticleId>
+            <ArticleId IdType="pubmed">16162924</ArticleId>
+          </ArticleIdList>
+        </Reference>
+        <Reference>
+          <Citation>
+Baroni F, Varona P. Spike timing-dependent plasticity is affected by the interplay of intrinsic and network oscillations. J Physiol Paris. 2010;104(1–2):91–98. 10.1016/j.jphysparis.2009.11.007
+</Citation>
+          <ArticleIdList>
+            <ArticleId IdType="doi">10.1016/j.jphysparis.2009.11.007</ArticleId>
+            <ArticleId IdType="pubmed">19913095</ArticleId>
+          </ArticleIdList>
+        </Reference>
+      </ReferenceList>
+    </PubmedData>
+  </PubmedArticle>
+</PubmedArticleSet>
