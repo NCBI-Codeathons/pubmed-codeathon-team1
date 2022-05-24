@@ -3,7 +3,7 @@
 
 ## Data info
 
-### pmids.csv
+### data/out/pmids.csv
 
 This is a list of all the pmids for the terms we're interested in. Here's what the fields mean:
 
@@ -11,6 +11,12 @@ This is a list of all the pmids for the terms we're interested in. Here's what t
 * query - query string, read in from [./data/in/team1_search_strats_search_terms.csv](data/in/team1_search_strats_search_terms.csv) (from Travis' google doc)
 * search_type - relevant | pubdate_desc
 * page - 1 | 2
+
+### data/out/pmid_xmls
+
+A set of raw xml files retrieved for each pmid in the pmids.csv file.
+
+### data/out/pubs.json (coming soon!)
 
 ### Wiki link
 <https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch>
