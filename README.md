@@ -1,5 +1,5 @@
 # pubmed-codeathon-team1 
-  potential team/product name - JUSTRIEVER?
+  potential team/product name - JUST RETRIEVER?
 
 ## Data info
 
@@ -27,9 +27,23 @@ This is a list of all the pmids for the terms we're interested in. Here's what t
 * Preeti G. Kochar
 * Sridhar Papagari Sangareddy
 
-## What does PubMed JUSTRIEVER do?
-The goal of PubMed JUSTRIEVER is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm. The specific focus is on biases based on author and article attributes.
+##ABSTRACT
+The goal of PubMed JUST RETRIEVER is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (date sort algorithm) . The focus for this project is to answer the following research questions:
+
+RQ1 Author attributes by Best Match rank
+Is there a correlation between various author attributes and retrieved best match search results?
+RQ2 Author attributes of Best Match vs date sort
+Is there a difference between search results between best search vs. date order search by author attributes?
+RQ3 Article attributes by Best Match rank
+Is there a correlation between various publication attributes and retrieved best match search results?
+RQ4 Article attributes of Best Match vs date sort
+Is there a difference between search results between best search vs. date order search by Publication Attributes?
+
+
+
+
+The specific focus is on biases based on author and article attributes.
 
 Some of the author attributes we are interested in are gender, race, institutional affiliation, country of origin, and author authority (e.g. research impact based on number of hits).
 
-## What is PubMed Best Search Algorithm?
+##What is PubMed Best Search Algorithm?
