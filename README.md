@@ -12,6 +12,9 @@ This is a list of all the pmids for the terms we're interested in. Here's what t
 * search_type - relevant | pubdate_desc
 * page - 1 | 2
 
+### Wiki link
+<https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch>
+
 ## ABSTRACT
 The goal of PubMed JUST RETRIEVER is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (date sort algorithm) . The focus for this project is to answer the following research questions:
 
