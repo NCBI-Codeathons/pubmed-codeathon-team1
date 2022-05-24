@@ -15,18 +15,39 @@
 # package docs- https://biopython.org/docs/1.75/api/Bio.Entrez.html
 
 from Bio import Entrez
+from eutil import EUtils
+from diagnose import print_element
+
 
 def main():
+
+    # Entrez results
     Entrez.email = 'brian.lee@cdc.gov'
 
     handle = Entrez.esearch(db='pubmed', 
                             retmax='10',
                             retmode='xml', 
-                            term='asthma')
+                            term='pubmed best match',
+                            sort='relevance')
     papers = Entrez.read(handle)
-    print(papers)
-    print('Number of results: ' + papers['Count']) #this is off from the preview server and GUI
-    #can't figure out how to have this package use the preview/beta search so the counts match the GUI, it seems hard coded in the python package https://github.com/biopython/biopython/blob/5a675c1bf7ef6cca0de5541c672d2a9aec537946/Bio/Entrez/__init__.py#L237
+    print(papers, "\n")
+
+    # Team 4 approach
+    eutils = EUtils(
+        '8d4c4f67f2a663e9d0ef6ed4d60a4eedd609',  # API key
+        'dansmood@gmail.com',  # Email address - unused
+        10,  # API calls per second
+        'https://eutilspreview.ncbi.nlm.nih.gov/entrez'
+        # URL prefix for preview - normally not needed
+    )
+
+    r = eutils.esearch(db='pubmed',
+                       retmax='10',
+                       retmode='xml',
+                       term='pubmed best match',
+                       sort='relevance')
+    print_element(r.xml(), "\n")
+
 
 if __name__ == '__main__':
     main()
