@@ -99,7 +99,6 @@ class EUtils(object):
 
     def esearch(self, db, **kwargs):
         url = EUTILS_URL.format(self.prefix, 'esearch.fcgi') + '?' + self.params(db, **kwargs)
-        print("url", url)
         r = self.session.get(url)
         r.xml = MethodType(extract_xml, r)
         return r
