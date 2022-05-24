@@ -12,7 +12,7 @@ from .tokenbucket import RateLimitedSession
 
 
 # Hostname for eutils
-EUTILS_PREFIX = 'https://eutilspreview.ncbi.nlm.nih.gov/entrez'
+EUTILS_PREFIX = 'https://eutils.ncbi.nlm.nih.gov/entrez'
 
 # Base URL for eutils
 EUTILS_URL = '{}/eutils/{}'
@@ -99,7 +99,6 @@ class EUtils(object):
 
     def esearch(self, db, **kwargs):
         url = EUTILS_URL.format(self.prefix, 'esearch.fcgi') + '?' + self.params(db, **kwargs)
-        print("url", url)
         r = self.session.get(url)
         r.xml = MethodType(extract_xml, r)
         return r
