@@ -115,6 +115,8 @@ _Significance of the results to (users, PubMed developers, IR researchers)_
 
 ## CONCLUSON
 
+## REFERENCES
+
 ## ACKNOWLEDGEMENTS
 
 Thanks to [Team4](https://github.com/NCBI-Codeathons/pubmed-codeathon-team4) and [@Danizen](https://github.com/danizen) for their pubmed api code that we used to pull down articles.
