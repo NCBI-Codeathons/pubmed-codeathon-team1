@@ -38,7 +38,7 @@ We filtered out certain publication types such as books, errata, and commentary 
 # METHODS
 ### Basic Workflow
 
-![High Level Workflow](data/visualizations/wfd2.png "High Level Workflow")
+![WFD2](data/visualizations/WFD2.png "High Level Workflow")
 
 1. Read the CSV files of search terms to use as search parameters for PubMed API.
 2. Connect to the APIs (<a href="https://ncbiinsights.ncbi.nlm.nih.gov/2022/03/24/test-server-pubmed-api/">PubMed's eUtils - both BestMatch and Publication Date sort endpoints</a>) to retrieve PMIDs and corresponding data. 
