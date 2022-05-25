@@ -60,8 +60,14 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 ### Wiki link
 <https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch>
 
-## ABSTRACT
-The goal of JUST RETRIEVAL is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (date sort algorithm) . The focus for this project is to answer the following research questions:
+## OVERVIEW
+The goal of JUST RETRIEVAL is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (date sort algorithm).
+
+## INTRODUCTION
+
+
+### Scope and Research Questions
+The focus for this project is to answer the following research questions:
 
 * RQ1: Is there a correlation between various author attributes and retrieved best match search results?
 * RQ2: Is there a difference between search results between best search and date order search by author attributes?
