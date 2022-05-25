@@ -79,12 +79,12 @@ We filtered out certain publication types such as books, errata, and commentary 
 ## METHODS
 ### Basic Workflow
 _Include a diagram, if time permits_
-1. Connect to the APIs (PubMed, iCite, ?) to retrieve PMIDs and corresponding data. 
-2. Read the CSV files of search terms to use as search parameters for PubMed API.
-3. Query and retrieve (both Best Match and Date Sort implementations) author and publication attributes for 1st 2 pages (1st 20 results).
-4. Compare the author and publication attributes in retrieved results for the first page (1st 10 results) with second page (2nd 10 results) of PubMed Best Match algorithm results.
-5. Compare the author and publication attributes in retrieved results (just 1st page) between the PubMed Best Search and PubMed Date Sort algorithms.
-6. Display the results and write observations.
+1. Read the CSV files of search terms to use as search parameters for PubMed API.
+2. Connect to the APIs (<a href="https://ncbiinsights.ncbi.nlm.nih.gov/2022/03/24/test-server-pubmed-api/">PubMed's eUtils - both BestMatch and Publication Date sort endpoints</a>, iCite) to retrieve PMIDs and corresponding data. 
+4. Query and retrieve (both Best Match and Date Sort implementations) author and publication attributes for 1st 2 pages (1st 20 results).
+5. Compare the author and publication attributes in retrieved results for the first page (1st 10 results) with second page (2nd 10 results) of PubMed Best Match algorithm results.
+6. Compare the author and publication attributes in retrieved results (just 1st page) between the PubMed Best Search and PubMed Date Sort algorithms.
+7. Display the results and write observations.
 
 ## RESULTS
 _Include Vizzes & observations (correlation charts?) of PubMed BM (Pg1 Vs. Pg2) and PubMed BM (Pg1) Vs. PubMed date sort (Pg1)
