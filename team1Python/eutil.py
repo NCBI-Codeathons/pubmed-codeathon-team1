@@ -8,7 +8,7 @@ from collections import OrderedDict
 from lxml import etree
 from io import BytesIO
 
-from .tokenbucket import RateLimitedSession
+from tokenbucket import RateLimitedSession
 
 
 # Hostname for eutils
