@@ -109,6 +109,8 @@ _Include a diagram, if time permits  !!_
 ## RESULTS
 _Include Vizzes & observations (correlation charts?) of PubMed BM (Pg1 Vs. Pg2) and PubMed BM (Pg1) Vs. PubMed date sort (Pg1)
 
+[APT SCORE](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/blob/main/data/visualizations/apt_score.png)
+
 ## DISCUSSION
 _ Any insights
 _Significance of the results to (users, PubMed developers, IR researchers)_
