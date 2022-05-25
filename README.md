@@ -1,5 +1,5 @@
-# pubmed-codeathon-team1 
-  potential team/product name - JUST RETRIEVER?
+# pubmed-codeathon-team1
+## JUST RETRIEVAL
 
 ## Data info
 
@@ -12,6 +12,35 @@ This is a list of all the pmids for the terms we're interested in. Here's what t
 * search_type - relevant | pubdate_desc
 * page - 1 | 2
 
+### data/out/pmid_data.csv
+
+Columns of data pulled directly from the PubMed API or [iCite](https://icite.od.nih.gov/):
+
+**iCite columns**
++ 'relative_citation_ratio',   [RCR](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002541) measure of influence
++ 'human',   Prediction from MeSH on human subject
++ 'animal',   Prediction from MeSH on animal subjects
++ 'molecular_cellular',   Prediction from MeSH on cellular subjects
++ 'apt',   Approx. potential to clinically translate
++ 'is_clinical',   Bool, clinical or guideline
++ 'citation_count',   Raw  of citations
++ 'cited_by',   PMIDs of citations
++ 'references',   PMIDs of references
+
+**PubMed columns**
++    'title'
++    'abstract'
++    'journal'
++    'authors'
++    'affiliations'
++    'pubdate'
++    'mesh_terms'
++    'publication_types'
++    'chemical_list'
++    'keywords'
++    'languages'
++    'country'
+
 ### data/out/pmid_xmls
 
 A set of raw xml files retrieved for each pmid in the pmids.csv file.
@@ -22,7 +51,7 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 <https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch>
 
 ## ABSTRACT
-The goal of PubMed JUST RETRIEVER is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (date sort algorithm) . The focus for this project is to answer the following research questions:
+The goal of JUST RETRIEVAL is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (date sort algorithm) . The focus for this project is to answer the following research questions:
 
 * RQ1: Is there a correlation between various author attributes and retrieved best match search results?
 * RQ2: Is there a difference between search results between best search and date order search by author attributes?
