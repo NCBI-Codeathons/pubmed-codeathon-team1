@@ -3,6 +3,16 @@
 
 ## DATA INFO
 
+### [data/in/team1_search_strats_search_terms.csv](data/in/team1_search_strats_search_terms.csv)
+
+This is a list of search terms that we will use for testing. Comes from a google doc not linked here because I'm not sure we want it public.
+
+Fields:
+
++ `Query` - query string used to search for publications
++ `Category` - Rare diseases | Signaling pathways | Autoimmune diseases | Cells | Infectious bacteria | Medical devices | Drugs | Social determinants of health, health equities
++ `Source` - link to source of term
+
 ### [data/out/pmids.csv](data/out/pmids.csv)
 
 This is a list of all the pmids for the terms we're interested in. Here's what the fields mean:
@@ -84,3 +94,7 @@ We filtered out certain publication types such as books, errata, and commentary 
 * Linda M. Hartman
 * Preeti G. Kochar
 * Sridhar Papagari Sangareddy
+
+## Acknowledgements
+
+Thanks to [Team4](https://github.com/NCBI-Codeathons/pubmed-codeathon-team4) and [@Danizen](https://github.com/danizen) for their pubmed api code that we used to pull down articles.
