@@ -18,7 +18,7 @@
 
 
 # ABSTRACT
-The goal of JUST RETRIEVAL is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (date sort algorithm).
+The goal of JUST RETRIEVAL is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (publication date sort algorithm).
 
 # INTRODUCTION
 _Include some background information from the literature review on why is it important to study bias in 1) research, 2) information retrieval and specifically, why is it important to evaluate PubMed best search for any biases_
@@ -37,7 +37,9 @@ We filtered out certain publication types such as books, errata, and commentary 
 
 # METHODS
 ### Basic Workflow
-_Include a diagram, if time permits  !!_
+
+![High Level Workflow](data/visualizations/wfd2.png "High Level Workflow")
+
 1. Read the CSV files of search terms to use as search parameters for PubMed API.
 2. Connect to the APIs (<a href="https://ncbiinsights.ncbi.nlm.nih.gov/2022/03/24/test-server-pubmed-api/">PubMed's eUtils - both BestMatch and Publication Date sort endpoints</a>) to retrieve PMIDs and corresponding data. 
 3. Query and retrieve (both Best Match and Date Sort implementations) author and publication attributes for 1st 2 pages (1st 20 results).
@@ -144,7 +146,9 @@ _Include Vizzes & observations (correlation charts?) of PubMed BM (Pg1 Vs. Pg2) 
 _ Any insights
 _Significance of the results to (users, PubMed developers, IR researchers)_
 
-# CONCLUSON
+_Limitations_
+
+# CONCLUSION
 
 # REFERENCES
 
