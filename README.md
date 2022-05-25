@@ -7,7 +7,7 @@
 1. [ABSTRACT](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#ABSTRACT)
 2. [INTRODUCTION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#INTRODUCTION)
 3. [METHODS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#METHODS)
-4. [DATA INFO]
+4. [DATA INFO] (#data_info)
 5. [RESULTS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#RESULTS)
 6. [DISCUSSION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#DISCUSSION)
 7. [CONCLUSION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#CONCLUSION)
