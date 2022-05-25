@@ -1,8 +1,9 @@
 import pandas as pd
-import numpy as np
 from pathlib import Path
-
+from tqdm import tqdm
 from mapaffil import mapaffil
+
+tqdm.pandas()
 
 
 def affiliation(x):
@@ -16,31 +17,38 @@ def affiliation(x):
 
 
 def location(x):
-    return mapaffil(x)["country"]
+    return mapaffil(x).get("country", "")
+
+
+def build_affiliations(df, group_keys, dest):
+    df = df.dropna(subset=["affiliations"])
+    df['affiliations'] = df.affiliations.progress_apply(affiliation)
+    dx = df.groupby(group_keys).affiliations.max()
+    dx.to_csv(dest / "author_affiliation.csv")
+
+
+def build_countries(df, group_keys, dest):
+    #df['country'] = df.pmid.progress_apply(location)
+    df.country = df.country.fillna("")
+    #df = df.dropna(subset=["country"])
+    dy = df.groupby(group_keys).country.max()
+    dy.to_csv(save_dest / "author_country.csv")
 
 
 # Load the dataset
 load_dest = Path("../data/out/")
 f_save = load_dest / "pmid_data.csv"
-
 df = pd.read_csv(f_save)
 
-# Drop missing values
-df = df.dropna(subset=["affiliations"])
-df['affiliations'] = df.affiliations.apply(affiliation())
-df['country'] = df.pmid.apply(location)
-print(df.country)
-
-
-
-# Language is saved as list.
-# If English is the only language it will look like this
-df["is_english_only"] = df["languages"] == "eng"
-
-# Group by queries for later analysis, take the mean (we dropped values)
 group_keys = ["query", "search_type", "page"]
-dx = df.groupby(group_keys).is_english_only.mean()
-
-# Save to feature set
 save_dest = Path("../data/features/")
-dx.to_csv(save_dest / "author_affiliation_and_country.csv")
+#build_affiliations(df, group_keys, save_dest)
+
+df = pd.read_csv("tmp.csv") #tmp
+print(df.country.value_counts()) #tmp
+build_countries(df, group_keys, save_dest)
+
+
+
+
+

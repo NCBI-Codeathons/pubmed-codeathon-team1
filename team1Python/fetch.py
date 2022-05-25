@@ -1,7 +1,6 @@
 # I can't get this file to work, so I went over to ../notebooks/fetch_articles_from_pmids.ipynb
 import pandas as pd
 from eutil import EUtils
-from diagnose import print_element
 import math
 from tqdm import tqdm
 

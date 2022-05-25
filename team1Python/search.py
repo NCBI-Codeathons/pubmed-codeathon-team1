@@ -1,6 +1,6 @@
 import pandas as pd
 from eutil import EUtils
-from diagnose import print_element
+from helpers import print_element
 import math
 from tqdm import tqdm
 
