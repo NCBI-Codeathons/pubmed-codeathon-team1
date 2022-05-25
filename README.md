@@ -2,7 +2,7 @@
 ## pubmed-codeathon-team1
 
 
-## TABLE OF CONTENTS
+## Table of Contents
 
 1. [Abstract](#abstract)
 2. [Introduction](#introduction)
