@@ -1,6 +1,53 @@
 # JUST RETRIEVAL
 ## pubmed-codeathon-team1
 
+
+## TABLE OF CONTENTS
+
+1. [ABSTRACT](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#ABSTRACT)
+2. [INTRODUCTION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#INTRODUCTION)
+3. [METHODS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#METHODS)
+4. [DATA INFO]
+5. [RESULTS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#RESULTS)
+6. [DISCUSSION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#DISCUSSION)
+7. [CONCLUSION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#CONCLUSION)
+8. [REFERENCES](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#REFERENCES)
+9. [ACKNOWLEDGEMENTS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#ACKNOWLEDGEMENTS)
+10. [TEAM MEMBERS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#TEAM%20MEMBERS)
+
+
+## ABSTRACT
+The goal of JUST RETRIEVAL is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (date sort algorithm).
+
+## INTRODUCTION
+_Include some background information from the literature review on why is it important to study bias in 1) research, 2) information retrieval and specifically, why is it important to evaluate PubMed best search for any biases_
+
+### Scope and Research Questions
+The focus for this project is to answer the following research questions:
+
+* RQ1: Is there a correlation between various author attributes and retrieved best match search results?
+* RQ2: Is there a difference between search results between best search and date order search by author attributes?
+* RQ3: Is there a correlation between various publication attributes and retrieved best match search results?
+* RQ4: Is there a difference between search results between best search vs. date order search by Publication Attributes?
+
+The author attributes that were considered are: gender, race, institutional affiliation, country of origin, and author authority (e.g., research impact based on number of hits). The publication attributes that were considered are: NIH funding, language of publication, reading level, diversity of references, associated data, and number of authors and affiliations.
+
+We filtered out certain publication types such as books, errata, and commentary and have relied on both past user search behaviors as well as custome search keywords across these categories: Rare diseases, signaling pathways, social determinants of health and health equities, list of autoimmune diseases, list of cells, infectious bacteria, list of medical devices, and list of drugs.
+
+## METHODS
+### Basic Workflow
+_Include a diagram, if time permits  !!_
+1. Read the CSV files of search terms to use as search parameters for PubMed API.
+2. Connect to the APIs (<a href="https://ncbiinsights.ncbi.nlm.nih.gov/2022/03/24/test-server-pubmed-api/">PubMed's eUtils - both BestMatch and Publication Date sort endpoints</a>) to retrieve PMIDs and corresponding data. 
+3. Query and retrieve (both Best Match and Date Sort implementations) author and publication attributes for 1st 2 pages (1st 20 results).
+   <br/> 3.1 For author attributes, use additional packages, Python's <a href="https://github.com/appeler/ethnicolr">Ethnicolr</a> and <a href="https://pypi.org/project/Genderize/">Genderize</a>, to derive gender and race. 
+   <br/> 3.2 For publication attributes, use content from iCite for additional data points.
+4. With the help of <a href="https://pandas.pydata.org">Pandas</a> and other data management libraries, write feature outputs for rollups of (query, first / second page and Pubmed ranking algorithms) to <a href="https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/tree/main/data/features">feature files</a>. 
+5. Use Python's statistics libraries (i.e., <a href="https://pingouin-stats.org">Pinguoin</a>, <a href="https://scipy.org">Scipy</a>)  to:
+ <br/> 5.1 Compare the author and publication attributes in retrieved results for the first page (1st 10 results) with second page (2nd 10 results) of PubMed Best Match algorithm results.
+   <br/> 5.2 Compare the author and publication attributes in retrieved results (just 1st page) between the PubMed Best Search and PubMed Date Sort algorithms.
+6. Display the results using Python's visualization libraries (i.e., <a href="https://seaborn.pydata.org">Seaborn</a>, <a href="https://matplotlib.org">Matplotlib</a>) and write observations.
+
 ## DATA INFO
 
 ### [data/in/team1_search_strats_search_terms.csv](data/in/team1_search_strats_search_terms.csv)
@@ -63,50 +110,6 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 
 ### Wiki link
 <https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch>
-
-## TABLE OF CONTENTS
-
-1. [ABSTRACT](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#ABSTRACT)
-2. [INTRODUCTION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#INTRODUCTION)
-3. [METHODS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#METHODS)
-4. [RESULTS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#RESULTS)
-5. [DISCUSSION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#DISCUSSION)
-6. [CONCLUSION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#CONCLUSION)
-7. [REFERENCES](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#REFERENCES)
-8. [ACKNOWLEDGEMENTS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#ACKNOWLEDGEMENTS)
-9. [TEAM MEMBERS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#TEAM%20MEMBERS)
-
-## ABSTRACT
-The goal of JUST RETRIEVAL is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (date sort algorithm).
-
-## INTRODUCTION
-_Include some background information from the literature review on why is it important to study bias in 1) research, 2) information retrieval and specifically, why is it important to evaluate PubMed best search for any biases_
-
-### Scope and Research Questions
-The focus for this project is to answer the following research questions:
-
-* RQ1: Is there a correlation between various author attributes and retrieved best match search results?
-* RQ2: Is there a difference between search results between best search and date order search by author attributes?
-* RQ3: Is there a correlation between various publication attributes and retrieved best match search results?
-* RQ4: Is there a difference between search results between best search vs. date order search by Publication Attributes?
-
-The author attributes that were considered are: gender, race, institutional affiliation, country of origin, and author authority (e.g., research impact based on number of hits). The publication attributes that were considered are: NIH funding, language of publication, reading level, diversity of references, associated data, and number of authors and affiliations.
-
-We filtered out certain publication types such as books, errata, and commentary and have relied on both past user search behaviors as well as custome search keywords across these categories: Rare diseases, signaling pathways, social determinants of health and health equities, list of autoimmune diseases, list of cells, infectious bacteria, list of medical devices, and list of drugs.
-
-## METHODS
-### Basic Workflow
-_Include a diagram, if time permits  !!_
-1. Read the CSV files of search terms to use as search parameters for PubMed API.
-2. Connect to the APIs (<a href="https://ncbiinsights.ncbi.nlm.nih.gov/2022/03/24/test-server-pubmed-api/">PubMed's eUtils - both BestMatch and Publication Date sort endpoints</a>) to retrieve PMIDs and corresponding data. 
-3. Query and retrieve (both Best Match and Date Sort implementations) author and publication attributes for 1st 2 pages (1st 20 results).
-   <br/> 3.1 For author attributes, use additional packages, Python's <a href="https://github.com/appeler/ethnicolr">Ethnicolr</a> and <a href="https://pypi.org/project/Genderize/">Genderize</a>, to derive gender and race. 
-   <br/> 3.2 For publication attributes, use content from iCite for additional data points.
-4. With the help of <a href="https://pandas.pydata.org">Pandas</a> and other data management libraries, write feature outputs for rollups of (query, first / second page and Pubmed ranking algorithms) to <a href="https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/tree/main/data/features">feature files</a>. 
-5. Use Python's statistics libraries (i.e., <a href="https://pingouin-stats.org">Pinguoin</a>, <a href="https://scipy.org">Scipy</a>)  to:
- <br/> 5.1 Compare the author and publication attributes in retrieved results for the first page (1st 10 results) with second page (2nd 10 results) of PubMed Best Match algorithm results.
-   <br/> 5.2 Compare the author and publication attributes in retrieved results (just 1st page) between the PubMed Best Search and PubMed Date Sort algorithms.
-6. Display the results using Python's visualization libraries (i.e., <a href="https://seaborn.pydata.org">Seaborn</a>, <a href="https://matplotlib.org">Matplotlib</a>) and write observations.
 
 ## RESULTS
 _Include Vizzes & observations (correlation charts?) of PubMed BM (Pg1 Vs. Pg2) and PubMed BM (Pg1) Vs. PubMed date sort (Pg1)
