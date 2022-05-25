@@ -135,12 +135,19 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 * [affiliation_count.csv](./data/features/affiliation_count.csv) - median number of affiliations per publication
 
 # RESULTS
-_Include Vizzes & observations (correlation charts?) of PubMed BM (Pg1 Vs. Pg2) and PubMed BM (Pg1) Vs. PubMed date sort (Pg1)
 
 ![APT SCORE](data/visualizations/apt_score.png "APT Score differences")
 
 <!-- [APT SCORE](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/blob/main/data/visualizations/apt_score.png)
  -->
+ 
+ ![is_english_only](data/visualizations/is_english_only.png "English Vs. Non-English")
+ 
+ ![journal_country_of_origin](data/visualizations/journal_country_of_origin.png "Journal Country of Origin")
+ 
+ ![readability_abstract](data/visualizations/readability_abstract.png "Abstract's Readability")
+ 
+ ![readability_title](data/visualizations/readability_title.png "Title's Readability")
 
 # DISCUSSION
 _ Any insights
