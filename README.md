@@ -98,6 +98,10 @@ Columns of data pulled directly from the PubMed API or [iCite](https://icite.od.
 +    `languages`
 +    `country`
 
+#### Notes
+
+This file isn't populated properly for books as it just loads article metadata. This is a small number of items (122 out of 7206 publications) so shouldn't impact results too much. _*TODO:*_ clean up book items
+
 ### data/out/pmid_xmls
 
 A set of raw xml files retrieved for each pmid in the pmids.csv file.
