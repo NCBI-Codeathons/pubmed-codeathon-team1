@@ -18,7 +18,7 @@
 
 
 # ABSTRACT
-The goal of JUST RETRIEVAL is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (date sort algorithm).
+The goal of JUST RETRIEVAL is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (publication date sort algorithm).
 
 # INTRODUCTION
 _Include some background information from the literature review on why is it important to study bias in 1) research, 2) information retrieval and specifically, why is it important to evaluate PubMed best search for any biases_
@@ -37,7 +37,9 @@ We filtered out certain publication types such as books, errata, and commentary 
 
 # METHODS
 ### Basic Workflow
-_Include a diagram, if time permits  !!_
+
+![WFD2](data/visualizations/WFD2.png "High Level Workflow")
+
 1. Read the CSV files of search terms to use as search parameters for PubMed API.
 2. Connect to the APIs (<a href="https://ncbiinsights.ncbi.nlm.nih.gov/2022/03/24/test-server-pubmed-api/">PubMed's eUtils - both BestMatch and Publication Date sort endpoints</a>) to retrieve PMIDs and corresponding data. 
 3. Query and retrieve (both Best Match and Date Sort implementations) author and publication attributes for 1st 2 pages (1st 20 results).
@@ -170,18 +172,27 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 * [affiliation_count.csv](./data/features/affiliation_count.csv) - median number of affiliations per publication
 
 # RESULTS
-_Include Vizzes & observations (correlation charts?) of PubMed BM (Pg1 Vs. Pg2) and PubMed BM (Pg1) Vs. PubMed date sort (Pg1)
 
 ![APT SCORE](data/visualizations/apt_score.png "APT Score differences")
 
 <!-- [APT SCORE](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/blob/main/data/visualizations/apt_score.png)
  -->
+ 
+ ![is_english_only](data/visualizations/is_english_only.png "English Vs. Non-English")
+ 
+ ![journal_country_of_origin](data/visualizations/journal_country_of_origin.png "Journal Country of Origin")
+ 
+ ![readability_abstract](data/visualizations/readability_abstract.png "Abstract's Readability")
+ 
+ ![readability_title](data/visualizations/readability_title.png "Title's Readability")
 
 # DISCUSSION
 _ Any insights
 _Significance of the results to (users, PubMed developers, IR researchers)_
 
-# CONCLUSON
+_Limitations_
+
+# CONCLUSION
 
 # REFERENCES
 
