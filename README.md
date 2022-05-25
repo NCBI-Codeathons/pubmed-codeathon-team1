@@ -40,7 +40,7 @@ Columns of data pulled directly from the PubMed API or [iCite](https://icite.od.
 **PubMed columns**
 +    `title`
 +    `abstract`
-+    `journal`
++    `journal` - coded as 1 = US, England, or Ireland (UK), 0 = any other country
 +    `authors`
 +    `affiliations`
 +    `pubdate`
@@ -54,8 +54,6 @@ Columns of data pulled directly from the PubMed API or [iCite](https://icite.od.
 ### data/out/pmid_xmls
 
 A set of raw xml files retrieved for each pmid in the pmids.csv file.
-
-### data/out/pubs.json (coming soon!)
 
 ### Wiki link
 <https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch>
