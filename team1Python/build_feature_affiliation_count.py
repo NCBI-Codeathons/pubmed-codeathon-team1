@@ -1,8 +1,8 @@
-# Generates feature files on the author count for each publication
+# Generates feature files on the affiliation count for each publication
 # Input:
 # pmid_data.csv
 # Output:
-# author_count.csv
+# affiliation_count.csv
 #
 
 import pandas as pd
@@ -16,15 +16,15 @@ def main():
 
     df = pd.read_csv(f_save)
 
-    df['author_count'] = df.apply(lambda row: len(str(row['authors']).split(';')),axis=1)
+    df['affiliation_count'] = df.apply(lambda row: len(str(row['affiliations']).split(';')),axis=1)
 
     # Group by queries for later analysis, take the mean (we dropped values)
     group_keys = ["query", "search_type", "page"]
-    df_out = df.groupby(group_keys).author_count.median()
+    df_out = df.groupby(group_keys).affiliation_count.median()
 
     # Save to feature set
     save_dest = Path("./data/features/")
-    df_out.to_csv(save_dest / "author_count.csv")
+    df_out.to_csv(save_dest / "affiliation_count.csv")
 
     print(df)
 

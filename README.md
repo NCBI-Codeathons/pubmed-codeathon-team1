@@ -107,7 +107,8 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 * [readability_fk_score_abstract.csv](./data/features/readability_fk_score_abstract.csv) - median flesch-kincaid score of publication abstract
 * [readability_fk_score_title_abstract_combined.csv](./data/features/readability_fk_score_title_abstract_combined.csv) - median flesh-kincaid score of publication title and abstract combined
 * [readability_fk_score_title.csv](./data/features/readability_fk_score_title.csv) - median flesch-kincaid score of publication title
-* [author_count.csv](./data/features/author_count.csv) - median number of authors per title
+* [author_count.csv](./data/features/author_count.csv) - median number of authors per publication
+* [affiliation_count.csv](./data/features/affiliation_count.csv) - median number of affiliations per publication
 
 ### Wiki link
 <https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch>
