@@ -94,7 +94,7 @@ _ Any insights
 _Significance of the results to (users, PubMed developers, IR researchers)_
 ## TEAM MEMBERS
 
-* Sruthi Chari (data lead)
+* Shruthi Chari (data lead)
 * Travis Hoppe (project lead)
 * Alex Sticco
 * Alexa M. Salsbury
