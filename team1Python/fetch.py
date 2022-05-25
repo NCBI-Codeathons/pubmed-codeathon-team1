@@ -26,8 +26,8 @@ def main():
 #df = pd.DataFrame(columns=["pmid", "query", "search_type", "page"])
 
     print("iterating through designated queries")
-    df_pmids = pd.read_csv("../data/out/pmids.csv")
-    for pmid in tqdm(df_term["pmid"]):
+    df_pmids = pd.read_csv("./data/out/pmids.csv")
+    for pmid in tqdm(df_pmids["pmid"]):
         print(pmid)
 
 
