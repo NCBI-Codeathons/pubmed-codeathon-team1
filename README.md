@@ -64,11 +64,11 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 2. [INTRODUCTION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#INTRODUCTION)
 3. [METHODS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#METHODS)
 4. [RESULTS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#RESULTS)
-5. DISCUSSION(https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#DISCUSSION)
-6. CONCLUSION(https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#CONCLUSION)
-7. REFERENCES(https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#REFERENCES)
-8. ACKNOWLEDGEMENTS(https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#ACKNOWLEDGEMENTS)
-9. TEAM MEMBERS(https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#TEAM%20MEMBERS)
+5. [DISCUSSION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#DISCUSSION)
+6. [CONCLUSION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#CONCLUSION)
+7. [REFERENCES](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#REFERENCES)
+8. [ACKNOWLEDGEMENTS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#ACKNOWLEDGEMENTS)
+9. [TEAM MEMBERS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#TEAM%20MEMBERS)
 
 ## ABSTRACT
 The goal of JUST RETRIEVAL is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (date sort algorithm).
