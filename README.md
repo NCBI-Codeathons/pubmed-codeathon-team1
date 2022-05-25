@@ -4,16 +4,16 @@
 
 ## TABLE OF CONTENTS
 
-1. [ABSTRACT](#abstract)
-2. [INTRODUCTION](#introduction)
-3. [METHODS](#methods)
-4. [DATA INFO](#data-info)
-5. [RESULTS](#results)
-6. [DISCUSSION](#discussion)
-7. [CONCLUSION](#conclusion)
-8. [REFERENCES](#references)
-9. [ACKNOWLEDGEMENTS](#acknowledgements)
-10. [TEAM MEMBERS](#team-members)
+1. [Abstract](#abstract)
+2. [Introduction](#introduction)
+3. [Methods](#methods)
+4. [Data Info](#data-info)
+5. [Results](#results)
+6. [Discussion](#discussion)
+7. [Conclusion](#conclusion)
+8. [References](#references)
+9. [Acknowledgement](#acknowledgements)
+10. [Team Members](#team-members)
 
 
 # ABSTRACT
