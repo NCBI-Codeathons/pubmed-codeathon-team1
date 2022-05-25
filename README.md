@@ -53,17 +53,50 @@ _Include a diagram, if time permits  !!_
 
 ### Pipeline
 
+This is the data pipeline that describes the datasets used to produce our analysis. Specific data files are described in detail below.
+
 ```mermaid
     graph TD;
         Pipeline-->team1_search_strats_search_terms.csv;
-        team1_search_strats_search_terms.csv-->???
-        ???-->pmids.csv
+        team1_search_strats_search_terms.csv-->search.py
+        search.py-->pmids.csv
         pmids.csv-->fetch_articles_from_pmids.ipynb
         fetch_articles_from_pmids.ipynb-->pmid_xmls
-        Pipeline-->fetch_article_data.py
+        pmids.csv-->fetch_article_data.py
         fetch_article_data.py-->pmid_data.csv
         pmid_data.csv-->feature_english_lang.py
         feature_english_lang.py-->is_english_only.csv
+        pmid_data.csv-->feature_rcr.ipynb
+        feature_rcr.ipynb-->RCR.csv
+        pmid_data.csv-->journal_country.ipynb
+        journal_country.ipynb-->country_journal.csv
+        pmid_data.csv-->race_ethnicity_name.ipynb
+        race_ethnicity_name.ipynb-->RaceEthGender.csv
+        pmid_data.csv-->feature_apt_biomedicine.ipynb
+        feature_apt_biomedicine.ipynb-->apt.csv
+        pmid_data.csv-->build_feature_affiliation_count.py
+        build_feature_affiliation_count.py-->affiliation_count.csv
+        pmid_data.csv-->build_feature_author_count.py
+        build_feature_author_count.py-->author_count.csv
+        pmid_data.csv-->build_feature_reading_level.py
+        build_feature_reading_level.py-->readability_fk_score_abstract.csv
+        build_feature_reading_level.py-->readability_fk_score_title_abstract_combined.csv
+        build_feature_reading_level.py-->readability_fk_score_title.csv
+        pmid_data.csv-->data_visualizations_bl.ipynb
+        apt.csv-->data_visualizations_bl.ipynb
+        ???-->human_animal_molcellular.csv
+        data_visualizations_bl.ipynb-->human_animal_molcellular.csv
+        data_visualizations_bl.ipynb-->apt_score.png
+        country_journal.csv-->data_visualizations_bl.ipynb
+        data_visualizations_bl.ipynb-->journal_country_of_origin.png
+        is_english_only.csv-->data_visualizations_bl.ipynb
+        data_visualizations_bl.ipynb-->is_english_only.png
+        human_animal_molcellular.csv-->data_visualizations_bl.ipynb
+        readability_fk_score_abstract.csv-->data_visualizations_bl.ipynb
+        data_visualizations_bl.ipynb-->readability_abstract.png
+        readability_fk_score_title.csv-->data_visualizations_bl.ipynb
+        data_visualizations_bl.ipynb-->readability_title.png
+        data_visualizations_bl.ipynb-->WFD.png
 ```
 
 ### Data Files
@@ -115,6 +148,10 @@ Columns of data pulled directly from the PubMed API or [iCite](https://icite.od.
 +    `keywords`
 +    `languages`
 +    `country`
+
+#### pmid_xmls
+
+A raw xml response from the pubmed api for each publication. Saved in the format of PMID.xml (e.g., 61455.xml). These aren't used in the analysis as `pmid_data.csv` has all the metadata in csv format. These may be used for confirmation.
 
 ##### Notes
 
