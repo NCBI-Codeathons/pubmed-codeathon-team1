@@ -171,6 +171,8 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 * [readability_fk_score_title.csv](./data/features/readability_fk_score_title.csv) - median flesch-kincaid score of publication title
 * [author_count.csv](./data/features/author_count.csv) - median number of authors per publication
 * [affiliation_count.csv](./data/features/affiliation_count.csv) - median number of affiliations per publication
+* [author_country.csv](./data/features/affiliation_count.csv) - most common country in page of search results for first authors
+* [author_affiliation.csv](./data/features/affiliation_count.csv) - most common affilitions in page of search results for first authors
 
 # RESULTS
 
@@ -186,6 +188,7 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
  ![readability_abstract](data/visualizations/readability_abstract.png "Abstract's Readability")
  
  ![readability_title](data/visualizations/readability_title.png "Title's Readability")
+ 
 
 # DISCUSSION
 _ Any insights
