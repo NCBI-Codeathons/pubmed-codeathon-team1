@@ -26,15 +26,15 @@ def main():
     
     # Group by queries for later analysis, take the mean (we dropped values)
     group_keys = ["query", "search_type", "page"]
-    df_title_mean = df.groupby(group_keys).fkscore_title.mean()
-    df_abstract_mean = df.groupby(group_keys).fkscore_abstract.mean()
-    df_title_abstract_mean = df.groupby(group_keys).fkscore_title_abstract_combined.mean()
+    df_title_median = df.groupby(group_keys).fkscore_title.median()
+    df_abstract_median = df.groupby(group_keys).fkscore_abstract.median()
+    df_title_abstract_median = df.groupby(group_keys).fkscore_title_abstract_combined.median()
 
     # Save to feature set
     save_dest = Path("./data/features/")
-    df_title_mean.to_csv(save_dest / "readability_fk_score_title.csv")
-    df_abstract_mean.to_csv(save_dest / "readability_fk_score_abstract.csv")
-    df_title_abstract_mean.to_csv(save_dest / "readability_fk_score_title_abstract_combined.csv")
+    df_title_median.to_csv(save_dest / "readability_fk_score_title.csv")
+    df_abstract_median.to_csv(save_dest / "readability_fk_score_abstract.csv")
+    df_title_abstract_median.to_csv(save_dest / "readability_fk_score_title_abstract_combined.csv")
 
 def squish_title_abstract(title, abstract):
     """
