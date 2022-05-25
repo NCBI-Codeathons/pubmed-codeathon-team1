@@ -1,6 +1,7 @@
 # JUST RETRIEVAL
 ## pubmed-codeathon-team1
 
+[Wiki link](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch)
 
 ## Table of Contents
 
@@ -17,7 +18,7 @@
 
 
 # ABSTRACT
-The goal of JUST RETRIEVAL is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (date sort algorithm).
+The goal of JUST RETRIEVAL is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (publication date sort algorithm).
 
 # INTRODUCTION
 _Include some background information from the literature review on why is it important to study bias in 1) research, 2) information retrieval and specifically, why is it important to evaluate PubMed best search for any biases_
@@ -36,7 +37,9 @@ We filtered out certain publication types such as books, errata, and commentary 
 
 # METHODS
 ### Basic Workflow
-_Include a diagram, if time permits  !!_
+
+![WFD2](data/visualizations/WFD2.png "High Level Workflow")
+
 1. Read the CSV files of search terms to use as search parameters for PubMed API.
 2. Connect to the APIs (<a href="https://ncbiinsights.ncbi.nlm.nih.gov/2022/03/24/test-server-pubmed-api/">PubMed's eUtils - both BestMatch and Publication Date sort endpoints</a>) to retrieve PMIDs and corresponding data. 
 3. Query and retrieve (both Best Match and Date Sort implementations) author and publication attributes for 1st 2 pages (1st 20 results).
@@ -48,9 +51,59 @@ _Include a diagram, if time permits  !!_
    <br/> 5.2 Compare the author and publication attributes in retrieved results (just 1st page) between the PubMed Best Search and PubMed Date Sort algorithms.
 6. Display the results using Python's visualization libraries (i.e., <a href="https://seaborn.pydata.org">Seaborn</a>, <a href="https://matplotlib.org">Matplotlib</a>) and write observations.
 
-# DATA INFO
+## DATA INFO
 
-### [data/in/team1_search_strats_search_terms.csv](data/in/team1_search_strats_search_terms.csv)
+### Pipeline
+
+This is the data pipeline that describes the datasets used to produce our analysis. Specific data files are described in detail below.
+
+```mermaid
+    graph TD;
+        Pipeline-->team1_search_strats_search_terms.csv;
+        team1_search_strats_search_terms.csv-->search.py
+        search.py-->pmids.csv
+        pmids.csv-->fetch_articles_from_pmids.ipynb
+        fetch_articles_from_pmids.ipynb-->pmid_xmls
+        pmids.csv-->fetch_article_data.py
+        fetch_article_data.py-->pmid_data.csv
+        pmid_data.csv-->feature_english_lang.py
+        feature_english_lang.py-->is_english_only.csv
+        pmid_data.csv-->feature_rcr.ipynb
+        feature_rcr.ipynb-->RCR.csv
+        pmid_data.csv-->journal_country.ipynb
+        journal_country.ipynb-->country_journal.csv
+        pmid_data.csv-->race_ethnicity_name.ipynb
+        race_ethnicity_name.ipynb-->RaceEthGender.csv
+        pmid_data.csv-->feature_apt_biomedicine.ipynb
+        feature_apt_biomedicine.ipynb-->apt.csv
+        pmid_data.csv-->build_feature_affiliation_count.py
+        build_feature_affiliation_count.py-->affiliation_count.csv
+        pmid_data.csv-->build_feature_author_count.py
+        build_feature_author_count.py-->author_count.csv
+        pmid_data.csv-->build_feature_reading_level.py
+        build_feature_reading_level.py-->readability_fk_score_abstract.csv
+        build_feature_reading_level.py-->readability_fk_score_title_abstract_combined.csv
+        build_feature_reading_level.py-->readability_fk_score_title.csv
+        pmid_data.csv-->data_visualizations_bl.ipynb
+        apt.csv-->data_visualizations_bl.ipynb
+        ???-->human_animal_molcellular.csv
+        data_visualizations_bl.ipynb-->human_animal_molcellular.csv
+        data_visualizations_bl.ipynb-->apt_score.png
+        country_journal.csv-->data_visualizations_bl.ipynb
+        data_visualizations_bl.ipynb-->journal_country_of_origin.png
+        is_english_only.csv-->data_visualizations_bl.ipynb
+        data_visualizations_bl.ipynb-->is_english_only.png
+        human_animal_molcellular.csv-->data_visualizations_bl.ipynb
+        readability_fk_score_abstract.csv-->data_visualizations_bl.ipynb
+        data_visualizations_bl.ipynb-->readability_abstract.png
+        readability_fk_score_title.csv-->data_visualizations_bl.ipynb
+        data_visualizations_bl.ipynb-->readability_title.png
+        data_visualizations_bl.ipynb-->WFD.png
+```
+
+### Data Files
+
+#### [data/in/team1_search_strats_search_terms.csv](data/in/team1_search_strats_search_terms.csv)
 
 This is a list of search terms that we will use for testing. Comes from a google doc not linked here because I'm not sure we want it public.
 
@@ -60,7 +113,7 @@ Fields:
 + `Category` - Rare diseases | Signaling pathways | Autoimmune diseases | Cells | Infectious bacteria | Medical devices | Drugs | Social determinants of health, health equities
 + `Source` - link to source of term
 
-### [data/out/pmids.csv](data/out/pmids.csv)
+#### [data/out/pmids.csv](data/out/pmids.csv)
 
 This is a list of all the pmids for the terms we're interested in. Here's what the fields mean:
 
@@ -69,7 +122,7 @@ This is a list of all the pmids for the terms we're interested in. Here's what t
 + `search_type` - relevant | pubdate_desc
 + `page` - 1 | 2
 
-### [data/out/pmid_data.csv](data/out/pmid_data.csv)
+#### [data/out/pmid_data.csv](data/out/pmid_data.csv)
 
 Columns of data pulled directly from the PubMed API or [iCite](https://icite.od.nih.gov/):
 
@@ -98,11 +151,15 @@ Columns of data pulled directly from the PubMed API or [iCite](https://icite.od.
 +    `languages`
 +    `country`
 
-#### Notes
+#### pmid_xmls
+
+A raw xml response from the pubmed api for each publication. Saved in the format of PMID.xml (e.g., 61455.xml). These aren't used in the analysis as `pmid_data.csv` has all the metadata in csv format. These may be used for confirmation.
+
+##### Notes
 
 This file isn't populated properly for books as it just loads article metadata. This is a small number of items (122 out of 7206 publications) so shouldn't impact results too much. _*TODO:*_ clean up book items
 
-### data/out/pmid_xmls
+#### data/out/pmid_xmls
 
 A set of raw xml files retrieved for each pmid in the pmids.csv file.
 
@@ -114,22 +171,28 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 * [author_count.csv](./data/features/author_count.csv) - median number of authors per publication
 * [affiliation_count.csv](./data/features/affiliation_count.csv) - median number of affiliations per publication
 
-### Wiki link
-<https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch>
-
 # RESULTS
-_Include Vizzes & observations (correlation charts?) of PubMed BM (Pg1 Vs. Pg2) and PubMed BM (Pg1) Vs. PubMed date sort (Pg1)
 
 ![APT SCORE](data/visualizations/apt_score.png "APT Score differences")
 
 <!-- [APT SCORE](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/blob/main/data/visualizations/apt_score.png)
  -->
+ 
+ ![is_english_only](data/visualizations/is_english_only.png "English Vs. Non-English")
+ 
+ ![journal_country_of_origin](data/visualizations/journal_country_of_origin.png "Journal Country of Origin")
+ 
+ ![readability_abstract](data/visualizations/readability_abstract.png "Abstract's Readability")
+ 
+ ![readability_title](data/visualizations/readability_title.png "Title's Readability")
 
 # DISCUSSION
 _ Any insights
 _Significance of the results to (users, PubMed developers, IR researchers)_
 
-# CONCLUSON
+_Limitations_
+
+# CONCLUSION
 
 # REFERENCES
 
