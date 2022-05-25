@@ -58,7 +58,7 @@ We filtered out certain publication types such as books, errata, and commentary 
 This is the data pipeline that describes the datasets used to produce our analysis. Specific data files are described in detail below.
 
 ```mermaid
-    graph TD;
+    graph LR;
         Pipeline-->team1_search_strats_search_terms.csv;
         team1_search_strats_search_terms.csv-->search.py
         search.py-->pmids.csv
@@ -86,8 +86,8 @@ This is the data pipeline that describes the datasets used to produce our analys
         build_feature_reading_level.py-->readability_fk_score_title.csv
         pmid_data.csv-->data_visualizations_bl.ipynb
         apt.csv-->data_visualizations_bl.ipynb
+        pmid_data.csv-->???
         ???-->human_animal_molcellular.csv
-        data_visualizations_bl.ipynb-->human_animal_molcellular.csv
         data_visualizations_bl.ipynb-->apt_score.png
         country_journal.csv-->data_visualizations_bl.ipynb
         data_visualizations_bl.ipynb-->journal_country_of_origin.png
@@ -98,7 +98,8 @@ This is the data pipeline that describes the datasets used to produce our analys
         data_visualizations_bl.ipynb-->readability_abstract.png
         readability_fk_score_title.csv-->data_visualizations_bl.ipynb
         data_visualizations_bl.ipynb-->readability_title.png
-        data_visualizations_bl.ipynb-->WFD.png
+        pmid_data.csv-->feature_reference_diversity.ipynb
+        feature_reference_diversity.ipynb-->reference_diversity.csv
 ```
 
 ### Data Files
