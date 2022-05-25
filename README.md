@@ -1,6 +1,7 @@
 # JUST RETRIEVAL
 ## pubmed-codeathon-team1
 
+[Wiki link](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch)
 
 ## Table of Contents
 
@@ -48,9 +49,26 @@ _Include a diagram, if time permits  !!_
    <br/> 5.2 Compare the author and publication attributes in retrieved results (just 1st page) between the PubMed Best Search and PubMed Date Sort algorithms.
 6. Display the results using Python's visualization libraries (i.e., <a href="https://seaborn.pydata.org">Seaborn</a>, <a href="https://matplotlib.org">Matplotlib</a>) and write observations.
 
-# DATA INFO
+## DATA INFO
 
-### [data/in/team1_search_strats_search_terms.csv](data/in/team1_search_strats_search_terms.csv)
+### Pipeline
+
+```mermaid
+    graph TD;
+        Pipeline-->team1_search_strats_search_terms.csv;
+        team1_search_strats_search_terms.csv-->???
+        ???-->pmids.csv
+        pmids.csv-->fetch_articles_from_pmids.ipynb
+        fetch_articles_from_pmids.ipynb-->pmid_xmls
+        Pipeline-->fetch_article_data.py
+        fetch_article_data.py-->pmid_data.csv
+        pmid_data.csv-->feature_english_lang.py
+        feature_english_lang.py-->is_english_only.csv
+```
+
+### Data Files
+
+#### [data/in/team1_search_strats_search_terms.csv](data/in/team1_search_strats_search_terms.csv)
 
 This is a list of search terms that we will use for testing. Comes from a google doc not linked here because I'm not sure we want it public.
 
@@ -60,7 +78,7 @@ Fields:
 + `Category` - Rare diseases | Signaling pathways | Autoimmune diseases | Cells | Infectious bacteria | Medical devices | Drugs | Social determinants of health, health equities
 + `Source` - link to source of term
 
-### [data/out/pmids.csv](data/out/pmids.csv)
+#### [data/out/pmids.csv](data/out/pmids.csv)
 
 This is a list of all the pmids for the terms we're interested in. Here's what the fields mean:
 
@@ -69,7 +87,7 @@ This is a list of all the pmids for the terms we're interested in. Here's what t
 + `search_type` - relevant | pubdate_desc
 + `page` - 1 | 2
 
-### [data/out/pmid_data.csv](data/out/pmid_data.csv)
+#### [data/out/pmid_data.csv](data/out/pmid_data.csv)
 
 Columns of data pulled directly from the PubMed API or [iCite](https://icite.od.nih.gov/):
 
@@ -98,11 +116,11 @@ Columns of data pulled directly from the PubMed API or [iCite](https://icite.od.
 +    `languages`
 +    `country`
 
-#### Notes
+##### Notes
 
 This file isn't populated properly for books as it just loads article metadata. This is a small number of items (122 out of 7206 publications) so shouldn't impact results too much. _*TODO:*_ clean up book items
 
-### data/out/pmid_xmls
+#### data/out/pmid_xmls
 
 A set of raw xml files retrieved for each pmid in the pmids.csv file.
 
@@ -113,9 +131,6 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 * [readability_fk_score_title.csv](./data/features/readability_fk_score_title.csv) - median flesch-kincaid score of publication title
 * [author_count.csv](./data/features/author_count.csv) - median number of authors per publication
 * [affiliation_count.csv](./data/features/affiliation_count.csv) - median number of affiliations per publication
-
-### Wiki link
-<https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch>
 
 # RESULTS
 _Include Vizzes & observations (correlation charts?) of PubMed BM (Pg1 Vs. Pg2) and PubMed BM (Pg1) Vs. PubMed date sort (Pg1)
