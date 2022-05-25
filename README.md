@@ -4,22 +4,22 @@
 
 ## TABLE OF CONTENTS
 
-1. [ABSTRACT](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#ABSTRACT)
-2. [INTRODUCTION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#INTRODUCTION)
-3. [METHODS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#METHODS)
-4. [DATA INFO] (#data_info)
-5. [RESULTS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#RESULTS)
-6. [DISCUSSION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#DISCUSSION)
-7. [CONCLUSION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#CONCLUSION)
-8. [REFERENCES](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#REFERENCES)
-9. [ACKNOWLEDGEMENTS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#ACKNOWLEDGEMENTS)
-10. [TEAM MEMBERS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#TEAM%20MEMBERS)
+1. [ABSTRACT](#abstract)
+2. [INTRODUCTION](#introduction)
+3. [METHODS](#methods)
+4. [DATA INFO](#data-info)
+5. [RESULTS](#results)
+6. [DISCUSSION](#discussion)
+7. [CONCLUSION](#conclusion)
+8. [REFERENCES](#references)
+9. [ACKNOWLEDGEMENTS](#acknowledgements)
+10. [TEAM MEMBERS](#team-members)
 
 
-## ABSTRACT
+# ABSTRACT
 The goal of JUST RETRIEVAL is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (date sort algorithm).
 
-## INTRODUCTION
+# INTRODUCTION
 _Include some background information from the literature review on why is it important to study bias in 1) research, 2) information retrieval and specifically, why is it important to evaluate PubMed best search for any biases_
 
 ### Scope and Research Questions
@@ -34,7 +34,7 @@ The author attributes that were considered are: gender, race, institutional affi
 
 We filtered out certain publication types such as books, errata, and commentary and have relied on both past user search behaviors as well as custome search keywords across these categories: Rare diseases, signaling pathways, social determinants of health and health equities, list of autoimmune diseases, list of cells, infectious bacteria, list of medical devices, and list of drugs.
 
-## METHODS
+# METHODS
 ### Basic Workflow
 _Include a diagram, if time permits  !!_
 1. Read the CSV files of search terms to use as search parameters for PubMed API.
@@ -48,7 +48,7 @@ _Include a diagram, if time permits  !!_
    <br/> 5.2 Compare the author and publication attributes in retrieved results (just 1st page) between the PubMed Best Search and PubMed Date Sort algorithms.
 6. Display the results using Python's visualization libraries (i.e., <a href="https://seaborn.pydata.org">Seaborn</a>, <a href="https://matplotlib.org">Matplotlib</a>) and write observations.
 
-## DATA INFO
+# DATA INFO
 
 ### [data/in/team1_search_strats_search_terms.csv](data/in/team1_search_strats_search_terms.csv)
 
@@ -111,7 +111,7 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 ### Wiki link
 <https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch>
 
-## RESULTS
+# RESULTS
 _Include Vizzes & observations (correlation charts?) of PubMed BM (Pg1 Vs. Pg2) and PubMed BM (Pg1) Vs. PubMed date sort (Pg1)
 
 ![APT SCORE](data/visualizations/apt_score.png "APT Score differences")
@@ -119,19 +119,19 @@ _Include Vizzes & observations (correlation charts?) of PubMed BM (Pg1 Vs. Pg2) 
 <!-- [APT SCORE](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/blob/main/data/visualizations/apt_score.png)
  -->
 
-## DISCUSSION
+# DISCUSSION
 _ Any insights
 _Significance of the results to (users, PubMed developers, IR researchers)_
 
-## CONCLUSON
+# CONCLUSON
 
-## REFERENCES
+# REFERENCES
 
-## ACKNOWLEDGEMENTS
+# ACKNOWLEDGEMENTS
 
 Thanks to [Team4](https://github.com/NCBI-Codeathons/pubmed-codeathon-team4) and [@Danizen](https://github.com/danizen) for their pubmed api code that we used to pull down articles.
 
-## TEAM MEMBERS
+# TEAM MEMBERS
 
 * Shruthi Chari (data lead)
 * Travis Hoppe (project lead)
