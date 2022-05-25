@@ -58,7 +58,19 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 ### Wiki link
 <https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch>
 
-## OVERVIEW
+## TABLE OF CONTENTS
+
+1. [ABSTRACT](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#ABSTRACT)
+2. [INTRODUCTION](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#INTRODUCTION)
+3. [METHODS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#METHODS)
+4. [RESULTS](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#RESULTS)
+5. DISCUSSION(https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#DISCUSSION)
+6. CONCLUSION(https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#CONCLUSION)
+7. REFERENCES(https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#REFERENCES)
+8. ACKNOWLEDGEMENTS(https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#ACKNOWLEDGEMENTS)
+9. TEAM MEMBERS(https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/edit/main/README.md#TEAM%20MEMBERS)
+
+## ABSTRACT
 The goal of JUST RETRIEVAL is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (date sort algorithm).
 
 ## INTRODUCTION
@@ -78,7 +90,7 @@ We filtered out certain publication types such as books, errata, and commentary 
 
 ## METHODS
 ### Basic Workflow
-_Include a diagram, if time permits_
+_Include a diagram, if time permits  !!_
 1. Read the CSV files of search terms to use as search parameters for PubMed API.
 2. Connect to the APIs (<a href="https://ncbiinsights.ncbi.nlm.nih.gov/2022/03/24/test-server-pubmed-api/">PubMed's eUtils - both BestMatch and Publication Date sort endpoints</a>, iCite) to retrieve PMIDs and corresponding data. 
 3. Query and retrieve (both Best Match and Date Sort implementations) author and publication attributes for 1st 2 pages (1st 20 results).
@@ -91,9 +103,16 @@ _Include a diagram, if time permits_
 ## RESULTS
 _Include Vizzes & observations (correlation charts?) of PubMed BM (Pg1 Vs. Pg2) and PubMed BM (Pg1) Vs. PubMed date sort (Pg1)
 
-## DISCUSSION/CONCLUSION
+## DISCUSSION
 _ Any insights
 _Significance of the results to (users, PubMed developers, IR researchers)_
+
+## CONCLUSON
+
+## ACKNOWLEDGEMENTS
+
+Thanks to [Team4](https://github.com/NCBI-Codeathons/pubmed-codeathon-team4) and [@Danizen](https://github.com/danizen) for their pubmed api code that we used to pull down articles.
+
 ## TEAM MEMBERS
 
 * Shruthi Chari (data lead)
@@ -108,6 +127,4 @@ _Significance of the results to (users, PubMed developers, IR researchers)_
 * Preeti G. Kochar
 * Sridhar Papagari Sangareddy
 
-## Acknowledgements
 
-Thanks to [Team4](https://github.com/NCBI-Codeathons/pubmed-codeathon-team4) and [@Danizen](https://github.com/danizen) for their pubmed api code that we used to pull down articles.
