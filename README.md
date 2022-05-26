@@ -15,11 +15,9 @@ By examining the results across a diverse set of searches, our developed _JustRe
 8. [Acknowledgement](#acknowledgements)
 9. [Team Members](#team-members)
 
-
-# ABSTRACT
-The goal of _JustRetrieval_ is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (publication date sort algorithm). We achieved this by selecting various correlates that can be broadly divided into author attributes and publication attributes. PubMed and iCite APIs were queried to retrieve top 20 results for these two algorithms and the results were compared across the select correlated. 
-
 # INTRODUCTION
+
+The goal of _JustRetrieval_ is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (publication date sort algorithm). We achieved this by selecting various correlates that can be broadly divided into author attributes and publication attributes. PubMed and iCite APIs were queried to retrieve top 20 results for these two algorithms and the results were compared across the select correlated. 
 
 Understanding and mitigating bias in medical information is critical to promoting health equity in biomedical research and practice. This includes how scholarly research is retrieved and presented to the end users. PubMed is a free search engine used by millions of users around the world to access ever expanding scholarly literature and resources in biomedical sciences. The NCBI/NLM at the NIH develops and maintains PubMed including the search and retrieval aspects to provide the most relevant information to user searches. In 2018, NCBI team has implemented new search algorithm called Best Match [1] to provide more relevant search results replacing an algorithm based on date sort order. The Best Match algorithm accomplishes this by combining user intelligence (past user searches with relevance ranking factors) with machine learning techniques. As with any AI/ML algorithm, it is important to ensure that the search results are fair and unbiased to avoid or mitigate bisinformation or biased information [2]. Some of the biases in algorithms may stem from the use of past feedback that can lead to "rich-get-richer dynamics", i.e. items ranked higher can reinforce feedback loops influencing future ranking [3]. With Best Match algorithm, any biases in training data, for instance with user searches and clicks, can by default manifest as an inequitous, common view of the world presented to diverse users [4].
 
