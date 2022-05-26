@@ -182,6 +182,16 @@ Columns of data pulled directly from the PubMed API or [iCite](https://icite.od.
 +    `languages`
 +    `country`
 
+#### [data/out/pmid_grants.tsv](data/out/pmid_grants.tsv)
+
+Grant information is extracted from the pmid_xmls via extract_funding.py
++    `pmid`
++    `grant_id`
++    `grant_acronym`
++    `grant_country`
++    `grant_agency`
+
+
 #### pmid_xmls
 
 A raw xml response from the pubmed api for each publication. Saved in the format of PMID.xml (e.g., 61455.xml). These aren't used in the analysis as `pmid_data.csv` has all the metadata in csv format. These may be used for confirmation.
