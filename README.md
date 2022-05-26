@@ -87,8 +87,7 @@ This is the data pipeline that describes the datasets used to produce our analys
         build_feature_reading_level.py-->readability_fk_score_title.csv
         pmid_data.csv-->data_visualizations_bl.ipynb
         apt.csv-->data_visualizations_bl.ipynb
-        pmid_data.csv-->???
-        ???-->human_animal_molcellular.csv
+        feature_rcr.ipynb-->human_animal_molcellular.csv
         data_visualizations_bl.ipynb-->apt_score.png
         country_journal.csv-->data_visualizations_bl.ipynb
         data_visualizations_bl.ipynb-->journal_country_of_origin.png
@@ -109,6 +108,19 @@ This is the data pipeline that describes the datasets used to produce our analys
         data_visualizations_bl.ipynb-->relative_citation_ratio.png
         pmid_data.csv-->extract_funding.py
         extract_funding.py-->funding_and_covid_data.tsv
+        pmid_data.csv-->features.py
+        features.py-->author_affiliation.csv
+        features.py-->author_country.csv
+        pmid_data.csv-->data_visualizations_bl.ipynb
+        RaceEthGender.csv-->data_visualizations_bl.ipynb
+        reference_diversity.csv-->data_visualizations_bl.ipynb
+        RCR.csv-->data_visualizations_bl.ipynb
+        author_count.csv-->data_visualizations_bl.ipynb
+        data_visualizations_bl.ipynb-->author_count.png
+        affiliation_count.csv-->data_visualizations_bl.ipynb
+        data_visualizations_bl.ipynb-->affiliation_count.png
+        funding_and_covid_data.tsv-->data_visualizations_bl.ipynb
+        data_visualizations_bl.ipynb-->first_author_race_pbm_p1_vs_p2.png
 ```
 
 ### Data Files
