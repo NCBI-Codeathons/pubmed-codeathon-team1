@@ -223,7 +223,8 @@ Here are the most statistically significant attributes from our analysis. For a 
  ![last_author_race](data/visualizations/last_author_race.png "Last Author Race")
  ![APT SCORE](data/visualizations/apt_score.png "APT Score differences")
  ![reference_diversity](data/visualizations/reference_diversity.png "Reference Diversity")
- 
+ ![US Grant funding](data/visualizations/us_funding.png "US Grant funding differences")
+
 The full results for our search terms are provided [here](data/statistics.csv). Summarized results can be found in the table below: 
 
 
