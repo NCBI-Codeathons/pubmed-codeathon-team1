@@ -213,7 +213,7 @@ This file isn't populated properly for books as it just loads article metadata. 
 
 # RESULTS
 
-Here are the most statistically significant attributes from our analysis. For a full list of attribute visualizations, <a href="visualizations">go here</a>:
+Here are the most statistically significant attributes from our analysis. For a full list of attribute visualizations, <a href="visualization">go here</a>:
 
  ![first_author_race](data/visualizations/first_author_race.png "First Author Race")
  ![last_author_race](data/visualizations/last_author_race.png "Last Author Race")
