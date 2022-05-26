@@ -266,8 +266,8 @@ The full results for our search terms are provided [here](data/statistics.csv). 
 | **Reference Diversity**      | Relevance Page 1 vs. Relevance Page 2  | <0.01     |    0.84 | Page 1      |
 | Relative Citation Ratio      | Date Order Page 1 vs. Relevance Page 1 | 0.10      |    0.16 | Date        |
 | **Relative Citation Ratio**  | Relevance Page 1 vs. Relevance Page 2  | <0.01     |    0.99 | Page 1      |
-| **White First Author**       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date        |
-| **White Last Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date        |
+| **White First Author**       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match        |
+| **White Last Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match        |
 
 
 
