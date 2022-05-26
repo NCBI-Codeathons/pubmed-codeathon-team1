@@ -256,9 +256,9 @@ The full results for our search terms are provided [here](data/statistics.csv). 
 | Human Biomed Triangle        | Relevance Page 1 vs. Relevance Page 2  | 0.71      |    0.07 | Page 1      |
 | **Is English Only**          | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match  |
 | Is English Only              | Relevance Page 1 vs. Relevance Page 2  | 0.18      |    0.26 | Page 1      |
-| **Last Author Gender**       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.93 | Best Match  |
-| Last Author Gender           | Relevance Page 1 vs. Relevance Page 2  | 0.1       |    0.37 | Page 2      |
-| Mol_Cell Biomed Triangle     | Date Order Page 1 vs. Relevance Page 1 | 0.02      |    0.63 | Best Match  |
+| **Last Author Gender (Female) **       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.93 | Date  |
+| Last Author Gender (Female)           | Relevance Page 1 vs. Relevance Page 2  | 0.1       |    0.37 | Page 2      |
+| Mol_Cell Biomed Triangle     | Date Order Page 1 vs. Relevance Page 1 | 0.02      |    0.63 | Date  |
 | Mol_Cell Biomed Triangle     | Relevance Page 1 vs. Relevance Page 2  | 0.86      |    0.05 | Page 2      |
 | Multi-Race First Author      | Date Order Page 1 vs. Relevance Page 1 | 0.17      |    0.27 | Best Match  |
 | Multi-Race Last Author       | Date Order Page 1 vs. Relevance Page 1 | 0.24      |    0.22 | Best Match  |
