@@ -1,7 +1,9 @@
 # JUST RETRIEVAL
-## pubmed-codeathon-team1
+_pubmed-codeathon-team1_
 
-[Wiki link](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch)
+-------------------------------------------------------------------------------------------------------------------
+
+**INSERT EXEC SUM HERE**
 
 ## Table of Contents
 
@@ -37,9 +39,7 @@ The author attributes that were considered are: gender, race, institutional affi
 We filtered out certain publication types such as books, errata, and commentary and have relied on both past user search behaviors as well as custome search keywords across these categories: Rare diseases, signaling pathways, social determinants of health and health equities, list of autoimmune diseases, list of cells, infectious bacteria, list of medical devices, and list of drugs.
 
 # METHODS
-### Basic Workflow
-
-![WFD2](data/visualizations/WFD2.png "High Level Workflow")
+### Workflow
 
 1. Read the CSV files of search terms to use as search parameters for PubMed API.
 2. Connect to the APIs (<a href="https://ncbiinsights.ncbi.nlm.nih.gov/2022/03/24/test-server-pubmed-api/">PubMed's eUtils - both BestMatch and Publication Date sort endpoints</a>) to retrieve PMIDs and corresponding data. 
@@ -148,18 +148,18 @@ Columns of data pulled directly from the PubMed API or [iCite](https://icite.od.
 + `references`,   PMIDs of references
 
 **PubMed columns**
-+    `title`
-+    `abstract`
++    `title` - Article title
++    `abstract` - Article abstract
 +    `journal` - coded as 1 = US, England, or Ireland (UK), 0 = any other country
-+    `authors`
-+    `affiliations`
-+    `pubdate`
-+    `mesh_terms`
-+    `publication_types`
-+    `chemical_list`
-+    `keywords`
-+    `languages`
-+    `country`
++    `authors` - Author names
++    `affiliations` - Affiliations of the authors
++    `pubdate` - Publication date
++    `mesh_terms` - Medical Subject Heading terms
++    `publication_types` - Delimited list of publication types (e.g. review, article, errata, ...) 
++    `chemical_list` - Delimited list of chemicals (not used)
++    `keywords` - Delimited list of keywords (not used)
++    `languages` Delimited list of languages of the paper
++    `country` - Country of origin or the publishing journal
 
 #### pmid_xmls
 
@@ -168,6 +168,9 @@ A raw xml response from the pubmed api for each publication. Saved in the format
 ##### Notes
 
 This file isn't populated properly for books as it just loads article metadata. This is a small number of items (122 out of 7206 publications) so shouldn't impact results too much. _*TODO:*_ clean up book items
+
+[Additional data processing notes on the Wiki](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch)
+
 
 #### data/out/pmid_xmls
 
@@ -202,8 +205,10 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 # DISCUSSION
 _Any insights and their significance to various stakeholders (users, PubMed developers (for improving the product), IR researchers (for further investigation)_
 
-
 _Limitations_
+
+
+
 
 # CONCLUSION
 
