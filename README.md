@@ -235,8 +235,11 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 <!-- [APT SCORE](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/blob/main/data/visualizations/apt_score.png)
  -->
  
+ ### Research Focus (Human, Animal, or Mol/cellular)
  
- 
+ ![molecular_cellular_score](data/visualizations/molecular_cellular_score.png "molecular_cellular_score")
+ ![human_score](data/visualizations/human_score.png "human_score")
+ ![animal_score](data/visualizations/animal_score.png "animal_score")
 
 # DISCUSSION
 _Any insights and their significance to various stakeholders (users, PubMed developers (for improving the product), IR researchers (for further investigation)_
