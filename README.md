@@ -8,13 +8,12 @@
 1. [Abstract](#abstract)
 2. [Introduction](#introduction)
 3. [Methods](#methods)
-4. [Data Info](#data-info)
-5. [Results](#results)
-6. [Discussion](#discussion)
-7. [Conclusion](#conclusion)
-8. [References](#references)
-9. [Acknowledgement](#acknowledgements)
-10. [Team Members](#team-members)
+4. [Results](#results)
+5. [Discussion](#discussion)
+6. [Conclusion](#conclusion)
+7. [References](#references)
+8. [Acknowledgement](#acknowledgements)
+9. [Team Members](#team-members)
 
 
 # ABSTRACT
