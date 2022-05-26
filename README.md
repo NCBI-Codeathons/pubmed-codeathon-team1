@@ -216,6 +216,7 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
  
  ![first_author_race](data/visualizations/first_author_race.png "First Author Race")
  ![last_author_race](data/visualizations/last_author_race.png "Last Author Race")
+ ![first_author_race_pbm_p1_vs_p2](data/visualizations/first_author_race_pbm_p1_vs_p2.png "First Author Race in PubMed 1st Vs 2nd Pages")
  
  ![is_english_only](data/visualizations/is_english_only.png "English Vs. Non-English")
  
