@@ -207,7 +207,12 @@ _Limitations_
 
 # CONCLUSION
 
-It is important to detect and mitigate bias in search and retrieval algorithms in order to achieve the three pillars for fairness - transparency, impartiality, and inclusion [5]. Continously training and re-training the learning models using representative and more accurate user search and click through data (as well as collabrative filtering) can help continous detection and elimination of biases. The measures of bias may also need to be defined more clearly and operationalized in future research and implementation. 
+It is important to detect and mitigate bias in search and retrieval algorithms in order to achieve the three pillars for fairness - transparency, impartiality, and inclusion [5]. Systems continue to be biased as long as the data they receive is biased.  Fairness via AI is based on the assertion that AI can be used to help “detect, mitigate, and remedy situations that are inherently unequal, unjust and unfair in society.Obermeyer et al [6] offer these strategies to mitigate bias:
+* Document algorithms using transparent methods such as including goal, training process and performance
+* Set up protocols to mitigate bias by providing a pathway for users to report bias, identification bias
+* Establish an ongoing team to oversee bias mitigation measures4
+
+Continously training and re-training the learning models using representative and more accurate user search and click through data (as well as collabrative filtering) can help continous detection and elimination of biases. The measures of bias may also need to be defined more clearly and operationalized in future research and implementation. 
 
 This study attemnpts to define and measure some correlates related to author attributes and publication attributes that can be basis for bias in the seach results returned by PubMed Best Match.
 
@@ -219,7 +224,8 @@ _The limitations of the study are _
 2. Dori-Hacohen, S., Montenegro, R., Murai, F., Hale, S., Sung, K., Blain, M., & Edwards-Johnson, J. (2021). Fairness via AI: Bias Reduction in Medical Information. ArXiv, abs/2109.02202.
 3. Morik, M., Singh, A., Hong, J., & Joachims, T. (2020). Controlling Fairness and Bias in Dynamic Learning-to-Rank. Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval.
 4. Kiester, Lucy & Turp, Clara. (2022). Artificial intelligence behind the scenes: PubMed’s Best Match algorithm. Journal of the Medical Library Association. 110. 10.5195/jmla.2022.1236.
-5. Lever, J., Gakkhar, S., Gottlieb, M., Rashnavadi, T., Lin, S., Siu, C., Smith, M., Jones, M. R., Krzywinski, M., Jones, S., & Wren, J. (2018). A collaborative filtering-based approach to biomedical knowledge discovery. Bioinformatics (Oxford, England), 34(4), 652–659. https://doi.org/10.1093/bioinformatics/btx613 
+5. Lever, J., Gakkhar, S., Gottlieb, M., Rashnavadi, T., Lin, S., Siu, C., Smith, M., Jones, M. R., Krzywinski, M., Jones, S., & Wren, J. (2018). A collaborative filtering-based approach to biomedical knowledge discovery. Bioinformatics (Oxford, England), 34(4), 652–659. https://doi.org/10.1093/bioinformatics/btx613
+6. Obermeyer, Z., Nissan, R., Stern, M., Eaneff, S., Bembeneck, E. J., & Mullainathan, S. (2021). Algorithmic Bias Playbook. Center for Applied AI at Chicago Booth. 
 
 # ACKNOWLEDGEMENTS
 
