@@ -33,5 +33,12 @@ def main():
     print(df.dtypes)
     #print(df)
 
+def what_direction(comparison,t_score):
+    direction = ''
+    # If t_score is < 0 then report in a new column Date if t_score > 0 report Best Match. If the query is on page, the t_score <0 report Page 1, for t_score >0 report Page 2 (edited) 
+    if comparison.count('Page 1')==1 and comparison.count('Page 2') == 1:
+        direction = 'whatever'
+    return direction
+
 if __name__ == '__main__':
     main()
