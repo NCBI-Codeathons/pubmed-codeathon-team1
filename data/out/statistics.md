@@ -11,7 +11,7 @@
 | **Asian First Author**       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match  |
 | **Asian Last Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match  |
 | **Author Count**             | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match  |
-| Author Count                 | Relevance Page 1 vs. Relevance Page 2  | 0.49      |    0.11 | Page        |
+| Author Count                 | Relevance Page 1 vs. Relevance Page 2  | 0.49      |    0.11 | Page 2      |
 | **Black First Author**       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date        |
 | **Black Last Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.91 | Date        |
 | Country of Origin of Journal | Date Order Page 1 vs. Relevance Page 1 | 0.91      |    0.05 | Best Match  |
@@ -29,14 +29,18 @@
 | **Is English Only**          | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match  |
 | Is English Only              | Relevance Page 1 vs. Relevance Page 2  | 0.18      |    0.26 | Page 1      |
 | **Last Author Gender**       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.93 | Best Match  |
-| Last Author Gender           | Relevance Page 1 vs. Relevance Page 2  | 0.1       |    0.37 | Page 2      |
+| Last Author Gender           | Relevance Page 1 vs. Relevance Page 2  | 0.10      |    0.37 | Page 2      |
 | Mol_Cell Biomed Triangle     | Date Order Page 1 vs. Relevance Page 1 | 0.02      |    0.63 | Best Match  |
 | Mol_Cell Biomed Triangle     | Relevance Page 1 vs. Relevance Page 2  | 0.86      |    0.05 | Page 2      |
 | Multi-Race First Author      | Date Order Page 1 vs. Relevance Page 1 | 0.17      |    0.27 | Best Match  |
 | Multi-Race Last Author       | Date Order Page 1 vs. Relevance Page 1 | 0.24      |    0.22 | Best Match  |
+| **Other Funding**            | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date        |
+| Other Funding                | Relevance Page 1 vs. Relevance Page 2  | 0.45      |    0.12 | Page 1      |
 | **Reference Diversity**      | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date        |
 | **Reference Diversity**      | Relevance Page 1 vs. Relevance Page 2  | <0.01     |    0.84 | Page 1      |
 | Relative Citation Ratio      | Date Order Page 1 vs. Relevance Page 1 | 0.10      |    0.16 | Date        |
 | **Relative Citation Ratio**  | Relevance Page 1 vs. Relevance Page 2  | <0.01     |    0.99 | Page 1      |
+| **US Gov Funding**           | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date        |
+| US Gov Funding               | Relevance Page 1 vs. Relevance Page 2  | 0.01      |    0.71 | Page 1      |
 | **White First Author**       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date        |
 | **White Last Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date        |
