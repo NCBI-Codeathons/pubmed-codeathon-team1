@@ -206,10 +206,16 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 
 # RESULTS
 
-![APT SCORE](data/visualizations/apt_score.png "APT Score differences")
 
-<!-- [APT SCORE](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/blob/main/data/visualizations/apt_score.png)
- -->
+ ### Gender
+ 
+ ![first_author_gender](data/visualizations/first_author_gender.png "First Author Gender")
+ ![last_author_gender](data/visualizations/last_author_gender.png "Last Author Gender")
+ 
+ ### Race
+ 
+ ![first_author_race](data/visualizations/first_author_race.png "First Author Race")
+ ![last_author_race](data/visualizations/last_author_race.png "Last Author Race")
  
  ![is_english_only](data/visualizations/is_english_only.png "English Vs. Non-English")
  
@@ -221,7 +227,14 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
  
  ![relative citation ratio](data/visualizations/relative_citation_ratio.png "Relative Citation Ratio")
  
- !
+ ![reference_diversity](data/visualizations/reference_diversity.png "Reference Diversity")
+ 
+ ![APT SCORE](data/visualizations/apt_score.png "APT Score differences")
+
+<!-- [APT SCORE](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/blob/main/data/visualizations/apt_score.png)
+ -->
+ 
+ 
  
 
 # DISCUSSION
