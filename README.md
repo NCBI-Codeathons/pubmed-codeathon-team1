@@ -124,6 +124,12 @@ This is the data pipeline that describes the datasets used to produce our analys
         data_visualizations_bl.ipynb-->affiliation_count.png
         funding_and_covid_data.tsv-->data_visualizations_bl.ipynb
         data_visualizations_bl.ipynb-->first_author_race_pbm_p1_vs_p2.png
+        extract_funding.py-->covid_data.csv
+        extract_funding.py-->funding_data.tsv
+        data_visualizations_bl.ipynb-->animal_score.png
+        data_visualizations_bl.ipynb-->human_score.png
+        data_visualizations_bl.ipynb-->molecular_cellular_score.png
+
 ```
 
 ### Data Files
