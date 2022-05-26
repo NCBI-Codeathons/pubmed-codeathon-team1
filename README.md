@@ -142,6 +142,10 @@ Fields:
 + `Category` - Rare diseases | Signaling pathways | Autoimmune diseases | Cells | Infectious bacteria | Medical devices | Drugs | Social determinants of health, health equities
 + `Source` - link to source of term
 
+Below is a visualization of the query term spread:
+ ![query_viz](data/visualizations/query_pie.png "Query Terms Distribution")
+
+
 #### [data/out/pmids.csv](data/out/pmids.csv)
 
 This is a list of all the pmids for the terms we're interested in. Here's what the fields mean:
@@ -197,7 +201,7 @@ A raw xml response from the pubmed api for each publication. Saved in the format
 
 ##### Notes
 
-This file isn't populated properly for books as it just loads article metadata. This is a small number of items (122 out of 7206 publications) so shouldn't impact results too much. _*TODO:*_ clean up book items
+This file isn't populated properly for books as it just loads article metadata. This is a small number of items (122 out of 7206 publications) so shouldn't impact results too much.
 
 ### Feature files
 
