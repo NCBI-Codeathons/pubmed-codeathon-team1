@@ -240,19 +240,19 @@ The full results for our search terms are provided [here](data/statistics.csv). 
 | **Asian Last Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date  |
 | **Author Count**             | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date  |
 | Author Count                 | Relevance Page 1 vs. Relevance Page 2  | 0.49      |    0.11 | Page        |
-| **Black First Author**       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date        |
-| **Black Last Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.91 | Date        |
+| **Black First Author**       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match        |
+| **Black Last Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.91 | Best Match        |
 | Country of Origin of Journal | Date Order Page 1 vs. Relevance Page 1 | 0.91      |    0.05 | Best Match  |
 | Country of Origin of Journal | Relevance Page 1 vs. Relevance Page 2  | 0.97      |    0.05 | Page 2      |
-| FK Readability Abstract      | Date Order Page 1 vs. Relevance Page 1 | 0.03      |    0.56 | Best Match  |
+| FK Readability Abstract      | Date Order Page 1 vs. Relevance Page 1 | 0.03      |    0.56 | Date  |
 | FK Readability Abstract      | Relevance Page 1 vs. Relevance Page 2  | 0.45      |    0.12 | Page 2      |
 | FK Readability Title         | Date Order Page 1 vs. Relevance Page 1 | 0.17      |    0.28 | Best Match  |
 | FK Readability Title         | Relevance Page 1 vs. Relevance Page 2  | 0.38      |    0.14 | Page 2      |
-| First Author Gender          | Date Order Page 1 vs. Relevance Page 1 | 0.03      |    0.60 | Best Match  |
-| **First Author Gender**      | Relevance Page 1 vs. Relevance Page 2  | 0.01      |    0.76 | Page 1      |
+| First Author Gender (Female)          | Date Order Page 1 vs. Relevance Page 1 | 0.03      |    0.60 | Date  |
+| **First Author Gender (Female) **      | Relevance Page 1 vs. Relevance Page 2  | 0.01      |    0.76 | Page 2      |
 | Hispanic First Author        | Date Order Page 1 vs. Relevance Page 1 | 0.92      |    0.05 | Date        |
 | Hispanic Last Author         | Date Order Page 1 vs. Relevance Page 1 | 0.26      |    0.20 | Date        |
-| **Human Biomed Triangle**    | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.83 | Date        |
+| **Human Biomed Triangle**    | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.83 | Best Match        |
 | Human Biomed Triangle        | Relevance Page 1 vs. Relevance Page 2  | 0.71      |    0.07 | Page 1      |
 | **Is English Only**          | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match  |
 | Is English Only              | Relevance Page 1 vs. Relevance Page 2  | 0.18      |    0.26 | Page 1      |
