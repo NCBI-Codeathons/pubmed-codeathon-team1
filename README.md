@@ -59,7 +59,6 @@ This is the data pipeline that describes the datasets used to produce our analys
 
 ```mermaid
     graph LR;
-        Pipeline-->team1_search_strats_search_terms.csv;
         team1_search_strats_search_terms.csv-->search.py
         search.py-->pmids.csv
         pmids.csv-->fetch_articles_from_pmids.ipynb
