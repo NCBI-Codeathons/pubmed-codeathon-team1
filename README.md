@@ -17,7 +17,7 @@ By examining the results across a diverse set of searches, our developed _JustRe
 
 
 # ABSTRACT
-The goal of _JustRetrieval_ is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (publication date sort algorithm). We achieved this by selecting various correlates that can be broadly divided into author attributes and publication attributes. PubMed and iCite APIs were queried to retrieve top 20 results for these two algorithms and the results were compared across the select correlated. _Add a statement about results and a conclusion_
+The goal of _JustRetrieval_ is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (publication date sort algorithm). We achieved this by selecting various correlates that can be broadly divided into author attributes and publication attributes. PubMed and iCite APIs were queried to retrieve top 20 results for these two algorithms and the results were compared across the select correlated. 
 
 # INTRODUCTION
 
