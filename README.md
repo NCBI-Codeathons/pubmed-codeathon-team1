@@ -262,7 +262,7 @@ The full results for our search terms are provided [here](data/statistics.csv). 
 | Mol_Cell Biomed Triangle     | Relevance Page 1 vs. Relevance Page 2  | 0.86      |    0.05 | Page 2      |
 | Multi-Race First Author      | Date Order Page 1 vs. Relevance Page 1 | 0.17      |    0.27 | Best Match  |
 | Multi-Race Last Author       | Date Order Page 1 vs. Relevance Page 1 | 0.24      |    0.22 | Best Match  |
-| **Reference Diversity**      | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date        |
+| **Reference Diversity**      | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match        |
 | **Reference Diversity**      | Relevance Page 1 vs. Relevance Page 2  | <0.01     |    0.84 | Page 1      |
 | Relative Citation Ratio      | Date Order Page 1 vs. Relevance Page 1 | 0.10      |    0.16 | Date        |
 | **Relative Citation Ratio**  | Relevance Page 1 vs. Relevance Page 2  | <0.01     |    0.99 | Page 1      |
