@@ -43,7 +43,7 @@ We filtered out certain publication types such as books, errata, and commentary 
 ![WFD2](data/visualizations/WFD2.png "High Level Workflow")
 
 1. Read the CSV files of search terms to use as search parameters for PubMed API.
-2. Connect to the APIs (<a href="https://ncbiinsights.ncbi.nlm.nih.gov/2022/03/24/test-server-pubmed-api/">PubMed's eUtils - both BestMatch and Publication Date sort endpoints</a>) to retrieve PMIDs and corresponding data. 
+2. Connect to the APIs (<a href="https://ncbiinsights.ncbi.nlm.nih.gov/2022/03/24/test-server-pubmed-api/">PubMed's eUtils - both BestMatch and Publication Date Sort endpoints</a>) to retrieve PMIDs and corresponding data. 
 3. Query and retrieve (both Best Match and Date Sort implementations) author and publication attributes for 1st 2 pages (1st 20 results).
    <br/> 3.1 For author attributes, use additional packages, Python's <a href="https://github.com/appeler/ethnicolr">Ethnicolr</a> and <a href="https://pypi.org/project/Genderize/">Genderize</a>, to derive gender and race. 
    <br/> 3.2 For publication attributes, use content from iCite for additional data points.
@@ -219,7 +219,7 @@ _Any insights and their significance to various stakeholders (users, PubMed deve
 _Limitations_
 
 # CONCLUSION
-This study attemnpts to define and measure some correlates related to author attributes and publication attributes that can be basis for bias in the seach results returned by PubMed Best Match.
+This study attempts to define and measure some correlates related to author attributes and publication attributes that can be basis for bias in the search results returned by PubMed Best Match.
 
 It is important to detect and mitigate bias in search and retrieval algorithms in order to achieve the three pillars for fairness - transparency, impartiality, and inclusion [5]. Systems continue to be biased as long as the data they receive is biased.  Fairness via AI is based on the assertion that AI can be used to help “detect, mitigate, and remedy situations that are inherently unequal, unjust and unfair in society"[2]. Obermeyer et al [6] offer these strategies to mitigate bias:
 * Document algorithms using transparent methods such as including goal, training process and performance
