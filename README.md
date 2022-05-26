@@ -1,7 +1,7 @@
-# JUST RETRIEVAL
+# JustRetrieval 
 ## pubmed-codeathon-team1
 
-[Wiki link](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch)
+By examining the results across a diverse set of searches, our developed _JustRetrieval_ a methodology to systematically probe the the Best Match algorithm for preferentially bias. We found publications with white first and last authors and lower author counts were preferred. We also found that publications that were are government funded,  those likely to be cited in clinical trials, and those highly influential within their field were more likely to be promoted. Finally, we found that Best Match searches contained significantly more overlap within their references sections than a control search. 
 
 ## Table of Contents
 
@@ -182,6 +182,7 @@ Columns of data pulled directly from the PubMed API or [iCite](https://icite.od.
 +    `languages`
 +    `country`
 
+
 #### [data/out/pmid_grants.tsv](data/out/pmid_grants.tsv)
 
 Grant information is extracted from the pmid_xmls via extract_funding.py
@@ -191,18 +192,14 @@ Grant information is extracted from the pmid_xmls via extract_funding.py
 +    `grant_country`
 +    `grant_agency`
 
-
 #### pmid_xmls
 
 A raw xml response from the pubmed api for each publication. Saved in the format of PMID.xml (e.g., 61455.xml). These aren't used in the analysis as `pmid_data.csv` has all the metadata in csv format. These may be used for confirmation.
 
+
 ##### Notes
 
 This file isn't populated properly for books as it just loads article metadata. This is a small number of items (122 out of 7206 publications) so shouldn't impact results too much. _*TODO:*_ clean up book items
-
-#### data/out/pmid_xmls
-
-A set of raw xml files retrieved for each pmid in the pmids.csv file.
 
 ### Feature files
 
@@ -213,6 +210,8 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
 * [affiliation_count.csv](./data/features/affiliation_count.csv) - median number of affiliations per publication
 * [author_country.csv](./data/features/affiliation_count.csv) - most common country in page of search results for first authors
 * [author_affiliation.csv](./data/features/affiliation_count.csv) - most common affilitions in page of search results for first authors
+
+[Additional data processing in the Wiki](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch)
 
 # RESULTS
 
