@@ -192,12 +192,18 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
  
 
 # DISCUSSION
-_ Any insights
-_Significance of the results to (users, PubMed developers, IR researchers)_
+_Any insights and their significance to various stakeholders (users, PubMed developers (for improving the product), IR researchers (for further investigation)_
+
 
 _Limitations_
 
 # CONCLUSION
+
+It is important to detect and mitigate bias in search and retrieval algorithms in order to achieve the three pillars for fairness - transparency, impartiality, and inclusion [ ]. Continously training and re-training the learning models using representative and more accurate user search and click through data (as well as collabrative filtering) can help continous detection and elimination of biases. The measures of bias may also need to be defined more clearly and operationalized in future research and implementation. 
+
+This study attemnpts to define and measure some correlates related to author attributes and publication attributes that can be basis for bias in the seach results returned by PubMed Best Match.
+
+_The limitations of the study are _
 
 # REFERENCES
 
