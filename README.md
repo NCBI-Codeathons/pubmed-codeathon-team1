@@ -229,16 +229,16 @@ The full results for our search terms are provided [here](data/statistics.csv). 
 | Feature                      | Comparison                             | p-value   |   Power | Direction   |
 |:-----------------------------|:---------------------------------------|----------:|--------:|:------------|
 | **ASIAN First Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.87 | Date       |
-| ASIAN Last Author             | Date Order Page 1 vs. Relevance Page 1 | 0.14      |    0.32 |Best Match         |
-| **APT Score**                | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date        |
+| ASIAN Last Author             | Date Order Page 1 vs. Relevance Page 1 | 0.14      |    0.32 |Date         |
+| **APT Score**                | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match        |
 | **APT Score**                | Relevance Page 1 vs. Relevance Page 2  | <0.01     |    0.93 | Page 1      |
-| **Affiliation Count**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match  |
+| **Affiliation Count**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date  |
 | Affiliation Count            | Relevance Page 1 vs. Relevance Page 2  | 0.23      |    0.22 | Page 1      |
 | Animal Biomed Triangle       | Date Order Page 1 vs. Relevance Page 1 | 0.19      |    0.26 | Best Match  |
 | Animal Biomed Triangle       | Relevance Page 1 vs. Relevance Page 2  | 0.78      |    0.06 | Page 2      |
-| **Asian First Author**       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match  |
-| **Asian Last Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match  |
-| **Author Count**             | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match  |
+| **Asian First Author**       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date  |
+| **Asian Last Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date  |
+| **Author Count**             | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date  |
 | Author Count                 | Relevance Page 1 vs. Relevance Page 2  | 0.49      |    0.11 | Page        |
 | **Black First Author**       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date        |
 | **Black Last Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.91 | Date        |
