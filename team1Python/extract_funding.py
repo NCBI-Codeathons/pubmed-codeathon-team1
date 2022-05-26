@@ -32,6 +32,7 @@ for file in files:
         doctypes = data.count('!DOCTYPE')
         if doctypes > 1:
             problems.append(file)
+            
 #%% Delete duplicated XML
 for file in problems:
     with open(filepath.format(file), encoding = 'utf-8') as f:
@@ -39,12 +40,15 @@ for file in problems:
         splits = re.split(r'(</PubmedArticleSet>)', data)
         keep = splits[0]+splits[1]
     with open(filepath.format(file), 'w', encoding = 'utf-8') as f_output:    
-        f_output.write(keep)   
+        f_output.write(keep)
+        
 #%% parse xml for each file
 pubmed_data = [parse_medline_xml(filepath.format(file), author_list=True) for file in files]
+
 #%% remove empty rows
 data_revised = [row for row in pubmed_data if row != []]
 data_revised = [row[0] for row in data_revised]
+
 #%% convert to dataframe
 colnames = ["title",
             "abstract",
@@ -73,6 +77,7 @@ colnames = ["title",
 df = pd.DataFrame(data_revised, columns = colnames)
 df = df[['pmid', 'title', 'abstract', 'nlm_unique_id', 'authors', 'affiliations', 'pubdate', 
          'publication_types', 'languages']]
+
 #%% parse grants info out for each file and remove empty rows
 grants_data = [parse_medline_grant_id(filepath.format(file)) for file in files]
 grants_revised = [row for row in grants_data if row != []]
@@ -80,10 +85,13 @@ grants_revised = [row[0] for row in grants_revised]
 
 #%% convert to dataframe
 grants_df = pd.DataFrame(grants_revised)
-#%%
+
+#%% merge grant info with other article info
 data_df = pd.merge(df, grants_df, 'left', on = 'pmid')
+
 #%% set null values to empty strings to avoid NaN problems
 data_df = data_df.fillna('')
+
 #%% Set funding status based on publication type entries
 """
 Possible funding tags: 
@@ -110,24 +118,34 @@ data_df['other_funding'] = np.where(data_df['publication_types'].str.contains("D
 data_df = data_df.rename(columns = {'country':'grant_country', 'agency':'grant_agency'})
 
 #%% Update funding status based on grant data
-data_df.loc[data_df.grant_country == "United States", 'us_gov_funding'] = True
-data_df['other_funding'] = np.where(((data_df.grant_country != "United States") & (data_df.grant_country != "" )), True, data_df['test'])
+data_df['us_gov_funding'] = np.where(((data_df.grant_country == "United States") & (data_df.grant_agency != "Howard Hughes Medical Institute")), True, data_df['us_gov_funding'])
+data_df['other_funding'] = np.where((((data_df.grant_country != "United States") & (data_df.grant_country != "" )) | (data_df.grant_agency == "Howard Hughes Medical Institute")), True, data_df['other_funding'])
 
-#%% Simplify and export to csv
-data_df = data_df[['pmid', 'publication_types', 'grant_id','grant_acronym', 
+#%% Simplify
+data_df = data_df[['pmid', 'grant_id','grant_acronym', 
                   'grant_country', 'grant_agency', 'us_gov_funding','other_funding']]
-data_df.to_csv('funding_data.tsv', sep = '\t', index=False)
 
-#%% Check for covid terms in TIAB
+#%% Check for covid terms in TIAB using original df
 pattern = re.compile(r'SARS Coronavirus 2|SARS-CoV-2|SARS-CoV2|COVID-19|COVID 19|2019 Novel Coronavirus|2019-nCoV',
                      flags=re.I)
 df['covid'] = np.where(((df.title.str.contains(pattern)) | (df.abstract.str.contains(pattern))), True, False)
+
+#%% Simplify
 covid = df[['pmid', 'covid']]
+
+#%% Merge funding and covid data with search-relevant data elements for aggregating
 data_df = pd.merge(data_df, covid, 'left', on = 'pmid')
+main = pd.read_csv('pmid_data.csv')
+data_df = pd.merge(main, data_df, 'left', on = 'pmid')
 
-data_df.to_csv('funding_and_covid_data.tsv', sep = '\t', index=False)
+#separate the funding and covid dataframes and output to tab-delimited files
+funding_df = data_df[['pmid', 'query', 'search_type', 'page', 'us_gov_funding', 'other_funding']]
+funding_df = funding_df.sort_values(by = ['query', 'search_type', 'page']) 
+funding_df.to_csv('funding_data.tsv', sep = '\t', index=False)
 
-
+covid_df = data_df[['pmid', 'query', 'search_type', 'page', 'covid']]
+covid_df = covid_df.sort_values(by = ['query', 'search_type', 'page']) 
+covid_df.to_csv('covid_data.tsv', sep = '\t', index=False)
 
 
 
