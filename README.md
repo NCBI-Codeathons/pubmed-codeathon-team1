@@ -32,13 +32,13 @@ The focus for this project is to answer the following research questions:
 * RQ3: Is there a correlation between various publication attributes and retrieved best match search results?
 * RQ4: Is there a difference between search results between best search vs. date order search by Publication Attributes?
 
-The author attributes that were considered are: gender, race, institutional affiliation, country of origin, and author authority (e.g., research impact based on number of hits). The publication attributes that were considered are: NIH funding, language of publication, reading level, diversity of references, associated data, and number of authors and affiliations.
-
-We filtered out certain publication types such as books, errata, and commentary and have relied on both past user search behaviors as well as custom search keywords across these categories: Rare diseases, signaling pathways, social determinants of health and health equities, list of autoimmune diseases, list of cells, infectious bacteria, list of medical devices, and list of drugs.
 
 # METHODS
 ### Basic Workflow
 
+The author attributes that were considered are: gender, race, institutional affiliation, country of origin, and author authority (e.g., research impact based on number of hits). The publication attributes that were considered are: NIH funding, language of publication, reading level, diversity of references, associated data, number of authors and affiliations, clinical translation, research focus (human, aninal or mol/cellular), and covid-focus.
+
+We filtered out certain publication types such as books, errata, and commentary and have relied on both past user search behaviors as well as custom search keywords across these categories: Rare diseases, signaling pathways, social determinants of health and health equities, list of autoimmune diseases, list of cells, infectious bacteria, list of medical devices, and list of drugs.
 ![WFD2](data/visualizations/WFD2.png "High Level Workflow")
 
 1. Read the CSV files of search terms to use as search parameters for PubMed API.
