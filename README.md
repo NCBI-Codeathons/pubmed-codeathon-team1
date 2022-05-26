@@ -228,8 +228,8 @@ The full results for our search terms are provided [here](data/statistics.csv). 
 
 | Feature                      | Comparison                             | p-value   |   Power | Direction   |
 |:-----------------------------|:---------------------------------------|----------:|--------:|:------------|
-| **AIAN First Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.87 | Date        |
-| AIAN Last Author             | Date Order Page 1 vs. Relevance Page 1 | 0.14      |    0.32 | Date        |
+| **ASIAN First Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.87 | Best Match       |
+| ASIAN Last Author             | Date Order Page 1 vs. Relevance Page 1 | 0.14      |    0.32 |Best Match         |
 | **APT Score**                | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date        |
 | **APT Score**                | Relevance Page 1 vs. Relevance Page 2  | <0.01     |    0.93 | Page 1      |
 | **Affiliation Count**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match  |
