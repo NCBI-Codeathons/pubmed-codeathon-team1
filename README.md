@@ -17,7 +17,7 @@ By examining the results across a diverse set of searches, our developed _JustRe
 
 
 # ABSTRACT
-The goal of JUST RETRIEVAL is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (publication date sort algorithm). We achieved this by selecting various correlates that can be broadly divided into author attributes and publication attributes. PubMed and iCite APIs were queried to retrieve top 20 results for these two algorithms and the results were compared across the select correlated. _Add a statement about results and a conclusion_
+The goal of _JustRetrieval_ is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (publication date sort algorithm). We achieved this by selecting various correlates that can be broadly divided into author attributes and publication attributes. PubMed and iCite APIs were queried to retrieve top 20 results for these two algorithms and the results were compared across the select correlated. _Add a statement about results and a conclusion_
 
 # INTRODUCTION
 
@@ -38,8 +38,6 @@ The focus for this project is to answer the following research questions:
 The author attributes that were considered are: gender, race, institutional affiliation, country of origin, and author authority (e.g., research impact based on number of hits). The publication attributes that were considered are: NIH funding, language of publication, reading level, diversity of references, associated data, number of authors and affiliations, clinical translation, research focus (human, animal or mol/cellular), and covid-focus.
 
 We filtered out certain publication types such as books, errata, and commentary and have relied on both past user search behaviors as well as custom search keywords across these categories: Rare diseases, signaling pathways, social determinants of health and health equities, list of autoimmune diseases, list of cells, infectious bacteria, list of medical devices, and list of drugs.
-
-![WFD2](data/visualizations/WFD2.png "High Level Workflow")
 
 1. Read the CSV files of search terms to use as search parameters for PubMed API.
 2. Connect to the APIs (<a href="https://ncbiinsights.ncbi.nlm.nih.gov/2022/03/24/test-server-pubmed-api/">PubMed's eUtils - both BestMatch and Publication Date Sort endpoints</a>) to retrieve PMIDs and corresponding data. 
@@ -215,7 +213,12 @@ This file isn't populated properly for books as it just loads article metadata. 
 
 # RESULTS
 
+ ![first_author_race](data/visualizations/first_author_race.png "First Author Race")
+ ![last_author_race](data/visualizations/last_author_race.png "Last Author Race")
+ ![APT SCORE](data/visualizations/apt_score.png "APT Score differences")
+ ![reference_diversity](data/visualizations/reference_diversity.png "Reference Diversity")
 
+<!--
  ### Gender
  
  ![first_author_gender](data/visualizations/first_author_gender.png "First Author Gender")
@@ -245,7 +248,7 @@ This file isn't populated properly for books as it just loads article metadata. 
  
  ![APT SCORE](data/visualizations/apt_score.png "APT Score differences")
 
-<!-- [APT SCORE](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/blob/main/data/visualizations/apt_score.png)
+ [APT SCORE](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/blob/main/data/visualizations/apt_score.png)
  -->
  
  ### Research Focus (Human, Animal, or Mol/cellular)
