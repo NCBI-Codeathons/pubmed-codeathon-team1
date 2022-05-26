@@ -53,7 +53,10 @@ We filtered out certain publication types such as books, errata, and commentary 
    <br/> 5.2 Compare the author and publication attributes in retrieved results (just 1st page) between the PubMed Best Search and PubMed Date Sort algorithms.
 6. Display the results using Python's visualization libraries (i.e., <a href="https://seaborn.pydata.org">Seaborn</a>, <a href="https://matplotlib.org">Matplotlib</a>) and write observations.
 
-## DATA INFO
+### Data Sources
+1. Manually curated list of search terms and filters (CSV file)
+2. PubMed API
+3. iCite API
 
 ### Pipeline
 
