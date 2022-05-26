@@ -142,7 +142,7 @@ Fields:
 
 This is a list of all the pmids for the terms we're interested in. Here's what the fields mean:
 
-+ `pmid`
++ `pmid` - PubMed ID
 + `query` - query string, read in from [./data/in/team1_search_strats_search_term+.csv](data/in/team1_search_strats_search_terms.csv) (from Travis' google doc)
 + `search_type` - relevant | pubdate_desc
 + `page` - 1 | 2
