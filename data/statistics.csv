@@ -1,0 +1,36 @@
+﻿Significant Stats,Two-Sided t test,Gives Directionality (Positive T: First Comparitor is larger; Negative T: First Comparitor is Smaller),Effect Size,,
+comparison,feature,t_score,cohens_d,p_value,power
+Date Order Page 1 vs. Relevance Page 1,APT Score ,-19.54,2.05,1.80E-58,1
+Relevance Page 1 vs. Relevance Page 2,APT Score ,3.45,0.36,0.000626,0.930401
+Date Order Page 1 vs. Relevance Page 1,Country of Origin of Journal,0.11,0.01,0.91,0.051488
+Relevance Page 1 vs. Relevance Page 2,Country of Origin of Journal,-0.04,0,0.97,0.050174
+Date Order Page 1 vs. Relevance Page 1,Is English Only,6.7,0.7,7.89E-11,1
+Relevance Page 1 vs. Relevance Page 2,Is English Only,1.33,0.14,0.18,0.264965
+Date Order Page 1 vs. Relevance Page 1,FK Readability Title,1.383116,0.14539,0.167487,0.281196
+Relevance Page 1 vs. Relevance Page 2,FK Readability Title,-0.87966,0.092652,0.379644,0.141604
+Date Order Page 1 vs. Relevance Page 1,FK Readability Abstract,2.12,0.223,0.034559,0.561973
+Relevance Page 1 vs. Relevance Page 2,FK Readability Abstract,-0.764543,0.080635,0.445053,0.118878
+Date Order Page 1 vs. Relevance Page 1,Last Author Gender,3.445779,0.118269,0.000576,0.93144
+Relevance Page 1 vs. Relevance Page 2,Last Author Gender,-1.62725,0.05561,0.103776,0.369665
+Date Order Page 1 vs. Relevance Page 1,First Author Gender,2.20359,0.077912,0.027624,0.59635
+Relevance Page 1 vs. Relevance Page 2,First Author Gender,2.660884,0.093379,0.007832,0.75808
+Date Order Page 1 vs. Relevance Page 1,Reference Diversity,-7.816891,0.825208,9.40E-14,1
+Relevance Page 1 vs. Relevance Page 2,Reference Diversity,2.952936,0.311804,0.003364,0.836909
+Date Order Page 1 vs. Relevance Page 1,Relative Citation Ratio,-1.671405,0.240386,0.104153,0.162293
+Relevance Page 1 vs. Relevance Page 2,Relative Citation Ratio,4.47966,0.470135,0.000012,0.993578
+Date Order Page 1 vs. Relevance Page 1,Author Count,13.059445,1.372778,3.56E-32,1
+Relevance Page 1 vs. Relevance Page 2,Author Count,-0.696155,0.073315,0.486794,0.106683
+Date Order Page 1 vs. Relevance Page 1,Affiliation Count,15.840302,1.665096,2.97E-43,1
+Relevance Page 1 vs. Relevance Page 2,Affiliation Count,1.195853,0.126005,0.232548,0.222112
+Date Order Page 1 vs. Relevance Page 1,White First Author,-11.689719,0.482192,1.00E-30,1
+Date Order Page 1 vs. Relevance Page 1,Black First Author,-5.223109,0.250837,1.97E-07,0.999442
+Date Order Page 1 vs. Relevance Page 1,Asian First Author,11.60909,0.509366,3.20E-30,1
+Date Order Page 1 vs. Relevance Page 1,AIAN First Author,-3.094002,0.149191,0.002028,0.8749
+Date Order Page 1 vs. Relevance Page 1,Multi-Race First Author,1.365154,0.058124,0.172345,0.273809
+Date Order Page 1 vs. Relevance Page 1,Hispanic First Author,-0.095438,0.004162,0.923976,0.051042
+Date Order Page 1 vs. Relevance Page 1,White Last Author,-12.621959,0.518963,2.18E-35,1
+Date Order Page 1 vs. Relevance Page 1,Black Last Author,-3.314178,0.156976,0.000938,0.912029
+Date Order Page 1 vs. Relevance Page 1,Asian Last Author,12.726456,0.555411,8.67E-36,1
+Date Order Page 1 vs. Relevance Page 1,AIAN Last Author,-1.473511,0.072019,0.140866,0.3235
+Date Order Page 1 vs. Relevance Page 1,Multi-Race Last Author,1.185382,0.050749,0.235996,0.219603
+Date Order Page 1 vs. Relevance Page 1,Hispanic Last Author,-1.130355,0.049648,0.258459,0.204673
