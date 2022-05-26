@@ -22,7 +22,7 @@ The goal of JUST RETRIEVAL is to describe any potential biases that exist in sea
 
 # INTRODUCTION
 
-Understanding and mitigating bias in medical information is critical to promoting health equity. This includes how scholarly research is retrieved and presented to the end users. PubMed is a free search engine used by millions of users around the world to access ever expanding scholarly literature and resources in biomedical sciences. The NCBI/NLM at the NIH develops and maintains PubMed including the search and retrieval aspects to provide the most relevant information to user searches. In 2018, NCBI team has implemented new search algorithm called Best Match [1] to provide more relevant search results replacing an algorithm based on date sort order. The Best Match algorithm accomplishes this by combining user intelligence (past user searches with relevance ranking factors) with machine learning techniques. Like with any AI/ML algorithm, it is important to ensure that the search results are fair and unbiased to avoid or mitigate bisinformation or biased information [2].
+Understanding and mitigating bias in medical information is critical to promoting health equity in biomedical research and practice. This includes how scholarly research is retrieved and presented to the end users. PubMed is a free search engine used by millions of users around the world to access ever expanding scholarly literature and resources in biomedical sciences. The NCBI/NLM at the NIH develops and maintains PubMed including the search and retrieval aspects to provide the most relevant information to user searches. In 2018, NCBI team has implemented new search algorithm called Best Match [1] to provide more relevant search results replacing an algorithm based on date sort order. The Best Match algorithm accomplishes this by combining user intelligence (past user searches with relevance ranking factors) with machine learning techniques. Like with any AI/ML algorithm, it is important to ensure that the search results are fair and unbiased to avoid or mitigate bisinformation or biased information [2]. Some of the biases in algorithms may stem from the use of past feedback that can lead to "rich-get-richer dynamics", i.e. items ranked higher can reinforce feedback loops influencing future ranking [3].
 
 ### Scope and Research Questions
 The focus for this project is to answer the following research questions:
@@ -203,6 +203,7 @@ _Limitations_
 
 1. Fiorini N, Canese K, Starchenko G, Kireev E, Kim W, Miller V, Osipov M, Kholodov M, Ismagilov R, Mohan S, Ostell J, Lu Z. Best Match: New relevance search for PubMed. PLoS Biol. 2018 Aug 28;16(8):e2005343. doi: 10.1371/journal.pbio.2005343. PMID: 30153250; PMCID: PMC6112631.
 2. Dori-Hacohen, S., Montenegro, R., Murai, F., Hale, S., Sung, K., Blain, M., & Edwards-Johnson, J. (2021). Fairness via AI: Bias Reduction in Medical Information. ArXiv, abs/2109.02202.
+3. Morik, M., Singh, A., Hong, J., & Joachims, T. (2020). Controlling Fairness and Bias in Dynamic Learning-to-Rank. Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval.
 
 # ACKNOWLEDGEMENTS
 
