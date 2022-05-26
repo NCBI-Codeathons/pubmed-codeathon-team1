@@ -101,6 +101,14 @@ This is the data pipeline that describes the datasets used to produce our analys
         data_visualizations_bl.ipynb-->readability_title.png
         pmid_data.csv-->feature_reference_diversity.ipynb
         feature_reference_diversity.ipynb-->reference_diversity.csv
+        data_visualizations_bl.ipynb-->first_author_gender.png
+        data_visualizations_bl.ipynb-->first_author_race.png
+        data_visualizations_bl.ipynb-->last_author_gender.png
+        data_visualizations_bl.ipynb-->last_author_race.png
+        data_visualizations_bl.ipynb-->reference_diversity.png
+        data_visualizations_bl.ipynb-->relative_citation_ratio.png
+        pmid_data.csv-->extract_funding.py
+        extract_funding.py-->funding_and_covid_data.tsv
 ```
 
 ### Data Files
