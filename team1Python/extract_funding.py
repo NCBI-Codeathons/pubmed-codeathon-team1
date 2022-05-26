@@ -86,6 +86,12 @@ grants_revised = [row[0] for row in grants_revised]
 #%% convert to dataframe
 grants_df = pd.DataFrame(grants_revised)
 
+#%% Clarify column names
+grants_df = grants_df.rename(columns = {'country':'grant_country', 'agency':'grant_agency'})
+
+#%%write to tsv
+grants_df.to_csv('pmid_grants.tsv', sep='\t', index=False)
+
 #%% merge grant info with other article info
 data_df = pd.merge(df, grants_df, 'left', on = 'pmid')
 
@@ -113,9 +119,6 @@ us_gov = re.compile("D057689|D013487|D013487|D052060|D052061|D013486|D057666")
 
 data_df['us_gov_funding'] = np.where(data_df['publication_types'].str.contains(us_gov), True, False) 
 data_df['other_funding'] = np.where(data_df['publication_types'].str.contains("D013485"), True, False) 
-
-#%% Clarify column names
-data_df = data_df.rename(columns = {'country':'grant_country', 'agency':'grant_agency'})
 
 #%% Update funding status based on grant data
 data_df['us_gov_funding'] = np.where(((data_df.grant_country == "United States") & (data_df.grant_agency != "Howard Hughes Medical Institute")), True, data_df['us_gov_funding'])
@@ -146,8 +149,3 @@ funding_df.to_csv('funding_data.tsv', sep = '\t', index=False)
 covid_df = data_df[['pmid', 'query', 'search_type', 'page', 'covid']]
 covid_df = covid_df.sort_values(by = ['query', 'search_type', 'page']) 
 covid_df.to_csv('covid_data.tsv', sep = '\t', index=False)
-
-
-
-
-
