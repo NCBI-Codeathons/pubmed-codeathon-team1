@@ -218,6 +218,10 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
  ![last_author_race](data/visualizations/last_author_race.png "Last Author Race")
  ![first_author_race_pbm_p1_vs_p2](data/visualizations/first_author_race_pbm_p1_vs_p2.png "First Author Race in PubMed 1st Vs 2nd Pages")
  
+ ### Author and Affiliation Counts
+ ![author_count](data/visualizations/author_count.png "Author Count")
+ ![affiliation_count](data/visualizations/affiliation_count.png "Affiliation Count")
+ 
  ![is_english_only](data/visualizations/is_english_only.png "English Vs. Non-English")
  
  ![journal_country_of_origin](data/visualizations/journal_country_of_origin.png "Journal Country of Origin")
