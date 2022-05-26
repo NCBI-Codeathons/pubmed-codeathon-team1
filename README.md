@@ -219,6 +219,10 @@ A set of raw xml files retrieved for each pmid in the pmids.csv file.
  
  ![readability_title](data/visualizations/readability_title.png "Title's Readability")
  
+ ![relative citation ratio](data/visualizations/relative_citation_ratio.png "Relative Citation Ratio")
+ 
+ !
+ 
 
 # DISCUSSION
 _Any insights and their significance to various stakeholders (users, PubMed developers (for improving the product), IR researchers (for further investigation)_
