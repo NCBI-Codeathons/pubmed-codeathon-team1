@@ -284,11 +284,16 @@ Continously training and re-training the learning models using representative an
 
 These [insights and their significance](#JustRetrieval) to useful for PubMed stakeholders including: users, PubMed developers, Information Retrieval researchers.
 
+The Best Match algorithm is known to prefer reviews. We hypothesize that this may be driving some of the larger correlations like race and government funding. These insights are derived from our best judgement and the limited time we had to consider the results during the Codeathon.
+
+It seems like RCR score and reference diversity is being driven by a "rich-get-richer" network effort, while APT may be driven by the types of users the data was trained off of (with a preference towards to clinical users).
+
+
 The limitations of this work to be finished in a later study include:
 + Expanding the breadth of search terms
 + Fixing parsing issues (such as books vs articles) 
 + Systematic study of correlation of review articles to determine causality
-
++ Using a control of most recent sort, this suffers from incomplete information from PubMed
 
 # REFERENCES
 
