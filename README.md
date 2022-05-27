@@ -5,17 +5,15 @@ By examining the results across a diverse set of searches, our developed _JustRe
 
 ## Table of Contents
 
-1. [Abstract](#abstract)
-2. [Introduction](#introduction)
-3. [Methods](#methods)
-4. [Results](#results)
-5. [Discussion](#discussion)
-6. [Conclusion](#conclusion)
-7. [References](#references)
-8. [Acknowledgement](#acknowledgements)
-9. [Team Members](#team-members)
+1. [Introduction](#introduction)
+2. [Methods](#methods)
+3. [Results](#results)
+4. [Discussion & Conclusion](#discussion--conclusion)
+5. [References](#references)
+6. [Acknowledgement](#acknowledgements)
+7. [Team Members](#team-members)
 
-# INTRODUCTION
+## INTRODUCTION
 
 The goal of _JustRetrieval_ is to describe any potential biases that exist in search results based on PubMed Best Search Algorithm in comparing the retrieved results between different pages as well as to search results from a different search algorithm (publication date sort algorithm). We achieved this by selecting various correlates that can be broadly divided into author attributes and publication attributes. PubMed and iCite APIs were queried to retrieve top 20 results for these two algorithms and the results were compared across the select correlated. 
 
@@ -29,8 +27,7 @@ The focus for this project is to answer the following research questions:
 * RQ3: Is there a correlation between various publication attributes and retrieved best match search results?
 * RQ4: Is there a difference between search results between best search vs. date order search by Publication Attributes?
 
-
-# METHODS
+## METHODS
 ### Basic Workflow
 
 The author attributes that were considered are: gender, race, institutional affiliation, country of origin, and author authority (e.g., research impact based on number of hits). The publication attributes that were considered are: NIH funding, language of publication, reading level, diversity of references, associated data, number of authors and affiliations, clinical translation, research focus (human, animal or mol/cellular), and covid-focus.
@@ -195,7 +192,6 @@ Grant information is extracted from the pmid_xmls via extract_funding.py
 
 A raw xml response from the pubmed api for each publication. Saved in the format of PMID.xml (e.g., 61455.xml). These aren't used in the analysis as `pmid_data.csv` has all the metadata in csv format. These may be used for confirmation.
 
-
 ##### Notes
 
 This file isn't populated properly for books as it just loads article metadata. This is a small number of items (122 out of 7206 publications) so shouldn't impact results too much.
@@ -212,7 +208,7 @@ This file isn't populated properly for books as it just loads article metadata. 
 
 [Additional data processing in the Wiki](https://github.com/NCBI-Codeathons/pubmed-codeathon-team1/wiki/Data-Management-Team---Scratch)
 
-# RESULTS
+## RESULTS
 
 Here are the most statistically significant attributes from our analysis. For a full list of attribute visualizations, see [visualization.md](visualization.md).
 
@@ -224,53 +220,54 @@ Here are the most statistically significant attributes from our analysis. For a 
 
 The full results for our search terms are provided [here](data/statistics.csv). Summarized results can be found in the table below: 
 
-
-| Feature                      | Comparison                             | p-value   |   Power | Direction   |
+| Feature                      | Comparison                             |   p-value |   Power | Direction   |
 |:-----------------------------|:---------------------------------------|----------:|--------:|:------------|
-| **ASIAN First Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.87 | Date       |
-| ASIAN Last Author             | Date Order Page 1 vs. Relevance Page 1 | 0.14      |    0.32 |Date         |
-| **APT Score**                | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match        |
-| **APT Score**                | Relevance Page 1 vs. Relevance Page 2  | <0.01     |    0.93 | Page 1      |
-| **Affiliation Count**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date  |
-| Affiliation Count            | Relevance Page 1 vs. Relevance Page 2  | 0.23      |    0.22 | Page 1      |
-| Animal Biomed Triangle       | Date Order Page 1 vs. Relevance Page 1 | 0.19      |    0.26 | Best Match  |
-| Animal Biomed Triangle       | Relevance Page 1 vs. Relevance Page 2  | 0.78      |    0.06 | Page 2      |
-| **Asian First Author**       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date  |
-| **Asian Last Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date  |
-| **Author Count**             | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Date  |
-| Author Count                 | Relevance Page 1 vs. Relevance Page 2  | 0.49      |    0.11 | Page        |
-| **Black First Author**       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match        |
-| **Black Last Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.91 | Best Match        |
-| Country of Origin of Journal | Date Order Page 1 vs. Relevance Page 1 | 0.91      |    0.05 | Best Match  |
-| Country of Origin of Journal | Relevance Page 1 vs. Relevance Page 2  | 0.97      |    0.05 | Page 2      |
-| FK Readability Abstract      | Date Order Page 1 vs. Relevance Page 1 | 0.03      |    0.56 | Date  |
-| FK Readability Abstract      | Relevance Page 1 vs. Relevance Page 2  | 0.45      |    0.12 | Page 2      |
-| FK Readability Title         | Date Order Page 1 vs. Relevance Page 1 | 0.17      |    0.28 | Best Match  |
-| FK Readability Title         | Relevance Page 1 vs. Relevance Page 2  | 0.38      |    0.14 | Page 2      |
-| First Author Gender (Female)          | Date Order Page 1 vs. Relevance Page 1 | 0.03      |    0.60 | Date  |
-| **First Author Gender (Female) **      | Relevance Page 1 vs. Relevance Page 2  | 0.01      |    0.76 | Page 2      |
-| Hispanic First Author        | Date Order Page 1 vs. Relevance Page 1 | 0.92      |    0.05 | Date        |
-| Hispanic Last Author         | Date Order Page 1 vs. Relevance Page 1 | 0.26      |    0.20 | Date        |
-| **Human Biomed Triangle**    | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.83 | Best Match        |
-| Human Biomed Triangle        | Relevance Page 1 vs. Relevance Page 2  | 0.71      |    0.07 | Page 1      |
-| **Is English Only**          | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match  |
-| Is English Only              | Relevance Page 1 vs. Relevance Page 2  | 0.18      |    0.26 | Page 1      |
-| **Last Author Gender (Female) **       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    0.93 | Date  |
-| Last Author Gender (Female)           | Relevance Page 1 vs. Relevance Page 2  | 0.1       |    0.37 | Page 2      |
-| Mol_Cell Biomed Triangle     | Date Order Page 1 vs. Relevance Page 1 | 0.02      |    0.63 | Date  |
-| Mol_Cell Biomed Triangle     | Relevance Page 1 vs. Relevance Page 2  | 0.86      |    0.05 | Page 2      |
-| Multi-Race First Author      | Date Order Page 1 vs. Relevance Page 1 | 0.17      |    0.27 | Best Match  |
-| Multi-Race Last Author       | Date Order Page 1 vs. Relevance Page 1 | 0.24      |    0.22 | Best Match  |
-| **Reference Diversity**      | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match        |
-| **Reference Diversity**      | Relevance Page 1 vs. Relevance Page 2  | <0.01     |    0.84 | Page 1      |
-| Relative Citation Ratio      | Date Order Page 1 vs. Relevance Page 1 | 0.10      |    0.16 | Date        |
-| **Relative Citation Ratio**  | Relevance Page 1 vs. Relevance Page 2  | <0.01     |    0.99 | Page 1      |
-| **White First Author**       | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match        |
-| **White Last Author**        | Date Order Page 1 vs. Relevance Page 1 | <0.01     |    1.00 | Best Match        |
+| **AIAN First Author**        | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    0.87 | Date        |
+| AIAN Last Author             | Date Order Page 1 vs. Relevance Page 1 |      0.14 |    0.32 | Date        |
+| **APT Score**                | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    1.00 | Date        |
+| **APT Score**                | Relevance Page 1 vs. Relevance Page 2  |     <0.01 |    0.93 | Page 1      |
+| **Affiliation Count**        | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    1.00 | Best Match  |
+| Affiliation Count            | Relevance Page 1 vs. Relevance Page 2  |      0.23 |    0.22 | Page 1      |
+| Animal Biomed Triangle       | Date Order Page 1 vs. Relevance Page 1 |      0.19 |    0.26 | Best Match  |
+| Animal Biomed Triangle       | Relevance Page 1 vs. Relevance Page 2  |      0.78 |    0.06 | Page 2      |
+| **Asian First Author**       | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    1.00 | Best Match  |
+| **Asian Last Author**        | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    1.00 | Best Match  |
+| **Author Count**             | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    1.00 | Best Match  |
+| Author Count                 | Relevance Page 1 vs. Relevance Page 2  |      0.49 |    0.11 | Page 2      |
+| **Black First Author**       | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    1.00 | Date        |
+| **Black Last Author**        | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    0.91 | Date        |
+| Country of Origin of Journal | Date Order Page 1 vs. Relevance Page 1 |      0.91 |    0.05 | Best Match  |
+| Country of Origin of Journal | Relevance Page 1 vs. Relevance Page 2  |      0.97 |    0.05 | Page 2      |
+| FK Readability Abstract      | Date Order Page 1 vs. Relevance Page 1 |      0.03 |    0.56 | Best Match  |
+| FK Readability Abstract      | Relevance Page 1 vs. Relevance Page 2  |      0.45 |    0.12 | Page 2      |
+| FK Readability Title         | Date Order Page 1 vs. Relevance Page 1 |      0.17 |    0.28 | Best Match  |
+| FK Readability Title         | Relevance Page 1 vs. Relevance Page 2  |      0.38 |    0.14 | Page 2      |
+| First Author Gender          | Date Order Page 1 vs. Relevance Page 1 |      0.03 |    0.60 | Best Match  |
+| **First Author Gender**      | Relevance Page 1 vs. Relevance Page 2  |      0.01 |    0.76 | Page 1      |
+| Hispanic First Author        | Date Order Page 1 vs. Relevance Page 1 |      0.92 |    0.05 | Date        |
+| Hispanic Last Author         | Date Order Page 1 vs. Relevance Page 1 |      0.26 |    0.20 | Date        |
+| **Human Biomed Triangle**    | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    0.83 | Date        |
+| Human Biomed Triangle        | Relevance Page 1 vs. Relevance Page 2  |      0.71 |    0.07 | Page 1      |
+| **Is English Only**          | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    1.00 | Best Match  |
+| Is English Only              | Relevance Page 1 vs. Relevance Page 2  |      0.18 |    0.26 | Page 1      |
+| **Last Author Gender**       | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    0.93 | Best Match  |
+| Last Author Gender           | Relevance Page 1 vs. Relevance Page 2  |      0.10 |    0.37 | Page 2      |
+| Mol_Cell Biomed Triangle     | Date Order Page 1 vs. Relevance Page 1 |      0.02 |    0.63 | Best Match  |
+| Mol_Cell Biomed Triangle     | Relevance Page 1 vs. Relevance Page 2  |      0.86 |    0.05 | Page 2      |
+| Multi-Race First Author      | Date Order Page 1 vs. Relevance Page 1 |      0.17 |    0.27 | Best Match  |
+| Multi-Race Last Author       | Date Order Page 1 vs. Relevance Page 1 |      0.24 |    0.22 | Best Match  |
+| **Other Funding**            | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    1.00 | Date        |
+| Other Funding                | Relevance Page 1 vs. Relevance Page 2  |      0.45 |    0.12 | Page 1      |
+| **Reference Diversity**      | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    1.00 | Date        |
+| **Reference Diversity**      | Relevance Page 1 vs. Relevance Page 2  |     <0.01 |    0.84 | Page 1      |
+| Relative Citation Ratio      | Date Order Page 1 vs. Relevance Page 1 |      0.10 |    0.16 | Date        |
+| **Relative Citation Ratio**  | Relevance Page 1 vs. Relevance Page 2  |     <0.01 |    0.99 | Page 1      |
+| **US Gov Funding**           | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    1.00 | Date        |
+| US Gov Funding               | Relevance Page 1 vs. Relevance Page 2  |      0.01 |    0.71 | Page 1      |
+| **White First Author**       | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    1.00 | Date        |
+| **White Last Author**        | Date Order Page 1 vs. Relevance Page 1 |     <0.01 |    1.00 | Date        |
 
-
-
-# DISCUSSION & CONCLUSION
+## DISCUSSION & CONCLUSION
 
 It is important to detect and mitigate bias in search and retrieval algorithms in order to achieve the three pillars for fairness - transparency, impartiality, and inclusion [5]. Systems continue to be biased as long as the data they receive is biased.  Fairness via AI is based on the assertion that AI can be used to help “detect, mitigate, and remedy situations that are inherently unequal, unjust and unfair in society"[2]. Obermeyer et al [6] offer these strategies to mitigate bias:
 * Document algorithms using transparent methods such as including goal, training process and performance
@@ -292,7 +289,7 @@ The limitations of this work to be finished in a later study include:
 + Systematic study of correlation of review articles to determine causality
 + Using a control of most recent sort, this suffers from incomplete information from PubMed
 
-# REFERENCES
+## REFERENCES
 
 1. Fiorini N, Canese K, Starchenko G, Kireev E, Kim W, Miller V, Osipov M, Kholodov M, Ismagilov R, Mohan S, Ostell J, Lu Z. Best Match: New relevance search for PubMed. PLoS Biol. 2018 Aug 28;16(8):e2005343. doi: 10.1371/journal.pbio.2005343. PMID: 30153250; PMCID: PMC6112631. Available at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6112631/
 2. Dori-Hacohen, S., Montenegro, R., Murai, F., Hale, S., Sung, K., Blain, M., & Edwards-Johnson, J. (2021). Fairness via AI: Bias Reduction in Medical Information. ArXiv, abs/2109.02202. Available at: https://www.researchgate.net/publication/354400541_Fairness_via_AI_Bias_Reduction_in_Medical_Information
@@ -301,11 +298,11 @@ The limitations of this work to be finished in a later study include:
 5. Lever, J., Gakkhar, S., Gottlieb, M., Rashnavadi, T., Lin, S., Siu, C., Smith, M., Jones, M. R., Krzywinski, M., Jones, S., & Wren, J. (2018). A collaborative filtering-based approach to biomedical knowledge discovery. Bioinformatics (Oxford, England), 34(4), 652–659. https://doi.org/10.1093/bioinformatics/btx613
 6. Obermeyer, Z., Nissan, R., Stern, M., Eaneff, S., Bembeneck, E. J., & Mullainathan, S. (2021). Algorithmic Bias Playbook. Center for Applied AI at Chicago Booth. Available at: https://www.ftc.gov/system/files/documents/public_events/1582978/algorithmic-bias-playbook.pdf
 
-# ACKNOWLEDGEMENTS
+## ACKNOWLEDGEMENTS
 
 Thanks to [Team4](https://github.com/NCBI-Codeathons/pubmed-codeathon-team4) and [@Danizen](https://github.com/danizen) for their pubmed api code that we used to pull down articles.
 
-# TEAM MEMBERS
+## TEAM MEMBERS
 
 * Shruthi Chari (data lead)
 * Travis Hoppe (project lead)
@@ -318,5 +315,3 @@ Thanks to [Team4](https://github.com/NCBI-Codeathons/pubmed-codeathon-team4) and
 * Linda M. Hartman
 * Preeti G. Kochar
 * Sridhar Papagari Sangareddy
-
-
